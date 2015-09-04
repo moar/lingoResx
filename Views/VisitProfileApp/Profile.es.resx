@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,52 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddPartner" xml:space="preserve">
-    <value>Conectarse</value>
-  </data>
-  <data name="AdditionalInfo" xml:space="preserve">
-    <value>Información adicional</value>
-  </data>
-  <data name="Block" xml:space="preserve">
-    <value>Bloquear</value>
-  </data>
-  <data name="DeleteFriend" xml:space="preserve">
-    <value>Borrar</value>
-  </data>
-  <data name="FriendRequested" xml:space="preserve">
-    <value>Petición pendiente</value>
-  </data>
-  <data name="Partners" xml:space="preserve">
-    <value>Contacto</value>
-  </data>
-  <data name="LessThanHourAgo" xml:space="preserve">
-    <value>Hace menos de una hora</value>
-  </data>
-  <data name="NewFriendship" xml:space="preserve">
-    <value><![CDATA[<a href="{2}">{0}</a> y<a href="{3}">{1}</a> están ahora en contacto]]></value>
-  </data>
-  <data name="NoFriends" xml:space="preserve">
-    <value>No tiene contactos</value>
-  </data>
-  <data name="Report" xml:space="preserve">
-    <value>Reportar</value>
-  </data>
-  <data name="UpdateLanguage" xml:space="preserve">
-    <value><![CDATA[Ha actualizado el  nivel de <strong>{0}</strong> a {1}]]></value>
-  </data>
-  <data name="XDaysAgo" xml:space="preserve">
-    <value>Hace {0} día(s)</value>
-  </data>
-  <data name="XHoursAgo" xml:space="preserve">
-    <value>Hace {0} hora(s)</value>
-  </data>
-  <data name="NoActivity" xml:space="preserve">
-    <value>No hay actividad aún</value>
-  </data>
-  <data name="ConversationAct" xml:space="preserve">
-    <value><![CDATA[<a href="{0}">{1}</a> ha  hablado {2} durante {3} minutes]]></value>
-  </data>
-  <data name="CancelPartnerRequest" xml:space="preserve">
-    <value>Cancelar petición</value>
-  </data>
-</root>
+  </root>
