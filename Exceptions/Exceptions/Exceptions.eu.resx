@@ -117,22 +117,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  <data name="ExternalLoginRemoved" xml:space="preserve">
-    <value>The external login was removed.</value>
-  </data>
-  <data name="InvalidUserPw" xml:space="preserve">
-    <value>Invalid username or password.</value>
-  </data>
-  <data name="ManageError" xml:space="preserve">
-    <value>An error has occurred.</value>
-  </data>
-  <data name="NotExistingUnconfirmed" xml:space="preserve">
-    <value>The user either does not exist or is not confirmed</value>
-  </data>
-  <data name="PwChanged" xml:space="preserve">
-    <value>Your password has been changed.</value>
-  </data>
-  <data name="PwSet" xml:space="preserve">
-    <value>Your password has been set.</value>
+  <data name="ServerError" xml:space="preserve">
+    <value>Barkatu, arazoren bat izan dugu</value>
   </data>
 </root>

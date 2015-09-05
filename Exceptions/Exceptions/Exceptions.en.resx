@@ -116,23 +116,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
-  <data name="ExternalLoginRemoved" xml:space="preserve">
-    <value>The external login was removed.</value>
+  <data name="FriendsAlreadyException" xml:space="preserve">
+    <value>You are already in contact</value>
   </data>
-  <data name="InvalidUserPw" xml:space="preserve">
-    <value>Invalid username or password.</value>
+  <data name="InvalidDateTimeException" xml:space="preserve">
+    <value>Invalid Date</value>
   </data>
-  <data name="ManageError" xml:space="preserve">
-    <value>An error has occurred.</value>
+  <data name="InvalidUserLanguageException" xml:space="preserve">
+    <value>Invalid user language</value>
   </data>
-  <data name="NotExistingUnconfirmed" xml:space="preserve">
-    <value>The user either does not exist or is not confirmed</value>
+  <data name="LanguageNotFoundException" xml:space="preserve">
+    <value>Language not found</value>
   </data>
-  <data name="PwChanged" xml:space="preserve">
-    <value>Your password has been changed.</value>
+  <data name="MeetupNotFoundException" xml:space="preserve">
+    <value>Meetup not found</value>
   </data>
-  <data name="PwSet" xml:space="preserve">
-    <value>Your password has been set.</value>
+  <data name="NoAccessToRoom" xml:space="preserve">
+    <value>You do not have access to this room</value>
+  </data>
+  <data name="RoomNotExist" xml:space="preserve">
+    <value>Room does not exist</value>
+  </data>
+  <data name="RoomNotFound" xml:space="preserve">
+    <value>Room not found</value>
+  </data>
+  <data name="SelfFriendShipException" xml:space="preserve">
+    <value>You cannot make a contact request to yourself</value>
+  </data>
+  <data name="ServerError" xml:space="preserve">
+    <value>Error in server</value>
+  </data>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>User not found</value>
+  </data>
+  <data name="UserNotInAnyRoom" xml:space="preserve">
+    <value>The user is not in any room</value>
   </data>
 </root>
