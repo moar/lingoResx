@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -118,9 +119,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Chat" xml:space="preserve">
-    <value>Chat</value>
-  </data>
+  
   <data name="ConfigurationIntro" xml:space="preserve">
     <value>Configura tu cuenta rápidamente</value>
   </data>
@@ -147,5 +146,8 @@
   </data>
   <data name="ShowMoreHelp" xml:space="preserve">
     <value>Mostrar más</value>
+  </data>
+  <data name="TileChat" xml:space="preserve">
+    <value>Chat</value>
   </data>
 </root>

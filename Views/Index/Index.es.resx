@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,20 +134,38 @@
   <data name="Free" xml:space="preserve">
     <value>¡Es gratis!</value>
   </data>
+  <data name="IndLangroulette" xml:space="preserve">
+    <value>{0}  es la ruleta de videoconferencias donde conocerás nativos y otros estudiantes para practicar tus idiomas favoritos</value>
+  </data>
+  <data name="IndLanguages" xml:space="preserve">
+    <value>Idiomas</value>
+  </data>
+  <data name="IndNextMeetups" xml:space="preserve">
+    <value>Próximas quedadas en Langroulette</value>
+  </data>
+  <data name="IndParticipants" xml:space="preserve">
+    <value>Participantes</value>
+  </data>
+  <data name="IndPrivacy" xml:space="preserve">
+    <value>Privacidad</value>
+  </data>
+  <data name="IndRegister" xml:space="preserve">
+    <value>Registrarse</value>
+  </data>
+  <data name="IndTerms" xml:space="preserve">
+    <value>Términos</value>
+  </data>
   <data name="Join" xml:space="preserve">
     <value>Apúntate</value>
   </data>
   <data name="KnowPeople" xml:space="preserve">
     <value>Conoce gente</value>
   </data>
-  <data name="Langroulette" xml:space="preserve">
-    <value>{0}  es la ruleta de videoconferencias donde conocerás nativos y otros estudiantes para practicar tus idiomas favoritos</value>
+  <data name="Participants" xml:space="preserve">
+    <value>Participantes</value>
   </data>
   <data name="LanguageEx" xml:space="preserve">
     <value>Tu espacio de intercambio de idiomas en internet</value>
-  </data>
-  <data name="Languages" xml:space="preserve">
-    <value>Idiomas</value>
   </data>
   <data name="LearnLang" xml:space="preserve">
     <value>Aprende idiomas y mejora tu nivel hablando con gente de todo el mundo</value>
@@ -157,23 +176,8 @@
   <data name="ManageMeetup" xml:space="preserve">
     <value>Haz saber a todos cuándo vas a entrar a Langroulette organizando una quedada o apuntándote a una en el {0}</value>
   </data>
-  <data name="NextMeetups" xml:space="preserve">
-    <value>Próximas quedadas en Langroulette</value>
-  </data>
-  <data name="Participants" xml:space="preserve">
-    <value>Participantes</value>
-  </data>
-  <data name="Privacy" xml:space="preserve">
-    <value>Privacidad</value>
-  </data>
-  <data name="Register" xml:space="preserve">
-    <value>Registrarse</value>
-  </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>
-  </data>
-  <data name="Terms" xml:space="preserve">
-    <value>Términos</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Visita Langademy</value>

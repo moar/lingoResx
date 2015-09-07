@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,20 +134,38 @@
   <data name="Free" xml:space="preserve">
     <value>Doakoa da!</value>
   </data>
+  <data name="IndLangroulette" xml:space="preserve">
+    <value>{0}  bideo konferentzia bidezko erruleta bat da. Bertan hiztun natiboak aurkituko dituzu zure hizkuntza gogokoenak praktika ditzatzun</value>
+  </data>
+  <data name="IndLanguages" xml:space="preserve">
+    <value>Hizkuntzak</value>
+  </data>
+  <data name="IndNextMeetups" xml:space="preserve">
+    <value>Hurrengo bilerak Langroulettean</value>
+  </data>
+  <data name="IndParticipants" xml:space="preserve">
+    <value>Partaideak</value>
+  </data>
+  <data name="IndPrivacy" xml:space="preserve">
+    <value>Pribazitatea</value>
+  </data>
+  <data name="IndRegister" xml:space="preserve">
+    <value>Izena eman</value>
+  </data>
+  <data name="IndTerms" xml:space="preserve">
+    <value>Baldintzak</value>
+  </data>
   <data name="Join" xml:space="preserve">
     <value>Izena eman</value>
   </data>
   <data name="KnowPeople" xml:space="preserve">
     <value>Jende berria ezagutu ezazu</value>
   </data>
-  <data name="Langroulette" xml:space="preserve">
-    <value>{0}  bideo konferentzia bidezko erruleta bat da. Bertan hiztun natiboak aurkituko dituzu zure hizkuntza gogokoenak praktika ditzatzun</value>
+  <data name="Participants" xml:space="preserve">
+    <value>Partaideak</value>
   </data>
   <data name="LanguageEx" xml:space="preserve">
     <value>Hizkuntza elkartrukerako sareko zure gunea</value>
-  </data>
-  <data name="Languages" xml:space="preserve">
-    <value>Hizkuntzak</value>
   </data>
   <data name="LearnLang" xml:space="preserve">
     <value>Hizkuntzak ikasi eta zure maila hobetu mundu osoko jendearekin hitz eginaz</value>
@@ -157,23 +176,8 @@
   <data name="ManageMeetup" xml:space="preserve">
     <value>Izena eman edo sortu ezazu bilera bat {0}n, eta eman iezaiezu jatikera zure lagunei noiz joango zaren</value>
   </data>
-  <data name="NextMeetups" xml:space="preserve">
-    <value>Hurrengo bilerak Langroulettean</value>
-  </data>
-  <data name="Participants" xml:space="preserve">
-    <value>Partaideak</value>
-  </data>
-  <data name="Privacy" xml:space="preserve">
-    <value>Pribazitatea</value>
-  </data>
-  <data name="Register" xml:space="preserve">
-    <value>Izena eman</value>
-  </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Hitz egin ezazu zure jatorrizko hizkuntzan eta eskaini duzun denbora zuri oparituko dizugu nahi dituzun hizkuntzak praktika ditzazun</value>
-  </data>
-  <data name="Terms" xml:space="preserve">
-    <value>Baldintzak</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Bisita ezazu Langademy</value>

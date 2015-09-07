@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -135,7 +136,7 @@
     <value>Tablón de quedadas</value>
   </data>
   <data name="MessageApp" xml:space="preserve">
-    <value>Mensajería</value>
+    <value>Mensajes</value>
   </data>
   <data name="ProfileApp" xml:space="preserve">
     <value>Configuración del perfil</value>

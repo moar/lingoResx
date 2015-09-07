@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -118,7 +119,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CalleeBusy" xml:space="preserve">
-    <value>{0} is busy right now. Try it later</value>
+    <value>{0} is busy right now. Try later</value>
   </data>
   <data name="CalleeNoChatHours" xml:space="preserve">
     <value>{0} does not have enough chat hours to speak with you</value>
@@ -130,7 +131,7 @@
     <value>{0} is not connected now</value>
   </data>
   <data name="CallerNoWebrtc" xml:space="preserve">
-    <value>You browser does support not video calls. Try it with the latest versions of Chrome, Firefox or Opera.</value>
+    <value>You browser does not support not videocalls. Try the latest versions of Chrome, Firefox or Opera.</value>
   </data>
   <data name="CallingError" xml:space="preserve">
     <value>An error has ocurred trying to establish the call</value>

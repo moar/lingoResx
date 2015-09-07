@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -131,9 +132,6 @@
   <data name="CurrentTimeBalance" xml:space="preserve">
     <value>Balance de horas actual</value>
   </data>
-  <data name="Duration" xml:space="preserve">
-    <value>Duración</value>
-  </data>
   <data name="HoursBagEarning" xml:space="preserve">
     <value>Ganancia para el Banco de Tiempo</value>
   </data>
@@ -169,6 +167,9 @@
   </data>
   <data name="TimeLeft" xml:space="preserve">
     <value>Tiempo restante</value>
+  </data>
+  <data name="VCDuration" xml:space="preserve">
+    <value>Duración</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
     <value>Esperando a la camara de {0}</value>
