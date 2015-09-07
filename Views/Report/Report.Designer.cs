@@ -88,6 +88,15 @@ namespace Resources.Views.Report {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Maximun length is 2000 characters.
+        /// </summary>
+        public static string ReportMaxLength {
+            get {
+                return ResourceManager.GetString("ReportMaxLength", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Select a reason.
         /// </summary>
         public static string SelectReason {

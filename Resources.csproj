@@ -74,6 +74,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Apps\Apps.en.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Apps.en.resx</DependentUpon>
+    </Compile>
     <Compile Include="Apps\Apps1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -149,16 +154,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MessagingHub.en.resx</DependentUpon>
     </Compile>
-    <Compile Include="LanguagesUI\LanguagesUI.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LanguagesUI.resx</DependentUpon>
-    </Compile>
-    <Compile Include="LanguagesUI\LanguagesUI.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LanguagesUI.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Languages\LanguageLevels.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -179,6 +174,16 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Languages.en.resx</DependentUpon>
     </Compile>
+    <Compile Include="Models\Buttons\Buttons.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Buttons.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Buttons\Buttons.en.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Buttons.en.resx</DependentUpon>
+    </Compile>
     <Compile Include="Models\DateTime\DateTime.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -188,6 +193,16 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DateTime.en.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Section\Section.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Section.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Section\Section.en.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Section.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Models\Tiles\Tiles.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -537,20 +552,6 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>MessagingHub.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="LanguagesUI\LanguagesUI.ca.resx" />
-    <EmbeddedResource Include="LanguagesUI\LanguagesUI.de.resx" />
-    <EmbeddedResource Include="LanguagesUI\LanguagesUI.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>LanguagesUI.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="LanguagesUI\LanguagesUI.es.resx" />
-    <EmbeddedResource Include="LanguagesUI\LanguagesUI.eu.resx" />
-    <EmbeddedResource Include="LanguagesUI\LanguagesUI.fr.resx" />
-    <EmbeddedResource Include="LanguagesUI\LanguagesUI.it.resx" />
-    <EmbeddedResource Include="LanguagesUI\LanguagesUI.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>LanguagesUI.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Languages\LanguageLevels.ca.resx" />
     <EmbeddedResource Include="Languages\LanguageLevels.de.resx" />
     <EmbeddedResource Include="Languages\LanguageLevels.en.resx">
@@ -579,6 +580,20 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Languages.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Models\Buttons\Buttons.ca.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.de.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.en.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Buttons.en.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\Buttons\Buttons.es.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.eu.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.fr.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.it.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Buttons.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Models\DateTime\DateTime.ca.resx" />
     <EmbeddedResource Include="Models\DateTime\DateTime.de.resx" />
     <EmbeddedResource Include="Models\DateTime\DateTime.en.resx">
@@ -593,9 +608,24 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>DateTime.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Models\Section\Section.ca.resx" />
+    <EmbeddedResource Include="Models\Section\Section.de.resx" />
+    <EmbeddedResource Include="Models\Section\Section.en.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Section.en.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\Section\Section.es.resx" />
+    <EmbeddedResource Include="Models\Section\Section.eu.resx" />
+    <EmbeddedResource Include="Models\Section\Section.fr.resx" />
+    <EmbeddedResource Include="Models\Section\Section.it.resx" />
+    <EmbeddedResource Include="Models\Section\Section.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Section.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Models\Tiles\Tiles.ca.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.cat.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.de.resx" />
+    <EmbeddedResource Include="Models\Tiles\Tiles.en.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.es.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.eu.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.fr.resx" />

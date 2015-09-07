@@ -61,15 +61,6 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About.
-        /// </summary>
-        public static string About {
-            get {
-                return ResourceManager.GetString("About", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to &lt;a href=&quot;#&quot;&gt;&lt;strong&gt;meetup board&lt;/strong&gt;&lt;/a&gt;.
         /// </summary>
         public static string Board {
@@ -106,6 +97,78 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to About.
+        /// </summary>
+        public static string IndAbout {
+            get {
+                return ResourceManager.GetString("IndAbout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0}  is a videochat roulette where you will find native speakers to practice your favourite languages.
+        /// </summary>
+        public static string IndLangroulette {
+            get {
+                return ResourceManager.GetString("IndLangroulette", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Languages.
+        /// </summary>
+        public static string IndLanguages {
+            get {
+                return ResourceManager.GetString("IndLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next Meetups.
+        /// </summary>
+        public static string IndNextMeetups {
+            get {
+                return ResourceManager.GetString("IndNextMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Participants.
+        /// </summary>
+        public static string IndParticipants {
+            get {
+                return ResourceManager.GetString("IndParticipants", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Privacy - Langademy.
+        /// </summary>
+        public static string IndPrivacy {
+            get {
+                return ResourceManager.GetString("IndPrivacy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Register.
+        /// </summary>
+        public static string IndRegister {
+            get {
+                return ResourceManager.GetString("IndRegister", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Terms and Conditions - Langademy.
+        /// </summary>
+        public static string IndTerms {
+            get {
+                return ResourceManager.GetString("IndTerms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Join.
         /// </summary>
         public static string Join {
@@ -124,29 +187,11 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0}  is a videochat roulette where you will find native speakers to practice your favourite languages.
-        /// </summary>
-        public static string Langroulette {
-            get {
-                return ResourceManager.GetString("Langroulette", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Your online language exchange community.
         /// </summary>
         public static string LanguageEx {
             get {
                 return ResourceManager.GetString("LanguageEx", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Languages.
-        /// </summary>
-        public static string Languages {
-            get {
-                return ResourceManager.GetString("Languages", resourceCulture);
             }
         }
         
@@ -178,56 +223,11 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next Meetups.
-        /// </summary>
-        public static string NextMeetups {
-            get {
-                return ResourceManager.GetString("NextMeetups", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Participants.
-        /// </summary>
-        public static string Participants {
-            get {
-                return ResourceManager.GetString("Participants", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Privacy - Langademy.
-        /// </summary>
-        public static string Privacy {
-            get {
-                return ResourceManager.GetString("Privacy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Register.
-        /// </summary>
-        public static string Register {
-            get {
-                return ResourceManager.GetString("Register", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Speak in your native language and we will give you the same time so you can practice other languages.
         /// </summary>
         public static string SpeakNative {
             get {
                 return ResourceManager.GetString("SpeakNative", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Terms and Conditions - Langademy.
-        /// </summary>
-        public static string Terms {
-            get {
-                return ResourceManager.GetString("Terms", resourceCulture);
             }
         }
         

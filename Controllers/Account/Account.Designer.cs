@@ -61,11 +61,11 @@ namespace Resources.Controllers.Account {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm your email.
+        ///   Looks up a localized string similar to You have to confirm your email address. Check your inbox!.
         /// </summary>
-        public static string ConfirmEmail {
+        public static string AccountConfirmEmail {
             get {
-                return ResourceManager.GetString("ConfirmEmail", resourceCulture);
+                return ResourceManager.GetString("AccountConfirmEmail", resourceCulture);
             }
         }
         

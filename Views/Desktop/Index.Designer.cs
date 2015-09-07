@@ -108,9 +108,18 @@ namespace Resources.Views.Desktop {
         /// <summary>
         ///   Looks up a localized string similar to Busy.
         /// </summary>
-        public static string Busy {
+        public static string DeskBusy {
             get {
-                return ResourceManager.GetString("Busy", resourceCulture);
+                return ResourceManager.GetString("DeskBusy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Languages.
+        /// </summary>
+        public static string DeskLanguages {
+            get {
+                return ResourceManager.GetString("DeskLanguages", resourceCulture);
             }
         }
         
@@ -201,6 +210,15 @@ namespace Resources.Views.Desktop {
         public static string TodayLangs {
             get {
                 return ResourceManager.GetString("TodayLangs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View profile.
+        /// </summary>
+        public static string ViewProfile {
+            get {
+                return ResourceManager.GetString("ViewProfile", resourceCulture);
             }
         }
     }

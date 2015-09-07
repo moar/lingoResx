@@ -115,15 +115,6 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Date.
-        /// </summary>
-        public static string Date {
-            get {
-                return ResourceManager.GetString("Date", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to There is already a meetup at this time for speaking {0}. Join it instead of creating a new one.
         /// </summary>
         public static string ExistingMeetupLanguage {
@@ -156,6 +147,33 @@ namespace Resources.Views.MeetupBoard {
         public static string InviteContactsDesc {
             get {
                 return ResourceManager.GetString("InviteContactsDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date.
+        /// </summary>
+        public static string MBDate {
+            get {
+                return ResourceManager.GetString("MBDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Languages.
+        /// </summary>
+        public static string MBLanguages {
+            get {
+                return ResourceManager.GetString("MBLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next meetups.
+        /// </summary>
+        public static string MBNextMeetups {
+            get {
+                return ResourceManager.GetString("MBNextMeetups", resourceCulture);
             }
         }
         
@@ -259,6 +277,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Participants.
+        /// </summary>
+        public static string Participants {
+            get {
+                return ResourceManager.GetString("Participants", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The starting date and time of the meetup are required.
         /// </summary>
         public static string ReqDateTime {
@@ -282,6 +309,15 @@ namespace Resources.Views.MeetupBoard {
         public static string SelectedContactsHeader {
             get {
                 return ResourceManager.GetString("SelectedContactsHeader", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select language.
+        /// </summary>
+        public static string SelectMeetupLanguage {
+            get {
+                return ResourceManager.GetString("SelectMeetupLanguage", resourceCulture);
             }
         }
         

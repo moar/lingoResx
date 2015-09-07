@@ -142,29 +142,11 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to hours.
-        /// </summary>
-        public static string Hours {
-            get {
-                return ResourceManager.GetString("Hours", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Less than hour ago.
         /// </summary>
         public static string LessThanHourAgo {
             get {
                 return ResourceManager.GetString("LessThanHourAgo", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to minutes.
-        /// </summary>
-        public static string Minutes {
-            get {
-                return ResourceManager.GetString("Minutes", resourceCulture);
             }
         }
         
@@ -205,6 +187,42 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to hours.
+        /// </summary>
+        public static string PHours {
+            get {
+                return ResourceManager.GetString("PHours", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to minutes.
+        /// </summary>
+        public static string PMinutes {
+            get {
+                return ResourceManager.GetString("PMinutes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to About.
+        /// </summary>
+        public static string PrAbout {
+            get {
+                return ResourceManager.GetString("PrAbout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to minutes.
+        /// </summary>
+        public static string ProfMinutes {
+            get {
+                return ResourceManager.GetString("ProfMinutes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Report.
         /// </summary>
         public static string Report {
@@ -219,6 +237,24 @@ namespace Resources.Views.VisitProfileApp {
         public static string UpdateLanguage {
             get {
                 return ResourceManager.GetString("UpdateLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Videocall.
+        /// </summary>
+        public static string Videocall {
+            get {
+                return ResourceManager.GetString("Videocall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Languages.
+        /// </summary>
+        public static string VPLanguages {
+            get {
+                return ResourceManager.GetString("VPLanguages", resourceCulture);
             }
         }
         

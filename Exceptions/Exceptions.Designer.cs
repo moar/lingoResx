@@ -61,6 +61,15 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sorry, but something went wrong.
+        /// </summary>
+        public static string ExcServerError {
+            get {
+                return ResourceManager.GetString("ExcServerError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You are already in contact.
         /// </summary>
         public static string FriendsAlreadyException {
@@ -79,7 +88,7 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Invalid user language.
         /// </summary>
         public static string InvalidUserLanguageException {
             get {
@@ -138,15 +147,6 @@ namespace Resources.Exceptions {
         public static string SelfFriendShipException {
             get {
                 return ResourceManager.GetString("SelfFriendShipException", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Error in server.
-        /// </summary>
-        public static string ServerError {
-            get {
-                return ResourceManager.GetString("ServerError", resourceCulture);
             }
         }
         

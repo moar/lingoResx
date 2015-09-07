@@ -232,6 +232,15 @@ namespace Resources.Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Catalan.
+        /// </summary>
+        public static string ca_ES {
+            get {
+                return ResourceManager.GetString("ca-ES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Corsican.
         /// </summary>
         public static string co {
@@ -277,6 +286,15 @@ namespace Resources.Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to German.
+        /// </summary>
+        public static string de_DE {
+            get {
+                return ResourceManager.GetString("de-DE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Lower Sorbian.
         /// </summary>
         public static string dsb {
@@ -304,6 +322,51 @@ namespace Resources.Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to English.
+        /// </summary>
+        public static string en {
+            get {
+                return ResourceManager.GetString("en", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English.
+        /// </summary>
+        public static string en_GB {
+            get {
+                return ResourceManager.GetString("en-GB", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English (USA).
+        /// </summary>
+        public static string en_US {
+            get {
+                return ResourceManager.GetString("en-US", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish.
+        /// </summary>
+        public static string es {
+            get {
+                return ResourceManager.GetString("es", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish.
+        /// </summary>
+        public static string es_ES {
+            get {
+                return ResourceManager.GetString("es-ES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Estonian.
         /// </summary>
         public static string et {
@@ -318,6 +381,15 @@ namespace Resources.Languages {
         public static string eu {
             get {
                 return ResourceManager.GetString("eu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Basque.
+        /// </summary>
+        public static string eu_ES {
+            get {
+                return ResourceManager.GetString("eu-ES", resourceCulture);
             }
         }
         
@@ -363,6 +435,15 @@ namespace Resources.Languages {
         public static string fr {
             get {
                 return ResourceManager.GetString("fr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French.
+        /// </summary>
+        public static string fr_FR {
+            get {
+                return ResourceManager.GetString("fr-FR", resourceCulture);
             }
         }
         
@@ -529,6 +610,15 @@ namespace Resources.Languages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Italian.
+        /// </summary>
+        public static string it_IT {
+            get {
+                return ResourceManager.GetString("it-IT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Inuktitut.
         /// </summary>
         public static string iu {
@@ -655,7 +745,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to kkLithuanian.
+        ///   Looks up a localized string similar to Lithuanian.
         /// </summary>
         public static string lt {
             get {
@@ -1060,7 +1150,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to kSwedish.
+        ///   Looks up a localized string similar to Swedish.
         /// </summary>
         public static string sv {
             get {
@@ -1105,7 +1195,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to kkTajik.
+        ///   Looks up a localized string similar to Tajik.
         /// </summary>
         public static string tg {
             get {
@@ -1123,7 +1213,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to kThai.
+        ///   Looks up a localized string similar to Thai.
         /// </summary>
         public static string th {
             get {
@@ -1294,7 +1384,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to kChinese (Traditional) Legacy.
+        ///   Looks up a localized string similar to Chinese (Traditional) Legacy.
         /// </summary>
         public static string zh_CHT {
             get {

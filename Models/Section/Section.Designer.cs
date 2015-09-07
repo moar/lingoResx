@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Resources.ViewModels.Contacts {
+namespace Resources.Models.Section {
     using System;
     
     
@@ -22,14 +22,14 @@ namespace Resources.ViewModels.Contacts {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class Contact {
+    public class Section {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Contact() {
+        internal Section() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace Resources.ViewModels.Contacts {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.ViewModels.Contacts.Contact", typeof(Contact).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Models.Section.Section", typeof(Section).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,29 +61,38 @@ namespace Resources.ViewModels.Contacts {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Available.
+        ///   Looks up a localized string similar to Langademy Challenge.
         /// </summary>
-        public static string ConAvailable {
+        public static string LangademyChallenge {
             get {
-                return ResourceManager.GetString("ConAvailable", resourceCulture);
+                return ResourceManager.GetString("LangademyChallenge", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Busy.
+        ///   Looks up a localized string similar to Language Exchange.
         /// </summary>
-        public static string ConBusy {
+        public static string LanguageExchange {
             get {
-                return ResourceManager.GetString("ConBusy", resourceCulture);
+                return ResourceManager.GetString("LanguageExchange", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Offline.
+        ///   Looks up a localized string similar to My Langademy.
         /// </summary>
-        public static string ConOffline {
+        public static string MyLangademy {
             get {
-                return ResourceManager.GetString("ConOffline", resourceCulture);
+                return ResourceManager.GetString("MyLangademy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Configuration.
+        /// </summary>
+        public static string SecConfiguration {
+            get {
+                return ResourceManager.GetString("SecConfiguration", resourceCulture);
             }
         }
     }

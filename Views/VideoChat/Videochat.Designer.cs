@@ -97,15 +97,6 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Duration.
-        /// </summary>
-        public static string Duration {
-            get {
-                return ResourceManager.GetString("Duration", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Earning for the Time Bank.
         /// </summary>
         public static string HoursBagEarning {
@@ -219,6 +210,15 @@ namespace Resources.Views.VideoChat {
         public static string Title {
             get {
                 return ResourceManager.GetString("Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Duration.
+        /// </summary>
+        public static string VCDuration {
+            get {
+                return ResourceManager.GetString("VCDuration", resourceCulture);
             }
         }
         

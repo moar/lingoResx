@@ -79,6 +79,15 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to About Langademy.
+        /// </summary>
+        public static string LAbout {
+            get {
+                return ResourceManager.GetString("LAbout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to In Langroulette you will meet new partners to practice the language you want to learn. Get fluent in a language while you meet new people!.
         /// </summary>
         public static string LRDescription {
@@ -102,6 +111,33 @@ namespace Resources.Views.Layout {
         public static string LRTitle {
             get {
                 return ResourceManager.GetString("LRTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Privacy - Langademy.
+        /// </summary>
+        public static string MainPrivacy {
+            get {
+                return ResourceManager.GetString("MainPrivacy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Terms and Conditions - Langademy.
+        /// </summary>
+        public static string MainTerms {
+            get {
+                return ResourceManager.GetString("MainTerms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language Exchange.
+        /// </summary>
+        public static string MainTitle {
+            get {
+                return ResourceManager.GetString("MainTitle", resourceCulture);
             }
         }
         

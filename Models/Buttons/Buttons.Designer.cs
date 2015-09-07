@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Resources.LanguagesUI {
+namespace Resources.Models.Buttons {
     using System;
     
     
@@ -22,14 +22,14 @@ namespace Resources.LanguagesUI {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class LanguagesUI {
+    public class Buttons {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal LanguagesUI() {
+        internal Buttons() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace Resources.LanguagesUI {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.LanguagesUI.LanguagesUI", typeof(LanguagesUI).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Models.Buttons.Buttons", typeof(Buttons).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,92 +61,92 @@ namespace Resources.LanguagesUI {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Catalan.
+        ///   Looks up a localized string similar to Add.
         /// </summary>
-        public static string ca_ES {
+        public static string Add {
             get {
-                return ResourceManager.GetString("ca-ES", resourceCulture);
+                return ResourceManager.GetString("Add", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to German.
+        ///   Looks up a localized string similar to Cancel.
         /// </summary>
-        public static string de_DE {
+        public static string Cancel {
             get {
-                return ResourceManager.GetString("de-DE", resourceCulture);
+                return ResourceManager.GetString("Cancel", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to English.
+        ///   Looks up a localized string similar to OK.
         /// </summary>
-        public static string en {
+        public static string Confirm {
             get {
-                return ResourceManager.GetString("en", resourceCulture);
+                return ResourceManager.GetString("Confirm", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to English.
+        ///   Looks up a localized string similar to Delete.
         /// </summary>
-        public static string en_GB {
+        public static string Delete {
             get {
-                return ResourceManager.GetString("en-GB", resourceCulture);
+                return ResourceManager.GetString("Delete", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to English (USA).
+        ///   Looks up a localized string similar to Edit.
         /// </summary>
-        public static string en_US {
+        public static string Edit {
             get {
-                return ResourceManager.GetString("en-US", resourceCulture);
+                return ResourceManager.GetString("Edit", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Spanish.
+        ///   Looks up a localized string similar to Leave.
         /// </summary>
-        public static string es {
+        public static string Leave {
             get {
-                return ResourceManager.GetString("es", resourceCulture);
+                return ResourceManager.GetString("Leave", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Spanish.
+        ///   Looks up a localized string similar to OK.
         /// </summary>
-        public static string es_ES {
+        public static string OK {
             get {
-                return ResourceManager.GetString("es-ES", resourceCulture);
+                return ResourceManager.GetString("OK", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Basque.
+        ///   Looks up a localized string similar to Retry call.
         /// </summary>
-        public static string eu_ES {
+        public static string RetryCall {
             get {
-                return ResourceManager.GetString("eu-ES", resourceCulture);
+                return ResourceManager.GetString("RetryCall", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to French.
+        ///   Looks up a localized string similar to Save.
         /// </summary>
-        public static string fr_FR {
+        public static string Save {
             get {
-                return ResourceManager.GetString("fr-FR", resourceCulture);
+                return ResourceManager.GetString("Save", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Italian.
+        ///   Looks up a localized string similar to Submit.
         /// </summary>
-        public static string it_IT {
+        public static string Submit {
             get {
-                return ResourceManager.GetString("it-IT", resourceCulture);
+                return ResourceManager.GetString("Submit", resourceCulture);
             }
         }
     }

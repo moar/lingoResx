@@ -61,24 +61,6 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm your email.
-        /// </summary>
-        public static string ConfirmEmail {
-            get {
-                return ResourceManager.GetString("ConfirmEmail", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Connection request.
-        /// </summary>
-        public static string FriendRequest {
-            get {
-                return ResourceManager.GetString("FriendRequest", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Langademy Invitation.
         /// </summary>
         public static string InvitationSubject {
@@ -88,20 +70,38 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Confirm your email.
+        /// </summary>
+        public static string MailConfirmEmail {
+            get {
+                return ResourceManager.GetString("MailConfirmEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Connection request.
+        /// </summary>
+        public static string MailFriendRequest {
+            get {
+                return ResourceManager.GetString("MailFriendRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New meetup participants.
+        /// </summary>
+        public static string MailNewMeetupParticipants {
+            get {
+                return ResourceManager.GetString("MailNewMeetupParticipants", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Meetup alert.
         /// </summary>
         public static string MeetupAlerta {
             get {
                 return ResourceManager.GetString("MeetupAlerta", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to New meetup participant.
-        /// </summary>
-        public static string NewMeetupParticipant {
-            get {
-                return ResourceManager.GetString("NewMeetupParticipant", resourceCulture);
             }
         }
         

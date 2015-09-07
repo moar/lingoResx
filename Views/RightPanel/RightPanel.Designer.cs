@@ -88,15 +88,6 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Contacts.
-        /// </summary>
-        public static string Contacts {
-            get {
-                return ResourceManager.GetString("Contacts", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Decline.
         /// </summary>
         public static string Decline {
@@ -160,6 +151,33 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Contacts.
+        /// </summary>
+        public static string RPContacts {
+            get {
+                return ResourceManager.GetString("RPContacts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Videocall.
+        /// </summary>
+        public static string RPVideocall {
+            get {
+                return ResourceManager.GetString("RPVideocall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View profile.
+        /// </summary>
+        public static string RPViewProfile {
+            get {
+                return ResourceManager.GetString("RPViewProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Send message.
         /// </summary>
         public static string SendMessage {
@@ -174,24 +192,6 @@ namespace Resources.Views.RightPanel {
         public static string ShowAll {
             get {
                 return ResourceManager.GetString("ShowAll", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Videocall.
-        /// </summary>
-        public static string Videocall {
-            get {
-                return ResourceManager.GetString("Videocall", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to View profile.
-        /// </summary>
-        public static string ViewProfile {
-            get {
-                return ResourceManager.GetString("ViewProfile", resourceCulture);
             }
         }
         

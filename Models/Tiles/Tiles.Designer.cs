@@ -61,15 +61,6 @@ namespace Resources.Models.Tiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chat.
-        /// </summary>
-        public static string Chat {
-            get {
-                return ResourceManager.GetString("Chat", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Account quick set up.
         /// </summary>
         public static string ConfigurationIntro {
@@ -147,6 +138,33 @@ namespace Resources.Models.Tiles {
         public static string ShowMoreHelp {
             get {
                 return ResourceManager.GetString("ShowMoreHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chat.
+        /// </summary>
+        public static string TileChat {
+            get {
+                return ResourceManager.GetString("TileChat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Configuration.
+        /// </summary>
+        public static string TileConfiguration {
+            get {
+                return ResourceManager.GetString("TileConfiguration", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Contacts.
+        /// </summary>
+        public static string TileContacts {
+            get {
+                return ResourceManager.GetString("TileContacts", resourceCulture);
             }
         }
     }

@@ -142,6 +142,15 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Date.
+        /// </summary>
+        public static string TBDate {
+            get {
+                return ResourceManager.GetString("TBDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Time Bank.
         /// </summary>
         public static string TitleHoursBag {

@@ -88,6 +88,15 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add language.
+        /// </summary>
+        public static string AddLanguage {
+            get {
+                return ResourceManager.GetString("AddLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Off.
         /// </summary>
         public static string AlertOff {
@@ -138,15 +147,6 @@ namespace Resources.Views.ProfileApp {
         public static string CropHeading {
             get {
                 return ResourceManager.GetString("CropHeading", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Edit Profile.
-        /// </summary>
-        public static string EditProfile {
-            get {
-                return ResourceManager.GetString("EditProfile", resourceCulture);
             }
         }
         
@@ -315,9 +315,9 @@ namespace Resources.Views.ProfileApp {
         /// <summary>
         ///   Looks up a localized string similar to Select language.
         /// </summary>
-        public static string SelectLanguage {
+        public static string ProfSelectLanguage {
             get {
-                return ResourceManager.GetString("SelectLanguage", resourceCulture);
+                return ResourceManager.GetString("ProfSelectLanguage", resourceCulture);
             }
         }
         

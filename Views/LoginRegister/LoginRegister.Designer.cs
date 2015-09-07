@@ -187,6 +187,51 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Email.
+        /// </summary>
+        public static string LREmail {
+            get {
+                return ResourceManager.GetString("LREmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Login.
+        /// </summary>
+        public static string LRLogin {
+            get {
+                return ResourceManager.GetString("LRLogin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The name must be at least {2} characters long and shorter than {1} characters.
+        /// </summary>
+        public static string LRNameLength {
+            get {
+                return ResourceManager.GetString("LRNameLength", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Register.
+        /// </summary>
+        public static string LRRegister {
+            get {
+                return ResourceManager.GetString("LRRegister", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The field name is required.
+        /// </summary>
+        public static string LRReqName {
+            get {
+                return ResourceManager.GetString("LRReqName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The {0} must be at least {2} characters long..
         /// </summary>
         public static string MinLength {

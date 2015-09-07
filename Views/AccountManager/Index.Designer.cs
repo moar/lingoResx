@@ -61,6 +61,15 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Notifications.
+        /// </summary>
+        public static string AccNotifications {
+            get {
+                return ResourceManager.GetString("AccNotifications", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Account.
         /// </summary>
         public static string Account {
@@ -75,6 +84,15 @@ namespace Resources.Views.AccountManager {
         public static string Accounts {
             get {
                 return ResourceManager.GetString("Accounts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Settings.
+        /// </summary>
+        public static string AccSettings {
+            get {
+                return ResourceManager.GetString("AccSettings", resourceCulture);
             }
         }
         
@@ -138,6 +156,15 @@ namespace Resources.Views.AccountManager {
         public static string OldPassword {
             get {
                 return ResourceManager.GetString("OldPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select language.
+        /// </summary>
+        public static string SelectLanguage {
+            get {
+                return ResourceManager.GetString("SelectLanguage", resourceCulture);
             }
         }
         
