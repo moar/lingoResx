@@ -151,7 +151,7 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to PreviousTimeBalance.
+        ///   Looks up a localized string similar to Previous time balance.
         /// </summary>
         public static string PrevTime {
             get {

@@ -61,15 +61,6 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About.
-        /// </summary>
-        public static string About {
-            get {
-                return ResourceManager.GetString("About", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Additional info.
         /// </summary>
         public static string AdditionalInfo {
@@ -88,7 +79,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add partner.
+        ///   Looks up a localized string similar to Connect.
         /// </summary>
         public static string AddPartner {
             get {
@@ -160,15 +151,6 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Languages.
-        /// </summary>
-        public static string Languages {
-            get {
-                return ResourceManager.GetString("Languages", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Less than hour ago.
         /// </summary>
         public static string LessThanHourAgo {
@@ -187,7 +169,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;{2}&quot;&gt;{0}&lt;/a&gt; and &lt;a href=&quot;{3}&quot;&gt;{1}&lt;/a&gt; are friends now.
+        ///   Looks up a localized string similar to &lt;a href=&quot;{2}&quot;&gt;{0}&lt;/a&gt; and &lt;a href=&quot;{3}&quot;&gt;{1}&lt;/a&gt; are connected now.
         /// </summary>
         public static string NewFriendship {
             get {
@@ -205,7 +187,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No partners yet.
+        ///   Looks up a localized string similar to No contacts yet.
         /// </summary>
         public static string NoFriends {
             get {
@@ -214,7 +196,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partners.
+        ///   Looks up a localized string similar to Connected.
         /// </summary>
         public static string Partners {
             get {
@@ -237,15 +219,6 @@ namespace Resources.Views.VisitProfileApp {
         public static string UpdateLanguage {
             get {
                 return ResourceManager.GetString("UpdateLanguage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Videocall.
-        /// </summary>
-        public static string Videocall {
-            get {
-                return ResourceManager.GetString("Videocall", resourceCulture);
             }
         }
         

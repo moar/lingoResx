@@ -61,6 +61,24 @@ namespace Resources.Views.Contact {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Available.
+        /// </summary>
+        public static string Available {
+            get {
+                return ResourceManager.GetString("Available", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Busy.
+        /// </summary>
+        public static string Busy {
+            get {
+                return ResourceManager.GetString("Busy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Enter your message (max 2000 characters).
         /// </summary>
         public static string CntPlaceholder {
@@ -75,6 +93,24 @@ namespace Resources.Views.Contact {
         public static string ContactUs {
             get {
                 return ResourceManager.GetString("ContactUs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to JustFriends.
+        /// </summary>
+        public static string JustFriends {
+            get {
+                return ResourceManager.GetString("JustFriends", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Offline.
+        /// </summary>
+        public static string Offline {
+            get {
+                return ResourceManager.GetString("Offline", resourceCulture);
             }
         }
     }

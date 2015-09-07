@@ -61,7 +61,7 @@ namespace Resources.General {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to this website uses cookies. By continuing to use this website you are giving consent to cookies being used..
+        ///   Looks up a localized string similar to This website uses cookies. By continuing to use this website you are giving consent to cookies being used..
         /// </summary>
         public static string CookieAdvisory {
             get {

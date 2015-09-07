@@ -115,7 +115,7 @@ namespace Resources.Hubs.MessagingHub {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can´t make calls....
+        ///   Looks up a localized string similar to You can&apos;t make calls....
         /// </summary>
         public static string CannotCall {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Hubs.MessagingHub {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can&apos;t call {0}, you are not friends.
+        ///   Looks up a localized string similar to You can&apos;t call {0}, you are not connected.
         /// </summary>
         public static string NotFriends {
             get {

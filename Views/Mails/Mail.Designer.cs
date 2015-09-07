@@ -61,7 +61,7 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm your mail.
+        ///   Looks up a localized string similar to Confirm your email.
         /// </summary>
         public static string ConfirmEmail {
             get {
@@ -70,7 +70,7 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Friend request.
+        ///   Looks up a localized string similar to Connection request.
         /// </summary>
         public static string FriendRequest {
             get {
@@ -97,7 +97,7 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New attendee.
+        ///   Looks up a localized string similar to New meetup participant.
         /// </summary>
         public static string NewMeetupParticipant {
             get {

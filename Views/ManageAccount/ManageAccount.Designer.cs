@@ -79,7 +79,7 @@ namespace Resources.Views.ManageAccount {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter your mail.
+        ///   Looks up a localized string similar to Enter your email.
         /// </summary>
         public static string EnterMail {
             get {

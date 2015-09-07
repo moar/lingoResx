@@ -115,15 +115,6 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to e-mail.
-        /// </summary>
-        public static string Email {
-            get {
-                return ResourceManager.GetString("Email", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Please enter a user name for Langademy below and click the Register button to finish logging in.
         /// </summary>
         public static string ExtLoginCompleteInfo {
@@ -196,29 +187,11 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Login.
-        /// </summary>
-        public static string Login {
-            get {
-                return ResourceManager.GetString("Login", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to The {0} must be at least {2} characters long..
         /// </summary>
         public static string MinLength {
             get {
                 return ResourceManager.GetString("MinLength", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to The name must be at least {2} characters long and shorter than {1} characters.
-        /// </summary>
-        public static string NameLength {
-            get {
-                return ResourceManager.GetString("NameLength", resourceCulture);
             }
         }
         
@@ -277,15 +250,6 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Register.
-        /// </summary>
-        public static string Register {
-            get {
-                return ResourceManager.GetString("Register", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Remember me.
         /// </summary>
         public static string RememberMe {
@@ -309,15 +273,6 @@ namespace Resources.Views.LoginRegister {
         public static string ReqLang {
             get {
                 return ResourceManager.GetString("ReqLang", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to The field name is required.
-        /// </summary>
-        public static string ReqName {
-            get {
-                return ResourceManager.GetString("ReqName", resourceCulture);
             }
         }
         

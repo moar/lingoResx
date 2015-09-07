@@ -106,7 +106,7 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Select a room and start practising a language.
+        ///   Looks up a localized string similar to Select a room and start practicing a language.
         /// </summary>
         public static string SelectRoom {
             get {

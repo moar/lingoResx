@@ -61,7 +61,7 @@ namespace Resources.Controllers.Account {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have to confirm your email address. Check your inbox!.
+        ///   Looks up a localized string similar to Confirm your email.
         /// </summary>
         public static string ConfirmEmail {
             get {

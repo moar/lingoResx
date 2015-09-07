@@ -61,15 +61,6 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About Langademy.
-        /// </summary>
-        public static string About {
-            get {
-                return ResourceManager.GetString("About", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers language exchange with natives all over the world so people can get fluent in a language. .
         /// </summary>
         public static string Description {
@@ -88,7 +79,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In Langroulette you will meet new partners to practise the language you want to learn. Get fluent in a language while you meet new people!.
+        ///   Looks up a localized string similar to In Langroulette you will meet new partners to practice the language you want to learn. Get fluent in a language while you meet new people!.
         /// </summary>
         public static string LRDescription {
             get {
@@ -115,56 +106,11 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        public static string MPDescription {
-            get {
-                return ResourceManager.GetString("MPDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        public static string MPKeywords {
-            get {
-                return ResourceManager.GetString("MPKeywords", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Privacy - Langademy.
-        /// </summary>
-        public static string Privacy {
-            get {
-                return ResourceManager.GetString("Privacy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Time Bank.
         /// </summary>
         public static string TBTitle {
             get {
                 return ResourceManager.GetString("TBTitle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Terms and Conditions - Langademy.
-        /// </summary>
-        public static string Terms {
-            get {
-                return ResourceManager.GetString("Terms", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Language exchange.
-        /// </summary>
-        public static string Title {
-            get {
-                return ResourceManager.GetString("Title", resourceCulture);
             }
         }
     }

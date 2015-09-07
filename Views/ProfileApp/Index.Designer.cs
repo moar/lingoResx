@@ -88,15 +88,6 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add Language.
-        /// </summary>
-        public static string AddLanguage {
-            get {
-                return ResourceManager.GetString("AddLanguage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Off.
         /// </summary>
         public static string AlertOff {

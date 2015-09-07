@@ -124,15 +124,6 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Duration.
-        /// </summary>
-        public static string Duration {
-            get {
-                return ResourceManager.GetString("Duration", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to There is already a meetup at this time for speaking {0}. Join it instead of creating a new one.
         /// </summary>
         public static string ExistingMeetupLanguage {
@@ -169,20 +160,20 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Languages.
-        /// </summary>
-        public static string Languages {
-            get {
-                return ResourceManager.GetString("Languages", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to {0} meetup.
         /// </summary>
         public static string Meetup {
             get {
                 return ResourceManager.GetString("Meetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Meetup Board.
+        /// </summary>
+        public static string MeetupBoard {
+            get {
+                return ResourceManager.GetString("MeetupBoard", resourceCulture);
             }
         }
         
@@ -214,7 +205,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are meetups at this time for speaking all of your languages. Attend an existing meetup instead of creating a new one.
+        ///   Looks up a localized string similar to There are meetups at this time to speak on any of your languages. Attend an existing meetup instead of creating a new one.
         /// </summary>
         public static string MeetupsAllUserLanguages {
             get {
@@ -228,15 +219,6 @@ namespace Resources.Views.MeetupBoard {
         public static string MeetupTooClose {
             get {
                 return ResourceManager.GetString("MeetupTooClose", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Meetup Board.
-        /// </summary>
-        public static string MeetupBoard {
-            get {
-                return ResourceManager.GetString("MeetupBoard", resourceCulture);
             }
         }
         
@@ -268,29 +250,11 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next Meetups.
-        /// </summary>
-        public static string NextMeetups {
-            get {
-                return ResourceManager.GetString("NextMeetups", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Previous and Next Meetups.
         /// </summary>
         public static string NextPrevMeetups {
             get {
                 return ResourceManager.GetString("NextPrevMeetups", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Participants.
-        /// </summary>
-        public static string Participants {
-            get {
-                return ResourceManager.GetString("Participants", resourceCulture);
             }
         }
         
@@ -318,15 +282,6 @@ namespace Resources.Views.MeetupBoard {
         public static string SelectedContactsHeader {
             get {
                 return ResourceManager.GetString("SelectedContactsHeader", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Select language.
-        /// </summary>
-        public static string SelectLanguage {
-            get {
-                return ResourceManager.GetString("SelectLanguage", resourceCulture);
             }
         }
         

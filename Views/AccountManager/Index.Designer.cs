@@ -133,47 +133,11 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Notifications.
-        /// </summary>
-        public static string Notifications {
-            get {
-                return ResourceManager.GetString("Notifications", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Old password.
         /// </summary>
         public static string OldPassword {
             get {
                 return ResourceManager.GetString("OldPassword", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Privacy.
-        /// </summary>
-        public static string Privacy {
-            get {
-                return ResourceManager.GetString("Privacy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Select language.
-        /// </summary>
-        public static string SelectLanguage {
-            get {
-                return ResourceManager.GetString("SelectLanguage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Settings.
-        /// </summary>
-        public static string Settings {
-            get {
-                return ResourceManager.GetString("Settings", resourceCulture);
             }
         }
         

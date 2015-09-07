@@ -70,7 +70,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;#&quot;&gt;&lt;strong&gt;meet-up board&lt;/strong&gt;&lt;/a&gt;.
+        ///   Looks up a localized string similar to &lt;a href=&quot;#&quot;&gt;&lt;strong&gt;meetup board&lt;/strong&gt;&lt;/a&gt;.
         /// </summary>
         public static string Board {
             get {
@@ -124,7 +124,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0}  is a videochat roulette where you will find native speakers to practise your favourite languages.
+        ///   Looks up a localized string similar to {0}  is a videochat roulette where you will find native speakers to practice your favourite languages.
         /// </summary>
         public static string Langroulette {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in.
+        ///   Looks up a localized string similar to Login.
         /// </summary>
         public static string Login {
             get {
@@ -169,7 +169,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Create or join a language meet-up and let your partners know when u will be joining a meet-up in the {0}.
+        ///   Looks up a localized string similar to Create or join a language meet-up and let your partners know when u will be joining a meetup in the {0}.
         /// </summary>
         public static string ManageMeetup {
             get {
@@ -178,7 +178,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next meet-ups in Langroulette.
+        ///   Looks up a localized string similar to Next Meetups.
         /// </summary>
         public static string NextMeetups {
             get {
@@ -196,7 +196,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Privacy.
+        ///   Looks up a localized string similar to Privacy - Langademy.
         /// </summary>
         public static string Privacy {
             get {
@@ -205,7 +205,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign up.
+        ///   Looks up a localized string similar to Register.
         /// </summary>
         public static string Register {
             get {
@@ -214,7 +214,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Speak in your native language and we will give you the same time so you can practise other languages.
+        ///   Looks up a localized string similar to Speak in your native language and we will give you the same time so you can practice other languages.
         /// </summary>
         public static string SpeakNative {
             get {
@@ -223,7 +223,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Terms.
+        ///   Looks up a localized string similar to Terms and Conditions - Langademy.
         /// </summary>
         public static string Terms {
             get {

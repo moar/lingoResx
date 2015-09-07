@@ -61,7 +61,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to AccountOptions.
+        ///   Looks up a localized string similar to Account options.
         /// </summary>
         public static string AccountOptions {
             get {
@@ -117,9 +117,9 @@ namespace Resources.Views.Desktop {
         /// <summary>
         ///   Looks up a localized string similar to Edit Profile.
         /// </summary>
-        public static string EditProfile {
+        public static string EditProfileDesk {
             get {
-                return ResourceManager.GetString("EditProfile", resourceCulture);
+                return ResourceManager.GetString("EditProfileDesk", resourceCulture);
             }
         }
         
@@ -142,29 +142,11 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Languages.
-        /// </summary>
-        public static string Languages {
-            get {
-                return ResourceManager.GetString("Languages", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Logout.
         /// </summary>
         public static string LogOut {
             get {
                 return ResourceManager.GetString("LogOut", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        public static string NotLoggedMyMeetups {
-            get {
-                return ResourceManager.GetString("NotLoggedMyMeetups", resourceCulture);
             }
         }
         
@@ -214,29 +196,11 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the desktop.
-        /// </summary>
-        public static string Title {
-            get {
-                return ResourceManager.GetString("Title", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Today I&apos;ll speak in.
         /// </summary>
         public static string TodayLangs {
             get {
                 return ResourceManager.GetString("TodayLangs", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to View Profile.
-        /// </summary>
-        public static string ViewProfile {
-            get {
-                return ResourceManager.GetString("ViewProfile", resourceCulture);
             }
         }
     }

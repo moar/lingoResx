@@ -70,29 +70,11 @@ namespace Resources.Models.Tiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configuration.
-        /// </summary>
-        public static string Configuration {
-            get {
-                return ResourceManager.GetString("Configuration", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Configura tu cuenta de una manera sencilla.
+        ///   Looks up a localized string similar to Account quick set up.
         /// </summary>
         public static string ConfigurationIntro {
             get {
                 return ResourceManager.GetString("ConfigurationIntro", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Contacts.
-        /// </summary>
-        public static string Contacts {
-            get {
-                return ResourceManager.GetString("Contacts", resourceCulture);
             }
         }
         
@@ -124,7 +106,7 @@ namespace Resources.Models.Tiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Crea quedadas para practicar el idioma que quieres!.
+        ///   Looks up a localized string similar to Create meetups and practice de language you want!.
         /// </summary>
         public static string MeetupBoardIntro {
             get {
@@ -151,7 +133,7 @@ namespace Resources.Models.Tiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Aqui puedes editar tu perfil, por ejemplo añadir o modificar los idiomas que quieres aprender.
+        ///   Looks up a localized string similar to You can edit your profile here, for example, you can add or edit the languages you are willing to learn..
         /// </summary>
         public static string ProfileEditionIntro {
             get {

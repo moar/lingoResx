@@ -70,7 +70,7 @@ namespace Resources.Views.Feedback {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The maximun length of the feedback is 3000 characters.
+        ///   Looks up a localized string similar to Maximun length is 2000 characters.
         /// </summary>
         public static string MaxLength {
             get {

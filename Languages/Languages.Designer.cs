@@ -61,7 +61,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to অসমীয়া.
+        ///   Looks up a localized string similar to Assamese.
         /// </summary>
         public static string _as {
             get {
@@ -70,7 +70,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to íslenska.
+        ///   Looks up a localized string similar to Icelandic.
         /// </summary>
         public static string _is {
             get {
@@ -88,7 +88,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to አማርኛ.
+        ///   Looks up a localized string similar to Amharic.
         /// </summary>
         public static string am {
             get {
@@ -97,7 +97,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to العربية.
+        ///   Looks up a localized string similar to Arabic.
         /// </summary>
         public static string ar {
             get {
@@ -115,7 +115,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Azərbaycan­ılı.
+        ///   Looks up a localized string similar to Azeri.
         /// </summary>
         public static string az {
             get {
@@ -124,7 +124,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Азәрбајҹан дили.
+        ///   Looks up a localized string similar to Azeri (Cyrillic).
         /// </summary>
         public static string az_Cyrl {
             get {
@@ -133,7 +133,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Azərbaycan­ılı.
+        ///   Looks up a localized string similar to Azeri (Latin).
         /// </summary>
         public static string az_Latn {
             get {
@@ -142,7 +142,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Башҡорт.
+        ///   Looks up a localized string similar to Bashkir.
         /// </summary>
         public static string ba {
             get {
@@ -151,7 +151,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Беларускі.
+        ///   Looks up a localized string similar to Belarusian.
         /// </summary>
         public static string be {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to български.
+        ///   Looks up a localized string similar to Bulgarian.
         /// </summary>
         public static string bg {
             get {
@@ -169,7 +169,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to বাংলা.
+        ///   Looks up a localized string similar to Bengali.
         /// </summary>
         public static string bn {
             get {
@@ -178,7 +178,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to བོད་ཡིག.
+        ///   Looks up a localized string similar to Tibetan.
         /// </summary>
         public static string bo {
             get {
@@ -187,7 +187,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to brezhoneg.
+        ///   Looks up a localized string similar to Breton.
         /// </summary>
         public static string br {
             get {
@@ -196,7 +196,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to bosanski.
+        ///   Looks up a localized string similar to Bosnian.
         /// </summary>
         public static string bs {
             get {
@@ -205,7 +205,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to босански.
+        ///   Looks up a localized string similar to Bosnian (Cyrillic).
         /// </summary>
         public static string bs_Cyrl {
             get {
@@ -214,7 +214,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to bosanski.
+        ///   Looks up a localized string similar to Bosnian (Latin).
         /// </summary>
         public static string bs_Latn {
             get {
@@ -223,7 +223,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to català.
+        ///   Looks up a localized string similar to Catalan.
         /// </summary>
         public static string ca {
             get {
@@ -232,16 +232,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Català.
-        /// </summary>
-        public static string ca_ES {
-            get {
-                return ResourceManager.GetString("ca-ES", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Corsu.
+        ///   Looks up a localized string similar to Corsican.
         /// </summary>
         public static string co {
             get {
@@ -250,7 +241,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to čeština.
+        ///   Looks up a localized string similar to Czech.
         /// </summary>
         public static string cs {
             get {
@@ -259,7 +250,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cymraeg.
+        ///   Looks up a localized string similar to Welsh.
         /// </summary>
         public static string cy {
             get {
@@ -268,7 +259,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to dansk.
+        ///   Looks up a localized string similar to Danish.
         /// </summary>
         public static string da {
             get {
@@ -277,7 +268,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Deutsch.
+        ///   Looks up a localized string similar to German.
         /// </summary>
         public static string de {
             get {
@@ -286,16 +277,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Deutsch.
-        /// </summary>
-        public static string de_DE {
-            get {
-                return ResourceManager.GetString("de-DE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to dolnoserbšćina.
+        ///   Looks up a localized string similar to Lower Sorbian.
         /// </summary>
         public static string dsb {
             get {
@@ -304,7 +286,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ދިވެހިބަސް.
+        ///   Looks up a localized string similar to Divehi.
         /// </summary>
         public static string dv {
             get {
@@ -313,7 +295,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ελληνικά.
+        ///   Looks up a localized string similar to Greek.
         /// </summary>
         public static string el {
             get {
@@ -322,52 +304,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to English.
-        /// </summary>
-        public static string en {
-            get {
-                return ResourceManager.GetString("en", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to english.
-        /// </summary>
-        public static string en_GB {
-            get {
-                return ResourceManager.GetString("en-GB", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to english (USA).
-        /// </summary>
-        public static string en_US {
-            get {
-                return ResourceManager.GetString("en-US", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to español.
-        /// </summary>
-        public static string es {
-            get {
-                return ResourceManager.GetString("es", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Español.
-        /// </summary>
-        public static string es_ES {
-            get {
-                return ResourceManager.GetString("es-ES", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to eesti.
+        ///   Looks up a localized string similar to Estonian.
         /// </summary>
         public static string et {
             get {
@@ -385,16 +322,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Euskara.
-        /// </summary>
-        public static string eu_ES {
-            get {
-                return ResourceManager.GetString("eu-ES", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to فارسى.
+        ///   Looks up a localized string similar to Persian.
         /// </summary>
         public static string fa {
             get {
@@ -403,7 +331,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to suomi.
+        ///   Looks up a localized string similar to Finnish.
         /// </summary>
         public static string fi {
             get {
@@ -421,7 +349,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to føroyskt.
+        ///   Looks up a localized string similar to Faroese.
         /// </summary>
         public static string fo {
             get {
@@ -430,7 +358,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to français.
+        ///   Looks up a localized string similar to French.
         /// </summary>
         public static string fr {
             get {
@@ -439,16 +367,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Français.
-        /// </summary>
-        public static string fr_FR {
-            get {
-                return ResourceManager.GetString("fr-FR", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Frysk.
+        ///   Looks up a localized string similar to Frisian.
         /// </summary>
         public static string fy {
             get {
@@ -457,7 +376,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Gaeilge.
+        ///   Looks up a localized string similar to Irish.
         /// </summary>
         public static string ga {
             get {
@@ -466,7 +385,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Gàidhlig.
+        ///   Looks up a localized string similar to Scottish Gaelic.
         /// </summary>
         public static string gd {
             get {
@@ -475,7 +394,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to galego.
+        ///   Looks up a localized string similar to Galician.
         /// </summary>
         public static string gl {
             get {
@@ -484,7 +403,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Elsässisch.
+        ///   Looks up a localized string similar to Alsatian.
         /// </summary>
         public static string gsw {
             get {
@@ -493,7 +412,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ગુજરાતી.
+        ///   Looks up a localized string similar to Gujarati.
         /// </summary>
         public static string gu {
             get {
@@ -511,7 +430,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hausa.
+        ///   Looks up a localized string similar to Hausa (Latin).
         /// </summary>
         public static string ha_Latn {
             get {
@@ -520,7 +439,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to עברית.
+        ///   Looks up a localized string similar to Hebrew.
         /// </summary>
         public static string he {
             get {
@@ -529,7 +448,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to हिंदी.
+        ///   Looks up a localized string similar to Hindi.
         /// </summary>
         public static string hi {
             get {
@@ -538,7 +457,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to hrvatski.
+        ///   Looks up a localized string similar to Croatian.
         /// </summary>
         public static string hr {
             get {
@@ -547,7 +466,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to hornjoserbšćina.
+        ///   Looks up a localized string similar to Upper Sorbian.
         /// </summary>
         public static string hsb {
             get {
@@ -556,7 +475,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to magyar.
+        ///   Looks up a localized string similar to Hungarian.
         /// </summary>
         public static string hu {
             get {
@@ -565,7 +484,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Հայերեն.
+        ///   Looks up a localized string similar to Armenian.
         /// </summary>
         public static string hy {
             get {
@@ -574,7 +493,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bahasa Indonesia.
+        ///   Looks up a localized string similar to Indonesian.
         /// </summary>
         public static string id {
             get {
@@ -592,7 +511,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ꆈꌠꁱꂷ.
+        ///   Looks up a localized string similar to Yi.
         /// </summary>
         public static string ii {
             get {
@@ -601,20 +520,11 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to italiano.
+        ///   Looks up a localized string similar to Italian.
         /// </summary>
         public static string it {
             get {
                 return ResourceManager.GetString("it", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Italiano.
-        /// </summary>
-        public static string it_IT {
-            get {
-                return ResourceManager.GetString("it-IT", resourceCulture);
             }
         }
         
@@ -628,7 +538,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ᐃᓄᒃᑎᑐᑦ.
+        ///   Looks up a localized string similar to Inuktitut (Syllabics).
         /// </summary>
         public static string iu_Cans {
             get {
@@ -637,7 +547,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Inuktitut.
+        ///   Looks up a localized string similar to Inuktitut (Latin).
         /// </summary>
         public static string iu_Latn {
             get {
@@ -646,7 +556,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 日本語.
+        ///   Looks up a localized string similar to Japanese.
         /// </summary>
         public static string ja {
             get {
@@ -655,7 +565,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ქართული.
+        ///   Looks up a localized string similar to Georgian.
         /// </summary>
         public static string ka {
             get {
@@ -664,7 +574,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Қазақ.
+        ///   Looks up a localized string similar to Kazakh.
         /// </summary>
         public static string kk {
             get {
@@ -673,7 +583,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to kalaallisut.
+        ///   Looks up a localized string similar to Greenlandic.
         /// </summary>
         public static string kl {
             get {
@@ -682,7 +592,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ខ្មែរ.
+        ///   Looks up a localized string similar to Khmer.
         /// </summary>
         public static string km {
             get {
@@ -691,7 +601,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ಕನ್ನಡ.
+        ///   Looks up a localized string similar to Kannada.
         /// </summary>
         public static string kn {
             get {
@@ -700,7 +610,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 한국어.
+        ///   Looks up a localized string similar to Korean.
         /// </summary>
         public static string ko {
             get {
@@ -709,7 +619,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to कोंकणी.
+        ///   Looks up a localized string similar to Konkani.
         /// </summary>
         public static string kok {
             get {
@@ -718,7 +628,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Кыргыз.
+        ///   Looks up a localized string similar to Kyrgyz.
         /// </summary>
         public static string ky {
             get {
@@ -727,7 +637,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Lëtzebuergesch.
+        ///   Looks up a localized string similar to Luxembourgish.
         /// </summary>
         public static string lb {
             get {
@@ -736,7 +646,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ລາວ.
+        ///   Looks up a localized string similar to Lao.
         /// </summary>
         public static string lo {
             get {
@@ -745,7 +655,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to lietuvių.
+        ///   Looks up a localized string similar to kkLithuanian.
         /// </summary>
         public static string lt {
             get {
@@ -754,7 +664,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to latviešu.
+        ///   Looks up a localized string similar to Latvian.
         /// </summary>
         public static string lv {
             get {
@@ -763,7 +673,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reo Māori.
+        ///   Looks up a localized string similar to Maori.
         /// </summary>
         public static string mi {
             get {
@@ -772,7 +682,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to македонски јазик.
+        ///   Looks up a localized string similar to Macedonian (FYROM).
         /// </summary>
         public static string mk {
             get {
@@ -781,7 +691,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to മലയാളം.
+        ///   Looks up a localized string similar to Malayalam.
         /// </summary>
         public static string ml {
             get {
@@ -790,7 +700,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Монгол хэл.
+        ///   Looks up a localized string similar to Mongolian.
         /// </summary>
         public static string mn {
             get {
@@ -799,7 +709,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Монгол хэл.
+        ///   Looks up a localized string similar to Mongolian (Cyrillic).
         /// </summary>
         public static string mn_Cyrl {
             get {
@@ -808,7 +718,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ᠮᠤᠨᠭᠭᠤᠯ ᠬᠡᠯᠡ.
+        ///   Looks up a localized string similar to Mongolian (Traditional Mongolian).
         /// </summary>
         public static string mn_Mong {
             get {
@@ -817,7 +727,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Kanien&apos;kéha.
+        ///   Looks up a localized string similar to Mohawk.
         /// </summary>
         public static string moh {
             get {
@@ -826,7 +736,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to मराठी.
+        ///   Looks up a localized string similar to Marathi.
         /// </summary>
         public static string mr {
             get {
@@ -835,7 +745,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bahasa Melayu.
+        ///   Looks up a localized string similar to Malay.
         /// </summary>
         public static string ms {
             get {
@@ -844,7 +754,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Malti.
+        ///   Looks up a localized string similar to Maltese.
         /// </summary>
         public static string mt {
             get {
@@ -853,7 +763,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to norsk (bokmål).
+        ///   Looks up a localized string similar to Norwegian (Bokmål).
         /// </summary>
         public static string nb {
             get {
@@ -862,7 +772,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to नेपाली.
+        ///   Looks up a localized string similar to Nepali.
         /// </summary>
         public static string ne {
             get {
@@ -871,7 +781,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Nederlands.
+        ///   Looks up a localized string similar to Dutch.
         /// </summary>
         public static string nl {
             get {
@@ -880,7 +790,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to norsk (nynorsk).
+        ///   Looks up a localized string similar to Norwegian (Nynorsk).
         /// </summary>
         public static string nn {
             get {
@@ -889,7 +799,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to norsk.
+        ///   Looks up a localized string similar to Norwegian.
         /// </summary>
         public static string no {
             get {
@@ -916,7 +826,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ଓଡ଼ିଆ.
+        ///   Looks up a localized string similar to Oriya.
         /// </summary>
         public static string or {
             get {
@@ -925,7 +835,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ਪੰਜਾਬੀ.
+        ///   Looks up a localized string similar to Punjabi.
         /// </summary>
         public static string pa {
             get {
@@ -934,7 +844,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to polski.
+        ///   Looks up a localized string similar to Polish.
         /// </summary>
         public static string pl {
             get {
@@ -943,7 +853,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to درى.
+        ///   Looks up a localized string similar to Dari.
         /// </summary>
         public static string prs {
             get {
@@ -952,7 +862,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to پښتو.
+        ///   Looks up a localized string similar to Pashto.
         /// </summary>
         public static string ps {
             get {
@@ -961,7 +871,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Português.
+        ///   Looks up a localized string similar to Portuguese.
         /// </summary>
         public static string pt {
             get {
@@ -979,7 +889,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to runasimi.
+        ///   Looks up a localized string similar to Quechua.
         /// </summary>
         public static string quz {
             get {
@@ -988,7 +898,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rumantsch.
+        ///   Looks up a localized string similar to Romansh.
         /// </summary>
         public static string rm {
             get {
@@ -997,7 +907,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to română.
+        ///   Looks up a localized string similar to Romanian.
         /// </summary>
         public static string ro {
             get {
@@ -1006,7 +916,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to русский.
+        ///   Looks up a localized string similar to Russian.
         /// </summary>
         public static string ru {
             get {
@@ -1024,7 +934,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to संस्कृत.
+        ///   Looks up a localized string similar to Sanskrit.
         /// </summary>
         public static string sa {
             get {
@@ -1033,7 +943,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to саха.
+        ///   Looks up a localized string similar to Yakut.
         /// </summary>
         public static string sah {
             get {
@@ -1042,7 +952,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to davvisámegiella.
+        ///   Looks up a localized string similar to Sami (Northern).
         /// </summary>
         public static string se {
             get {
@@ -1051,7 +961,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to සිංහල.
+        ///   Looks up a localized string similar to Sinhala.
         /// </summary>
         public static string si {
             get {
@@ -1060,7 +970,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to slovenčina.
+        ///   Looks up a localized string similar to Slovak.
         /// </summary>
         public static string sk {
             get {
@@ -1069,7 +979,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to slovenski.
+        ///   Looks up a localized string similar to Slovenian.
         /// </summary>
         public static string sl {
             get {
@@ -1078,7 +988,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to åarjelsaemiengiele.
+        ///   Looks up a localized string similar to Sami (Southern).
         /// </summary>
         public static string sma {
             get {
@@ -1087,7 +997,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to julevusámegiella.
+        ///   Looks up a localized string similar to Sami (Lule).
         /// </summary>
         public static string smj {
             get {
@@ -1096,7 +1006,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to sämikielâ.
+        ///   Looks up a localized string similar to Sami (Inari).
         /// </summary>
         public static string smn {
             get {
@@ -1105,7 +1015,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to sääm´ǩiõll.
+        ///   Looks up a localized string similar to Sami (Skolt).
         /// </summary>
         public static string sms {
             get {
@@ -1114,7 +1024,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to shqipe.
+        ///   Looks up a localized string similar to Albanian.
         /// </summary>
         public static string sq {
             get {
@@ -1123,7 +1033,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to srpski.
+        ///   Looks up a localized string similar to Serbian.
         /// </summary>
         public static string sr {
             get {
@@ -1132,7 +1042,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to српски.
+        ///   Looks up a localized string similar to Serbian (Cyrillic).
         /// </summary>
         public static string sr_Cyrl {
             get {
@@ -1141,7 +1051,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to srpski.
+        ///   Looks up a localized string similar to Serbian (Latin).
         /// </summary>
         public static string sr_Latn {
             get {
@@ -1150,7 +1060,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to svenska.
+        ///   Looks up a localized string similar to kSwedish.
         /// </summary>
         public static string sv {
             get {
@@ -1168,7 +1078,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ܣܘܪܝܝܐ.
+        ///   Looks up a localized string similar to Syriac.
         /// </summary>
         public static string syr {
             get {
@@ -1177,7 +1087,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to தமிழ்.
+        ///   Looks up a localized string similar to Tamil.
         /// </summary>
         public static string ta {
             get {
@@ -1186,7 +1096,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to తెలుగు.
+        ///   Looks up a localized string similar to Telugu.
         /// </summary>
         public static string te {
             get {
@@ -1195,7 +1105,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Тоҷикӣ.
+        ///   Looks up a localized string similar to kkTajik.
         /// </summary>
         public static string tg {
             get {
@@ -1204,7 +1114,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Тоҷикӣ.
+        ///   Looks up a localized string similar to Tajik (Cyrillic).
         /// </summary>
         public static string tg_Cyrl {
             get {
@@ -1213,7 +1123,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ไทย.
+        ///   Looks up a localized string similar to kThai.
         /// </summary>
         public static string th {
             get {
@@ -1222,7 +1132,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to türkmençe.
+        ///   Looks up a localized string similar to Turkmen.
         /// </summary>
         public static string tk {
             get {
@@ -1240,7 +1150,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Türkçe.
+        ///   Looks up a localized string similar to Turkish.
         /// </summary>
         public static string tr {
             get {
@@ -1249,7 +1159,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Татар.
+        ///   Looks up a localized string similar to Tatar.
         /// </summary>
         public static string tt {
             get {
@@ -1267,7 +1177,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tamazight.
+        ///   Looks up a localized string similar to Tamazight (Latin).
         /// </summary>
         public static string tzm_Latn {
             get {
@@ -1276,7 +1186,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ئۇيغۇرچە.
+        ///   Looks up a localized string similar to Uyghur.
         /// </summary>
         public static string ug {
             get {
@@ -1285,7 +1195,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to українська.
+        ///   Looks up a localized string similar to Ukrainian.
         /// </summary>
         public static string uk {
             get {
@@ -1294,7 +1204,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to اُردو.
+        ///   Looks up a localized string similar to Urdu.
         /// </summary>
         public static string ur {
             get {
@@ -1303,7 +1213,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to U&apos;zbek.
+        ///   Looks up a localized string similar to Uzbek.
         /// </summary>
         public static string uz {
             get {
@@ -1312,7 +1222,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ўзбек.
+        ///   Looks up a localized string similar to Uzbek (Cyrillic).
         /// </summary>
         public static string uz_Cyrl {
             get {
@@ -1321,7 +1231,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to U&apos;zbek.
+        ///   Looks up a localized string similar to Uzbek (Latin).
         /// </summary>
         public static string uz_Latn {
             get {
@@ -1330,7 +1240,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tiếng Việt.
+        ///   Looks up a localized string similar to Vietnamese.
         /// </summary>
         public static string vi {
             get {
@@ -1366,7 +1276,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 中文.
+        ///   Looks up a localized string similar to Chinese.
         /// </summary>
         public static string zh {
             get {
@@ -1375,7 +1285,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 中文(简体) 旧版.
+        ///   Looks up a localized string similar to Chinese (Simplified) Legacy.
         /// </summary>
         public static string zh_CHS {
             get {
@@ -1384,7 +1294,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 中文(繁體) 舊版.
+        ///   Looks up a localized string similar to kChinese (Traditional) Legacy.
         /// </summary>
         public static string zh_CHT {
             get {
@@ -1393,7 +1303,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 中文(简体).
+        ///   Looks up a localized string similar to Chinese (Simplified).
         /// </summary>
         public static string zh_Hans {
             get {
@@ -1402,7 +1312,7 @@ namespace Resources.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 中文(繁體).
+        ///   Looks up a localized string similar to Chinese (Traditional).
         /// </summary>
         public static string zh_Hant {
             get {

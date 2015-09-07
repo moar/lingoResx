@@ -61,7 +61,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to add extra time?.
+        ///   Looks up a localized string similar to Do you want to earn extra time?.
         /// </summary>
         public static string AdditionalTime {
             get {
@@ -79,16 +79,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Date.
-        /// </summary>
-        public static string Date {
-            get {
-                return ResourceManager.GetString("Date", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Add more hours.
+        ///   Looks up a localized string similar to Earn more hours.
         /// </summary>
         public static string EarnButton {
             get {
