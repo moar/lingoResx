@@ -63,8 +63,6 @@ bin/Debug/zh-Hant/Microsoft.Data.Edm.resources.dll
 bin/Debug/zh-Hant/Microsoft.Data.OData.resources.dll
 bin/Debug/zh-Hant/Microsoft.Data.Services.Client.resources.dll
 bin/Debug/zh-Hant/System.Spatial.resources.dll
-Views/RightPanel/Report.resx
-Views/Mails/Mail.resx
 obj/Debug/ca/Resources.resources.dll
 obj/Debug/de/Resources.resources.dll
 obj/Debug/DesignTimeResolveAssemblyReferences.cache
