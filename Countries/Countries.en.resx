@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -488,7 +489,7 @@
     <value>South Korea</value>
   </data>
   <data name="KW" xml:space="preserve">
-    <value>kKuwait</value>
+    <value>Kuwait</value>
   </data>
   <data name="KY" xml:space="preserve">
     <value>Cayman Islands</value>

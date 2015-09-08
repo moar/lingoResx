@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -120,4 +121,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="CallCalling" xml:space="preserve">
+    <value>DEITZEN</value>
+  </data>
+  <data name="CallIncomingCall" xml:space="preserve">
+    <value>SARRERAKO DEIA</value>
+  </data>
+  <data name="CallReport" xml:space="preserve">
+    <value>Deiaren laburpena</value>
+  </data>
+  <data name="CurrentTimeBalance" xml:space="preserve">
+    <value>Eguneko denbora balantzea</value>
+  </data>
+  <data name="HoursBagEarning" xml:space="preserve">
+    <value>Denbora bankurako irabazia</value>
+  </data>
+  <data name="HoursBagSpent" xml:space="preserve">
+    <value>Denbora bankuan gastatua</value>
+  </data>
+  <data name="IsBusy" xml:space="preserve">
+    <value>{0} lanpetuta dago</value>
+  </data>
+  <data name="LoadingLocal" xml:space="preserve">
+    <value>Bideo lokala kargatzen</value>
+  </data>
+  <data name="NoAnswer" xml:space="preserve">
+    <value>{0}-(e)k ez du erantzuten</value>
+  </data>
+  <data name="ReportLang" xml:space="preserve">
+    <value>Hizkuntza</value>
+  </data>
+  <data name="ReportLevel" xml:space="preserve">
+    <value>Zure maila</value>
+  </data>
+  <data name="ReportTimeAccount" xml:space="preserve">
+    <value>Zure konturako denbora</value>
+  </data>
+  <data name="TimeBanking" xml:space="preserve">
+    <value>Denbora bankua</value>
+  </data>
+  <data name="TimeLeft" xml:space="preserve">
+    <value>Gelditzen zaizun denbora</value>
+  </data>
+  <data name="VCDuration" xml:space="preserve">
+    <value>Iraupena</value>
+  </data>
+  <data name="WaitingTo" xml:space="preserve">
+    <value>{0}-en kameraren zain</value>
+  </data>
+</root>

@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -119,10 +120,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="A" xml:space="preserve">
+    <value>Sarrera maila</value>
+  </data>
   <data name="A1" xml:space="preserve">
     <value>Sarrera maila</value>
   </data>
   <data name="A2" xml:space="preserve">
+    <value>Maila ertaina</value>
+  </data>
+  <data name="B" xml:space="preserve">
     <value>Maila ertaina</value>
   </data>
   <data name="B1" xml:space="preserve">
@@ -131,6 +138,9 @@
   <data name="B2" xml:space="preserve">
     <value>Maila aurreratua</value>
   </data>
+  <data name="C" xml:space="preserve">
+    <value>Maila autonomoa</value>
+  </data>
   <data name="C1" xml:space="preserve">
     <value>Maila autonomoa</value>
   </data>
@@ -138,6 +148,6 @@
     <value>Maila garaiena</value>
   </data>
   <data name="N" xml:space="preserve">
-    <value>Native</value>
+    <value>Natiboa</value>
   </data>
 </root>

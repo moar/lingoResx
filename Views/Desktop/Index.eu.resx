@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,4 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AccountOptions" xml:space="preserve">
+    <value>Kontu aukerak</value>
+  </data>
+  <data name="AddAboutYou" xml:space="preserve">
+    <value>Gehitu &lt;ure hizkuntza gaitasunei buruzko informazioa</value>
+  </data>
+  <data name="AddBirthDate" xml:space="preserve">
+    <value>Gehitu zure jaiotze data</value>
+  </data>
+  <data name="AddMoreLangs" xml:space="preserve">
+    <value>Gehitu hizkuntza bat edo gehiago zure profilera</value>
+  </data>
+  <data name="AddThumbnail" xml:space="preserve">
+    <value>Gehitu zure argazkia</value>
+  </data>
+  <data name="DeskBusy" xml:space="preserve">
+    <value>Lanpetuta</value>
+  </data>
+  <data name="DeskLanguages" xml:space="preserve">
+    <value>Hizkuntzak</value>
+  </data>
+  <data name="EditProfileDesk" xml:space="preserve">
+    <value>Profila editatu</value>
+  </data>
+  <data name="EmptyInbox" xml:space="preserve">
+    <value>Ez daukazu mezurik</value>
+  </data>
+  <data name="EmptyMeetups" xml:space="preserve">
+    <value>Izena eman bileraren baten!</value>
+  </data>
+  <data name="LogOut" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="NumNatives" xml:space="preserve">
+    <value>Natiboak</value>
+  </data>
+  <data name="Online" xml:space="preserve">
+    <value>Online</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Ezarpenak</value>
+  </data>
+  <data name="TimeBalance" xml:space="preserve">
+    <value>Denbora balantzea</value>
+  </data>
+  <data name="TimeBank" xml:space="preserve">
+    <value>Denbora bankua</value>
+  </data>
+  <data name="TodayLangs" xml:space="preserve">
+    <value>Gaur hizkuntza honetan arituko naiz</value>
+  </data>
+</root>

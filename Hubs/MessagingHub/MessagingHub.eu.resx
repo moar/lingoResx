@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -118,4 +119,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="CalleeBusy" xml:space="preserve">
+    <value>{0} lanpetuta dago une honetan. Saiatu beranduago</value>
+  </data>
+  <data name="CalleeNoChatHours" xml:space="preserve">
+    <value>{0}-k ez du zurekin hitz egiteko denbora nahikorik bere denbora bankuan</value>
+  </data>
+  <data name="CalleeNoWebrtc" xml:space="preserve">
+    <value>{0}-k ez du bideo deietarako zerbitzurik</value>
+  </data>
+  <data name="CalleeOffline" xml:space="preserve">
+    <value>{0} ez dago konektatuta momentu honetan</value>
+  </data>
+  <data name="CallerNoWebrtc" xml:space="preserve">
+    <value>Zure nabigatzaileak ez du bideo deirik onartzen. Saiatu, Chrome, Firefox edo Operaren azken bertsioekin</value>
+  </data>
+  <data name="CallingError" xml:space="preserve">
+    <value>Erroreren bat gertatu da deia egiten ari zen bitartean</value>
+  </data>
+  <data name="CannotCall" xml:space="preserve">
+    <value>Ezin duzu deirik egin...</value>
+  </data>
+  <data name="CompleteProfile" xml:space="preserve">
+    <value>Osatu zure profila</value>
+  </data>
+  <data name="LanguageNotInList" xml:space="preserve">
+    <value>{0}-k ez du hizkuntza horretan hitzik egiten. Saiatu beranduago.</value>
+  </data>
+  <data name="LanguageNotInOwnList" xml:space="preserve">
+    <value>Hizkuntza hau ez dago zure hizkuntza zerrendan. Saiatu zaitez dituzun hizkuntzetako batekin deia egiten!</value>
+  </data>
+  <data name="NoOwnChatHours" xml:space="preserve">
+    <value><![CDATA[Ezin duzu deirik egin, ez duzu denborarik denbora bankuan. <a href="{0}" class="applnk" data-app="HoursBagApp"> Kontsultatu zure denbora bankua </a>]]></value>
+  </data>
+  <data name="NotFriends" xml:space="preserve">
+    <value>Ezin duzu {0} deitu, ez zaude konektaturik</value>
+  </data>
+</root>

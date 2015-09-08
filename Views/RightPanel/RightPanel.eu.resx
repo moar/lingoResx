@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -119,6 +120,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Accept" xml:space="preserve">
+    <value>Onartu</value>
+  </data>
   <data name="AllContacts" xml:space="preserve">
     <value>Kontaktu guztiak</value>
   </data>
@@ -128,8 +132,26 @@
   <data name="RPContacts" xml:space="preserve">
     <value>Kontaktuak</value>
   </data>
+  <data name="Decline" xml:space="preserve">
+    <value>Ukatu</value>
+  </data>
   <data name="Messages" xml:space="preserve">
     <value>Mezuak</value>
+  </data>
+  <data name="NoContacts" xml:space="preserve">
+    <value>Ez duzu kontatukturik oraindik. Jo {0}-ra eta lagun berriak ezagutu itzatzu!</value>
+  </data>
+  <data name="NoMessages" xml:space="preserve">
+    <value>Ez daukazu mezurik</value>
+  </data>
+  <data name="RPVideocall" xml:space="preserve">
+    <value>Bideodeia</value>
+  </data>
+  <data name="Videocall" xml:space="preserve">
+    <value>Bideodeia</value>
+  </data>
+  <data name="NoNotifications" xml:space="preserve">
+    <value>Ez daukazu jakinarazpenik</value>
   </data>
   <data name="Notifications" xml:space="preserve">
     <value>Jakinarazpenak</value>
@@ -137,7 +159,16 @@
   <data name="ReloadNow" xml:space="preserve">
     <value>Reload now</value>
   </data>
+  <data name="SendMessage" xml:space="preserve">
+    <value>Mezua bidali</value>
+  </data>
   <data name="ShowAll" xml:space="preserve">
     <value>Guztiak erakutsi</value>
+  </data>
+  <data name="RPViewProfile" xml:space="preserve">
+    <value>Ikusi profila</value>
+  </data>
+  <data name="WriteHere" xml:space="preserve">
+    <value>Idatzi hemen</value>
   </data>
 </root>

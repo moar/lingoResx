@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -119,4 +120,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="FriendsAlreadyException" xml:space="preserve">
+    <value>Kontaktuan zaude dagoeneko</value>
+  </data>
+  <data name="ExcServerError" xml:space="preserve">
+    <value>Barkatu, arazoren bat izan dugu</value>
+  </data>
+  <data name="InvalidDateTimeException" xml:space="preserve">
+    <value>Data baliogabea</value>
+  </data>
+  <data name="InvalidUserLanguageException" xml:space="preserve">
+    <value>Erabiltzaile hizkuntza okerra</value>
+  </data>
+  <data name="LanguageNotFoundException" xml:space="preserve">
+    <value>Hizkuntza ez da aurkitu</value>
+  </data>
+  <data name="MeetupNotFoundException" xml:space="preserve">
+    <value>Ez da bilera aurkitu</value>
+  </data>
+  <data name="NoAccessToRoom" xml:space="preserve">
+    <value>Ezin zara gela honetara sartu</value>
+  </data>
+  <data name="RoomNotExist" xml:space="preserve">
+    <value>Gela ez da existitzen</value>
+  </data>
+  <data name="RoomNotFound" xml:space="preserve">
+    <value>Ez da gela aurkitu</value>
+  </data>
+  <data name="SelfFriendShipException" xml:space="preserve">
+    <value>Ezin diozu zeuri buruari eskaerarik egin</value>
+  </data>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>Ez da erabiltzailea aurkitu</value>
+  </data>
+  <data name="UserNotInAnyRoom" xml:space="preserve">
+    <value>Erabiltzailea ez dago gela batean</value>
+  </data>
+</root>

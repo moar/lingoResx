@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,4 +122,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  </root>
+  <data name="Description" xml:space="preserve">
+    <value>Langademy hizkuntzak ikasteko sare sozial ba da. Mundu osoko natiboekin hizkuntza trukea eskaintzen du, pertsonek beren hizkuntza maila hobetu dezaten.</value>
+  </data>
+  <data name="Keywords" xml:space="preserve">
+    <value>hizkuntzak ikasi, hizkuntza trukea, hizkuntza menderatu, ingelesa ikasi, hizkuntzak praktikatu, hiztun natiboak, zure hizkuntza maila hobetu</value>
+  </data>
+  <data name="LAbout" xml:space="preserve">
+    <value>Langademy-ri buruz</value>
+  </data>
+  <data name="LRDescription" xml:space="preserve">
+    <value>Langroulettean nahi dituzun hizkuntzak ikasteko lagun berriak aurkituko dituzu. Hobetu eta menderatu ezazu hizkuntza jende berria ezagutuz!</value>
+  </data>
+  <data name="LRKeywords" xml:space="preserve">
+    <value>langroulette, hizkuntza trukea, txat, tandem</value>
+  </data>
+  <data name="LRTitle" xml:space="preserve">
+    <value>Langroulette-Tandema</value>
+  </data>
+  <data name="MainPrivacy" xml:space="preserve">
+    <value>Privazitatea - Langademy</value>
+  </data>
+  <data name="MainTerms" xml:space="preserve">
+    <value>Baldintzak - Langademy</value>
+  </data>
+  <data name="MainTitle" xml:space="preserve">
+    <value>Hizkuntza trukea</value>
+  </data>
+  <data name="TBTitle" xml:space="preserve">
+    <value>Denbora bankua</value>
+  </data>
+</root>

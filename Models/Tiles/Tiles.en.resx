@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -120,8 +121,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="TileChat" xml:space="preserve">
+    <value>Chat</value>
+  </data>
   <data name="ConfigurationIntro" xml:space="preserve">
     <value>Account quick set up</value>
+  </data>
+  <data name="My_evolution" xml:space="preserve">
+    <value>My evolution</value>
   </data>
   <data name="Edit_Profile" xml:space="preserve">
     <value>Edit Profile</value>
@@ -135,9 +142,6 @@
   <data name="MeetupBoardIntro" xml:space="preserve">
     <value>Create meetups and practice de language you want!</value>
   </data>
-  <data name="My_evolution" xml:space="preserve">
-    <value>My evolution</value>
-  </data>
   <data name="Profile" xml:space="preserve">
     <value>Profile</value>
   </data>
@@ -146,9 +150,6 @@
   </data>
   <data name="ShowMoreHelp" xml:space="preserve">
     <value>Show more</value>
-  </data>
-  <data name="TileChat" xml:space="preserve">
-    <value>Chat</value>
   </data>
   <data name="TileConfiguration" xml:space="preserve">
     <value>Configuration</value>

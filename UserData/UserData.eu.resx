@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -120,4 +121,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="Advanced" xml:space="preserve">
+    <value>Aurreratua</value>
+  </data>
+  <data name="BirthDate" xml:space="preserve">
+    <value>Jaiotza data</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>Herrialdea</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>e-maila</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Emakumezkoa</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>Generoa</value>
+  </data>
+  <data name="Intermediate" xml:space="preserve">
+    <value>Maila ertaina</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Hizkuntza</value>
+  </data>
+  <data name="Lastname" xml:space="preserve">
+    <value>Abizena</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>Maila</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Gizonezkoa</value>
+  </data>
+  <data name="MinAge" xml:space="preserve">
+    <value>16 urte baino gehiago dituzten pertsonak soilik erregistratu daitezke Langademyn</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Izena</value>
+  </data>
+  <data name="NameLength" xml:space="preserve">
+    <value>Izenak, gutxienez {2} karaktere baino gehiago eta {1} karaktere baino gutxiago izan behar ditu</value>
+  </data>
+  <data name="Native" xml:space="preserve">
+    <value>Natiboa</value>
+  </data>
+  <data name="NativeLanguage" xml:space="preserve">
+    <value>Ama-hizkuntza</value>
+  </data>
+  <data name="ReqName" xml:space="preserve">
+    <value>Izena derrigorrezkoa da</value>
+  </data>
+  <data name="Surname" xml:space="preserve">
+    <value>Abizena</value>
+  </data>
+</root>

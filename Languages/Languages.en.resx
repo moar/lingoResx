@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -204,10 +205,10 @@
     <value>Albanian</value>
   </data>
   <data name="sv" xml:space="preserve">
-    <value>kSwedish</value>
+    <value>Swedish</value>
   </data>
   <data name="th" xml:space="preserve">
-    <value>kThai</value>
+    <value>Thai</value>
   </data>
   <data name="tr" xml:space="preserve">
     <value>Turkish</value>
@@ -234,10 +235,10 @@
     <value>Latvian</value>
   </data>
   <data name="lt" xml:space="preserve">
-    <value>kkLithuanian</value>
+    <value>Lithuanian</value>
   </data>
   <data name="tg" xml:space="preserve">
-    <value>kkTajik</value>
+    <value>Tajik</value>
   </data>
   <data name="fa" xml:space="preserve">
     <value>Persian</value>
@@ -546,7 +547,7 @@
     <value>Chinese (Simplified) Legacy</value>
   </data>
   <data name="zh-CHT" xml:space="preserve">
-    <value>kChinese (Traditional) Legacy</value>
+    <value>Chinese (Traditional) Legacy</value>
   </data>
   <data name="de-DE" xml:space="preserve">
     <value>German</value>

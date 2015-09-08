@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,4 +122,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  </root>
+  <data name="InvitationSubject" xml:space="preserve">
+    <value>Langademy-rako gonbidapena</value>
+  </data>
+  <data name="MailFriendRequest" xml:space="preserve">
+    <value>Konexio eskaera</value>
+  </data>
+  <data name="MailNewMeetupParticipants" xml:space="preserve">
+    <value>Bilerarako partehartzaile berriak</value>
+  </data>
+  <data name="MeetupAlerta" xml:space="preserve">
+    <value>Bilera abixuak</value>
+  </data>
+  <data name="PasswordRecovery" xml:space="preserve">
+    <value>Zure pasahitza berreskuratu</value>
+  </data>
+  <data name="VisitReminder" xml:space="preserve">
+    <value>Faltan botatzen zaitugu!</value>
+  </data>
+</root>
