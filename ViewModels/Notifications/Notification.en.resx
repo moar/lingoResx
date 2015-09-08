@@ -124,7 +124,7 @@
     <value>and you are connected now</value>
   </data>
   <data name="FriendJoined" xml:space="preserve">
-    <value><![CDATA[<a href="{0}">{1}</a> joined Langademy. You earned 30 minutes for your Hour Bag!]]></value>
+    <value><![CDATA[<a href="{0}">{1}</a> joined Langademy. You earned 30 minutes for your Time Bank!]]></value>
   </data>
   <data name="FriendRequest" xml:space="preserve">
     <value>Connection request</value>
