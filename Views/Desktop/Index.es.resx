@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -117,4 +118,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AccountOptions" xml:space="preserve">
+    <value>Opciones de cuenta</value>
+  </data>
+  <data name="AddAboutYou" xml:space="preserve">
+    <value>Añadir información sobre tus conocimientos del idioma</value>
+  </data>
+  <data name="AddBirthDate" xml:space="preserve">
+    <value>Añadir tu fecha de nacimiento</value>
+  </data>
+  <data name="AddMoreLangs" xml:space="preserve">
+    <value>Agregar uno o más idiomas a tu perfil</value>
+  </data>
+  <data name="AddThumbnail" xml:space="preserve">
+    <value>Añade tu foto</value>
+  </data>
+  <data name="DeskBusy" xml:space="preserve">
+    <value>Ocupado</value>
+  </data>
+  <data name="DeskLanguages" xml:space="preserve">
+    <value>Idiomas</value>
+  </data>
+  <data name="EditProfileDesk" xml:space="preserve">
+    <value>Editar Perfil</value>
+  </data>
+  <data name="EmptyInbox" xml:space="preserve">
+    <value>No tienes ningún mensaje</value>
+  </data>
+  <data name="EmptyMeetups" xml:space="preserve">
+    <value>¡Únete a una quedada!</value>
+  </data>
+  <data name="LogOut" xml:space="preserve">
+    <value>Cerrar Sesión</value>
+  </data>
+  <data name="NumNatives" xml:space="preserve">
+    <value>Nativos</value>
+  </data>
+  <data name="Online" xml:space="preserve">
+    <value>Online</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Ajustes</value>
+  </data>
+  <data name="TimeBalance" xml:space="preserve">
+    <value>Balance de horas</value>
+  </data>
+  <data name="TimeBank" xml:space="preserve">
+    <value>Banco de Tiempo</value>
+  </data>
+  <data name="TodayLangs" xml:space="preserve">
+    <value>Hoy hablaré en</value>
+  </data>
+</root>
