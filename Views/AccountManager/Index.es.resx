@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -117,4 +118,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AccNotifications" xml:space="preserve">
+    <value>Notificaciones</value>
+  </data>
+  <data name="Account" xml:space="preserve">
+    <value>Cuenta</value>
+  </data>
+  <data name="Accounts" xml:space="preserve">
+    <value>Cuentas</value>
+  </data>
+  <data name="AccSettings" xml:space="preserve">
+    <value>Ajustes</value>
+  </data>
+  <data name="AddLinkedLogin" xml:space="preserve">
+    <value>Vincular nueva cuenta</value>
+  </data>
+  <data name="Blocking" xml:space="preserve">
+    <value>Usuarios bloqueados</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>Cambiar la contraseña</value>
+  </data>
+  <data name="ConfirmNewPassword" xml:space="preserve">
+    <value>Confirmar nueva contraseña</value>
+  </data>
+  <data name="LangademyLanguage" xml:space="preserve">
+    <value>Idioma Langademy</value>
+  </data>
+  <data name="NewPassword" xml:space="preserve">
+    <value>Nueva contraseña</value>
+  </data>
+  <data name="OldPassword" xml:space="preserve">
+    <value>Contraseña anterior</value>
+  </data>
+  <data name="SelectLanguage" xml:space="preserve">
+    <value>Selecciona idioma</value>
+  </data>
+  <data name="SocialNetworks" xml:space="preserve">
+    <value>Redes sociales</value>
+  </data>
+</root>

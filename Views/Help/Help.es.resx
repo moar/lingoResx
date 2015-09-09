@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,6 +122,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  
   <data name="DesktopState" xml:space="preserve">
     <value>Langademy te permite hacer videollamadas con las personas que tienes en tu lista de contactos, y tu estado muestra los idiomas que tienes establecidos en tu perfil. Cuando habilitas o deshabilitas un idioma en tu estado, tus contactos sabrán que solo quieres recibir llamadas para hablar en los idiomas habilitados. Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu Banco de Tiempo.</value>
   </data>

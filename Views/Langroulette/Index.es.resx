@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -119,4 +120,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AlreadyInRoom" xml:space="preserve">
+    <value>Ya estás en otra habiración. ¿Estás seguro de que quieres unirte a esta sala? Si aceptas, serás desconectado de la otra sala.</value>
+  </data>
+  <data name="HideNonCandidates" xml:space="preserve">
+    <value>Ocultar usuarios que no cumplen con el filtro</value>
+  </data>
+  <data name="IncompleteProfile" xml:space="preserve">
+    <value><![CDATA[Necesitas completar la ubicación en tu perfil antes de poder entrar en una sala.</br><a class="applnk" href="{0}" data-app="ProfileApp">Ir a mi perfil</a>]]></value>
+  </data>
+  <data name="Levels" xml:space="preserve">
+    <value>Niveles</value>
+  </data>
+  <data name="RememberRooms" xml:space="preserve">
+    <value>Recuerda que solo están disponibles las salas de los idiomas que practicas</value>
+  </data>
+  <data name="SelectRoom" xml:space="preserve">
+    <value>Elige una sala y comienza a practicar un idioma</value>
+  </data>
+</root>

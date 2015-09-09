@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -195,5 +196,20 @@
   </data>
   <data name="BlockedAccount" xml:space="preserve">
     <value>Tu cuenta ha sido bloqueada</value>
+  </data>
+  <data name="LRLogin" xml:space="preserve">
+    <value>Iniciar sesión</value>
+  </data>
+  <data name="LRRegister" xml:space="preserve">
+    <value>Registrarse</value>
+  </data>
+  <data name="LREmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="LRReqName" xml:space="preserve">
+    <value>Se requiere el campo nombre</value>
+  </data>
+  <data name="LRNameLength" xml:space="preserve">
+    <value>El nombre debe tener al menos {2} caracteres y {1} caracteres como máximo</value>
   </data>
 </root>

@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -259,7 +260,7 @@
     <value>Alto sorbio</value>
   </data>
   <data name="mk" xml:space="preserve">
-    <value>Macedonio (Ex-República Yugoslava de Macedonia)</value>
+    <value>Macedonio (FYROM)</value>
   </data>
   <data name="tn" xml:space="preserve">
     <value>Setsuana</value>

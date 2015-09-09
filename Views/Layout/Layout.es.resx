@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,6 +129,9 @@
   <data name="Keywords" xml:space="preserve">
     <value>aprender idiomas, intercambio de idiomas, mejorar fluidez, practicar Inglés, practicar idiomas, nativos, mejorar idioma</value>
   </data>
+  <data name="LAbout" xml:space="preserve">
+    <value>Acerca de Langademy</value>
+  </data>
   <data name="LRDescription" xml:space="preserve">
     <value>En Langroulette encontrarás nuevos compañeros de intercambio para el idioma que quieras aprender. ¡Mejora tu nivel mientras conoces a nueva gente!</value>
   </data>
@@ -136,6 +140,15 @@
   </data>
   <data name="LRTitle" xml:space="preserve">
     <value>Langroulette-Tandem</value>
+  </data>
+  <data name="MainPrivacy" xml:space="preserve">
+    <value>Privacidad - Langademy</value>
+  </data>
+  <data name="MainTerms" xml:space="preserve">
+    <value>Términos y Condiciones - Langademy</value>
+  </data>
+  <data name="MainTitle" xml:space="preserve">
+    <value>Intercambio de idiomas</value>
   </data>
   <data name="TBTitle" xml:space="preserve">
     <value>Banco de Tiempo</value>
