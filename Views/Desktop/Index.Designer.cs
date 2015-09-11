@@ -106,6 +106,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to About .
+        /// </summary>
+        public static string DeskAbout {
+            get {
+                return ResourceManager.GetString("DeskAbout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Busy.
         /// </summary>
         public static string DeskBusy {
@@ -120,6 +129,24 @@ namespace Resources.Views.Desktop {
         public static string DeskLanguages {
             get {
                 return ResourceManager.GetString("DeskLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Privacy.
+        /// </summary>
+        public static string DeskPrivacy {
+            get {
+                return ResourceManager.GetString("DeskPrivacy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Terms.
+        /// </summary>
+        public static string DeskTerms {
+            get {
+                return ResourceManager.GetString("DeskTerms", resourceCulture);
             }
         }
         
@@ -210,15 +237,6 @@ namespace Resources.Views.Desktop {
         public static string TodayLangs {
             get {
                 return ResourceManager.GetString("TodayLangs", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to View profile.
-        /// </summary>
-        public static string ViewProfile {
-            get {
-                return ResourceManager.GetString("ViewProfile", resourceCulture);
             }
         }
     }
