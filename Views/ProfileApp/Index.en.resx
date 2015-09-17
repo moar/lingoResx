@@ -198,6 +198,9 @@
   <data name="PersonalInfo" xml:space="preserve">
     <value>Personal Info</value>
   </data>
+  <data name="ProfAddLanguage" xml:space="preserve">
+    <value>Add language</value>
+  </data>
   <data name="ProfParticipants" xml:space="preserve">
     <value>Participants</value>
   </data>

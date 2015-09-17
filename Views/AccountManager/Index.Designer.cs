@@ -61,6 +61,33 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Link account.
+        /// </summary>
+        public static string AccLinkAccounts {
+            get {
+                return ResourceManager.GetString("AccLinkAccounts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Linked accounts.
+        /// </summary>
+        public static string AccLinkedAccounts {
+            get {
+                return ResourceManager.GetString("AccLinkedAccounts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0 social network accounts linked.
+        /// </summary>
+        public static string AccNoSocialAcc {
+            get {
+                return ResourceManager.GetString("AccNoSocialAcc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Notifications.
         /// </summary>
         public static string AccNotifications {

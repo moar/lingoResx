@@ -88,6 +88,15 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Max. Time.
+        /// </summary>
+        public static string HBMaxTime {
+            get {
+                return ResourceManager.GetString("HBMaxTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Invite your friends to &lt;strong&gt;Langademy&lt;/strong&gt; now! each registered friend will add 30 minutes to your hoursbag! Or follow us in the social networks and you will earn an extra hour!.
         /// </summary>
         public static string InviteEarn {
@@ -97,7 +106,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter a mail and push space or &quot; ; &quot;.
+        ///   Looks up a localized string similar to Enter an  email address and push space or &quot; ; &quot;.
         /// </summary>
         public static string MailInstruction {
             get {
@@ -115,7 +124,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time Balance.
+        ///   Looks up a localized string similar to Remaining time.
         /// </summary>
         public static string RemainingTime {
             get {

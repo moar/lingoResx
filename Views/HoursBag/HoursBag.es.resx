@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,6 +128,9 @@
   <data name="EarnButton" xml:space="preserve">
     <value>Obtener más horas</value>
   </data>
+  <data name="HBMaxTime" xml:space="preserve">
+    <value>Tiempo máx</value>
+  </data>
   <data name="InviteEarn" xml:space="preserve">
     <value><![CDATA[¡Invita a tus amigos a <strong>Langademy</strong> ahora! Por cada amigo que se registre te abonaremos 30 minutos en tu Banco de Tiempo. Y si nos sigues en las redes sociales ¡obtendrás otra hora extra!]]></value>
   </data>
@@ -134,10 +138,10 @@
     <value>Introduzca una dirección de correo electrónico y  pulsa espacio o ";"</value>
   </data>
   <data name="RemainingBagTime" xml:space="preserve">
-    <value>Banco de </value>
+    <value>Balance de horas</value>
   </data>
   <data name="RemainingTime" xml:space="preserve">
-    <value>Balance de horas</value>
+    <value>Tiempo restante</value>
   </data>
   <data name="SendInvitation" xml:space="preserve">
     <value>Enviar invitacion</value>
