@@ -88,15 +88,6 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add language.
-        /// </summary>
-        public static string AddLanguage {
-            get {
-                return ResourceManager.GetString("AddLanguage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Off.
         /// </summary>
         public static string AlertOff {
@@ -178,7 +169,7 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose the languages that you want to to use in Langademy.
+        ///   Looks up a localized string similar to Choose the languages that you want to use in Langademy.
         /// </summary>
         public static string LanguagesDesc {
             get {
@@ -309,6 +300,15 @@ namespace Resources.Views.ProfileApp {
         public static string PersonalInfo {
             get {
                 return ResourceManager.GetString("PersonalInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Participants.
+        /// </summary>
+        public static string ProfParticipants {
+            get {
+                return ResourceManager.GetString("ProfParticipants", resourceCulture);
             }
         }
         

@@ -124,6 +124,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Invite your friends!.
+        /// </summary>
+        public static string DeskInviteFriends {
+            get {
+                return ResourceManager.GetString("DeskInviteFriends", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Languages.
         /// </summary>
         public static string DeskLanguages {
@@ -133,11 +142,47 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to My Meetups.
+        /// </summary>
+        public static string DeskMymeetings {
+            get {
+                return ResourceManager.GetString("DeskMymeetings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Participants.
+        /// </summary>
+        public static string DeskParticipants {
+            get {
+                return ResourceManager.GetString("DeskParticipants", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Privacy.
         /// </summary>
         public static string DeskPrivacy {
             get {
                 return ResourceManager.GetString("DeskPrivacy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Complete your profile quickly.
+        /// </summary>
+        public static string DeskQuickComplete {
+            get {
+                return ResourceManager.GetString("DeskQuickComplete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Be suggested to the language community.
+        /// </summary>
+        public static string DeskSuggestCommunity {
+            get {
+                return ResourceManager.GetString("DeskSuggestCommunity", resourceCulture);
             }
         }
         

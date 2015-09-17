@@ -138,11 +138,26 @@
   <data name="DeskBusy" xml:space="preserve">
     <value>Busy</value>
   </data>
+  <data name="DeskInviteFriends" xml:space="preserve">
+    <value>Invite your friends!</value>
+  </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Languages</value>
   </data>
+  <data name="DeskMymeetings" xml:space="preserve">
+    <value>My Meetups</value>
+  </data>
+  <data name="DeskParticipants" xml:space="preserve">
+    <value>Participants</value>
+  </data>
   <data name="DeskPrivacy" xml:space="preserve">
     <value>Privacy</value>
+  </data>
+  <data name="DeskQuickComplete" xml:space="preserve">
+    <value>Complete your profile quickly</value>
+  </data>
+  <data name="DeskSuggestCommunity" xml:space="preserve">
+    <value>Be suggested to the language community</value>
   </data>
   <data name="DeskTerms" xml:space="preserve">
     <value>Terms</value>
