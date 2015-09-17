@@ -304,6 +304,15 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add language.
+        /// </summary>
+        public static string ProfAddLanguage {
+            get {
+                return ResourceManager.GetString("ProfAddLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Participants.
         /// </summary>
         public static string ProfParticipants {
