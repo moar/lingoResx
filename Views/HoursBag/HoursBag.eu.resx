@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,6 +128,9 @@
   </data>
   <data name="EarnButton" xml:space="preserve">
     <value>Lortu ordu gehiago</value>
+  </data>
+  <data name="HBMaxTime" xml:space="preserve">
+    <value>Gehi. denbora</value>
   </data>
   <data name="InviteEarn" xml:space="preserve">
     <value><![CDATA[Gonbida itzazu zure lagunak  <strong>Langademy</strong>-ra orain! Izena ematen duen lagun bakoitzeko 30 minutu oparituko dizkizugu zure denbora bankurarko! Gainera, ordu extra bat irabazi dezakezu gure saren sozialetan jarratzaile eginez!]]></value>

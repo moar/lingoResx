@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -182,6 +183,9 @@
   <data name="NamePH" xml:space="preserve">
     <value>Escribe tu nombre</value>
   </data>
+  <data name="NewMeetupParticipant" xml:space="preserve">
+    <value>Nuevos participantes en la quedada</value>
+  </data>
   <data name="NoAcitivity" xml:space="preserve">
     <value>No hay actividad aún</value>
   </data>
@@ -196,6 +200,9 @@
   </data>
   <data name="PersonalInfo" xml:space="preserve">
     <value>Información personal</value>
+  </data>
+  <data name="ProfAddLanguage" xml:space="preserve">
+    <value>Añadir idioma</value>
   </data>
   <data name="ProfParticipants" xml:space="preserve">
     <value>Participantes</value>

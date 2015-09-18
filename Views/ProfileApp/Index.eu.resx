@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -179,6 +180,9 @@
   <data name="NamePH" xml:space="preserve">
     <value>Idatzi zure izena</value>
   </data>
+  <data name="NewMeetupParticipant" xml:space="preserve">
+    <value>Partaide berria bileran</value>
+  </data>
   <data name="NoAcitivity" xml:space="preserve">
     <value>Ez da jarduerarik oraindik</value>
   </data>
@@ -193,6 +197,12 @@
   </data>
   <data name="PersonalInfo" xml:space="preserve">
     <value>Informazio pertsonala</value>
+  </data>
+  <data name="ProfAddLanguage" xml:space="preserve">
+    <value>Hizkuntza gehitu</value>
+  </data>
+  <data name="ProfParticipants" xml:space="preserve">
+    <value>Partaideak</value>
   </data>
   <data name="ProfSelectLanguage" xml:space="preserve">
     <value>Aukeratu hizkuntza</value>

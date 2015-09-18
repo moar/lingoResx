@@ -64,6 +64,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -159,13 +160,16 @@
     <value>Jakinarazpenak</value>
   </data>
   <data name="ReloadNow" xml:space="preserve">
-    <value>Reload now</value>
+    <value>Birkargatu orain</value>
   </data>
   <data name="SendMessage" xml:space="preserve">
     <value>Mezua bidali</value>
   </data>
   <data name="ShowAll" xml:space="preserve">
     <value>Guztiak erakutsi</value>
+  </data>
+  <data name="ViewProfile" xml:space="preserve">
+    <value>Ikusi profila</value>
   </data>
   <data name="RPViewProfile" xml:space="preserve">
     <value>Ikusi profila</value>

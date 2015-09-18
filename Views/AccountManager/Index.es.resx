@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -157,5 +158,14 @@
   </data>
   <data name="SocialNetworks" xml:space="preserve">
     <value>Redes sociales</value>
+  </data>
+  <data name="AccLinkAccounts" xml:space="preserve">
+    <value>Vincular cuenta</value>
+  </data>
+  <data name="AccLinkedAccounts" xml:space="preserve">
+    <value>Cuentas vinculadas</value>
+  </data>
+  <data name="AccNoSocialAcc" xml:space="preserve">
+    <value>No tienes cuentas de redes sociales vinculadas</value>
   </data>
 </root>
