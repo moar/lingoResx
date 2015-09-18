@@ -214,11 +214,47 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Last week (minutes).
+        /// </summary>
+        public static string ProfLastWeekStats {
+            get {
+                return ResourceManager.GetString("ProfLastWeekStats", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to minutes.
         /// </summary>
         public static string ProfMinutes {
             get {
                 return ResourceManager.GetString("ProfMinutes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next Meetups.
+        /// </summary>
+        public static string ProfNextMeetups {
+            get {
+                return ResourceManager.GetString("ProfNextMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Recent Activity.
+        /// </summary>
+        public static string ProfRecentAct {
+            get {
+                return ResourceManager.GetString("ProfRecentAct", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time per language.
+        /// </summary>
+        public static string ProfTimePLang {
+            get {
+                return ResourceManager.GetString("ProfTimePLang", resourceCulture);
             }
         }
         
@@ -237,15 +273,6 @@ namespace Resources.Views.VisitProfileApp {
         public static string UpdateLanguage {
             get {
                 return ResourceManager.GetString("UpdateLanguage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Videocall.
-        /// </summary>
-        public static string Videocall {
-            get {
-                return ResourceManager.GetString("Videocall", resourceCulture);
             }
         }
         
