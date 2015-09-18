@@ -286,6 +286,15 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Call.
+        /// </summary>
+        public static string VPVideoCall {
+            get {
+                return ResourceManager.GetString("VPVideoCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} day(s) ago.
         /// </summary>
         public static string XDaysAgo {

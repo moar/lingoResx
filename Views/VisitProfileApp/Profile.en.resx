@@ -198,4 +198,7 @@
   <data name="ProfTimePLang" xml:space="preserve">
     <value>Time per language</value>
   </data>
+  <data name="VPVideoCall" xml:space="preserve">
+    <value>Call</value>
+  </data>
 </root>
