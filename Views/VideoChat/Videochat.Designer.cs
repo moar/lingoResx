@@ -223,6 +223,15 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} wants to chat with you!.
+        /// </summary>
+        public static string VidWannaChat {
+            get {
+                return ResourceManager.GetString("VidWannaChat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Waiting for {0}&apos;s camera .
         /// </summary>
         public static string WaitingTo {
