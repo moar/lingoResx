@@ -313,6 +313,15 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Unable to upload the file.
+        /// </summary>
+        public static string ProfCantUpload {
+            get {
+                return ResourceManager.GetString("ProfCantUpload", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Participants.
         /// </summary>
         public static string ProfParticipants {
