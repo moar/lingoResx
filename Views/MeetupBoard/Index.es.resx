@@ -172,7 +172,7 @@
     <value>Se requieren la fecha y la hora de inicio de la quedada</value>
   </data>
   <data name="ReqLanguage" xml:space="preserve">
-    <value>Se quiere el idioma de la quedada</value>
+    <value>Se requiere el idioma de la quedada</value>
   </data>
   <data name="SelectedContactsHeader" xml:space="preserve">
     <value>Contactos seleccionados</value>
