@@ -903,3 +903,5 @@ obj/Release/TempPE/Views.VideoChat.Videochat.Designer.cs.dll
 obj/Release/TempPE/Views.VideoChat.Videochat.en.Designer.cs.dll
 obj/Release/TempPE/Views.VisitProfileApp.Profile.Designer.cs.dll
 obj/Release/TempPE/Views.VisitProfileApp.Profile.en.Designer.cs.dll
+Views/LoginRegister/LoginRegister.en.resx.orig
+Views/ManageAccount/ManageAccount.en.resx.orig
