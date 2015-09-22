@@ -61,6 +61,15 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to I have read and agree to the &lt;a href=&quot;{0}&quot; target=&quot;_blank&quot;&gt;terms and conditions&lt;/a&gt;.
+        /// </summary>
+        public static string AgreeTerms {
+            get {
+                return ResourceManager.GetString("AgreeTerms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your account has been blocked.
         /// </summary>
         public static string BlockedAccount {
@@ -106,7 +115,7 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Current passwod.
+        ///   Looks up a localized string similar to Current password.
         /// </summary>
         public static string CurrentPw {
             get {
@@ -133,7 +142,7 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You&apos;ve successfully authenticated with.
+        ///   Looks up a localized string similar to You&apos;ve successfully authenticated with &lt;strong&gt;{0}&lt;/strong&gt;. .
         /// </summary>
         public static string ExtLoginSuccess {
             get {
@@ -295,6 +304,15 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Terms and Conditions.
+        /// </summary>
+        public static string RegTerms {
+            get {
+                return ResourceManager.GetString("RegTerms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Remember me.
         /// </summary>
         public static string RememberMe {
@@ -327,6 +345,15 @@ namespace Resources.Views.LoginRegister {
         public static string ReqPassword {
             get {
                 return ResourceManager.GetString("ReqPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have to read and accept the terms and conditions.
+        /// </summary>
+        public static string ReqTerms {
+            get {
+                return ResourceManager.GetString("ReqTerms", resourceCulture);
             }
         }
     }
