@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -143,7 +144,7 @@
     <value>Petición pendiente</value>
   </data>
   <data name="Partners" xml:space="preserve">
-    <value>Conectado</value>
+    <value>Conectados</value>
   </data>
   <data name="LessThanHourAgo" xml:space="preserve">
     <value>Hace menos de hora</value>

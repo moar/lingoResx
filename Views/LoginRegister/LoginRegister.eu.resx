@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -147,7 +148,7 @@
     <value>{0} erabitzen ari zara dagoeneko. Mesedez, hasi ezazu zure saioa Langademy-ko kontuaz {1}-kin linkatzea nahi baduzu</value>
   </data>
   <data name="ExtLoginSuccess" xml:space="preserve">
-    <value>Behar bezala autentikatu zara </value>
+    <value><![CDATA[Behar bezala autentikatu zara <strong>{0}</strong>-ekin. ]]></value>
   </data>
   <data name="ExtLoginUnsuccessful" xml:space="preserve">
     <value>Login okerra</value>
