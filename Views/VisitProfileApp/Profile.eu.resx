@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -125,6 +126,9 @@
   <data name="AdditionalInfo" xml:space="preserve">
     <value>Informazio osagarria</value>
   </data>
+  <data name="AddLanguage" xml:space="preserve">
+    <value><![CDATA[<strong>{0}</strong> ({1}) gehi tu du]]></value>
+  </data>
   <data name="Block" xml:space="preserve">
     <value>Blokeatu</value>
   </data>
@@ -184,5 +188,20 @@
   </data>
   <data name="ProfMinutes" xml:space="preserve">
     <value>minutu</value>
+  </data>
+  <data name="ProfLastWeekStats" xml:space="preserve">
+    <value>Azken astean (minututan)</value>
+  </data>
+  <data name="ProfNextMeetups" xml:space="preserve">
+    <value>Hurrengo Bilerak</value>
+  </data>
+  <data name="ProfRecentAct" xml:space="preserve">
+    <value>Azken jarduerak</value>
+  </data>
+  <data name="ProfTimePLang" xml:space="preserve">
+    <value>Denbora hizkuntzako</value>
+  </data>
+  <data name="VPVideoCall" xml:space="preserve">
+    <value>Deitu</value>
   </data>
 </root>

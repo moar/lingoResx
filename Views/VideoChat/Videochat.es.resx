@@ -65,6 +65,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -176,6 +177,9 @@
   </data>
   <data name="VCDuration" xml:space="preserve">
     <value>Duración</value>
+  </data>
+  <data name="VidWannaChat" xml:space="preserve">
+    <value>¡{0} quiere hablar contigo!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
     <value>Esperando a la camara de {0}</value>

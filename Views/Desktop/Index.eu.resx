@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -134,11 +135,35 @@
   <data name="AddThumbnail" xml:space="preserve">
     <value>Gehitu zure argazkia</value>
   </data>
+  <data name="DeskAbout" xml:space="preserve">
+    <value>Langademyri buruz</value>
+  </data>
   <data name="DeskBusy" xml:space="preserve">
     <value>Lanpetuta</value>
   </data>
+  <data name="DeskInviteFriends" xml:space="preserve">
+    <value>Gonbidatu zure lagunak!</value>
+  </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Hizkuntzak</value>
+  </data>
+  <data name="DeskMymeetings" xml:space="preserve">
+    <value>Nire Bilerak</value>
+  </data>
+  <data name="DeskParticipants" xml:space="preserve">
+    <value>Partaideak</value>
+  </data>
+  <data name="DeskPrivacy" xml:space="preserve">
+    <value>Pribazitatea</value>
+  </data>
+  <data name="DeskQuickComplete" xml:space="preserve">
+    <value>Osatu zure profila</value>
+  </data>
+  <data name="DeskSuggestCommunity" xml:space="preserve">
+    <value>Zure burua kontaktu bezala irakodi</value>
+  </data>
+  <data name="DeskTerms" xml:space="preserve">
+    <value>Baldintzak</value>
   </data>
   <data name="EditProfileDesk" xml:space="preserve">
     <value>Profila editatu</value>

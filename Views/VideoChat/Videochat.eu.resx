@@ -65,6 +65,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -150,11 +151,17 @@
   <data name="NoAnswer" xml:space="preserve">
     <value>{0}-(e)k ez du erantzuten</value>
   </data>
+  <data name="PrevTime" xml:space="preserve">
+    <value>Aurreko denbora balantzea</value>
+  </data>
   <data name="ReportLang" xml:space="preserve">
     <value>Hizkuntza</value>
   </data>
   <data name="ReportLevel" xml:space="preserve">
     <value>Zure maila</value>
+  </data>
+  <data name="ReportPartnerlevel" xml:space="preserve">
+    <value>Zure bikotearen maila</value>
   </data>
   <data name="ReportTimeAccount" xml:space="preserve">
     <value>Zure konturako denbora</value>
@@ -165,8 +172,14 @@
   <data name="TimeLeft" xml:space="preserve">
     <value>Gelditzen zaizun denbora</value>
   </data>
+  <data name="Title" xml:space="preserve">
+    <value>Bideotxata</value>
+  </data>
   <data name="VCDuration" xml:space="preserve">
     <value>Iraupena</value>
+  </data>
+  <data name="VidWannaChat" xml:space="preserve">
+    <value>{0}-(e)k zurekin hitz egin nahi du!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
     <value>{0}-en kameraren zain</value>

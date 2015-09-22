@@ -201,6 +201,9 @@
   <data name="ProfAddLanguage" xml:space="preserve">
     <value>Add language</value>
   </data>
+  <data name="ProfCantUpload" xml:space="preserve">
+    <value>Unable to upload the file</value>
+  </data>
   <data name="ProfParticipants" xml:space="preserve">
     <value>Participants</value>
   </data>
