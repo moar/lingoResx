@@ -61,7 +61,7 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I have read and agree to the &lt;a href=&quot;{0}&quot; target=&quot;_blank&quot;&gt;terms and conditions&lt;/a&gt;.
+        ///   Looks up a localized string similar to I have read and I agree to the &lt;a href=&quot;{0}&quot; target=&quot;_blank&quot;&gt;terms and conditions&lt;/a&gt;.
         /// </summary>
         public static string AgreeTerms {
             get {
@@ -142,7 +142,7 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You&apos;ve successfully authenticated with &lt;strong&gt;{0}&lt;/strong&gt;. .
+        ///   Looks up a localized string similar to You&apos;ve successfully authenticated with &lt;strong&gt;{0}&lt;/strong&gt;..
         /// </summary>
         public static string ExtLoginSuccess {
             get {
@@ -349,7 +349,7 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have to read and accept the terms and conditions.
+        ///   Looks up a localized string similar to You have to agree to the terms and conditions.
         /// </summary>
         public static string ReqTerms {
             get {
