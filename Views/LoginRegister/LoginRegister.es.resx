@@ -66,6 +66,9 @@
   
   
   
+  
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -146,7 +149,7 @@
     <value>{0} ya está en uso. Por favor, accede con tu cuenta de Langademy si deseas vincular tu cuenta con {1}</value>
   </data>
   <data name="ExtLoginSuccess" xml:space="preserve">
-    <value>Te has autenticado satisfactoriamente con</value>
+    <value><![CDATA[Te has autenticado satisfactoriamente con <strong>{0}</strong>. ]]></value>
   </data>
   <data name="ExtLoginUnsuccessful" xml:space="preserve">
     <value>No te has podido loguear correctamente</value>
@@ -213,5 +216,14 @@
   </data>
   <data name="LRNameLength" xml:space="preserve">
     <value>El nombre debe tener al menos {2} caracteres y {1} caracteres como máximo</value>
+  </data>
+  <data name="AgreeTerms" xml:space="preserve">
+    <value><![CDATA[He leído y estoy de acuerdo con los <a href="{0}" target="_blank">términos y condiciones</a>]]></value>
+  </data>
+  <data name="RegTerms" xml:space="preserve">
+    <value>Términos y Condiciones</value>
+  </data>
+  <data name="ReqTerms" xml:space="preserve">
+    <value>Tienes que leer y aceptar los términos y condiciones</value>
   </data>
 </root>

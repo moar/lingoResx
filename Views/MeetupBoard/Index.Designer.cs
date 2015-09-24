@@ -178,6 +178,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Participantes.
+        /// </summary>
+        public static string MBParticipants {
+            get {
+                return ResourceManager.GetString("MBParticipants", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} meetup.
         /// </summary>
         public static string Meetup {
@@ -273,15 +282,6 @@ namespace Resources.Views.MeetupBoard {
         public static string NextPrevMeetups {
             get {
                 return ResourceManager.GetString("NextPrevMeetups", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Participants.
-        /// </summary>
-        public static string Participants {
-            get {
-                return ResourceManager.GetString("Participants", resourceCulture);
             }
         }
         

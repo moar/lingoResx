@@ -97,6 +97,15 @@ namespace Resources.Views.ManageAccount {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Go back.
+        /// </summary>
+        public static string MAReturn {
+            get {
+                return ResourceManager.GetString("MAReturn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Forgot Password Confirmation.
         /// </summary>
         public static string PwForgotConfirm {
