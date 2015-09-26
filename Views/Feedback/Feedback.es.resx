@@ -128,7 +128,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FbPlaceholder" xml:space="preserve">
-    <value>Escrube tu feedback...</value>
+    <value>Escribe tu feedback...</value>
   </data>
   <data name="MaxLength" xml:space="preserve">
     <value>La longitud máxima del feedback es de 3000 caracteres</value>

@@ -97,6 +97,78 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Please, allow Langademy to access your camera and microphone so you can join the room!.
+        /// </summary>
+        public static string LRAccessCamera {
+            get {
+                return ResourceManager.GetString("LRAccessCamera", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Exit.
+        /// </summary>
+        public static string LRExit {
+            get {
+                return ResourceManager.GetString("LRExit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Filter.
+        /// </summary>
+        public static string LRFilter {
+            get {
+                return ResourceManager.GetString("LRFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There isn&apos;t any connected user right now. Visit the&lt;a href=&quot;{0}&quot; target=&quot;_blank&quot;&gt;meetup board&lt;/a&gt; to check if someone will be meeting you soon!.
+        /// </summary>
+        public static string LRNoUsers {
+            get {
+                return ResourceManager.GetString("LRNoUsers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Trying to connect you with a partner.
+        /// </summary>
+        public static string LRTryConnect {
+            get {
+                return ResourceManager.GetString("LRTryConnect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Users.
+        /// </summary>
+        public static string LRUsers {
+            get {
+                return ResourceManager.GetString("LRUsers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Write here.
+        /// </summary>
+        public static string LRWriteHere {
+            get {
+                return ResourceManager.GetString("LRWriteHere", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There isn&apos;t any user that meets your filter. Change the filter or wait until more users get available.
+        /// </summary>
+        public static string NoFilterMatch {
+            get {
+                return ResourceManager.GetString("NoFilterMatch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Remember that only the rooms of the languages you practise are available for you.
         /// </summary>
         public static string RememberRooms {
