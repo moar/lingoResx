@@ -159,4 +159,10 @@
   <data name="LRWriteHere" xml:space="preserve">
     <value>Write here</value>
   </data>
+  <data name="LRAllBusy" xml:space="preserve">
+    <value>Everybody is busy. Hang there, we will find you a chat partner as soon as possible!</value>
+  </data>
+  <data name="LRFilterTime" xml:space="preserve">
+    <value>You have chat with everyone that suits your requirements. Wait for new users!</value>
+  </data>
 </root>
