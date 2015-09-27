@@ -106,6 +106,15 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Everybody is busy. Hang there, we will find you a chat partner as soon as possible!.
+        /// </summary>
+        public static string LRAllBusy {
+            get {
+                return ResourceManager.GetString("LRAllBusy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Exit.
         /// </summary>
         public static string LRExit {
@@ -120,6 +129,15 @@ namespace Resources.Views.Langroulette {
         public static string LRFilter {
             get {
                 return ResourceManager.GetString("LRFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have chat with everyone that suits your requirements. Wait for new users!.
+        /// </summary>
+        public static string LRFilterTime {
+            get {
+                return ResourceManager.GetString("LRFilterTime", resourceCulture);
             }
         }
         
