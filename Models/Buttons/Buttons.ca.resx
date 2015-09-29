@@ -68,6 +68,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -126,4 +127,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="Add" xml:space="preserve">
+    <value>Afegir</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>cancel·lar  </value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value>Acceptar </value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Eliminar </value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Editar </value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Sortir</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Guardar </value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+</root>

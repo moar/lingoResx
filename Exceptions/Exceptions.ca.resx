@@ -68,6 +68,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -126,4 +127,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="FriendsAlreadyException" xml:space="preserve">
+    <value>Ja esteu connectats </value>
+  </data>
+  <data name="InvalidDateTimeException" xml:space="preserve">
+    <value>Data invàlida </value>
+  </data>
+  <data name="InvalidUserLanguageException" xml:space="preserve">
+    <value>Nom d'usuari invàlid </value>
+  </data>
+  <data name="LanguageNotFoundException" xml:space="preserve">
+    <value>Idioma no trobat </value>
+  </data>
+  <data name="MeetupNotFoundException" xml:space="preserve">
+    <value>Quedada no trobada</value>
+  </data>
+  <data name="NoAccessToRoom" xml:space="preserve">
+    <value>No tens accés a aquesta sala </value>
+  </data>
+  <data name="RoomNotExist" xml:space="preserve">
+    <value>La sala no existeix </value>
+  </data>
+  <data name="RoomNotFound" xml:space="preserve">
+    <value>Sala no trobada</value>
+  </data>
+  <data name="SelfFriendShipException" xml:space="preserve">
+    <value>No pots realitzar una sol·licitud de contacte a tu mateix  </value>
+  </data>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>Usuari no trobat </value>
+  </data>
+  <data name="UserNotInAnyRoom" xml:space="preserve">
+    <value>L'usuari no es troba a cap sala </value>
+  </data>
+</root>

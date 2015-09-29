@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -142,6 +143,9 @@
   </data>
   <data name="AL" xml:space="preserve">
     <value>Albania</value>
+  </data>
+  <data name="AM" xml:space="preserve">
+    <value>Armenia</value>
   </data>
   <data name="AN" xml:space="preserve">
     <value>Antillas Holandesas</value>

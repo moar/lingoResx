@@ -68,6 +68,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,9 +129,18 @@
   </resheader>
   
   <data name="TileChat" xml:space="preserve">
-    <value>Chat</value>
+    <value>Xat</value>
+  </data>
+  <data name="ConfigurationIntro" xml:space="preserve">
+    <value>Configura el teu compte ràpidament </value>
   </data>
   <data name="My_evolution" xml:space="preserve">
     <value>Nire eboluzioa</value>
+  </data>
+  <data name="Edit_Profile" xml:space="preserve">
+    <value>Editar Perfil</value>
+  </data>
+  <data name="HoursBagIntro" xml:space="preserve">
+    <value>Quan practiques amb un idioma que no sigui al teu idioma natiu </value>
   </data>
 </root>
