@@ -70,7 +70,7 @@ namespace Resources.ViewModels.Notifications {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;{0}&quot;&gt;{1}&lt;/a&gt; joined Langademy. You earned 30 minutes for your Hour Bag!.
+        ///   Looks up a localized string similar to &lt;a href=&quot;{0}&quot;&gt;{1}&lt;/a&gt; joined Langademy. You earned 30 minutes for your Time Bank!.
         /// </summary>
         public static string FriendJoined {
             get {
@@ -106,7 +106,7 @@ namespace Resources.ViewModels.Notifications {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New missed call.
+        ///   Looks up a localized string similar to Missed call.
         /// </summary>
         public static string NewMissedCall {
             get {

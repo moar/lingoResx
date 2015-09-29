@@ -143,6 +143,6 @@
     <value><![CDATA[<a href="{0}">{1}</a> invited you to attend a Langroulette meetup]]></value>
   </data>
   <data name="NewMissedCall" xml:space="preserve">
-    <value>New missed call</value>
+    <value>Missed call</value>
   </data>
 </root>

@@ -70,15 +70,6 @@ namespace Resources.Apps {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langroulette.
-        /// </summary>
-        public static string AppLangroulette {
-            get {
-                return ResourceManager.GetString("AppLangroulette", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Desktop.
         /// </summary>
         public static string Desktop {
@@ -102,6 +93,15 @@ namespace Resources.Apps {
         public static string HoursBagApp {
             get {
                 return ResourceManager.GetString("HoursBagApp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langroulette.
+        /// </summary>
+        public static string Langroulette {
+            get {
+                return ResourceManager.GetString("Langroulette", resourceCulture);
             }
         }
         
