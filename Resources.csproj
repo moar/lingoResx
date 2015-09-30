@@ -74,11 +74,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Apps\Apps.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Apps.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Apps\Apps1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -89,25 +84,10 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Account.resx</DependentUpon>
     </Compile>
-    <Compile Include="Controllers\Account\Account.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Account.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Core\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Core\Resources.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resources.en.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Countries\Countries.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Countries.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Countries\Countries1.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -119,90 +99,45 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Exceptions.resx</DependentUpon>
     </Compile>
-    <Compile Include="Exceptions\Exceptions.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Exceptions.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="General\CookieConsent.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CookieConsent.resx</DependentUpon>
-    </Compile>
-    <Compile Include="General\CookieConsent.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>CookieConsent.en.resx</DependentUpon>
     </Compile>
     <Compile Include="General\ServerNotifications.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ServerNotifications.resx</DependentUpon>
     </Compile>
-    <Compile Include="General\ServerNotifications.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ServerNotifications.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Hubs\MessagingHub\MessagingHub.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>MessagingHub.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Hubs\MessagingHub\MessagingHub.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>MessagingHub.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Languages\LanguageLevels.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>LanguageLevels.resx</DependentUpon>
     </Compile>
-    <Compile Include="Languages\LanguageLevels.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LanguageLevels.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Languages\Languages.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Languages.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Languages\Languages.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Languages.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Models\Buttons\Buttons.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Buttons.resx</DependentUpon>
     </Compile>
-    <Compile Include="Models\Buttons\Buttons.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Buttons.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Models\DateTime\DateTime.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DateTime.resx</DependentUpon>
     </Compile>
-    <Compile Include="Models\DateTime\DateTime.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DateTime.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Models\Section\Section.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Section.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Section\Section.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Section.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Models\Tiles\Tiles.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -220,20 +155,10 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Contact.resx</DependentUpon>
     </Compile>
-    <Compile Include="ViewModels\Contacts\Contact.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Contact.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="ViewModels\HoursBag\HoursBag.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>HoursBag.resx</DependentUpon>
-    </Compile>
-    <Compile Include="ViewModels\HoursBag\HoursBag.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HoursBag.en.resx</DependentUpon>
     </Compile>
     <Compile Include="ViewModels\Notifications\Notification.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -245,200 +170,100 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>VideoChatReport.resx</DependentUpon>
     </Compile>
-    <Compile Include="ViewModels\VideoChatReport\VideoChatReport.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>VideoChatReport.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\AccountManager\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\AccountManager\Index.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Index.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Contact\Contact.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Contact.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Contact\Contact.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Contact.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\Desktop\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Desktop\Index.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Index.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Feedback\Feedback.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Feedback.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Feedback\Feedback.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Feedback.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\Help\Help.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Help.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Help\Help.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Help.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\HoursBag\HoursBag.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>HoursBag.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\HoursBag\HoursBag.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HoursBag.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\Index\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Index\Index.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Index.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Langroulette\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Langroulette\Index.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Index.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\Layout\Layout.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Layout.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Layout\Layout.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Layout.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\LoginRegister\LoginRegister.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>LoginRegister.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\LoginRegister\LoginRegister.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LoginRegister.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\Mails\Mail.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Mail.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Mails\Mail.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Mail.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\ManageAccount\ManageAccount.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ManageAccount.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\ManageAccount\ManageAccount.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ManageAccount.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\MeetupBoard\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\MeetupBoard\Index.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Index.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Messages\Inbox.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Inbox.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Messages\Inbox.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Inbox.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\ProfileApp\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\ProfileApp\Index.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Index.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Report\Report.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Report.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Report\Report.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Report.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\RightPanel\RightPanel.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>RightPanel.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\RightPanel\RightPanel.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>RightPanel.en.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\VideoChat\Videochat.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Videochat.resx</DependentUpon>
     </Compile>
-    <Compile Include="Views\VideoChat\Videochat.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Videochat.en.resx</DependentUpon>
-    </Compile>
     <Compile Include="Views\VisitProfileApp\Profile.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Profile.resx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\VisitProfileApp\Profile.en.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Profile.en.resx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -448,10 +273,6 @@
   <ItemGroup>
     <EmbeddedResource Include="Apps\Apps.ca.resx" />
     <EmbeddedResource Include="Apps\Apps.de.resx" />
-    <EmbeddedResource Include="Apps\Apps.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Apps.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Apps\Apps.es.resx" />
     <EmbeddedResource Include="Apps\Apps.eu.resx" />
     <EmbeddedResource Include="Apps\Apps.fr.resx" />
@@ -462,10 +283,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Controllers\Account\Account.ca.resx" />
     <EmbeddedResource Include="Controllers\Account\Account.de.resx" />
-    <EmbeddedResource Include="Controllers\Account\Account.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Account.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Controllers\Account\Account.es.resx" />
     <EmbeddedResource Include="Controllers\Account\Account.eu.resx" />
     <EmbeddedResource Include="Controllers\Account\Account.fr.resx" />
@@ -474,20 +291,12 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Account.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Core\Resources.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Core\Resources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Countries\Countries.ca.resx" />
     <EmbeddedResource Include="Countries\Countries.de.resx" />
-    <EmbeddedResource Include="Countries\Countries.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Countries.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Countries\Countries.es.resx" />
     <EmbeddedResource Include="Countries\Countries.eu.resx" />
     <EmbeddedResource Include="Countries\Countries.fr.resx" />
@@ -498,10 +307,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Exceptions\Exceptions.ca.resx" />
     <EmbeddedResource Include="Exceptions\Exceptions.de.resx" />
-    <EmbeddedResource Include="Exceptions\Exceptions.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Exceptions.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Exceptions\Exceptions.es.resx" />
     <EmbeddedResource Include="Exceptions\Exceptions.eu.resx" />
     <EmbeddedResource Include="Exceptions\Exceptions.fr.resx" />
@@ -512,10 +317,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="General\CookieConsent.ca.resx" />
     <EmbeddedResource Include="General\CookieConsent.de.resx" />
-    <EmbeddedResource Include="General\CookieConsent.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>CookieConsent.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="General\CookieConsent.es.resx" />
     <EmbeddedResource Include="General\CookieConsent.eu.resx" />
     <EmbeddedResource Include="General\CookieConsent.fr.resx" />
@@ -526,10 +327,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="General\ServerNotifications.ca.resx" />
     <EmbeddedResource Include="General\ServerNotifications.de.resx" />
-    <EmbeddedResource Include="General\ServerNotifications.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>ServerNotifications.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="General\ServerNotifications.es.resx" />
     <EmbeddedResource Include="General\ServerNotifications.eu.resx" />
     <EmbeddedResource Include="General\ServerNotifications.fr.resx" />
@@ -540,10 +337,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.ca.resx" />
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.de.resx" />
-    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>MessagingHub.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.es.resx" />
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.eu.resx" />
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.fr.resx" />
@@ -554,10 +347,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Languages\LanguageLevels.ca.resx" />
     <EmbeddedResource Include="Languages\LanguageLevels.de.resx" />
-    <EmbeddedResource Include="Languages\LanguageLevels.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>LanguageLevels.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Languages\LanguageLevels.es.resx" />
     <EmbeddedResource Include="Languages\LanguageLevels.eu.resx" />
     <EmbeddedResource Include="Languages\LanguageLevels.fr.resx" />
@@ -568,10 +357,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Languages\Languages.ca.resx" />
     <EmbeddedResource Include="Languages\Languages.de.resx" />
-    <EmbeddedResource Include="Languages\Languages.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Languages.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Languages\Languages.es.resx" />
     <EmbeddedResource Include="Languages\Languages.eu.resx" />
     <EmbeddedResource Include="Languages\Languages.fr.resx" />
@@ -581,10 +366,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Models\Buttons\Buttons.ca.resx" />
     <EmbeddedResource Include="Models\Buttons\Buttons.de.resx" />
-    <EmbeddedResource Include="Models\Buttons\Buttons.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Buttons.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Models\Buttons\Buttons.es.resx" />
     <EmbeddedResource Include="Models\Buttons\Buttons.eu.resx" />
     <EmbeddedResource Include="Models\Buttons\Buttons.fr.resx" />
@@ -595,10 +376,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Models\DateTime\DateTime.ca.resx" />
     <EmbeddedResource Include="Models\DateTime\DateTime.de.resx" />
-    <EmbeddedResource Include="Models\DateTime\DateTime.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>DateTime.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Models\DateTime\DateTime.es.resx" />
     <EmbeddedResource Include="Models\DateTime\DateTime.eu.resx" />
     <EmbeddedResource Include="Models\DateTime\DateTime.fr.resx" />
@@ -609,10 +386,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Models\Section\Section.ca.resx" />
     <EmbeddedResource Include="Models\Section\Section.de.resx" />
-    <EmbeddedResource Include="Models\Section\Section.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Section.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Models\Section\Section.es.resx" />
     <EmbeddedResource Include="Models\Section\Section.eu.resx" />
     <EmbeddedResource Include="Models\Section\Section.fr.resx" />
@@ -624,7 +397,6 @@
     <EmbeddedResource Include="Models\Tiles\Tiles.ca.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.cat.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.de.resx" />
-    <EmbeddedResource Include="Models\Tiles\Tiles.en.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.es.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.eu.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.fr.resx" />
@@ -635,7 +407,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UserData\UserData.ca.resx" />
     <EmbeddedResource Include="UserData\UserData.de.resx" />
-    <EmbeddedResource Include="UserData\UserData.en.resx" />
     <EmbeddedResource Include="UserData\UserData.es.resx" />
     <EmbeddedResource Include="UserData\UserData.eu.resx" />
     <EmbeddedResource Include="UserData\UserData.fr.resx" />
@@ -643,10 +414,6 @@
     <EmbeddedResource Include="UserData\UserData.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>UserData.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ViewModels\Contacts\Contact.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Contact.en.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewModels\Contacts\Contact.es.resx" />
     <EmbeddedResource Include="ViewModels\Contacts\Contact.eu.resx" />
@@ -656,10 +423,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.ca.resx" />
     <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.de.resx" />
-    <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>HoursBag.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.es.resx" />
     <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.eu.resx" />
     <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.fr.resx" />
@@ -670,7 +433,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ViewModels\Notifications\Notification.ca.resx" />
     <EmbeddedResource Include="ViewModels\Notifications\Notification.de.resx" />
-    <EmbeddedResource Include="ViewModels\Notifications\Notification.en.resx" />
     <EmbeddedResource Include="ViewModels\Notifications\Notification.es.resx" />
     <EmbeddedResource Include="ViewModels\Notifications\Notification.eu.resx" />
     <EmbeddedResource Include="ViewModels\Notifications\Notification.fr.resx" />
@@ -681,10 +443,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.ca.resx" />
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.de.resx" />
-    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>VideoChatReport.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.es.resx" />
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.eu.resx" />
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.fr.resx" />
@@ -695,10 +453,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\AccountManager\Index.ca.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.de.resx" />
-    <EmbeddedResource Include="Views\AccountManager\Index.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Index.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\AccountManager\Index.es.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.eu.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.fr.resx" />
@@ -709,10 +463,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Contact\Contact.ca.resx" />
     <EmbeddedResource Include="Views\Contact\Contact.de.resx" />
-    <EmbeddedResource Include="Views\Contact\Contact.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Contact.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Contact\Contact.es.resx" />
     <EmbeddedResource Include="Views\Contact\Contact.eu.resx" />
     <EmbeddedResource Include="Views\Contact\Contact.fr.resx" />
@@ -723,10 +473,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.ca.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.de.resx" />
-    <EmbeddedResource Include="Views\Desktop\Index.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Index.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.es.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.eu.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.fr.resx" />
@@ -737,10 +483,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Feedback\Feedback.ca.resx" />
     <EmbeddedResource Include="Views\Feedback\Feedback.de.resx" />
-    <EmbeddedResource Include="Views\Feedback\Feedback.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Feedback.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Feedback\Feedback.es.resx" />
     <EmbeddedResource Include="Views\Feedback\Feedback.eu.resx" />
     <EmbeddedResource Include="Views\Feedback\Feedback.fr.resx" />
@@ -752,10 +494,6 @@
     <EmbeddedResource Include="Views\Help\Feedback.resx" />
     <EmbeddedResource Include="Views\Help\Help.ca.resx" />
     <EmbeddedResource Include="Views\Help\Help.de.resx" />
-    <EmbeddedResource Include="Views\Help\Help.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Help.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Help\Help.es.resx" />
     <EmbeddedResource Include="Views\Help\Help.eu.resx" />
     <EmbeddedResource Include="Views\Help\Help.fr.resx" />
@@ -766,10 +504,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\HoursBag\HoursBag.ca.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.de.resx" />
-    <EmbeddedResource Include="Views\HoursBag\HoursBag.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>HoursBag.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\HoursBag\HoursBag.es.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.eu.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.fr.resx" />
@@ -780,10 +514,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Index\Index.ca.resx" />
     <EmbeddedResource Include="Views\Index\Index.de.resx" />
-    <EmbeddedResource Include="Views\Index\Index.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Index.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Index\Index.es.resx" />
     <EmbeddedResource Include="Views\Index\Index.eu.resx" />
     <EmbeddedResource Include="Views\Index\Index.fr.resx" />
@@ -794,10 +524,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Langroulette\Index.ca.resx" />
     <EmbeddedResource Include="Views\Langroulette\Index.de.resx" />
-    <EmbeddedResource Include="Views\Langroulette\Index.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Index.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Langroulette\Index.es.resx" />
     <EmbeddedResource Include="Views\Langroulette\Index.eu.resx" />
     <EmbeddedResource Include="Views\Langroulette\Index.fr.resx" />
@@ -808,10 +534,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Layout\Layout.ca.resx" />
     <EmbeddedResource Include="Views\Layout\Layout.de.resx" />
-    <EmbeddedResource Include="Views\Layout\Layout.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Layout.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Layout\Layout.es.resx" />
     <EmbeddedResource Include="Views\Layout\Layout.eu.resx" />
     <EmbeddedResource Include="Views\Layout\Layout.fr.resx" />
@@ -822,10 +544,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.ca.resx" />
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.de.resx" />
-    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>LoginRegister.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.es.resx" />
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.eu.resx" />
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.fr.resx" />
@@ -836,10 +554,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Mails\Mail.ca.resx" />
     <EmbeddedResource Include="Views\Mails\Mail.de.resx" />
-    <EmbeddedResource Include="Views\Mails\Mail.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Mail.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Mails\Mail.es.resx" />
     <EmbeddedResource Include="Views\Mails\Mail.eu.resx" />
     <EmbeddedResource Include="Views\Mails\Mail.fr.resx" />
@@ -850,10 +564,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.ca.resx" />
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.de.resx" />
-    <EmbeddedResource Include="Views\ManageAccount\ManageAccount.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>ManageAccount.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.es.resx" />
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.eu.resx" />
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.fr.resx" />
@@ -864,10 +574,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\MeetupBoard\Index.ca.resx" />
     <EmbeddedResource Include="Views\MeetupBoard\Index.de.resx" />
-    <EmbeddedResource Include="Views\MeetupBoard\Index.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Index.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\MeetupBoard\Index.es.resx" />
     <EmbeddedResource Include="Views\MeetupBoard\Index.eu.resx" />
     <EmbeddedResource Include="Views\MeetupBoard\Index.fr.resx" />
@@ -878,10 +584,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Messages\Inbox.ca.resx" />
     <EmbeddedResource Include="Views\Messages\Inbox.de.resx" />
-    <EmbeddedResource Include="Views\Messages\Inbox.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Inbox.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Messages\Inbox.es.resx" />
     <EmbeddedResource Include="Views\Messages\Inbox.eu.resx" />
     <EmbeddedResource Include="Views\Messages\Inbox.fr.resx" />
@@ -892,10 +594,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\ProfileApp\Index.ca.resx" />
     <EmbeddedResource Include="Views\ProfileApp\Index.de.resx" />
-    <EmbeddedResource Include="Views\ProfileApp\Index.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Index.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\ProfileApp\Index.es.resx" />
     <EmbeddedResource Include="Views\ProfileApp\Index.eu.resx" />
     <EmbeddedResource Include="Views\ProfileApp\Index.fr.resx" />
@@ -906,10 +604,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Report\Report.ca.resx" />
     <EmbeddedResource Include="Views\Report\Report.de.resx" />
-    <EmbeddedResource Include="Views\Report\Report.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Report.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\Report\Report.es.resx" />
     <EmbeddedResource Include="Views\Report\Report.eu.resx" />
     <EmbeddedResource Include="Views\Report\Report.fr.resx" />
@@ -920,10 +614,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\RightPanel\RightPanel.ca.resx" />
     <EmbeddedResource Include="Views\RightPanel\RightPanel.de.resx" />
-    <EmbeddedResource Include="Views\RightPanel\RightPanel.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>RightPanel.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\RightPanel\RightPanel.es.resx" />
     <EmbeddedResource Include="Views\RightPanel\RightPanel.eu.resx" />
     <EmbeddedResource Include="Views\RightPanel\RightPanel.fr.resx" />
@@ -934,10 +624,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.ca.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.de.resx" />
-    <EmbeddedResource Include="Views\VideoChat\Videochat.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Videochat.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.es.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.eu.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.fr.resx" />
@@ -948,10 +634,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.ca.resx" />
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.de.resx" />
-    <EmbeddedResource Include="Views\VisitProfileApp\Profile.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Profile.en.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.es.resx" />
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.eu.resx" />
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.fr.resx" />
