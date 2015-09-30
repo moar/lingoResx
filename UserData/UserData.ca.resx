@@ -128,4 +128,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="Advanced" xml:space="preserve">
+    <value>Avançat </value>
+  </data>
+  <data name="BirthDate" xml:space="preserve">
+    <value>Data de naixement </value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>País </value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Correu electrònic </value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Dona</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="Intermediate" xml:space="preserve">
+    <value>Intermedi</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="Lastname" xml:space="preserve">
+    <value>Cognom </value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>Nivell</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="MinAge" xml:space="preserve">
+    <value>Actualment, només els usuaris majors de 16 anys poden inscriure's a Langademy</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="NameLength" xml:space="preserve">
+    <value>El nom deu tindre almenys {2} caracters i {1} caracters com a màxim  </value>
+  </data>
+  <data name="Native" xml:space="preserve">
+    <value>Natiu</value>
+  </data>
+  <data name="NativeLanguage" xml:space="preserve">
+    <value>Llengua materna</value>
+  </data>
+  <data name="ReqName" xml:space="preserve">
+    <value>Es requereix el camp del nom</value>
+  </data>
+  <data name="Surname" xml:space="preserve">
+    <value>Cognoms</value>
+  </data>
+</root>

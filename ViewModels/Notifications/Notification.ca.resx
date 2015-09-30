@@ -128,4 +128,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="FriendAccepted" xml:space="preserve">
+    <value>i tu esteu connectats en aquest moment  </value>
+  </data>
+  <data name="FriendJoined" xml:space="preserve">
+    <value><![CDATA[<a href="{0}">{1}</a> s'ha unit a Langademy. Has guanyat 30 minuts al Banc de Temps!]]></value>
+  </data>
+  <data name="FriendRequest" xml:space="preserve">
+    <value>Vol contactar amb tu</value>
+  </data>
+  <data name="MeetupInvCancelled" xml:space="preserve">
+    <value>Quedada cancel·lada </value>
+  </data>
+  <data name="MeetupInvitation" xml:space="preserve">
+    <value><![CDATA[<a href="{0}">{1}</a> t'ha convidat a una quedada en Langroulette]]></value>
+  </data>
+  <data name="NewMissedCall" xml:space="preserve">
+    <value>Nova trucada perduda </value>
+  </data>
+</root>

@@ -128,4 +128,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="LikeSentence" xml:space="preserve">
+    <value>T'ha agradat conversar amb {0} ?</value>
+  </data>
+  <data name="NoCost" xml:space="preserve">
+    <value>Aquesta trucada no té cap cost per a tu</value>
+  </data>
+  <data name="OwnFinished" xml:space="preserve">
+    <value>Has finalitzat la trucada</value>
+  </data>
+  <data name="RemoteFinished" xml:space="preserve">
+    <value>{0} ha finalitzat la trucada</value>
+  </data>
+</root>

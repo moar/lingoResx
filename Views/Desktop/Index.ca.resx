@@ -124,4 +124,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AccountOptions" xml:space="preserve">
+    <value>Opcions del compte</value>
+  </data>
+  <data name="AddAboutYou" xml:space="preserve">
+    <value>Afegeix informació sobre els teus coneixements del idioma </value>
+  </data>
+  <data name="AddBirthDate" xml:space="preserve">
+    <value>Afegeix la teva data de naixement</value>
+  </data>
+  <data name="AddMoreLangs" xml:space="preserve">
+    <value>Afegir un o més idiomes al teu perfil</value>
+  </data>
+  <data name="AddThumbnail" xml:space="preserve">
+    <value>Afegeix la teva foto</value>
+  </data>
+  <data name="EmptyInbox" xml:space="preserve">
+    <value>No tens cap missatge </value>
+  </data>
+  <data name="EmptyMeetups" xml:space="preserve">
+    <value>Uneix-te a una quedada!</value>
+  </data>
+  <data name="LogOut" xml:space="preserve">
+    <value>Tancar sessió </value>
+  </data>
+  <data name="NumNatives" xml:space="preserve">
+    <value>Natius</value>
+  </data>
+  <data name="Online" xml:space="preserve">
+    <value>Online</value>
+  </data>
+  <data name="TimeBalance" xml:space="preserve">
+    <value>Balanç d'hores</value>
+  </data>
+  <data name="TimeBank" xml:space="preserve">
+    <value>Banc de temps</value>
+  </data>
+</root>
