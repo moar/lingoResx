@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -142,5 +143,24 @@ Si no vols rebre trucades dels teus contactes, canvia el teu estat a ocupat. Rec
   <data name="LangrouletteIntro" xml:space="preserve">
     <value>Entra al Langroulette, selecciona una sala i
 Comença a practicar el teu idioma favorit! Nosaltres ens encarreguem d'emparellar-te!</value>
+  </data>
+  <data name="TimeBankDescription" xml:space="preserve">
+    <value>El Banc de Temps es un concepte per a que amb l'intercanvi d'idiomes tots surtin guanyant. 
+Aquest es el seu funcionament:  </value>
+  </data>
+  <data name="TimeBankF1" xml:space="preserve">
+    <value>Començaràs amb 5 hores, i cada mes Langademy et regalara 3 hores addicionals.  </value>
+  </data>
+  <data name="TimeBankF2" xml:space="preserve">
+    <value>Per defecte, no podràs acumular més de 10 hores al teu Banc de Temps.</value>
+  </data>
+  <data name="TimeBankF3" xml:space="preserve">
+    <value>Convida als teus amics i obtindràs 30 minuts addicionals per cada amic que es registre amb la teva invitació. També pots guanyar hores al teu Banc de Temps seguint-nos en Twitter i Facebook (+ 60 minuts).</value>
+  </data>
+  <data name="TimeBankF4" xml:space="preserve">
+    <value>Quan practiques amb un idioma que no sigui al teu idioma natiu, estaràs gastant hores del teu Banc de Temps. En canvi, si ajudes a algú que esta aprenent el teu idioma natiu, seràs premiat amb temps per al teu Banc de Temps.</value>
+  </data>
+  <data name="TimeBankTitle" xml:space="preserve">
+    <value>Banc de temps</value>
   </data>
 </root>

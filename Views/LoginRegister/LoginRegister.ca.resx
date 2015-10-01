@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,4 +129,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ClickHere" xml:space="preserve">
+    <value>Clica aquí </value>
+  </data>
+  <data name="CompleteRegistration" xml:space="preserve">
+    <value>Completa el registre </value>
+  </data>
+  <data name="ConfirmNewPw" xml:space="preserve">
+    <value>Confirmar la nova contrasenya </value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>Confirma contrasenya</value>
+  </data>
+  <data name="CurrentPw" xml:space="preserve">
+    <value>Contrasenya actual</value>
+  </data>
+  <data name="ExtLoginCompleteInfo" xml:space="preserve">
+    <value>Si us plau, introdueix a sota un nom d'usuari per Langademy i fes clic al botó Registrar per finalitzar el registre</value>
+  </data>
+  <data name="ExtLoginEmailInUse" xml:space="preserve">
+    <value>{0} ja està en ús. Si us plau, accedeixi amb el teu compte de Langademy si vols vincular el teu compte amb {1}</value>
+  </data>
+  <data name="ExtLoginSuccess" xml:space="preserve">
+    <value><![CDATA[T'has  autenticat satisfactòriam ent amb <strong>{0}</strong>.]]></value>
+  </data>
+  <data name="ExtLoginUnsuccessful" xml:space="preserve">
+    <value>No t'has pogut loguejar correctament</value>
+  </data>
+  <data name="Forgot" xml:space="preserve">
+    <value>Has oblidat la teva contrasenya?</value>
+  </data>
+  <data name="InvalidEmailOrPwd" xml:space="preserve">
+    <value>Correu electrònic o contrasenya incorrecta</value>
+  </data>
+  <data name="InvitedBy" xml:space="preserve">
+    <value>Convidat per </value>
+  </data>
+  <data name="LastNameLength" xml:space="preserve">
+    <value>El cognom ha de tenir almenys {2} caracters i menys de {1} caracters</value>
+  </data>
+  <data name="MinLength" xml:space="preserve">
+    <value>El {0} deu de tenir almenys {2} caracters </value>
+  </data>
+  <data name="NewPw" xml:space="preserve">
+    <value>Nova contrasenya</value>
+  </data>
+  <data name="NoWhiteSpace" xml:space="preserve">
+    <value>No es permet ningun espai en blanc </value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Clau</value>
+  </data>
+  <data name="PwdLength" xml:space="preserve">
+    <value>El {0} ha de tenir almenys {2} caracters </value>
+  </data>
+  <data name="PwdMatch" xml:space="preserve">
+    <value>La clau i la confirmació de clau no coincideixen</value>
+  </data>
+  <data name="PwDontMatch" xml:space="preserve">
+    <value>La clau i la confirmació de clau no coincideixen</value>
+  </data>
+  <data name="RememberMe" xml:space="preserve">
+    <value>Recordeu-me </value>
+  </data>
+  <data name="ReqEmail" xml:space="preserve">
+    <value>Es requereix el camp E-mail</value>
+  </data>
+  <data name="ReqLang" xml:space="preserve">
+    <value>Es requereix que el camp Idioma Natiu</value>
+  </data>
+  <data name="ReqPassword" xml:space="preserve">
+    <value>Es requereix el camp Contrasenya</value>
+  </data>
+  <data name="BlockedAccount" xml:space="preserve">
+    <value>El teu compte ha estat bloquejat </value>
+  </data>
+</root>

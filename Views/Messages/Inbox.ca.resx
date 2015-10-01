@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,4 +129,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="All" xml:space="preserve">
+    <value>Tots</value>
+  </data>
+  <data name="Conversations" xml:space="preserve">
+    <value>Conversacions </value>
+  </data>
+  <data name="InboxMes" xml:space="preserve">
+    <value>Safata d'entrada</value>
+  </data>
+  <data name="InboxMessages" xml:space="preserve">
+    <value>Missatges</value>
+  </data>
+  <data name="TypeMessage" xml:space="preserve">
+    <value>Escriu un missatge</value>
+  </data>
+  <data name="Unread" xml:space="preserve">
+    <value>No llegits </value>
+  </data>
+</root>
