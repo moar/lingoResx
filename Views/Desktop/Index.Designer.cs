@@ -124,6 +124,24 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Contact.
+        /// </summary>
+        public static string DeskContact {
+            get {
+                return ResourceManager.GetString("DeskContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Feedback.
+        /// </summary>
+        public static string DeskFeedback {
+            get {
+                return ResourceManager.GetString("DeskFeedback", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Invite your friends!.
         /// </summary>
         public static string DeskInviteFriends {
