@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,4 +128,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="Accept" xml:space="preserve">
+    <value>Acceptar </value>
+  </data>
+  <data name="AllContacts" xml:space="preserve">
+    <value>Tots els contactes</value>
+  </data>
+  <data name="ConnectionLost" xml:space="preserve">
+    <value>S'ha perdut la connexió. Carregant en</value>
+  </data>
+  <data name="RPContacts" xml:space="preserve">
+    <value>Contactes</value>
+  </data>
+  <data name="Decline" xml:space="preserve">
+    <value>Rebutjar </value>
+  </data>
+  <data name="Messages" xml:space="preserve">
+    <value>Missatges </value>
+  </data>
+  <data name="NoContacts" xml:space="preserve">
+    <value>No tens cap contacte. Accedeix al {0} i coneix a gent nova </value>
+  </data>
+  <data name="NoMessages" xml:space="preserve">
+    <value>No tens cap missatge </value>
+  </data>
+  <data name="RPVideocall" xml:space="preserve">
+    <value>Videotrucada </value>
+  </data>
+  <data name="NoNotifications" xml:space="preserve">
+    <value>No tens cap notificació</value>
+  </data>
+  <data name="Notifications" xml:space="preserve">
+    <value>Notificacions </value>
+  </data>
+  <data name="ReloadNow" xml:space="preserve">
+    <value>Recarregar </value>
+  </data>
+  <data name="SendMessage" xml:space="preserve">
+    <value>Envia missatge </value>
+  </data>
+  <data name="ShowAll" xml:space="preserve">
+    <value>Mostrar tots </value>
+  </data>
+  <data name="ViewProfile" xml:space="preserve">
+    <value>Veure perfil</value>
+  </data>
+  <data name="WriteHere" xml:space="preserve">
+    <value>Escriu aquí </value>
+  </data>
+</root>

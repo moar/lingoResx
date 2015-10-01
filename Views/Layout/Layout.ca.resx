@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -129,4 +130,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  </root>
+  <data name="Description" xml:space="preserve">
+    <value>Langademy es una xarxa social per aprendre idiomes. Ofereix l'intercanvi d'idiomes amb natius d'arreu del món per a que la gent pugui aconseguir fluïdesa amb un idioma</value>
+  </data>
+  <data name="Keywords" xml:space="preserve">
+    <value>Aprendre idiomes, intercanvi d'idiomes, millorar la fluïdesa, practicar idiomes, natius, millorar l'idioma, practicar angles </value>
+  </data>
+  <data name="LRDescription" xml:space="preserve">
+    <value>En Langroulette trobaràs nous companys d'intercanvi per a l'idioma que vulguis aprendre. Millora el teu nivell mentre coneixes gent!</value>
+  </data>
+  <data name="LRKeywords" xml:space="preserve">
+    <value>Langroulette, intercanvi d'idiomes, practica l'idioma, tàndem, fluïdesa  </value>
+  </data>
+  <data name="LRTitle" xml:space="preserve">
+    <value>Langroulette-Tàndem </value>
+  </data>
+  <data name="TBTitle" xml:space="preserve">
+    <value>Banc de temps</value>
+  </data>
+</root>
