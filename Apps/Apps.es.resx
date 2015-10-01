@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,9 +131,6 @@
   <data name="AccountManApp" xml:space="preserve">
     <value>Tu cuenta</value>
   </data>
-  <data name="AppLangroulette" xml:space="preserve">
-    <value>Langroulette</value>
-  </data>
   <data name="Desktop" xml:space="preserve">
     <value>Escritorio</value>
   </data>
@@ -141,6 +139,9 @@
   </data>
   <data name="HoursBagApp" xml:space="preserve">
     <value>Banco de Tiempo</value>
+  </data>
+  <data name="Langroulette" xml:space="preserve">
+    <value>Langroulette</value>
   </data>
   <data name="MeetupBoardApp" xml:space="preserve">
     <value>Tablón de quedadas</value>
