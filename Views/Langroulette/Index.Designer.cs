@@ -142,6 +142,15 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You can get into this room, you don&apos;t have more chat hours. Speak in your native language so you earn more time..
+        /// </summary>
+        public static string LRNoChatHours {
+            get {
+                return ResourceManager.GetString("LRNoChatHours", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to There isn&apos;t any connected user right now. Visit the&lt;a href=&quot;{0}&quot; target=&quot;_blank&quot;&gt;meetup board&lt;/a&gt; to check if someone will be meeting you soon!.
         /// </summary>
         public static string LRNoUsers {
