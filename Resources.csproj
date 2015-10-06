@@ -170,6 +170,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>VideoChatReport.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\About\About.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>About.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\AccountManager\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -450,6 +455,10 @@
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>VideoChatReport.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\About\About.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>About.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\AccountManager\Index.ca.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.de.resx" />
