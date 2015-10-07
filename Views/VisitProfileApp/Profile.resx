@@ -204,4 +204,7 @@
   <data name="PartnersBlockTitle" xml:space="preserve">
     <value>Contacts</value>
   </data>
+  <data name="ViewAllContacts" xml:space="preserve">
+    <value>View all ({0})</value>
+  </data>
 </root>

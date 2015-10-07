@@ -286,6 +286,15 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to View all ({0}).
+        /// </summary>
+        public static string ViewAllContacts {
+            get {
+                return ResourceManager.GetString("ViewAllContacts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Languages.
         /// </summary>
         public static string VPLanguages {
