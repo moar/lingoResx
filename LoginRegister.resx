@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!--Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+              </xsd:sequence>
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ClickHere" xml:space="preserve">
+    <value>Click here</value>
+  </data>
+  <data name="CompleteRegistration" xml:space="preserve">
+    <value>Complete registration</value>
+  </data>
+  <data name="ConfirmNewPw" xml:space="preserve">
+    <value>Confirm new password</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>Confirm password</value>
+  </data>
+  <data name="CurrentPw" xml:space="preserve">
+    <value>Current password</value>
+  </data>
+  <data name="ExtLoginCompleteInfo" xml:space="preserve">
+    <value>Please enter a user name for Langademy below and click the Register button to finish logging in</value>
+  </data>
+  <data name="ExtLoginEmailInUse" xml:space="preserve">
+    <value>{0} is already in use. Please log in with your Langademy account if you want to link it with {1}</value>
+  </data>
+  <data name="ExtLoginSuccess" xml:space="preserve">
+    <value><![CDATA[You've successfully authenticated with <strong>{0}</strong>.]]></value>
+  </data>
+  <data name="ExtLoginUnsuccessful" xml:space="preserve">
+    <value>Unsuccessful login</value>
+  </data>
+  <data name="Forgot" xml:space="preserve">
+    <value>Forgot your password?</value>
+  </data>
+  <data name="InvalidEmailOrPwd" xml:space="preserve">
+    <value>Invalid e-mail or password</value>
+  </data>
+  <data name="InvitedBy" xml:space="preserve">
+    <value>Invited by</value>
+  </data>
+  <data name="LastNameLength" xml:space="preserve">
+    <value>The last name must be at least {2} characters long and shorter than {1} characters</value>
+  </data>
+  <data name="MinLength" xml:space="preserve">
+    <value>The {0} must be at least {2} characters long.</value>
+  </data>
+  <data name="NewPw" xml:space="preserve">
+    <value>New password</value>
+  </data>
+  <data name="NoWhiteSpace" xml:space="preserve">
+    <value>No white space is allowed</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="PwdLength" xml:space="preserve">
+    <value>The {0} must be at least {2} characters long</value>
+  </data>
+  <data name="PwdMatch" xml:space="preserve">
+    <value>The password and confirmation password do not match</value>
+  </data>
+  <data name="PwDontMatch" xml:space="preserve">
+    <value>The new password and confirmation password do not match.</value>
+  </data>
+  <data name="RememberMe" xml:space="preserve">
+    <value>Remember me</value>
+  </data>
+  <data name="ReqEmail" xml:space="preserve">
+    <value>The field E-mail is required</value>
+  </data>
+  <data name="ReqLang" xml:space="preserve">
+    <value>The field Native Language is required</value>
+  </data>
+  <data name="ReqPassword" xml:space="preserve">
+    <value>The field Password is required</value>
+  </data>
+  <data name="BlockedAccount" xml:space="preserve">
+    <value>Your account has been blocked</value>
+  </data>
+  <data name="LRLogin" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LRRegister" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="LREmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="LRReqName" xml:space="preserve">
+    <value>The field name is required</value>
+  </data>
+  <data name="LRNameLength" xml:space="preserve">
+    <value>The name must be at least {2} characters long and shorter than {1} characters</value>
+  </data>
+  <data name="AgreeTerms" xml:space="preserve">
+    <value><![CDATA[I have read and I agree to the <a href="{0}" target="_blank">terms and conditions</a>]]></value>
+  </data>
+  <data name="RegTerms" xml:space="preserve">
+    <value>Terms and Conditions</value>
+  </data>
+  <data name="ReqTerms" xml:space="preserve">
+    <value>You have to read and agree to the terms and conditions</value>
+  </data>
+</root>
