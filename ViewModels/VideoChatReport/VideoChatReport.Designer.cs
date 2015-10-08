@@ -70,11 +70,20 @@ namespace Resources.ViewModels.VideoChatReport {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to this call has no time cost for you.
+        ///   Looks up a localized string similar to Calls between natives have no cost for you.
         /// </summary>
-        public static string NoCost {
+        public static string NoCostNatives {
             get {
-                return ResourceManager.GetString("NoCost", resourceCulture);
+                return ResourceManager.GetString("NoCostNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Calls between non-native speakers have no cost for you.
+        /// </summary>
+        public static string NoCostNoNatives {
+            get {
+                return ResourceManager.GetString("NoCostNoNatives", resourceCulture);
             }
         }
         
@@ -93,6 +102,33 @@ namespace Resources.ViewModels.VideoChatReport {
         public static string RemoteFinished {
             get {
                 return ResourceManager.GetString("RemoteFinished", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Speaking in a non-native language with a native user has a cost for you.
+        /// </summary>
+        public static string VCLearnLang {
+            get {
+                return ResourceManager.GetString("VCLearnLang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Calls that are shorter than a minute have no cost.
+        /// </summary>
+        public static string VCNoMinimunTime {
+            get {
+                return ResourceManager.GetString("VCNoMinimunTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Speaking in your language to a partner that has lower level than you gives you additional time.
+        /// </summary>
+        public static string VCShowYourLang {
+            get {
+                return ResourceManager.GetString("VCShowYourLang", resourceCulture);
             }
         }
     }
