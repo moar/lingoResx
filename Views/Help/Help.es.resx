@@ -71,6 +71,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -140,7 +142,7 @@
     <value>Estado Langademy</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>Entra al Langroulette, selecciona una sala y ¡comienza a practicar tu idioma favorito! ¡Nosotros nos encargaremos de emparejarte!</value>
+    <value>Entra al Language-Roulette, selecciona una sala y ¡comienza a practicar tu idioma favorito! ¡Nosotros nos encargaremos de emparejarte!</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>El Banco de Tiempo es un concepto para que con el intercambio de idiomas todos salgan ganando. Éste es su funcionamiento:</value>

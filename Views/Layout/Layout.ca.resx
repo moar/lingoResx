@@ -71,6 +71,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -136,14 +138,26 @@
   <data name="Keywords" xml:space="preserve">
     <value>Aprendre idiomes, intercanvi d'idiomes, millorar la fluïdesa, practicar idiomes, natius, millorar l'idioma, practicar angles </value>
   </data>
+  <data name="LAbout" xml:space="preserve">
+    <value>Sobre Langademy</value>
+  </data>
   <data name="LRDescription" xml:space="preserve">
-    <value>En Langroulette trobaràs nous companys d'intercanvi per a l'idioma que vulguis aprendre. Millora el teu nivell mentre coneixes gent!</value>
+    <value>En Language Roulette trobaràs nous companys d'intercanvi per a l'idioma que vulguis aprendre. Millora el teu nivell mentre coneixes gent!</value>
   </data>
   <data name="LRKeywords" xml:space="preserve">
-    <value>Langroulette, intercanvi d'idiomes, practica l'idioma, tàndem, fluïdesa  </value>
+    <value>language roulette, intercanvi d'idiomes, practica l'idioma, tàndem, fluïdesa  </value>
   </data>
   <data name="LRTitle" xml:space="preserve">
-    <value>Langroulette-Tàndem </value>
+    <value>Language Roulette-Tàndem </value>
+  </data>
+  <data name="MainPrivacy" xml:space="preserve">
+    <value>Privacitat - Langademy</value>
+  </data>
+  <data name="MainTerms" xml:space="preserve">
+    <value>Termes i Condicions - Langademy</value>
+  </data>
+  <data name="MainTitle" xml:space="preserve">
+    <value>Intercanvi d'idiomes </value>
   </data>
   <data name="TBTitle" xml:space="preserve">
     <value>Banc de temps</value>

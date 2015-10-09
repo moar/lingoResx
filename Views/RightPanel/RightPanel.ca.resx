@@ -70,6 +70,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -155,6 +157,9 @@
   <data name="RPVideocall" xml:space="preserve">
     <value>Videotrucada </value>
   </data>
+  <data name="Videocall" xml:space="preserve">
+    <value>Videotrucada </value>
+  </data>
   <data name="NoNotifications" xml:space="preserve">
     <value>No tens cap notificació</value>
   </data>
@@ -171,6 +176,9 @@
     <value>Mostrar tots </value>
   </data>
   <data name="ViewProfile" xml:space="preserve">
+    <value>Veure perfil</value>
+  </data>
+  <data name="RPViewProfile" xml:space="preserve">
     <value>Veure perfil</value>
   </data>
   <data name="WriteHere" xml:space="preserve">

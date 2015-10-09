@@ -67,6 +67,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,7 +140,7 @@
     <value>Max. Time</value>
   </data>
   <data name="InviteEarn" xml:space="preserve">
-    <value><![CDATA[Invite your friends to <strong>Langademy</strong> now! each registered friend will add 30 minutes to your hoursbag! Or follow us in the social networks and you will earn an extra hour!]]></value>
+    <value><![CDATA[Invite your friends to <strong>Langademy</strong> now! Each registered friend will add 30 minutes to your Time Bank! And if follow us in the social networks you will earn an extra hour!]]></value>
   </data>
   <data name="MailInstruction" xml:space="preserve">
     <value>Enter an  email address and push space or " ; "</value>

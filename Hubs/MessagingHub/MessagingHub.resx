@@ -69,6 +69,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -158,7 +160,7 @@
     <value>You do not have this language in your language list. Try calling with one of your languages!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[You can't make calls, you don't have more chat hours. <a href="{0}" class="applnk" data-app="HoursBagApp"> Check your Bag Hours app </a> ]]></value>
+    <value><![CDATA[You can't make calls, you don't have more chat hours. <a href="{0}" class="applnk" data-app="HoursBagApp"> Check your Time Bank</a> ]]></value>
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>You can't call {0}, you are not connected</value>

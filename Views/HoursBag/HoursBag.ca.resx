@@ -67,6 +67,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -134,11 +136,17 @@
   <data name="EarnButton" xml:space="preserve">
     <value>Obtindre més hores</value>
   </data>
+  <data name="HBMaxTime" xml:space="preserve">
+    <value>Temps màx.</value>
+  </data>
   <data name="InviteEarn" xml:space="preserve">
     <value><![CDATA[Convida als teus amics a <strong>Langademy</strong> ara! Per cada amic que es registri t'abonarem 30 minuts al teu Banc de Temps. I si ens segueixes a les xarxes socials, obtindràs un altra hora extra!]]></value>
   </data>
   <data name="MailInstruction" xml:space="preserve">
     <value>Introdueix una adreça de correu electrònic i prem espai o ";"</value>
+  </data>
+  <data name="RemainingBagTime" xml:space="preserve">
+    <value>Balanç d'hores</value>
   </data>
   <data name="RemainingTime" xml:space="preserve">
     <value>Temps restant</value>
@@ -148,6 +156,9 @@
   </data>
   <data name="Sum" xml:space="preserve">
     <value>Temps per al teu banc</value>
+  </data>
+  <data name="TBDate" xml:space="preserve">
+    <value>Data</value>
   </data>
   <data name="TitleHoursBag" xml:space="preserve">
     <value>Banc de temps</value>

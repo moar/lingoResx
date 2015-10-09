@@ -71,6 +71,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -203,5 +205,29 @@
   </data>
   <data name="BlockedAccount" xml:space="preserve">
     <value>El teu compte ha estat bloquejat </value>
+  </data>
+  <data name="LRLogin" xml:space="preserve">
+    <value>Iniciar sessió </value>
+  </data>
+  <data name="LRRegister" xml:space="preserve">
+    <value>Registrar-se </value>
+  </data>
+  <data name="LREmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="LRReqName" xml:space="preserve">
+    <value>Es requereix el camp del nom</value>
+  </data>
+  <data name="LRNameLength" xml:space="preserve">
+    <value>El nom deu tenir almenys {2} caràcters i {1} caràcters com a màxim  </value>
+  </data>
+  <data name="AgreeTerms" xml:space="preserve">
+    <value><![CDATA[He llegit i estic d'acord amb els  <a href="{0}" target="_blank"> termes i condicions</a> ]]></value>
+  </data>
+  <data name="RegTerms" xml:space="preserve">
+    <value>Termes i condicions </value>
+  </data>
+  <data name="ReqTerms" xml:space="preserve">
+    <value>Has de llegir i acceptar els termes i condicions</value>
   </data>
 </root>

@@ -71,6 +71,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -140,13 +142,13 @@
     <value>Langademy-ri buruz</value>
   </data>
   <data name="LRDescription" xml:space="preserve">
-    <value>Langroulettean nahi dituzun hizkuntzak ikasteko lagun berriak aurkituko dituzu. Hobetu eta menderatu ezazu hizkuntza jende berria ezagutuz!</value>
+    <value>Language Roulettean nahi dituzun hizkuntzak ikasteko lagun berriak aurkituko dituzu. Hobetu eta menderatu ezazu hizkuntza jende berria ezagutuz!</value>
   </data>
   <data name="LRKeywords" xml:space="preserve">
-    <value>langroulette, hizkuntza trukea, txat, tandem</value>
+    <value>language roulette, hizkuntza trukea, txat, tandem, hizkuntza menperatu</value>
   </data>
   <data name="LRTitle" xml:space="preserve">
-    <value>Langroulette-Tandema</value>
+    <value>Language Roulette Tandema</value>
   </data>
   <data name="MainPrivacy" xml:space="preserve">
     <value>Privazitatea - Langademy</value>

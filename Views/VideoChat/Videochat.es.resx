@@ -71,6 +71,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -169,7 +171,7 @@
     <value>Nivel de tu compañero de intercambio</value>
   </data>
   <data name="ReportTimeAccount" xml:space="preserve">
-    <value>Tiempo en tu cuenta</value>
+    <value>Tiempo para tu cuenta</value>
   </data>
   <data name="TimeBanking" xml:space="preserve">
     <value>Banco de Tiempo</value>

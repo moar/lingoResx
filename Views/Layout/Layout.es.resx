@@ -71,6 +71,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -140,13 +142,13 @@
     <value>Acerca de Langademy</value>
   </data>
   <data name="LRDescription" xml:space="preserve">
-    <value>En Langroulette encontrarás nuevos compañeros de intercambio para el idioma que quieras aprender. ¡Mejora tu nivel mientras conoces a nueva gente!</value>
+    <value>En Language Roulette encontrarás nuevos compañeros de intercambio para el idioma que quieras aprender. ¡Mejora tu nivel mientras conoces a nueva gente!</value>
   </data>
   <data name="LRKeywords" xml:space="preserve">
-    <value>langroulette, intercambio de idiomas,practica idioma, tándem, fluidez idioma</value>
+    <value>language roulette, intercambio de idiomas,practica idioma, tándem, fluidez idioma</value>
   </data>
   <data name="LRTitle" xml:space="preserve">
-    <value>Langroulette-Tandem</value>
+    <value>Language Roulette-Tandem</value>
   </data>
   <data name="MainPrivacy" xml:space="preserve">
     <value>Privacidad - Langademy</value>

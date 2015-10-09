@@ -67,6 +67,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -125,9 +127,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
+  <data name="AboutYou" xml:space="preserve">
+    <value>Sobre tu</value>
+  </data>
   <data name="AboutYouMaxLength" xml:space="preserve">
     <value>La informació sobre tu ha de tenir com a màxim {1} caracters </value>
+  </data>
+  <data name="AboutYouPH" xml:space="preserve">
+    <value>Escriu alguns detalls sobre tu mateix</value>
   </data>
   <data name="AlertOff" xml:space="preserve">
     <value>Off</value>
@@ -137,6 +144,12 @@
   </data>
   <data name="CannotModifyLanguage" xml:space="preserve">
     <value>No es pot modificar aquest idioma en aquest moment. Intenta-ho més tard</value>
+  </data>
+  <data name="CountryPH" xml:space="preserve">
+    <value>Selecciona el teu país</value>
+  </data>
+  <data name="CoverPhoto" xml:space="preserve">
+    <value>Foto de portada</value>
   </data>
   <data name="CropHeading" xml:space="preserve">
     <value>Arrossegar i fer zoom </value>
@@ -150,6 +163,15 @@
   <data name="LanguageRequired" xml:space="preserve">
     <value>Es requereix l'idioma</value>
   </data>
+  <data name="LanguagesDesc" xml:space="preserve">
+    <value>Escull els idiomes que vols utilitzar en Langademy</value>
+  </data>
+  <data name="LanguagesTitle" xml:space="preserve">
+    <value>Idiomes</value>
+  </data>
+  <data name="LastnamePH" xml:space="preserve">
+    <value>Escriu el teu cognom</value>
+  </data>
   <data name="LevelRequired" xml:space="preserve">
     <value>Es requereix el nivell</value>
   </data>
@@ -161,6 +183,12 @@
   </data>
   <data name="MinimumSize" xml:space="preserve">
     <value>La mida mínima es {0} </value>
+  </data>
+  <data name="MyLanguages" xml:space="preserve">
+    <value>Els meus Idiomes</value>
+  </data>
+  <data name="NamePH" xml:space="preserve">
+    <value>Escriu el teu nom</value>
   </data>
   <data name="NewMeetupParticipant" xml:space="preserve">
     <value>Nous participants a la quedada</value>
@@ -176,6 +204,27 @@
   </data>
   <data name="NotificationSettings" xml:space="preserve">
     <value>Configuració de notificacions </value>
+  </data>
+  <data name="PersonalInfo" xml:space="preserve">
+    <value>Informació personal</value>
+  </data>
+  <data name="ProfAddLanguage" xml:space="preserve">
+    <value>Afegir idioma</value>
+  </data>
+  <data name="ProfCantUpload" xml:space="preserve">
+    <value>No es pot pujar l'arxiu</value>
+  </data>
+  <data name="ProfParticipants" xml:space="preserve">
+    <value>Participants</value>
+  </data>
+  <data name="ProfSelectLanguage" xml:space="preserve">
+    <value>Selecciona idioma</value>
+  </data>
+  <data name="SelectLevel" xml:space="preserve">
+    <value>Selecciona el teu nivell</value>
+  </data>
+  <data name="UpdateProfilePhoto" xml:space="preserve">
+    <value>Actualitza la teva foto </value>
   </data>
   <data name="UploadCover" xml:space="preserve">
     <value>Pujar foto de portada </value>

@@ -71,6 +71,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,6 +132,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  
   <data name="HelpString" xml:space="preserve">
     <value>Laguntza</value>
   </data>
@@ -137,7 +140,7 @@
     <value>Langademy egoera</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>Sartu Langroulette-an, aukeratu gela bat eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Hitz egiteko lagun bat aukeratuko dizugu!</value>
+    <value>Sartu Language-Roulettera, aukeratu gela bat eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Hitz egiteko lagun bat aukeratuko dizugu!</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>Denbora bankua hizkuntza trukea guztiontzat errentagarria izateko modun bat da. Hau da bere funtzionamendua:</value>
@@ -152,7 +155,7 @@
     <value>Zure lagunak gonbidatu eta 30 minutu oparituko dizkizugu Langademyn izena ematen duen lagun bakoitzeko. Facebook eta Twitterren gure jarraitzeila eginaz ere denbora oparituko dizugu zure denbora bankurako (+60 minutu)</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>Zure ama hizkuntza ez den hizkuntza batean hitz egiten baduzu, zure denbora poltsatik kenduko dizugu denbora hori. Aldiz, ikasle edo hizkuntza ez natibodunpertsona batekin zure ama hizkuntzan hitz egiten baduzu, zure denbora bankurako denbora pilatuko duzu.</value>
+    <value>Zure ama hizkuntza ez den hizkuntza batean hitz egiten baduzu, zure denbora poltsatik kenduko dizugu denbora hori. Aldiz, ikasle edo hizkuntza bat ama hizkuntza ez duen pertsona batekin zure ama hizkuntzan hitz egiten baduzu, zure denbora bankurako denbora pilatuko duzu.</value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Denbora bankua</value>
