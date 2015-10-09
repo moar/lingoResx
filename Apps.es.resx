@@ -72,6 +72,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -143,7 +144,7 @@
     <value>Banco de Tiempo</value>
   </data>
   <data name="Langroulette" xml:space="preserve">
-    <value>Langroulette</value>
+    <value>Language Roulette</value>
   </data>
   <data name="MeetupBoardApp" xml:space="preserve">
     <value>Tablón de quedadas</value>
@@ -152,7 +153,7 @@
     <value>Mensajes</value>
   </data>
   <data name="ProfileApp" xml:space="preserve">
-    <value>Configuración del perfil</value>
+    <value>Editar perfil</value>
   </data>
   <data name="VisitProfileApp" xml:space="preserve">
     <value>Perfil</value>

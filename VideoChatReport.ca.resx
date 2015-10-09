@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -119,10 +120,22 @@
   <data name="LikeSentence" xml:space="preserve">
     <value>T'ha agradat conversar amb {0} ?</value>
   </data>
+  <data name="NoCostNatives" xml:space="preserve">
+    <value>Les trucades entre natius no tenen cap cost per a tu </value>
+  </data>
+  <data name="NoCostNoNatives" xml:space="preserve">
+    <value>Les trucades entre usuaris que no son natius no tenen cap cost per a tu </value>
+  </data>
   <data name="OwnFinished" xml:space="preserve">
     <value>Has finalitzat la trucada</value>
   </data>
   <data name="RemoteFinished" xml:space="preserve">
     <value>{0} ha finalitzat la trucada</value>
+  </data>
+  <data name="VCLearnLang" xml:space="preserve">
+    <value>Parlar amb un idioma no natiu amb un company natiu té cost per a tu</value>
+  </data>
+  <data name="VCNoMinimunTime" xml:space="preserve">
+    <value>Les trucades de menys d'un minut no tenen cost per a tu</value>
   </data>
 </root>

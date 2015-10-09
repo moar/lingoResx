@@ -71,6 +71,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -143,7 +144,7 @@
     <value>Editar Perfil</value>
   </data>
   <data name="HoursBagIntro" xml:space="preserve">
-    <value>Quan practiques amb un idioma que no sigui al teu idioma natiu </value>
+    <value>Quan practiques amb un idioma que no sigui al teu idioma natiu, estaràs gastant hores del teu Banc de Temps. En canvi, si ajudes a algú que esta aprenent el teu idioma natiu, seràs premiat amb temps per al teu Banc de Temps.</value>
   </data>
   <data name="Invite_Friends" xml:space="preserve">
     <value>Convida amics </value>

@@ -68,6 +68,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -129,6 +130,9 @@
   <data name="ar" xml:space="preserve">
     <value>Àrab</value>
   </data>
+  <data name="ca-ES" xml:space="preserve">
+    <value>Català</value>
+  </data>
   <data name="bg" xml:space="preserve">
     <value>Búlgar</value>
   </data>
@@ -149,6 +153,12 @@
   </data>
   <data name="el" xml:space="preserve">
     <value>Grec</value>
+  </data>
+  <data name="en" xml:space="preserve">
+    <value>Anglès</value>
+  </data>
+  <data name="es" xml:space="preserve">
+    <value>Espanyol</value>
   </data>
   <data name="fi" xml:space="preserve">
     <value>Finès</value>
@@ -410,5 +420,164 @@
   </data>
   <data name="ba" xml:space="preserve">
     <value>Baixkir</value>
+  </data>
+  <data name="lb" xml:space="preserve">
+    <value>Luxemburguès</value>
+  </data>
+  <data name="kl" xml:space="preserve">
+    <value>Groenlandès </value>
+  </data>
+  <data name="ig" xml:space="preserve">
+    <value>Igbo</value>
+  </data>
+  <data name="ii" xml:space="preserve">
+    <value>Yi</value>
+  </data>
+  <data name="arn" xml:space="preserve">
+    <value>Maputxe </value>
+  </data>
+  <data name="moh" xml:space="preserve">
+    <value>Mohawk</value>
+  </data>
+  <data name="br" xml:space="preserve">
+    <value>Bretó</value>
+  </data>
+  <data name="ug" xml:space="preserve">
+    <value>Uigur</value>
+  </data>
+  <data name="mi" xml:space="preserve">
+    <value>Maori</value>
+  </data>
+  <data name="oc" xml:space="preserve">
+    <value>Occità</value>
+  </data>
+  <data name="co" xml:space="preserve">
+    <value>Cors</value>
+  </data>
+  <data name="gsw" xml:space="preserve">
+    <value>Alsacià</value>
+  </data>
+  <data name="sah" xml:space="preserve">
+    <value>Iakut</value>
+  </data>
+  <data name="qut" xml:space="preserve">
+    <value>Quitxé</value>
+  </data>
+  <data name="rw" xml:space="preserve">
+    <value>Kinyarwanda</value>
+  </data>
+  <data name="wo" xml:space="preserve">
+    <value>Wolof</value>
+  </data>
+  <data name="prs" xml:space="preserve">
+    <value>Darí</value>
+  </data>
+  <data name="gd" xml:space="preserve">
+    <value>Gaèlic d'Escòcia </value>
+  </data>
+  <data name="bs-Cyrl" xml:space="preserve">
+    <value>Bosnià (ciríl·lic)</value>
+  </data>
+  <data name="bs-Latn" xml:space="preserve">
+    <value>Bosnià (Llatí)</value>
+  </data>
+  <data name="sr-Cyrl" xml:space="preserve">
+    <value>Serbi (ciríl·lic)</value>
+  </data>
+  <data name="sr-Latn" xml:space="preserve">
+    <value>Serbi (llatí)</value>
+  </data>
+  <data name="smn" xml:space="preserve">
+    <value>Sami (Inari)</value>
+  </data>
+  <data name="az-Cyrl" xml:space="preserve">
+    <value>Àzeri (ciríl·lic)</value>
+  </data>
+  <data name="sms" xml:space="preserve">
+    <value>Sami (skolt)</value>
+  </data>
+  <data name="zh" xml:space="preserve">
+    <value>Xinès</value>
+  </data>
+  <data name="nn" xml:space="preserve">
+    <value>Noruec (Nynorsk)</value>
+  </data>
+  <data name="bs" xml:space="preserve">
+    <value>Bosnià</value>
+  </data>
+  <data name="az-Latn" xml:space="preserve">
+    <value>Àzeri (Llatí)</value>
+  </data>
+  <data name="sma" xml:space="preserve">
+    <value>Sami (Sud)</value>
+  </data>
+  <data name="uz-Cyrl" xml:space="preserve">
+    <value>Uzbek (ciríl·lic)</value>
+  </data>
+  <data name="mn-Cyrl" xml:space="preserve">
+    <value>Mongol (ciríl·lic)</value>
+  </data>
+  <data name="iu-Cans" xml:space="preserve">
+    <value>Inuktitut (sil·làbic) </value>
+  </data>
+  <data name="zh-Hant" xml:space="preserve">
+    <value>Xinès (tradicional)</value>
+  </data>
+  <data name="nb" xml:space="preserve">
+    <value>Noruec (Bokmål)</value>
+  </data>
+  <data name="sr" xml:space="preserve">
+    <value>Serb</value>
+  </data>
+  <data name="tg-Cyrl" xml:space="preserve">
+    <value>Tadjik (ciríl·lic)</value>
+  </data>
+  <data name="dsb" xml:space="preserve">
+    <value>Baix Sòrab</value>
+  </data>
+  <data name="smj" xml:space="preserve">
+    <value>Sami (Lule)</value>
+  </data>
+  <data name="uz-Latn" xml:space="preserve">
+    <value>Uzbek (llatí)</value>
+  </data>
+  <data name="mn-Mong" xml:space="preserve">
+    <value>Mongol (tradicional)</value>
+  </data>
+  <data name="iu-Latn" xml:space="preserve">
+    <value>Inuktitut (Llatí)</value>
+  </data>
+  <data name="tzm-Latn" xml:space="preserve">
+    <value>Tamazight (Llatí)</value>
+  </data>
+  <data name="ha-Latn" xml:space="preserve">
+    <value>Hausa (Llatí)</value>
+  </data>
+  <data name="zh-CHS" xml:space="preserve">
+    <value>Xinès (simplificat) heretat </value>
+  </data>
+  <data name="zh-CHT" xml:space="preserve">
+    <value>Xinès (tradicional) heretat</value>
+  </data>
+  <data name="de-DE" xml:space="preserve">
+    <value>Alemany</value>
+  </data>
+  <data name="en-GB" xml:space="preserve">
+    <value>Anglès</value>
+  </data>
+  <data name="en-US" xml:space="preserve">
+    <value>Anglès (EUA)</value>
+  </data>
+  <data name="es-ES" xml:space="preserve">
+    <value>Espanyol</value>
+  </data>
+  <data name="eu-ES" xml:space="preserve">
+    <value>Basc</value>
+  </data>
+  <data name="fr-FR" xml:space="preserve">
+    <value>Francès</value>
+  </data>
+  <data name="it-IT" xml:space="preserve">
+    <value>Italià</value>
   </data>
 </root>
