@@ -151,6 +151,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Join!.
+        /// </summary>
+        public static string DeskJoinMeetup {
+            get {
+                return ResourceManager.GetString("DeskJoinMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Languages.
         /// </summary>
         public static string DeskLanguages {
