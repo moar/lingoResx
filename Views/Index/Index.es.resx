@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -186,7 +187,7 @@
     <value>Iniciar sesión</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Haz saber a todos cuándo vas a entrar a Langroulette organizando una quedada o apuntándote a una en el {0}</value>
+    <value>Haz saber a todos cuándo vas a entrar al Language Roulette organizando una quedada o apuntándote a una en el {0}</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>

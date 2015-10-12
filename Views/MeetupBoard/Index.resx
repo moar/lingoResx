@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -144,7 +145,7 @@
     <value>Date</value>
   </data>
   <data name="ExistingMeetupLanguage" xml:space="preserve">
-    <value>There is already a meetup at this time for speaking {0}. Join it instead of creating a new one</value>
+    <value>There is already a meetup at this time to speak {0}. Join it instead of creating a new one</value>
   </data>
   <data name="InvitableContactsHeader" xml:space="preserve">
     <value>Contacts that speak {0}</value>

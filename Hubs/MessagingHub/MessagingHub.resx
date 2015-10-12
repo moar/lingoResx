@@ -71,6 +71,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -142,7 +143,7 @@
     <value>{0} is not connected now</value>
   </data>
   <data name="CallerNoWebrtc" xml:space="preserve">
-    <value>You browser does not support not videocalls. Try the latest versions of Chrome, Firefox or Opera.</value>
+    <value>You browser does not support videocalls. Try the latest versions of Chrome, Firefox or Opera.</value>
   </data>
   <data name="CallingError" xml:space="preserve">
     <value>An error has ocurred trying to establish the call</value>

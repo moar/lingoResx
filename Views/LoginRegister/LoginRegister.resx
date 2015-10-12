@@ -73,6 +73,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -195,7 +196,7 @@
     <value>Remember me</value>
   </data>
   <data name="ReqEmail" xml:space="preserve">
-    <value>The field E-mail is required</value>
+    <value>The E-mail field is required</value>
   </data>
   <data name="ReqLang" xml:space="preserve">
     <value>The field Native Language is required</value>
