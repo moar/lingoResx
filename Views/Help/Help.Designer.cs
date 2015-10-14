@@ -107,7 +107,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You will begin with 5 hours, and each month Langademy will give you 3 extra hours..
+        ///   Looks up a localized string similar to You will begin with 5 hours, and each month Langademy will give you {0} extra hours..
         /// </summary>
         public static string TimeBankF1 {
             get {
