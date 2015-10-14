@@ -124,7 +124,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Delete.
+        ///   Looks up a localized string similar to Disconnect.
         /// </summary>
         public static string DeleteFriend {
             get {
@@ -142,7 +142,16 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Less than hour ago.
+        ///   Looks up a localized string similar to Language Exchange Stats.
+        /// </summary>
+        public static string LangExStats {
+            get {
+                return ResourceManager.GetString("LangExStats", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Less than an hour ago.
         /// </summary>
         public static string LessThanHourAgo {
             get {
