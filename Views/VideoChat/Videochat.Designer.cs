@@ -61,7 +61,7 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CALLING.
+        ///   Looks up a localized string similar to CALLING {0}.
         /// </summary>
         public static string CallCalling {
             get {
@@ -169,7 +169,7 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Yout partner&apos;s level.
+        ///   Looks up a localized string similar to Your partner&apos;s level.
         /// </summary>
         public static string ReportPartnerlevel {
             get {
