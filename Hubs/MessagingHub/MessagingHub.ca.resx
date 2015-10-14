@@ -72,6 +72,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -143,7 +144,7 @@
     <value>{0} no està connectat en aquests moments</value>
   </data>
   <data name="CallerNoWebrtc" xml:space="preserve">
-    <value>Aquest navegador no suporta les vídeo-trucades. Proba les ultimes versions de Chrome,Firefox u Opera</value>
+    <value>Aquest navegador no suporta les vídeo-trucades. Prova les últimes versions de Chrome,Firefox u Opera</value>
   </data>
   <data name="CallingError" xml:space="preserve">
     <value>Ha hagut un error al tractar d'establir la trucada </value>

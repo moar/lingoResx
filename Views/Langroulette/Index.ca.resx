@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -117,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AlreadyInRoom" xml:space="preserve">
-    <value>Ets a un altra sala, Estàs segur que vols unir-te a aquesta sala? Si acceptes, seràs desconnectat de l'altra sala </value>
+    <value>Ets a un altra sala, Estàs segur que vols unir-te a aquesta sala? Si acceptes, seràs desconnectat de la anterior sala.</value>
   </data>
   <data name="HideNonCandidates" xml:space="preserve">
     <value>Amagar usuaris que no compleixen amb el filtre </value>
@@ -128,10 +129,43 @@
   <data name="Levels" xml:space="preserve">
     <value>Nivells</value>
   </data>
+  <data name="LRAccessCamera" xml:space="preserve">
+    <value>Si us plau, permet que Langademy accedeixi a la càmera i el micròfon per a poder unirt-te a la sala!</value>
+  </data>
+  <data name="LRExit" xml:space="preserve">
+    <value>Sortir</value>
+  </data>
+  <data name="LRTryConnect" xml:space="preserve">
+    <value>Tractant de connectar-te amb un company</value>
+  </data>
+  <data name="LRUsers" xml:space="preserve">
+    <value>Usuaris</value>
+  </data>
+  <data name="NoFilterMatch" xml:space="preserve">
+    <value>No hi ha cap usuari que compleixi el teu filtre. Canvieu el filtre o espereu que hi hagi algun usuari disponible</value>
+  </data>
   <data name="RememberRooms" xml:space="preserve">
     <value>Recorda que només estan disponibles les sales dels idiomes que practiquis </value>
   </data>
   <data name="SelectRoom" xml:space="preserve">
     <value>Escull una sala i comença a practicar un idioma</value>
+  </data>
+  <data name="LRFilter" xml:space="preserve">
+    <value>Filtre</value>
+  </data>
+  <data name="LRNoUsers" xml:space="preserve">
+    <value><![CDATA[No hi ha ningun usuari connecta't en aquest moment. Visita el<a href="{0}" target="_blank">tauler de quedades</a>per veure si algú vol a unir-se! ]]></value>
+  </data>
+  <data name="LRWriteHere" xml:space="preserve">
+    <value>Escriu aquí</value>
+  </data>
+  <data name="LRAllBusy" xml:space="preserve">
+    <value>Tothom està ocupat. Espera i et trobarem un company tan aviat com sigui possible.</value>
+  </data>
+  <data name="LRFilterTime" xml:space="preserve">
+    <value>Has xerrat amb tots els company que compleixen els teus requisits. Espera a nous usuaris!</value>
+  </data>
+  <data name="LRNoChatHours" xml:space="preserve">
+    <value>No es pots accedir a aquesta sala, no tens més temps al teu compte. Parla el teu idioma natiu perquè puguis guanyar més temps.</value>
   </data>
 </root>

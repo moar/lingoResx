@@ -71,6 +71,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -144,6 +145,9 @@
   <data name="Free" xml:space="preserve">
     <value>Es gratuït!</value>
   </data>
+  <data name="IndAbout" xml:space="preserve">
+    <value>Sobre Langademy</value>
+  </data>
   <data name="IndLangroulette" xml:space="preserve">
     <value>{0} és una ruleta videoxat on es troben els parlants natius i altres estudiants per a practicar els seus idiomes preferits</value>
   </data>
@@ -170,6 +174,9 @@
   </data>
   <data name="KnowPeople" xml:space="preserve">
     <value>Coneix gent </value>
+  </data>
+  <data name="Participants" xml:space="preserve">
+    <value>Participants</value>
   </data>
   <data name="LanguageEx" xml:space="preserve">
     <value>El teu espai d'intercanvi d'idiomes a internet</value>

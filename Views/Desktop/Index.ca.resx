@@ -131,6 +131,45 @@
   <data name="AddThumbnail" xml:space="preserve">
     <value>Afegeix la teva foto</value>
   </data>
+  <data name="DeskAbout" xml:space="preserve">
+    <value>Sobre Langademy</value>
+  </data>
+  <data name="DeskBusy" xml:space="preserve">
+    <value>Ocupat</value>
+  </data>
+  <data name="DeskContact" xml:space="preserve">
+    <value>Contacte</value>
+  </data>
+  <data name="DeskFeedback" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="DeskInviteFriends" xml:space="preserve">
+    <value>Convida els teus amics!</value>
+  </data>
+  <data name="DeskLanguages" xml:space="preserve">
+    <value>Idiomes</value>
+  </data>
+  <data name="DeskMymeetings" xml:space="preserve">
+    <value>Les Meves Quedades</value>
+  </data>
+  <data name="DeskParticipants" xml:space="preserve">
+    <value>Participants</value>
+  </data>
+  <data name="DeskPrivacy" xml:space="preserve">
+    <value>Privacitat </value>
+  </data>
+  <data name="DeskQuickComplete" xml:space="preserve">
+    <value>Completa el teu perfil </value>
+  </data>
+  <data name="DeskSuggestCommunity" xml:space="preserve">
+    <value>Vols ser suggerit a la comunitat?</value>
+  </data>
+  <data name="DeskTerms" xml:space="preserve">
+    <value>Condicions</value>
+  </data>
+  <data name="EditProfileDesk" xml:space="preserve">
+    <value>Editar Perfil</value>
+  </data>
   <data name="EmptyInbox" xml:space="preserve">
     <value>No tens cap missatge </value>
   </data>
@@ -146,10 +185,16 @@
   <data name="Online" xml:space="preserve">
     <value>Online</value>
   </data>
+  <data name="Settings" xml:space="preserve">
+    <value> Configuració</value>
+  </data>
   <data name="TimeBalance" xml:space="preserve">
     <value>Balanç d'hores</value>
   </data>
   <data name="TimeBank" xml:space="preserve">
     <value>Banc de temps</value>
+  </data>
+  <data name="TodayLangs" xml:space="preserve">
+    <value>Avui parlaré en</value>
   </data>
 </root>
