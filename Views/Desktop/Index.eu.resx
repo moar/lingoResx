@@ -137,11 +137,23 @@
   <data name="DeskBusy" xml:space="preserve">
     <value>Lanpetuta</value>
   </data>
+  <data name="DeskContact" xml:space="preserve">
+    <value>Kontaktua</value>
+  </data>
+  <data name="DeskFeedback" xml:space="preserve">
+    <value>Feedbacka</value>
+  </data>
   <data name="DeskInviteFriends" xml:space="preserve">
     <value>Gonbidatu zure lagunak!</value>
   </data>
+  <data name="DeskJoinMeetup" xml:space="preserve">
+    <value>Izena eman!</value>
+  </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Hizkuntzak</value>
+  </data>
+  <data name="DeskLRNatives" xml:space="preserve">
+    <value>Natibo</value>
   </data>
   <data name="DeskMymeetings" xml:space="preserve">
     <value>Nire Bilerak</value>
@@ -157,6 +169,9 @@
   </data>
   <data name="DeskSuggestCommunity" xml:space="preserve">
     <value>Zure burua kontaktu bezala irakodi</value>
+  </data>
+  <data name="DeskSuggestedMeetups" xml:space="preserve">
+    <value>Iradokitako bilerak</value>
   </data>
   <data name="DeskTerms" xml:space="preserve">
     <value>Baldintzak</value>

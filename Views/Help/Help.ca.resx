@@ -58,23 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,7 +116,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
   <data name="DesktopState" xml:space="preserve">
     <value>Langademy et permet realitzar vídeotrucades amb les persones que tens a la teva llista de contactes, i al teu estat mostra els idiomes que tens establerts al teu perfil. Quan habilites o deshabilites un idioma al teu estat, els teus contactes sabran que només vols rebre trucades en els idiomes habilitats.
 Si no vols rebre trucades dels teus contactes, canvia el teu estat a ocupat. Recorda que les vídeotrucades també afecten al teu Banc de Temps.</value>

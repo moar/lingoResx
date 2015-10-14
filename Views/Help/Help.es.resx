@@ -58,23 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,7 +116,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
   <data name="DesktopState" xml:space="preserve">
     <value>Langademy te permite hacer videollamadas con las personas que tienes en tu lista de contactos, y tu estado muestra los idiomas que tienes establecidos en tu perfil. Cuando habilitas o deshabilitas un idioma en tu estado, tus contactos sabrán que solo quieres recibir llamadas para hablar en los idiomas habilitados. Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu Banco de Tiempo.</value>
   </data>
@@ -150,7 +132,7 @@
     <value>El Banco de Tiempo es un concepto para que con el intercambio de idiomas todos salgan ganando. Éste es su funcionamiento:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Comenzarás con 5 horas, y cada mes Langademy te regalará 3 horas adicionales.</value>
+    <value>Comenzarás con 5 horas, y cada mes Langademy te regalará {0} horas adicionales.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Por defecto, no serás capaz de acumular más de 10 horas en tu Banco de Tiempo.</value>

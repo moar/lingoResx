@@ -146,6 +146,9 @@
   <data name="DeskInviteFriends" xml:space="preserve">
     <value>Convida els teus amics!</value>
   </data>
+  <data name="DeskJoinMeetup" xml:space="preserve">
+    <value>Uneix-te!</value>
+  </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Idiomes</value>
   </data>

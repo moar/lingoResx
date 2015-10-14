@@ -146,8 +146,14 @@
   <data name="DeskInviteFriends" xml:space="preserve">
     <value>¡Invita a tus amigos!</value>
   </data>
+  <data name="DeskJoinMeetup" xml:space="preserve">
+    <value>¡Únete!</value>
+  </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Idiomas</value>
+  </data>
+  <data name="DeskLRNatives" xml:space="preserve">
+    <value>Nativo(s)</value>
   </data>
   <data name="DeskMymeetings" xml:space="preserve">
     <value>Mis quedadas</value>
@@ -163,6 +169,9 @@
   </data>
   <data name="DeskSuggestCommunity" xml:space="preserve">
     <value>¿Quieres ser sugerido a la comunidad?</value>
+  </data>
+  <data name="DeskSuggestedMeetups" xml:space="preserve">
+    <value>Quedadas sugeridas</value>
   </data>
   <data name="DeskTerms" xml:space="preserve">
     <value>Condiciones</value>
@@ -186,7 +195,7 @@
     <value>Online</value>
   </data>
   <data name="Settings" xml:space="preserve">
-    <value>Ajustes</value>
+    <value>Configuración</value>
   </data>
   <data name="TimeBalance" xml:space="preserve">
     <value>Balance de horas</value>

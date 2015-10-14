@@ -73,6 +73,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -131,4 +132,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="CalleeBusy" xml:space="preserve">
+    <value>{0} è occupato in questo momento. Prova più tardi</value>
+  </data>
+  <data name="CalleeNoChatHours" xml:space="preserve">
+    <value>{0} non ha abbastanza ore di chat per parlare con te</value>
+  </data>
+  <data name="CalleeNoWebrtc" xml:space="preserve">
+    <value>{0} non ha supporto per le videochiamate.</value>
+  </data>
+  <data name="CalleeOffline" xml:space="preserve">
+    <value>{0} non è connesso in questo memomento</value>
+  </data>
+  <data name="CallerNoWebrtc" xml:space="preserve">
+    <value>Questo browser non supporta videochiamate. Provate le ultime versioni di Chrome, Firefox o Opera.</value>
+  </data>
+  <data name="CallingError" xml:space="preserve">
+    <value>Si è verificato un errore nel tentativo di stablire la chiamata</value>
+  </data>
+  <data name="CannotCall" xml:space="preserve">
+    <value>Non è possibile effettuare chiamate ...</value>
+  </data>
+  <data name="CompleteProfile" xml:space="preserve">
+    <value>Completa il tuo profilo</value>
+  </data>
+  <data name="LanguageNotInList" xml:space="preserve">
+    <value>{0} non vuole parlare in questa lingua. Prova più tardi.</value>
+  </data>
+  <data name="LanguageNotInOwnList" xml:space="preserve">
+    <value>Non hai questa lingua nell'elenco di lingue. Prova a chiamare in una delle tue lingue!</value>
+  </data>
+  <data name="NoOwnChatHours" xml:space="preserve">
+    <value><![CDATA[Non è possibile effettuare chiamate, non si dispone di più ore di chat. <a href="{0}" class="applnk" data-app="HoursBagApp"> Andare alla Banca del Tempo</a>]]></value>
+  </data>
+  <data name="NotFriends" xml:space="preserve">
+    <value>Non è possibile chiamare {0}, non è connesso</value>
+  </data>
+</root>

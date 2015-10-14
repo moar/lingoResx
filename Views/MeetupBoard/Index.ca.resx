@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -219,5 +220,17 @@
   </data>
   <data name="Meetup" xml:space="preserve">
     <value>Uneix-te a la quedada de {0}!</value>
+  </data>
+  <data name="MBLanguages" xml:space="preserve">
+    <value>Idiomes</value>
+  </data>
+  <data name="SelectMeetupLanguage" xml:space="preserve">
+    <value>Selecciona idioma</value>
+  </data>
+  <data name="MBNextMeetups" xml:space="preserve">
+    <value>Pròximes quedades </value>
+  </data>
+  <data name="MBParticipants" xml:space="preserve">
+    <value>Participants</value>
   </data>
 </root>

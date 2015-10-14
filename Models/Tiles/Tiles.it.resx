@@ -74,6 +74,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -135,5 +136,35 @@
   
   <data name="TileChat" xml:space="preserve">
     <value>Chat</value>
+  </data>
+  <data name="ConfigurationIntro" xml:space="preserve">
+    <value>Configura il tuo conto in modo rapido</value>
+  </data>
+  <data name="My_evolution" xml:space="preserve">
+    <value>La mia evoluzione</value>
+  </data>
+  <data name="Edit_Profile" xml:space="preserve">
+    <value>Modifica Profilo</value>
+  </data>
+  <data name="HoursBagIntro" xml:space="preserve">
+    <value>Quando si pratica una lingua che non è la tua lingua madre, si ci trascorre del tempo dalla banca del tempo. E se si parla di un non-nativo nella vostra lingua madre, sarete ricompensati con il tempo per la vostra banca del tempo.</value>
+  </data>
+  <data name="Invite_Friends" xml:space="preserve">
+    <value>Invita Amici</value>
+  </data>
+  <data name="MeetupBoardIntro" xml:space="preserve">
+    <value>Crea appuntamenti per praticare la lingua desiderata!</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Profilo</value>
+  </data>
+  <data name="ShowMoreHelp" xml:space="preserve">
+    <value>Mostra tutto</value>
+  </data>
+  <data name="TileConfiguration" xml:space="preserve">
+    <value>Configurazione</value>
+  </data>
+  <data name="TileContacts" xml:space="preserve">
+    <value>Contatti</value>
   </data>
 </root>
