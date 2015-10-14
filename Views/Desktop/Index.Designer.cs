@@ -214,6 +214,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Suggested Meetups.
+        /// </summary>
+        public static string DeskSuggestedMeetups {
+            get {
+                return ResourceManager.GetString("DeskSuggestedMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Terms.
         /// </summary>
         public static string DeskTerms {
