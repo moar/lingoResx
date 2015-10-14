@@ -153,6 +153,9 @@
   <data name="DeskLanguages" xml:space="preserve">
     <value>Languages</value>
   </data>
+  <data name="DeskLRNatives" xml:space="preserve">
+    <value>Native(s)</value>
+  </data>
   <data name="DeskMymeetings" xml:space="preserve">
     <value>My Meetups</value>
   </data>

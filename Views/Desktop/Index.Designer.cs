@@ -169,6 +169,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Native(s).
+        /// </summary>
+        public static string DeskLRNatives {
+            get {
+                return ResourceManager.GetString("DeskLRNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to My Meetups.
         /// </summary>
         public static string DeskMymeetings {
