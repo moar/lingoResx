@@ -70,6 +70,15 @@ namespace Resources.Controllers.Account {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The email address is already taken.
+        /// </summary>
+        public static string ExistingEmail {
+            get {
+                return ResourceManager.GetString("ExistingEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The external login was removed..
         /// </summary>
         public static string ExternalLoginRemoved {
