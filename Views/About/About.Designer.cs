@@ -61,6 +61,15 @@ namespace Resources.Views.About {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You can contact us by sending an email to {0}.
+        /// </summary>
+        public static string AboutContact {
+            get {
+                return ResourceManager.GetString("AboutContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy provides a unique way to meet native speakers and create tandems by using web videochat technology, the Language Roulette.  You don’t have to worry about anything, just select the language you want to practice, and we will find you a match.&lt;br /&gt;
         ///                                What if no one is available when you get in? No worries, you can create meetups to let the others know when you will be available to chat, or you can check the existing meetups in the meetup board..
         /// </summary>
