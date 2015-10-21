@@ -116,4 +116,82 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AccountOptions" xml:space="preserve">
+    <value>Opzioni di account</value>
+  </data>
+  <data name="AddAboutYou" xml:space="preserve">
+    <value>Aggiungere informazioni sulla tua capacità della lingua</value>
+  </data>
+  <data name="AddBirthDate" xml:space="preserve">
+    <value>Aggiungi la tua data di nascita</value>
+  </data>
+  <data name="AddMoreLangs" xml:space="preserve">
+    <value>Aggiungere una o più lingue nell tuo profilo</value>
+  </data>
+  <data name="AddThumbnail" xml:space="preserve">
+    <value>Aggiungi la tua foto</value>
+  </data>
+  <data name="DeskAbout" xml:space="preserve">
+    <value>Su Langademy</value>
+  </data>
+  <data name="DeskBusy" xml:space="preserve">
+    <value>Occupato</value>
+  </data>
+  <data name="DeskContact" xml:space="preserve">
+    <value>Contatto</value>
+  </data>
+  <data name="DeskFeedback" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="DeskInviteFriends" xml:space="preserve">
+    <value>Invita i tuoi amici!</value>
+  </data>
+  <data name="DeskLanguages" xml:space="preserve">
+    <value>Lingue</value>
+  </data>
+  <data name="DeskMymeetings" xml:space="preserve">
+    <value>I miei Meetups</value>
+  </data>
+  <data name="DeskParticipants" xml:space="preserve">
+    <value>Partecipanti</value>
+  </data>
+  <data name="DeskPrivacy" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="DeskQuickComplete" xml:space="preserve">
+    <value>Completa il tuo profilo in modo rapido</value>
+  </data>
+  <data name="DeskSuggestCommunity" xml:space="preserve">
+    <value>Vuoi essere suggerito alla comunità?</value>
+  </data>
+  <data name="DeskTerms" xml:space="preserve">
+    <value>Condizioni</value>
+  </data>
+  <data name="EditProfileDesk" xml:space="preserve">
+    <value>Modifica Profilo</value>
+  </data>
+  <data name="EmptyInbox" xml:space="preserve">
+    <value>Non hai nessun messaggio</value>
+  </data>
+  <data name="EmptyMeetups" xml:space="preserve">
+    <value>Participa nell'appuntamento!</value>
+  </data>
+  <data name="LogOut" xml:space="preserve">
+    <value>Disconnettersi</value>
+  </data>
+  <data name="NumNatives" xml:space="preserve">
+    <value>Nativi</value>
+  </data>
+  <data name="Online" xml:space="preserve">
+    <value>Online</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+  <data name="TimeBank" xml:space="preserve">
+    <value>Banca del Tempo</value>
+  </data>
+  <data name="TodayLangs" xml:space="preserve">
+    <value>Oggi parlerò in</value>
+  </data>
+</root>

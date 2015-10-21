@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -141,7 +142,7 @@
     <value>Invita a tus amigos y obtendrás 30 minutos adicionales por cada amigo que se registre con tu invitación. También puedes ganar horas para el Banco de Tiempo siguiéndonos en Twitter y Facebook (+ 60 minutos).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando horas de tu Banco de Tiempo. En cambio, si ayudas a alguien que está aprendiendo tu idioma nativo, serás premiado con tiempo para tu Banco de Tiempo.</value>
+    <value>Cuando practiques en un idioma que no sea tu idioma nativo, </value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Banco de Tiempo</value>

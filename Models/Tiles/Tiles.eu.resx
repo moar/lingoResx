@@ -75,6 +75,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -134,37 +135,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  <data name="TileChat" xml:space="preserve">
-    <value>Txata</value>
-  </data>
-  <data name="ConfigurationIntro" xml:space="preserve">
-    <value>Kontuaren edizio azkarra</value>
-  </data>
-  <data name="My_evolution" xml:space="preserve">
-    <value>Nire bilakaera</value>
-  </data>
-  <data name="Edit_Profile" xml:space="preserve">
-    <value>Profila editatu</value>
-  </data>
-  <data name="Invite_Friends" xml:space="preserve">
-    <value>Lagunak gonbidatu</value>
-  </data>
-  <data name="MeetupBoardIntro" xml:space="preserve">
-    <value>Sortu itzazu bilerak eta praktika ezazu nahi duzun hizkuntza!</value>
-  </data>
-  <data name="Profile" xml:space="preserve">
-    <value>Profila</value>
-  </data>
-  <data name="ProfileEditionIntro" xml:space="preserve">
-    <value>Hemen zure profila edita dezakezu, adibidez, ikasi nahi dituzun hizkuntzak gehitu edo editatu ditzakezu.</value>
-  </data>
-  <data name="ShowMoreHelp" xml:space="preserve">
-    <value>Erakutsi gehiago</value>
-  </data>
-  <data name="TileConfiguration" xml:space="preserve">
-    <value>Konfigurazioa</value>
-  </data>
-  <data name="TileContacts" xml:space="preserve">
-    <value>Kontaktuak</value>
+  
+  <data name="HoursBagIntro" xml:space="preserve">
+    <value>Zure ama hizkuntza ez den hizkuntza batean praktikatzen duzunean, zure denbora bankuko denbora gastatuko duzu. Eta aldiz, natiboa ez den erabiltzaile batekin zure ama hizkuntzan hitz egiten baduzu, zure denbora bankurako denbora irabaziko duzu.</value>
   </data>
 </root>
