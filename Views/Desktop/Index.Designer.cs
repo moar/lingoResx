@@ -196,6 +196,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to People you may know.
+        /// </summary>
+        public static string DeskPeopleYouMayKnow {
+            get {
+                return ResourceManager.GetString("DeskPeopleYouMayKnow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Privacy.
         /// </summary>
         public static string DeskPrivacy {
@@ -210,6 +219,15 @@ namespace Resources.Views.Desktop {
         public static string DeskQuickComplete {
             get {
                 return ResourceManager.GetString("DeskQuickComplete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Skip.
+        /// </summary>
+        public static string DeskSkip {
+            get {
+                return ResourceManager.GetString("DeskSkip", resourceCulture);
             }
         }
         
@@ -237,6 +255,15 @@ namespace Resources.Views.Desktop {
         public static string DeskTerms {
             get {
                 return ResourceManager.GetString("DeskTerms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check their next meetups!.
+        /// </summary>
+        public static string DesktSugUsCheckMeets {
+            get {
+                return ResourceManager.GetString("DesktSugUsCheckMeets", resourceCulture);
             }
         }
         
