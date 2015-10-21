@@ -124,6 +124,15 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sorry, an error has occurred, requested page was not found!.
+        /// </summary>
+        public static string NotFoundError {
+            get {
+                return ResourceManager.GetString("NotFoundError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Room does not exist.
         /// </summary>
         public static string RoomNotExist {
@@ -147,6 +156,15 @@ namespace Resources.Exceptions {
         public static string SelfFriendShipException {
             get {
                 return ResourceManager.GetString("SelfFriendShipException", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sorry, something didn&apos;t go as expexted!.
+        /// </summary>
+        public static string ServerErrorPageError {
+            get {
+                return ResourceManager.GetString("ServerErrorPageError", resourceCulture);
             }
         }
         
