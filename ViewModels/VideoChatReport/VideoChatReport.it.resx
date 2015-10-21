@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -134,5 +135,14 @@
   </data>
   <data name="RemoteFinished" xml:space="preserve">
     <value>{0} ha finito la chiamata</value>
+  </data>
+  <data name="VCLearnLang" xml:space="preserve">
+    <value>Parlando in una lingua non-nativa con un utente nativo, ha un costo per te</value>
+  </data>
+  <data name="VCNoMinimunTime" xml:space="preserve">
+    <value>Le chiamate che sono più brevi di un minuto non hanno alcun costo per te</value>
+  </data>
+  <data name="VCShowYourLang" xml:space="preserve">
+    <value>Parlando nella tua lingua a un partner che ha un livello inferiore a te ,ti dà tempo supplementare nella Banca del Tempo</value>
   </data>
 </root>

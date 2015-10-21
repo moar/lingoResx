@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,12 +117,21 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
+  <data name="AboutHowWorks" xml:space="preserve">
+    <value><![CDATA[Langademyk hiztun natiboak ezagutzeko eta tandemak sortzeko modu paregabea eskaintzen du Language Roulette izeneko bideotxat aplikazioa erabiliz. Ez duzu ezertaz arduratu beharrik: praktikatu nahi duzun hizkuntza aukeratu eta zurekin hitz egiteko bikotekide bat aurkituko dizugu. <br/>
+Eta sartzen zarenean inor ez badago? Lasai, bilerak antolatzeko aukera duzu, eta horrela gainontzeko erabiltzaileek beraiekin solasaldi bat izateko libre noiz egongo zaren jakingo dute. Gainera, besteek sortutako bilerak kontsultatu ditzakezu bilera taulan.]]></value>
+  </data>
+  <data name="AboutIntro" xml:space="preserve">
+    <value>Langademy hizkuntza elkartrukerako sareko komunitate bat da, eta bertan mundu osoko natiboekin hizkuntza atzerritarrak praktikatu ahal izango dituzu. Hiztun natiboak kontextu natural batean entzuteak zure entzumena hobetzen lagunduko dizu eta baita hizkuntza bakoitzeko doinu bakarrak ikasten ere. Era berean, zure ahozko gaitasuna era hobetuko duzu. Hitz berriak eta hizkuntzetako jatorrizko esaldiak ikasiko dituzu, hitz egiten duzun bitartean hiztun natiboa zu zuzentzeko prest izango duzun bitartean.</value>
+  </data>
   <data name="AboutMainTitle" xml:space="preserve">
     <value>Langademy buruz</value>
   </data>
   <data name="AboutTimeBanking" xml:space="preserve">
     <value>Denbora Bankua</value>
+  </data>
+  <data name="AboutTimeBankText" xml:space="preserve">
+    <value>Denbora bankua hizkuntza elkartrukea denontzako errentagarria izateko modu bat da. Zure ama hizkuntza beste erabiltzaile batzurekin partekatzen baduzu, beste hizkuntza batzuk praktika ditzazun denbora emango dizugu. Eta zure ama hizkuntza ez den hizkuntza batean aritzen bazara, zure denbora bankuko denbora gastatuko duzu. 5 ordurekin hasiko zara, eta hilero {0} ordu oparituko dizkizugu zure denbora bankurako.</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
     <value>Ikasi hizkuntzak eta zure maila hobetu Langademyn</value>

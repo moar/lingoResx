@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,4 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="DesktopState" xml:space="preserve">
+    <value>Langademy ti offre chiamatevideo tra i tuoi partner-langademy, e il tuo stato mostra le lingue impostate nel tuo profilo. Quando si attiva o si disattiva una lingua nel vostro stato, si sta lasciando sapere in quali lingue si desidera parlare in un particolare momento a i tuoi contatti. Se non vuoi ricevere chiamate dai tuoi contatti, è sufficiente modificare il tuo stato a occupato! Ricorda che le Videochiamate influenzano la Banca del Tempo.</value>
+  </data>
+  <data name="HelpString" xml:space="preserve">
+    <value>Aiuto</value>
+  </data>
+  <data name="LangademyState" xml:space="preserve">
+    <value>Stato Langademy</value>
+  </data>
+  <data name="LangrouletteIntro" xml:space="preserve">
+    <value>Entra nel Language-Roulette, seleziona una stanza e inizia a parlare la tua lingua preferita!  Ci occupiamo noi di cercarte una coppia!</value>
+  </data>
+  <data name="TimeBankDescription" xml:space="preserve">
+    <value> La Banca del Tempo è il sistema per fer fare più proficuo per tutti lo scambio linguistico. Ecco come funziona:</value>
+  </data>
+  <data name="TimeBankF1" xml:space="preserve">
+    <value>Inizierai con 5 ore, e ogni mese Langademy ti darà {0} ore extra.</value>
+  </data>
+  <data name="TimeBankF2" xml:space="preserve">
+    <value>Per impostazione predefinita, non sarà possibile accumulare più di 10 ore nella tua banca del tempo.</value>
+  </data>
+  <data name="TimeBankF3" xml:space="preserve">
+    <value>Invita i tuoi amici e otterrai 30 minuti per ogni amico che è registrato con il tuo invito. È inoltre possibile guadagnare ore per la vostra banca del tempo se ci seguite in Twitter e Facebook (+ 60 minuti).</value>
+  </data>
+  <data name="TimeBankF4" xml:space="preserve">
+    <value>Quando si pratica una lingua che non è la tua lingua madre, starai spendendo ore dalla Banca del Tempo. In cambio, se aiuti a qualcuno che sta imparando la tua lingua madre, ti verrai accreditato.</value>
+  </data>
+  <data name="TimeBankTitle" xml:space="preserve">
+    <value>Banca del Tempo</value>
+  </data>
+</root>

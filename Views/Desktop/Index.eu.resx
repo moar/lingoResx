@@ -144,7 +144,7 @@
     <value>Feedbacka</value>
   </data>
   <data name="DeskInviteFriends" xml:space="preserve">
-    <value>Gonbidatu zure lagunak!</value>
+    <value>Gonbidatu zure lagunak Langademyra!</value>
   </data>
   <data name="DeskJoinMeetup" xml:space="preserve">
     <value>Izena eman!</value>
@@ -205,5 +205,14 @@
   </data>
   <data name="TodayLangs" xml:space="preserve">
     <value>Gaur hizkuntza honetan arituko naiz</value>
+  </data>
+  <data name="DeskPeopleYouMayKnow" xml:space="preserve">
+    <value>Ezagutu dezakezun jendea</value>
+  </data>
+  <data name="DeskSkip" xml:space="preserve">
+    <value>Jauzi</value>
+  </data>
+  <data name="DesktSugUsCheckMeets" xml:space="preserve">
+    <value>Ikusi beraien hurrengo bilerak!</value>
   </data>
 </root>

@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,7 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
+  <data name="DesktopState" xml:space="preserve">
+    <value>Langademyk, Langademyko lagunen arteko bideo deiak eskaintzen ditu, eta zure mahagaineko egoerak profilean dituzun hizkuntzak erakusten ditu. Zure egoeran hizkuntzak aktibatu edo desaktibatzen dituzunean, zure lagunei zein hizkuntzatan hitz egin nahi duzun adieraziko diezu. Ez baduzu zure lagunen deirik jaso nahi, lanpetuta egoerara pasa zaitez! Gogoratu ezazu, bideo deiek zure denbora bankuan eragin dezaketela.</value>
+  </data>
   <data name="HelpString" xml:space="preserve">
     <value>Laguntza</value>
   </data>

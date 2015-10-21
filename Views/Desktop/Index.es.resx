@@ -141,10 +141,10 @@
     <value>Contacto</value>
   </data>
   <data name="DeskFeedback" xml:space="preserve">
-    <value>Feedaback</value>
+    <value>Feedback</value>
   </data>
   <data name="DeskInviteFriends" xml:space="preserve">
-    <value>¡Invita a tus amigos!</value>
+    <value>¡Invita a tus amigos a unirse a Langademy!</value>
   </data>
   <data name="DeskJoinMeetup" xml:space="preserve">
     <value>¡Únete!</value>
@@ -205,5 +205,14 @@
   </data>
   <data name="TodayLangs" xml:space="preserve">
     <value>Hoy hablaré en</value>
+  </data>
+  <data name="DeskPeopleYouMayKnow" xml:space="preserve">
+    <value>Gente que puedes conocer</value>
+  </data>
+  <data name="DeskSkip" xml:space="preserve">
+    <value>Saltar</value>
+  </data>
+  <data name="DesktSugUsCheckMeets" xml:space="preserve">
+    <value>¡Revisa sus próximas quedadas!</value>
   </data>
 </root>
