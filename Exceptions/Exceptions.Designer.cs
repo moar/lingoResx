@@ -160,7 +160,7 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sorry, something didn&apos;t go as expexted!.
+        ///   Looks up a localized string similar to Sorry, something didn&apos;t go as expected!.
         /// </summary>
         public static string ServerErrorPageError {
             get {

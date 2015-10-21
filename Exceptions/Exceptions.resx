@@ -57,37 +57,11 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-<<<<<<< HEAD
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
-=======
-            : and then encoded with base64 encoding.-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
->>>>>>> b3c10e1bcd8ee766362633c50d823bd28a011149
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
@@ -183,6 +157,6 @@
     <value>Sorry, an error has occurred, requested page was not found!</value>
   </data>
   <data name="ServerErrorPageError" xml:space="preserve">
-    <value>Sorry, something didn't go as expexted!</value>
+    <value>Sorry, something didn't go as expected!</value>
   </data>
 </root>
