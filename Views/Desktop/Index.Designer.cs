@@ -142,7 +142,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Invite your friends!.
+        ///   Looks up a localized string similar to Invite your friends to join Langademy!.
         /// </summary>
         public static string DeskInviteFriends {
             get {
@@ -246,6 +246,33 @@ namespace Resources.Views.Desktop {
         public static string DeskSuggestedMeetups {
             get {
                 return ResourceManager.GetString("DeskSuggestedMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View their recent activity.
+        /// </summary>
+        public static string DeskSugsUsActivity {
+            get {
+                return ResourceManager.GetString("DeskSugsUsActivity", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Meet new people.
+        /// </summary>
+        public static string DeskSugUsMeet {
+            get {
+                return ResourceManager.GetString("DeskSugUsMeet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check their stats.
+        /// </summary>
+        public static string DeskSugUsStats {
+            get {
+                return ResourceManager.GetString("DeskSugUsStats", resourceCulture);
             }
         }
         
