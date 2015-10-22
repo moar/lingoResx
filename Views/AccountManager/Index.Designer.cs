@@ -61,6 +61,15 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Allow only requests from people you have spoken to..
+        /// </summary>
+        public static string AccAnonymousReq {
+            get {
+                return ResourceManager.GetString("AccAnonymousReq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Link account.
         /// </summary>
         public static string AccLinkAccounts {
@@ -75,6 +84,15 @@ namespace Resources.Views.AccountManager {
         public static string AccLinkedAccounts {
             get {
                 return ResourceManager.GetString("AccLinkedAccounts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No.
+        /// </summary>
+        public static string AccNoSet {
+            get {
+                return ResourceManager.GetString("AccNoSet", resourceCulture);
             }
         }
         
@@ -115,11 +133,38 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Privacy.
+        /// </summary>
+        public static string AccPrivacy {
+            get {
+                return ResourceManager.GetString("AccPrivacy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Privacy settings.
+        /// </summary>
+        public static string AccPrivacySettings {
+            get {
+                return ResourceManager.GetString("AccPrivacySettings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Settings.
         /// </summary>
         public static string AccSettings {
             get {
                 return ResourceManager.GetString("AccSettings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Yes.
+        /// </summary>
+        public static string AccYesSet {
+            get {
+                return ResourceManager.GetString("AccYesSet", resourceCulture);
             }
         }
         

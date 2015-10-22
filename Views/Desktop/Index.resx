@@ -168,9 +168,6 @@
   <data name="DeskQuickComplete" xml:space="preserve">
     <value>Complete your profile quickly</value>
   </data>
-  <data name="DeskSuggestCommunity" xml:space="preserve">
-    <value>Be suggested to the language community</value>
-  </data>
   <data name="DeskSuggestedMeetups" xml:space="preserve">
     <value>Suggested Meetups</value>
   </data>
@@ -224,5 +221,8 @@
   </data>
   <data name="DeskSugUsStats" xml:space="preserve">
     <value>Check their stats</value>
+  </data>
+  <data name="DeskRestrictRequests" xml:space="preserve">
+    <value>Restrict contact requests</value>
   </data>
 </root>

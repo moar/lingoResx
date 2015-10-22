@@ -223,20 +223,20 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Restrict contact requests.
+        /// </summary>
+        public static string DeskRestrictRequests {
+            get {
+                return ResourceManager.GetString("DeskRestrictRequests", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Skip.
         /// </summary>
         public static string DeskSkip {
             get {
                 return ResourceManager.GetString("DeskSkip", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Be suggested to the language community.
-        /// </summary>
-        public static string DeskSuggestCommunity {
-            get {
-                return ResourceManager.GetString("DeskSuggestCommunity", resourceCulture);
             }
         }
         
