@@ -180,4 +180,7 @@
   <data name="AccYesSet" xml:space="preserve">
     <value>Yes</value>
   </data>
+  <data name="AccNoBlocked" xml:space="preserve">
+    <value>You haven't blocked any users</value>
+  </data>
 </root>

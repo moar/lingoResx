@@ -277,6 +277,15 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This user has been reported.
+        /// </summary>
+        public static string ProfUserReported {
+            get {
+                return ResourceManager.GetString("ProfUserReported", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Report.
         /// </summary>
         public static string Report {

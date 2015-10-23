@@ -88,6 +88,15 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You haven&apos;t blocked any users.
+        /// </summary>
+        public static string AccNoBlocked {
+            get {
+                return ResourceManager.GetString("AccNoBlocked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to No.
         /// </summary>
         public static string AccNoSet {
