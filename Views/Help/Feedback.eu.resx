@@ -64,6 +64,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -135,6 +136,6 @@
     <value>Aukeratu hauetako bat</value>
   </data>
   <data name="Thanks" xml:space="preserve">
-    <value>Eskerrik asko zure iritzia emateko eskaini diguzun arretagatik. Irakurri eta ahal badugu erantzun bat emango dizugu.</value>
+    <value>Eskerrik asko zure iradokiznuak emateko eskaini diguzun arretagatik. Zure iritzia oso garrantzitsua da guretzat eta ahalik eta azkarren erantzungo dizugu.</value>
   </data>
 </root>

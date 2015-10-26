@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -118,6 +119,9 @@
   </resheader>
   <data name="AccountConfirmEmail" xml:space="preserve">
     <value>Has de confirmar la teva adreça de correu electrònic. Revisa el teu correu!</value>
+  </data>
+  <data name="ExistingEmail" xml:space="preserve">
+    <value>La direcció de correu electrònic ja està en ús</value>
   </data>
   <data name="ExternalLoginRemoved" xml:space="preserve">
     <value>S'ha esborrat el login extern </value>

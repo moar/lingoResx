@@ -58,7 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,7 +127,7 @@
     <value>Acerca de Langademy</value>
   </data>
   <data name="AboutTimeBanking" xml:space="preserve">
-    <value>Banco de Horas</value>
+    <value>Banco de Tiempo</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
     <value>El Banco de Tiempo es un concepto que permite que el intercambio de idiomas sea rentable para todo el mundo. Si compartes tu idioma nativo con otros usuarios de Langademy, te daremos tiempo para que puedas practicar otros idiomas. Y si practicas un idiomas que no es tu idioma nativo, estarás gastando el tiempo de tu Banco de Tiempo. Empezarás con 5 horas, y cada mes te regalaremos {0} horas para tu cuenta.</value>

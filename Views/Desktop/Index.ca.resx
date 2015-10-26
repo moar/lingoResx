@@ -144,13 +144,16 @@
     <value>Feedback</value>
   </data>
   <data name="DeskInviteFriends" xml:space="preserve">
-    <value>Convida els teus amics!</value>
+    <value>Convida als teus amics a unir-se a Langademy!</value>
   </data>
   <data name="DeskJoinMeetup" xml:space="preserve">
     <value>Uneix-te!</value>
   </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Idiomes</value>
+  </data>
+  <data name="DeskLRNatives" xml:space="preserve">
+    <value>Natiu(s)</value>
   </data>
   <data name="DeskMymeetings" xml:space="preserve">
     <value>Les Meves Quedades</value>
@@ -166,6 +169,9 @@
   </data>
   <data name="DeskSuggestCommunity" xml:space="preserve">
     <value>Vols ser suggerit a la comunitat?</value>
+  </data>
+  <data name="DeskSuggestedMeetups" xml:space="preserve">
+    <value>Quedades a les que et pots unir</value>
   </data>
   <data name="DeskTerms" xml:space="preserve">
     <value>Condicions</value>
@@ -199,5 +205,23 @@
   </data>
   <data name="TodayLangs" xml:space="preserve">
     <value>Avui parlaré en</value>
+  </data>
+  <data name="DeskPeopleYouMayKnow" xml:space="preserve">
+    <value>Gent que pots conèixer </value>
+  </data>
+  <data name="DeskSkip" xml:space="preserve">
+    <value>Saltar</value>
+  </data>
+  <data name="DesktSugUsCheckMeets" xml:space="preserve">
+    <value>Revisa les pròximes quedades!</value>
+  </data>
+  <data name="DeskSugsUsActivity" xml:space="preserve">
+    <value>Veure la teva activitat recent</value>
+  </data>
+  <data name="DeskSugUsMeet" xml:space="preserve">
+    <value>Coneix gent nova</value>
+  </data>
+  <data name="DeskSugUsStats" xml:space="preserve">
+    <value>Revisa les estadístiques</value>
   </data>
 </root>

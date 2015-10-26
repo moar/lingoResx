@@ -58,24 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -134,40 +116,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FriendsAlreadyException" xml:space="preserve">
-    <value>Ya estáis conectados</value>
-  </data>
-  <data name="ExcServerError" xml:space="preserve">
-    <value>Lo sentimos, pero algo salió mal</value>
-  </data>
-  <data name="InvalidDateTimeException" xml:space="preserve">
-    <value>Fecha inválida</value>
-  </data>
-  <data name="InvalidUserLanguageException" xml:space="preserve">
-    <value>Nombre de usuario inválido</value>
-  </data>
-  <data name="LanguageNotFoundException" xml:space="preserve">
-    <value>Idioma no encontrado</value>
-  </data>
-  <data name="MeetupNotFoundException" xml:space="preserve">
-    <value>Quedada no encontrada</value>
-  </data>
-  <data name="NoAccessToRoom" xml:space="preserve">
-    <value>No tienes acceso a esta sala</value>
-  </data>
-  <data name="RoomNotExist" xml:space="preserve">
-    <value>La sala no existe</value>
-  </data>
-  <data name="RoomNotFound" xml:space="preserve">
-    <value>Sala no encontrada</value>
-  </data>
-  <data name="SelfFriendShipException" xml:space="preserve">
-    <value>No puedes realizar una solicitud de contacto a ti mismo</value>
-  </data>
-  <data name="UserNotFoundException" xml:space="preserve">
-    <value>Usuario no encontrado</value>
-  </data>
-  <data name="UserNotInAnyRoom" xml:space="preserve">
-    <value>El usuario no se encuentra en ninguna sala</value>
-  </data>
-</root>
+  </root>

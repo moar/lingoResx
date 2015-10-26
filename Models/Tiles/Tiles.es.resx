@@ -76,6 +76,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -136,7 +137,40 @@
   </resheader>
   
   
+  <data name="TileChat" xml:space="preserve">
+    <value>Chat</value>
+  </data>
   <data name="HoursBagIntro" xml:space="preserve">
     <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando horas de tu Banco de Tiempo. En cambio, si ayudas a alguien que está aprendiendo tu idioma nativo, serás premiado con tiempo para tu Banco de Tiempo.</value>
+  </data>
+  <data name="ConfigurationIntro" xml:space="preserve">
+    <value>Configura tu cuenta rápidamente</value>
+  </data>
+  <data name="My_evolution" xml:space="preserve">
+    <value>Mi evolución</value>
+  </data>
+  <data name="Edit_Profile" xml:space="preserve">
+    <value>Editar Perfil</value>
+  </data>
+  <data name="Invite_Friends" xml:space="preserve">
+    <value>Invita Amigos</value>
+  </data>
+  <data name="MeetupBoardIntro" xml:space="preserve">
+    <value>¡Crea quedadas para practicar el idioma que quieras!</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Perfil</value>
+  </data>
+  <data name="ProfileEditionIntro" xml:space="preserve">
+    <value>Puedes editar tu perfil aquí, por ejemplo, puedes agregar o modificar los idiomas que quieres aprender</value>
+  </data>
+  <data name="ShowMoreHelp" xml:space="preserve">
+    <value>Mostrar más</value>
+  </data>
+  <data name="TileConfiguration" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="TileContacts" xml:space="preserve">
+    <value>Contactos</value>
   </data>
 </root>

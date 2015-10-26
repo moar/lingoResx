@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,7 +128,7 @@
     <value>Langademy egoera</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>Sartu Language-Roulettera, aukeratu gela bat eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Hitz egiteko lagun bat aukeratuko dizugu!</value>
+    <value>Language Roulettea zure hizkuntza gogokoenak praktika ditzakezun tokia da. Aukeratu gela bat eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Hitz egiteko lagun bat aukeratuko dizugu! Gogoratu bilera taula kontsulta dezakezual Language Rouletteko bilerak noiz izango diren ikusteko.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>Denbora bankua hizkuntza trukea guztiontzat errentagarria izateko modun bat da. Hau da bere funtzionamendua:</value>

@@ -71,6 +71,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -148,7 +149,7 @@
     <value>Data</value>
   </data>
   <data name="ExistingMeetupLanguage" xml:space="preserve">
-    <value>Dagoeneko badago {0}z hitz egiteko bilera bat ordu honetan. Batu zaitez bilerara beste bat sortu beharrean</value>
+    <value>Dagoeneko badago {0}(e)z hitz egiteko bilera bat ordu honetan. Batu zaitez bilerara beste bat sortu beharrean</value>
   </data>
   <data name="InvitableContactsHeader" xml:space="preserve">
     <value>{0} hitz egiten duten kontaktuak</value>
@@ -220,7 +221,7 @@
     <value>Ezin duzu {0} ordu baino gutxiagotan hasiko den bilera batera inor gonbidatu</value>
   </data>
   <data name="Meetup" xml:space="preserve">
-    <value>{0} bilera</value>
+    <value>{0}(e)ko bileran apuntatu!</value>
   </data>
   <data name="MBLanguages" xml:space="preserve">
     <value>Hizkuntzak</value>

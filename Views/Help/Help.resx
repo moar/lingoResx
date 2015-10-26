@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,7 +129,7 @@
     <value>Langademy state</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>Get in the Langroulette, select a room and start speaking your favourite language! We will find a match for you!</value>
+    <value>The Language Roulette is the place where you can get when you want to practice a language. Select a room and start practicing your favourite langauge! We will find a match for you! Remember that you can check the meeting board to know when will the Language Roulette meetings take place.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>Time Bank is a way to make language exchange profitable for everyone. This is how it works:</value>

@@ -120,7 +120,7 @@
     <value>Opciones de cuenta</value>
   </data>
   <data name="AddAboutYou" xml:space="preserve">
-    <value>Añade información sobre tus conocimientos del idioma</value>
+    <value>Añade información sobre ti</value>
   </data>
   <data name="AddBirthDate" xml:space="preserve">
     <value>Añade tu fecha de nacimiento</value>
@@ -147,7 +147,7 @@
     <value>¡Invita a tus amigos a unirse a Langademy!</value>
   </data>
   <data name="DeskJoinMeetup" xml:space="preserve">
-    <value>¡Únete!</value>
+    <value>¡Apúntate!</value>
   </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Idiomas</value>
@@ -156,7 +156,7 @@
     <value>Nativo(s)</value>
   </data>
   <data name="DeskMymeetings" xml:space="preserve">
-    <value>Mis quedadas</value>
+    <value>Mis quedadas Language Roulette</value>
   </data>
   <data name="DeskParticipants" xml:space="preserve">
     <value>Participantes</value>
@@ -171,7 +171,7 @@
     <value>¿Quieres ser sugerido a la comunidad?</value>
   </data>
   <data name="DeskSuggestedMeetups" xml:space="preserve">
-    <value>Quedadas sugeridas</value>
+    <value>Quedadas a las que te puedes unir</value>
   </data>
   <data name="DeskTerms" xml:space="preserve">
     <value>Condiciones</value>
@@ -183,7 +183,7 @@
     <value>No tienes ningún mensaje</value>
   </data>
   <data name="EmptyMeetups" xml:space="preserve">
-    <value>¡Únete a una quedada!</value>
+    <value>¡Apúntate a una quedada!</value>
   </data>
   <data name="LogOut" xml:space="preserve">
     <value>Cerrar Sesión</value>

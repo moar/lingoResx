@@ -73,6 +73,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,7 +139,7 @@
     <value>The information about you must be maximum {1} characters long</value>
   </data>
   <data name="AboutYouPH" xml:space="preserve">
-    <value>Write some details about yourself</value>
+    <value>Write some details about you</value>
   </data>
   <data name="AlertOff" xml:space="preserve">
     <value>Off</value>

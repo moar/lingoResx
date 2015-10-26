@@ -120,7 +120,7 @@
     <value>Kontu aukerak</value>
   </data>
   <data name="AddAboutYou" xml:space="preserve">
-    <value>Gehitu zure hizkuntza gaitasunei buruzko informazioa</value>
+    <value>Gehitu zuri buruzko informazioa</value>
   </data>
   <data name="AddBirthDate" xml:space="preserve">
     <value>Gehitu zure jaiotze data</value>
@@ -147,7 +147,7 @@
     <value>Gonbidatu zure lagunak Langademyra!</value>
   </data>
   <data name="DeskJoinMeetup" xml:space="preserve">
-    <value>Izena eman!</value>
+    <value>Apunta zaitez!</value>
   </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Hizkuntzak</value>
@@ -156,7 +156,7 @@
     <value>Natibo</value>
   </data>
   <data name="DeskMymeetings" xml:space="preserve">
-    <value>Nire Bilerak</value>
+    <value>Nire Language Rouletteko bilerak</value>
   </data>
   <data name="DeskParticipants" xml:space="preserve">
     <value>Partaideak</value>
@@ -171,7 +171,7 @@
     <value>Zure burua kontaktu bezala irakodi</value>
   </data>
   <data name="DeskSuggestedMeetups" xml:space="preserve">
-    <value>Iradokitako bilerak</value>
+    <value>Apunta zaitezkeen bilerak</value>
   </data>
   <data name="DeskTerms" xml:space="preserve">
     <value>Baldintzak</value>
@@ -183,7 +183,7 @@
     <value>Ez daukazu mezurik</value>
   </data>
   <data name="EmptyMeetups" xml:space="preserve">
-    <value>Izena eman bileraren baten!</value>
+    <value>Apunta zaitez bileraren baten!</value>
   </data>
   <data name="LogOut" xml:space="preserve">
     <value>Logout</value>

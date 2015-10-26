@@ -64,6 +64,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -135,6 +136,6 @@
     <value>Selecciona una opción</value>
   </data>
   <data name="Thanks" xml:space="preserve">
-    <value>Gracias por tomarte un tiempo para darnos tu opinión. Vamos a revisar tu comentario y te responderemos si es posible</value>
+    <value>Gracias por tomarte un tiempo para hacernos sugerencias. Tu opinión es importante para nosotros y te responderemos con la mayor brevedad posible</value>
   </data>
 </root>
