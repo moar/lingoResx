@@ -115,7 +115,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There is already a meetup at this time for speaking {0}. Join it instead of creating a new one.
+        ///   Looks up a localized string similar to There is already a meetup at this time to speak {0}. Join it instead of creating a new one.
         /// </summary>
         public static string ExistingMeetupLanguage {
             get {
@@ -169,6 +169,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Go to {0} to get in to the meetup.
+        /// </summary>
+        public static string MBMeetGetLangRoulette {
+            get {
+                return ResourceManager.GetString("MBMeetGetLangRoulette", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Next meetups.
         /// </summary>
         public static string MBNextMeetups {
@@ -178,7 +187,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Participantes.
+        ///   Looks up a localized string similar to Participants.
         /// </summary>
         public static string MBParticipants {
             get {
@@ -187,7 +196,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} meetup.
+        ///   Looks up a localized string similar to Join {0} meetup!.
         /// </summary>
         public static string Meetup {
             get {
