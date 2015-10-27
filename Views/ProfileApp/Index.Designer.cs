@@ -79,7 +79,7 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Write some details about yourself.
+        ///   Looks up a localized string similar to Write some details about you.
         /// </summary>
         public static string AboutYouPH {
             get {
@@ -106,11 +106,47 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Language edition.
+        /// </summary>
+        public static string BlockUpdateLang {
+            get {
+                return ResourceManager.GetString("BlockUpdateLang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can&apos;t delete your native language.
+        /// </summary>
+        public static string CannotDeleteNative {
+            get {
+                return ResourceManager.GetString("CannotDeleteNative", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;You signed up for a meetup in this langauge. Leave the meetup before removing this language..
+        /// </summary>
+        public static string CannotDeleteNativePendingMeetup {
+            get {
+                return ResourceManager.GetString("CannotDeleteNativePendingMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You cannot modify this language now. Try it later.
         /// </summary>
         public static string CannotModifyLanguage {
             get {
                 return ResourceManager.GetString("CannotModifyLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can&apos;t modify your native language&apos;s level.
+        /// </summary>
+        public static string CannotModifyNativeLanguage {
+            get {
+                return ResourceManager.GetString("CannotModifyNativeLanguage", resourceCulture);
             }
         }
         
