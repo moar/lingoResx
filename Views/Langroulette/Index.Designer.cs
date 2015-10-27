@@ -61,7 +61,7 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are already in another room. Do you still what to join this room? If you accept you will be logged out of the other room.
+        ///   Looks up a localized string similar to You are already in another room. Do you still want to join this room? If you accept you will be logged out of the other room.
         /// </summary>
         public static string AlreadyInRoom {
             get {
@@ -133,7 +133,7 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have chat with everyone that suits your requirements. Wait for new users!.
+        ///   Looks up a localized string similar to You have chatted with everyone that suits your requirements. Wait for new users!.
         /// </summary>
         public static string LRFilterTime {
             get {
@@ -142,7 +142,7 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can get into this room, you don&apos;t have more chat hours. Speak in your native language so you earn more time..
+        ///   Looks up a localized string similar to You can&apos;t get into this room, you don&apos;t have more chat hours. Speak in your native language so you earn more time..
         /// </summary>
         public static string LRNoChatHours {
             get {
@@ -196,7 +196,7 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remember that only the rooms of the languages you practise are available for you.
+        ///   Looks up a localized string similar to Is your room empty? Check if there&apos;s any meetup soon in the {0}!.
         /// </summary>
         public static string RememberRooms {
             get {
