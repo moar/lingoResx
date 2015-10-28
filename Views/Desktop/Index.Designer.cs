@@ -70,7 +70,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add information about your language skills.
+        ///   Looks up a localized string similar to Add information about you.
         /// </summary>
         public static string AddAboutYou {
             get {
@@ -178,7 +178,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to My Meetups.
+        ///   Looks up a localized string similar to My Language Roulette Meetups.
         /// </summary>
         public static string DeskMymeetings {
             get {
@@ -241,7 +241,16 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Suggested Meetups.
+        ///   Looks up a localized string similar to Be suggested to the language community.
+        /// </summary>
+        public static string DeskSuggestCommunity {
+            get {
+                return ResourceManager.GetString("DeskSuggestCommunity", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Meetups you can join.
         /// </summary>
         public static string DeskSuggestedMeetups {
             get {
