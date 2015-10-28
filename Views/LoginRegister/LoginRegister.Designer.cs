@@ -124,6 +124,24 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Email confirmation.
+        /// </summary>
+        public static string EmailConfirmation {
+            get {
+                return ResourceManager.GetString("EmailConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Thank you for confirming your account. Please &lt;a href=&quot;{0}&quot; class=&quot;link&quot;&gt;click here to log in&lt;/a&gt;.
+        /// </summary>
+        public static string EmailConfirmationSentence {
+            get {
+                return ResourceManager.GetString("EmailConfirmationSentence", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Please enter a user name for Langademy below and click the Register button to finish logging in.
         /// </summary>
         public static string ExtLoginCompleteInfo {
@@ -277,6 +295,15 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your password has been reset. Please  &lt;a href=&quot;{0}&quot; class=&quot;link&quot;&gt;click here to log in&lt;/a&gt;.
+        /// </summary>
+        public static string PasswordIsReset {
+            get {
+                return ResourceManager.GetString("PasswordIsReset", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The {0} must be at least {2} characters long.
         /// </summary>
         public static string PwdLength {
@@ -322,7 +349,7 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The field E-mail is required.
+        ///   Looks up a localized string similar to The E-mail field is required.
         /// </summary>
         public static string ReqEmail {
             get {
@@ -349,11 +376,38 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have to agree to the terms and conditions.
+        ///   Looks up a localized string similar to You have to read and agree to the terms and conditions.
         /// </summary>
         public static string ReqTerms {
             get {
                 return ResourceManager.GetString("ReqTerms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reset Password.
+        /// </summary>
+        public static string ResetPassword {
+            get {
+                return ResourceManager.GetString("ResetPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reset password confirmation.
+        /// </summary>
+        public static string ResetPasswordConfirmation {
+            get {
+                return ResourceManager.GetString("ResetPasswordConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reset your password.
+        /// </summary>
+        public static string ResetYourPassword {
+            get {
+                return ResourceManager.GetString("ResetYourPassword", resourceCulture);
             }
         }
     }
