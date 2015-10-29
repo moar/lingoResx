@@ -58,10 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -148,7 +144,7 @@
     <value>No hay ningún usuario que cumpla tu filtro. Cambia el filtro o espera que haya algún usuario disponible</value>
   </data>
   <data name="RememberRooms" xml:space="preserve">
-    <value>Recuerda que solo están disponibles las salas de los idiomas que practicas</value>
+    <value>¿Tu sala está vacía?¡Mira si hay alguna quedada en el {0}!</value>
   </data>
   <data name="SelectRoom" xml:space="preserve">
     <value>Elige una sala y comienza a practicar un idioma</value>

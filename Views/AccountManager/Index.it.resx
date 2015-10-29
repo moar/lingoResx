@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,52 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccNotifications" xml:space="preserve">
-    <value>Notifiche</value>
-  </data>
-  <data name="Account" xml:space="preserve">
-    <value>Conto</value>
-  </data>
-  <data name="Accounts" xml:space="preserve">
-    <value>Conti</value>
-  </data>
-  <data name="AccSettings" xml:space="preserve">
-    <value>Impostazioni</value>
-  </data>
-  <data name="AddLinkedLogin" xml:space="preserve">
-    <value>Collega il nuovo account</value>
-  </data>
-  <data name="Blocking" xml:space="preserve">
-    <value>Utenti bloccati</value>
-  </data>
-  <data name="ChangePassword" xml:space="preserve">
-    <value>Modifica password</value>
-  </data>
-  <data name="ConfirmNewPassword" xml:space="preserve">
-    <value>Conferma la nuova password</value>
-  </data>
-  <data name="LangademyLanguage" xml:space="preserve">
-    <value> Lingua Langademy</value>
-  </data>
-  <data name="NewPassword" xml:space="preserve">
-    <value>Nuova password</value>
-  </data>
-  <data name="OldPassword" xml:space="preserve">
-    <value>Vecchia Password</value>
-  </data>
-  <data name="SelectLanguage" xml:space="preserve">
-    <value>Seleziona la lingua</value>
-  </data>
-  <data name="SocialNetworks" xml:space="preserve">
-    <value>Reti sociali</value>
-  </data>
-  <data name="AccLinkAccounts" xml:space="preserve">
-    <value>Collega account</value>
-  </data>
-  <data name="AccLinkedAccounts" xml:space="preserve">
-    <value>Account collegati</value>
-  </data>
-  <data name="AccNoSocialAcc" xml:space="preserve">
-    <value>Nessun account collegato nelle reti sociali</value>
-  </data>
-</root>
+  </root>

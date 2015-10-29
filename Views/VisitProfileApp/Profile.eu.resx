@@ -209,4 +209,7 @@
   <data name="LangExStats" xml:space="preserve">
     <value>Hizkuntza elkartrukeko estatistikak</value>
   </data>
+  <data name="ProfUserReported" xml:space="preserve">
+    <value>Erabiltzaile hau erreportatua izan da dagoeneko</value>
+  </data>
 </root>

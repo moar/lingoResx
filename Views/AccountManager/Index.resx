@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,54 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccNotifications" xml:space="preserve">
-    <value>Notifications</value>
-  </data>
-  <data name="Account" xml:space="preserve">
-    <value>Account</value>
-  </data>
-  <data name="Accounts" xml:space="preserve">
-    <value>Accounts</value>
-  </data>
-  <data name="AccSettings" xml:space="preserve">
-    <value>Settings</value>
-  </data>
-  <data name="AddLinkedLogin" xml:space="preserve">
-    <value>Link new account</value>
-  </data>
-  <data name="Blocking" xml:space="preserve">
-    <value>Blocked users</value>
-  </data>
-  <data name="ChangePassword" xml:space="preserve">
-    <value>Change password</value>
-  </data>
-  <data name="ConfirmNewPassword" xml:space="preserve">
-    <value>Confirm new password</value>
-  </data>
-  <data name="LangademyLanguage" xml:space="preserve">
-    <value>Langademy Language</value>
-  </data>
-  <data name="NewPassword" xml:space="preserve">
-    <value>New password</value>
-  </data>
-  <data name="OldPassword" xml:space="preserve">
-    <value>Old password</value>
-  </data>
-  <data name="SelectLanguage" xml:space="preserve">
-    <value>Select language</value>
-  </data>
-  <data name="SocialNetworks" xml:space="preserve">
-    <value>Social networks</value>
-  </data>
-  <data name="AccLinkAccounts" xml:space="preserve">
-    <value>Link account</value>
-  </data>
-  <data name="AccLinkedAccounts" xml:space="preserve">
-    <value>Linked accounts</value>
-  </data>
-  <data name="AccNoSocialAcc" xml:space="preserve">
-    <value>0 social network accounts linked</value>
-  </data>
+  
   <data name="AccPrivacy" xml:space="preserve">
     <value>Privacy</value>
   </data>

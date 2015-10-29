@@ -209,4 +209,7 @@
   <data name="LangExStats" xml:space="preserve">
     <value>Estadísticas de intercambio de idiomas</value>
   </data>
+  <data name="ProfUserReported" xml:space="preserve">
+    <value>Este usuario ha sido reportado</value>
+  </data>
 </root>

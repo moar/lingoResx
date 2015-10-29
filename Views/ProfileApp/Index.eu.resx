@@ -58,22 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -147,8 +131,20 @@
   <data name="AlertOn" xml:space="preserve">
     <value>On</value>
   </data>
+  <data name="BlockUpdateLang" xml:space="preserve">
+    <value>Hizkuntzaren edizioa</value>
+  </data>
+  <data name="CannotDeleteNative" xml:space="preserve">
+    <value>Ezin duzu zure ama hizkuntza ezabatu</value>
+  </data>
+  <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
+    <value>Hizkuntza honetako bilera batera joateko izena eman zenuen. Utzi bilera hori hizkuntza hau ezabatu aurretik</value>
+  </data>
   <data name="CannotModifyLanguage" xml:space="preserve">
     <value>Ezin duzu hizkuntza hau aldatu momentu honetan. Saiatu beranduago</value>
+  </data>
+  <data name="CannotModifyNativeLanguage" xml:space="preserve">
+    <value>Ezin duzu zure ama hizkuntzaren maila aldatu</value>
   </data>
   <data name="CountryPH" xml:space="preserve">
     <value>Aukeratu herrialdea</value>

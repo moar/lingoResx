@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,52 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccNotifications" xml:space="preserve">
-    <value>Jakinarazpenak</value>
+  
+  <data name="AccPrivacy" xml:space="preserve">
+    <value>Pribazitatea</value>
   </data>
-  <data name="Account" xml:space="preserve">
-    <value>Kontua</value>
+  <data name="AccAnonymousReq" xml:space="preserve">
+    <value>Ezagutzen duzun jendearen eskaerak soilik onartu</value>
   </data>
-  <data name="Accounts" xml:space="preserve">
-    <value>Kontuak</value>
+  <data name="AccNoSet" xml:space="preserve">
+    <value>Ez</value>
   </data>
-  <data name="AccSettings" xml:space="preserve">
-    <value>Ezarpenak</value>
+  <data name="AccPrivacySettings" xml:space="preserve">
+    <value>Pribatutasun ezarpenak</value>
   </data>
-  <data name="AddLinkedLogin" xml:space="preserve">
-    <value>Linkatu kontu berria</value>
+  <data name="AccYesSet" xml:space="preserve">
+    <value>Bai</value>
   </data>
-  <data name="Blocking" xml:space="preserve">
-    <value>Blokeatutako erabiltzaileak</value>
-  </data>
-  <data name="ChangePassword" xml:space="preserve">
-    <value>Aldatu pasahitza</value>
-  </data>
-  <data name="ConfirmNewPassword" xml:space="preserve">
-    <value>Berretsi pasahitz berria</value>
-  </data>
-  <data name="LangademyLanguage" xml:space="preserve">
-    <value>Langademy Hizkuntza</value>
-  </data>
-  <data name="NewPassword" xml:space="preserve">
-    <value>Pasahitz berria</value>
-  </data>
-  <data name="OldPassword" xml:space="preserve">
-    <value>Pasahitz zaharra</value>
-  </data>
-  <data name="SelectLanguage" xml:space="preserve">
-    <value>Aukeratu hizkuntza</value>
-  </data>
-  <data name="SocialNetworks" xml:space="preserve">
-    <value>Sare sozialak</value>
-  </data>
-  <data name="AccLinkAccounts" xml:space="preserve">
-    <value>Linkatu kontua</value>
-  </data>
-  <data name="AccLinkedAccounts" xml:space="preserve">
-    <value>Linkatutako kontuak</value>
-  </data>
-  <data name="AccNoSocialAcc" xml:space="preserve">
-    <value>Ez duzu linkatutako sare sozialik</value>
+  <data name="AccNoBlocked" xml:space="preserve">
+    <value>Ez duzu erabiltzailerik blokeatu</value>
   </data>
 </root>

@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -129,8 +130,7 @@ Si no vols rebre trucades dels teus contactes, canvia el teu estat a ocupat. Rec
     <value>Estat Langademy</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>Entra al Language-Roulette, selecciona una sala i
-Comença a practicar el teu idioma favorit! Nosaltres ens encarreguem d'emparellar-te!</value>
+    <value>El llenguatge de la ruleta és el lloc on es pot obtenir quan es vol practicar una llengua. Seleccioneu una sala i comença a practicar el teu idioma favorit! Nosaltres ens encarreguem de emparellar-te! Recorda que pots consultar el tauler de quedades per saber quan tindrán lloc les quedades del Language Roulette.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>El Banc de Temps es un concepte per a que amb l'intercanvi d'idiomes tots surtin guanyant. 

@@ -215,4 +215,16 @@
   <data name="DesktSugUsCheckMeets" xml:space="preserve">
     <value>¡Revisa sus próximas quedadas!</value>
   </data>
+  <data name="DeskSugsUsActivity" xml:space="preserve">
+    <value>Mira su actividad reciente</value>
+  </data>
+  <data name="DeskSugUsMeet" xml:space="preserve">
+    <value>Conoce gente nueva</value>
+  </data>
+  <data name="DeskSugUsStats" xml:space="preserve">
+    <value>Revisa sus estadísticas</value>
+  </data>
+  <data name="DeskRestrictRequests" xml:space="preserve">
+    <value>Restringir solicitudes de contacto</value>
+  </data>
 </root>

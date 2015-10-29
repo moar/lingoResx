@@ -58,22 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -147,8 +131,20 @@
   <data name="AlertOn" xml:space="preserve">
     <value>On</value>
   </data>
+  <data name="BlockUpdateLang" xml:space="preserve">
+    <value>Edición de idioma</value>
+  </data>
+  <data name="CannotDeleteNative" xml:space="preserve">
+    <value>No puedes eliminar tu idioma nativo</value>
+  </data>
+  <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
+    <value>Estás apuntado a una quedada en este idioma. Desapúntate de la quedada si quieres borrar este idioma</value>
+  </data>
   <data name="CannotModifyLanguage" xml:space="preserve">
     <value>No se puede modificar este idioma ahora. Inténtalo más tarde</value>
+  </data>
+  <data name="CannotModifyNativeLanguage" xml:space="preserve">
+    <value>No puedes modificar el nivel de tu idioma nativo</value>
   </data>
   <data name="CountryPH" xml:space="preserve">
     <value>Selecciona tu país</value>

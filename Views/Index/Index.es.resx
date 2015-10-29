@@ -75,6 +75,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -176,7 +177,7 @@
     <value>Apúntate</value>
   </data>
   <data name="KnowPeople" xml:space="preserve">
-    <value>Conoce gente</value>
+    <value>Conoce gente nueva</value>
   </data>
   <data name="Participants" xml:space="preserve">
     <value>Participantes</value>

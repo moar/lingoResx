@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,4 +117,41 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  
+  <data name="FriendsAlreadyException" xml:space="preserve">
+    <value>Siete già in contatto</value>
+  </data>
+  <data name="ExcServerError" xml:space="preserve">
+    <value>Ci dispiace, ma qualcosa è andato storto</value>
+  </data>
+  <data name="InvalidDateTimeException" xml:space="preserve">
+    <value>Data non valida</value>
+  </data>
+  <data name="InvalidUserLanguageException" xml:space="preserve">
+    <value>Nome utente non valido</value>
+  </data>
+  <data name="LanguageNotFoundException" xml:space="preserve">
+    <value>Lingua non trovata</value>
+  </data>
+  <data name="MeetupNotFoundException" xml:space="preserve">
+    <value>Appuntamento non trovato</value>
+  </data>
+  <data name="NoAccessToRoom" xml:space="preserve">
+    <value>Non si dispone di accesso a questa stanza</value>
+  </data>
+  <data name="RoomNotExist" xml:space="preserve">
+    <value>La stanza non esiste</value>
+  </data>
+  <data name="RoomNotFound" xml:space="preserve">
+    <value>Stanza non trovata</value>
+  </data>
+  <data name="SelfFriendShipException" xml:space="preserve">
+    <value>Non si può fare una richiesta di contatto a te stesso</value>
+  </data>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>Utente non trovato</value>
+  </data>
+  <data name="UserNotInAnyRoom" xml:space="preserve">
+    <value>L'utente non è in alcun stanza</value>
+  </data>
+</root>

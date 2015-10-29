@@ -58,26 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -234,5 +214,23 @@
   </data>
   <data name="ReqTerms" xml:space="preserve">
     <value>Tienes que leer y aceptar los términos y condiciones</value>
+  </data>
+  <data name="EmailConfirmation" xml:space="preserve">
+    <value>Confirmación de correo electrónico</value>
+  </data>
+  <data name="EmailConfirmationSentence" xml:space="preserve">
+    <value><![CDATA[Gracias por confirmar tu cuenta. <a href="{0}" class="link">Clica aquí</a> para loguearte]]></value>
+  </data>
+  <data name="PasswordIsReset" xml:space="preserve">
+    <value><![CDATA[Tu contraseña ha sido restablecida. <a href="{0}" class="link">Clica aquí</a> para loguearte.]]></value>
+  </data>
+  <data name="ResetPassword" xml:space="preserve">
+    <value>Restablecer la contraseña</value>
+  </data>
+  <data name="ResetPasswordConfirmation" xml:space="preserve">
+    <value>Confirmación de recuperación de contraseña</value>
+  </data>
+  <data name="ResetYourPassword" xml:space="preserve">
+    <value>Restablecer tu contraseña</value>
   </data>
 </root>
