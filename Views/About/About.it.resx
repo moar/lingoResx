@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,8 +122,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
-  <data name="AboutIntro" xml:space="preserve">
-    <value>Langademy è una comunità di scambio di lingua online dove è possibile praticare le lingue straniere con i nativi di tutto il mondo. L'ascolto di madrelingua in contesti naturali vi aiuterà a migliorare il vostro ascolto e si impara i suoni unici di una lingua. Allo stesso modo, si migliorerà le vostre abilità di lingua. Otterrete nuovi vocaboli, frasi, e di madrelingua sarà in grado di correggere voi.</value>
-  </data>
-</root>
+  </root>

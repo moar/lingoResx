@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,112 +122,4 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  <data name="AboutYou" xml:space="preserve">
-    <value>Sobre tu</value>
-  </data>
-  <data name="AboutYouMaxLength" xml:space="preserve">
-    <value>La informació sobre tu ha de tenir com a màxim {1} caracters </value>
-  </data>
-  <data name="AboutYouPH" xml:space="preserve">
-    <value>Escriu alguns detalls sobre tu</value>
-  </data>
-  <data name="AlertOff" xml:space="preserve">
-    <value>Off</value>
-  </data>
-  <data name="AlertOn" xml:space="preserve">
-    <value>On</value>
-  </data>
-  <data name="CannotModifyLanguage" xml:space="preserve">
-    <value>No es pot modificar aquest idioma en aquest moment. Intenta-ho més tard</value>
-  </data>
-  <data name="CountryPH" xml:space="preserve">
-    <value>Selecciona el teu país</value>
-  </data>
-  <data name="CoverPhoto" xml:space="preserve">
-    <value>Foto de portada</value>
-  </data>
-  <data name="CropHeading" xml:space="preserve">
-    <value>Arrossegar i fer zoom </value>
-  </data>
-  <data name="FriendRequets" xml:space="preserve">
-    <value>Peticions de connexió </value>
-  </data>
-  <data name="GreaterThanZero" xml:space="preserve">
-    <value>L'arxiu no pot ser de longitud zero </value>
-  </data>
-  <data name="LanguageRequired" xml:space="preserve">
-    <value>Es requereix l'idioma</value>
-  </data>
-  <data name="LanguagesDesc" xml:space="preserve">
-    <value>Escull els idiomes que vols utilitzar en Langademy</value>
-  </data>
-  <data name="LanguagesTitle" xml:space="preserve">
-    <value>Idiomes</value>
-  </data>
-  <data name="LastnamePH" xml:space="preserve">
-    <value>Escriu el teu cognom</value>
-  </data>
-  <data name="LevelRequired" xml:space="preserve">
-    <value>Es requereix el nivell</value>
-  </data>
-  <data name="MaxSize" xml:space="preserve">
-    <value>Mida màxima </value>
-  </data>
-  <data name="MeetupReminder" xml:space="preserve">
-    <value>Avís de Quedada </value>
-  </data>
-  <data name="MinimumSize" xml:space="preserve">
-    <value>La mida mínima es {0} </value>
-  </data>
-  <data name="MyLanguages" xml:space="preserve">
-    <value>Els meus Idiomes</value>
-  </data>
-  <data name="NamePH" xml:space="preserve">
-    <value>Escriu el teu nom</value>
-  </data>
-  <data name="NewMeetupParticipant" xml:space="preserve">
-    <value>Nous participants a la quedada</value>
-  </data>
-  <data name="NoAcitivity" xml:space="preserve">
-    <value>No hi ha cap activitat encara </value>
-  </data>
-  <data name="NoFile" xml:space="preserve">
-    <value>No s'ha pujat cap arxiu </value>
-  </data>
-  <data name="NoMeetups" xml:space="preserve">
-    <value>No hi ha Quedades</value>
-  </data>
-  <data name="NotificationSettings" xml:space="preserve">
-    <value>Configuració de notificacions </value>
-  </data>
-  <data name="PersonalInfo" xml:space="preserve">
-    <value>Informació personal</value>
-  </data>
-  <data name="ProfAddLanguage" xml:space="preserve">
-    <value>Afegir idioma</value>
-  </data>
-  <data name="ProfCantUpload" xml:space="preserve">
-    <value>No es pot pujar l'arxiu</value>
-  </data>
-  <data name="ProfParticipants" xml:space="preserve">
-    <value>Participants</value>
-  </data>
-  <data name="ProfSelectLanguage" xml:space="preserve">
-    <value>Selecciona idioma</value>
-  </data>
-  <data name="SelectLevel" xml:space="preserve">
-    <value>Selecciona el teu nivell</value>
-  </data>
-  <data name="UpdateProfilePhoto" xml:space="preserve">
-    <value>Actualitza la teva foto </value>
-  </data>
-  <data name="UploadCover" xml:space="preserve">
-    <value>Pujar foto de portada </value>
-  </data>
-  <data name="WantToNotify" xml:space="preserve">
-    <value>Vull rebre notificacions per correu electrònic sobre </value>
-  </data>
-  <data name="WrongFormat" xml:space="preserve">
-    <value>L'arxiu té un format erroni </value>
-  </data>
-</root>
+  </root>

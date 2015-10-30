@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -125,9 +126,6 @@
     <value><![CDATA[Langacademy ofereix una manera única de conèixer parlants natius i de crear tàndems usant el Language Roulette, una eina web per videoconferències. No t'has de preocupar de res, tan sols has de triar l'idioma que vols practicar, i nosaltres et trobarem un company que s'ajusti a les teves necessitats. <br/>
 
 I si no hi ha ningú disponible quan ho necessitis? No et preocupis, pots crear quedades perquè la resta d'usuaris sàpiguen quan estaràs disponible, o pots veure les quedades que han estat creades per altres usuaris en el Tauler de quedades.]]></value>
-  </data>
-  <data name="AboutIntro" xml:space="preserve">
-    <value>Langacademy és una comunitat online d'intercanvi d'idiomes on pots practicar idiomes amb natius de tot el món. Escoltar natius en un context natural t'ajudarà a millorar la teva compressió e interioritzaràs els sons únics que té cada idioma. Així mateix, milloraràs la teva fluïdesa al parlar. Aprendràs noves paraules, frases, i els parlants natius podran corregir-mentre converseu.</value>
   </data>
   <data name="AboutMainTitle" xml:space="preserve">
     <value>Sobre Langademy</value>

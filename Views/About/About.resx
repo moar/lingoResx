@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -124,9 +125,6 @@
   <data name="AboutHowWorks" xml:space="preserve">
     <value><![CDATA[Langademy provides a unique way to meet native speakers and create tandems by using web videochat technology, the Language Roulette.  You don’t have to worry about anything, just select the language you want to practice, and we will find you a match.<br />
                                 What if no one is available when you get in? No worries, you can create meetups to let the others know when you will be available to chat, or you can check the existing meetups in the meetup board.]]></value>
-  </data>
-  <data name="AboutIntro" xml:space="preserve">
-    <value>Langademy is an online language exchange community where you can practice foreign languages with natives all over the world. Listening to native speakers in natural contexts will help you to improve your listening and you will learn the unique sounds of a language. Likewise, you will improve your speaking abilities. You will get new vocabulary, phrases, and native speakers will be able to correct you.</value>
   </data>
   <data name="AboutMainTitle" xml:space="preserve">
     <value>About Langademy</value>
