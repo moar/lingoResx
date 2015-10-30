@@ -64,6 +64,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -124,16 +125,124 @@
   </resheader>
   
   
+  <data name="AboutYou" xml:space="preserve">
+    <value>About you</value>
+  </data>
   <data name="BlockUpdateLang" xml:space="preserve">
     <value>Language edition</value>
+  </data>
+  <data name="AboutYouMaxLength" xml:space="preserve">
+    <value>The information about you must be maximum {1} characters long</value>
   </data>
   <data name="CannotDeleteNative" xml:space="preserve">
     <value>You can't delete your native language</value>
   </data>
+  <data name="AboutYouPH" xml:space="preserve">
+    <value>Write some details about you</value>
+  </data>
   <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
     <value>You signed up for a meetup in this langauge. Leave the meetup before removing this language.</value>
   </data>
+  <data name="AlertOff" xml:space="preserve">
+    <value>Off</value>
+  </data>
   <data name="CannotModifyNativeLanguage" xml:space="preserve">
     <value>You can't modify your native language's level</value>
+  </data>
+  <data name="AlertOn" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="CannotModifyLanguage" xml:space="preserve">
+    <value>You cannot modify this language now. Try it later</value>
+  </data>
+  <data name="CountryPH" xml:space="preserve">
+    <value>Select your country</value>
+  </data>
+  <data name="CoverPhoto" xml:space="preserve">
+    <value>Cover photo</value>
+  </data>
+  <data name="CropHeading" xml:space="preserve">
+    <value>Drag and zoom</value>
+  </data>
+  <data name="FriendRequets" xml:space="preserve">
+    <value>Friend requests</value>
+  </data>
+  <data name="GreaterThanZero" xml:space="preserve">
+    <value>File cannot be zero length</value>
+  </data>
+  <data name="LanguageRequired" xml:space="preserve">
+    <value>Language is required</value>
+  </data>
+  <data name="LanguagesDesc" xml:space="preserve">
+    <value>Choose the languages that you want to use in Langademy</value>
+  </data>
+  <data name="LanguagesTitle" xml:space="preserve">
+    <value>Languages</value>
+  </data>
+  <data name="LastnamePH" xml:space="preserve">
+    <value>Write your last name</value>
+  </data>
+  <data name="LevelRequired" xml:space="preserve">
+    <value>Level is required</value>
+  </data>
+  <data name="MaxSize" xml:space="preserve">
+    <value>Maximum size</value>
+  </data>
+  <data name="MeetupReminder" xml:space="preserve">
+    <value>Meetup alerts</value>
+  </data>
+  <data name="MinimumSize" xml:space="preserve">
+    <value>Minimum size is {0}</value>
+  </data>
+  <data name="MyLanguages" xml:space="preserve">
+    <value>My Languages</value>
+  </data>
+  <data name="NamePH" xml:space="preserve">
+    <value>Write your name</value>
+  </data>
+  <data name="NewMeetupParticipant" xml:space="preserve">
+    <value>New meetup participant</value>
+  </data>
+  <data name="NoAcitivity" xml:space="preserve">
+    <value>No activity yet</value>
+  </data>
+  <data name="NoFile" xml:space="preserve">
+    <value>No file uploaded</value>
+  </data>
+  <data name="NoMeetups" xml:space="preserve">
+    <value>No meetups</value>
+  </data>
+  <data name="NotificationSettings" xml:space="preserve">
+    <value>Notification settings</value>
+  </data>
+  <data name="PersonalInfo" xml:space="preserve">
+    <value>Personal Info</value>
+  </data>
+  <data name="ProfAddLanguage" xml:space="preserve">
+    <value>Add language</value>
+  </data>
+  <data name="ProfCantUpload" xml:space="preserve">
+    <value>Unable to upload the file</value>
+  </data>
+  <data name="ProfParticipants" xml:space="preserve">
+    <value>Participants</value>
+  </data>
+  <data name="ProfSelectLanguage" xml:space="preserve">
+    <value>Select language</value>
+  </data>
+  <data name="SelectLevel" xml:space="preserve">
+    <value>Select your level</value>
+  </data>
+  <data name="UpdateProfilePhoto" xml:space="preserve">
+    <value>Update Profile Photo</value>
+  </data>
+  <data name="UploadCover" xml:space="preserve">
+    <value>Upload Cover</value>
+  </data>
+  <data name="WantToNotify" xml:space="preserve">
+    <value>I want to get email notifications about</value>
+  </data>
+  <data name="WrongFormat" xml:space="preserve">
+    <value>File is of wrong format</value>
   </data>
 </root>

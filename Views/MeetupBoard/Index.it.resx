@@ -64,6 +64,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -123,7 +124,112 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="AllMeetups" xml:space="preserve">
+    <value>Tutti Meetup</value>
+  </data>
   <data name="MBMeetGetLangRoulette" xml:space="preserve">
     <value/>
+  </data>
+  <data name="Attend" xml:space="preserve">
+    <value>Assistere</value>
+  </data>
+  <data name="AvgLevel" xml:space="preserve">
+    <value>Livello medio</value>
+  </data>
+  <data name="CancelAttendance" xml:space="preserve">
+    <value>Cancellare assistenza </value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Chiudi</value>
+  </data>
+  <data name="MBDate" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="ExistingMeetupLanguage" xml:space="preserve">
+    <value>C'è già un meetup in questo momento per parlare {0}. Uniciti invece di creare uno nuovo</value>
+  </data>
+  <data name="InvitableContactsHeader" xml:space="preserve">
+    <value>Contatti che parlano {0}</value>
+  </data>
+  <data name="InviteContacts" xml:space="preserve">
+    <value>Invita contatti</value>
+  </data>
+  <data name="InviteContactsDesc" xml:space="preserve">
+    <value>Selezionare i contatti che si desidera invitare a questo meetup</value>
+  </data>
+  <data name="MeetupHasStarted" xml:space="preserve">
+    <value>È possibile partecipare solo in un meetup prima del suo orario di inizio</value>
+  </data>
+  <data name="MeetupBoard" xml:space="preserve">
+    <value>Tabèlla di Appuntamenti </value>
+  </data>
+  <data name="MeetupsAllUserLanguages" xml:space="preserve">
+    <value>C'è già un meetup in questo momento per parlare. Uniciti invece di creare uno nuovo</value>
+  </data>
+  <data name="MyMeetups" xml:space="preserve">
+    <value>I miei Meetup</value>
+  </data>
+  <data name="NewMeetup" xml:space="preserve">
+    <value>Nuovo Meetup</value>
+  </data>
+  <data name="NextPrevMeetups" xml:space="preserve">
+    <value>Meetup Precedenti e Successivi</value>
+  </data>
+  <data name="ReqDateTime" xml:space="preserve">
+    <value>Sono necessarie la data di inizio e l'ora del meetup</value>
+  </data>
+  <data name="ReqLanguage" xml:space="preserve">
+    <value>È necessario il linguaggio del meetup</value>
+  </data>
+  <data name="SelectedContactsHeader" xml:space="preserve">
+    <value>Contatti selezionati</value>
+  </data>
+  <data name="StartTime" xml:space="preserve">
+    <value>Ora di inizio</value>
+  </data>
+  <data name="StartTimeMin" xml:space="preserve">
+    <value>Non è possibile pianificare un meetup prima del suo orario di inizio</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Tempo</value>
+  </data>
+  <data name="UserHasNotLanguage" xml:space="preserve">
+    <value>Solo è possibile programmare appuntamenti nella tua lingua</value>
+  </data>
+  <data name="UserNoLanguages" xml:space="preserve">
+    <value>È necessario completare l'elenco di lingue nel tuo profilo prima di potere organizzare un appuntamento </value>
+  </data>
+  <data name="Natives" xml:space="preserve">
+    <value>Nativi</value>
+  </data>
+  <data name="MeetupCollision" xml:space="preserve">
+    <value>Hai confermato la presenza per un appuntamento nella stessa ora</value>
+  </data>
+  <data name="StartTimeMax" xml:space="preserve">
+    <value>Solo è possibile programmare appuntamenti entro i 15 giorni</value>
+  </data>
+  <data name="ConfirmInvitations" xml:space="preserve">
+    <value>Inviti {0} Inviti inviati con successo</value>
+  </data>
+  <data name="MeetupPast" xml:space="preserve">
+    <value>Non è possibile invitare altri utenti a partecipare a un appuntamento che è già finito</value>
+  </data>
+  <data name="MeetupTooClose" xml:space="preserve">
+    <value>Non è possibile invitare altri utenti a partecipare a un appuntamento che comincia in meno di  {0} ore</value>
+  </data>
+  <data name="Meetup" xml:space="preserve">
+    <value>Partecipa nell'appuntamento di {0}!</value>
+  </data>
+  <data name="MBLanguages" xml:space="preserve">
+    <value>Lingue</value>
+  </data>
+  <data name="SelectMeetupLanguage" xml:space="preserve">
+    <value>Seleziona la lingua</value>
+  </data>
+  <data name="MBNextMeetups" xml:space="preserve">
+    <value>Prossimi Appuntamenti </value>
+  </data>
+  <data name="MBParticipants" xml:space="preserve">
+    <value>Partecipanti</value>
   </data>
 </root>

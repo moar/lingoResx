@@ -64,6 +64,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -124,16 +125,124 @@
   </resheader>
   
   
+  <data name="AboutYou" xml:space="preserve">
+    <value/>
+  </data>
   <data name="BlockUpdateLang" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="AboutYouMaxLength" xml:space="preserve">
     <value/>
   </data>
   <data name="CannotDeleteNative" xml:space="preserve">
     <value/>
   </data>
+  <data name="AboutYouPH" xml:space="preserve">
+    <value/>
+  </data>
   <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
     <value/>
   </data>
+  <data name="AlertOff" xml:space="preserve">
+    <value/>
+  </data>
   <data name="CannotModifyNativeLanguage" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="AlertOn" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CannotModifyLanguage" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CountryPH" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CoverPhoto" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CropHeading" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="FriendRequets" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="GreaterThanZero" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LanguageRequired" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LanguagesDesc" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LanguagesTitle" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LastnamePH" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LevelRequired" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MaxSize" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MeetupReminder" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MinimumSize" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MyLanguages" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NamePH" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NewMeetupParticipant" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NoAcitivity" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NoFile" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NoMeetups" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NotificationSettings" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="PersonalInfo" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="ProfAddLanguage" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="ProfCantUpload" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="ProfParticipants" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="ProfSelectLanguage" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="SelectLevel" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="UpdateProfilePhoto" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="UploadCover" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="WantToNotify" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="WrongFormat" xml:space="preserve">
     <value/>
   </data>
 </root>
