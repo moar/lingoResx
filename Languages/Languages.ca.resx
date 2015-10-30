@@ -77,6 +77,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -137,6 +138,9 @@
   </resheader>
   <data name="ar" xml:space="preserve">
     <value>Àrab</value>
+  </data>
+  <data name="it-IT" xml:space="preserve">
+    <value>Italià</value>
   </data>
   <data name="ca-ES" xml:space="preserve">
     <value>Català</value>
@@ -584,8 +588,5 @@
   </data>
   <data name="fr-FR" xml:space="preserve">
     <value>Francès</value>
-  </data>
-  <data name="it-IT" xml:space="preserve">
-    <value>Italià</value>
   </data>
 </root>
