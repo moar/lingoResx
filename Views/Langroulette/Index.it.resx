@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,4 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AlreadyInRoom" xml:space="preserve">
+    <value>Sei già in un'altra stanza. Sei sicuro di voler unirti a questa stanza? Se accetti verrai disconnesso del altra stanza</value>
+  </data>
+  <data name="HideNonCandidates" xml:space="preserve">
+    <value>Nascondi gli utenti che non corrispondono il filtro</value>
+  </data>
+  <data name="IncompleteProfile" xml:space="preserve">
+    <value><![CDATA[È necessario completare l'ubicazione nel tuo profilo prima di entrare in una stanza</br><a class="applnk" href="{0}" data-app="ProfileApp">Vai al profilo</a>]]></value>
+  </data>
+  <data name="Levels" xml:space="preserve">
+    <value>Livelli</value>
+  </data>
+  <data name="LRAccessCamera" xml:space="preserve">
+    <value>Per favore, permette a Langademy accedere alla tua videocamera e microfono per potere unirti alla stanza!</value>
+  </data>
+  <data name="LRExit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="LRTryConnect" xml:space="preserve">
+    <value>Cercando di collegarti con un partner</value>
+  </data>
+  <data name="LRUsers" xml:space="preserve">
+    <value>Utenti</value>
+  </data>
+  <data name="NoFilterMatch" xml:space="preserve">
+    <value>Non c'e nessun utente in questo momento con i tuoi criteri di ricerca. Cambia il filtro o attende nuovi utenti.</value>
+  </data>
+  <data name="RememberRooms" xml:space="preserve">
+    <value>È la tua stanza vuota? Controllare se c'è qualche meetup presto in {0}!</value>
+  </data>
+  <data name="SelectRoom" xml:space="preserve">
+    <value>Sceglie una stanza e inizia a praticare una lingua</value>
+  </data>
+  <data name="LRFilter" xml:space="preserve">
+    <value>Filtro</value>
+  </data>
+  <data name="LRNoUsers" xml:space="preserve">
+    <value><![CDATA[Non c'è nessun utente collegato al momento. Visita il <a href="{0}" target="_blank">meetup board</a>  per vedere se qualcuno si unirà!]]></value>
+  </data>
+  <data name="LRWriteHere" xml:space="preserve">
+    <value>Scrive qui</value>
+  </data>
+  <data name="LRAllBusy" xml:space="preserve">
+    <value>Tutti sono occupati. Aspetta e troveremo un partner al più presto possibile!</value>
+  </data>
+  <data name="LRFilterTime" xml:space="preserve">
+    <value>Avete chiacchierato con tutti partner che si adattano alle vostre esigenze. Attende per i nuovi utenti!</value>
+  </data>
+  <data name="LRNoChatHours" xml:space="preserve">
+    <value>Non si può entrare in questa stanza, non si dispone di più tempo nel tuo conto . Parlare nella propria lingua madre in modo da guadagnare più tempo.</value>
+  </data>
+</root>

@@ -76,6 +76,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -149,6 +150,9 @@
   <data name="Free" xml:space="preserve">
     <value>È gratis!</value>
   </data>
+  <data name="IndAbout" xml:space="preserve">
+    <value>Su Langademy</value>
+  </data>
   <data name="IndLangroulette" xml:space="preserve">
     <value>{0} è una roulette videochat dove troverete nativi per praticare le vostre lingue preferite</value>
   </data>
@@ -176,6 +180,9 @@
   <data name="KnowPeople" xml:space="preserve">
     <value>Conosci gente</value>
   </data>
+  <data name="Participants" xml:space="preserve">
+    <value>Partecipanti</value>
+  </data>
   <data name="LanguageEx" xml:space="preserve">
     <value>Il tuo spazio di scambio di lingue online</value>
   </data>
@@ -186,6 +193,15 @@
     <value>Login</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Fai sapere a tutti quando si entra nel Language Roulette organizzando un meetup o unendote a uno nel {0}</value>
+    <value>Fai sapere a tutti quando si entra nel Language Roulette organizzando un meetup o unendoti a uno nel {0}</value>
+  </data>
+  <data name="SpeakNative" xml:space="preserve">
+    <value>Parla nella tua lingua madre e ti daremo lo stesso tempo in modo da poter praticare altre lingue</value>
+  </data>
+  <data name="Visit" xml:space="preserve">
+    <value>Visita Langademy</value>
+  </data>
+  <data name="WhenPossible" xml:space="preserve">
+    <value>Quando preferisci</value>
   </data>
 </root>

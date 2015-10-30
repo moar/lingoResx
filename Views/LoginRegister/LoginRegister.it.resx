@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,4 +117,103 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ClickHere" xml:space="preserve">
+    <value>Clicca qui</value>
+  </data>
+  <data name="CompleteRegistration" xml:space="preserve">
+    <value>Completa la registrazione</value>
+  </data>
+  <data name="ConfirmNewPw" xml:space="preserve">
+    <value>Conferma la nuova password</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>Conferma password</value>
+  </data>
+  <data name="CurrentPw" xml:space="preserve">
+    <value>Password attuale</value>
+  </data>
+  <data name="ExtLoginCompleteInfo" xml:space="preserve">
+    <value>Prego, inserisce un nome utente per Langademy qui sotto e fai clic sul pulsante Registra per finire la registrazione </value>
+  </data>
+  <data name="ExtLoginEmailInUse" xml:space="preserve">
+    <value>{0} è già in uso. Effettua il login con il tuo account Langademy se vuoi collegare con {1}</value>
+  </data>
+  <data name="ExtLoginSuccess" xml:space="preserve">
+    <value><![CDATA[Ti hai autenticato con successo con <strong> {0}</strong>.]]></value>
+  </data>
+  <data name="ExtLoginUnsuccessful" xml:space="preserve">
+    <value>Login non riuscito</value>
+  </data>
+  <data name="Forgot" xml:space="preserve">
+    <value>Hai dimenticato la password?</value>
+  </data>
+  <data name="InvalidEmailOrPwd" xml:space="preserve">
+    <value>E-mail o password sbagliati</value>
+  </data>
+  <data name="InvitedBy" xml:space="preserve">
+    <value>Invitato da</value>
+  </data>
+  <data name="LastNameLength" xml:space="preserve">
+    <value>L'ultimo nome deve essere di almeno lungo caratteri {2} e più breve di caratteri {1}</value>
+  </data>
+  <data name="MinLength" xml:space="preserve">
+    <value>Il {0} deve essere di almeno caratteri {2} lungo.</value>
+  </data>
+  <data name="NewPw" xml:space="preserve">
+    <value>Nuova password</value>
+  </data>
+  <data name="NoWhiteSpace" xml:space="preserve">
+    <value>Nessuno spazio bianco è consentito</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="PwdLength" xml:space="preserve">
+    <value>Il {0} deve essere di almeno  {2} caratteri.</value>
+  </data>
+  <data name="PwdMatch" xml:space="preserve">
+    <value>La password e la password conferma non corrispondono</value>
+  </data>
+  <data name="PwDontMatch" xml:space="preserve">
+    <value>La nuova password e la conferma della password non corrispondono.</value>
+  </data>
+  <data name="RememberMe" xml:space="preserve">
+    <value>Ricordami</value>
+  </data>
+  <data name="ReqEmail" xml:space="preserve">
+    <value>È richiesto il campo E-mail</value>
+  </data>
+  <data name="ReqLang" xml:space="preserve">
+    <value>È richiesto il campo Lingua Madre</value>
+  </data>
+  <data name="ReqPassword" xml:space="preserve">
+    <value>È richiesto il campo E-mail</value>
+  </data>
+  <data name="BlockedAccount" xml:space="preserve">
+    <value>Il tuo account è stato bloccato</value>
+  </data>
+  <data name="LRLogin" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LRRegister" xml:space="preserve">
+    <value>Registrazione</value>
+  </data>
+  <data name="LREmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="LRReqName" xml:space="preserve">
+    <value>È richiesto il campo nome</value>
+  </data>
+  <data name="LRNameLength" xml:space="preserve">
+    <value>Il nome deve essere di almeno lungo {2} caratteri e più breve di {1} caratteri</value>
+  </data>
+  <data name="AgreeTerms" xml:space="preserve">
+    <value><![CDATA[Ho letto e acconsento al <a href="{0}" target="_blank">termini e condizioni </a>]]></value>
+  </data>
+  <data name="RegTerms" xml:space="preserve">
+    <value>Termini e condizioni</value>
+  </data>
+  <data name="ReqTerms" xml:space="preserve">
+    <value>Devi leggere e accettare i termini e le condizioni</value>
+  </data>
+</root>

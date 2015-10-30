@@ -79,6 +79,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,4 +139,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  </root>
+  <data name="Description" xml:space="preserve">
+    <value>Langademy è un social network per imparare le lingue. Offre scambio linguistico con nativi di tutto il mondo così la gente può ottenere scioltezza in una lingua.</value>
+  </data>
+  <data name="Keywords" xml:space="preserve">
+    <value>Imparare le lingue, scambio di lingue, acquisire una buona padronanza, praticare l'inglese, praticare spagnolo, pratica le lingue, nativi, migliorare il livello di lingua..</value>
+  </data>
+  <data name="LAbout" xml:space="preserve">
+    <value>Su Langademy</value>
+  </data>
+  <data name="LRDescription" xml:space="preserve">
+    <value>A Language Roulette puoi trovare nuovi partner di scambio per la lingua che si desideri imparare. Migliora il tuo livello, mentre conosci nuove persone!</value>
+  </data>
+  <data name="LRKeywords" xml:space="preserve">
+    <value>language roulette, scambio linguistico, chat, tandem, scioltezza</value>
+  </data>
+  <data name="LRTitle" xml:space="preserve">
+    <value>Language Roulette-Tandem</value>
+  </data>
+  <data name="MainPrivacy" xml:space="preserve">
+    <value>Privacy - Langademy</value>
+  </data>
+  <data name="MainTerms" xml:space="preserve">
+    <value>Termini e Condizioni - Langademy</value>
+  </data>
+  <data name="MainTitle" xml:space="preserve">
+    <value>Scambio di lingue </value>
+  </data>
+  <data name="TBTitle" xml:space="preserve">
+    <value>Banca del Tempo</value>
+  </data>
+</root>

@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,21 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AboutYou" xml:space="preserve">
-    <value>Zuri buruz</value>
-  </data>
-  <data name="AboutYouMaxLength" xml:space="preserve">
-    <value>Zuri buruzko informazioak gehienez {1} karaktere izan behar ditu</value>
-  </data>
-  <data name="AboutYouPH" xml:space="preserve">
-    <value>Zaure buruari buruz xehetasun batzuk idatzi</value>
-  </data>
-  <data name="AlertOff" xml:space="preserve">
-    <value>Off</value>
-  </data>
-  <data name="AlertOn" xml:space="preserve">
-    <value>On</value>
-  </data>
+  
   <data name="BlockUpdateLang" xml:space="preserve">
     <value>Hizkuntzaren edizioa</value>
   </data>
@@ -140,100 +127,7 @@
   <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
     <value>Hizkuntza honetako bilera batera joateko izena eman zenuen. Utzi bilera hori hizkuntza hau ezabatu aurretik</value>
   </data>
-  <data name="CannotModifyLanguage" xml:space="preserve">
-    <value>Ezin duzu hizkuntza hau aldatu momentu honetan. Saiatu beranduago</value>
-  </data>
   <data name="CannotModifyNativeLanguage" xml:space="preserve">
     <value>Ezin duzu zure ama hizkuntzaren maila aldatu</value>
-  </data>
-  <data name="CountryPH" xml:space="preserve">
-    <value>Aukeratu herrialdea</value>
-  </data>
-  <data name="CoverPhoto" xml:space="preserve">
-    <value>Azaleko argazkia</value>
-  </data>
-  <data name="CropHeading" xml:space="preserve">
-    <value>Hartu eta zoom egin</value>
-  </data>
-  <data name="FriendRequets" xml:space="preserve">
-    <value>Lagun eskaerak</value>
-  </data>
-  <data name="GreaterThanZero" xml:space="preserve">
-    <value>Fitxategia ezin da hutsik egon</value>
-  </data>
-  <data name="LanguageRequired" xml:space="preserve">
-    <value>Hizkuntza derrigorrezkoa da</value>
-  </data>
-  <data name="LanguagesDesc" xml:space="preserve">
-    <value>Langademy-n erabili nahi dituzun hizkuntzak aukera itzazu</value>
-  </data>
-  <data name="LanguagesTitle" xml:space="preserve">
-    <value>Hizkuntzak</value>
-  </data>
-  <data name="LastnamePH" xml:space="preserve">
-    <value>Zure abizena idatzi</value>
-  </data>
-  <data name="LevelRequired" xml:space="preserve">
-    <value>Maila derrigorrezkoa da</value>
-  </data>
-  <data name="MaxSize" xml:space="preserve">
-    <value>Gehienezko tamaina</value>
-  </data>
-  <data name="MeetupReminder" xml:space="preserve">
-    <value>Bilera abixuak</value>
-  </data>
-  <data name="MinimumSize" xml:space="preserve">
-    <value>Gutxieneko tamaina {0} da</value>
-  </data>
-  <data name="MyLanguages" xml:space="preserve">
-    <value>Nire Hizkuntzak</value>
-  </data>
-  <data name="NamePH" xml:space="preserve">
-    <value>Idatzi zure izena</value>
-  </data>
-  <data name="NewMeetupParticipant" xml:space="preserve">
-    <value>Partaide berria bileran</value>
-  </data>
-  <data name="NoAcitivity" xml:space="preserve">
-    <value>Ez da jarduerarik oraindik</value>
-  </data>
-  <data name="NoFile" xml:space="preserve">
-    <value>Ez da fitxategirik kargatu</value>
-  </data>
-  <data name="NoMeetups" xml:space="preserve">
-    <value>Ez dago bilerarik</value>
-  </data>
-  <data name="NotificationSettings" xml:space="preserve">
-    <value>Jakinarazpenen ezarpenak</value>
-  </data>
-  <data name="PersonalInfo" xml:space="preserve">
-    <value>Informazio pertsonala</value>
-  </data>
-  <data name="ProfAddLanguage" xml:space="preserve">
-    <value>Hizkuntza gehitu</value>
-  </data>
-  <data name="ProfCantUpload" xml:space="preserve">
-    <value>Ezin izan da fitxategia igo</value>
-  </data>
-  <data name="ProfParticipants" xml:space="preserve">
-    <value>Partaideak</value>
-  </data>
-  <data name="ProfSelectLanguage" xml:space="preserve">
-    <value>Aukeratu hizkuntza</value>
-  </data>
-  <data name="SelectLevel" xml:space="preserve">
-    <value>Aukeratu zure maila</value>
-  </data>
-  <data name="UpdateProfilePhoto" xml:space="preserve">
-    <value>Eguneratu profileko argazkia</value>
-  </data>
-  <data name="UploadCover" xml:space="preserve">
-    <value>Azaleko argazkia igo</value>
-  </data>
-  <data name="WantToNotify" xml:space="preserve">
-    <value>Hurrengoi buruzko email jakinarazpenak nahi ditut</value>
-  </data>
-  <data name="WrongFormat" xml:space="preserve">
-    <value>Fitxategiaren formatua ez da zuzena</value>
   </data>
 </root>
