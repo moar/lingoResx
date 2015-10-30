@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -125,38 +126,29 @@
   <data name="ClickHere" xml:space="preserve">
     <value>Egin klik hemen</value>
   </data>
-  <data name="EmailConfirmation" xml:space="preserve">
-    <value>Email helbidearen konfirmazioa</value>
-  </data>
   <data name="CompleteRegistration" xml:space="preserve">
     <value>Izen ematea osatu</value>
   </data>
-  <data name="EmailConfirmationSentence" xml:space="preserve">
-    <value><![CDATA[Eskerrik asko zure kontua egiaztatzeagatik. <a href="{0}" class="link">Klikatu hemen</a> logeatzeko]]></value>
+  <data name="EmailConfirmation" xml:space="preserve">
+    <value>Email helbidearen konfirmazioa</value>
   </data>
   <data name="ConfirmNewPw" xml:space="preserve">
     <value>Berretsi pasahitz berria</value>
   </data>
-  <data name="PasswordIsReset" xml:space="preserve">
-    <value><![CDATA[Zure pasahitze berrezarria izan da.<a href="{0}" class="link">Klikatu hemen</a> logeatzeko]]></value>
-  </data>
   <data name="ConfirmPassword" xml:space="preserve">
     <value>Berretsi pasahitza</value>
   </data>
-  <data name="ResetPassword" xml:space="preserve">
-    <value>Berrezarri pasahitza</value>
+  <data name="EmailConfirmationSentence" xml:space="preserve">
+    <value><![CDATA[Eskerrik asko zure kontua egiaztatzeagatik. <a href="{0}" class="link">Klikatu hemen</a> logeatzeko]]></value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Oraingo pasahitza</value>
   </data>
-  <data name="ResetPasswordConfirmation" xml:space="preserve">
-    <value>Pasahitza berreskuratzeko baieztapena</value>
-  </data>
   <data name="ExtLoginCompleteInfo" xml:space="preserve">
     <value>Mesedez, idatzi azpian Langademy-rako erabiltzaile izena eta erregistratzeko botoia sakatu izen ematea bukatzeko</value>
   </data>
-  <data name="ResetYourPassword" xml:space="preserve">
-    <value>Berrezarri pasahitza</value>
+  <data name="PasswordIsReset" xml:space="preserve">
+    <value><![CDATA[Zure pasahitze berrezarria izan da.<a href="{0}" class="link">Klikatu hemen</a> logeatzeko]]></value>
   </data>
   <data name="ExtLoginEmailInUse" xml:space="preserve">
     <value>{0} erabitzen ari zara dagoeneko. Mesedez, hasi ezazu zure saioa Langademy-ko kontuaz {1}-kin linkatzea nahi baduzu</value>
@@ -164,17 +156,26 @@
   <data name="ExtLoginSuccess" xml:space="preserve">
     <value><![CDATA[Behar bezala autentikatu zara <strong>{0}</strong>-ekin. ]]></value>
   </data>
+  <data name="ResetPassword" xml:space="preserve">
+    <value>Berrezarri pasahitza</value>
+  </data>
   <data name="ExtLoginUnsuccessful" xml:space="preserve">
     <value>Login okerra</value>
   </data>
   <data name="Forgot" xml:space="preserve">
     <value>Pasahitza ahaztu al duzu?</value>
   </data>
+  <data name="ResetPasswordConfirmation" xml:space="preserve">
+    <value>Pasahitza berreskuratzeko baieztapena</value>
+  </data>
   <data name="InvalidEmailOrPwd" xml:space="preserve">
     <value>E-mail edo pasahitz ezegokia</value>
   </data>
   <data name="InvitedBy" xml:space="preserve">
     <value>Gonbidapen helbidea</value>
+  </data>
+  <data name="ResetYourPassword" xml:space="preserve">
+    <value>Berrezarri pasahitza</value>
   </data>
   <data name="LastNameLength" xml:space="preserve">
     <value>Abizenak, gutxienez {2} karaktere baino gehiago eta {1} karaktere baino gutxiago izan behar ditu</value>

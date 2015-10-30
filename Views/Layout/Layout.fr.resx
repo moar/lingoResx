@@ -84,6 +84,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -143,4 +144,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  </root>
+  <data name="Description" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="Keywords" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LAbout" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LRDescription" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LRKeywords" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LRTitle" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MainPrivacy" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MainTerms" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MainTitle" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="TBTitle" xml:space="preserve">
+    <value/>
+  </data>
+</root>

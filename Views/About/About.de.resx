@@ -64,6 +64,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -122,4 +123,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AboutHowWorks" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="AboutMainTitle" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="AboutTimeBanking" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="AboutTimeBankText" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="AboutTitle1" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="AboutTitle2" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="AboutContact" xml:space="preserve">
+    <value/>
+  </data>
+</root>

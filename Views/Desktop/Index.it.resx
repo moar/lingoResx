@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -151,8 +152,14 @@
   <data name="DeskInviteFriends" xml:space="preserve">
     <value>Invita i tuoi amici!</value>
   </data>
+  <data name="DeskJoinMeetup" xml:space="preserve">
+    <value/>
+  </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Lingue</value>
+  </data>
+  <data name="DeskLRNatives" xml:space="preserve">
+    <value/>
   </data>
   <data name="DeskMymeetings" xml:space="preserve">
     <value>I miei Meetups</value>
@@ -168,6 +175,9 @@
   </data>
   <data name="DeskSuggestCommunity" xml:space="preserve">
     <value>Vuoi essere suggerito alla comunità?</value>
+  </data>
+  <data name="DeskSuggestedMeetups" xml:space="preserve">
+    <value/>
   </data>
   <data name="DeskTerms" xml:space="preserve">
     <value>Condizioni</value>
@@ -193,10 +203,34 @@
   <data name="Settings" xml:space="preserve">
     <value>Impostazioni</value>
   </data>
+  <data name="TimeBalance" xml:space="preserve">
+    <value/>
+  </data>
   <data name="TimeBank" xml:space="preserve">
     <value>Banca del Tempo</value>
   </data>
   <data name="TodayLangs" xml:space="preserve">
     <value>Oggi parlerò in</value>
+  </data>
+  <data name="DeskPeopleYouMayKnow" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="DeskSkip" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="DesktSugUsCheckMeets" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="DeskSugsUsActivity" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="DeskSugUsMeet" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="DeskSugUsStats" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="DeskRestrictRequests" xml:space="preserve">
+    <value/>
   </data>
 </root>

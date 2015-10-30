@@ -83,6 +83,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -145,5 +146,38 @@
   
   <data name="TileChat" xml:space="preserve">
     <value>Chat</value>
+  </data>
+  <data name="HoursBagIntro" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="ConfigurationIntro" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="My_evolution" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="Edit_Profile" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="Invite_Friends" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MeetupBoardIntro" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="ProfileEditionIntro" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="ShowMoreHelp" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="TileConfiguration" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="TileContacts" xml:space="preserve">
+    <value/>
   </data>
 </root>

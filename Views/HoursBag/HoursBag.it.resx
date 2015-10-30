@@ -80,6 +80,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -155,6 +156,9 @@
   </data>
   <data name="MailInstruction" xml:space="preserve">
     <value>Inserisci un indirizzo email e premi spazio o ";"</value>
+  </data>
+  <data name="RemainingBagTime" xml:space="preserve">
+    <value/>
   </data>
   <data name="RemainingTime" xml:space="preserve">
     <value>Tempo restante</value>

@@ -82,6 +82,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -140,4 +141,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="CalleeBusy" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CalleeNoChatHours" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CalleeNoWebrtc" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CalleeOffline" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CallerNoWebrtc" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CallingError" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CannotCall" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="CompleteProfile" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LanguageNotInList" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LanguageNotInOwnList" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NoOwnChatHours" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NotFriends" xml:space="preserve">
+    <value/>
+  </data>
+</root>

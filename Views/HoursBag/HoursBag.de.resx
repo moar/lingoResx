@@ -80,6 +80,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,4 +139,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AdditionalTime" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="Concept" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="EarnButton" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="HBMaxTime" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="InviteEarn" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="MailInstruction" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="RemainingBagTime" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="RemainingTime" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="SendInvitation" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="Sum" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="TBDate" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="TitleHoursBag" xml:space="preserve">
+    <value/>
+  </data>
+</root>

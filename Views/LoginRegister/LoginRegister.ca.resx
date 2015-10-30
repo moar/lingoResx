@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,11 +129,17 @@
   <data name="CompleteRegistration" xml:space="preserve">
     <value>Completa el registre </value>
   </data>
+  <data name="EmailConfirmation" xml:space="preserve">
+    <value/>
+  </data>
   <data name="ConfirmNewPw" xml:space="preserve">
     <value>Confirmar la nova contrasenya </value>
   </data>
   <data name="ConfirmPassword" xml:space="preserve">
     <value>Confirma contrasenya</value>
+  </data>
+  <data name="EmailConfirmationSentence" xml:space="preserve">
+    <value/>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Contrasenya actual</value>
@@ -140,11 +147,17 @@
   <data name="ExtLoginCompleteInfo" xml:space="preserve">
     <value>Si us plau, introdueix a sota un nom d'usuari per Langademy i fes clic al botó Registrar per finalitzar el registre</value>
   </data>
+  <data name="PasswordIsReset" xml:space="preserve">
+    <value/>
+  </data>
   <data name="ExtLoginEmailInUse" xml:space="preserve">
     <value>{0} ja està en ús. Si us plau, accedeixi amb el teu compte de Langademy si vols vincular el teu compte amb {1}</value>
   </data>
   <data name="ExtLoginSuccess" xml:space="preserve">
     <value><![CDATA[T'has  autenticat satisfactòriam ent amb <strong>{0}</strong>.]]></value>
+  </data>
+  <data name="ResetPassword" xml:space="preserve">
+    <value/>
   </data>
   <data name="ExtLoginUnsuccessful" xml:space="preserve">
     <value>No t'has pogut loguejar correctament</value>
@@ -152,11 +165,17 @@
   <data name="Forgot" xml:space="preserve">
     <value>Has oblidat la teva contrasenya?</value>
   </data>
+  <data name="ResetPasswordConfirmation" xml:space="preserve">
+    <value/>
+  </data>
   <data name="InvalidEmailOrPwd" xml:space="preserve">
     <value>Correu electrònic o contrasenya incorrecta</value>
   </data>
   <data name="InvitedBy" xml:space="preserve">
     <value>Convidat per </value>
+  </data>
+  <data name="ResetYourPassword" xml:space="preserve">
+    <value/>
   </data>
   <data name="LastNameLength" xml:space="preserve">
     <value>El cognom ha de tenir almenys {2} caracters i menys de {1} caracters</value>
