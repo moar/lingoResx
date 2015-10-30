@@ -80,6 +80,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -154,7 +155,7 @@
     <value>Zure nabigatzaileak ez du bideo deirik onartzen. Saiatu, Chrome, Firefox edo Operaren azken bertsioekin</value>
   </data>
   <data name="CallingError" xml:space="preserve">
-    <value>Erroreren bat gertatu da deia egiten ari zen bitartean</value>
+    <value>Akatsen bat gertatu da deia egiten ari zen bitartean</value>
   </data>
   <data name="CannotCall" xml:space="preserve">
     <value>Ezin duzu deirik egin...</value>
