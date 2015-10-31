@@ -70,6 +70,15 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You can&apos;t call this user.
+        /// </summary>
+        public static string BlockedUserCall {
+            get {
+                return ResourceManager.GetString("BlockedUserCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Hide users that do not match your filter.
         /// </summary>
         public static string HideNonCandidates {
@@ -183,6 +192,15 @@ namespace Resources.Views.Langroulette {
         public static string LRWriteHere {
             get {
                 return ResourceManager.GetString("LRWriteHere", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can&apos;t make private calls while you are in a chat room.
+        /// </summary>
+        public static string NoCallsWhileInRoom {
+            get {
+                return ResourceManager.GetString("NoCallsWhileInRoom", resourceCulture);
             }
         }
         
