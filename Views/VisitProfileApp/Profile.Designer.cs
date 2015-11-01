@@ -160,7 +160,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;{2}&quot;&gt;{0}&lt;/a&gt; and &lt;a href=&quot;{3}&quot;&gt;{1}&lt;/a&gt; are connected now.
+        ///   Looks up a localized string similar to &lt;a class=&quot;link&quot; href=&quot;{2}&quot;&gt;{0}&lt;/a&gt; and &lt;a href=&quot;{3}&quot;&gt;{1}&lt;/a&gt; are connected now.
         /// </summary>
         public static string NewFriendship {
             get {
@@ -228,6 +228,15 @@ namespace Resources.Views.VisitProfileApp {
         public static string PrAbout {
             get {
                 return ResourceManager.GetString("PrAbout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The user has been blocked successfully.
+        /// </summary>
+        public static string ProfBlockSuccess {
+            get {
+                return ResourceManager.GetString("ProfBlockSuccess", resourceCulture);
             }
         }
         
