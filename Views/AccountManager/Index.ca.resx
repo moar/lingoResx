@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -129,37 +130,37 @@
     <value>Notificacions</value>
   </data>
   <data name="AccPrivacy" xml:space="preserve">
-    <value/>
+    <value>Privacitat</value>
   </data>
   <data name="Account" xml:space="preserve">
     <value>Compte</value>
   </data>
   <data name="AccAnonymousReq" xml:space="preserve">
-    <value/>
+    <value>Permetre només les peticions de la gent que ja has parlat.</value>
   </data>
   <data name="Accounts" xml:space="preserve">
     <value>Comptes</value>
   </data>
   <data name="AccNoSet" xml:space="preserve">
-    <value/>
+    <value>No</value>
   </data>
   <data name="AccSettings" xml:space="preserve">
     <value> Configuració</value>
   </data>
   <data name="AccPrivacySettings" xml:space="preserve">
-    <value/>
+    <value>Configuració de privacitat</value>
   </data>
   <data name="AddLinkedLogin" xml:space="preserve">
     <value>Vincular nou compte</value>
   </data>
   <data name="AccYesSet" xml:space="preserve">
-    <value/>
+    <value>Sí</value>
   </data>
   <data name="Blocking" xml:space="preserve">
     <value>Usuaris bloquejats </value>
   </data>
   <data name="AccNoBlocked" xml:space="preserve">
-    <value/>
+    <value>No has bloquejat cap usuari</value>
   </data>
   <data name="ChangePassword" xml:space="preserve">
     <value>Canviar la contrasenya </value>

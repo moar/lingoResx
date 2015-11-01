@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -131,21 +132,21 @@
     <value>Langademy è una comunità di scambio di lingua online dove è possibile praticare le lingue straniere con i nativi di tutto il mondo. L'ascolto di madrelingua in contesti naturali vi aiuterà a migliorare il vostro ascolto e si impara i suoni unici di una lingua. Allo stesso modo, si migliorerà le vostre abilità di lingua. Otterrete nuovi vocaboli, frasi, e di madrelingua sarà in grado di correggere voi.</value>
   </data>
   <data name="AboutMainTitle" xml:space="preserve">
-    <value/>
+    <value>Su Langademy</value>
   </data>
   <data name="AboutTimeBanking" xml:space="preserve">
-    <value/>
+    <value>Banca del Tempo</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
     <value/>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
-    <value/>
+    <value>Impara lingue e amigliora il tuo livello con Langademy</value>
   </data>
   <data name="AboutTitle2" xml:space="preserve">
-    <value/>
+    <value>Come funziona?</value>
   </data>
   <data name="AboutContact" xml:space="preserve">
-    <value/>
+    <value>Puoi contattarci inviando una mail a {0}</value>
   </data>
 </root>

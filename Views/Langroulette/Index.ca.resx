@@ -58,13 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,7 +123,7 @@
     <value>Amagar usuaris que no compleixen amb el filtre </value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[Necessites completar la ubicació al teu perfil abans de poder entrar a una sala. </br><a class="applnk" href="{0}" data-app="ProfileApp">El meu perfil</a>]]></value>
+    <value><![CDATA[Necessites completar la ubicació al teu perfil abans de poder entrar a una sala. </br><a class="applnk link" href="{0}" data-app="ProfileApp">El meu perfil</a>]]></value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Nivells</value>
@@ -160,7 +153,7 @@
     <value>Filtre</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[No hi ha ningun usuari connecta't en aquest moment. Visita el<a href="{0}" target="_blank">tauler de quedades</a>per veure si algú vol a unir-se! ]]></value>
+    <value><![CDATA[No hi ha ningun usuari connecta't en aquest moment. Visita el<a href="{0}" target="_blank" class="link">tauler de quedades</a>per veure si algú vol a unir-se! ]]></value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Escriu aquí</value>
@@ -173,5 +166,11 @@
   </data>
   <data name="LRNoChatHours" xml:space="preserve">
     <value>No es pots accedir a aquesta sala, no tens més temps al teu compte. Parla el teu idioma natiu perquè puguis guanyar més temps.</value>
+  </data>
+  <data name="BlockedUserCall" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NoCallsWhileInRoom" xml:space="preserve">
+    <value/>
   </data>
 </root>

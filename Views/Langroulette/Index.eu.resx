@@ -58,13 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,7 +123,7 @@
     <value>Ezkutatu zure iragazkiko baldintzak betetzen ez dituztenak</value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[Zure kokapena sartu behar duzu profilean gela batean sartu aurretik </br><a class="applnk" href="{0}" data-app="ProfileApp">Nire profilera joan</a>]]></value>
+    <value><![CDATA[Zure kokapena sartu behar duzu profilean gela batean sartu aurretik </br><a class="applnk link" href="{0}" data-app="ProfileApp">Nire profilera joan</a>]]></value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Mailak</value>
@@ -160,7 +153,7 @@
     <value>Iragazkia</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[Ez dago inor konektaturik momentu honetan. Bisita ezazu <a href="{0}" target="_blank">bilera taula</a> norbait laister sartuko den ikusteko!]]></value>
+    <value><![CDATA[Ez dago inor konektaturik momentu honetan. Bisita ezazu <a href="{0}" target="_blank" class="link">bilera taula</a> norbait laister sartuko den ikusteko!]]></value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Idatzi hemen</value>
@@ -173,5 +166,11 @@
   </data>
   <data name="LRNoChatHours" xml:space="preserve">
     <value>Ezin zara gela honetara sartu, ez daukazu hizketarako ordu gehiago. Hitz egin ezazu zure hizkuntza natiboan denbora gehiago irabaz dezazun.</value>
+  </data>
+  <data name="BlockedUserCall" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NoCallsWhileInRoom" xml:space="preserve">
+    <value/>
   </data>
 </root>

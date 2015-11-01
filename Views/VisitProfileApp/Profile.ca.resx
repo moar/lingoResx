@@ -65,6 +65,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -151,7 +152,7 @@
     <value>Fa menys d'una hora </value>
   </data>
   <data name="NewFriendship" xml:space="preserve">
-    <value><![CDATA[<a href="{2}">{0}</a> and <a href="{3}">{1}</a> estan connectats ]]></value>
+    <value><![CDATA[<a class="link" href="{2}">{0}</a> and <a href="{3}">{1}</a> estan connectats ]]></value>
   </data>
   <data name="NoFriends" xml:space="preserve">
     <value>No hi ha contactes encara</value>

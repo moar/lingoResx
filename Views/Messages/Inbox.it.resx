@@ -86,6 +86,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -151,15 +152,15 @@
     <value>Conversazioni</value>
   </data>
   <data name="InboxMes" xml:space="preserve">
-    <value>Posta in arrivo</value>
+    <value>Inbox</value>
   </data>
   <data name="InboxMessages" xml:space="preserve">
-    <value/>
+    <value>Messaggi</value>
   </data>
   <data name="TypeMessage" xml:space="preserve">
-    <value/>
+    <value>Inserisci il tuo messaggio</value>
   </data>
   <data name="Unread" xml:space="preserve">
-    <value/>
+    <value>Non letto</value>
   </data>
 </root>

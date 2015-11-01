@@ -86,6 +86,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -146,24 +147,24 @@
   </resheader>
   
   <data name="Obscenity" xml:space="preserve">
-    <value/>
+    <value>Oscenità</value>
   </data>
   <data name="Other" xml:space="preserve">
-    <value/>
+    <value>Altri </value>
   </data>
   <data name="ReasonPlaceHolder" xml:space="preserve">
-    <value/>
+    <value>Inserisci il tuo motivo qui (max. 2000 caratteri)</value>
   </data>
   <data name="ReportMaxLength" xml:space="preserve">
-    <value/>
+    <value>La lunghezza massima è di 2000 caratteri</value>
   </data>
   <data name="SelectReason" xml:space="preserve">
-    <value/>
+    <value>Selezionare un motivo</value>
   </data>
   <data name="Spam" xml:space="preserve">
-    <value/>
+    <value>Spam</value>
   </data>
   <data name="ToReport" xml:space="preserve">
-    <value/>
+    <value>Report</value>
   </data>
 </root>

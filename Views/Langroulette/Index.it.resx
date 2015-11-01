@@ -58,13 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,7 +123,7 @@
     <value>Nascondi gli utenti che non corrispondono il filtro</value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[È necessario completare l'ubicazione nel tuo profilo prima di entrare in una stanza</br><a class="applnk" href="{0}" data-app="ProfileApp">Vai al profilo</a>]]></value>
+    <value><![CDATA[È necessario completare l'ubicazione nel tuo profilo prima di entrare in una stanza</br><a class="applnk link" href="{0}" data-app="ProfileApp">Vai al profilo</a>]]></value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Livelli</value>
@@ -160,7 +153,7 @@
     <value>Filtro</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[Non c'è nessun utente collegato al momento. Visita il <a href="{0}" target="_blank">meetup board</a>  per vedere se qualcuno si unirà!]]></value>
+    <value><![CDATA[Non c'è nessun utente collegato al momento. Visita il <a href="{0}" target="_blank" class="link">meetup board</a>  per vedere se qualcuno si unirà!]]></value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Scrive qui</value>
@@ -173,5 +166,11 @@
   </data>
   <data name="LRNoChatHours" xml:space="preserve">
     <value>Non si può entrare in questa stanza, non si dispone di più tempo nel tuo conto . Parlare nella propria lingua madre in modo da guadagnare più tempo.</value>
+  </data>
+  <data name="BlockedUserCall" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="NoCallsWhileInRoom" xml:space="preserve">
+    <value/>
   </data>
 </root>

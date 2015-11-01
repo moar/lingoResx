@@ -65,6 +65,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -126,123 +127,123 @@
   
   
   <data name="AboutYou" xml:space="preserve">
-    <value/>
+    <value>Su di te </value>
   </data>
   <data name="BlockUpdateLang" xml:space="preserve">
-    <value/>
+    <value>Edizione di lingua</value>
   </data>
   <data name="AboutYouMaxLength" xml:space="preserve">
-    <value/>
+    <value>Le informazioni su di te deve avere una lunghezza massima di {1} caratteri</value>
   </data>
   <data name="CannotDeleteNative" xml:space="preserve">
-    <value/>
+    <value>Non è possibile cancellare la tua lingua madre</value>
   </data>
   <data name="AboutYouPH" xml:space="preserve">
-    <value/>
+    <value>Scrivere alcuni dettagli su di te</value>
   </data>
   <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
-    <value/>
+    <value>Stai inscritto ad un appuntamento in questa lingua. Cancella l'appuntamento prima di rimuovere questa lingua.</value>
   </data>
   <data name="AlertOff" xml:space="preserve">
-    <value/>
+    <value>Off</value>
   </data>
   <data name="CannotModifyNativeLanguage" xml:space="preserve">
-    <value/>
+    <value>Non è possibile modificare il livello della tua lingua madre</value>
   </data>
   <data name="AlertOn" xml:space="preserve">
-    <value/>
+    <value>On</value>
   </data>
   <data name="CannotModifyLanguage" xml:space="preserve">
-    <value/>
+    <value>Non è possibile modificare questa lingua in questo momento. Riprova più tardi</value>
   </data>
   <data name="CountryPH" xml:space="preserve">
-    <value/>
+    <value>Seleziona il tuo paese</value>
   </data>
   <data name="CoverPhoto" xml:space="preserve">
-    <value/>
+    <value>Foto di copertina</value>
   </data>
   <data name="CropHeading" xml:space="preserve">
-    <value/>
+    <value>Trascina e zoom</value>
   </data>
   <data name="FriendRequets" xml:space="preserve">
-    <value/>
+    <value>Richiesta di amicizia</value>
   </data>
   <data name="GreaterThanZero" xml:space="preserve">
-    <value/>
+    <value>Il file non può essere di lunghezza zero</value>
   </data>
   <data name="LanguageRequired" xml:space="preserve">
-    <value/>
+    <value>È richiesta la lingua</value>
   </data>
   <data name="LanguagesDesc" xml:space="preserve">
-    <value/>
+    <value>Sceglie le lingue che si desideri utilizzare in Langademy</value>
   </data>
   <data name="LanguagesTitle" xml:space="preserve">
-    <value/>
+    <value>Lingue</value>
   </data>
   <data name="LastnamePH" xml:space="preserve">
-    <value/>
+    <value>Scrivi il tuo cognome</value>
   </data>
   <data name="LevelRequired" xml:space="preserve">
-    <value/>
+    <value>È richiesto il livello</value>
   </data>
   <data name="MaxSize" xml:space="preserve">
-    <value/>
+    <value>Dimensione massima</value>
   </data>
   <data name="MeetupReminder" xml:space="preserve">
-    <value/>
+    <value>Avviso di Appuntamento</value>
   </data>
   <data name="MinimumSize" xml:space="preserve">
-    <value/>
+    <value>Dimensione minima è {0}</value>
   </data>
   <data name="MyLanguages" xml:space="preserve">
-    <value/>
+    <value>Le mie lingue</value>
   </data>
   <data name="NamePH" xml:space="preserve">
-    <value/>
+    <value>Scrivi il tuo nome</value>
   </data>
   <data name="NewMeetupParticipant" xml:space="preserve">
-    <value/>
+    <value>Nuovi partecipanti nell'Appuntamento</value>
   </data>
   <data name="NoAcitivity" xml:space="preserve">
-    <value/>
+    <value>Tuttavia Nessuna attività</value>
   </data>
   <data name="NoFile" xml:space="preserve">
-    <value/>
+    <value>Nessun file caricato</value>
   </data>
   <data name="NoMeetups" xml:space="preserve">
-    <value/>
+    <value>Nessun appuntamento</value>
   </data>
   <data name="NotificationSettings" xml:space="preserve">
-    <value/>
+    <value>Impostazioni di notifica</value>
   </data>
   <data name="PersonalInfo" xml:space="preserve">
-    <value/>
+    <value>Informazione personale</value>
   </data>
   <data name="ProfAddLanguage" xml:space="preserve">
-    <value/>
+    <value>Aggiunge lingua</value>
   </data>
   <data name="ProfCantUpload" xml:space="preserve">
-    <value/>
+    <value>Impossibile caricare il file</value>
   </data>
   <data name="ProfParticipants" xml:space="preserve">
-    <value/>
+    <value>Partecipanti</value>
   </data>
   <data name="ProfSelectLanguage" xml:space="preserve">
-    <value/>
+    <value>Seleziona la lingua</value>
   </data>
   <data name="SelectLevel" xml:space="preserve">
-    <value/>
+    <value>Seleziona il tuo livello</value>
   </data>
   <data name="UpdateProfilePhoto" xml:space="preserve">
-    <value/>
+    <value>Aggiorna la tua foto profilo</value>
   </data>
   <data name="UploadCover" xml:space="preserve">
-    <value/>
+    <value>carica la foto di copertina</value>
   </data>
   <data name="WantToNotify" xml:space="preserve">
-    <value/>
+    <value>Voglio ricevere notifiche e-mail su</value>
   </data>
   <data name="WrongFormat" xml:space="preserve">
-    <value/>
+    <value>Il file è di formato sbagliato</value>
   </data>
 </root>

@@ -65,6 +65,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -154,13 +155,13 @@
     <value>Invita i tuoi amici!</value>
   </data>
   <data name="DeskJoinMeetup" xml:space="preserve">
-    <value/>
+    <value>Iscriviti!</value>
   </data>
   <data name="DeskLanguages" xml:space="preserve">
     <value>Lingue</value>
   </data>
   <data name="DeskLRNatives" xml:space="preserve">
-    <value/>
+    <value>Nativi</value>
   </data>
   <data name="DeskMymeetings" xml:space="preserve">
     <value>I miei Meetups</value>
@@ -178,7 +179,7 @@
     <value>Vuoi essere suggerito alla comunità?</value>
   </data>
   <data name="DeskSuggestedMeetups" xml:space="preserve">
-    <value/>
+    <value>Appuntamenti in cui puoi unirti </value>
   </data>
   <data name="DeskTerms" xml:space="preserve">
     <value>Condizioni</value>
@@ -214,24 +215,24 @@
     <value>Oggi parlerò in</value>
   </data>
   <data name="DeskPeopleYouMayKnow" xml:space="preserve">
-    <value/>
+    <value>Persone che Potresti Conoscere</value>
   </data>
   <data name="DeskSkip" xml:space="preserve">
-    <value/>
+    <value>Skip</value>
   </data>
   <data name="DesktSugUsCheckMeets" xml:space="preserve">
-    <value/>
+    <value>Controlla i prossimi appuntamenti!</value>
   </data>
   <data name="DeskSugsUsActivity" xml:space="preserve">
-    <value/>
+    <value>Guarda la sua attività recente</value>
   </data>
   <data name="DeskSugUsMeet" xml:space="preserve">
-    <value/>
+    <value>Conosci gente nuova</value>
   </data>
   <data name="DeskSugUsStats" xml:space="preserve">
-    <value/>
+    <value>Controlla le sue statistiche</value>
   </data>
   <data name="DeskRestrictRequests" xml:space="preserve">
-    <value/>
+    <value>Limitare richieste di contatto</value>
   </data>
 </root>

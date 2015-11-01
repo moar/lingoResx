@@ -85,6 +85,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -144,57 +145,57 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Accept" xml:space="preserve">
-    <value/>
+    <value>Accettare</value>
   </data>
   <data name="AllContacts" xml:space="preserve">
-    <value/>
+    <value>Tutti i contatti</value>
   </data>
   <data name="ConnectionLost" xml:space="preserve">
-    <value/>
+    <value>La connessione si è persa. Ricarico in..</value>
   </data>
   <data name="RPContacts" xml:space="preserve">
-    <value/>
+    <value>Contatti</value>
   </data>
   <data name="Decline" xml:space="preserve">
-    <value/>
+    <value>Rifiutare</value>
   </data>
   <data name="Messages" xml:space="preserve">
-    <value/>
+    <value>Messaggi</value>
   </data>
   <data name="NoContacts" xml:space="preserve">
-    <value/>
+    <value>Non hai nessun contatto. Vai a {0} e incontra nuovi partner!</value>
   </data>
   <data name="NoMessages" xml:space="preserve">
-    <value/>
+    <value>Non hai nessun messaggio</value>
   </data>
   <data name="RPVideocall" xml:space="preserve">
-    <value/>
+    <value>Video chiamata</value>
   </data>
   <data name="Videocall" xml:space="preserve">
-    <value/>
+    <value>Video chiamata</value>
   </data>
   <data name="NoNotifications" xml:space="preserve">
-    <value/>
+    <value>Non hai nessuna notifica</value>
   </data>
   <data name="Notifications" xml:space="preserve">
-    <value/>
+    <value>Notifiche</value>
   </data>
   <data name="ReloadNow" xml:space="preserve">
     <value/>
   </data>
   <data name="SendMessage" xml:space="preserve">
-    <value/>
+    <value>Invia messaggio</value>
   </data>
   <data name="ShowAll" xml:space="preserve">
-    <value/>
+    <value>Mostra tutto</value>
   </data>
   <data name="ViewProfile" xml:space="preserve">
-    <value/>
+    <value>Vedi profilo</value>
   </data>
   <data name="RPViewProfile" xml:space="preserve">
-    <value/>
+    <value>Vedi profilo</value>
   </data>
   <data name="WriteHere" xml:space="preserve">
-    <value/>
+    <value>Scrive qui</value>
   </data>
 </root>

@@ -68,6 +68,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,63 +128,63 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CallCalling" xml:space="preserve">
-    <value/>
+    <value>CHIAMATA A {0}</value>
   </data>
   <data name="CallIncomingCall" xml:space="preserve">
-    <value/>
+    <value>CHIAMATA IN ARRIVO</value>
   </data>
   <data name="CallReport" xml:space="preserve">
-    <value/>
+    <value>Rapporto da chiamate</value>
   </data>
   <data name="CurrentTimeBalance" xml:space="preserve">
-    <value/>
+    <value>Saldo di ore attuale </value>
   </data>
   <data name="HoursBagEarning" xml:space="preserve">
-    <value/>
+    <value>Guadagno per la banca del tempo</value>
   </data>
   <data name="HoursBagSpent" xml:space="preserve">
-    <value/>
+    <value>Tempo speso nella Banca del Tempo</value>
   </data>
   <data name="IsBusy" xml:space="preserve">
-    <value/>
+    <value>{0} è occupato</value>
   </data>
   <data name="LoadingLocal" xml:space="preserve">
-    <value/>
+    <value>Caricamento video locale</value>
   </data>
   <data name="NoAnswer" xml:space="preserve">
-    <value/>
+    <value>{0} non risponde</value>
   </data>
   <data name="PrevTime" xml:space="preserve">
-    <value/>
+    <value>Saldo di ore precedente</value>
   </data>
   <data name="ReportLang" xml:space="preserve">
-    <value/>
+    <value>Lingua</value>
   </data>
   <data name="ReportLevel" xml:space="preserve">
-    <value/>
+    <value>Il tuo livello</value>
   </data>
   <data name="ReportPartnerlevel" xml:space="preserve">
-    <value/>
+    <value>Il livello del tuo partner</value>
   </data>
   <data name="ReportTimeAccount" xml:space="preserve">
-    <value/>
+    <value>Tempo nell tuo account</value>
   </data>
   <data name="TimeBanking" xml:space="preserve">
-    <value/>
+    <value>Banca del Tempo</value>
   </data>
   <data name="TimeLeft" xml:space="preserve">
-    <value/>
+    <value>Tempo rimasto</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value/>
+    <value>Videochat</value>
   </data>
   <data name="VCDuration" xml:space="preserve">
-    <value/>
+    <value>Durata</value>
   </data>
   <data name="VidWannaChat" xml:space="preserve">
-    <value/>
+    <value>{0} vuole chattare con te!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
-    <value/>
+    <value>Aspettando la camera di  {0}</value>
   </data>
 </root>

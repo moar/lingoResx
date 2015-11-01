@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -129,37 +130,37 @@
     <value>Notifiche</value>
   </data>
   <data name="AccPrivacy" xml:space="preserve">
-    <value/>
+    <value>Privacy</value>
   </data>
   <data name="Account" xml:space="preserve">
     <value>Conto</value>
   </data>
   <data name="AccAnonymousReq" xml:space="preserve">
-    <value/>
+    <value>Consenti solo richieste da persone che chi hai parlato.</value>
   </data>
   <data name="Accounts" xml:space="preserve">
     <value>Conti</value>
   </data>
   <data name="AccNoSet" xml:space="preserve">
-    <value/>
+    <value>No</value>
   </data>
   <data name="AccSettings" xml:space="preserve">
     <value>Impostazioni</value>
   </data>
   <data name="AccPrivacySettings" xml:space="preserve">
-    <value/>
+    <value>Impostazioni della privacy</value>
   </data>
   <data name="AddLinkedLogin" xml:space="preserve">
     <value>Collega il nuovo account</value>
   </data>
   <data name="AccYesSet" xml:space="preserve">
-    <value/>
+    <value>Sì</value>
   </data>
   <data name="Blocking" xml:space="preserve">
     <value>Utenti bloccati</value>
   </data>
   <data name="AccNoBlocked" xml:space="preserve">
-    <value/>
+    <value>Non hai bloccato nessun utente</value>
   </data>
   <data name="ChangePassword" xml:space="preserve">
     <value>Modifica password</value>
