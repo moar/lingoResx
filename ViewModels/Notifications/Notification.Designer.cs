@@ -97,7 +97,7 @@ namespace Resources.ViewModels.Notifications {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;{0}&quot;&gt;{1}&lt;/a&gt; invited you to attend a Langroulette meetup.
+        ///   Looks up a localized string similar to {0} invited you to attend a Language Roulette meetup.
         /// </summary>
         public static string MeetupInvitation {
             get {
