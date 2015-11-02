@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -159,7 +160,7 @@
     <value><![CDATA[T'has  autenticat satisfactòriam ent amb <strong>{0}</strong>.]]></value>
   </data>
   <data name="ResetPassword" xml:space="preserve">
-    <value/>
+    <value>Restablir la contrasenya</value>
   </data>
   <data name="ExtLoginUnsuccessful" xml:space="preserve">
     <value>No t'has pogut loguejar correctament</value>
@@ -168,7 +169,7 @@
     <value>Has oblidat la teva contrasenya?</value>
   </data>
   <data name="ResetPasswordConfirmation" xml:space="preserve">
-    <value/>
+    <value>Confirmació de recuperació de contrasenya </value>
   </data>
   <data name="InvalidEmailOrPwd" xml:space="preserve">
     <value>Correu electrònic o contrasenya incorrecta</value>
@@ -177,7 +178,7 @@
     <value>Convidat per </value>
   </data>
   <data name="ResetYourPassword" xml:space="preserve">
-    <value/>
+    <value>Restablir la contrasenya</value>
   </data>
   <data name="LastNameLength" xml:space="preserve">
     <value>El cognom ha de tenir almenys {2} caracters i menys de {1} caracters</value>

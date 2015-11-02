@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -136,7 +137,8 @@
     <value>Compte</value>
   </data>
   <data name="AccAnonymousReq" xml:space="preserve">
-    <value>Permetre només les peticions de la gent que ja has parlat.</value>
+    <value>Permetre només les sol·licituds de contacte de la gent amb la que has parlat
+</value>
   </data>
   <data name="Accounts" xml:space="preserve">
     <value>Comptes</value>

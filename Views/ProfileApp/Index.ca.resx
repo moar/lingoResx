@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -136,7 +137,7 @@
     <value>La informació sobre tu ha de tenir com a màxim {1} caracters </value>
   </data>
   <data name="CannotDeleteNative" xml:space="preserve">
-    <value/>
+    <value>No es pot eliminar el teu idioma natiu</value>
   </data>
   <data name="AboutYouPH" xml:space="preserve">
     <value>Escriu alguns detalls sobre tu</value>
@@ -148,7 +149,7 @@
     <value>Off</value>
   </data>
   <data name="CannotModifyNativeLanguage" xml:space="preserve">
-    <value/>
+    <value>No es pot modificar el nivell del teu idioma natiu</value>
   </data>
   <data name="AlertOn" xml:space="preserve">
     <value>On</value>

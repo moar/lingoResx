@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -136,7 +137,7 @@
     <value>Kontua</value>
   </data>
   <data name="AccAnonymousReq" xml:space="preserve">
-    <value>Ezagutzen duzun jendearen eskaerak soilik onartu</value>
+    <value>Ezagutzen duzun jendearen kontaktu eskaerak soilik onartu</value>
   </data>
   <data name="Accounts" xml:space="preserve">
     <value>Kontuak</value>

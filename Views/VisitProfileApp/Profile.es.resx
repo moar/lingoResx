@@ -58,14 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -152,7 +144,7 @@
     <value>Hace menos de hora</value>
   </data>
   <data name="NewFriendship" xml:space="preserve">
-    <value><![CDATA[<a class="link" href="{2}">{0}</a> y <a href="{3}">{1}</a> están conectados ahora]]></value>
+    <value><![CDATA[<a class="link" href="{2}">{0}</a> y <a class="link" href="{3}">{1}</a> están conectados ahora]]></value>
   </data>
   <data name="NoFriends" xml:space="preserve">
     <value>No hay contactos todavía</value>
@@ -219,5 +211,8 @@
   </data>
   <data name="ProfUserReported" xml:space="preserve">
     <value>Este usuario ha sido reportado</value>
+  </data>
+  <data name="ProfBlockSuccess" xml:space="preserve">
+    <value/>
   </data>
 </root>

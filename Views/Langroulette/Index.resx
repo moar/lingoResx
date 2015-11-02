@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -153,7 +154,7 @@
     <value>Filter</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[There isn't any connected user right now. Visit the<a href="{0}" target="_blank" class="link">meetup board</a> to check if someone will be meeting you soon!]]></value>
+    <value><![CDATA[There isn't any connected user right now. Visit the <a href="{0}" target="_blank" class="link">meetup board</a> to check if someone will be meeting you soon!]]></value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Write here</value>
