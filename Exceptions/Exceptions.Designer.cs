@@ -133,6 +133,15 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Go to homepage.
+        /// </summary>
+        public static string ReturnHomepage {
+            get {
+                return ResourceManager.GetString("ReturnHomepage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Room does not exist.
         /// </summary>
         public static string RoomNotExist {
