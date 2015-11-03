@@ -68,6 +68,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,10 +128,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value/>
+    <value><![CDATA[Langacademy offre un modo unico per incontrare madrelingua e creare tandem utilizzando il Language Roulette, uno strumento web per le videoconferenze. Non devi preoccuparti di nulla, devi solo scegliere la lingua che desideri praticare, e noi troveremo un partner che si adatta alle tue esigenze. <br/>
+
+Che cosa succede se nessuno è disponibile quando ne avete bisogno? Non ti preoccupi, è possibile creare Appuntamenti per gli altri utenti,che è un modo da sapere quando sarete disponibili, oppure è possibile vedere gli Appuntamenti che sono stati creati da altri utenti nella Tabella di Appuntamenti.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
-    <value>Langademy è una comunità di scambio di lingua online dove è possibile praticare le lingue straniere con i nativi di tutto il mondo. L'ascolto di madrelingua in contesti naturali vi aiuterà a migliorare il vostro ascolto e si impara i suoni unici di una lingua. Allo stesso modo, si migliorerà le vostre abilità di lingua. Otterrete nuovi vocaboli, frasi, e di madrelingua sarà in grado di correggere voi.</value>
+    <value>Langademy è una comunità di scambio di lingua online dove è possibile praticare le lingue straniere con i nativi di tutto il mondo. L'ascolto di madrelingua in contesti naturali vi aiuterà a migliorare ascoltando i suoni unici che ha ogni lingua. Allo stesso modo, si migliorerà la tua scioltezza nel la lingua e otterrete nuovi vocaboli, frasi, e il partner nativo sarà in grado di correggere.</value>
   </data>
   <data name="AboutMainTitle" xml:space="preserve">
     <value>Su Langademy</value>
@@ -139,7 +142,7 @@
     <value>Banca del Tempo</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
-    <value/>
+    <value>Timebanking è un modo per rendere lo scambio lingua profiltable per tutti. Se si condivide la tua lingua madre con altri utenti Langademy, ti daremo lo stesso tempo in modo da poter praticare altre lingue. Quando si pratica una lingua che non è la tua lingua madre, ti permetterà di trascorrere il tempo dalla Banca del Tempo. E se si parla di un non-nativo nella tua lingua madre, sarai ricompensato con il tempo per la tua Banca del Tempo. Si inizierà volontà 5 ore, e ogni mese, ti forniremo {0} ore extra gratuiti per il tuo Time Bank.</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
     <value>Impara lingue e amigliora il tuo livello con Langademy</value>

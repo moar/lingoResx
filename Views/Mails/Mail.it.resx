@@ -88,6 +88,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -157,10 +158,10 @@
     <value>Richiesta di connessione</value>
   </data>
   <data name="MailNewMeetupParticipants" xml:space="preserve">
-    <value>Nuovi partecipanti Meetup</value>
+    <value>Nuovi partecipanti nell'Appuntamento</value>
   </data>
   <data name="MeetupAlerta" xml:space="preserve">
-    <value>Allarme Meetup</value>
+    <value>Avviso di Appuntamento</value>
   </data>
   <data name="PasswordRecovery" xml:space="preserve">
     <value>Recupera la tua password</value>

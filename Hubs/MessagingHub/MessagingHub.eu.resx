@@ -86,6 +86,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -175,7 +176,7 @@
     <value>Hizkuntza hau ez dago zure hizkuntza zerrendan. Saiatu zaitez dituzun hizkuntzetako batekin deia egiten!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[Ezin duzu deirik egin, ez duzu denborarik denbora bankuan. <a href="{0}" class="applnk" data-app="HoursBagApp"> Kontsultatu ezazu zure denbora bankua </a>]]></value>
+    <value><![CDATA[Ezin duzu deirik egin, ez duzu denborarik zure kontuan. <a href="{0}" class="applnk" data-app="HoursBagApp"> Kontsultatu ezazu zure denbora bankua </a>]]></value>
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>Ezin duzu {0} deitu, ez zaude konektaturik</value>

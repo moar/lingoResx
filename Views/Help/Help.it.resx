@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,7 +139,7 @@
     <value>Stato Langademy</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>Entra nel Language-Roulette, seleziona una stanza e inizia a parlare la tua lingua preferita!  Ci occupiamo noi di cercarte una coppia!</value>
+    <value>Entra nel Language-Roulette, seleziona una stanza e inizia a parlare la tua lingua preferita!  Ci occupiamo noi di cercarte una coppia!Ricorda che è possibile controllare la Tablella di Appuntamenti per sapere quando saranno i prossimi Appuntamenti nel Language Roulette.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value> La Banca del Tempo è il sistema per fer fare più proficuo per tutti lo scambio linguistico. Ecco come funziona:</value>

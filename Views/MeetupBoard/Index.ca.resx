@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,7 +131,7 @@
     <value>Totes les quedades </value>
   </data>
   <data name="MBMeetGetLangRoulette" xml:space="preserve">
-    <value/>
+    <value>Anar a {0} per entrar a la quedada</value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Assistir</value>

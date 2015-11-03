@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,7 +128,7 @@
   </resheader>
   
   <data name="AllMeetups" xml:space="preserve">
-    <value>Tutti Meetup</value>
+    <value>Tutti gli Appuntamenti</value>
   </data>
   <data name="MBMeetGetLangRoulette" xml:space="preserve">
     <value>Vai a {0} per accedere al appuntamento</value>
@@ -148,7 +149,7 @@
     <value>Data</value>
   </data>
   <data name="ExistingMeetupLanguage" xml:space="preserve">
-    <value>C'è già un meetup in questo momento per parlare {0}. Uniciti invece di creare uno nuovo</value>
+    <value>C'è già un appuntamento in questo momento per parlare {0}. Iscriviti invece di creare uno nuovo</value>
   </data>
   <data name="InvitableContactsHeader" xml:space="preserve">
     <value>Contatti che parlano {0}</value>
@@ -157,7 +158,7 @@
     <value>Invita contatti</value>
   </data>
   <data name="InviteContactsDesc" xml:space="preserve">
-    <value>Selezionare i contatti che si desidera invitare a questo meetup</value>
+    <value>Seleziona i contatti che desideri invitare a questo appuntamento</value>
   </data>
   <data name="MeetupHasStarted" xml:space="preserve">
     <value>È possibile partecipare solo in un meetup prima del suo orario di inizio</value>

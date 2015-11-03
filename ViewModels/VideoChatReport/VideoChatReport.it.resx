@@ -74,6 +74,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -139,13 +140,13 @@
     <value>Le chiamate tra i nativi non hanno alcun costo per te</value>
   </data>
   <data name="NoCostNoNatives" xml:space="preserve">
-    <value>Le chiamate tra i nativi non hanno alcun costo per te</value>
+    <value>Le chiamate tra i non nativi non hanno nessun costo per te</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
-    <value>È finita la chiamata</value>
+    <value>Chiamata terminata</value>
   </data>
   <data name="RemoteFinished" xml:space="preserve">
-    <value>{0} ha finito la chiamata</value>
+    <value>{0}  ha appeso la chiamata</value>
   </data>
   <data name="VCLearnLang" xml:space="preserve">
     <value>Parlando in una lingua non-nativa con un utente nativo, ha un costo per te</value>
