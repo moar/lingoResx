@@ -178,6 +178,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to New.
+        /// </summary>
+        public static string MBNewMeetupPopover {
+            get {
+                return ResourceManager.GetString("MBNewMeetupPopover", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Next meetups.
         /// </summary>
         public static string MBNextMeetups {
