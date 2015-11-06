@@ -67,6 +67,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -165,7 +167,7 @@
     <value>Nativi</value>
   </data>
   <data name="DeskMymeetings" xml:space="preserve">
-    <value>I miei Meetups</value>
+    <value>I miei Appuntamenti</value>
   </data>
   <data name="DeskParticipants" xml:space="preserve">
     <value>Partecipanti</value>
@@ -207,7 +209,7 @@
     <value>Impostazioni</value>
   </data>
   <data name="TimeBalance" xml:space="preserve">
-    <value/>
+    <value>Saldo di ore precedente</value>
   </data>
   <data name="TimeBank" xml:space="preserve">
     <value>Banca del Tempo</value>

@@ -67,6 +67,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -131,7 +133,7 @@
     <value>Sobre tu</value>
   </data>
   <data name="BlockUpdateLang" xml:space="preserve">
-    <value/>
+    <value>Edició Idioma</value>
   </data>
   <data name="AboutYouMaxLength" xml:space="preserve">
     <value>La informació sobre tu ha de tenir com a màxim {1} caracters </value>
@@ -143,7 +145,7 @@
     <value>Escriu alguns detalls sobre tu</value>
   </data>
   <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
-    <value/>
+    <value>Es va inscriure en una quedada en aquest idioma. Deixeu la quedada abans de retirar aquest idioma.</value>
   </data>
   <data name="AlertOff" xml:space="preserve">
     <value>Off</value>

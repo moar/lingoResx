@@ -87,6 +87,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -151,7 +153,7 @@
     <value>Chat</value>
   </data>
   <data name="HoursBagIntro" xml:space="preserve">
-    <value>Quando si pratica una lingua che non è la tua lingua madre, si ci trascorre del tempo dalla banca del tempo. E se si parla di un non-nativo nella vostra lingua madre, sarete ricompensati con il tempo per la vostra banca del tempo.</value>
+    <value>Si pratichi in una lingua che non è la tua lingua nativa, spenderai tempo della tua banca del tempo. Invece se aiuti qualcuno che sta imparando la tua lingua madre, ti verrà accreditato più tempo per la tua Banca del Tempo.</value>
   </data>
   <data name="ConfigurationIntro" xml:space="preserve">
     <value>Configura il tuo conto in modo rapido</value>
@@ -172,7 +174,7 @@
     <value>Profilo</value>
   </data>
   <data name="ProfileEditionIntro" xml:space="preserve">
-    <value/>
+    <value>Puoi modificare il tuo profilo qui, per esempio, è possibile aggiungere o modificare le lingue che vuoi imparare.</value>
   </data>
   <data name="ShowMoreHelp" xml:space="preserve">
     <value>Mostra tutto</value>

@@ -58,6 +58,8 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -123,7 +125,7 @@
     <value><![CDATA[<a href="{0}">{1}</a> s'ha unit a Langademy. Has guanyat 30 minuts al Banc de Temps!]]></value>
   </data>
   <data name="FriendRequest" xml:space="preserve">
-    <value>Vol contactar amb tu</value>
+    <value>vol contactar amb tu</value>
   </data>
   <data name="MeetupInvCancelled" xml:space="preserve">
     <value>Quedada cancel·lada </value>

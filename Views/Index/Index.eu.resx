@@ -85,6 +85,8 @@
   
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -159,7 +161,7 @@
     <value>Doakoa da!</value>
   </data>
   <data name="IndAbout" xml:space="preserve">
-    <value>Langademy-ri buruz</value>
+    <value>Langademyri buruz</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
     <value>{0}  bideo konferentzia bidezko erruleta bat da. Bertan hiztun natiboak aurkituko dituzu zure hizkuntza gogokoenak praktika ditzatzun</value>
@@ -168,7 +170,7 @@
     <value>Hizkuntzak</value>
   </data>
   <data name="IndNextMeetups" xml:space="preserve">
-    <value>Hurrengo bilerak Langroulettean</value>
+    <value>Hurrengo bilerak Language Roulettean</value>
   </data>
   <data name="IndParticipants" xml:space="preserve">
     <value>Partaideak</value>

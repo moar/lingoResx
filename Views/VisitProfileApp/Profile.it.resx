@@ -58,6 +58,8 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -213,6 +215,6 @@
     <value>Questo utente è stato riportato</value>
   </data>
   <data name="ProfBlockSuccess" xml:space="preserve">
-    <value/>
+    <value>L'utente è stato bloccato</value>
   </data>
 </root>

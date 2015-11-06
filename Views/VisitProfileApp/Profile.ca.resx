@@ -58,6 +58,8 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -210,9 +212,9 @@
     <value> Estadístiques d'intercanvi d'idiomes</value>
   </data>
   <data name="ProfUserReported" xml:space="preserve">
-    <value/>
+    <value>Aquest usuari ja s'ha reportat</value>
   </data>
   <data name="ProfBlockSuccess" xml:space="preserve">
-    <value/>
+    <value>L'usuari ha estat bloquejat amb èxit</value>
   </data>
 </root>

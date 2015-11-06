@@ -59,6 +59,8 @@
             : and then encoded with base64 encoding.-->
   
   
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -169,9 +171,9 @@
     <value>Ezin zara gela honetara sartu, ez daukazu hizketarako ordu gehiago. Hitz egin ezazu zure hizkuntza natiboan denbora gehiago irabaz dezazun.</value>
   </data>
   <data name="BlockedUserCall" xml:space="preserve">
-    <value/>
+    <value>Ezin duzu erabiltzaile hau deitu</value>
   </data>
   <data name="NoCallsWhileInRoom" xml:space="preserve">
-    <value/>
+    <value>Ezin duzu dei pribaturik egin txat gelan zauden bitartean</value>
   </data>
 </root>
