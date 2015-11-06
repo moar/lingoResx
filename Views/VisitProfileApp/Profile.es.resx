@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -167,7 +168,7 @@
     <value>No hay actividad aún</value>
   </data>
   <data name="ConversationAct" xml:space="preserve">
-    <value><![CDATA[<a href="{0}">{1}</a> ha hablado {2} durante {3} minutos]]></value>
+    <value><![CDATA[<a href="{0}" class="link">{1}</a> ha hablado {2} durante {3} minutos]]></value>
   </data>
   <data name="CancelPartnerRequest" xml:space="preserve">
     <value>Cancelar petición</value>

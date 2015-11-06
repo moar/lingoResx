@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -237,7 +238,7 @@
     <value>El nom deu tenir almenys {2} caràcters i {1} caràcters com a màxim  </value>
   </data>
   <data name="AgreeTerms" xml:space="preserve">
-    <value><![CDATA[He llegit i estic d'acord amb els  <a href="{0}" target="_blank"> termes i condicions</a> ]]></value>
+    <value><![CDATA[He llegit i estic d'acord amb els  <a href="{0}" target="_blank" class="link"> termes i condicions</a> ]]></value>
   </data>
   <data name="RegTerms" xml:space="preserve">
     <value>Termes i condicions </value>

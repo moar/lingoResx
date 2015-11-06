@@ -87,6 +87,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -164,7 +165,7 @@
     <value>Sobre Langademy</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>{0} és una ruleta videoxat on es troben els parlants natius i altres estudiants per a practicar els seus idiomes preferits</value>
+    <value>{0} és una ruleta de videoxat on coneixeràs parlants natius i altres estudiants per a practicar els teus idiomes preferits</value>
   </data>
   <data name="IndLanguages" xml:space="preserve">
     <value>Idiomes</value>

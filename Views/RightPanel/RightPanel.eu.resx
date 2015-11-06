@@ -89,6 +89,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -166,7 +167,7 @@
     <value>Mezuak</value>
   </data>
   <data name="NoContacts" xml:space="preserve">
-    <value>Ez duzu kontatukturik oraindik. Jo {0}-ra eta lagun berriak ezagutu itzatzu!</value>
+    <value>Ez duzu kontakturik oraindik. Jo {0}ra eta lagun berriak ezagutu itzatzu!</value>
   </data>
   <data name="NoMessages" xml:space="preserve">
     <value>Ez daukazu mezurik</value>

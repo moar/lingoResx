@@ -88,6 +88,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -147,7 +148,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CookieAdvisory" xml:space="preserve">
-    <value>Aquesta pagina web utilitza cookies. En continuar utilitzant aquest lloc web, estàs donant el teu consentiment perquè s'utilitzen les cookies.</value>
+    <value>Aquesta pagina web utilitza cookies. Si continues utilitzant aquest lloc web, estàs donant el teu consentiment perquè s'utilitzen les cookies.</value>
   </data>
   <data name="Cookies" xml:space="preserve">
     <value>Cookies</value>

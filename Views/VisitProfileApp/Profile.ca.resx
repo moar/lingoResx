@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -167,7 +168,7 @@
     <value>No hi ha cap activitat encara </value>
   </data>
   <data name="ConversationAct" xml:space="preserve">
-    <value><![CDATA[<a href="{0}">{1}</a> ha parlat {2} durant {3} minuts]]></value>
+    <value><![CDATA[<a href="{0}" class="link">{1}</a> ha parlat {2} durant {3} minuts]]></value>
   </data>
   <data name="CancelPartnerRequest" xml:space="preserve">
     <value>Cancel·lar petició </value>
@@ -179,13 +180,13 @@
     <value>Hores</value>
   </data>
   <data name="PMinutes" xml:space="preserve">
-    <value>Minuts</value>
+    <value>minuts</value>
   </data>
   <data name="VPLanguages" xml:space="preserve">
     <value>Idiomes</value>
   </data>
   <data name="ProfMinutes" xml:space="preserve">
-    <value>Minuts</value>
+    <value>minuts</value>
   </data>
   <data name="ProfLastWeekStats" xml:space="preserve">
     <value>La setmana passada (minuts)</value>

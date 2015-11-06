@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -146,7 +147,7 @@
     <value>Less than an hour ago</value>
   </data>
   <data name="NewFriendship" xml:space="preserve">
-    <value><![CDATA[<a class="link" href="{2}">{0}</a> and <a href="{3}">{1}</a> are connected now]]></value>
+    <value><![CDATA[<a class="link" href="{2}">{0}</a> and <a  class="link" href="{3}">{1}</a> are connected now]]></value>
   </data>
   <data name="NoFriends" xml:space="preserve">
     <value>No contacts yet</value>
@@ -167,7 +168,7 @@
     <value>No activity yet</value>
   </data>
   <data name="ConversationAct" xml:space="preserve">
-    <value><![CDATA[<a href="{0}">{1}</a> has spoken {2} for {3} minutes]]></value>
+    <value><![CDATA[<a href="{0}" class="link">{1}</a> has spoken {2} for {3} minutes]]></value>
   </data>
   <data name="CancelPartnerRequest" xml:space="preserve">
     <value>Cancel Request</value>
@@ -191,7 +192,7 @@
     <value>Last week (minutes)</value>
   </data>
   <data name="ProfNextMeetups" xml:space="preserve">
-    <value>Next Meetups</value>
+    <value>Next meetups</value>
   </data>
   <data name="ProfRecentAct" xml:space="preserve">
     <value>Recent Activity</value>

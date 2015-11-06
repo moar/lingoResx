@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -131,7 +132,7 @@
     <value>Opcions del compte</value>
   </data>
   <data name="AddAboutYou" xml:space="preserve">
-    <value>Afegeix informació sobre els teus coneixements del idioma </value>
+    <value>Afegeix informació sobre tu</value>
   </data>
   <data name="AddBirthDate" xml:space="preserve">
     <value>Afegeix la teva data de naixement</value>
@@ -197,7 +198,7 @@
     <value>Uneix-te a una quedada!</value>
   </data>
   <data name="LogOut" xml:space="preserve">
-    <value>Tancar sessió </value>
+    <value>Tancar Sessió </value>
   </data>
   <data name="NumNatives" xml:space="preserve">
     <value>Natius</value>
@@ -212,7 +213,7 @@
     <value>Balanç d'hores</value>
   </data>
   <data name="TimeBank" xml:space="preserve">
-    <value>Banc de temps</value>
+    <value>Banc de Temps</value>
   </data>
   <data name="TodayLangs" xml:space="preserve">
     <value>Avui parlaré en</value>

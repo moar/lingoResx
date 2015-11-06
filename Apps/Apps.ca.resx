@@ -90,6 +90,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -158,7 +159,7 @@
     <value>General </value>
   </data>
   <data name="HoursBagApp" xml:space="preserve">
-    <value>Banc de temps</value>
+    <value>Banc del Temps</value>
   </data>
   <data name="Langroulette" xml:space="preserve">
     <value>Language Roulette</value>

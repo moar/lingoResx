@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -122,13 +123,13 @@
     <value>and you are connected now</value>
   </data>
   <data name="FriendJoined" xml:space="preserve">
-    <value><![CDATA[<a href="{0}">{1}</a> joined Langademy. You earned 30 minutes for your Time Bank!]]></value>
+    <value><![CDATA[<a href="{0}" class="link">{1}</a> joined Langademy. You earned 30 minutes for your Time Bank!]]></value>
   </data>
   <data name="FriendRequest" xml:space="preserve">
     <value>Connection request</value>
   </data>
   <data name="MeetupInvCancelled" xml:space="preserve">
-    <value>Meetup Cancelled</value>
+    <value>Meetup cancelled</value>
   </data>
   <data name="MeetupInvitation" xml:space="preserve">
     <value>{0} invited you to attend a Language Roulette meetup</value>
