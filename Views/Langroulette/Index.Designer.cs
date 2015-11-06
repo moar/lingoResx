@@ -88,7 +88,7 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You need to complete your location info in your profile before getting into a room&lt;/br&gt;&lt;a class=&quot;applnk&quot; href=&quot;{0}&quot; data-app=&quot;ProfileApp&quot;&gt;Go to my profile&lt;/a&gt;.
+        ///   Looks up a localized string similar to You need to complete your location info in your profile before getting into a room&lt;/br&gt;&lt;a class=&quot;applnk link&quot; href=&quot;{0}&quot; data-app=&quot;ProfileApp&quot;&gt;Go to my profile&lt;/a&gt;.
         /// </summary>
         public static string IncompleteProfile {
             get {
@@ -151,6 +151,15 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Next.
+        /// </summary>
+        public static string LRNext {
+            get {
+                return ResourceManager.GetString("LRNext", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You can&apos;t get into this room, you don&apos;t have more chat hours. Speak in your native language so you earn more time..
         /// </summary>
         public static string LRNoChatHours {
@@ -160,11 +169,20 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There isn&apos;t any connected user right now. Visit the&lt;a href=&quot;{0}&quot; target=&quot;_blank&quot;&gt;meetup board&lt;/a&gt; to check if someone will be meeting you soon!.
+        ///   Looks up a localized string similar to There isn&apos;t any connected user right now. Visit the &lt;a href=&quot;{0}&quot; target=&quot;_blank&quot; class=&quot;link&quot;&gt;meetup board&lt;/a&gt; to check if someone will be meeting you soon!.
         /// </summary>
         public static string LRNoUsers {
             get {
                 return ResourceManager.GetString("LRNoUsers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select minimum level.
+        /// </summary>
+        public static string LRSelMinimumLevel {
+            get {
+                return ResourceManager.GetString("LRSelMinimumLevel", resourceCulture);
             }
         }
         
