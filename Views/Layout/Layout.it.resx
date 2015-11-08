@@ -91,6 +91,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -160,7 +161,7 @@
     <value>Su Langademy</value>
   </data>
   <data name="LRDescription" xml:space="preserve">
-    <value>A Language Roulette puoi trovare nuovi partner di scambio per la lingua che si desideri imparare. Migliora il tuo livello, mentre conosci nuove persone!</value>
+    <value>A Language Roulette puoi trovare nuovi partner per poter parlare la lingua che si desidera imparare. Migliora il tuo livello, mentre conosci nuove persone!</value>
   </data>
   <data name="LRKeywords" xml:space="preserve">
     <value>language roulette, scambio linguistico, chat, tandem, scioltezza</value>

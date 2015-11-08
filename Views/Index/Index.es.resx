@@ -88,6 +88,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -150,7 +151,7 @@
     <value>Sobre Langademy</value>
   </data>
   <data name="Board" xml:space="preserve">
-    <value><![CDATA[<a href="/MeetupBoard"><strong>Tablón</strong></a>]]></value>
+    <value><![CDATA[<a href="/MeetupBoard" class="link"><strong>Tablón</strong></a>]]></value>
   </data>
   <data name="ComingSoon" xml:space="preserve">
     <value>PRÓXIMAMENTE</value>
@@ -171,7 +172,7 @@
     <value>Idiomas</value>
   </data>
   <data name="IndNextMeetups" xml:space="preserve">
-    <value>Próximas quedadas en Langroulette</value>
+    <value>Próximas quedadas en Language Roulette</value>
   </data>
   <data name="IndParticipants" xml:space="preserve">
     <value>Participantes</value>
@@ -210,7 +211,7 @@
     <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>
   </data>
   <data name="Visit" xml:space="preserve">
-    <value>Visita Langademy</value>
+    <value>¡Visita Langademy!</value>
   </data>
   <data name="WhenPossible" xml:space="preserve">
     <value>Cuando mejor te venga</value>

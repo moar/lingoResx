@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -136,7 +137,7 @@
     <value>Completa el registre </value>
   </data>
   <data name="EmailConfirmation" xml:space="preserve">
-    <value>Correu electrònic de confirmació</value>
+    <value>Confirmació electrònic de correu</value>
   </data>
   <data name="ConfirmNewPw" xml:space="preserve">
     <value>Confirmar la nova contrasenya </value>
@@ -145,7 +146,7 @@
     <value>Confirma contrasenya</value>
   </data>
   <data name="EmailConfirmationSentence" xml:space="preserve">
-    <value><![CDATA[Gràcies per confirmar el seu compte. Si us plau<a href="{0}" class="link"> clica aquí to log in</a>]]></value>
+    <value><![CDATA[Gràcies per confirmar el teu compte. <a href="{0}" class="link"> clica aquí </a>to log in]]></value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Contrasenya actual</value>
@@ -154,13 +155,13 @@
     <value>Si us plau, introdueix a sota un nom d'usuari per Langademy i fes clic al botó Registrar per finalitzar el registre</value>
   </data>
   <data name="PasswordIsReset" xml:space="preserve">
-    <value><![CDATA[La seva contrasenya s'ha restabler. Si us plau <a href="{0}" class="link">click here to log in</a>]]></value>
+    <value><![CDATA[La teva contrasenya s'ha restablert. Si us plau <a href="{0}" class="link">clica aquí </a>to log in]]></value>
   </data>
   <data name="ExtLoginEmailInUse" xml:space="preserve">
     <value>{0} ja està en ús. Si us plau, accedeixi amb el teu compte de Langademy si vols vincular el teu compte amb {1}</value>
   </data>
   <data name="ExtLoginSuccess" xml:space="preserve">
-    <value><![CDATA[T'has  autenticat satisfactòriam ent amb <strong>{0}</strong>.]]></value>
+    <value><![CDATA[T'has autenticat satisfactòriament amb <strong>{0}</strong>.]]></value>
   </data>
   <data name="ResetPassword" xml:space="preserve">
     <value>Restablir la contrasenya</value>
@@ -241,7 +242,7 @@
     <value><![CDATA[He llegit i estic d'acord amb els  <a href="{0}" target="_blank" class="link"> termes i condicions</a> ]]></value>
   </data>
   <data name="RegTerms" xml:space="preserve">
-    <value>Termes i condicions </value>
+    <value>Termes i Condicions </value>
   </data>
   <data name="ReqTerms" xml:space="preserve">
     <value>Has de llegir i acceptar els termes i condicions</value>

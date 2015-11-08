@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -137,16 +138,16 @@
     <value>Edició Idioma</value>
   </data>
   <data name="AboutYouMaxLength" xml:space="preserve">
-    <value>La informació sobre tu ha de tenir com a màxim {1} caracters </value>
+    <value>La teva informació ha de tenir com a màxim {1} caràcters </value>
   </data>
   <data name="CannotDeleteNative" xml:space="preserve">
     <value>No es pot eliminar el teu idioma natiu</value>
   </data>
   <data name="AboutYouPH" xml:space="preserve">
-    <value>Escriu alguns detalls sobre tu</value>
+    <value>Escriu alguna cosa de tu</value>
   </data>
   <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
-    <value>Es va inscriure en una quedada en aquest idioma. Deixeu la quedada abans de retirar aquest idioma.</value>
+    <value>Estàs apuntat a una quedada en aquest idioma.Esborrat de la quedada abans de retirar aquest idioma.</value>
   </data>
   <data name="AlertOff" xml:space="preserve">
     <value>Off</value>
@@ -194,7 +195,7 @@
     <value>Mida màxima </value>
   </data>
   <data name="MeetupReminder" xml:space="preserve">
-    <value>Avís de Quedada </value>
+    <value>Avís de quedada </value>
   </data>
   <data name="MinimumSize" xml:space="preserve">
     <value>La mida mínima es {0} </value>
@@ -209,13 +210,13 @@
     <value>Nous participants a la quedada</value>
   </data>
   <data name="NoAcitivity" xml:space="preserve">
-    <value>No hi ha cap activitat encara </value>
+    <value>No hi ha cap activitat </value>
   </data>
   <data name="NoFile" xml:space="preserve">
     <value>No s'ha pujat cap arxiu </value>
   </data>
   <data name="NoMeetups" xml:space="preserve">
-    <value>No hi ha Quedades</value>
+    <value>No hi ha quedades</value>
   </data>
   <data name="NotificationSettings" xml:space="preserve">
     <value>Configuració de notificacions </value>

@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -172,15 +173,15 @@
     <value>No puedes acceder a esta sala, no tienes más tiempo en tu cuenta. Habla en tu idioma nativo para que puedas ganar más tiempo.</value>
   </data>
   <data name="BlockedUserCall" xml:space="preserve">
-    <value/>
+    <value>No puedes llamar a este usuario</value>
   </data>
   <data name="NoCallsWhileInRoom" xml:space="preserve">
-    <value/>
+    <value>No puedes realizar llamadas privadas mientras estás en una sala </value>
   </data>
   <data name="LRNext" xml:space="preserve">
-    <value/>
+    <value>Siguiente</value>
   </data>
   <data name="LRSelMinimumLevel" xml:space="preserve">
-    <value/>
+    <value>Seleccionar nivel mínimo</value>
   </data>
 </root>

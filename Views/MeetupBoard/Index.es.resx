@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -172,10 +173,10 @@
     <value>Hay quedadas en este momento para hablar en cualquiera de tus idiomas. Asiste a una quedada existente en lugar de crear una nueva.</value>
   </data>
   <data name="MyMeetups" xml:space="preserve">
-    <value>Mis Quedadas</value>
+    <value>Mis quedadas</value>
   </data>
   <data name="NewMeetup" xml:space="preserve">
-    <value>Nueva Quedada</value>
+    <value>Nueva quedada</value>
   </data>
   <data name="NextPrevMeetups" xml:space="preserve">
     <value>Anteriores y siguientes quedadas</value>

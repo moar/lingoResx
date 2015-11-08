@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -194,22 +195,22 @@
     <value>Dimensione massima</value>
   </data>
   <data name="MeetupReminder" xml:space="preserve">
-    <value>Avviso di Appuntamento</value>
+    <value>Avviso di appuntamento</value>
   </data>
   <data name="MinimumSize" xml:space="preserve">
     <value>Dimensione minima è {0}</value>
   </data>
   <data name="MyLanguages" xml:space="preserve">
-    <value>Le mie lingue</value>
+    <value>Le mie Lingue</value>
   </data>
   <data name="NamePH" xml:space="preserve">
     <value>Scrivi il tuo nome</value>
   </data>
   <data name="NewMeetupParticipant" xml:space="preserve">
-    <value>Nuovi partecipanti nell'Appuntamento</value>
+    <value>Nuovi partecipanti nell'appuntamento</value>
   </data>
   <data name="NoAcitivity" xml:space="preserve">
-    <value>Tuttavia Nessuna attività</value>
+    <value>Tuttavia nessuna attività</value>
   </data>
   <data name="NoFile" xml:space="preserve">
     <value>Nessun file caricato</value>
