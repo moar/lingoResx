@@ -61,7 +61,16 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;#&quot;&gt;&lt;strong&gt;meetup board&lt;/strong&gt;&lt;/a&gt;.
+        ///   Looks up a localized string similar to About.
+        /// </summary>
+        public static string About {
+            get {
+                return ResourceManager.GetString("About", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;a href=&quot;/MeetupBoard&quot; class=&quot;link&quot;&gt;&lt;strong&gt;meetup board&lt;/strong&gt;&lt;/a&gt;.
         /// </summary>
         public static string Board {
             get {
@@ -124,7 +133,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next Meetups.
+        ///   Looks up a localized string similar to Next meetups.
         /// </summary>
         public static string IndNextMeetups {
             get {
@@ -142,7 +151,8 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Privacy - Langademy.
+        ///   Looks up a localized string similar to Privacy
+        ///.
         /// </summary>
         public static string IndPrivacy {
             get {
@@ -160,7 +170,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Terms and Conditions - Langademy.
+        ///   Looks up a localized string similar to Terms and Conditions.
         /// </summary>
         public static string IndTerms {
             get {
@@ -223,6 +233,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Participants.
+        /// </summary>
+        public static string Participants {
+            get {
+                return ResourceManager.GetString("Participants", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Speak in your native language and we will give you the same time so you can practice other languages.
         /// </summary>
         public static string SpeakNative {
@@ -232,7 +251,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Visit Langademy.
+        ///   Looks up a localized string similar to Visit Langademy!.
         /// </summary>
         public static string Visit {
             get {
