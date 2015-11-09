@@ -71,6 +71,78 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Entra al Language Roulette, elige el idioma que quieras y comienza a practicar por videoconferencia. Langademy te emparejará con un compañero del nivel que necesites..
+        /// </summary>
+        public static string HelpAssistanteStep1F1 {
+            get {
+                return ResourceManager.GetString("HelpAssistanteStep1F1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lo más fácil para coincidir con más gente en el Language Roulette es organizar quedadas en el Tablón de quedadas o apuntarte a las que ya haya..
+        /// </summary>
+        public static string HelpAssistanteStep1F2 {
+            get {
+                return ResourceManager.GetString("HelpAssistanteStep1F2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to El intercambio de idiomas de Langademy se basa en el &lt;strong&gt;Banco de Tiempo:&lt;/strong&gt;.
+        /// </summary>
+        public static string HelpAssistanteStep2F1 {
+            get {
+                return ResourceManager.GetString("HelpAssistanteStep2F1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando horas de tu Banco de Tiempo. En cambio, si enseñas a alguien un idioma que dominas (nivel C2 o nativo), ganarás tiempo para tu cuenta..
+        /// </summary>
+        public static string HelpAssistanteStep2F2 {
+            get {
+                return ResourceManager.GetString("HelpAssistanteStep2F2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Comenzarás con 5 horas, y cada mes Langademy te regalará dos horas adicionales..
+        /// </summary>
+        public static string HelpAssistanteStep2F3 {
+            get {
+                return ResourceManager.GetString("HelpAssistanteStep2F3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to En Langademy puedes hacer videollamadas con tus contactos y controlar el idioma que vayas a practicar..
+        /// </summary>
+        public static string HelpAssistanteStep3F1 {
+            get {
+                return ResourceManager.GetString("HelpAssistanteStep3F1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tu estado muestra los idiomas que hayas completado en tu perfil. Cuando habilitas o deshabilitas un idioma en tu estado, tus contactos sabrán que solo quieres recibir llamadas para hablar en los idiomas habilitados..
+        /// </summary>
+        public static string HelpAssistanteStep3F2 {
+            get {
+                return ResourceManager.GetString("HelpAssistanteStep3F2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu Banco de Tiempo..
+        /// </summary>
+        public static string HelpAssistanteStep3F3 {
+            get {
+                return ResourceManager.GetString("HelpAssistanteStep3F3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Help.
         /// </summary>
         public static string HelpString {
@@ -89,7 +161,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Get in the Langroulette, select a room and start speaking your favourite language! We will find a match for you!.
+        ///   Looks up a localized string similar to The Language Roulette is the place where you can get when you want to practice a language. Select a room and start practicing your favourite langauge! We will find a match for you! Remember that you can check the meeting board to know when will the Language Roulette meetings take place..
         /// </summary>
         public static string LangrouletteIntro {
             get {
