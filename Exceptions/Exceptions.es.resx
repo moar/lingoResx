@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -136,7 +137,7 @@
     <value>Fecha inválida</value>
   </data>
   <data name="InvalidUserLanguageException" xml:space="preserve">
-    <value>Nombre de usuario inválido</value>
+    <value>Idioma inválido</value>
   </data>
   <data name="LanguageNotFoundException" xml:space="preserve">
     <value>Idioma no encontrado</value>
@@ -154,7 +155,7 @@
     <value>Sala no encontrada</value>
   </data>
   <data name="SelfFriendShipException" xml:space="preserve">
-    <value>No puedes realizar una solicitud de contacto a ti mismo</value>
+    <value>No puedes enviarte una solicitud de contacto a ti mismo</value>
   </data>
   <data name="UserNotFoundException" xml:space="preserve">
     <value>Usuario no encontrado</value>

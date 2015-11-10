@@ -92,6 +92,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -156,7 +157,7 @@
     <value>Chat</value>
   </data>
   <data name="HoursBagIntro" xml:space="preserve">
-    <value>When you practice a language that it is not your native language, you will we spending time from the time bank. And if you speak to a non-native in your native language, you will be rewarded with time for your time bank.</value>
+    <value>When you make a videocall in a language that is not your native language, you spend time from your Time Bank account. And if you speak to a non-native in your native language, you will be rewarded with time for your account.</value>
   </data>
   <data name="ConfigurationIntro" xml:space="preserve">
     <value>Account quick set up</value>

@@ -73,6 +73,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -132,8 +133,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langademy provides a unique way to meet native speakers and create tandems by using web videochat technology, the Language Roulette.  You don’t have to worry about anything, just select the language you want to practice, and we will find you a match.<br />
-                                What if no one is available when you get in? No worries, you can create meetups to let the others know when you will be available to chat, or you can check the existing meetups in the meetup board.]]></value>
+    <value><![CDATA[Langademy provides a unique way to meet native speakers and exchange languages by videonferencing: the Language Roulette.  You don’t have to worry about anything, just select the language you want to practice, and we will find you a conversation partner.<br />
+                                What if no one is available when you get in? No worries, you can create meetups to let the others know when you will be available to chat, or you can join the existing meetups in the meetup board.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
     <value>Langademy is an online language exchange community where you can practice foreign languages with natives all over the world. Listening to native speakers in natural contexts will help you to improve your listening and you will learn the unique sounds of a language. Likewise, you will improve your speaking abilities. You will get new vocabulary, phrases, and native speakers will be able to correct you.</value>
@@ -145,7 +146,7 @@
     <value>Timebanking</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
-    <value>Timebanking is a way to make language exchange profiltable for everyone. If you share your native language with other Langademy users, we will give you the same time so you can practice other languages. When you practice a language that is not your native language, you will be spending time from the Time Bank. And if you speak to a non-native in your native language, you will be rewarded with time for your time bank. You will start will 5 hours, and each month, we will give you {0} free extra hours for your Time Bank.</value>
+    <value>Timebanking is a way to make language exchange fair for everyone. If you share your native language with other Langademy users, you earn the same time for practicing other languages in your Time Bank account. And when you practice a language that is not your native language, you spend time from your account. You will start with 5 hours, and every month, you will receive a free recharge of {0} extra hours.</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
     <value>Learn languages and get fluent with Langademy</value>

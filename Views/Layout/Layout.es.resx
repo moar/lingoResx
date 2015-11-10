@@ -93,6 +93,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -153,7 +154,7 @@
   </resheader>
   
   <data name="Description" xml:space="preserve">
-    <value>Langademy es una red social para aprender idiomas. Ofrece intercambio de idiomas con nativos de todo el mundo para que la gente pueda conseguir fluidez en un idioma.</value>
+    <value>Langademy es una red social para aprender idiomas. Ofrece un espacio de intercambio de idiomas con nativos de todo el mundo para ayudar a la gente a mejorar su fluidez en un idioma.</value>
   </data>
   <data name="Keywords" xml:space="preserve">
     <value>aprender idiomas, intercambio de idiomas, mejorar fluidez, practicar Inglés, practicar idiomas, nativos, mejorar idioma</value>
@@ -162,7 +163,7 @@
     <value>Acerca de Langademy</value>
   </data>
   <data name="LRDescription" xml:space="preserve">
-    <value>En Language Roulette encontrarás nuevos compañeros de intercambio para el idioma que quieras aprender. ¡Mejora tu nivel mientras conoces a nueva gente!</value>
+    <value>En Language Roulette encontrarás nuevos compañeros de intercambio de los idiomas que quieras aprender. ¡Mejora tu nivel mientras conoces gente nueva!</value>
   </data>
   <data name="LRKeywords" xml:space="preserve">
     <value>language roulette, intercambio de idiomas,practica idioma, tándem, fluidez idioma</value>

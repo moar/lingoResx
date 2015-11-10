@@ -72,6 +72,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -181,7 +182,7 @@
     <value>Se requiere idioma</value>
   </data>
   <data name="LanguagesDesc" xml:space="preserve">
-    <value>Elige los idiomas que quieres usar en Langademy</value>
+    <value>Elige los idiomas que quieres practicar en Langademy</value>
   </data>
   <data name="LanguagesTitle" xml:space="preserve">
     <value>Idiomas</value>

@@ -92,6 +92,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -156,7 +157,7 @@
     <value>Chat</value>
   </data>
   <data name="HoursBagIntro" xml:space="preserve">
-    <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando horas de tu Banco de Tiempo. En cambio, si ayudas a alguien que está aprendiendo tu idioma nativo, serás premiado con tiempo para tu Banco de Tiempo.</value>
+    <value>Cuando hagas una videollamada en un idioma que no sea tu idioma nativo, gastas tiempo de tu cuenta del Banco de Tiempo. En cambio, si ayudas a alguien que está aprendiendo tu idioma nativo, serás premiado con tiempo para tu cuenta.</value>
   </data>
   <data name="ConfigurationIntro" xml:space="preserve">
     <value>Configura tu cuenta rápidamente</value>
@@ -171,7 +172,7 @@
     <value>Invita Amigos</value>
   </data>
   <data name="MeetupBoardIntro" xml:space="preserve">
-    <value>¡Crea quedadas para practicar el idioma que quieras!</value>
+    <value>¡Organiza quedadas para practicar el idioma que quieras!</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>Perfil</value>

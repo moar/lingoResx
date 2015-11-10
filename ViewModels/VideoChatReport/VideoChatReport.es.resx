@@ -79,6 +79,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -141,10 +142,10 @@
     <value>¿Te ha gustado conversar con {0}?</value>
   </data>
   <data name="NoCostNatives" xml:space="preserve">
-    <value>Las llamadas entre nativos no tienen coste para ti</value>
+    <value>Las llamadas entre nativos no tienen coste</value>
   </data>
   <data name="NoCostNoNatives" xml:space="preserve">
-    <value>Las llamadas entre usuarios que no son nativos no tienen coste para ti</value>
+    <value>Las llamadas entre usuarios que no son nativos no tienen coste</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
     <value>Has finalizado la llamada</value>
@@ -156,9 +157,9 @@
     <value>Hablar en un idioma no nativo con un compañero nativo tiene coste para ti</value>
   </data>
   <data name="VCNoMinimunTime" xml:space="preserve">
-    <value>Las llamadas que son más cortas de un minuto no tienen coste para ti</value>
+    <value>Las llamadas que duren menos de un minuto no tienen coste</value>
   </data>
   <data name="VCShowYourLang" xml:space="preserve">
-    <value>Hablar en tu idioma a un compañero que tiene menor nivel que tú añade tiempo a tu Banco de Tiempo </value>
+    <value>Hablar en tu idioma a un compañero que tiene menor nivel que tú añade tiempo a tu cuenta </value>
   </data>
 </root>

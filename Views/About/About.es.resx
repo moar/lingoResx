@@ -73,6 +73,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -132,8 +133,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langademy ofrece una manera única de conocer hablantes nativos y de crear tandems usando el Language Roulette, una herramienta web para videoconferencias. No tienes que preocuparte de nada, tan solo tienes que elegir el idioma que quieres practicar, y nosotros te encontraremos un compañero que se ajuste a tus necesidades.<br/>
-¿Y si no hay nadie disponible cuando lo necesites? No te preocupes, puedes crear quedadas para que el resto de usuarios sepan cuando estarás disponible, o puedes ver las quedadas que han sido creadas por otros usuarios en el Tablón de quedadas.]]></value>
+    <value><![CDATA[Langademy ofrece una manera única de conocer hablantes nativos y de intercambiar idiomas por videoconferencia: el Language Roulette. No tienes que preocuparte de nada, tan solo tienes que elegir el idioma que quieres practicar, y nosotros te encontraremos un compañero que se ajuste a tus necesidades.<br/>
+¿Y si no hay nadie disponible cuando lo necesites? No te preocupes, puedes organizar quedadas para que el resto de usuarios sepan cuando estarás disponible, o puedes apuntarte a las quedadas que hayan organizado otros usuarios en el Tablón de quedadas.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
     <value>Langademy es una comunidad online de intercambio de idiomas donde puedes practicar idiomas con nativos de todo el mundo. Escuchar a nativos en un contexto natural te ayudará a mejorar tu compresión y interiorizarás los sonidos únicos que tiene cada idioma. Asimismo, mejoraras tu fluidez al hablar. Aprenderás nuevas palabras, frases, y los hablantes nativos podrán corregirte mientras conversáis.</value>
@@ -145,7 +146,7 @@
     <value>Banco de Tiempo</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
-    <value>El Banco de Tiempo es un concepto que permite que el intercambio de idiomas sea rentable para todo el mundo. Si compartes tu idioma nativo con otros usuarios de Langademy, te daremos tiempo para que puedas practicar otros idiomas. Y si practicas un idiomas que no es tu idioma nativo, estarás gastando el tiempo de tu Banco de Tiempo. Empezarás con 5 horas, y cada mes te regalaremos {0} horas para tu cuenta.</value>
+    <value>El Banco de Tiempo es la forma que permite que el intercambio de idiomas en Langademy sea justo para todos. Si compartes tu idioma nativo con otros usuarios de Langademy, te ganarás el mismo tiempo que les dediques para practicar otros idiomas en tu cuenta del Banco de Tiempo. Y si practicas un idioma que no es tu idioma nativo, estarás gastando el tiempo de tu cuenta. Empezarás con 5 horas, y cada mes recibirás una recarga gratuita de {0} horas adicionales.</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
     <value>Aprende idiomas y mejora tu nivel con Langademy</value>

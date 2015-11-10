@@ -74,6 +74,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -139,7 +140,7 @@
     <value>La dirección de correo electrónico ya está en uso</value>
   </data>
   <data name="ExternalLoginRemoved" xml:space="preserve">
-    <value>Se ha borrado el login externo</value>
+    <value>Login externo eliminado</value>
   </data>
   <data name="InvalidUserPw" xml:space="preserve">
     <value>Usuario o contraseña incorrectos.</value>
@@ -151,9 +152,9 @@
     <value>El usuario no existe o no está confirmado</value>
   </data>
   <data name="PwChanged" xml:space="preserve">
-    <value>Tu constraseña ha sido cambiada.</value>
+    <value>Tu contraseña ha sido actualizada.</value>
   </data>
   <data name="PwSet" xml:space="preserve">
-    <value>Tu contraseña se ha establecido.</value>
+    <value>Tu contraseña se ha guardado.</value>
   </data>
 </root>

@@ -75,6 +75,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -134,7 +135,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DesktopState" xml:space="preserve">
-    <value>Langademy te permite hacer videollamadas con las personas que tienes en tu lista de contactos, y tu estado muestra los idiomas que tienes establecidos en tu perfil. Cuando habilitas o deshabilitas un idioma en tu estado, tus contactos sabrán que solo quieres recibir llamadas para hablar en los idiomas habilitados. Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu Banco de Tiempo.</value>
+    <value>Langademy te permite hacer videollamadas con tus contactos especificando el idioma de la conversación. Cuando entras en Langademy puedes utilizar tu estado para hacer saber a tus contactos en que idiomas quieres hablar. Si no quieres recibir ninguna llamada, cambia tu estado a ocupado. Y recuerda que las videollamadas pueden afectar a tu saldo en el Banco de Tiempo.</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
     <value>Entra al Language Roulette, elige el idioma que quieras y comienza a practicar por videoconferencia. Langademy te emparejará con un compañero del nivel que necesites.</value>
@@ -146,7 +147,7 @@
     <value><![CDATA[El intercambio de idiomas de Langademy se basa en el <strong>Banco de Tiempo:</strong>]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
-    <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando horas de tu Banco de Tiempo. En cambio, si enseñas a alguien un idioma que dominas (nivel C2 o nativo), ganarás tiempo para tu cuenta.</value>
+    <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando horas de tu cuenta del Banco de Tiempo. En cambio, si enseñas a alguien un idioma que dominas (nivel C2 o nativo), ganarás tiempo para tu cuenta.</value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
     <value>Comenzarás con 5 horas, y cada mes Langademy te regalará dos horas adicionales.</value>
@@ -158,7 +159,7 @@
     <value>Tu estado muestra los idiomas que hayas completado en tu perfil. Cuando habilitas o deshabilitas un idioma en tu estado, tus contactos sabrán que solo quieres recibir llamadas para hablar en los idiomas habilitados.</value>
   </data>
   <data name="HelpAssistanteStep3F3" xml:space="preserve">
-    <value>Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu Banco de Tiempo.</value>
+    <value>Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu cuenta del Banco de Tiempo.</value>
   </data>
   <data name="HelpString" xml:space="preserve">
     <value>Ayuda</value>
@@ -167,7 +168,7 @@
     <value>Estado Langademy</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>El Language Roulette es el espacio donde se reúnen las personas que desean practicar un idioma. Selecciona una sala y ¡comienza a practicar tu idioma favorito! ¡Nosotros nos encargaremos de emparejarte! Recuerda que puedes consultar el tablón de quedadas para saber cuándo tendrán lugar las quedadas del Language Roulette.</value>
+    <value>El Language Roulette es el espacio donde se encuentran la gente que quiere intercambiar idiomas. Selecciona una sala y ¡comienza a practicar tu idioma favorito! ¡Nosotros nos encargaremos de emparejarte! Recuerda que puedes consultar el tablón de quedadas para saber cuándo tendrán lugar las quedadas del Language Roulette.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>El Banco de Tiempo es un concepto para que con el intercambio de idiomas todos salgan ganando. Éste es su funcionamiento:</value>
@@ -176,13 +177,13 @@
     <value>Comenzarás con 5 horas, y cada mes Langademy te regalará {0} horas adicionales.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
-    <value>Por defecto, no serás capaz de acumular más de 10 horas en tu Banco de Tiempo.</value>
+    <value>Por defecto, no podrás acumular más de 10 horas en tu Banco de Tiempo.</value>
   </data>
   <data name="TimeBankF3" xml:space="preserve">
     <value>Invita a tus amigos y obtendrás 30 minutos adicionales por cada amigo que se registre con tu invitación. También puedes ganar horas para el Banco de Tiempo siguiéndonos en Twitter y Facebook (+ 60 minutos).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando tiempo the tu banco de tiempo. En cambio, si enseñas un idioma que dominas (nivel mínimo C2) a otro usuario, ese tiempo será añadido a tu cuenta.</value>
+    <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando tiempo de tu cuenta del Banco de Tiempo. En cambio, si enseñas un idioma que dominas (nivel mínimo: C2) a otro usuario, se sumará ese tiempo a tu cuenta.</value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Banco de Tiempo</value>

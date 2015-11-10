@@ -89,6 +89,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -304,7 +305,7 @@
     <value>isiZulu</value>
   </data>
   <data name="af" xml:space="preserve">
-    <value>Afrikaans</value>
+    <value>Afrikáans</value>
   </data>
   <data name="ka" xml:space="preserve">
     <value>Georgiano</value>
@@ -340,7 +341,7 @@
     <value>Turcomano</value>
   </data>
   <data name="uz" xml:space="preserve">
-    <value>Uzbek</value>
+    <value>Uzbeko</value>
   </data>
   <data name="tt" xml:space="preserve">
     <value>Tártaro</value>
@@ -535,7 +536,7 @@
     <value>Sami (meridional)</value>
   </data>
   <data name="uz-Cyrl" xml:space="preserve">
-    <value>Uzbek (cirílico)</value>
+    <value>Uzbeko (cirílico)</value>
   </data>
   <data name="mn-Cyrl" xml:space="preserve">
     <value>Mongol (cirílico)</value>
@@ -562,7 +563,7 @@
     <value>Sami (lule)</value>
   </data>
   <data name="uz-Latn" xml:space="preserve">
-    <value>Uzbek (latino)</value>
+    <value>Uzbeko (latino)</value>
   </data>
   <data name="mn-Mong" xml:space="preserve">
     <value>Mongol (mongol tradicional)</value>
@@ -595,7 +596,7 @@
     <value>Español</value>
   </data>
   <data name="eu-ES" xml:space="preserve">
-    <value>Vasco</value>
+    <value>Euskara</value>
   </data>
   <data name="fr-FR" xml:space="preserve">
     <value>Francés</value>

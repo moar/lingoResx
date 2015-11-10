@@ -72,6 +72,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -212,7 +213,7 @@
     <value>Configuración</value>
   </data>
   <data name="TimeBalance" xml:space="preserve">
-    <value>Balance de horas</value>
+    <value>Saldo de horas</value>
   </data>
   <data name="TimeBank" xml:space="preserve">
     <value>Banco de Tiempo</value>
@@ -227,7 +228,7 @@
     <value>Saltar</value>
   </data>
   <data name="DesktSugUsCheckMeets" xml:space="preserve">
-    <value>¡Revisa sus próximas quedadas!</value>
+    <value>¡Comprueba sus próximas quedadas!</value>
   </data>
   <data name="DeskSugsUsActivity" xml:space="preserve">
     <value>Mira su actividad reciente</value>

@@ -91,6 +91,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -153,10 +154,10 @@
     <value>{0} is busy right now. Try later</value>
   </data>
   <data name="CalleeNoChatHours" xml:space="preserve">
-    <value>{0} does not have enough chat hours to speak with you</value>
+    <value>{0} does not have enough time balance in the Time Bank</value>
   </data>
   <data name="CalleeNoWebrtc" xml:space="preserve">
-    <value>{0} does not have support for video calls.</value>
+    <value>{0}'s browser doesn't support video calls.</value>
   </data>
   <data name="CalleeOffline" xml:space="preserve">
     <value>{0} is not connected now</value>
@@ -177,12 +178,12 @@
     <value>{0} does not want to speak in this language. Try it later.</value>
   </data>
   <data name="LanguageNotInOwnList" xml:space="preserve">
-    <value>You do not have this language in your language list. Try calling with one of your languages!</value>
+    <value>You do not have this language in your profile. Try calling with one of your languages!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[You can't make calls, you don't have more chat hours. <a href="{0}" class="applnk link" data-app="HoursBagApp"> Check your Time Bank</a> ]]></value>
+    <value><![CDATA[You can't make calls, you don't have more time balance. <a href="{0}" class="applnk link" data-app="HoursBagApp"> Check your Time Bank</a> ]]></value>
   </data>
   <data name="NotFriends" xml:space="preserve">
-    <value>You can't call {0}, you are not connected</value>
+    <value>You can't call {0}: you are not connected</value>
   </data>
 </root>

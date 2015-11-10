@@ -91,6 +91,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -156,7 +157,7 @@
     <value>{0}-k ez du zurekin hitz egiteko denbora nahikorik bere denbora bankuan</value>
   </data>
   <data name="CalleeNoWebrtc" xml:space="preserve">
-    <value>{0}-k ez du bideo deietarako zerbitzurik</value>
+    <value>{0}-(r)en nabigatzaileak ez du bideo deirik onartzen</value>
   </data>
   <data name="CalleeOffline" xml:space="preserve">
     <value>{0} ez dago konektatuta momentu honetan</value>
@@ -183,6 +184,6 @@
     <value><![CDATA[Ezin duzu deirik egin, ez duzu denborarik zure kontuan. <a href="{0}" class="applnk" data-app="HoursBagApp"> Kontsultatu ezazu zure denbora bankua </a>]]></value>
   </data>
   <data name="NotFriends" xml:space="preserve">
-    <value>Ezin duzu {0} deitu, ez zaude konektaturik</value>
+    <value>Ezin duzu {0} deitu: ez zaudete konektaturik</value>
   </data>
 </root>

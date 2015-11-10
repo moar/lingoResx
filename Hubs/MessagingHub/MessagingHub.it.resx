@@ -91,6 +91,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -153,10 +154,11 @@
     <value>{0} è occupato in questo momento. Prova più tardi</value>
   </data>
   <data name="CalleeNoChatHours" xml:space="preserve">
-    <value>{0} non ha abbastanza ore di chat per parlare con te</value>
+    <value>{0} non ha saldo sufficiente nella sua Banca di Tempo per parlare con te
+</value>
   </data>
   <data name="CalleeNoWebrtc" xml:space="preserve">
-    <value>{0} non ha supporto per le videochiamate.</value>
+    <value>Il browser di {0} non supporta le chiamate-video.</value>
   </data>
   <data name="CalleeOffline" xml:space="preserve">
     <value>{0} non è connesso in questo memomento</value>

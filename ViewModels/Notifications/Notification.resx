@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -125,7 +126,7 @@
     <value>and you are connected now</value>
   </data>
   <data name="FriendJoined" xml:space="preserve">
-    <value><![CDATA[<a href="{0}" class="link">{1}</a> joined Langademy. You earned 30 minutes for your Time Bank!]]></value>
+    <value><![CDATA[<a href="{0}" class="link">{1}</a> joined Langademy. You earned 30 minutes for your Time Bank account!]]></value>
   </data>
   <data name="FriendRequest" xml:space="preserve">
     <value>Connection request</value>

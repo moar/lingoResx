@@ -79,6 +79,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -141,10 +142,10 @@
     <value>Did you like chatting with {0} ?</value>
   </data>
   <data name="NoCostNatives" xml:space="preserve">
-    <value>Calls between natives have no cost for you</value>
+    <value>Calls between natives have no cost</value>
   </data>
   <data name="NoCostNoNatives" xml:space="preserve">
-    <value>Calls between non-native speakers have no cost for you</value>
+    <value>Calls between non-native speakers have no cost</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
     <value>You have finished the call</value>
@@ -159,6 +160,6 @@
     <value>Calls that are shorter than a minute have no cost</value>
   </data>
   <data name="VCShowYourLang" xml:space="preserve">
-    <value>Speaking in your language to a partner that has lower level than you gives you additional time</value>
+    <value>Speaking in your language to a partner that has lower level than you adds time to your account</value>
   </data>
 </root>

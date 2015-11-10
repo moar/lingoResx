@@ -75,6 +75,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -143,7 +144,7 @@
     <value>Resumen de la llamada</value>
   </data>
   <data name="CurrentTimeBalance" xml:space="preserve">
-    <value>Balance de horas actual</value>
+    <value>Saldo de horas actual</value>
   </data>
   <data name="HoursBagEarning" xml:space="preserve">
     <value>Ganancia para el Banco de Tiempo</value>
@@ -161,7 +162,7 @@
     <value>{0} no contesta</value>
   </data>
   <data name="PrevTime" xml:space="preserve">
-    <value>Balance de tiempo anterior</value>
+    <value>Saldo de tiempo anterior</value>
   </data>
   <data name="ReportLang" xml:space="preserve">
     <value>Idioma</value>

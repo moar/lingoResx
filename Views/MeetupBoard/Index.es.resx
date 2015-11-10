@@ -72,6 +72,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -162,16 +163,16 @@
     <value>Invitar Contactos</value>
   </data>
   <data name="InviteContactsDesc" xml:space="preserve">
-    <value>Selecciona los contactos que deseas invitar a esta quedada</value>
+    <value>Selecciona los contactos que quieres invitar a esta quedada</value>
   </data>
   <data name="MeetupHasStarted" xml:space="preserve">
-    <value>Solo te puedes unir a una quedada antes de su hora de inicio</value>
+    <value>Solo te puedes apuntar a una quedada antes de su hora de inicio</value>
   </data>
   <data name="MeetupBoard" xml:space="preserve">
     <value>Tablón de Quedadas</value>
   </data>
   <data name="MeetupsAllUserLanguages" xml:space="preserve">
-    <value>Hay quedadas en este momento para hablar en cualquiera de tus idiomas. Asiste a una quedada existente en lugar de crear una nueva.</value>
+    <value>Hay quedadas organizadas a esta hora para hablar en cualquiera de tus idiomas. Asiste a una quedada existente en lugar de crear una nueva.</value>
   </data>
   <data name="MyMeetups" xml:space="preserve">
     <value>Mis quedadas</value>
@@ -195,13 +196,13 @@
     <value>Hora de inicio</value>
   </data>
   <data name="StartTimeMin" xml:space="preserve">
-    <value>No se puede programar una quedada antes de la hora actual</value>
+    <value>No se puede organizar una quedada antes de la hora actual</value>
   </data>
   <data name="Time" xml:space="preserve">
     <value>Hora</value>
   </data>
   <data name="UserHasNotLanguage" xml:space="preserve">
-    <value>Sólo puedes programar quedadas para tus idiomas</value>
+    <value>Sólo puedes organizar quedadas para tus idiomas</value>
   </data>
   <data name="UserNoLanguages" xml:space="preserve">
     <value>Necesitas completar tu lista de idiomas en tu perfil antes de organizar una quedada</value>
@@ -213,7 +214,7 @@
     <value>Has confirmado la asistencia a otra quedada a la misma hora</value>
   </data>
   <data name="StartTimeMax" xml:space="preserve">
-    <value>Sólo puedes programar quedadas que comienzan en un plazo de 15 días</value>
+    <value>Sólo puedes organizar quedadas que comienzan en un plazo de 15 días</value>
   </data>
   <data name="ConfirmInvitations" xml:space="preserve">
     <value>{0} invitaciones enviadas con éxito</value>

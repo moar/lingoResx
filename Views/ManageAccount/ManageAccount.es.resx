@@ -93,6 +93,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -152,7 +153,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CheckEmail" xml:space="preserve">
-    <value>Por favor revisa tu correo electrónico para restablecer su contraseña</value>
+    <value>Por favor revisa tu correo electrónico para restablecer tu contraseña</value>
   </data>
   <data name="EmailLink" xml:space="preserve">
     <value>Enviar enlace al correo</value>

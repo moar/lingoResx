@@ -91,6 +91,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -291,7 +292,7 @@
     <value>Chile</value>
   </data>
   <data name="CM" xml:space="preserve">
-    <value>Cameroom</value>
+    <value>Camerún</value>
   </data>
   <data name="CN" xml:space="preserve">
     <value>China</value>
@@ -474,7 +475,7 @@
     <value>Irak</value>
   </data>
   <data name="IR" xml:space="preserve">
-    <value>Iran</value>
+    <value>Irán</value>
   </data>
   <data name="IS" xml:space="preserve">
     <value>Islandia</value>
@@ -525,7 +526,7 @@
     <value>Islas Caimán</value>
   </data>
   <data name="KZ" xml:space="preserve">
-    <value>Kazajstán</value>
+    <value>Kazajistán</value>
   </data>
   <data name="LA" xml:space="preserve">
     <value>Laos</value>
@@ -537,7 +538,7 @@
     <value>Santa Lucía</value>
   </data>
   <data name="LI" xml:space="preserve">
-    <value>Liechtestein</value>
+    <value>Liechtenstein</value>
   </data>
   <data name="LK" xml:space="preserve">
     <value>Sri Lanka</value>
@@ -675,7 +676,7 @@
     <value>Perú</value>
   </data>
   <data name="PF" xml:space="preserve">
-    <value>Polinesia francés</value>
+    <value>Polinesia francesa</value>
   </data>
   <data name="PG" xml:space="preserve">
     <value>Papúa Nueva Guinea</value>

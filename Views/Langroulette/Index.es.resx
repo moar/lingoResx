@@ -64,6 +64,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -123,13 +124,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AlreadyInRoom" xml:space="preserve">
-    <value>Ya estás en otra habitación. ¿Estás seguro de que quieres unirte a esta sala? Si aceptas, serás desconectado de la otra sala.</value>
+    <value>Ya estás en otra sala. ¿Estás seguro de que quieres unirte a ésta? Si aceptas, te desconectarás de la otra.</value>
   </data>
   <data name="HideNonCandidates" xml:space="preserve">
-    <value>Ocultar usuarios que no cumplen con el filtro</value>
+    <value>Ocultar usuarios que no cumplen el filtro</value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[Necesitas completar la ubicación en tu perfil antes de poder entrar en una sala.</br><a class="applnk link" href="{0}" data-app="ProfileApp">Ir a mi perfil</a>]]></value>
+    <value><![CDATA[Tienes que completar tu ubicación en tu perfil antes de poder entrar en una sala.</br><a class="applnk link" href="{0}" data-app="ProfileApp">Ir a mi perfil</a>]]></value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Niveles</value>
@@ -150,7 +151,7 @@
     <value>No hay ningún usuario que cumpla tu filtro. Cambia el filtro o espera que haya algún usuario disponible</value>
   </data>
   <data name="RememberRooms" xml:space="preserve">
-    <value>¿Tu sala está vacía?¡Mira si hay alguna quedada en el {0}!</value>
+    <value>¿Tu sala está vacía?¡Comprueba si próximamente hay alguna quedada en el {0}!</value>
   </data>
   <data name="SelectRoom" xml:space="preserve">
     <value>Elige una sala y comienza a practicar un idioma</value>
@@ -159,7 +160,7 @@
     <value>Filtro</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[No hay ningún usuario conectado en este momento. ¡Visita el <a href="{0}" target="_blank" class="link">tablón de quedadas</a> para ver si alguien va a unirse!]]></value>
+    <value><![CDATA[No hay ningún usuario conectado en este momento. ¡Visita el <a href="{0}" target="_blank" class="link">tablón de quedadas</a> para ver si alguien va a unirse en breve!]]></value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Escribe aquí</value>
@@ -168,10 +169,10 @@
     <value>Todo el mundo está ocupado. Espera y te encontraremos un compañero tan pronto como sea posible.</value>
   </data>
   <data name="LRFilterTime" xml:space="preserve">
-    <value>Has hablado con todos los compañeros que cumplen con tu requisitos. ¡Espera a nuevos usuarios!</value>
+    <value>Has hablado con todos los compañeros que cumplen con tu filtro. ¡Espera a que entren nuevos usuarios!</value>
   </data>
   <data name="LRNoChatHours" xml:space="preserve">
-    <value>No puedes acceder a esta sala, no tienes más tiempo en tu cuenta. Habla en tu idioma nativo para que puedas ganar más tiempo.</value>
+    <value>No puedes acceder a esta sala, no te queda saldo en tu cuenta del Banco de Tiempo. Dedica a los demás tu tiempo hablando en tu idioma nativo para ganar más tiempo.</value>
   </data>
   <data name="BlockedUserCall" xml:space="preserve">
     <value>No puedes llamar a este usuario</value>

@@ -93,6 +93,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -153,7 +154,7 @@
   </resheader>
   
   <data name="Description" xml:space="preserve">
-    <value>Langademy is a social network to learn languages. It offers language exchange with natives all over the world so people can get fluent in a language. </value>
+    <value>Langademy is a social network to learn languages. It offers a language exchange space with natives all over the world for helping people to get fluent in foreign languages. </value>
   </data>
   <data name="Keywords" xml:space="preserve">
     <value>learn languages, language exchange, get fluent, practice english, practice spanish, practice languages, native speakers, improve language level</value>

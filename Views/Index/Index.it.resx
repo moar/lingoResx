@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,7 +139,7 @@
     <value>Lingue</value>
   </data>
   <data name="IndNextMeetups" xml:space="preserve">
-    <value>Prossimi Appuntamenti</value>
+    <value>Prossimi appuntamenti nell'Language Roulette</value>
   </data>
   <data name="IndParticipants" xml:space="preserve">
     <value>Partecipanti</value>

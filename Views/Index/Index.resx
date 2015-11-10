@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -178,7 +179,7 @@
     <value>Visit Langademy!</value>
   </data>
   <data name="WhenPossible" xml:space="preserve">
-    <value>When you prefer it</value>
+    <value>Whenever it suits you</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
     <value>{0}  is a videochat roulette where you will find native speakers to practice your favourite languages</value>

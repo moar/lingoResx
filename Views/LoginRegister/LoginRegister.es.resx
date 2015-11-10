@@ -72,6 +72,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -132,7 +133,7 @@
   </resheader>
   
   <data name="ClickHere" xml:space="preserve">
-    <value>Clica aquí</value>
+    <value>Haz click aquí</value>
   </data>
   <data name="CompleteRegistration" xml:space="preserve">
     <value>Completa el registro</value>
@@ -150,10 +151,10 @@
     <value><![CDATA[Gracias por confirmar tu cuenta. <a href="{0}" class="link">Clica aquí</a> para loguearte]]></value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
-    <value>Passwod actual</value>
+    <value>Contraseña actual</value>
   </data>
   <data name="ExtLoginCompleteInfo" xml:space="preserve">
-    <value>Por favor, introduce debajo un nombre de usuario para Langademy y haz clic en el botón Registrar para finalizar el registro</value>
+    <value>Por favor, introduce abajo un nombre de usuario para Langademy y haz clic en el botón Registrar para finalizar el registro</value>
   </data>
   <data name="PasswordIsReset" xml:space="preserve">
     <value><![CDATA[Tu contraseña ha sido restablecida. <a href="{0}" class="link">Clica aquí</a> para loguearte.]]></value>
@@ -162,7 +163,7 @@
     <value>{0} ya está en uso. Por favor, accede con tu cuenta de Langademy si deseas vincular tu cuenta con {1}</value>
   </data>
   <data name="ExtLoginSuccess" xml:space="preserve">
-    <value><![CDATA[Te has autenticado satisfactoriamente con <strong>{0}</strong>. ]]></value>
+    <value><![CDATA[Te has autenticado correctamente con <strong>{0}</strong>. ]]></value>
   </data>
   <data name="ResetPassword" xml:space="preserve">
     <value>Restablecer la contraseña</value>
