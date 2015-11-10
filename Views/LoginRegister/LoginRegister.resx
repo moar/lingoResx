@@ -71,6 +71,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -137,7 +138,7 @@
     <value>Complete registration</value>
   </data>
   <data name="EmailConfirmation" xml:space="preserve">
-    <value>Email confirmation</value>
+    <value>Email address confirmation</value>
   </data>
   <data name="ConfirmNewPw" xml:space="preserve">
     <value>Confirm new password</value>
@@ -146,7 +147,7 @@
     <value>Confirm password</value>
   </data>
   <data name="EmailConfirmationSentence" xml:space="preserve">
-    <value><![CDATA[Thank you for confirming your account. Please <a href="{0}" class="link">click here to log in</a>]]></value>
+    <value><![CDATA[Thank you for confirming your account. Please <a href="{0}" class="link">click here</a> to log in]]></value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Current password</value>

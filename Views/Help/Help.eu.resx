@@ -74,6 +74,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -135,6 +136,30 @@
   <data name="DesktopState" xml:space="preserve">
     <value>Langademyk, Langademyko lagunen arteko bideo deiak eskaintzen ditu, eta zure mahagaineko egoerak profilean dituzun hizkuntzak erakusten ditu. Zure egoeran hizkuntzak aktibatu edo desaktibatzen dituzunean, zure lagunei zein hizkuntzatan hitz egin nahi duzun adieraziko diezu. Ez baduzu zure lagunen deirik jaso nahi, lanpetuta egoerara pasa zaitez! Gogoratu ezazu, bideo deiek zure denbora bankuan eragin dezaketela.</value>
   </data>
+  <data name="HelpAssistanteStep1F1" xml:space="preserve">
+    <value>Sartu Language Roulettera, aukeratu nahi duzun hizkuntza eta hasi zaitez bideodei bitartez mintzatzen. Zure beharretara egokitzen den maila duen lagun batekin konektatuko zaitu Langademyk.</value>
+  </data>
+  <data name="HelpAssistanteStep1F2" xml:space="preserve">
+    <value><![CDATA[Language Roulettean jende gehiagorekin bat egiteko modu errezena, <strong>Bilera</strong> zerrendan bilerak sortzea edo existitzen diren bilereten apuntatzea da.]]></value>
+  </data>
+  <data name="HelpAssistanteStep2F1" xml:space="preserve">
+    <value><![CDATA[Langademyko hizkuntza elkartrukea <strong>Denbora bankuan</strong> oinarrituta dago:]]></value>
+  </data>
+  <data name="HelpAssistanteStep2F2" xml:space="preserve">
+    <value>Zure ama hizkuntza ez den hizkuntza bat praktikatzen duzunean, zure Denbora bankuko denbora gastatuko duzu. Aldiz, zuk ongi menderatzen duzun hizkuntza bat (C2 edo Natibo maila) beste batik erakusten badiozu, zure konturako denbora irabaziko duzu.</value>
+  </data>
+  <data name="HelpAssistanteStep2F3" xml:space="preserve">
+    <value>5 ordurekin hasiko zara, eta Langademyk hilero 2 ordu oparituko dizkizu.</value>
+  </data>
+  <data name="HelpAssistanteStep3F1" xml:space="preserve">
+    <value>Langademyn bideo deiak egin ditzakezu zure kontaktuekin praktikatzea nahi duzun hizkuntzan.</value>
+  </data>
+  <data name="HelpAssistanteStep3F2" xml:space="preserve">
+    <value>Zure egoerak zure perfileko hizkuntzak erakusten ditu. Hizkuntza hauetako bat zure egoeran gaitu edo desgaitzen duzunean, zure kontaktuek gaituta dituzun hizkuntzetan soilik mintzatzea nahi duzula jakingo dute.</value>
+  </data>
+  <data name="HelpAssistanteStep3F3" xml:space="preserve">
+    <value>Ez baduzu zure kontaktuen deirik jaso nahi, zure egoera lanpetu egoerara pasa dezakezu. Gogoratu, bideo deiek era zura Denbora Bankuan eragina izan dezaketela.</value>
+  </data>
   <data name="HelpString" xml:space="preserve">
     <value>Laguntza</value>
   </data>
@@ -157,7 +182,7 @@
     <value>Zure lagunak gonbidatu eta 30 minutu oparituko dizkizugu Langademyn izena ematen duen lagun bakoitzeko. Facebook eta Twitterren gure jarraitzeila eginaz ere denbora oparituko dizugu zure denbora bankurako (+60 minutu)</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>Zure ama hizkuntza ez den hizkuntza batean hitz egiten baduzu, zure denbora poltsatik kenduko dizugu denbora hori. Aldiz, ikasle edo hizkuntza bat ama hizkuntza ez duen pertsona batekin zure ama hizkuntzan hitz egiten baduzu, zure denbora bankurako denbora pilatuko duzu.</value>
+    <value>Zure ama hizkuntza ez den hizkuntza batean hitz egiten baduzu, zure denbora poltsatik kenduko dizugu denbora hori. Aldiz, ikasle edo hizkuntza bat ama hizkuntza ez duen pertsona batekin zure ama hizkuntzan (gutxieneko maila C2) hitz egiten baduzu, zure denbora bankurako denbora pilatuko duzu.</value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Denbora bankua</value>

@@ -71,6 +71,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -137,7 +138,7 @@
     <value>Completa el registre </value>
   </data>
   <data name="EmailConfirmation" xml:space="preserve">
-    <value>Confirmació electrònic de correu</value>
+    <value>Confirmació de direcció de correu electrònic</value>
   </data>
   <data name="ConfirmNewPw" xml:space="preserve">
     <value>Confirmar la nova contrasenya </value>
@@ -146,7 +147,7 @@
     <value>Confirma contrasenya</value>
   </data>
   <data name="EmailConfirmationSentence" xml:space="preserve">
-    <value><![CDATA[Gràcies per confirmar el teu compte. <a href="{0}" class="link"> clica aquí </a>to log in]]></value>
+    <value><![CDATA[Gràcies per confirmar el teu compte. <a href="{0}" class="link"> clica aquí </a> per iniciar sessió ]]></value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Contrasenya actual</value>
@@ -155,7 +156,7 @@
     <value>Si us plau, introdueix a sota un nom d'usuari per Langademy i fes clic al botó Registrar per finalitzar el registre</value>
   </data>
   <data name="PasswordIsReset" xml:space="preserve">
-    <value><![CDATA[La teva contrasenya s'ha restablert. Si us plau <a href="{0}" class="link">clica aquí </a>to log in]]></value>
+    <value><![CDATA[La teva contrasenya s'ha restablert. Si us plau <a href="{0}" class="link">clica aquí </a>per iniciar sessió ]]></value>
   </data>
   <data name="ExtLoginEmailInUse" xml:space="preserve">
     <value>{0} ja està en ús. Si us plau, accedeixi amb el teu compte de Langademy si vols vincular el teu compte amb {1}</value>

@@ -92,6 +92,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -172,7 +173,7 @@
     <value>Missatges</value>
   </data>
   <data name="ProfileApp" xml:space="preserve">
-    <value>Editar Perfil</value>
+    <value>Editar perfil</value>
   </data>
   <data name="VisitProfileApp" xml:space="preserve">
     <value>Perfil</value>

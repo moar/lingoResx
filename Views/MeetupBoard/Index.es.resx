@@ -71,6 +71,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -224,7 +225,7 @@
     <value>No se puede invitar a otros usuarios a asistir a una quedada que comienza en menos de {0} horas</value>
   </data>
   <data name="Meetup" xml:space="preserve">
-    <value>!Apúntate a la quedada de {0}!</value>
+    <value>¡Apúntate a la quedada de {0}!</value>
   </data>
   <data name="MBLanguages" xml:space="preserve">
     <value>Idiomas</value>

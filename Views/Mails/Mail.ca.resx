@@ -92,6 +92,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -164,7 +165,7 @@
     <value>Nous participants a la quedada</value>
   </data>
   <data name="MeetupAlerta" xml:space="preserve">
-    <value>Avís de Quedada </value>
+    <value>Avís de quedada </value>
   </data>
   <data name="PasswordRecovery" xml:space="preserve">
     <value>Recupera la teva contrasenya</value>

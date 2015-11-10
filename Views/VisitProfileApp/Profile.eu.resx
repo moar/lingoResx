@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -193,7 +194,7 @@
     <value>Azken astean (minututan)</value>
   </data>
   <data name="ProfNextMeetups" xml:space="preserve">
-    <value>Hurrengo Bilerak</value>
+    <value>Hurrengo bilerak</value>
   </data>
   <data name="ProfRecentAct" xml:space="preserve">
     <value>Azken jarduerak</value>

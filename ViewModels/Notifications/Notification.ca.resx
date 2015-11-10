@@ -62,6 +62,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -124,7 +125,7 @@
     <value>i tu esteu connectats en aquest moment  </value>
   </data>
   <data name="FriendJoined" xml:space="preserve">
-    <value><![CDATA[<a href="{0}" class="link">{1}</a> s'ha unit a Langademy. Has guanyat 30 minuts per a la teu Banc de Temps!]]></value>
+    <value><![CDATA[<a href="{0}" class="link">{1}</a> s'ha unit a Langademy. Has guanyat 30 minuts que van al teu Banc de Temps!]]></value>
   </data>
   <data name="FriendRequest" xml:space="preserve">
     <value>vol contactar amb tu</value>

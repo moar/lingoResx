@@ -78,6 +78,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -158,6 +159,6 @@
     <value>Les trucades de menys d'un minut no tenen cost per a tu</value>
   </data>
   <data name="VCShowYourLang" xml:space="preserve">
-    <value>Parlar en el teu idioma a un company que té menor nivell que tu afegeix temps al teu Banc de Temps</value>
+    <value>Parlar en el teu idioma a un company que té un nivell més baix que tu que tu t'afegeix temps al Banc de Temps</value>
   </data>
 </root>
