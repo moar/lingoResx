@@ -93,6 +93,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -157,7 +158,7 @@
     <value>Xat</value>
   </data>
   <data name="HoursBagIntro" xml:space="preserve">
-    <value>Quan practiques amb un idioma que no sigui al teu idioma natiu, estaràs gastant hores del teu Banc de Temps. En canvi, si ajudes a algú que esta aprenent el teu idioma natiu, seràs premiat amb temps per al teu Banc de Temps.</value>
+    <value>Quan facis una videotrucada amb un idioma que no sigui al teu idioma natiu, gastaràs temps del teu Banc de Temps. En canvi, si ajudes a algú que esta aprenent el teu idioma natiu, seràs premiat amb temps.</value>
   </data>
   <data name="ConfigurationIntro" xml:space="preserve">
     <value>Configura el teu compte ràpidament </value>

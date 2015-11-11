@@ -92,6 +92,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -151,7 +152,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FacebookLike" xml:space="preserve">
-    <value>Facebook atsegin</value>
+    <value>Langademy atsegin</value>
   </data>
   <data name="Joined" xml:space="preserve">
     <value><![CDATA[<a href="/users/{0}">{1}</a>-k Langademyn izena eman du]]></value>
@@ -163,6 +164,6 @@
     <value>Aparteko denbora oparia</value>
   </data>
   <data name="TwitterFollow" xml:space="preserve">
-    <value>Twitter jarraitzea</value>
+    <value>Langademy jarraitzea</value>
   </data>
 </root>

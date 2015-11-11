@@ -80,6 +80,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -139,13 +140,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LikeSentence" xml:space="preserve">
-    <value>{0}(r)ekin txateazea gustatu al zaizu?</value>
+    <value>{0}(r)ekin hitz egitaa gustatu al zaizu?</value>
   </data>
   <data name="NoCostNatives" xml:space="preserve">
-    <value>Natiboen arteko deiek ez dute kosturik zuretzat</value>
+    <value>Natiboen arteko deiek ez dute kosturik</value>
   </data>
   <data name="NoCostNoNatives" xml:space="preserve">
-    <value>Natiboak ez diren erabiltzaileen arteko deiek ez dute kosturik zuretzat</value>
+    <value>Natiboak ez diren erabiltzaileen arteko deiek ez dute kosturik</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
     <value>Deia amaitu duzu</value>
@@ -154,7 +155,7 @@
     <value>{0} -(e)k deia amaitu du</value>
   </data>
   <data name="VCLearnLang" xml:space="preserve">
-    <value>Maila baxua duzun hizkuntza batean natibo batekin hitz egiteak kostua dauka zuretzat</value>
+    <value>Maila baxua duzun hizkuntza batean natibo batekin hitz egiteak kostua dauka</value>
   </data>
   <data name="VCNoMinimunTime" xml:space="preserve">
     <value>Minutu bat baino laburragoak diren deiek ez dute kosturik</value>

@@ -65,6 +65,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -124,7 +125,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AlreadyInRoom" xml:space="preserve">
-    <value>Dagoeneko gela batean sartuta zaude. Ziur zaude gela honetan zartu nahi duzula? Aurrera jarraitzen baduzu beste gelatik aterako zaitugu.</value>
+    <value>Dagoeneko gela batean sartua zaude. Ziur zaude gela honetan sartu nahi duzula? Aurrera jarraitzen baduzu beste gelatik aterako zaitugu.</value>
   </data>
   <data name="HideNonCandidates" xml:space="preserve">
     <value>Ezkutatu zure iragazkiko baldintzak betetzen ez dituztenak</value>
@@ -169,7 +170,7 @@
     <value>Erabiltzaile guztiak lanpetuta daude. Itxaron momentu bat, hizketarako lagun bat topatuko dizugu ahal bezain azkarren!</value>
   </data>
   <data name="LRFilterTime" xml:space="preserve">
-    <value>Zure premietara egokitzen diren guztiekin hitz egin duzu. Itxaro erabailtzaile berriak sar daitezen!</value>
+    <value>Zure premietara egokitzen diren guztiekin hitz egin duzu. Itxaron erabailtzaile berriak sar daitezen!</value>
   </data>
   <data name="LRNoChatHours" xml:space="preserve">
     <value>Ezin zara gela honetara sartu, ez daukazu hizketarako ordu gehiago. Hitz egin ezazu zure hizkuntza natiboan denbora gehiago irabaz dezazun.</value>

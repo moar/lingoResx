@@ -76,6 +76,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -135,19 +136,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DesktopState" xml:space="preserve">
-    <value>Langademyk, Langademyko lagunen arteko bideo deiak eskaintzen ditu, eta zure mahagaineko egoerak profilean dituzun hizkuntzak erakusten ditu. Zure egoeran hizkuntzak aktibatu edo desaktibatzen dituzunean, zure lagunei zein hizkuntzatan hitz egin nahi duzun adieraziko diezu. Ez baduzu zure lagunen deirik jaso nahi, lanpetuta egoerara pasa zaitez! Gogoratu ezazu, bideo deiek zure denbora bankuan eragin dezaketela.</value>
+    <value>Langademyk, Langademyko kontaktuen arteko bideo deiak eskaintzen ditu, deietarako hizkuntza aukeratuz. Langaemyra sartzen zarenean, zure egoera erabili dezakezu zure lagunei zein hizkuntzatan hitz egin nahi duzun adierazteko. Ez baduzu zure lagunen deirik jaso nahi, lanpetuta egoerara pasa zaitez! Gogoratu ezazu, bideo deiek zure denbora bankuan eragin dezaketela.</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
     <value>Sartu Language Roulettera, aukeratu nahi duzun hizkuntza eta hasi zaitez bideodei bitartez mintzatzen. Zure beharretara egokitzen den maila duen lagun batekin konektatuko zaitu Langademyk.</value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
-    <value><![CDATA[Language Roulettean jende gehiagorekin bat egiteko modu errezena, <strong>Bilera</strong> zerrendan bilerak sortzea edo existitzen diren bilereten apuntatzea da.]]></value>
+    <value><![CDATA[Language Roulettean jende gehiagorekin bat egiteko modu errezena, <strong>Bilera taulan</strong>  bilerak sortzea edo existitzen diren bileretara apuntatzea da.]]></value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
     <value><![CDATA[Langademyko hizkuntza elkartrukea <strong>Denbora bankuan</strong> oinarrituta dago:]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
-    <value>Zure ama hizkuntza ez den hizkuntza bat praktikatzen duzunean, zure Denbora bankuko denbora gastatuko duzu. Aldiz, zuk ongi menderatzen duzun hizkuntza bat (C2 edo Natibo maila) beste batik erakusten badiozu, zure konturako denbora irabaziko duzu.</value>
+    <value>Zure ama hizkuntza ez den hizkuntza bat praktikatzen duzunean, zure Denbora bankuko denbora gastatuko duzu. Aldiz, zuk ongi menderatzen duzun hizkuntza bat (C2 edo Natibo maila) beste bati erakusten badiozu, zure konturako denbora irabaziko duzu.</value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
     <value>5 ordurekin hasiko zara, eta Langademyk hilero 2 ordu oparituko dizkizu.</value>
@@ -159,7 +160,7 @@
     <value>Zure egoerak zure perfileko hizkuntzak erakusten ditu. Hizkuntza hauetako bat zure egoeran gaitu edo desgaitzen duzunean, zure kontaktuek gaituta dituzun hizkuntzetan soilik mintzatzea nahi duzula jakingo dute.</value>
   </data>
   <data name="HelpAssistanteStep3F3" xml:space="preserve">
-    <value>Ez baduzu zure kontaktuen deirik jaso nahi, zure egoera lanpetu egoerara pasa dezakezu. Gogoratu, bideo deiek era zura Denbora Bankuan eragina izan dezaketela.</value>
+    <value>Ez baduzu zure kontaktuen deirik jaso nahi, zure egoera lanpetu egoerara pasa dezakezu. Gogoratu, bideo deiek era zure Denbora Bankuan eragina izan dezaketela.</value>
   </data>
   <data name="HelpString" xml:space="preserve">
     <value>Laguntza</value>
@@ -168,16 +169,16 @@
     <value>Langademy egoera</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>Language Roulettea zure hizkuntza gogokoenak praktika ditzakezun tokia da. Aukeratu gela bat eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Hitz egiteko lagun bat aukeratuko dizugu! Gogoratu bilera taula kontsulta dezakezual Language Rouletteko bilerak noiz izango diren ikusteko.</value>
+    <value>Language Roulettea zure hizkuntza gogokoenak praktika ditzakezun tokia da. Aukeratu gela bat eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Hitz egiteko lagun bat aukeratuko dizugu! Gogoratu bilera taula kontsulta dezakezula Language Rouletteko bilerak noiz izango diren ikusteko.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
-    <value>Denbora bankua hizkuntza trukea guztiontzat errentagarria izateko modun bat da. Hau da bere funtzionamendua:</value>
+    <value>Denbora bankua hizkuntza trukea guztiontzat errentagarria izateko modu bat da. Hau da bere funtzionamendua:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>5 ordurekin hasiko zara, eta hilabete bakoitzeko {0} ordu gehiago emango dizkizugu</value>
+    <value>5 ordurekin hasiko zara, eta hilabete bakoitzeko {0} ordu gehiago jasoko</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
-    <value>Ezin izango dituzu 10 ordu baino gehiago pilatu izan zure denbora bankuan </value>
+    <value>Ezin izango dituzu 10 ordu baino gehiago pilatu zure denbora bankuan </value>
   </data>
   <data name="TimeBankF3" xml:space="preserve">
     <value>Zure lagunak gonbidatu eta 30 minutu oparituko dizkizugu Langademyn izena ematen duen lagun bakoitzeko. Facebook eta Twitterren gure jarraitzeila eginaz ere denbora oparituko dizugu zure denbora bankurako (+60 minutu)</value>

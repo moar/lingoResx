@@ -94,6 +94,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -192,7 +193,7 @@
     <value>Izena</value>
   </data>
   <data name="NameLength" xml:space="preserve">
-    <value>Izenak, gutxienez {2} karaktere baino gehiago eta {1} karaktere baino gutxiago izan behar ditu</value>
+    <value>Izenak, gutxienez {2} karaktere eta {1} karaktere baino gutxiago izan behar ditu</value>
   </data>
   <data name="Native" xml:space="preserve">
     <value>Natiboa</value>
