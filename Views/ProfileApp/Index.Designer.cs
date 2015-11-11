@@ -124,7 +124,7 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &quot;You signed up for a meetup in this langauge. Leave the meetup before removing this language..
+        ///   Looks up a localized string similar to You signed up for a meetup in this langauge. Leave the meetup before removing this language..
         /// </summary>
         public static string CannotDeleteNativePendingMeetup {
             get {
@@ -205,7 +205,7 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose the languages that you want to use in Langademy.
+        ///   Looks up a localized string similar to Choose the languages that you want to practice in Langademy.
         /// </summary>
         public static string LanguagesDesc {
             get {
@@ -322,7 +322,7 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Notifications settings.
+        ///   Looks up a localized string similar to Notification settings.
         /// </summary>
         public static string NotificationSettings {
             get {
@@ -345,6 +345,15 @@ namespace Resources.Views.ProfileApp {
         public static string ProfAddLanguage {
             get {
                 return ResourceManager.GetString("ProfAddLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cannot set a higher level in less than 15 days.
+        /// </summary>
+        public static string ProfCannotUpdateLang {
+            get {
+                return ResourceManager.GetString("ProfCannotUpdateLang", resourceCulture);
             }
         }
         
