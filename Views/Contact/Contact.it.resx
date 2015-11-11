@@ -95,6 +95,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -160,7 +161,7 @@
     <value>Occupato</value>
   </data>
   <data name="JustFriends" xml:space="preserve">
-    <value>Solo amici</value>
+    <value>Solo contatti</value>
   </data>
   <data name="Offline" xml:space="preserve">
     <value>Offline</value>

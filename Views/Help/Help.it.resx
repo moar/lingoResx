@@ -58,25 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,6 +119,9 @@
   <data name="DesktopState" xml:space="preserve">
     <value>Langademy ti offre chiamatevideo tra i tuoi partner-langademy, e il tuo stato mostra le lingue impostate nel tuo profilo. Quando si attiva o si disattiva una lingua nel vostro stato, si sta lasciando sapere in quali lingue si desidera parlare in un particolare momento a i tuoi contatti. Se non vuoi ricevere chiamate dai tuoi contatti, è sufficiente modificare il tuo stato a occupato! Ricorda che le Videochiamate influenzano la Banca del Tempo.</value>
   </data>
+  <data name="HelpAssistanceTitle" xml:space="preserve">
+    <value>Langademy in 3 passi</value>
+  </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
     <value/>
   </data>
@@ -162,8 +146,17 @@
   <data name="HelpAssistanteStep3F3" xml:space="preserve">
     <value/>
   </data>
+  <data name="HelpDontShow" xml:space="preserve">
+    <value>Non mostrare più</value>
+  </data>
+  <data name="HelpShowhelpagain" xml:space="preserve">
+    <value>È possibile visualizzare questo aiuto in qualsiasi momento facendo clic {0} al footer della pagina</value>
+  </data>
   <data name="HelpString" xml:space="preserve">
     <value>Aiuto</value>
+  </data>
+  <data name="HelpWelcome" xml:space="preserve">
+    <value>Benvenuti a Langademy!</value>
   </data>
   <data name="LangademyState" xml:space="preserve">
     <value>Stato Langademy</value>

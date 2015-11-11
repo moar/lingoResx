@@ -74,6 +74,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -149,7 +150,7 @@
     <value>Conferma password</value>
   </data>
   <data name="EmailConfirmationSentence" xml:space="preserve">
-    <value><![CDATA[Grazie per aver confermato il tuo account.<a href="{0}" class="link">clica qui </a>to log in]]></value>
+    <value><![CDATA[Grazie per aver confermato il tuo account.<a href="{0}" class="link">clica qui </a> per iniziare sessione]]></value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Password attuale</value>

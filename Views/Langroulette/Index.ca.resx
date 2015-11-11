@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -161,7 +162,7 @@
     <value>Filtre</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[No hi ha cap usuari connecta't en aquest moment. Visita el <a href="{0}" target="_blank" class="link">tauler de quedades</a>per veure si algú vol a unir-se! ]]></value>
+    <value><![CDATA[No hi ha cap usuari connecta't en aquest moment. Visita el <a href="{0}" target="_blank" class="link">tauler de quedades</a>per veure si algú vol a unir-se!]]></value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Escriu aquí</value>
@@ -173,7 +174,7 @@
     <value>Has xerrat amb tots els company que compleixen els teus requisits. Espera a nous usuaris!</value>
   </data>
   <data name="LRNoChatHours" xml:space="preserve">
-    <value>No es pots accedir a aquesta sala, no tens més temps al teu compte. Parla el teu idioma natiu perquè puguis guanyar més temps.</value>
+    <value>No es pots accedir a aquesta sala, no et queda més saldo al teu compte. Dedica als altres el teu temps parlant el teu idioma natiu perquè puguis guanyar més temps.</value>
   </data>
   <data name="BlockedUserCall" xml:space="preserve">
     <value>No es pot trucar a aquest usuari</value>

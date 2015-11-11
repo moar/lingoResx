@@ -81,6 +81,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -143,10 +144,10 @@
     <value>Ti è piaciuto chiacchierare con {0}?</value>
   </data>
   <data name="NoCostNatives" xml:space="preserve">
-    <value>Le chiamate tra i nativi non hanno alcun costo per te</value>
+    <value>Le chiamate tra i nativi non hanno costo alcuno</value>
   </data>
   <data name="NoCostNoNatives" xml:space="preserve">
-    <value>Le chiamate tra i non nativi non hanno nessun costo per te</value>
+    <value>Le chiamate tra i non nativi non hanno costo alcuno</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
     <value>Chiamata terminata</value>

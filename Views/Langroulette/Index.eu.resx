@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -152,7 +153,7 @@
     <value>Ez dago zure iragazkia betetzen duen erabiltzailerik. Aldatu iragazkia edo itxaron ezazu erabiltzaile gehiago eskuragarri egon arte</value>
   </data>
   <data name="RememberRooms" xml:space="preserve">
-    <value>Zure gela utsik al dago? Sartu {0}an eta ikusi laister bilerarik badagoen!</value>
+    <value>Zure gela utsik al dago? Sartu {0}n eta ikusi laister bilerarik badagoen!</value>
   </data>
   <data name="SelectRoom" xml:space="preserve">
     <value>Aukera ezazu gela bat eta has zaitez hizkuntza bat praktikatzen</value>

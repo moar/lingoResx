@@ -58,25 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,6 +119,9 @@
   <data name="DesktopState" xml:space="preserve">
     <value>Langademyk, Langademyko kontaktuen arteko bideo deiak eskaintzen ditu, deietarako hizkuntza aukeratuz. Langaemyra sartzen zarenean, zure egoera erabili dezakezu zure lagunei zein hizkuntzatan hitz egin nahi duzun adierazteko. Ez baduzu zure lagunen deirik jaso nahi, lanpetuta egoerara pasa zaitez! Gogoratu ezazu, bideo deiek zure denbora bankuan eragin dezaketela.</value>
   </data>
+  <data name="HelpAssistanceTitle" xml:space="preserve">
+    <value/>
+  </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
     <value>Sartu Language Roulettera, aukeratu nahi duzun hizkuntza eta hasi zaitez bideodei bitartez mintzatzen. Zure beharretara egokitzen den maila duen lagun batekin konektatuko zaitu Langademyk.</value>
   </data>
@@ -160,10 +144,19 @@
     <value>Zure egoerak zure perfileko hizkuntzak erakusten ditu. Hizkuntza hauetako bat zure egoeran gaitu edo desgaitzen duzunean, zure kontaktuek gaituta dituzun hizkuntzetan soilik mintzatzea nahi duzula jakingo dute.</value>
   </data>
   <data name="HelpAssistanteStep3F3" xml:space="preserve">
-    <value>Ez baduzu zure kontaktuen deirik jaso nahi, zure egoera lanpetu egoerara pasa dezakezu. Gogoratu, bideo deiek era zure Denbora Bankuan eragina izan dezaketela.</value>
+    <value>Ez baduzu zure kontaktuen deirik jaso nahi, zure egoera lanpetu egoerara pasa dezakezu. Gogoratu, bideo deiek ere zure Denbora Bankuan eragina izan dezaketela.</value>
+  </data>
+  <data name="HelpDontShow" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="HelpShowhelpagain" xml:space="preserve">
+    <value/>
   </data>
   <data name="HelpString" xml:space="preserve">
     <value>Laguntza</value>
+  </data>
+  <data name="HelpWelcome" xml:space="preserve">
+    <value/>
   </data>
   <data name="LangademyState" xml:space="preserve">
     <value>Langademy egoera</value>
