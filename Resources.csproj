@@ -369,6 +369,7 @@
     <EmbeddedResource Include="Languages\Languages.es.resx" />
     <EmbeddedResource Include="Languages\Languages.eu.resx" />
     <EmbeddedResource Include="Languages\Languages.fr.resx" />
+    <EmbeddedResource Include="Languages\Languages.it.resx" />
     <EmbeddedResource Include="Languages\Languages.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Languages.Designer.cs</LastGenOutput>

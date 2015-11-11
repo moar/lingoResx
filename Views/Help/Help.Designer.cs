@@ -61,7 +61,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy provides video calls between langademy partners, and your state shows the languages have set in your profile. When you enable or disable your languages in your state, you are letting your partners know in which languages you want to speak on a particular moment. If you don’t want to receive calls from your partners, just set your state to busy! Remember that videocalls may have an impact on your Time Bank. 
+        ///   Looks up a localized string similar to Langademy provides videocalls between Langademy contacts specifying the conversation language. When you log in to Langademy you can use your state to let your contacts know in which languages you want to speak. If you don’t want to receive any calls, just set your state to busy. And remember that videocalls may have an impact on your Time Bank account. 
         ///.
         /// </summary>
         public static string DesktopState {
@@ -71,7 +71,16 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Entra al Language Roulette, elige el idioma que quieras y comienza a practicar por videoconferencia. Langademy te emparejará con un compañero del nivel que necesites..
+        ///   Looks up a localized string similar to Langademy in 3 steps.
+        /// </summary>
+        public static string HelpAssistanceTitle {
+            get {
+                return ResourceManager.GetString("HelpAssistanceTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Get to the Language Roulette, select a language and start practicing it using video call technology. You will be matched with a partner with a language level that suits your requirements..
         /// </summary>
         public static string HelpAssistanteStep1F1 {
             get {
@@ -80,7 +89,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Lo más fácil para coincidir con más gente en el Language Roulette es organizar quedadas en el Tablón de quedadas o apuntarte a las que ya haya..
+        ///   Looks up a localized string similar to The easiest way to meet with more people at the Language Roulette is to create meetups in the Meetup Board, or to join those that have been already created..
         /// </summary>
         public static string HelpAssistanteStep1F2 {
             get {
@@ -89,7 +98,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to El intercambio de idiomas de Langademy se basa en el &lt;strong&gt;Banco de Tiempo:&lt;/strong&gt;.
+        ///   Looks up a localized string similar to The language exchange of Langademy is based on &lt;strong&gt;Timebanking:&lt;/strong&gt;.
         /// </summary>
         public static string HelpAssistanteStep2F1 {
             get {
@@ -98,7 +107,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando horas de tu Banco de Tiempo. En cambio, si enseñas a alguien un idioma que dominas (nivel C2 o nativo), ganarás tiempo para tu cuenta..
+        ///   Looks up a localized string similar to When you practice a language that it is not your native language, you will we spending time from the time bank. And if you speak to a non-native in your native language (C2 or native level), you will be rewarded with time for your Time Bank account..
         /// </summary>
         public static string HelpAssistanteStep2F2 {
             get {
@@ -107,7 +116,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Comenzarás con 5 horas, y cada mes Langademy te regalará dos horas adicionales..
+        ///   Looks up a localized string similar to You will start with 5 hours, and each month langademy will give you 2 additional hours..
         /// </summary>
         public static string HelpAssistanteStep2F3 {
             get {
@@ -116,7 +125,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to En Langademy puedes hacer videollamadas con tus contactos y controlar el idioma que vayas a practicar..
+        ///   Looks up a localized string similar to In Langademy you can make videocalls with your contacts and decide which language you are going to practice. .
         /// </summary>
         public static string HelpAssistanteStep3F1 {
             get {
@@ -125,7 +134,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tu estado muestra los idiomas que hayas completado en tu perfil. Cuando habilitas o deshabilitas un idioma en tu estado, tus contactos sabrán que solo quieres recibir llamadas para hablar en los idiomas habilitados..
+        ///   Looks up a localized string similar to Your state shows the languages you have defined in your profile. When these languages are enabled or disabled in your state, your contacts will know that you only want to receive calls on those languages that are enabled..
         /// </summary>
         public static string HelpAssistanteStep3F2 {
             get {
@@ -134,11 +143,29 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu Banco de Tiempo..
+        ///   Looks up a localized string similar to If you don&apos;t want to receive calls, set your state to busy. Remember that these calls can affect your Time Bank account..
         /// </summary>
         public static string HelpAssistanteStep3F3 {
             get {
                 return ResourceManager.GetString("HelpAssistanteStep3F3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Don&apos;t show again.
+        /// </summary>
+        public static string HelpDontShow {
+            get {
+                return ResourceManager.GetString("HelpDontShow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can show this help at any time by clicking {0} at the footer of the page.
+        /// </summary>
+        public static string HelpShowhelpagain {
+            get {
+                return ResourceManager.GetString("HelpShowhelpagain", resourceCulture);
             }
         }
         
@@ -152,6 +179,15 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Welcome to Langademy!.
+        /// </summary>
+        public static string HelpWelcome {
+            get {
+                return ResourceManager.GetString("HelpWelcome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy state.
         /// </summary>
         public static string LangademyState {
@@ -161,7 +197,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Language Roulette is the place where you can get when you want to practice a language. Select a room and start practicing your favourite langauge! We will find a match for you! Remember that you can check the meeting board to know when will the Language Roulette meetings take place..
+        ///   Looks up a localized string similar to The Language Roulette is the place where you can get when you want to exchange languages. Select a room and start practicing your favourite language! We will find a conversation partner for you! Remember that you can check the meetup board to know when will the Language Roulette meetups take place..
         /// </summary>
         public static string LangrouletteIntro {
             get {
@@ -170,7 +206,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time Bank is a way to make language exchange profitable for everyone. This is how it works:.
+        ///   Looks up a localized string similar to Time Bank is a way to make language exchange fair for everyone at Langademy. This is how it works:.
         /// </summary>
         public static string TimeBankDescription {
             get {
@@ -179,7 +215,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You will begin with 5 hours, and each month Langademy will give you {0} extra hours..
+        ///   Looks up a localized string similar to You will begin with 5 hours, and every month you will receive {0} extra hours..
         /// </summary>
         public static string TimeBankF1 {
             get {
@@ -188,7 +224,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to By default, you will not be able to accumulate more than 10 hours in your Time Bank..
+        ///   Looks up a localized string similar to By default, you will not be able to accumulate more than 10 hours in your Time Bank account..
         /// </summary>
         public static string TimeBankF2 {
             get {
@@ -197,7 +233,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Invite your friends and you will get extra 30 minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank by following us in Twitter and Facebook (+ 60 minutes)..
+        ///   Looks up a localized string similar to Invite your friends and you will get 30 extra minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank account  by following Langademy in Twitter and Facebook (+ 60 minutes)..
         /// </summary>
         public static string TimeBankF3 {
             get {
@@ -206,7 +242,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you practice a language that it is not your native language, you will we spending time from the time bank. And if you speak to a non-native in your native language, you will be rewarded with time for your time bank..
+        ///   Looks up a localized string similar to When you practice a language that is not your native language, you spend time from your Time Bank account. And if you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time for your account..
         /// </summary>
         public static string TimeBankF4 {
             get {
