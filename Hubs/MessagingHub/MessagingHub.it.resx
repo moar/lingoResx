@@ -94,6 +94,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -160,7 +161,7 @@
 </value>
   </data>
   <data name="CalleeNoWebrtc" xml:space="preserve">
-    <value>Il browser di {0} non supporta le chiamate-video.</value>
+    <value>Il browser che sta utilizzando {0} non supporta le chiamate-video.</value>
   </data>
   <data name="CalleeOffline" xml:space="preserve">
     <value>{0} non è connesso in questo memomento</value>
@@ -181,12 +182,12 @@
     <value>{0} non vuole parlare in questa lingua. Prova più tardi.</value>
   </data>
   <data name="LanguageNotInOwnList" xml:space="preserve">
-    <value>Non hai questa lingua nell'elenco di lingue. Prova a chiamare in una delle tue lingue!</value>
+    <value>Non disponi di questa lingua nel tuo profili. Sceglie una delle tue lingue per chiamare!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[Non è possibile effettuare chiamate, non si dispone di più ore di chat. <a href="{0}" class="applnk" data-app="HoursBagApp"> Andare alla Banca del Tempo</a>]]></value>
+    <value><![CDATA[Non è possibile effettuare chiamate, non disponi di più saldo nel tuo account. <a href="{0}" class="applnk" data-app="HoursBagApp"> Andare alla Banca del Tempo</a>]]></value>
   </data>
   <data name="NotFriends" xml:space="preserve">
-    <value>Non è possibile chiamare {0}, non è connesso</value>
+    <value>Non è possibile chiamare a {0}: non siete collegati</value>
   </data>
 </root>

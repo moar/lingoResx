@@ -95,6 +95,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -159,7 +160,7 @@
     <value>Chat</value>
   </data>
   <data name="HoursBagIntro" xml:space="preserve">
-    <value>Si pratichi in una lingua che non è la tua lingua nativa, spenderai tempo della tua banca del tempo. Invece se aiuti qualcuno che sta imparando la tua lingua madre, ti verrà accreditato più tempo per la tua Banca del Tempo.</value>
+    <value>Quando fai una video-chiamata in una lingua diversa dalla propria lingua nativa, spenderai tempo della tua banca del tempo. Invece, se aiuti qualcuno che sta imparando la tua lingua nativa, ti verrà accreditato più tempo nel tuo account.</value>
   </data>
   <data name="ConfigurationIntro" xml:space="preserve">
     <value>Configura il tuo conto in modo rapido</value>
