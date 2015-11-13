@@ -61,7 +61,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want to earn extra time?.
+        ///   Looks up a localized string similar to Do you want to get extra time?.
         /// </summary>
         public static string AdditionalTime {
             get {
@@ -88,6 +88,15 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to When you speak to other Langademy users in your &lt;strong&gt;native language&lt;/strong&gt; you earn time for your time bank account.
+        /// </summary>
+        public static string EarnByTeaching {
+            get {
+                return ResourceManager.GetString("EarnByTeaching", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Max. Time.
         /// </summary>
         public static string HBMaxTime {
@@ -97,7 +106,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Invite your friends to &lt;strong&gt;Langademy&lt;/strong&gt; now! each registered friend will add 30 minutes to your hoursbag! Or follow us in the social networks and you will earn an extra hour!.
+        ///   Looks up a localized string similar to Invite your friends to &lt;strong&gt;Langademy&lt;/strong&gt; now! Each registered friend will add 30 minutes to your Time Bank account! And if you follow us in the social networks you will earn an extra hour!.
         /// </summary>
         public static string InviteEarn {
             get {
@@ -106,7 +115,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter an  email address and push space or &quot; ; &quot;.
+        ///   Looks up a localized string similar to Enter an email address and push space or &quot; ; &quot;.
         /// </summary>
         public static string MailInstruction {
             get {
@@ -115,7 +124,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time Balance.
+        ///   Looks up a localized string similar to Time balance.
         /// </summary>
         public static string RemainingBagTime {
             get {
