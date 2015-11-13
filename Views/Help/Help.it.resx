@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,22 +131,22 @@
     <value/>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
-    <value/>
+    <value><![CDATA[Lo scambio di lingua Langademy si basa su <strong>La banca del Tempo:</strong>]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
     <value/>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value/>
+    <value>Inizierai con 5 ore, e ogni mese Langademy ti darà 2 ore extra.</value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
-    <value/>
+    <value>In Langademy puoi effettuare videochiamate con i tuoi contatti e avere il controllo della lingua che vuoi praticare.</value>
   </data>
   <data name="HelpAssistanteStep3F2" xml:space="preserve">
-    <value/>
+    <value>Il tuo stato mostra le lingue che hai definito nel tuo profilo. Quando abiliti o disabiliti una lingua nel tuo stato, i tuoi contatti sapranno che solo desideri ricevere chiamate nelle lingue abilitate.</value>
   </data>
   <data name="HelpAssistanteStep3F3" xml:space="preserve">
-    <value/>
+    <value>Se non desideri ricevere chiamate dai tuoi contatti, imposta il tuo stato a occupato. Ricorda che le chiamate influenzano il tuo account.</value>
   </data>
   <data name="HelpDontShow" xml:space="preserve">
     <value>Non mostrare più</value>
@@ -166,7 +167,7 @@
     <value>Entra nel Language Roulette, seleziona una stanza e inizia a parlare la tua lingua preferita!  Ci occupiamo noi di cercarte una coppia!Ricorda che puoi controllare la tabella di appuntamenti per sapere quando saranno i prossimi appuntamenti nel Language Roulette.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
-    <value> La Banca del Tempo è il sistema per fer fare più proficuo per tutti lo scambio linguistico. Ecco come funziona:</value>
+    <value> La Banca del Tempo è il sistema per fare più proficuo per tutti lo scambio linguistico. Ecco come funziona:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
     <value>Inizierai con 5 ore, e ogni mese Langademy ti darà {0} ore extra.</value>

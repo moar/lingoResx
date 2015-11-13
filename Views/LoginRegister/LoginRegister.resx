@@ -76,6 +76,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -184,7 +185,7 @@
     <value>Invalid e-mail or password</value>
   </data>
   <data name="InvitedBy" xml:space="preserve">
-    <value>Invited by</value>
+    <value>If you have been invited by a Langademy user, insert here the email address of the person that has invited you.</value>
   </data>
   <data name="ResetYourPassword" xml:space="preserve">
     <value>Reset your password</value>

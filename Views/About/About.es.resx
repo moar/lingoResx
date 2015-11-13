@@ -77,6 +77,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -140,7 +141,7 @@
 ¿Y si no hay nadie disponible cuando lo necesites? No te preocupes, puedes organizar quedadas para que el resto de usuarios sepan cuando estarás disponible, o puedes apuntarte a las quedadas que hayan organizado otros usuarios en el Tablón de quedadas.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
-    <value>Langademy es una comunidad online de intercambio de idiomas donde puedes practicar idiomas con nativos de todo el mundo. Escuchar a nativos en un contexto natural te ayudará a mejorar tu compresión y interiorizarás los sonidos únicos que tiene cada idioma. Asimismo, mejoraras tu fluidez al hablar. Aprenderás nuevas palabras, frases, y los hablantes nativos podrán corregirte mientras conversáis.</value>
+    <value>Langademy es una comunidad online de intercambio de idiomas donde puedes practicar idiomas con nativos de todo el mundo. Escuchar a nativos en un contexto natural te ayudará a mejorar tu compresión e interiorizarás los sonidos únicos que tiene cada idioma. Asimismo, mejorarás tu fluidez al hablar. Aprenderás nuevas palabras, frases, y los hablantes nativos podrán corregirte mientras conversáis.</value>
   </data>
   <data name="AboutMainTitle" xml:space="preserve">
     <value>Acerca de Langademy</value>

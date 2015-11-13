@@ -76,6 +76,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -142,7 +143,7 @@
     <value>Completa la registrazione</value>
   </data>
   <data name="EmailConfirmation" xml:space="preserve">
-    <value>Mail di conferma</value>
+    <value>Confermazione de indirizzo e-mail</value>
   </data>
   <data name="ConfirmNewPw" xml:space="preserve">
     <value>Conferma la nuova password</value>
@@ -151,7 +152,7 @@
     <value>Conferma password</value>
   </data>
   <data name="EmailConfirmationSentence" xml:space="preserve">
-    <value><![CDATA[Grazie per aver confermato il tuo account.<a href="{0}" class="link">clica qui </a> per iniziare sessione]]></value>
+    <value><![CDATA[Grazie per confermare il tuo account. Per piacere <a href="{0}" class="link">clicca qui</a> per iniziare sessione]]></value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Password attuale</value>
@@ -160,7 +161,7 @@
     <value>Prego, inserisce un nome utente per Langademy qui sotto e fai clic sul pulsante Registra per finire la registrazione </value>
   </data>
   <data name="PasswordIsReset" xml:space="preserve">
-    <value><![CDATA[La tua password è stata cambiata. Per favore <a href="{0}" class="link">clica qui</a>to log in]]></value>
+    <value><![CDATA[La tua password è stata cambiata. Per piacere <a href="{0}" class="link">clicca qui</a>per iniziare sessione]]></value>
   </data>
   <data name="ExtLoginEmailInUse" xml:space="preserve">
     <value>{0} è già in uso. Effettua il login con il tuo account Langademy se vuoi collegare con {1}</value>

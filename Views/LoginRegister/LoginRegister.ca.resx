@@ -76,6 +76,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -151,7 +152,7 @@
     <value>Confirma contrasenya</value>
   </data>
   <data name="EmailConfirmationSentence" xml:space="preserve">
-    <value><![CDATA[Gràcies per confirmar el teu compte. <a href="{0}" class="link"> clica aquí </a> per iniciar sessió ]]></value>
+    <value><![CDATA[Gràcies per confirmar el teu compte. Si us plau <a href="{0}" class="link"> clica aquí </a> per iniciar sessió ]]></value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Contrasenya actual</value>

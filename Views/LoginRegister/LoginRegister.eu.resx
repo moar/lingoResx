@@ -76,6 +76,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -184,7 +185,7 @@
     <value>E-mail edo pasahitz ezegokia</value>
   </data>
   <data name="InvitedBy" xml:space="preserve">
-    <value>Gonbidapen helbidea</value>
+    <value>Langademyko erabiltzaile batek gonbidatu bazaitu, sartu ezazu hemen bere email helbidea</value>
   </data>
   <data name="ResetYourPassword" xml:space="preserve">
     <value>Berrezarri pasahitza</value>
