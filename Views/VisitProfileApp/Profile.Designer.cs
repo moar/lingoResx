@@ -106,7 +106,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;{0}&quot;&gt;{1}&lt;/a&gt; has spoken {2} for {3} minutes.
+        ///   Looks up a localized string similar to &lt;a href=&quot;{0}&quot; class=&quot;link&quot;&gt;{1}&lt;/a&gt; has spoken {2} for {3} minutes.
         /// </summary>
         public static string ConversationAct {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a class=&quot;link&quot; href=&quot;{2}&quot;&gt;{0}&lt;/a&gt; and &lt;a href=&quot;{3}&quot;&gt;{1}&lt;/a&gt; are connected now.
+        ///   Looks up a localized string similar to &lt;a class=&quot;link&quot; href=&quot;{2}&quot;&gt;{0}&lt;/a&gt; and &lt;a  class=&quot;link&quot; href=&quot;{3}&quot;&gt;{1}&lt;/a&gt; are connected now.
         /// </summary>
         public static string NewFriendship {
             get {
@@ -259,7 +259,7 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next Meetups.
+        ///   Looks up a localized string similar to Next meetups.
         /// </summary>
         public static string ProfNextMeetups {
             get {
@@ -318,6 +318,24 @@ namespace Resources.Views.VisitProfileApp {
         public static string ViewAllContacts {
             get {
                 return ResourceManager.GetString("ViewAllContacts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Accept.
+        /// </summary>
+        public static string VPAcceptReq {
+            get {
+                return ResourceManager.GetString("VPAcceptReq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancel.
+        /// </summary>
+        public static string VPDeclineReq {
+            get {
+                return ResourceManager.GetString("VPDeclineReq", resourceCulture);
             }
         }
         
