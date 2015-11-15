@@ -98,6 +98,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -182,7 +183,7 @@
     <value>Termini e Condizioni - Langademy</value>
   </data>
   <data name="MainTitle" xml:space="preserve">
-    <value>Scambio di lingue </value>
+    <value>Scambio di lingue</value>
   </data>
   <data name="TBTitle" xml:space="preserve">
     <value>Banca del Tempo</value>

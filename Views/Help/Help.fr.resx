@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -118,70 +119,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DesktopState" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanceTitle" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanteStep1F2" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanteStep2F1" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanteStep2F2" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanteStep3F1" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanteStep3F2" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpAssistanteStep3F3" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpDontShow" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpShowhelpagain" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpString" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpWelcome" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LangademyState" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LangrouletteIntro" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="TimeBankDescription" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="TimeBankF1" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="TimeBankF2" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="TimeBankF3" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="TimeBankF4" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="TimeBankTitle" xml:space="preserve">
-    <value/>
-  </data>
-</root>
+  </root>

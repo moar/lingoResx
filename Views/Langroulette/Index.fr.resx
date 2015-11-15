@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,67 +128,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AlreadyInRoom" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HideNonCandidates" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IncompleteProfile" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="Levels" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRAccessCamera" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRExit" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRTryConnect" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRUsers" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="NoFilterMatch" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="RememberRooms" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="SelectRoom" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRFilter" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRNoUsers" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRWriteHere" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRAllBusy" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRFilterTime" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRNoChatHours" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="BlockedUserCall" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="NoCallsWhileInRoom" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRNext" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LRSelMinimumLevel" xml:space="preserve">
-    <value/>
-  </data>
-</root>
+  </root>

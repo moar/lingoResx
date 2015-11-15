@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -159,13 +160,13 @@
     <value>Stanza non trovata</value>
   </data>
   <data name="SelfFriendShipException" xml:space="preserve">
-    <value>Non si può fare una richiesta di contatto a te stesso</value>
+    <value>Non ti puoi inviare una richiesta di contatto a te stesso</value>
   </data>
   <data name="UserNotFoundException" xml:space="preserve">
     <value>Utente non trovato</value>
   </data>
   <data name="UserNotInAnyRoom" xml:space="preserve">
-    <value>L'utente non è in alcun stanza</value>
+    <value>L'utente non si trova a nessuna stanza</value>
   </data>
   <data name="ReturnHomepage" xml:space="preserve">
     <value>Vai alla homepage</value>

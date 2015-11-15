@@ -67,6 +67,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -159,7 +160,7 @@
     <value>Sala no trobada</value>
   </data>
   <data name="SelfFriendShipException" xml:space="preserve">
-    <value>No pots realitzar una sol·licitud de contacte a tu mateix  </value>
+    <value>No pots enviar-te una sol·licitud de contacte a tu mateix  </value>
   </data>
   <data name="UserNotFoundException" xml:space="preserve">
     <value>Usuari no trobat </value>

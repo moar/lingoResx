@@ -58,16 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -142,7 +132,7 @@
     <value>Ieri</value>
   </data>
   <data name="DeleteFriend" xml:space="preserve">
-    <value>Disconnettere </value>
+    <value>Scollegare</value>
   </data>
   <data name="FriendRequested" xml:space="preserve">
     <value>Richiesta pendente </value>
@@ -172,7 +162,7 @@
     <value>{0} ora(e) fa</value>
   </data>
   <data name="NoActivity" xml:space="preserve">
-    <value>Tuttavia Nessuna attività</value>
+    <value>Tuttavia nessuna attività</value>
   </data>
   <data name="ConversationAct" xml:space="preserve">
     <value><![CDATA[<a href="{0}">{1}</a> ha parlato {2} per {3} minuti]]></value>
@@ -208,7 +198,7 @@
     <value>Tempo per lingua</value>
   </data>
   <data name="VPVideoCall" xml:space="preserve">
-    <value>Call</value>
+    <value>Chiamare</value>
   </data>
   <data name="PartnersBlockTitle" xml:space="preserve">
     <value>Contatti</value>
@@ -224,5 +214,11 @@
   </data>
   <data name="ProfBlockSuccess" xml:space="preserve">
     <value>L'utente è stato bloccato</value>
+  </data>
+  <data name="VPAcceptReq" xml:space="preserve">
+    <value>Accettare</value>
+  </data>
+  <data name="VPDeclineReq" xml:space="preserve">
+    <value>Rifiutare</value>
   </data>
 </root>

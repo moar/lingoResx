@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -122,7 +123,7 @@
     <value>Langademyk, Langademyko kontaktuen arteko bideo deiak eskaintzen ditu, deietarako hizkuntza aukeratuz. Langaemyra sartzen zarenean, zure egoera erabili dezakezu zure lagunei zein hizkuntzatan hitz egin nahi duzun adierazteko. Ez baduzu zure lagunen deirik jaso nahi, lanpetuta egoerara pasa zaitez! Gogoratu ezazu, bideo deiek zure denbora bankuan eragin dezaketela.</value>
   </data>
   <data name="HelpAssistanceTitle" xml:space="preserve">
-    <value/>
+    <value>Langademy 3 pausotan</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
     <value>Sartu Language Roulettera, aukeratu nahi duzun hizkuntza eta hasi zaitez bideodei bitartez mintzatzen. Zure beharretara egokitzen den maila duen lagun batekin konektatuko zaitu Langademyk.</value>
@@ -149,16 +150,16 @@
     <value>Ez baduzu zure kontaktuen deirik jaso nahi, zure egoera lanpetu egoerara pasa dezakezu. Gogoratu, bideo deiek ere zure Denbora Bankuan eragina izan dezaketela.</value>
   </data>
   <data name="HelpDontShow" xml:space="preserve">
-    <value/>
+    <value>Ez erakutsi berriro</value>
   </data>
   <data name="HelpShowhelpagain" xml:space="preserve">
-    <value/>
+    <value>Edozein unetan bistaratu dezakezu langutza bai {0} klikatuz zure orriaren oinean</value>
   </data>
   <data name="HelpString" xml:space="preserve">
     <value>Laguntza</value>
   </data>
   <data name="HelpWelcome" xml:space="preserve">
-    <value/>
+    <value>Ongi etorri Langademyira!</value>
   </data>
   <data name="LangademyState" xml:space="preserve">
     <value>Langademy egoera</value>

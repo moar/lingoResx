@@ -84,6 +84,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -158,7 +159,7 @@
     <value>{0}  ha appeso la chiamata</value>
   </data>
   <data name="VCLearnLang" xml:space="preserve">
-    <value>Parlando in una lingua non-nativa con un utente nativo, ha un costo per te</value>
+    <value>Parlare in una lingua non-nativa con un utente nativo, ha un costo per te</value>
   </data>
   <data name="VCNoMinimunTime" xml:space="preserve">
     <value>Le chiamate che sono più brevi di un minuto non hanno alcun costo per te</value>

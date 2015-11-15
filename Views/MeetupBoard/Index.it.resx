@@ -77,6 +77,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -215,7 +216,7 @@
     <value>Nativi</value>
   </data>
   <data name="MeetupCollision" xml:space="preserve">
-    <value>Hai confermato la presenza per un appuntamento nella stessa ora</value>
+    <value>Hai confermato la presenza ad appuntamento nella stessa ora</value>
   </data>
   <data name="StartTimeMax" xml:space="preserve">
     <value>Solo è possibile programmare appuntamenti entro i 15 giorni</value>

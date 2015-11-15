@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,73 +122,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="About" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="Board" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="ComingSoon" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="FollowUs" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="Free" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IndAbout" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IndLanguages" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IndNextMeetups" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IndParticipants" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IndPrivacy" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IndRegister" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IndTerms" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="Join" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="KnowPeople" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="Participants" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LanguageEx" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="LearnLang" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="Login" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="ManageMeetup" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="Visit" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="WhenPossible" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="IndLangroulette" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="SpeakNative" xml:space="preserve">
-    <value/>
-  </data>
-</root>
+  </root>

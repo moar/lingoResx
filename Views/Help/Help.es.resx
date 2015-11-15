@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,9 +122,6 @@
   <data name="DesktopState" xml:space="preserve">
     <value>Langademy te permite hacer videollamadas con tus contactos especificando el idioma de la conversación. Cuando entras en Langademy puedes utilizar tu estado para hacer saber a tus contactos en que idiomas quieres hablar. Si no quieres recibir ninguna llamada, cambia tu estado a ocupado. Y recuerda que las videollamadas pueden afectar a tu saldo en el Banco de Tiempo.</value>
   </data>
-  <data name="HelpAssistanceTitle" xml:space="preserve">
-    <value/>
-  </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
     <value>Entra al Language Roulette, elige el idioma que quieras y comienza a practicar por videoconferencia. Langademy te emparejará con un compañero del nivel que necesites.</value>
   </data>
@@ -148,17 +146,8 @@
   <data name="HelpAssistanteStep3F3" xml:space="preserve">
     <value>Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu cuenta del Banco de Tiempo.</value>
   </data>
-  <data name="HelpDontShow" xml:space="preserve">
-    <value/>
-  </data>
-  <data name="HelpShowhelpagain" xml:space="preserve">
-    <value/>
-  </data>
   <data name="HelpString" xml:space="preserve">
     <value>Ayuda</value>
-  </data>
-  <data name="HelpWelcome" xml:space="preserve">
-    <value/>
   </data>
   <data name="LangademyState" xml:space="preserve">
     <value>Estado Langademy</value>
