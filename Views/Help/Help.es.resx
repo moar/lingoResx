@@ -58,11 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -171,6 +166,9 @@
   </data>
   <data name="TimeBankF4" xml:space="preserve">
     <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando tiempo de tu cuenta del Banco de Tiempo. En cambio, si enseñas un idioma que dominas (nivel mínimo: C2) a otro usuario, se sumará ese tiempo a tu cuenta.</value>
+  </data>
+  <data name="TimeBankF5" xml:space="preserve">
+    <value>Las llamadas que duren menos de un minuto no tienen coste</value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Banco de Tiempo</value>

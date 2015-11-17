@@ -72,6 +72,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -158,7 +159,7 @@
     <value>There aren't any users that meet your filter. Change the filter or wait until more users get available</value>
   </data>
   <data name="RememberRooms" xml:space="preserve">
-    <value>Is your room empty? Check if there's any meetup soon in the {0}!</value>
+    <value>Is your room empty? Check if there are any meetups soon in the {0}!</value>
   </data>
   <data name="SelectRoom" xml:space="preserve">
     <value>Select a room and start practicing a language</value>

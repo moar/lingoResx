@@ -58,8 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -153,6 +151,9 @@
   </data>
   <data name="TBDate" xml:space="preserve">
     <value>Data</value>
+  </data>
+  <data name="TBEmptySentence" xml:space="preserve">
+    <value>Oraindik ez duzu bideo-deirik egin. Hemen kontrolatu ahal izango duzu hizkuntza bakoitzean hitz egiteko erabili duzun denbora eta zure denbora saldoa. Klikatu hemen {0} zure denbora saldoa handitzeko erregelak kontsultatzeko.</value>
   </data>
   <data name="TitleHoursBag" xml:space="preserve">
     <value>Denbora bankua</value>

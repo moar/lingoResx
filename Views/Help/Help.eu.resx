@@ -58,11 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -183,6 +178,9 @@
   </data>
   <data name="TimeBankF4" xml:space="preserve">
     <value>Zure ama hizkuntza ez den hizkuntza batean hitz egiten baduzu, zure denbora poltsatik kenduko dizugu denbora hori. Aldiz, ikasle edo hizkuntza bat ama hizkuntza ez duen pertsona batekin zure ama hizkuntzan (gutxieneko maila C2) hitz egiten baduzu, zure denbora bankurako denbora pilatuko duzu.</value>
+  </data>
+  <data name="TimeBankF5" xml:space="preserve">
+    <value>Minutu bat baino gutxiago irauten duten deiek ez dute kosturik</value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Denbora bankua</value>
