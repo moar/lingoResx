@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -120,8 +121,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DesktopState" xml:space="preserve">
-    <value>Langademy et permet realitzar videotrucades amb les persones que tens a la teva llista de contactes, i al teu estat mostra els idiomes que tens establerts al teu perfil. Quan habilites o deshabilites un idioma al teu estat, els teus contactes sabran que només vols rebre trucades en els idiomes habilitats.
-Si no vols rebre trucades dels teus contactes, canvia el teu estat a ocupat. Recorda que les videotrucades també afecten al teu Banc de Temps.</value>
+    <value>Langademy et permet realitzar videotrucades amb el teus contactes escollint l'idioma de la vostra conversa. Quan accedeixes a Langademy pots utilitzar al teu estat per fer saber als teus contactes amb quin idioma desitges parlar. Si no vols rebre trucades dels teus contactes, canvia el teu estat a ocupat. Recorda que les videotrucades també afecten al teu Banc de Temps.</value>
   </data>
   <data name="HelpAssistanceTitle" xml:space="preserve">
     <value>Langademy en 3 passos</value>
@@ -166,7 +166,7 @@ Si no vols rebre trucades dels teus contactes, canvia el teu estat a ocupat. Rec
     <value>Estat Langademy</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>El Language Roulette és l'espai on es reuneixen les persones que desitgen practicar,intercanviar els idiomes. Selecciona una sala i comença a practicar el teu idioma favorit! Nosaltres ens encarregarem de emparellarte! Recorda que pots consultar el tauler de quedades per saber quan tindran lloc les quedades a el Language Roulette.</value>
+    <value>El Language Roulette és l'espai on es reuneixen les persones que desitgen intercanviar idiomes. Selecciona una sala i comença a practicar el teu idioma favorit! Nosaltres ens encarregarem de emparellar-te! Recorda que pots consultar el tauler de quedades per saber quan tindran lloc les quedades a el Language Roulette.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>El Banc de Temps es un concepte per a que amb l'intercanvi d'idiomes tots surtin guanyant. 

@@ -79,6 +79,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,7 +139,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langacademy ofereix una manera única de conèixer parlants natius i de crear tàndems usant el Language Roulette, una eina web per videoconferències. No t'has de preocupar de res, tan sols has de triar l'idioma que vols practicar, i nosaltres et trobarem un company que s'ajusti a les teves necessitats. <br/>
+    <value><![CDATA[Langacademy ofereix una manera única de conèixer parlants natius i de crear tàndems usant el Language Roulette, una eina web per realitzar videoconferències. No t'has de preocupar de res, tan sols has de triar l'idioma que vols practicar, i nosaltres et trobarem un company que s'ajusti a les teves necessitats. <br/>
 I si no hi ha ningú disponible quan ho necessitis? No et preocupis, pots crear quedades perquè la resta d'usuaris sàpiguen quan estaràs disponible, o pots veure les quedades que han estat ja creades per altres usuaris en el Tauler de quedades.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
@@ -151,7 +152,7 @@ I si no hi ha ningú disponible quan ho necessitis? No et preocupis, pots crear 
     <value>Banc de Temps</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
-    <value>El Banc de Temps és un concepte que permet que l'intercanvi d'idiomes sigui rendible per a tothom. Si comparteixes el teu idioma natiu amb altres usuaris de Langademy, et donarem temps perquè puguis practicar altres idiomes. I si practiques un idiomes que no és el teu idioma natiu, estaràs gastant el temps del teu Banc de Temps. Començaràs amb 5 hores, i cada mes et regalarem {0} hores addicionals al teu compte.</value>
+    <value>El Banc de Temps és un concepte que permet que l'intercanvi d'idiomes sigui rendible per a tothom. Si comparteixes el teu idioma natiu amb altres usuaris de Langademy, et donarem el mateix temps que has dedicat per a què tu puguis practicar altres idiomes. I si tu poses en pràctica un idioma que no és el teu idioma natiu, estaràs gastant el temps del teu compte del Banc de Temps. Començaràs amb 5 hores, i cada mes et regalarem {0} hores addicionals al teu compte.</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
     <value>Aprèn idiomes i millora el teu nivell  amb Langademy</value>
