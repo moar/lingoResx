@@ -133,7 +133,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remaining time.
+        ///   Looks up a localized string similar to Time balance.
         /// </summary>
         public static string RemainingTime {
             get {
@@ -165,6 +165,15 @@ namespace Resources.Views.HoursBag {
         public static string TBDate {
             get {
                 return ResourceManager.GetString("TBDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aún no has realizado ninguna videollamada. Aquí podrás controlar el tiempo que dediques a hablar en cada idioma y tu saldo de tiempo. Haz click en {0}  para consultar las reglas que te permiten aumentar tu saldo de tiempo.
+        /// </summary>
+        public static string TBEmptySentence {
+            get {
+                return ResourceManager.GetString("TBEmptySentence", resourceCulture);
             }
         }
         

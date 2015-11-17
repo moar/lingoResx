@@ -251,6 +251,15 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Las llamadas que duren menos de un minuto no tienen coste.
+        /// </summary>
+        public static string TimeBankF5 {
+            get {
+                return ResourceManager.GetString("TimeBankF5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Time Bank.
         /// </summary>
         public static string TimeBankTitle {
