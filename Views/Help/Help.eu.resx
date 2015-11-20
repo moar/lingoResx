@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,7 +131,7 @@
     <value><![CDATA[Language Roulettean jende gehiagorekin bat egiteko modu errezena, <strong>Bilera taulan</strong>  bilerak sortzea edo existitzen diren bileretara apuntatzea da.]]></value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
-    <value><![CDATA[Langademyko hizkuntza elkartrukea <strong>Denbora bankuan</strong> oinarrituta dago:]]></value>
+    <value><![CDATA[<strong>Denbora bankuan</strong>:]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
     <value><![CDATA[Ongi menderatzen duzun <strong>hizkuntza bat irakasten</strong> baduzu, zure konturako denbora irabaziko duzu, eta <strong>beste hizkuntza batzuetan hitz egiten</strong> baduzu, denbora bankuko denbora gastatuko duzu]]></value>

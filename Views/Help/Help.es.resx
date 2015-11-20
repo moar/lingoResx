@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,7 +131,7 @@
     <value>Lo más fácil para coincidir con más gente en el Language Roulette es organizar quedadas en el Tablón de quedadas o apuntarte a las que ya haya.</value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
-    <value><![CDATA[El intercambio de idiomas de Langademy se basa en el <strong>Banco de Tiempo:</strong>]]></value>
+    <value><![CDATA[<strong>Banco de Tiempo:</strong>]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
     <value><![CDATA[Si <strong>enseñas a alguien tu idioma nativo</strong> ganarás tiempo para tu cuenta, y si <strong>practicas otros idiomas</strong> gastarás las horas de tu cuenta.]]></value>
