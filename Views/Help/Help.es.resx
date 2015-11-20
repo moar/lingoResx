@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -119,8 +120,11 @@
   <data name="DesktopState" xml:space="preserve">
     <value>Langademy te permite hacer videollamadas con tus contactos especificando el idioma de la conversación. Cuando entras en Langademy puedes utilizar tu estado para hacer saber a tus contactos en que idiomas quieres hablar. Si no quieres recibir ninguna llamada, cambia tu estado a ocupado. Y recuerda que las videollamadas pueden afectar a tu saldo en el Banco de Tiempo.</value>
   </data>
+  <data name="HelpAssistanceTitle" xml:space="preserve">
+    <value>Langademy en 3 pasos</value>
+  </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Entra al Language Roulette, elige el idioma que quieras y comienza a practicar por videoconferencia. Langademy te emparejará con un compañero del nivel que necesites.</value>
+    <value>Entra al Language Roulette, elige el idioma que quieras y comienza a practicar por videoconferencia.</value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
     <value>Lo más fácil para coincidir con más gente en el Language Roulette es organizar quedadas en el Tablón de quedadas o apuntarte a las que ya haya.</value>
@@ -129,10 +133,10 @@
     <value><![CDATA[El intercambio de idiomas de Langademy se basa en el <strong>Banco de Tiempo:</strong>]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
-    <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando horas de tu cuenta del Banco de Tiempo. En cambio, si enseñas a alguien un idioma que dominas (nivel C2 o nativo), ganarás tiempo para tu cuenta.</value>
+    <value><![CDATA[Si <strong>enseñas a alguien tu idioma nativo</strong> ganarás tiempo para tu cuenta, y si <strong>practicas otros idiomas</strong> gastarás las horas de tu cuenta.]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value>Comenzarás con 5 horas, y cada mes Langademy te regalará dos horas adicionales.</value>
+    <value><![CDATA[Comenzarás con <strong>5 horas gratuitas</strong> y te regalaremos 2 horas al mes]]></value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
     <value>En Langademy puedes hacer videollamadas con tus contactos y controlar el idioma que vayas a practicar.</value>
@@ -143,8 +147,17 @@
   <data name="HelpAssistanteStep3F3" xml:space="preserve">
     <value>Si no quieres recibir llamadas de tus contactos, cambia tu estado a ocupado. Recuerda que las videollamadas también afectan a tu cuenta del Banco de Tiempo.</value>
   </data>
+  <data name="HelpDontShow" xml:space="preserve">
+    <value>No mostrar de nuevo</value>
+  </data>
+  <data name="HelpShowhelpagain" xml:space="preserve">
+    <value>Puedes ver esta ayuda en cualquier momento haciendo clic en el {0} que encontrarás en el pie de la página</value>
+  </data>
   <data name="HelpString" xml:space="preserve">
     <value>Ayuda</value>
+  </data>
+  <data name="HelpWelcome" xml:space="preserve">
+    <value>¡Bienvenido a Langademy!</value>
   </data>
   <data name="LangademyState" xml:space="preserve">
     <value>Estado Langademy</value>

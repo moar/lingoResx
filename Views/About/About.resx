@@ -82,6 +82,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -141,7 +142,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langademy provides a unique way to meet native speakers and exchange languages by videconferencing: the Language Roulette.  You don’t have to worry about anything, just select the language you want to practice, and we will find you a conversation partner.<br />
+    <value><![CDATA[Langademy provides a unique way to meet native speakers and exchange languages by videoconferencing: the Language Roulette.  You don’t have to worry about anything, just select the language you want to practice, and we will find you a conversation partner.<br />
                                 What if no one is available when you get in? No worries, you can create meetups to let the others know when you will be available to chat, or you can join the existing meetups in the meetup board.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">

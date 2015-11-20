@@ -81,6 +81,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -213,13 +214,13 @@
     <value>You can only schedule meetups for your languages</value>
   </data>
   <data name="UserNoLanguages" xml:space="preserve">
-    <value>Yo need to complete your list of languages in your profile for organizing a meetup</value>
+    <value>You need to complete your list of languages in your profile for organizing a meetup</value>
   </data>
   <data name="Natives" xml:space="preserve">
     <value>Natives</value>
   </data>
   <data name="MeetupCollision" xml:space="preserve">
-    <value>You have confirmed your attendance to other meetup at the same time</value>
+    <value>You have confirmed your attendance to another meetup at the same time</value>
   </data>
   <data name="StartTimeMax" xml:space="preserve">
     <value>You can only schedule meetups within the next 15 days from now</value>

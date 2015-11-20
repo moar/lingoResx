@@ -73,6 +73,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -156,7 +157,7 @@
     <value>Users</value>
   </data>
   <data name="NoFilterMatch" xml:space="preserve">
-    <value>There aren't any users that meet your filter. Change the filter or wait until more users get available</value>
+    <value>There aren't any users that meet your filter. Change the filter or wait until more users become available</value>
   </data>
   <data name="RememberRooms" xml:space="preserve">
     <value>Is your room empty? Check if there are any meetups soon in the {0}!</value>
@@ -168,19 +169,19 @@
     <value>Filter</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[There aren't any connected users right now. Visit the <a href="{0}" target="_blank" class="link">meetup board</a> to check if someone will be meeting you soon!]]></value>
+    <value><![CDATA[There aren't any connected users right now. Visit the <a href="{0}" target="_blank" class="link">meetup board</a> to check if someone will be meeting with you soon!]]></value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Write here</value>
   </data>
   <data name="LRAllBusy" xml:space="preserve">
-    <value>Everybody is busy. Hang there, we will find you a chat partner as soon as possible!</value>
+    <value>Everybody is busy. Hang in there, we will find you a chat partner as soon as possible!</value>
   </data>
   <data name="LRFilterTime" xml:space="preserve">
     <value>You have chatted with everyone that suits your requirements. Wait for new users!</value>
   </data>
   <data name="LRNoChatHours" xml:space="preserve">
-    <value>You can't get into this room, you don't have more time in your Time Bank account. Take some time speaking in your native language with others so you earn more time.</value>
+    <value>You can't get into this room, you don't have any more time in your Time Bank account. Take some time speaking in your native language with others so you can earn more time.</value>
   </data>
   <data name="BlockedUserCall" xml:space="preserve">
     <value>You can't call this user</value>
