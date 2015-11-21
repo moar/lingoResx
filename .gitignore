@@ -1304,3 +1304,5 @@ obj/LocalDebug/TempPE/Views.Report.Report.Designer.cs.dll
 obj/LocalDebug/TempPE/Views.RightPanel.RightPanel.Designer.cs.dll
 obj/LocalDebug/TempPE/Views.VideoChat.Videochat.Designer.cs.dll
 obj/LocalDebug/TempPE/Views.VisitProfileApp.Profile.Designer.cs.dll
+obj/Debug/Resources.Views.RecentApps.RecentApp.resources
+obj/Debug/TempPE/Views.RecentApps.RecentApp.Designer.cs.dll

@@ -97,6 +97,15 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Enter the emails of your friends here.
+        /// </summary>
+        public static string EnterFriendEmails {
+            get {
+                return ResourceManager.GetString("EnterFriendEmails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Max. Time.
         /// </summary>
         public static string HBMaxTime {
@@ -106,7 +115,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Invite your friends to &lt;strong&gt;Langademy&lt;/strong&gt; now! Each registered friend will add 30 minutes to your Time Bank account! And if you follow us in the social networks you will earn an extra hour!.
+        ///   Looks up a localized string similar to Invite your friends to &lt;strong&gt;Langademy&lt;/strong&gt; now! Each registered friend will add 30 minutes to your Time Bank account! And if you follow us on your social networks you will earn an extra hour!.
         /// </summary>
         public static string InviteEarn {
             get {
@@ -169,7 +178,7 @@ namespace Resources.Views.HoursBag {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Aún no has realizado ninguna videollamada. Aquí podrás controlar el tiempo que dediques a hablar en cada idioma y tu saldo de tiempo. Haz click en {0}  para consultar las reglas que te permiten aumentar tu saldo de tiempo.
+        ///   Looks up a localized string similar to You haven&apos;t made any calls yet. Here you can control the time you have spoken in each language and your time balance. Click {0} to check the rules that explain how your time balance can be increased..
         /// </summary>
         public static string TBEmptySentence {
             get {
