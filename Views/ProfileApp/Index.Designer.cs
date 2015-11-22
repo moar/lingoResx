@@ -340,6 +340,15 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You must be 16 or older to use Langademy.
+        /// </summary>
+        public static string PMinAge {
+            get {
+                return ResourceManager.GetString("PMinAge", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add language.
         /// </summary>
         public static string ProfAddLanguage {

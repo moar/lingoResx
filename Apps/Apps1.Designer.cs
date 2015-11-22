@@ -61,7 +61,7 @@ namespace Resources.Apps {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Account Manager.
+        ///   Looks up a localized string similar to Settings.
         /// </summary>
         public static string AccountManApp {
             get {
@@ -97,7 +97,7 @@ namespace Resources.Apps {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langroulette.
+        ///   Looks up a localized string similar to Language Roulette.
         /// </summary>
         public static string Langroulette {
             get {
@@ -106,7 +106,7 @@ namespace Resources.Apps {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Meetup Board.
+        ///   Looks up a localized string similar to Meetup board.
         /// </summary>
         public static string MeetupBoardApp {
             get {
@@ -124,7 +124,7 @@ namespace Resources.Apps {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Profile configuration.
+        ///   Looks up a localized string similar to Edit profile.
         /// </summary>
         public static string ProfileApp {
             get {
