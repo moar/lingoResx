@@ -107,6 +107,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -170,7 +171,7 @@
     <value>Langademy es una red social para aprender idiomas. Ofrece un espacio de intercambio de idiomas con nativos de todo el mundo para ayudar a la gente a mejorar su fluidez en un idioma.</value>
   </data>
   <data name="Keywords" xml:space="preserve">
-    <value>aprender idiomas, intercambio de idiomas, mejorar fluidez, practicar Inglés, practicar idiomas, nativos, mejorar idioma</value>
+    <value>Langademy, aprender idiomas, intercambio de idiomas, mejorar fluidez, practicar Inglés, practicar idiomas, nativos, mejorar idioma</value>
   </data>
   <data name="LAbout" xml:space="preserve">
     <value>Acerca de Langademy</value>

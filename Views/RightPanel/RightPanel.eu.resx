@@ -58,54 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -217,5 +169,11 @@
   </data>
   <data name="WriteHere" xml:space="preserve">
     <value>Idatzi hemen</value>
+  </data>
+  <data name="ContactsNoLogged" xml:space="preserve">
+    <value>Hasi sesioa zure kontaktuak ikusteko</value>
+  </data>
+  <data name="NotificationsNoLogged" xml:space="preserve">
+    <value>Hasi sesioa zure jakinarazpenak ikusteko</value>
   </data>
 </root>

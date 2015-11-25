@@ -107,6 +107,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -170,7 +171,7 @@
     <value>Langademy hizkuntzak ikasteko sare sozial ba da. Mundu osoko natiboekin hizkuntza elkartrukea eskaintzen du, zure hizkuntza maila hobetu dezazun</value>
   </data>
   <data name="Keywords" xml:space="preserve">
-    <value>hizkuntzak ikasi, hizkuntza trukea, hizkuntza menderatu, ingelesa ikasi, hizkuntzak praktikatu, hiztun natiboak, zure hizkuntza maila hobetu</value>
+    <value>Langademy, hizkuntzak ikasi, hizkuntza trukea, hizkuntza menderatu, ingelesa ikasi, hizkuntzak praktikatu, hiztun natiboak, zure hizkuntza maila hobetu</value>
   </data>
   <data name="LAbout" xml:space="preserve">
     <value>Langademyri buruz</value>
