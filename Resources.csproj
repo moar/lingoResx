@@ -524,7 +524,6 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Feedback.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Help\Feedback.resx" />
     <EmbeddedResource Include="Views\Help\Help.ca.resx" />
     <EmbeddedResource Include="Views\Help\Help.de.resx" />
     <EmbeddedResource Include="Views\Help\Help.es.resx" />
