@@ -634,6 +634,12 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.ca.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.de.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.es.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.eu.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.fr.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.it.resx" />
     <EmbeddedResource Include="Views\RecentApps\RecentApp.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>RecentApp.Designer.cs</LastGenOutput>
