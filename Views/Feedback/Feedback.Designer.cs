@@ -70,6 +70,15 @@ namespace Resources.Views.Feedback {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Thanks for taking the time to give us feedback. Your opinion is important to us and we will reply as soon as possible.
+        /// </summary>
+        public static string FBThanks {
+            get {
+                return ResourceManager.GetString("FBThanks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Maximun length is 2000 characters.
         /// </summary>
         public static string MaxLength {
@@ -93,15 +102,6 @@ namespace Resources.Views.Feedback {
         public static string SelectFeature {
             get {
                 return ResourceManager.GetString("SelectFeature", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Thanks for taking the time to give us feedback. We will review it and will respond you if it&apos;s possible.
-        /// </summary>
-        public static string Thanks {
-            get {
-                return ResourceManager.GetString("Thanks", resourceCulture);
             }
         }
     }

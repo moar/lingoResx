@@ -79,6 +79,15 @@ namespace Resources.Views.Messages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ¡Te damos la bienvenida a Langademy! Si tienes alguna sugerencia, puedes contestar a esta conversación. Nosotros te antederemos con la mayor brevedad posible.&quot;.
+        /// </summary>
+        public static string FBMessage {
+            get {
+                return ResourceManager.GetString("FBMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Inbox.
         /// </summary>
         public static string InboxMes {

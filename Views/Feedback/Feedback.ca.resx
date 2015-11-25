@@ -62,6 +62,36 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,10 +151,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FbPlaceholder" xml:space="preserve">
-    <value>Escriu al teu feedback...</value>
+    <value>Escriu el teu feedback...</value>
   </data>
   <data name="MaxLength" xml:space="preserve">
-    <value>La llargària màxima del feedback es de 3000 caracters </value>
+    <value>La llargària màxima del feedback es de 3000 caràcters </value>
   </data>
   <data name="Opinion" xml:space="preserve">
     <value>Dóna'ns la teva opinió </value>
@@ -133,6 +163,6 @@
     <value>Selecciona una opció </value>
   </data>
   <data name="Thanks" xml:space="preserve">
-    <value>Gràcies per prendre't el temps i donar-nos la teva opinió. Anem a revisar el teu comentari i et respondre'm si es possible.  </value>
+    <value>Gràcies per prendre't temps i fer-nos arribar la teva suggerència. La teva opinió és important per a nosaltres, i et respondre'm el més aviat possible  </value>
   </data>
 </root>
