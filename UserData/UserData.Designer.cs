@@ -70,6 +70,15 @@ namespace Resources.UserData {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Age.
+        /// </summary>
+        public static string Age {
+            get {
+                return ResourceManager.GetString("Age", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Birth Date.
         /// </summary>
         public static string BirthDate {
@@ -178,7 +187,7 @@ namespace Resources.UserData {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The name must be at least {2} characters long and shorter than {1} characters.
+        ///   Looks up a localized string similar to Your name must be at least {2} characters long and shorter than {1} characters.
         /// </summary>
         public static string NameLength {
             get {

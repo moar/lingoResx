@@ -131,5 +131,14 @@ namespace Resources.Controllers.Account {
                 return ResourceManager.GetString("PwSet", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you requested to reset your password check your email inbox and follow the instructions.
+        /// </summary>
+        public static string ResetPasswordError {
+            get {
+                return ResourceManager.GetString("ResetPasswordError", resourceCulture);
+            }
+        }
     }
 }

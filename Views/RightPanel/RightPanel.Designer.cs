@@ -88,6 +88,15 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Login to see your contacts.
+        /// </summary>
+        public static string ContactsNoLogged {
+            get {
+                return ResourceManager.GetString("ContactsNoLogged", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Decline.
         /// </summary>
         public static string Decline {
@@ -106,7 +115,7 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You don&apos;t have any contacts. Go to {0} and meet new partners!.
+        ///   Looks up a localized string similar to You have no contacts yet. Go to {0} and meet new partners!.
         /// </summary>
         public static string NoContacts {
             get {
@@ -138,6 +147,15 @@ namespace Resources.Views.RightPanel {
         public static string Notifications {
             get {
                 return ResourceManager.GetString("Notifications", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Login to see your notifications.
+        /// </summary>
+        public static string NotificationsNoLogged {
+            get {
+                return ResourceManager.GetString("NotificationsNoLogged", resourceCulture);
             }
         }
         
@@ -192,6 +210,24 @@ namespace Resources.Views.RightPanel {
         public static string ShowAll {
             get {
                 return ResourceManager.GetString("ShowAll", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Videocall.
+        /// </summary>
+        public static string Videocall {
+            get {
+                return ResourceManager.GetString("Videocall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View profile.
+        /// </summary>
+        public static string ViewProfile {
+            get {
+                return ResourceManager.GetString("ViewProfile", resourceCulture);
             }
         }
         

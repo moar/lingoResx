@@ -61,7 +61,7 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allow only requests from people you have spoken to..
+        ///   Looks up a localized string similar to Allow only contact requests from people you have spoken to..
         /// </summary>
         public static string AccAnonymousReq {
             get {
@@ -165,6 +165,15 @@ namespace Resources.Views.AccountManager {
         public static string AccSettings {
             get {
                 return ResourceManager.GetString("AccSettings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unblock.
+        /// </summary>
+        public static string AccUnblock {
+            get {
+                return ResourceManager.GetString("AccUnblock", resourceCulture);
             }
         }
         
