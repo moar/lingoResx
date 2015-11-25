@@ -58,53 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -168,6 +121,9 @@
   </data>
   <data name="Conversations" xml:space="preserve">
     <value>Conversaciones</value>
+  </data>
+  <data name="FBMessage" xml:space="preserve">
+    <value>¡Te damos la bienvenida a Langademy! Si tienes alguna sugerencia, puedes contestar a esta conversación. Nosotros te antederemos con la mayor brevedad posible.</value>
   </data>
   <data name="InboxMes" xml:space="preserve">
     <value>Bandeja de entrada</value>

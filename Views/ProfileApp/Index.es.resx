@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -246,5 +247,8 @@
   </data>
   <data name="ProfCannotUpdateLang" xml:space="preserve">
     <value>No puedes establecer un nivel más alto en menos de 15 días</value>
+  </data>
+  <data name="PMinAge" xml:space="preserve">
+    <value>Tienes que tener al menos 16 años para poder utilizar Langademy</value>
   </data>
 </root>

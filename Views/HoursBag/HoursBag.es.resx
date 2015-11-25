@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -130,6 +131,9 @@
   </data>
   <data name="EarnByTeaching" xml:space="preserve">
     <value><![CDATA[Cuando hablas con otros usuarios de Langademy en tu <strong>idioma nativo</strong> ganas tiempo para tu Banco de Tiempo]]></value>
+  </data>
+  <data name="EnterFriendEmails" xml:space="preserve">
+    <value>Ingresa aquí los emails de tus amigos</value>
   </data>
   <data name="HBMaxTime" xml:space="preserve">
     <value>Tiempo máx</value>
