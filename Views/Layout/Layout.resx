@@ -110,6 +110,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -173,13 +174,13 @@
     <value>Langademy is a social network to learn languages. It offers a language exchange space with natives all over the world for helping people to become fluent in foreign languages. </value>
   </data>
   <data name="Keywords" xml:space="preserve">
-    <value>Langademy, learn languages, language exchange, get fluent, practice english, practice spanish, practice languages, native speakers, improve language level</value>
+    <value>Langademy, learn languages, language exchange, become fluent, practice english, practice spanish, practice languages, native speakers, improve language level</value>
   </data>
   <data name="LAbout" xml:space="preserve">
     <value>About Langademy</value>
   </data>
   <data name="LRDescription" xml:space="preserve">
-    <value>In the Language Roulette you will meet new partners to practice the language you want to learn. Get fluent in a language while you meet new people!</value>
+    <value>In the Language Roulette you will meet new partners to practice the language you want to learn. Become fluent in a language while you meet new people!</value>
   </data>
   <data name="LRKeywords" xml:space="preserve">
     <value>language roulette,language exchange,chat,tandem, fluency</value>

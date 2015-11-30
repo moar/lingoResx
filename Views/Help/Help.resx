@@ -66,6 +66,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -132,7 +133,7 @@
     <value>Langademy in 3 steps</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Get to the Language Roulette, select a language and start practicing it using video call technology.</value>
+    <value>Go to the Language Roulette, select a language and start practicing it using video call technology.</value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
     <value><![CDATA[You can <strong>create meetups</strong> to meet with more people at the Language Roulette]]></value>
@@ -141,7 +142,7 @@
     <value><![CDATA[<strong>Timebanking:</strong>]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
-    <value><![CDATA[If you <strong>teach your native language</strong> you will be rewarded with time for your account, and if you <strong>practice other languages</strong> you will we spending time from the time bank.]]></value>
+    <value><![CDATA[If you <strong>teach your native language</strong> you will be rewarded with time in your account. If you <strong>practice other languages</strong> you will be spending time from the time bank.]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
     <value><![CDATA[You will <strong>start with 5 free hours</strong>, and each month Langademy will give you 2 additional hours.]]></value>
@@ -159,7 +160,7 @@
     <value>Don't show again</value>
   </data>
   <data name="HelpShowhelpagain" xml:space="preserve">
-    <value>You can show this help at any time by clicking {0} at the footer of the page</value>
+    <value>You can show this help at any time by clicking {0} at the foot of the page</value>
   </data>
   <data name="HelpString" xml:space="preserve">
     <value>Help</value>
@@ -186,7 +187,7 @@
     <value>Invite your friends and you will get 30 extra minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 60 minutes).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>When you practice a language that is not your native language, you spend time from your Time Bank account. And if you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time for your account.</value>
+    <value>When you practice a language that is not your native language, you spend time from your Time Bank account. If you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time in your account.</value>
   </data>
   <data name="TimeBankF5" xml:space="preserve">
     <value>Calls that are shorter than a minute have no cost</value>

@@ -75,6 +75,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -183,13 +184,13 @@
     <value>Your online language exchange community</value>
   </data>
   <data name="LearnLang" xml:space="preserve">
-    <value>Learn languages and get fluent talking to people all over the world</value>
+    <value>Learn languages and become fluent talking to people all over the world</value>
   </data>
   <data name="Login" xml:space="preserve">
     <value>Login</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Create or join a language meet-up and let your partners know when u will be joining a meetup in the {0}</value>
+    <value>Create or join a language meet-up and let your partners know when you will be joining a meetup on the {0}</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Visit Langademy!</value>
@@ -198,9 +199,9 @@
     <value>Whenever it suits you</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>{0}  is a videochat roulette where you will find native speakers to practice your favourite languages</value>
+    <value>{0}  is a videochat roulette where you can find native speakers to practice your favourite languages</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
-    <value>Speak in your native language and we will give you the same time to practice other languages</value>
+    <value>Speak in your native language and we will give you the same amount of time to practice other languages</value>
   </data>
 </root>

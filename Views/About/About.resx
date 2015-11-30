@@ -90,6 +90,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -162,10 +163,10 @@
     <value>Timebanking</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
-    <value>Timebanking is a way to make language exchange fair for everyone. If you share your native language with other Langademy users, you earn the same time for practicing other languages in your Time Bank account. And when you practice a language that is not your native language, you spend time from your account. You will start with 5 hours, and every month, you will receive a free recharge of {0} extra hours.</value>
+    <value>Timebanking is a way to make language exchange fair for everyone. If you share your native language with other Langademy users, you earn the same amount of time for practicing other languages in your Time Bank account. And when you practice a language that is not your native language, you spend time from your account. You will start with 5 hours, and every month, you will receive a free recharge of {0} extra hours.</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
-    <value>Learn languages and get fluent with Langademy</value>
+    <value>Learn languages and become fluent with Langademy</value>
   </data>
   <data name="AboutTitle2" xml:space="preserve">
     <value>How does it work?</value>
