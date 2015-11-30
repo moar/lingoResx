@@ -1308,3 +1308,15 @@ obj/Debug/Resources.Views.RecentApps.RecentApp.resources
 obj/Debug/TempPE/Views.RecentApps.RecentApp.Designer.cs.dll
 obj/Release/Resources.Views.RecentApps.RecentApp.resources
 obj/Release/TempPE/Views.RecentApps.RecentApp.Designer.cs.dll
+obj/Debug/Resources.Views.RecentApps.RecentApp.ca.resources
+obj/Debug/Resources.Views.RecentApps.RecentApp.de.resources
+obj/Debug/Resources.Views.RecentApps.RecentApp.es.resources
+obj/Debug/Resources.Views.RecentApps.RecentApp.eu.resources
+obj/Debug/Resources.Views.RecentApps.RecentApp.fr.resources
+obj/Debug/Resources.Views.RecentApps.RecentApp.it.resources
+obj/Release/Resources.Views.RecentApps.RecentApp.ca.resources
+obj/Release/Resources.Views.RecentApps.RecentApp.de.resources
+obj/Release/Resources.Views.RecentApps.RecentApp.es.resources
+obj/Release/Resources.Views.RecentApps.RecentApp.eu.resources
+obj/Release/Resources.Views.RecentApps.RecentApp.fr.resources
+obj/Release/Resources.Views.RecentApps.RecentApp.it.resources
