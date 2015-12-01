@@ -91,6 +91,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -199,7 +200,7 @@
     <value>Correu electrònic o contrasenya incorrecta</value>
   </data>
   <data name="InvitedBy" xml:space="preserve">
-    <value>Convidat per </value>
+    <value>Si has estat convidat per un altre usuari de Langademy, introdueix aquí la seva adreça email</value>
   </data>
   <data name="ResetYourPassword" xml:space="preserve">
     <value>Restablir la contrasenya</value>

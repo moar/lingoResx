@@ -58,39 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -149,12 +116,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
   <data name="AllMeetups" xml:space="preserve">
     <value>Todas las quedadas</value>
   </data>
-  <data name="MBMeetGetLangRoulette" xml:space="preserve">
-    <value>Ve al {0} para entrar a la quedada</value>
+  <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
+    <value>Todavía no ha empezado la quedada, pero puedes entrar al Language Roulette cuando quieras</value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Asistir</value>
@@ -260,5 +226,14 @@
   </data>
   <data name="MBNewMeetupPopover" xml:space="preserve">
     <value>Nuevo</value>
+  </data>
+  <data name="MBEnter" xml:space="preserve">
+    <value>Entrar</value>
+  </data>
+  <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
+    <value>La quedada ha empezado! Entra ahora al Language Roulette</value>
+  </data>
+  <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
+    <value>La quedada ha finalizado. De todas formas puedes entrar al Language Roulette cuando quieras</value>
   </data>
 </root>

@@ -68,6 +68,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,19 +134,20 @@
     <value>Langademy en 3 passos</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Entra a Language Roulette,selecciona un idioma i comença a practicar videoconferència. Langademy t'emparellarà amb un company del nivell que necessitis. </value>
+    <value>Entra a Language Roulette,selecciona un idioma i comença a practicar per videoconferència. </value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
     <value>La forma més fàcil de conèixer gent al Language Roulette es organitzar quedades al Tauler de quedades o bé unir-se a aquelles que han estat ja creades</value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
-    <value><![CDATA[L'intercanvi d'idiomes de Langademy es basa amb el <strong>Banc del Temps:</strong>]]></value>
+    <value><![CDATA[ <strong>Banc del Temps:</strong>]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
-    <value>Quan practiques un idioma que no siga al teu idioma natiu, estaràs gastant hores del teu Banc de Temps. En canvi, si ajudes a un altre usuari amb un idioma que dominis (nivell C2 o natiu), seràs premiat amb temps al teu compte. </value>
+    <value><![CDATA[Si <strong> ensenyes algú al teu idioma natiu</strong> guanyaràs temps al teu compte i si <strong>practiques altres idiomes</strong> gastaràs hores del teu compte.
+]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value>Començaràs amb 5 hores, i cada mes Langademy et regalarà 2 hores addicionals.  </value>
+    <value><![CDATA[Començaràs amb <strong>5 hores </strong> i cada mes Langademy et regalarà 2 hores addicionals.  ]]></value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
     <value>En Langademy pots fer videotrucades amb els teus contactes i decidir quin idioma practicar.</value>
@@ -160,7 +162,7 @@
     <value>No mostrar de nou</value>
   </data>
   <data name="HelpShowhelpagain" xml:space="preserve">
-    <value>Pot veure........... d'ajuda qualsevol moment fent clic {0} al peu de pàgina</value>
+    <value>Pot veure aquesta ajuda en qualsevol moment fent clic en  {0}  que trobaràs al peu de pàgina</value>
   </data>
   <data name="HelpString" xml:space="preserve">
     <value>Ajuda </value>
@@ -172,7 +174,7 @@
     <value>Estat Langademy</value>
   </data>
   <data name="LangrouletteIntro" xml:space="preserve">
-    <value>El Language Roulette és l'espai on es reuneixen les persones que desitgen intercanviar idiomes. Selecciona una sala i comença a practicar el teu idioma favorit! Nosaltres ens encarregarem de emparellar-te! Recorda que pots consultar el tauler de quedades per saber quan tindran lloc les quedades a el Language Roulette.</value>
+    <value>El Language Roulette és l'espai on es reuneix la gent que desitja intercanviar idiomes. Selecciona una sala i comença a practicar el teu idioma favorit! Nosaltres ens encarregarem de emparellar-te! Recorda que pots consultar el tauler de quedades per saber quan tindran lloc les quedades a el Language Roulette.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>El Banc de Temps es un concepte per a que amb l'intercanvi d'idiomes tots surtin guanyant. 
