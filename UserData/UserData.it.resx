@@ -63,6 +63,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -123,6 +124,9 @@
   </resheader>
   <data name="Advanced" xml:space="preserve">
     <value>Avanzato</value>
+  </data>
+  <data name="Age" xml:space="preserve">
+    <value>Età</value>
   </data>
   <data name="BirthDate" xml:space="preserve">
     <value>Data di nascita</value>

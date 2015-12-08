@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -139,6 +140,9 @@
   <data name="EarnByTeaching" xml:space="preserve">
     <value><![CDATA[Quan parles amb un altres usuari de Langademy el teu <strong>idioma natiu</strong> guanyes temps per al teu Banc del Temps.]]></value>
   </data>
+  <data name="EnterFriendEmails" xml:space="preserve">
+    <value>Introdueix aquí els emails dels teus amics </value>
+  </data>
   <data name="HBMaxTime" xml:space="preserve">
     <value>Temps màx.</value>
   </data>
@@ -162,6 +166,9 @@
   </data>
   <data name="TBDate" xml:space="preserve">
     <value>Data</value>
+  </data>
+  <data name="TBEmptySentence" xml:space="preserve">
+    <value>No has realitzat cap videotrucada. Aquí podràs controlar el temps que dediquis ha parlar amb cada idioma i el saldo de temps. Fes click en {0} per consultar les regles que et permetran augmentar el teu saldo de temps</value>
   </data>
   <data name="TitleHoursBag" xml:space="preserve">
     <value>Banc de Temps</value>

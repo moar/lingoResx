@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -191,6 +192,9 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
     <value>Quan practiques un idioma que no siga el teu idioma natiu, estaràs gastant temps del teu compte del Banc del Temps. En canvi, si ajudes amb un idioma que domines (nivell mínim: C2), a un altre usuari et sumarà aquest temps al teu compte.</value>
+  </data>
+  <data name="TimeBankF5" xml:space="preserve">
+    <value>Les trucades de menys d'un minut no tenen cap cost</value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Banc de temps</value>

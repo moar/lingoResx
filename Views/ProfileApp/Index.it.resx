@@ -74,6 +74,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -251,5 +252,11 @@
   </data>
   <data name="WrongFormat" xml:space="preserve">
     <value>Il file è di formato sbagliato</value>
+  </data>
+  <data name="ProfCannotUpdateLang" xml:space="preserve">
+    <value>Non è possibile impostare un livello più alto in meno di 15 giorni</value>
+  </data>
+  <data name="PMinAge" xml:space="preserve">
+    <value>Devi avere 16 anni per poter utilizzare Langademy</value>
   </data>
 </root>

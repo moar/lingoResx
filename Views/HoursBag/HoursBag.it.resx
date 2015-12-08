@@ -69,6 +69,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -137,7 +138,10 @@
     <value>Guadagna più ore</value>
   </data>
   <data name="EarnByTeaching" xml:space="preserve">
-    <value>Quando </value>
+    <value><![CDATA[Quando parli ad altri utenti Langademy nella tua <strong>lingua madre</strong> guadagni tempo ]]></value>
+  </data>
+  <data name="EnterFriendEmails" xml:space="preserve">
+    <value>Inserisci le email dei tuoi amici qui</value>
   </data>
   <data name="HBMaxTime" xml:space="preserve">
     <value>Max. Tempo</value>
@@ -149,7 +153,7 @@
     <value>Inserisci un indirizzo email e premi spazio o ";"</value>
   </data>
   <data name="RemainingBagTime" xml:space="preserve">
-    <value>Bilancio di ore</value>
+    <value>Saldo di ore </value>
   </data>
   <data name="RemainingTime" xml:space="preserve">
     <value>Saldo restante</value>
@@ -162,6 +166,9 @@
   </data>
   <data name="TBDate" xml:space="preserve">
     <value>Data</value>
+  </data>
+  <data name="TBEmptySentence" xml:space="preserve">
+    <value>Non hai ancora fatto alcuna chiamata. Qui puoi controllare il tempo che hai parlato in ogni lingua e il saldo del tempo. Clicca qui  {0} per controllare le regole che spiegano come il saldo di tempo può essere aumentato.</value>
   </data>
   <data name="TitleHoursBag" xml:space="preserve">
     <value>Banca del Tempo</value>

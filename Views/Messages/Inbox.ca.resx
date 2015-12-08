@@ -65,6 +65,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,6 +129,9 @@
   </data>
   <data name="Conversations" xml:space="preserve">
     <value>Conversacions </value>
+  </data>
+  <data name="FBMessage" xml:space="preserve">
+    <value>Benvingut a Langademy! Si tens alguna suggerència, pots respondre a aquesta conversa. Et donarem una resposta el més aviat possible.</value>
   </data>
   <data name="InboxMes" xml:space="preserve">
     <value>Safata d'entrada</value>
