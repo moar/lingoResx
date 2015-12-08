@@ -94,6 +94,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -157,7 +158,7 @@
 Eta sartzen zarenean inor ez badago? Lasai, bilerak antolatzeko aukera duzu, eta horrela gainontzeko erabiltzaileek beraiekin solasaldi bat izateko libre noiz egongo zaren jakingo dute. Gainera, besteek sortutako bilerak kontsultatu ditzakezu bilera taulan.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
-    <value>Langademy hizkuntza elkartrukerako sareko komunitate bat da, eta bertan mundu osoko natiboekin hizkuntza atzerritarrak praktikatu ahal izango dituzu. Hiztun natiboak kontextu natural batean entzuteak zure entzumena hobetzen lagunduko dizu eta baita hizkuntza bakoitzeko doinu bakarrak ikasten ere. Era berean, zure ahozko gaitasuna era hobetuko duzu. Hitz berriak eta hizkuntzetako jatorrizko esaldiak ikasiko dituzu, hitz egiten duzun bitartean hiztun natiboa zu zuzentzeko prest izango duzun bitartean.</value>
+    <value>Langademy hizkuntza elkartrukerako sareko komunitate bat da, eta bertan mundu osoko natiboekin hizkuntza atzerritarrak praktikatu ahal izango dituzu. Hiztun natiboak kontextu natural batean entzuteak zure entzumena hobetzen lagunduko dizu eta baita hizkuntza bakoitzeko doinu bakarrak ikasten ere. Era berean, zure ahozko gaitasuna ere hobetuko duzu. Hitz berriak eta hizkuntzetako jatorrizko esaldiak ikasiko dituzu, hitz egiten duzun bitartean hiztun natiboa zu zuzentzeko prest izango duzun bitartean.</value>
   </data>
   <data name="AboutMainTitle" xml:space="preserve">
     <value>Langademyri buruz</value>
