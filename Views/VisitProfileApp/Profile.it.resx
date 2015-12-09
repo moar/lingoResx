@@ -75,6 +75,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -224,7 +225,7 @@
     <value>Vedi tutti ({0})</value>
   </data>
   <data name="LangExStats" xml:space="preserve">
-    <value>Statistiche su lo scambio di lingue </value>
+    <value>Statistiche sullo scambio di lingue </value>
   </data>
   <data name="ProfUserReported" xml:space="preserve">
     <value>Questo utente è stato riportato</value>
