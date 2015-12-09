@@ -95,6 +95,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -154,7 +155,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langademyk hiztun natiboak ezagutzeko eta hizkuntza elkartrukerako b paregabea eskaintzen du bideo konferentziak erabiliz: Language Roulettea. Ez duzu ezertaz arduratu beharrik: praktikatu nahi duzun hizkuntza aukeratu eta zurekin hitz egiteko bikotekide bat aurkituko dizugu. <br/>
+    <value><![CDATA[Langademyk hiztun natiboak ezagutzeko eta hizkuntza elkartrukerako modu paregabea eskaintzen du bideo konferentziak erabiliz: Language Roulettea. Ez duzu ezertaz arduratu beharrik: praktikatu nahi duzun hizkuntza aukeratu eta zurekin hitz egiteko bikotekide bat aurkituko dizugu. <br/>
 Eta sartzen zarenean inor ez badago? Lasai, bilerak antolatzeko aukera duzu, eta horrela gainontzeko erabiltzaileek beraiekin solasaldi bat izateko libre noiz egongo zaren jakingo dute. Gainera, besteek sortutako bilerak kontsultatu ditzakezu bilera taulan.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
