@@ -82,6 +82,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -180,7 +181,7 @@
     <value>Izena eman</value>
   </data>
   <data name="KnowPeople" xml:space="preserve">
-    <value>Jende berria ezagutu ezazu</value>
+    <value>Mintzalagun berriak ezagutu itzazu</value>
   </data>
   <data name="Participants" xml:space="preserve">
     <value>Partaideak</value>
