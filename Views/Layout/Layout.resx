@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -123,7 +124,7 @@
     <value>Langademy is an online language exchange community where you can practice foreign languages with natives all over the world.</value>
   </data>
   <data name="DescMeetupBoard" xml:space="preserve">
-    <value>in the meetup board, you can create meetups to let the others know when you will be available to chat, or you can join the existing meetups </value>
+    <value>In the meetup board, you can create meetups to let the others know when you will be available to chat, or you can join the existing meetups </value>
   </data>
   <data name="DescPrivacy" xml:space="preserve">
     <value>www.langademy.com is owned and operated by Eyelang S.L. We provide this Privacy Policy to better serve those who are concerned with how their personal information is being used online</value>

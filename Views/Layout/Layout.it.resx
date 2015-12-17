@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,6 +122,9 @@
   </resheader>
   <data name="DescAbout" xml:space="preserve">
     <value>Langademy è una comunità di scambio di lingua online dove è possibile praticare le lingue straniere con i nativi di tutto il mondo</value>
+  </data>
+  <data name="DescMeetupBoard" xml:space="preserve">
+    <value>Nella tabella di appuntamenti, è possibile organizzare appuntamenti, così gli altri sanno quando sarai disponibile, oppure è possibile unirsi ai appuntamenti esistenti</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Langademy è un social network per imparare le lingue. Offre scambio linguistico con nativi di tutto il mondo così la gente può ottenere scioltezza in una lingua.</value>

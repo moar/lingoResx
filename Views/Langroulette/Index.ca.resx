@@ -58,37 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -209,5 +178,8 @@
   </data>
   <data name="LRSelMinimumLevel" xml:space="preserve">
     <value>Seleccionar el nivell mínim</value>
+  </data>
+  <data name="LRRememberLanguageList" xml:space="preserve">
+    <value>Recordeu que tan sols pots accedir a les sales dels idiomes que practiques. Si vols practicar més idiomes,afegieix els idiomes al teu perfil. </value>
   </data>
 </root>

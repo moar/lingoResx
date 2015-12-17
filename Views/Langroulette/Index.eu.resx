@@ -58,37 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -209,5 +178,8 @@
   </data>
   <data name="LRSelMinimumLevel" xml:space="preserve">
     <value>Aukeratu maila minimoa</value>
+  </data>
+  <data name="LRRememberLanguageList" xml:space="preserve">
+    <value>Gogoratu praktikatzen dituzun hizkuntzen gelak soilik dituzula eskuragarri. Hizkuntza gehiago praktikatu nahi badituzu gehitu itzazu zure profilera</value>
   </data>
 </root>

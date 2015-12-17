@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -121,6 +122,12 @@
   </resheader>
   <data name="DescAbout" xml:space="preserve">
     <value>Langacademy és una comunitat online d'intercanvi d'idiomes on pots practicar idiomes amb natius de tot el món</value>
+  </data>
+  <data name="DescMeetupBoard" xml:space="preserve">
+    <value>Al tauler de quedades, pot organitzar quedades per a que la resta sàpiguen quan vas a estar disponible, o per unir-te a les quedades ja existents</value>
+  </data>
+  <data name="DescPrivacy" xml:space="preserve">
+    <value>www.langademy.com és propietat i està operat per Eyelang SL. Proporcionem aquesta Política de Privacitat</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Langademy es una xarxa social per aprendre idiomes. Ofereix l'intercanvi d'idiomes amb natius d'arreu del món per a que la gent pugui aconseguir fluïdesa amb un idioma</value>
