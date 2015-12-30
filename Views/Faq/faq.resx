@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
+  <!--Microsoft ResX Schema 
     
     Version 2.0
     
@@ -57,48 +56,48 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
+            : and then encoded with base64 encoding.-->
+  
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -121,11 +120,11 @@
     <value>The Language Roulette room list only shows the languages you have added to your profile. If you want to learn new languages or get other languages’ rooms, just add those languages to your profile</value>
   </data>
   <data name="Answer2" xml:space="preserve">
-    <value>The main way to get hours for your account, is by talking to others in your native languages. You can go to a Language Roulette room of one of your native languages, or you can make private calls in your native languages with your contacts.&lt;br /&gt;
-                                You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook.</value>
+    <value><![CDATA[The main way to get time for your account, is by talking to others in your native languages. You can go to a Language Roulette room of one of your native languages, or you can make private calls in your native languages with your contacts.<br />
+                                You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook.]]></value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>If you go to a Language Roulette room and there its empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup.</value>
+    <value>If you go to a Language Roulette room and there it's empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup.</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Yes. Go to Settings =&gt; Privacy, and turn on the “Allow only contact requests from people you have spoken to” option.</value>
@@ -149,7 +148,7 @@
     <value>Why are only some rooms available in the Language Roulette room lists?</value>
   </data>
   <data name="Question2" xml:space="preserve">
-    <value>How can I earn more hours for my account?</value>
+    <value>How can I earn more timefor my account?</value>
   </data>
   <data name="Question3" xml:space="preserve">
     <value>There aren’t any available meetups. What can I do?</value>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!--Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.-->
+  
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+              </xsd:sequence>
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Answer1" xml:space="preserve">
+    <value>Language Rouletteko gela zerrendan zure profilean gehituta dituzun hizkuntzen gelak soilik daude eskuragarri. Hizkuntza berriak ikasi nahi badituzu edo beste hizkuntza batzuetako geletara sartu nahi baduzu, gehitu itzazu hizkuntza horiek zure profilean.</value>
+  </data>
+  <data name="Answer2" xml:space="preserve">
+    <value><![CDATA[Zure konturako denbora gehigarria lortzeko modu nagusia, Langademyko kideekin zuk menperatzen dituzun hizkuntzetan mintzatzea da. Hizkuntza hauetako Language Rouletteko geletara joan zaitezke, edo zure Langademyko  konexioekin bideo-dei pribatuak egin ditzakezu.<br/>
+Zure lagunak Langademyra gonbidatuz edo Twitterren eta Facebooken gure jarraitzaile eginez ere zure konturako denbora irabaziko duzu]]></value>
+  </data>
+  <data name="Answer3" xml:space="preserve">
+    <value>Language Rouletteko gela batera sartzen bazara eta bertan inor ez badago, bilera taulan bileraren bat programatuta dagoen ikus dezakezu. Bilerarik ez badago, bileraren bat antolatu dezakezu. Bileraren hizkuntza, data eta ordua soilik aukeratu behar dituzu.</value>
+  </data>
+  <data name="Answer4" xml:space="preserve">
+    <value>Bai. Joan Ezarpenak =&gt; Pribazitatea-ra, eta "Ezagutzen duzun jendearen kontaktu eskaerak soilik onartu" aukera gaitu ezazu.</value>
+  </data>
+  <data name="Answer5" xml:space="preserve">
+    <value>Bilera guztiak Language Rouletteko geletan egiten dira. Bilera batera joateko, Language Roulettean bileraren gelara sar zaitezke, edo bestela, bilera taulan bilera aukeratu, eta zuzenean Language Rouletteko gelara sar zaitezke</value>
+  </data>
+  <data name="Answer6" xml:space="preserve">
+    <value>Ez, eta ez duzu ezer instalatu behar Langademyn bideo deiak egiteko</value>
+  </data>
+  <data name="Answer7" xml:space="preserve">
+    <value>Langademy erabiltzeko ez duzu ezer ordaindu behar. Denbora banku politika bat erabiltzen dugu. Hau da. beste erabiltzaileei zuk menderatzen dituzun hizkuntzetan hitz egiten badiezu, beraiekin hizketan igaro duzun denbora zure kontura gehituko da, zuk nahi dituzun hizkuntzak ikasi ditzazun</value>
+  </data>
+  <data name="Answer8" xml:space="preserve">
+    <value>Language Rouletteko konbertsazio batean zaudenean, zure solasaldiko lagunari konexio eskaera bat bidali diezaiokezu. Konektatuta zaudetenean, mezu eta bideo-dei pribatuak egin ditzakezue zuen artean</value>
+  </data>
+  <data name="Answer9" xml:space="preserve">
+    <value>Langademyk munduko hizkuntza gehienetako gelak eskaintzen ditu. Hizkuntzaren bat faltan botatzen baduzu, kontakta gaitzazu</value>
+  </data>
+  <data name="Question1" xml:space="preserve">
+    <value>Zergatik ez daude gela guztiak eskuragarri Language Rouletteko gela zerrendan?</value>
+  </data>
+  <data name="Question2" xml:space="preserve">
+    <value>Nola irabazi ditzaket nire konturako ordu gehiago?</value>
+  </data>
+  <data name="Question3" xml:space="preserve">
+    <value>Ez dago bilerarik bilera taulan. Zer egin dezaket?</value>
+  </data>
+  <data name="Question4" xml:space="preserve">
+    <value>Ezagutzen ez dudan jendearen konexio eskaera ugari ditu. Zelan saihestu dezaket egoera hau?</value>
+  </data>
+  <data name="Question5" xml:space="preserve">
+    <value>Bilera batera apuntatu naiz, baina ez dakit nola joan naitekeen bilerara</value>
+  </data>
+  <data name="Question6" xml:space="preserve">
+    <value>Bideo deietarako Skype erabili behar al dut?</value>
+  </data>
+  <data name="Question7" xml:space="preserve">
+    <value>Langademy erabiltzeko zerbait ordaindu behar al dut?</value>
+  </data>
+  <data name="Question8" xml:space="preserve">
+    <value>Nola mantendu dezaket harremana Language Roulettean ezagutu dudan jendearekin?</value>
+  </data>
+  <data name="Question9" xml:space="preserve">
+    <value>Zein hizkuntza ikasteko erabil dezaket Langademy?</value>
+  </data>
+</root>
