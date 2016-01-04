@@ -70,7 +70,25 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The main way to get hours for your account, is by talking to others in your native languages. You can go to a Language Roulette room of one of your native languages, or you can make private calls in your native languages with your contacts.&lt;br /&gt;
+        ///   Looks up a localized string similar to Langademy uses WebRTC technology for making videocalls, which not every browser supports. We recommend the latest versions of Chrome, Firefox or Opera for achieving the best compatibility with Langademy. Unfortunately, if you are using an IOS-based device like an Iphone or an IPad, currently there aren’t any available options to make videocalls at Langademy (not even with Chrome). In the future we are planning to develop a native IOS App so you can also get the most out of Langademy..
+        /// </summary>
+        public static string Answer10 {
+            get {
+                return ResourceManager.GetString("Answer10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not at all. It just means that you arrived before the other partners. Do not hesitate and enter the room. As soon as other users enter the room you will be automatically paired and you will start talking. Not everybody is punctual, so be patient and wait inside the room. We are considering to develop some minigames to make the waiting time more entertaining. What do you think? You can send us your feedback by clicking the feedback link at the footer of Langademy’s main page..
+        /// </summary>
+        public static string Answer11 {
+            get {
+                return ResourceManager.GetString("Answer11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The main way to get time for your account, is by talking to others in your native languages. You can go to a Language Roulette room of one of your native languages, or you can make private calls in your native languages with your contacts.&lt;br /&gt;
         ///                                You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook..
         /// </summary>
         public static string Answer2 {
@@ -80,7 +98,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you go to a Language Roulette room and there its empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup..
+        ///   Looks up a localized string similar to If you go to a Language Roulette room and there it&apos;s empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup..
         /// </summary>
         public static string Answer3 {
             get {
@@ -152,7 +170,25 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to How can I earn more hours for my account?.
+        ///   Looks up a localized string similar to Why do I have a warning indicating that my browser does not support videocalls?.
+        /// </summary>
+        public static string Question10 {
+            get {
+                return ResourceManager.GetString("Question10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I joined a meetup but there are no people in the Language Roulette room at the starting time of the meetup. Does it mean that it has been cancelled?.
+        /// </summary>
+        public static string Question11 {
+            get {
+                return ResourceManager.GetString("Question11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How can I earn more timefor my account?.
         /// </summary>
         public static string Question2 {
             get {
