@@ -519,6 +519,12 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Faq\faq.ca.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.de.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.es.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.eu.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.fr.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.it.resx" />
     <EmbeddedResource Include="Views\Faq\faq.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>faq.Designer.cs</LastGenOutput>
