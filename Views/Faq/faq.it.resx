@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,4 +117,59 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="Answer1" xml:space="preserve">
+    <value>L'elenco di stanze dal Language Roulette mostra solo le lingue che hai aggiunto al tuo profilo. Se voi imparare nuove lingue o accedere alle altre stanze, basta aggiungere le lingue al tuo profilo</value>
+  </data>
+  <data name="Answer2" xml:space="preserve">
+    <value>Il modo principale per ottenere tempo per il tuo account, è parlare con altri nella tua lingua madre. Si può andare in una stanza  Language Roulette di uno dei vostri lingue native, o è possibile effettuare chiamate private nelle vostre lingue madri con i tuoi contatti.</value>
+  </data>
+  <data name="Answer3" xml:space="preserve">
+    <value>Se si va in una stanza di Language Roulette e non c'e nessuno, puoi andare sulla tabella di appuntamenti. Se non c'e nessun appuntantamento creato è possibile creare uno di nuovo, devi selezionare la lingua,l'ora e il giorno dell'appuntamento</value>
+  </data>
+  <data name="Answer4" xml:space="preserve">
+    <value>Sì. Vai a Impostazioni =&gt; Privacy, e attivare l'opzione "Consenti solo le richieste di contatto da parte di persone  con cui hai parlato"</value>
+  </data>
+  <data name="Answer5" xml:space="preserve">
+    <value>Tutti gli appuntamenti si svolgono in Language Roulette. Per accedere a un appuntamento puoi andare alla app di Language Roulette e selezionare la stanza. Anche puoi andare nella tabella di appuntamenti e selezionare l'appuntamento e accedere direttamente in camera quando sarà il momento.
+</value>
+  </data>
+  <data name="Answer6" xml:space="preserve">
+    <value>No, e non c'è bisogno di installare alcun plug addizionale per utilizzare videoconferenze su Langademy.</value>
+  </data>
+  <data name="Answer7" xml:space="preserve">
+    <value>Non devi pagare niente per usare Langacademy. Usiamo una politica di banca del tempo. Il tempo di utilizzo per parlare nella tua lingua madre sarà aggiunto al tuo account per poter utilizzare e imparare la lingua che desideri.</value>
+  </data>
+  <data name="Answer8" xml:space="preserve">
+    <value>Quando sei in una conversazione in una stanza nel Language Roulette, si ha la possibilità di inviare una richiesta di connessione al tuo partner. Una volta che siete connessi, è possibile inviare messaggi privati ed effettuare videochiamate private.</value>
+  </data>
+  <data name="Answer9" xml:space="preserve">
+    <value>Langacademy dispone di sale in quasi tutte le lingue del mondo. Ti preghiamo di contattarci se senti che manca qualsiasi lingua</value>
+  </data>
+  <data name="Question1" xml:space="preserve">
+    <value>Perché solo si mostrano alcune camere nella lista delle sale del Language Roulette?</value>
+  </data>
+  <data name="Question2" xml:space="preserve">
+    <value>Come posso guadagnare più tempo per il mio account?</value>
+  </data>
+  <data name="Question3" xml:space="preserve">
+    <value>Non c'e nessun appuntamento disponibile. Cosa posso fare?</value>
+  </data>
+  <data name="Question4" xml:space="preserve">
+    <value>Ho molte richieste di amicizia da parte di persone che non conosco. Come posso evitare questo?</value>
+  </data>
+  <data name="Question5" xml:space="preserve">
+    <value>Mi sono registrato ad un appuntamento ma non so come accedere.</value>
+  </data>
+  <data name="Question6" xml:space="preserve">
+    <value>Ho bisogno di utilizzare Skype?</value>
+  </data>
+  <data name="Question7" xml:space="preserve">
+    <value>Devo pagare per utilizzare Langademy?</value>
+  </data>
+  <data name="Question8" xml:space="preserve">
+    <value>Come posso rimanere in contatto con le persone che ho parlato nel Language Roulette?</value>
+  </data>
+  <data name="Question9" xml:space="preserve">
+    <value>Quali lingue sono disponibili in Langademy?</value>
+  </data>
+</root>

@@ -58,14 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -243,5 +235,32 @@
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
     <value>L'appuntamento è finito. Ma ricorda che puoi andare al Language Roulette quando vuoi</value>
+  </data>
+  <data name="AboutToShareReddit" xml:space="preserve">
+    <value>Stai per condividere questo appuntamento su Reddit. Ti consigliamo i seguenti subreddits:</value>
+  </data>
+  <data name="CopiedToClipboard" xml:space="preserve">
+    <value>Quando si fa clic su Continua, il testo del post verrà copiato negli appunti e sarai reindirizzato alla {{:SiteUrl}}</value>
+  </data>
+  <data name="LangContacts" xml:space="preserve">
+    <value>Contatti Langademy</value>
+  </data>
+  <data name="MBContinue" xml:space="preserve">
+    <value>Continuare</value>
+  </data>
+  <data name="MBMeetupDefaultPost" xml:space="preserve">
+    <value>Partecipa nell'appuntamento di {0} il {1} en %s</value>
+  </data>
+  <data name="MBPost" xml:space="preserve">
+    <value>Inviare</value>
+  </data>
+  <data name="MBShareSubreddit" xml:space="preserve">
+    <value>Appuntamento videochat per praticare {0} su {1}.</value>
+  </data>
+  <data name="ShareReddit" xml:space="preserve">
+    <value>Condividi su Reddit</value>
+  </data>
+  <data name="SubmitToReddit" xml:space="preserve">
+    <value>Invia a Reddit</value>
   </data>
 </root>

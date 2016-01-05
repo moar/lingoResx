@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -116,4 +117,59 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="Answer1" xml:space="preserve">
+    <value>La llista de sales del Language Roulette només mostra els idiomes que has afegit al teu perfil. Si vols aprendre nous idiomes o accedir a les sales dels altres idiomes, has d'afegir aquests idiomes al teu perfil</value>
+  </data>
+  <data name="Answer2" xml:space="preserve">
+    <value>La principal forma d'obtenir temps per al teu compte, és ensenyar les teves  llengües natives al altres usuaris. Pots anar a una sala Language Roulette d'un dels teus idiomes natius o pots fer video trucades privades amb els teus contactes.</value>
+  </data>
+  <data name="Answer3" xml:space="preserve">
+    <value>Si accedeixes a una sala de Language Roulette i esta buida, pots veure si al tauler de quedades hi ha creada alguna quedada. Si no hi ha cap quedada, les pots crear. Tan sols tens que seleccionar l'idioma, la data i l'hora de la quedada. </value>
+  </data>
+  <data name="Answer4" xml:space="preserve">
+    <value>Sí. Accedeix a Configuració =&gt; Privadesa i habilita l'opció "Permetre només les sol·licituds de contacte de la gent amb la que has parlat".</value>
+  </data>
+  <data name="Answer5" xml:space="preserve">
+    <value>Totes les quedades es duen a terme al Language Roulette. Per accedir a una quedada pots anar a l'aplicació del Language Roulette i seleccionar la sala, o seleccioneu la quedada al tauler de quedades i entrar directament quan arribi el moment.</value>
+  </data>
+  <data name="Answer6" xml:space="preserve">
+    <value>No, i no has d'instal·lar  cap complement addicional per fer videotrucades a Langademy.
+ </value>
+  </data>
+  <data name="Answer7" xml:space="preserve">
+    <value>No has de pagar res per utilitzar Langacademy. Fem servir una política de banc de temps. El temps que utilitzis per parlar en el teus idiomes natius serà afegit al teu compte perquè l'utilitzis per aprendre els idiomes que vulguis.</value>
+  </data>
+  <data name="Answer8" xml:space="preserve">
+    <value>Quan estiguis en una conversa dins d'una sala Language Roulette, tens l'opció d'enviar una sol·licitud de connexió al teu company. Una vegada que estigueu connectats, podreu enviar missatges privats i realitzar videotrucades privades entre vosaltres.</value>
+  </data>
+  <data name="Answer9" xml:space="preserve">
+    <value>Langacademy ofereix sales de gairebé tots els idiomes del món. No dubtis a contactar-nos si trobes a faltar algun idioma</value>
+  </data>
+  <data name="Question1" xml:space="preserve">
+    <value>Per què només es mostren algunes sales a la llista de sales del Language Roulette?</value>
+  </data>
+  <data name="Question2" xml:space="preserve">
+    <value>Com puc guanyar més temps per al meu compte?</value>
+  </data>
+  <data name="Question3" xml:space="preserve">
+    <value>No hi ha cap quedada disponible. Què puc fer?</value>
+  </data>
+  <data name="Question4" xml:space="preserve">
+    <value>Tinc moltes peticions d'amistat de gent que no conec. Puc evitar aquesta situació?</value>
+  </data>
+  <data name="Question5" xml:space="preserve">
+    <value>M'he apuntat a una quedada però no sé com accedir-hi</value>
+  </data>
+  <data name="Question6" xml:space="preserve">
+    <value>He de fer servir Skype?</value>
+  </data>
+  <data name="Question7" xml:space="preserve">
+    <value>He de pagar per utilitzar Langacademy?</value>
+  </data>
+  <data name="Question8" xml:space="preserve">
+    <value>Com puc mantenir el contacte amb la gent que he xerrat en el Language Roulette?</value>
+  </data>
+  <data name="Question9" xml:space="preserve">
+    <value>Quins idiomes puc practicar a Langacademy?</value>
+  </data>
+</root>
