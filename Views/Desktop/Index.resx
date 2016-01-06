@@ -101,6 +101,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -163,7 +164,7 @@
     <value>Account options</value>
   </data>
   <data name="AddAboutYou" xml:space="preserve">
-    <value>Add information about you</value>
+    <value>Add information about your interests</value>
   </data>
   <data name="AddBirthDate" xml:space="preserve">
     <value>Add your birth date</value>
@@ -226,7 +227,7 @@
     <value>You have no messages</value>
   </data>
   <data name="EmptyMeetups" xml:space="preserve">
-    <value>Join a meetup!</value>
+    <value>Create a meetup!</value>
   </data>
   <data name="LogOut" xml:space="preserve">
     <value>Logout</value>
