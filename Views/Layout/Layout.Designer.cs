@@ -70,7 +70,16 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to in the meetup board, you can create meetups to let the others know when you will be available to chat, or you can join the existing meetups .
+        ///   Looks up a localized string similar to In this page you cand find the most asked questions about Langademy: languages you can learn, how the timebank works and another information that has been asked by the community.
+        /// </summary>
+        public static string DescFaq {
+            get {
+                return ResourceManager.GetString("DescFaq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In the meetup board, you can create meetups to let the others know when you will be available to chat, or you can join the existing meetups .
         /// </summary>
         public static string DescMeetupBoard {
             get {
@@ -174,6 +183,15 @@ namespace Resources.Views.Layout {
         public static string TBTitle {
             get {
                 return ResourceManager.GetString("TBTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hi! I&apos;m {0} and I want to learn new languages at Langademy!.
+        /// </summary>
+        public static string UserDescription {
+            get {
+                return ResourceManager.GetString("UserDescription", resourceCulture);
             }
         }
     }
