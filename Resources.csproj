@@ -215,6 +215,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\Faq\faq.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>faq.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Feedback\Feedback.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -526,6 +531,16 @@
     <EmbeddedResource Include="Views\Desktop\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Faq\faq.ca.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.de.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.es.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.eu.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.fr.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.it.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>faq.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Feedback\Feedback.ca.resx" />
     <EmbeddedResource Include="Views\Feedback\Feedback.de.resx" />

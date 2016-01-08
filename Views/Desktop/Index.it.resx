@@ -99,6 +99,9 @@
   
   
   
+  
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -161,7 +164,7 @@
     <value>Opzioni di account</value>
   </data>
   <data name="AddAboutYou" xml:space="preserve">
-    <value>Aggiungere informazioni su di te</value>
+    <value>Aggiungere informazioni sui tuoi interessi</value>
   </data>
   <data name="AddBirthDate" xml:space="preserve">
     <value>Aggiungi la tua data di nascita</value>
@@ -224,7 +227,7 @@
     <value>Non hai nessun messaggio</value>
   </data>
   <data name="EmptyMeetups" xml:space="preserve">
-    <value>Partecipa nell'appuntamento!</value>
+    <value>Creare un appuntamento!</value>
   </data>
   <data name="LogOut" xml:space="preserve">
     <value>Disconnettersi</value>

@@ -59,12 +59,6 @@
             : and then encoded with base64 encoding.-->
   
   
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -242,5 +236,32 @@
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
     <value>La quedada ha finalizado. De todas formas puedes entrar al Language Roulette cuando quieras</value>
+  </data>
+  <data name="AboutToShareReddit" xml:space="preserve">
+    <value>Vas a compartir esta quedada en Reddit. Te sugerimos los siguientes subreddits:</value>
+  </data>
+  <data name="CopiedToClipboard" xml:space="preserve">
+    <value>Cuando cliques Continuar, el texto de este post se copiará en el portapapeles y serás redirigido a {{:SiteUrl}</value>
+  </data>
+  <data name="LangContacts" xml:space="preserve">
+    <value>Contactos de Langademy</value>
+  </data>
+  <data name="MBContinue" xml:space="preserve">
+    <value>Continuar</value>
+  </data>
+  <data name="MBMeetupDefaultPost" xml:space="preserve">
+    <value>Únete a mí quedada de {0} el {1} en %s</value>
+  </data>
+  <data name="MBPost" xml:space="preserve">
+    <value>Postear</value>
+  </data>
+  <data name="MBShareSubreddit" xml:space="preserve">
+    <value>Quedada de videochat para practicar {0} en {1}.</value>
+  </data>
+  <data name="ShareReddit" xml:space="preserve">
+    <value>Compartir en Reddit</value>
+  </data>
+  <data name="SubmitToReddit" xml:space="preserve">
+    <value>Enviar a Reddit</value>
   </data>
 </root>

@@ -76,6 +76,9 @@
   
   
   
+  
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -135,7 +138,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DesktopState" xml:space="preserve">
-    <value>Langademy ti offre chiamatevideo tra i tuoi partner-langademy, e il tuo stato mostra le lingue impostate nel tuo profilo. Quando si attiva o si disattiva una lingua nel vostro stato, si sta lasciando sapere in quali lingue si desidera parlare in un particolare momento a i tuoi contatti. Se non vuoi ricevere chiamate dai tuoi contatti, è sufficiente modificare il tuo stato a occupato! Ricorda che le Videochiamate influenzano la Banca del Tempo.</value>
+    <value>Langacademy ti permette effettuare chiamate video con i tuoi contatti specificando la lingua della conversazione. Quando entrate Langademy è possibile utilizzare il tuo stato ai contatti per far sapere che lingua vuoi parlare. Se non vuoi ricevere chiamate, modifica il tuo stato a occupato. E ricorda che le videochiamate possono influenzare il tuo tempo nella Banca del Tempo.</value>
   </data>
   <data name="HelpAssistanceTitle" xml:space="preserve">
     <value>Langademy in 3 passi</value>

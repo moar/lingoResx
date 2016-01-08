@@ -59,12 +59,6 @@
             : and then encoded with base64 encoding.-->
   
   
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -242,5 +236,32 @@
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
     <value>Bilera bukatu da dagoeneko. Baina gogora ezazu Language Roulettera nahi duzunean sar zaitezkeela</value>
+  </data>
+  <data name="AboutToShareReddit" xml:space="preserve">
+    <value>Bilera hau Redditen elkarbanatu behar duzu. Ondorengo subredditak iradokitzen dizkizugu:</value>
+  </data>
+  <data name="CopiedToClipboard" xml:space="preserve">
+    <value>Jarraitun klikatzen baduzu, posteko textua paperzorroan kopiatuko zaizu eta {{:SiteUrl}-ra helbideratuko zaitugu</value>
+  </data>
+  <data name="LangContacts" xml:space="preserve">
+    <value>Langademyko kontaktuak</value>
+  </data>
+  <data name="MBContinue" xml:space="preserve">
+    <value>Jarraitu</value>
+  </data>
+  <data name="MBMeetupDefaultPost" xml:space="preserve">
+    <value>Batu zaitez {0} bilerara {1}-ean %s</value>
+  </data>
+  <data name="MBPost" xml:space="preserve">
+    <value>Posteatu</value>
+  </data>
+  <data name="MBShareSubreddit" xml:space="preserve">
+    <value>Bideodei bilera Langademyn {0} praktikatzeko {1}</value>
+  </data>
+  <data name="ShareReddit" xml:space="preserve">
+    <value>Redditen elkarbanatu</value>
+  </data>
+  <data name="SubmitToReddit" xml:space="preserve">
+    <value>Redditera bidali</value>
   </data>
 </root>

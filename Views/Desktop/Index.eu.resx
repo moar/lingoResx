@@ -99,6 +99,9 @@
   
   
   
+  
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -161,7 +164,7 @@
     <value>Konturako aukerak</value>
   </data>
   <data name="AddAboutYou" xml:space="preserve">
-    <value>Gehitu zuri buruzko informazioa</value>
+    <value>Gehitu zuri interesei buruzko informazioa</value>
   </data>
   <data name="AddBirthDate" xml:space="preserve">
     <value>Gehitu zure jaiotze data</value>
@@ -224,7 +227,7 @@
     <value>Ez daukazu mezurik</value>
   </data>
   <data name="EmptyMeetups" xml:space="preserve">
-    <value>Apunta zaitez bileraren baten!</value>
+    <value>Sortu bileraren bat!</value>
   </data>
   <data name="LogOut" xml:space="preserve">
     <value>Logout</value>

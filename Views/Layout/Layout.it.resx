@@ -63,6 +63,9 @@
   
   
   
+  
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -126,6 +129,9 @@
   </data>
   <data name="DescMeetupBoard" xml:space="preserve">
     <value>Nella tabella di appuntamenti, è possibile organizzare appuntamenti, così gli altri sanno quando sarai disponibile, oppure è possibile unirsi ai appuntamenti esistenti</value>
+  </data>
+  <data name="DescPrivacy" xml:space="preserve">
+    <value>www.langademy.com è di proprietà e gestito da Eyelang SL Forniamo questa Privacy Policy per servire meglio coloro che sono preoccupati di come le loro informazioni personali vengono usati online</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Langademy è un social network per imparare le lingue. Offre scambio linguistico con nativi di tutto il mondo così la gente può ottenere scioltezza in una lingua.</value>
