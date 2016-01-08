@@ -1336,3 +1336,9 @@ obj/Release/Resources.Views.Faq.faq.fr.resources
 obj/Release/Resources.Views.Faq.faq.it.resources
 obj/Release/Resources.Views.Faq.faq.resources
 obj/Release/TempPE/Views.Faq.faq.Designer.cs.dll
+bin/Debug/System.Net.Http.Formatting.dll
+bin/Debug/System.Net.Http.Formatting.xml
+bin/Debug/System.Web.Http.dll
+bin/Debug/System.Web.Http.WebHost.dll
+bin/Debug/System.Web.Http.WebHost.xml
+bin/Debug/System.Web.Http.xml
