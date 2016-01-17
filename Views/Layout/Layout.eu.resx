@@ -58,14 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,6 +119,9 @@
   <data name="DescAbout" xml:space="preserve">
     <value>Langademy hizkuntza elkartrukerako sareko komunitate bat da, eta bertan mundu osoko natiboekin hizkuntza atzerritarrak praktikatu ahal izango dituzu</value>
   </data>
+  <data name="DescFaq" xml:space="preserve">
+    <value>Orri onetan Langademyn gehien egiten diren galderak aurki ditzakezu: ikasi ditzakezun hizkuntzak, denbora bankuaren funtzionamendua eta komunitateak egin dituen beste hainbat galdera</value>
+  </data>
   <data name="DescMeetupBoard" xml:space="preserve">
     <value>Bilera taulan bilerak antola ditzakezu, eta beste erabiltzaileak zurekin solasteko libre noiz egongo diren ere kontsultatu dezakezu </value>
   </data>
@@ -159,5 +154,8 @@
   </data>
   <data name="TBTitle" xml:space="preserve">
     <value>Denbora bankua</value>
+  </data>
+  <data name="UserDescription" xml:space="preserve">
+    <value>Kaixo! {0} naiz eta hizkuntza berriak ikasi nahi ditut Langademyn!</value>
   </data>
 </root>

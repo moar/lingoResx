@@ -58,50 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -160,7 +116,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
   <data name="ClickHere" xml:space="preserve">
     <value>Clica aquí </value>
   </data>
@@ -277,5 +232,17 @@
   </data>
   <data name="ReqTerms" xml:space="preserve">
     <value>Has de llegir i acceptar els termes i condicions</value>
+  </data>
+  <data name="ReactivateAccount" xml:space="preserve">
+    <value><![CDATA[El teu compte ha estat desactivat. Feu clic aquí per <span class="link" id="{0}"> reactivar el teu compte </span>]]></value>
+  </data>
+  <data name="ReactivateAccountConfirmation" xml:space="preserve">
+    <value>Reactiva el teu compte</value>
+  </data>
+  <data name="ReactivateAccountInfo" xml:space="preserve">
+    <value>El teu compte ha estat desactivat. Si continuas, el teu compte es reactivarà.</value>
+  </data>
+  <data name="LoginWithProvider" xml:space="preserve">
+    <value>Et vas inscriure en Langademy usant {0}</value>
   </data>
 </root>

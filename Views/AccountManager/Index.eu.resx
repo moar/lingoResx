@@ -58,21 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -199,5 +184,14 @@
   </data>
   <data name="AccUnblock" xml:space="preserve">
     <value>Desblokeatu</value>
+  </data>
+  <data name="AccDeactivate" xml:space="preserve">
+    <value>Kontua desgaitu</value>
+  </data>
+  <data name="AccDeactivateWarning" xml:space="preserve">
+    <value>Zure kontua desgaitzen baduzu zure Langademyko profila desgaitu egingo da. Zure datu eta aktibitateak ez dira gehiago ikusgarri egongo. Hala era, datu batzuk beste erabiltzaileentzat ikusgarri geratu daitezke: adibidez zure izena, beste erabiltzaleei bidali dizkiezun mezuak edo besteekin eduki dituzun kontsertzazioen inguruko datuak</value>
+  </data>
+  <data name="AccSecurity" xml:space="preserve">
+    <value>Segurtasuna</value>
   </data>
 </root>

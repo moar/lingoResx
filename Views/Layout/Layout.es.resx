@@ -58,14 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -127,6 +119,9 @@
   <data name="DescAbout" xml:space="preserve">
     <value>Langademy es una comunidad online de intercambio de idiomas donde puedes practicar idiomas con nativos de todo el mundo</value>
   </data>
+  <data name="DescFaq" xml:space="preserve">
+    <value>En esta sección puedes encontrar las preguntas más frecuentes que han hecho los usuarios de Langademy: los idiomas que puedes aprender en Langademy, el funcionamiento del banco de tiempo y otras preguntas relevantes que ha hecho la comunidad de Langademy.</value>
+  </data>
   <data name="DescMeetupBoard" xml:space="preserve">
     <value>En el Tablón de quedadas puedes organizar quedadas para que el resto de usuarios sepan cuando estarás disponible, o puedes apuntarte a las quedadas que hayan organizado otros usuarios</value>
   </data>
@@ -159,5 +154,8 @@
   </data>
   <data name="TBTitle" xml:space="preserve">
     <value>Banco de Tiempo</value>
+  </data>
+  <data name="UserDescription" xml:space="preserve">
+    <value>¡Hola!¡Soy {0} y quiero aprendes nuevos idiomas en Langademy!</value>
   </data>
 </root>

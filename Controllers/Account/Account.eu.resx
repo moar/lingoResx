@@ -58,21 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,6 +118,9 @@
   </resheader>
   <data name="AccountConfirmEmail" xml:space="preserve">
     <value>Zure helbide elektronikoa berretsi behar duzu. Begiratu zure posta elektronikoa!</value>
+  </data>
+  <data name="ExistingDeactivatedAccount" xml:space="preserve">
+    <value>Kontu hau desgaituta dago. Logeatu zaiten berriz ere kontua aktibatu nahi baduzu</value>
   </data>
   <data name="ExistingEmail" xml:space="preserve">
     <value>E-posta helbidea dagoeneko hartuta dago</value>

@@ -58,21 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -199,5 +184,14 @@
   </data>
   <data name="AccUnblock" xml:space="preserve">
     <value>Desbloquear</value>
+  </data>
+  <data name="AccDeactivate" xml:space="preserve">
+    <value>Darse de baja de Langademy</value>
+  </data>
+  <data name="AccDeactivateWarning" xml:space="preserve">
+    <value>Si te das de baja de Langademy tu perfil de Langademy será desactivado. Tus datos y tu actividad no serán visibles, pero puede que queden visibles algunos datos sobre ti. Por ejemplo, tu nombre, los mensajes que has intercambiado con otros usuarios o datos sobre las conversaciones que has mantenido en Langademy</value>
+  </data>
+  <data name="AccSecurity" xml:space="preserve">
+    <value>Seguridad</value>
   </data>
 </root>

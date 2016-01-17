@@ -58,21 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,6 +118,9 @@
   </resheader>
   <data name="AccountConfirmEmail" xml:space="preserve">
     <value>Devi confermare il tuo indirizzo email. Controlla la tua casella di posta!</value>
+  </data>
+  <data name="ExistingDeactivatedAccount" xml:space="preserve">
+    <value>Questo account è stato disattivato. Entra se si desidera riattivare il tuo account.</value>
   </data>
   <data name="ExistingEmail" xml:space="preserve">
     <value>L'indirizzo e-mail è già stato utilizzato</value>
