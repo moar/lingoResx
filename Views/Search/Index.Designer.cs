@@ -68,5 +68,14 @@ namespace Resources.Views.Search {
                 return ResourceManager.GetString("SNoResults", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search users.
+        /// </summary>
+        public static string SSearchUsers {
+            get {
+                return ResourceManager.GetString("SSearchUsers", resourceCulture);
+            }
+        }
     }
 }

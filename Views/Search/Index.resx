@@ -120,4 +120,7 @@
   <data name="SNoResults" xml:space="preserve">
     <value>Your search produced no results</value>
   </data>
+  <data name="SSearchUsers" xml:space="preserve">
+    <value>Search users</value>
+  </data>
 </root>

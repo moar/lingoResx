@@ -1371,3 +1371,6 @@ obj/LocalDebug/Resources.Views.RecentApps.RecentApp.resources
 obj/LocalDebug/TempPE/Views.Faq.faq.Designer.cs.dll
 obj/LocalDebug/TempPE/Views.RecentApps.RecentApp.Designer.cs.dll
 obj/Release/TempPE/Views.Search.Index.Designer.cs.dll
+obj/Debug/Resources.Views.Search.Index.resources
+obj/Debug/TempPE/Views.Search.Index.Designer.cs.dll
+obj/Release/Resources.Views.Search.Index.resources
