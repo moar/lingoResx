@@ -89,6 +89,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -202,7 +203,7 @@
     <value>Iniciar sesión</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Haz saber a todos cuándo vas a entrar al Language Roulette organizando una quedada o apuntándote a una en el {0}</value>
+    <value>Organiza una quedada y haz saber a todos cuándo vas a entrar</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>¡Visita Langademy!</value>
