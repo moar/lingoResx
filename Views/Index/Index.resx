@@ -286,4 +286,7 @@
   <data name="IndexAlreadySubscribed" xml:space="preserve">
     <value>You are already subscribed</value>
   </data>
+  <data name="IndexTeacherSubscribeConfirm" xml:space="preserve">
+    <value>Thanks for your interest in next Langademy updates for teachers. If you have any suggestions or doubts don't hesitate to contact us on contact@langademy.com. We will keep you informed!</value>
+  </data>
 </root>

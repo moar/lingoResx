@@ -349,6 +349,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Thanks for your interest in next Langademy updates for teachers. If you have any suggestions or doubts don&apos;t hesitate to contact us on contact@langademy.com. We will keep you informed!.
+        /// </summary>
+        public static string IndexTeacherSubscribeConfirm {
+            get {
+                return ResourceManager.GetString("IndexTeacherSubscribeConfirm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Are you a teacher?.
         /// </summary>
         public static string IndexTeacherTitle {
