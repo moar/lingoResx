@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,80 +57,48 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -152,7 +121,7 @@
     <value>Sobre Langademy</value>
   </data>
   <data name="Board" xml:space="preserve">
-    <value><![CDATA[<a href="/MeetupBoard" class="link"><strong>Tablón</strong></a>]]></value>
+    <value>&lt;a href="/MeetupBoard" class="link"&gt;&lt;strong&gt;Tablón&lt;/strong&gt;&lt;/a&gt;</value>
   </data>
   <data name="ComingSoon" xml:space="preserve">
     <value>PRÓXIMAMENTE</value>
@@ -216,5 +185,95 @@
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>
+  </data>
+  <data name="IndexLR1" xml:space="preserve">
+    <value>La forma más fácil de hacer un primer contacto</value>
+  </data>
+  <data name="IndexLR2" xml:space="preserve">
+    <value>Enchufa tu webcam y tu micrófono y entra en la sala del idioma que quieres practicar</value>
+  </data>
+  <data name="IndexLR3" xml:space="preserve">
+    <value>Nosotros te emparejamos con un compañero que esté libre y cumpla tu filtro</value>
+  </data>
+  <data name="IndexLR4" xml:space="preserve">
+    <value>Sé simpático ;-)</value>
+  </data>
+  <data name="IndexLR5" xml:space="preserve">
+    <value>Y cuando quieras hablar con alguien más, pulsa Siguiente y te volvemos a emparejar</value>
+  </data>
+  <data name="IndexMeetingBoard1" xml:space="preserve">
+    <value>Aprovecha el Tablón de Quedadas</value>
+  </data>
+  <data name="IndexMeetingBoard2" xml:space="preserve">
+    <value>¡Todos a una!</value>
+  </data>
+  <data name="IndexMeetingBoard3" xml:space="preserve">
+    <value>Organiza quedadas los días y horas que te apetezca entrar al Language Roulette. Pero hazlo con tiempo para que más gente tenga tiempo de apuntarse</value>
+  </data>
+  <data name="IndexMeetingBoard4" xml:space="preserve">
+    <value>O si alguien ha organizado ya alguna quedada apúntate. ¡Solo tienes que pulsar un botón! A los que están apuntados les encantará saber que tú también te apuntas</value>
+  </data>
+  <data name="IndexMeetingBoard5" xml:space="preserve">
+    <value>Además puedes compartir el link de la quedada en tus redes sociales para que se apunte más gente. Cuantos más mejor :-)</value>
+  </data>
+  <data name="IndexPartners1" xml:space="preserve">
+    <value>¡Encontré un compañero que mola!</value>
+  </data>
+  <data name="IndexPartners2" xml:space="preserve">
+    <value>¡Vótale en su perfil!</value>
+  </data>
+  <data name="IndexPartners3" xml:space="preserve">
+    <value>Envíale una solicitud de contacto</value>
+  </data>
+  <data name="IndexPartners4" xml:space="preserve">
+    <value>Cuando la acepte podréis chatear y hacer videoconferencias directamente sin entrar en el Language Roulette</value>
+  </data>
+  <data name="IndexQuestion1" xml:space="preserve">
+    <value>¿Qué idiomas hablas? ¿Cual es tu nivel?</value>
+  </data>
+  <data name="IndexQuestion2" xml:space="preserve">
+    <value>¿De dónde eres?¿Cuales son tus intereses?</value>
+  </data>
+  <data name="IndexReady" xml:space="preserve">
+    <value>¡Ya estás listo!</value>
+  </data>
+  <data name="IndexStep2" xml:space="preserve">
+    <value>Sube tu foto de perfil y de portada</value>
+  </data>
+  <data name="RegisterAndCompleteProfile" xml:space="preserve">
+    <value>Regístrate y completa tu perfil</value>
+  </data>
+  <data name="TryLanguageRoulette" xml:space="preserve">
+    <value>Prueba el Language Roulette</value>
+  </data>
+  <data name="IndexLanguageExchange1" xml:space="preserve">
+    <value>Intercambio de idiomas</value>
+  </data>
+  <data name="IndexLanguageExchange2" xml:space="preserve">
+    <value>El tiempo del que dispones para hablar por videoconferencia con nativos es el mismo que tú dediques a otros hablando en tu idioma nativo</value>
+  </data>
+  <data name="IndexLanguageExchange3" xml:space="preserve">
+    <value>Funciona como un tandem, pero tú decides cuándo y con quién hablas en cada idioma, sean las mismas u otras personas</value>
+  </data>
+  <data name="IndexLanguageExchange4" xml:space="preserve">
+    <value>Cuando te registras en Langademy empiezas con 5 horas en tu cuenta para que puedas probar</value>
+  </data>
+  <data name="IndexTeacherSubscribe" xml:space="preserve">
+    <value>¡Estamos preparando herramientas increibles para ti! Mándanos tu dirección de e-mail y te mantendremos al corriente de las novedades</value>
+  </data>
+  <data name="IndexTeacherTitle" xml:space="preserve">
+    <value>¿Eres profesor?</value>
+  </data>
+  <data name="IndexTimeBank1" xml:space="preserve">
+    <value>Banco del Tiempo</value>
+  </data>
+  <data name="IndexTimeBank2" xml:space="preserve">
+    <value>Controla tu saldo de tiempo para saber si necesitas conversar en tu idioma nativo</value>
+  </data>
+  <data name="IndexTimeBank3" xml:space="preserve">
+    <value>Consulta las reglas del Banco de Tiempo para saber cuándo una videoconferencia te suma o resta tiempo</value>
+  </data>
+  <data name="IndexTimeBank4" xml:space="preserve">
+    <value>En tu estado puedes indicar los idiomas en los que estás disponible para recibir videollamadas de tus contactos</value>
   </data>
 </root>
