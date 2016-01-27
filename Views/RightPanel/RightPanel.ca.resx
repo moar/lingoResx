@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -175,5 +176,35 @@
   </data>
   <data name="NotificationsNoLogged" xml:space="preserve">
     <value>Inicia sessió per veure les teves notificacions</value>
+  </data>
+  <data name="RPFilterAdd" xml:space="preserve">
+    <value>Agegir</value>
+  </data>
+  <data name="RPFilterAllLanguages" xml:space="preserve">
+    <value>Tots el idiomes</value>
+  </data>
+  <data name="RPFilterAllPeople" xml:space="preserve">
+    <value>Tots el usuaris</value>
+  </data>
+  <data name="RPFilterCancel" xml:space="preserve">
+    <value>Cancel·lar</value>
+  </data>
+  <data name="RPFilterLanguages" xml:space="preserve">
+    <value>Idiomes</value>
+  </data>
+  <data name="RPFilterNotTalketTo" xml:space="preserve">
+    <value>Gent amb la que no has parlat</value>
+  </data>
+  <data name="RPFilterOk" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="RPFilterOnline" xml:space="preserve">
+    <value>Només online</value>
+  </data>
+  <data name="RPFilterTalkedTo" xml:space="preserve">
+    <value>Gent amb la que has parlat</value>
+  </data>
+  <data name="RPSearch" xml:space="preserve">
+    <value>Buscar</value>
   </data>
 </root>

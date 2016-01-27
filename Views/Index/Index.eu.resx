@@ -58,38 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -216,5 +184,101 @@
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Hitz egin ezazu zure jatorrizko hizkuntzan eta eskaini duzun denbora zuri oparituko dizugu nahi dituzun hizkuntzak praktika ditzazun</value>
+  </data>
+  <data name="IndexLR1" xml:space="preserve">
+    <value>Mintzalagun berriak aurkitzeko modu errezena</value>
+  </data>
+  <data name="IndexLR2" xml:space="preserve">
+    <value>Piztu itzazu zure webcam eta mikroa eta sar zaitez hitz egin nahi duzun hizkuntzaren gelara</value>
+  </data>
+  <data name="IndexLR3" xml:space="preserve">
+    <value>Zure beharrak betetzen dituen mintzalagun bat bilatuko dizugu</value>
+  </data>
+  <data name="IndexLR4" xml:space="preserve">
+    <value>Atsegina izan ;-)</value>
+  </data>
+  <data name="IndexLR5" xml:space="preserve">
+    <value>Beste pertsona batekin hitz egin nahi baduzu, "hurrengoa" klikatu eta beste bikote bat bilatuko dizugu</value>
+  </data>
+  <data name="IndexMeetingBoard1" xml:space="preserve">
+    <value>Aprobetxatu ezazu Bilera taula</value>
+  </data>
+  <data name="IndexMeetingBoard2" xml:space="preserve">
+    <value>Denok batera!</value>
+  </data>
+  <data name="IndexMeetingBoard3" xml:space="preserve">
+    <value>Antolatu itzazu bilerak zuk Language Roulettera sartu nahi duzun ordu eta egunetan. Denboraz sortu itzazu, jendeak bileretara apuntatzeko denbora izan dezan </value>
+  </data>
+  <data name="IndexMeetingBoard4" xml:space="preserve">
+    <value>Beste kideren batek bilera bat sortu badu, bertara apunta zaitezke. Klik bat besterik ez duzu egin behar! Gainontzeko mintzalagunek beraiekin elkartzea eskertuko dute</value>
+  </data>
+  <data name="IndexMeetingBoard5" xml:space="preserve">
+    <value>Gainera, bilerak sare sozialetan parteka ditzakezu, horrela jende gehiagok parte hartuko du bileretan. Zenbat eta gehiago hobeto!</value>
+  </data>
+  <data name="IndexPartners1" xml:space="preserve">
+    <value>Gogoko dudan mintzalagun bat aurkitu dut!</value>
+  </data>
+  <data name="IndexPartners2" xml:space="preserve">
+    <value>Botua emaiozu bere profilean!</value>
+  </data>
+  <data name="IndexPartners3" xml:space="preserve">
+    <value>Bidali iezaiozu kontaktu eskaera bat</value>
+  </data>
+  <data name="IndexPartners4" xml:space="preserve">
+    <value>Zure eskaera onartzen duenean, bion artean bideodeiak egin ahal izango dituzue Language Roulettean sartzeko beharrik gabe</value>
+  </data>
+  <data name="IndexQuestion1" xml:space="preserve">
+    <value>Ze hizkuntza dakizkizu? Zein da zure maila?</value>
+  </data>
+  <data name="IndexQuestion2" xml:space="preserve">
+    <value>Nongoa zara? Zeintzuk dira zure interesak?</value>
+  </data>
+  <data name="IndexReady" xml:space="preserve">
+    <value>Prest zaude!</value>
+  </data>
+  <data name="IndexSearchPartners" xml:space="preserve">
+    <value>Bilatu mintzalagunak</value>
+  </data>
+  <data name="IndexSeeMore" xml:space="preserve">
+    <value>Ikusi gehiago</value>
+  </data>
+  <data name="IndexStep2" xml:space="preserve">
+    <value>Igo itzazu zure profileko eta azaleko argazkiak</value>
+  </data>
+  <data name="RegisterAndCompleteProfile" xml:space="preserve">
+    <value>Erregistra zaitez eta bete ezazu zure profila</value>
+  </data>
+  <data name="TryLanguageRoulette" xml:space="preserve">
+    <value>Probatu ezazu Language Roulettea</value>
+  </data>
+  <data name="IndexLanguageExchange1" xml:space="preserve">
+    <value>Hizkuntza elkartrukea</value>
+  </data>
+  <data name="IndexLanguageExchange2" xml:space="preserve">
+    <value>Mintzalagun natiboekin hitz egiteko erabiltzen duzun denbora, zuk beste mintzalagunekin zure ama hizkuntzan hitz egiteko erabiltzen duzun denbora berbera da</value>
+  </data>
+  <data name="IndexLanguageExchange3" xml:space="preserve">
+    <value>Tandem baten moduan funtzionatzen du, baina zuk aukeratuko duzu nor den zure mintzalaguna, noiaz eta zein hizkuntzatan hitz egingo duzun</value>
+  </data>
+  <data name="IndexLanguageExchange4" xml:space="preserve">
+    <value>Doako 5 ordurekin hasko zara hizkuntza elkartrukea proba dezazun</value>
+  </data>
+  <data name="IndexTeacherSubscribe" xml:space="preserve">
+    <value>Zuretzako tresna bikainak egiten diardugu! Bidali iezaguzu zure email helbidea eta azken berriei buruz informatuta mantenduko zaitugu</value>
+  </data>
+  <data name="IndexTeacherTitle" xml:space="preserve">
+    <value>Irakaslea al zara?</value>
+  </data>
+  <data name="IndexTimeBank1" xml:space="preserve">
+    <value>Denbora bankua</value>
+  </data>
+  <data name="IndexTimeBank2" xml:space="preserve">
+    <value>Kontsulta ezazu zure denbora saldoa zure hizkuntza natiboan mintzatzeko beharra duzun jakin nahi baduzu</value>
+  </data>
+  <data name="IndexTimeBank3" xml:space="preserve">
+    <value>Irakurri itzazu denbora bankuko erregelak konbertsazio bat izan ondoren denbora galdu ala irabaziko duzun jakiteko</value>
+  </data>
+  <data name="IndexTimeBank4" xml:space="preserve">
+    <value>Zure Langademyko egoera erabiliz, zure kontaktuek bideo deiak jasotzeko eskuragarri zauden jakin ahal izango dute</value>
   </data>
 </root>

@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -189,6 +190,9 @@
   </data>
   <data name="AccDeactivate" xml:space="preserve">
     <value>Desactivar el compte</value>
+  </data>
+  <data name="AccDeactivateWarning" xml:space="preserve">
+    <value>Si et dones de baixa a Langacademy el teu perfil Langademy serà desactivat. Les teves dades i la teva activitat no seran visibles, però pot ser que quedin visibles algunes dades teves. Per exemple, el nom, els missatges que has intercanviat amb altres usuaris o dades sobre les converses que has mantingut en Langademy.</value>
   </data>
   <data name="AccSecurity" xml:space="preserve">
     <value>Seguretat</value>

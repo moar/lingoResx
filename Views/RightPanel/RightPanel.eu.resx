@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -175,5 +176,35 @@
   </data>
   <data name="NotificationsNoLogged" xml:space="preserve">
     <value>Hasi sesioa zure jakinarazpenak ikusteko</value>
+  </data>
+  <data name="RPFilterAdd" xml:space="preserve">
+    <value>Gehitu</value>
+  </data>
+  <data name="RPFilterAllLanguages" xml:space="preserve">
+    <value>Hizkuntza guztiak</value>
+  </data>
+  <data name="RPFilterAllPeople" xml:space="preserve">
+    <value>Erabiltzaile guztiak</value>
+  </data>
+  <data name="RPFilterCancel" xml:space="preserve">
+    <value>Utzi</value>
+  </data>
+  <data name="RPFilterLanguages" xml:space="preserve">
+    <value>Hizkuntzak</value>
+  </data>
+  <data name="RPFilterNotTalketTo" xml:space="preserve">
+    <value>Hitz egin ez duzun jendea</value>
+  </data>
+  <data name="RPFilterOk" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="RPFilterOnline" xml:space="preserve">
+    <value>Online bakarrik</value>
+  </data>
+  <data name="RPFilterTalkedTo" xml:space="preserve">
+    <value>Hitz egin duzun jendea</value>
+  </data>
+  <data name="RPSearch" xml:space="preserve">
+    <value>Bilatu</value>
   </data>
 </root>

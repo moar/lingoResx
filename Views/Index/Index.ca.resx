@@ -58,38 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -216,5 +184,80 @@
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Parla el teu idioma natiu amb els demés i et regalarem el temps que els has dedicat per a practicar altres idiomes</value>
+  </data>
+  <data name="IndexLR1" xml:space="preserve">
+    <value>La forma més fàcil de fer un primer contacte</value>
+  </data>
+  <data name="IndexLR2" xml:space="preserve">
+    <value>Connecta la teva webcam i el teu micròfon i entra a la sala de l'idioma que vols practicar</value>
+  </data>
+  <data name="IndexLR3" xml:space="preserve">
+    <value>Nosaltres t'aparellem amb un company que estigui lliure i compleixi teu filtre</value>
+  </data>
+  <data name="IndexLR4" xml:space="preserve">
+    <value>Sigues simpàtic;-)</value>
+  </data>
+  <data name="IndexLR5" xml:space="preserve">
+    <value>I quan vulguis parlar amb algú més, clica següent i et tornem a aparellar</value>
+  </data>
+  <data name="IndexMeetingBoard1" xml:space="preserve">
+    <value>Aprofita el Tauler d'Quedades</value>
+  </data>
+  <data name="IndexMeetingBoard2" xml:space="preserve">
+    <value>Tots a una!</value>
+  </data>
+  <data name="IndexMeetingBoard3" xml:space="preserve">
+    <value>Organitza quedades els dies i hores que et vingui de gust entrar al Language Roulette. Però fes-ho amb temps perquè més gent tingui temps d'apuntar-s'hi</value>
+  </data>
+  <data name="IndexMeetingBoard4" xml:space="preserve">
+    <value>O si algú ha organitzat ja alguna quedada apunta't. Només has de clicar un botó! Als que estan apuntats els encantarà saber que tu també t'apuntes</value>
+  </data>
+  <data name="IndexMeetingBoard5" xml:space="preserve">
+    <value>A més pots compartir el link de la quedada a les xarxes socials perquè s'apunte més gent. Quants més millor :-)</value>
+  </data>
+  <data name="IndexPartners1" xml:space="preserve">
+    <value>He trobat un company que mola!</value>
+  </data>
+  <data name="IndexPartners2" xml:space="preserve">
+    <value>Vota'l al seu perfil!</value>
+  </data>
+  <data name="IndexPartners3" xml:space="preserve">
+    <value>Envia-li una sol·licitud de contacte</value>
+  </data>
+  <data name="IndexPartners4" xml:space="preserve">
+    <value>Quan l'acceptis podreu xatejar i fer videoconferències directament sense entrar al Language Roulette</value>
+  </data>
+  <data name="IndexQuestion1" xml:space="preserve">
+    <value>Quins idiomes parles? Quin és el teu nivell?</value>
+  </data>
+  <data name="IndexQuestion2" xml:space="preserve">
+    <value>D'on ets? Quins són els teus interessos?</value>
+  </data>
+  <data name="IndexReady" xml:space="preserve">
+    <value>Ja estàs llest!</value>
+  </data>
+  <data name="IndexSearchPartners" xml:space="preserve">
+    <value>Buscar companys</value>
+  </data>
+  <data name="IndexSeeMore" xml:space="preserve">
+    <value>Veure més</value>
+  </data>
+  <data name="IndexStep2" xml:space="preserve">
+    <value>Puja la teva foto de perfil i de portada</value>
+  </data>
+  <data name="RegisterAndCompleteProfile" xml:space="preserve">
+    <value>Registra't i completa el teu perfil</value>
+  </data>
+  <data name="TryLanguageRoulette" xml:space="preserve">
+    <value>Prova el Language Roulette</value>
+  </data>
+  <data name="IndexLanguageExchange1" xml:space="preserve">
+    <value>Intercanvi d'idiomes </value>
+  </data>
+  <data name="IndexLanguageExchange2" xml:space="preserve">
+    <value>El temps de què disposes per parlar per videoconferència amb natius és el mateix que tu dediquis a altres parlant en el teu idioma natiu.</value>
+  </data>
+  <data name="IndexLanguageExchange3" xml:space="preserve">
+    <value>Funciona com un tàndem, però tu decideixes quan i amb qui parles en cada idioma, siguin les mateixes o altres persones.</value>
   </data>
 </root>
