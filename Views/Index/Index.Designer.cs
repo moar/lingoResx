@@ -115,6 +115,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You are already subscribed.
+        /// </summary>
+        public static string IndexAlreadySubscribed {
+            get {
+                return ResourceManager.GetString("IndexAlreadySubscribed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Language exchange.
         /// </summary>
         public static string IndexLanguageExchange1 {
@@ -340,7 +349,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are u a teacher?.
+        ///   Looks up a localized string similar to Are you a teacher?.
         /// </summary>
         public static string IndexTeacherTitle {
             get {
@@ -367,7 +376,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Read the timebanking ruiles in order to know when a videochat conversation will add or substract time from your Time Bank account.
+        ///   Looks up a localized string similar to Read the timebanking rules in order to know when a videochat conversation will add or substract time from your Time Bank account.
         /// </summary>
         public static string IndexTimeBank3 {
             get {
