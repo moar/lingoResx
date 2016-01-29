@@ -281,4 +281,10 @@
   <data name="IndexTimeBank4" xml:space="preserve">
     <value>Zure Langademyko egoera erabiliz, zure kontaktuek bideo deiak jasotzeko eskuragarri zauden jakin ahal izango dute</value>
   </data>
+  <data name="IndexAlreadySubscribed" xml:space="preserve">
+    <value>Harpidetuta zaude dagoeneko</value>
+  </data>
+  <data name="IndexTeacherSubscribeConfirm" xml:space="preserve">
+    <value>Eskerrik asko Langademyko irakasleen aktualizazioetarako zure interesagatik. Zalantza edo iradokizunik bazenu kontakta gaitzazu contact@langademy.com-era idatziz. Informatuta mantenduko zaitugu!</value>
+  </data>
 </root>

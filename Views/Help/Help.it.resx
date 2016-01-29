@@ -82,6 +82,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -201,7 +202,7 @@
     <value>Invita i tuoi amici e otterrai 30 minuti per ogni amico che è registrato con il tuo invito. E anche è possibile guadagnare ore per la vostra banca del tempo se ci seguite in Twitter e Facebook (+ 60 minuti).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>Quando si pratica una lingua che non è la tua lingua madre, starai spendendo ore dalla Banca del Tempo. In cambio, se aiuti a qualcuno che sta imparando la tua lingua madre, ti verrai accreditato.</value>
+    <value>Quando si pratica una lingua diversa dalla tua lingua madre, starai spendendo ore dalla Banca del Tempo. Ma se si insegni una lingua che controlli (livello minimo: C2) ad un altro utente, il tempo ti sarà aggiunto al tuo account.</value>
   </data>
   <data name="TimeBankF5" xml:space="preserve">
     <value>Le chiamate che sono più brevi di un minuto non hanno alcun costo</value>

@@ -171,7 +171,7 @@
     <value>Iniciar sessió </value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Fes saber a tots quan vas a entrar a Language Roulette organitzant una quedada o apuntant-hi a una en el {0}</value>
+    <value>Organitza una quedada i fes saber a tots quan vas a entrar</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Visita Langademy!</value>
@@ -259,5 +259,32 @@
   </data>
   <data name="IndexLanguageExchange3" xml:space="preserve">
     <value>Funciona com un tàndem, però tu decideixes quan i amb qui parles en cada idioma, siguin les mateixes o altres persones.</value>
+  </data>
+  <data name="IndexLanguageExchange4" xml:space="preserve">
+    <value>Quan et registres a Langademy comences amb 5 hores al teu compte perquè puguis provar</value>
+  </data>
+  <data name="IndexTeacherSubscribe" xml:space="preserve">
+    <value>Estem preparant eines increïbles per a tu! Envia'ns la teva adreça de correu electrònic i et mantindrem al corrent de les novetats</value>
+  </data>
+  <data name="IndexTeacherTitle" xml:space="preserve">
+    <value>Ets professor?</value>
+  </data>
+  <data name="IndexTimeBank1" xml:space="preserve">
+    <value>Banc de Temps</value>
+  </data>
+  <data name="IndexTimeBank2" xml:space="preserve">
+    <value>Controla el teu saldo de temps per saber si necessites conversar en el teu idioma natiu</value>
+  </data>
+  <data name="IndexTimeBank3" xml:space="preserve">
+    <value>Consulta les regles del Banc de Temps per saber quan una videoconferència et suma o resta temps</value>
+  </data>
+  <data name="IndexTimeBank4" xml:space="preserve">
+    <value>En el teu estat pots indicar els idiomes en què estàs disponible per rebre vídeotrucades dels teus contactes</value>
+  </data>
+  <data name="IndexAlreadySubscribed" xml:space="preserve">
+    <value>Ja estàs subscrit</value>
+  </data>
+  <data name="IndexTeacherSubscribeConfirm" xml:space="preserve">
+    <value>Gràcies pel teu interès en les properes novetats de Langacademy per a professors. Si tens algun suggeriment o dubte si us plau contacta amb nosaltres a contact@langademy.com. Us mantindrem informats!</value>
   </data>
 </root>

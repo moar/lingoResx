@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -245,6 +246,6 @@
     <value>El teu compte ha estat desactivat. Si continuas, el teu compte es reactivarà.</value>
   </data>
   <data name="LoginWithProvider" xml:space="preserve">
-    <value>Et vas inscriure en Langademy usant {0}</value>
+    <value>Et vas registar en Langademy usant {0}</value>
   </data>
 </root>

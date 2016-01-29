@@ -171,7 +171,7 @@
     <value>Login</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Fai sapere a tutti quando entri nel Language Roulette organizzando un appuntamento o unendoti a uno nella {0}</value>
+    <value>Organizza un appuntamento e fai sapere a tutti quando ci vai</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Visita Langademy!</value>
@@ -184,5 +184,107 @@
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Parla nella tua lingua madre con gli altri e ti daremo lo stesso tempo che hai dedicato per praticare le altre lingue</value>
+  </data>
+  <data name="IndexLR1" xml:space="preserve">
+    <value>Il modo più semplice per incontrare un nuovo partner</value>
+  </data>
+  <data name="IndexLR2" xml:space="preserve">
+    <value>Collega la webcam e il microfono ed entra nella stanza della lingua che vuoi praticare</value>
+  </data>
+  <data name="IndexLR3" xml:space="preserve">
+    <value>Noi troveremo un partner che sia liberó e che soddisfa il tuo filtro</value>
+  </data>
+  <data name="IndexLR4" xml:space="preserve">
+    <value>Sii gentile ;-)</value>
+  </data>
+  <data name="IndexLR5" xml:space="preserve">
+    <value>Se vuoi parlare con un'altra persona, clicca su Seguente e ti ritorniamo a abbinare con un nuovo partner</value>
+  </data>
+  <data name="IndexMeetingBoard1" xml:space="preserve">
+    <value>Approfitta la Tabella di Appuntamenti </value>
+  </data>
+  <data name="IndexMeetingBoard2" xml:space="preserve">
+    <value>Tutti per uno!</value>
+  </data>
+  <data name="IndexMeetingBoard3" xml:space="preserve">
+    <value>Organizza gli appuntamenti i giorni e le ore che vuoi andare su Language Roulette. Ma farlo in tempo, così la gente avrà il tempo di partecipare nell'appuntamento</value>
+  </data>
+  <data name="IndexMeetingBoard4" xml:space="preserve">
+    <value>Se qualcun altro ha organizzato un appuntamento, iscriviti. E 'solo un click! Gli altri assistenti saranno contenti di averti</value>
+  </data>
+  <data name="IndexMeetingBoard5" xml:space="preserve">
+    <value>Potete anche condividere il link dell'appuntamento nelle reti sociali in modo che più persone potranno unirsi ;-)</value>
+  </data>
+  <data name="IndexPartners1" xml:space="preserve">
+    <value>Ho trovato un partner che mi piace!</value>
+  </data>
+  <data name="IndexPartners2" xml:space="preserve">
+    <value>Vota nel suo profilo!</value>
+  </data>
+  <data name="IndexPartners3" xml:space="preserve">
+    <value>Invia una richiesta di contatto</value>
+  </data>
+  <data name="IndexPartners4" xml:space="preserve">
+    <value>Quando lui accetta la tua richiesta, sarete in grado di effettuare video conferenze senza entrare nel Language Roulette</value>
+  </data>
+  <data name="IndexQuestion1" xml:space="preserve">
+    <value>Che lingue parli? Qual è il tuo livello?</value>
+  </data>
+  <data name="IndexQuestion2" xml:space="preserve">
+    <value>Di dove sei? Quali sono i tuoi interessi?</value>
+  </data>
+  <data name="IndexReady" xml:space="preserve">
+    <value>Sei pronto!</value>
+  </data>
+  <data name="IndexSearchPartners" xml:space="preserve">
+    <value>Cerca partners</value>
+  </data>
+  <data name="IndexSeeMore" xml:space="preserve">
+    <value>Mostra di più</value>
+  </data>
+  <data name="IndexStep2" xml:space="preserve">
+    <value>Carica la tua foto di profilo e copertina</value>
+  </data>
+  <data name="RegisterAndCompleteProfile" xml:space="preserve">
+    <value>Registrati e completa il tuo profilo</value>
+  </data>
+  <data name="TryLanguageRoulette" xml:space="preserve">
+    <value>Prova Language Roulette</value>
+  </data>
+  <data name="IndexLanguageExchange1" xml:space="preserve">
+    <value>Scambio di lingue</value>
+  </data>
+  <data name="IndexLanguageExchange2" xml:space="preserve">
+    <value>La quantità di tempo che hai per parlare con i nativi in videoconferenza è la stessa quantità di tempo che si utilizza per insegnare la propria lingua madre a gli altri</value>
+  </data>
+  <data name="IndexLanguageExchange3" xml:space="preserve">
+    <value>Funziona come un tandem,ma a decidere quando e con chi si parla in ogni lingua, gli stessi o con altri persone</value>
+  </data>
+  <data name="IndexLanguageExchange4" xml:space="preserve">
+    <value>Si inizierà con 5 ore gratuite in modo da poter provare lo scambio linguistico di Langademy</value>
+  </data>
+  <data name="IndexTeacherSubscribe" xml:space="preserve">
+    <value>Stiamo lavorando su incredibili strumenti per voi! Inviaci il tuo indirizzo email e noi ti terremo informato sui nuovi aggiornamenti</value>
+  </data>
+  <data name="IndexTeacherTitle" xml:space="preserve">
+    <value>Sei un insegnante?</value>
+  </data>
+  <data name="IndexTimeBank1" xml:space="preserve">
+    <value>Banca del Tempo</value>
+  </data>
+  <data name="IndexTimeBank2" xml:space="preserve">
+    <value>Controlla il saldo tempo per sapere se devi parlare nella tua lingua madre</value>
+  </data>
+  <data name="IndexTimeBank3" xml:space="preserve">
+    <value>Leggi il regolamento, Banca del Tempo, per sapere quando una videoconferenza, verrà aggiungere o sottrarre tempo dal tuo conto Banca del Tempo</value>
+  </data>
+  <data name="IndexTimeBank4" xml:space="preserve">
+    <value>Usando il tuo stato i tuoi contatti sapranno se sei disponibile a ricevere chiamate video</value>
+  </data>
+  <data name="IndexAlreadySubscribed" xml:space="preserve">
+    <value>Sei già iscritto</value>
+  </data>
+  <data name="IndexTeacherSubscribeConfirm" xml:space="preserve">
+    <value>Grazie per l'interesse nei prossimi aggiornamenti Langademy per gli insegnanti. Se avete suggerimenti o dubbi non esitate a contattarci al contact@langademy.com .Ti terremo informato!</value>
   </data>
 </root>

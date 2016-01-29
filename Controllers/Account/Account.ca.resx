@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -122,7 +123,7 @@
     <value>Has de confirmar la teva adreça de correu electrònic. Revisa el teu correu!</value>
   </data>
   <data name="ExistingDeactivatedAccount" xml:space="preserve">
-    <value>Aquest compte ha estat desactivat. Entra si desitges reactivar el compte.</value>
+    <value>Aquest compte ha estat donat de baixa. Loguejat si el vols tornar a activar</value>
   </data>
   <data name="ExistingEmail" xml:space="preserve">
     <value>La direcció de correu electrònic ja està en ús</value>

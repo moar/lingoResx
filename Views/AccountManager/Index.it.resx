@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -189,6 +190,9 @@
   </data>
   <data name="AccDeactivate" xml:space="preserve">
     <value>Disattivare il accounto</value>
+  </data>
+  <data name="AccDeactivateWarning" xml:space="preserve">
+    <value>Se si disattiva l'account, il tuo profilo Langademy sarà anche disattivato. I tuoi dati e l'attività non saranno visibili, ma alcune informazioni possono essere ancora visibile agli altri: ad esempio il tuo nome, i messaggi inviati o dati sulle conversazioni che hai tenuto in Langademy.</value>
   </data>
   <data name="AccSecurity" xml:space="preserve">
     <value>Sicurezza</value>

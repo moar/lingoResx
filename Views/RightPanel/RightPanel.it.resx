@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -176,5 +177,35 @@
   </data>
   <data name="NotificationsNoLogged" xml:space="preserve">
     <value>Accede per vedere le tue notifiche</value>
+  </data>
+  <data name="RPFilterAdd" xml:space="preserve">
+    <value>Aggiungere</value>
+  </data>
+  <data name="RPFilterAllLanguages" xml:space="preserve">
+    <value>Tutte le lingue</value>
+  </data>
+  <data name="RPFilterAllPeople" xml:space="preserve">
+    <value>tutti gli utenti</value>
+  </data>
+  <data name="RPFilterCancel" xml:space="preserve">
+    <value>Cancellare</value>
+  </data>
+  <data name="RPFilterLanguages" xml:space="preserve">
+    <value>Lingue</value>
+  </data>
+  <data name="RPFilterNotTalketTo" xml:space="preserve">
+    <value>Persone con cui non hai chiacchierato</value>
+  </data>
+  <data name="RPFilterOk" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="RPFilterOnline" xml:space="preserve">
+    <value>Solo on-line</value>
+  </data>
+  <data name="RPFilterTalkedTo" xml:space="preserve">
+    <value>Persone con cui hai chiacchierato</value>
+  </data>
+  <data name="RPSearch" xml:space="preserve">
+    <value>Ricerca</value>
   </data>
 </root>
