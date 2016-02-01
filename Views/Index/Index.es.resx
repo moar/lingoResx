@@ -58,7 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -287,5 +286,17 @@
   </data>
   <data name="IndexTeacherSubscribeConfirm" xml:space="preserve">
     <value>Muchas gracias por tu interés en las próximas novedades de Langademy para profesores. Si tienes cualquier sugerencia no dudes en ponerte en contacto con nosotros escribiendo a contact@langademy.com. ¡Te mantendremos informado!</value>
+  </data>
+  <data name="IndexFooterSt1" xml:space="preserve">
+    <value>¡Estás listo!</value>
+  </data>
+  <data name="IndexFooterSt2" xml:space="preserve">
+    <value>Cuando finalices tu registro, podrás subir tu foto de perfil, añadir más idiomas y completar el resto de tu perfil</value>
+  </data>
+  <data name="IndexFooterSt3" xml:space="preserve">
+    <value>Echa un vistazo al tablón quedadas y únete a una quedada u organiza la tuya propia</value>
+  </data>
+  <data name="IndexFooterSt4" xml:space="preserve">
+    <value>Si tienes alguna duda, mándanos un mensaje desde tu Panel de Conversaciones. Estaremos encantados de ayudarte</value>
   </data>
 </root>
