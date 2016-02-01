@@ -124,6 +124,42 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Now you are ready!.
+        /// </summary>
+        public static string IndexFooterSt1 {
+            get {
+                return ResourceManager.GetString("IndexFooterSt1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When you complete the registration form, you will be able to upload your profile picture, add more languages and fill in the rest of your profile.
+        /// </summary>
+        public static string IndexFooterSt2 {
+            get {
+                return ResourceManager.GetString("IndexFooterSt2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Then check the scheduled meetups and join or create your own.
+        /// </summary>
+        public static string IndexFooterSt3 {
+            get {
+                return ResourceManager.GetString("IndexFooterSt3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you have any doubt, send us a message from your Conversations Panel. We will be happy to help you.
+        /// </summary>
+        public static string IndexFooterSt4 {
+            get {
+                return ResourceManager.GetString("IndexFooterSt4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Language exchange.
         /// </summary>
         public static string IndexLanguageExchange1 {
@@ -178,7 +214,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We will find you a partner to speak with you and that meets your filter.
+        ///   Looks up a localized string similar to We will find you a partner to speak with you that meets your filter.
         /// </summary>
         public static string IndexLR3 {
             get {
@@ -205,7 +241,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Take advantage of the Meeting Board.
+        ///   Looks up a localized string similar to Take advantage of the Meetup Board.
         /// </summary>
         public static string IndexMeetingBoard1 {
             get {
@@ -241,7 +277,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can also share the meetup link in social networks so more people can join the meetup. The more, the better :-).
+        ///   Looks up a localized string similar to You can also share the meetup link in social networks so more people can join the meetup. The more, the merrier :-).
         /// </summary>
         public static string IndexMeetingBoard5 {
             get {
@@ -349,7 +385,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Thanks for your interest in next Langademy updates for teachers. If you have any suggestions or doubts don&apos;t hesitate to contact us on contact@langademy.com. We will keep you informed!.
+        ///   Looks up a localized string similar to Thanks for your interest in next Langademy updates for teachers. If you have any suggestions or doubts don&apos;t hesitate to contact us at contact@langademy.com. We will keep you informed!.
         /// </summary>
         public static string IndexTeacherSubscribeConfirm {
             get {
@@ -403,7 +439,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0}  is a videochat roulette where you can find native speakers to practice your favourite languages.
+        ///   Looks up a localized string similar to Language Roulette  is a videochat roulette where you can find native speakers to practice your favourite languages.
         /// </summary>
         public static string IndLangroulette {
             get {
