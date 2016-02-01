@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -180,7 +181,7 @@
     <value>Quando preferisci</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>{0} è una roulette videochat dove troverete nativi per praticare le vostre lingue preferite</value>
+    <value>Language Roulette è una roulette videochat dove troverete nativi per praticare le vostre lingue preferite</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Parla nella tua lingua madre con gli altri e ti daremo lo stesso tempo che hai dedicato per praticare le altre lingue</value>
