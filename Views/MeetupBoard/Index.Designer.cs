@@ -313,6 +313,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This meetup has been cancelled. But you can create a new one right now!.
+        /// </summary>
+        public static string MeetupCancelled {
+            get {
+                return ResourceManager.GetString("MeetupCancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You have confirmed your attendance to another meetup at the same time.
         /// </summary>
         public static string MeetupCollision {

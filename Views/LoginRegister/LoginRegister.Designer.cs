@@ -232,6 +232,15 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Invalid user name and last name.
+        /// </summary>
+        public static string LRInvalidName {
+            get {
+                return ResourceManager.GetString("LRInvalidName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Login.
         /// </summary>
         public static string LRLogin {
@@ -264,6 +273,15 @@ namespace Resources.Views.LoginRegister {
         public static string LRReqName {
             get {
                 return ResourceManager.GetString("LRReqName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have too many special characters on your user name.
+        /// </summary>
+        public static string LRTooManySpecials {
+            get {
+                return ResourceManager.GetString("LRTooManySpecials", resourceCulture);
             }
         }
         
