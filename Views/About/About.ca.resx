@@ -110,6 +110,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -182,7 +183,7 @@ I si no hi ha ningú disponible quan ho necessitis? No et preocupis, pots crear 
     <value>Banc de Temps</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
-    <value>El Banc de Temps és un concepte que permet que l'intercanvi d'idiomes sigui rendible per a tothom. Si comparteixes el teu idioma natiu amb altres usuaris de Langademy, et donarem el mateix temps que has dedicat per a què tu puguis practicar altres idiomes. I si tu poses en pràctica un idioma que no és el teu idioma natiu, estaràs gastant temps del teu compte del Banc de Temps. Començaràs amb 5 hores, i cada mes et regalarem {0} hores addicionals al teu compte.</value>
+    <value>El Banc de Temps és un concepte que permet que l'intercanvi d'idiomes sigui rendible per a tothom. Si comparteixes el teu idioma natiu amb altres usuaris de Langademy, et donarem el mateix temps que has dedicat per a què tu puguis practicar altres idiomes. I si tu poses en pràctica un idioma que no és el teu idioma natiu, estaràs gastant temps del teu compte del Banc de Temps. Començaràs amb 5 hores al teu compte perquè puguis parlar l'idioma que vulguis.</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
     <value>Aprèn idiomes i millora el teu nivell amb Langademy</value>

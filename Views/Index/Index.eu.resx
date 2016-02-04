@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -294,7 +295,7 @@
     <value>Erregistroa bukatzen duzunean, zure profileko argazkia igo, hizkuntza gehiago gehitu eta profila osatu ahal izango duzu</value>
   </data>
   <data name="IndexFooterSt3" xml:space="preserve">
-    <value>Bota begirada antolatuta dauden bilerei eta batu zaitez hauetara edo sortu ezazu bilera berri bat</value>
+    <value>Bota begirada bat antolatuta dauden bilerei eta batu zaitez hauetara edo sortu ezazu bilera berri bat</value>
   </data>
   <data name="IndexFooterSt4" xml:space="preserve">
     <value>Zalantzaren bat baduzu, bialdu iezaguzu mezu bat zure Konbertsazio Panelaren bitartez. Atsegin handiz lagunduko dizugu</value>

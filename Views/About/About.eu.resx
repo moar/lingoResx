@@ -110,6 +110,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -182,7 +183,7 @@ Eta sartzen zarenean inor ez badago? Lasai, bilerak antolatzeko aukera duzu, eta
     <value>Denbora Bankua</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
-    <value>Denbora bankua hizkuntza elkartrukea denontzako errentagarria izateko modu bat da. Zure ama hizkuntza beste erabiltzaile batzurekin partekatzen baduzu, beste hizkuntza batzuk praktika ditzazun denbora emango dizugu. Eta zure ama hizkuntza ez den hizkuntza batean aritzen bazara, zure denbora bankuko denbora gastatuko duzu. 5 ordurekin hasiko zara, eta hilero {0} ordu oparituko dizkizugu zure denbora bankurako.</value>
+    <value>Denbora bankua hizkuntza elkartrukea denontzako errentagarria izateko modu bat da. Zure ama hizkuntza beste erabiltzaile batzurekin partekatzen baduzu, beste hizkuntza batzuk praktika ditzazun denbora emango dizugu. Eta zure ama hizkuntza ez den hizkuntza batean aritzen bazara, zure denbora bankuko denbora gastatuko duzu. 5 ordurekin hasiko zara, zuk nahi duzun hizkuntzan berba egin dezazun</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
     <value>Ikasi hizkuntzak eta zure maila hobetu Langademyn</value>

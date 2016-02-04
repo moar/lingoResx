@@ -58,12 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -250,5 +244,11 @@
   </data>
   <data name="LoginWithProvider" xml:space="preserve">
     <value>Et vas registar en Langademy usant {0}</value>
+  </data>
+  <data name="LRInvalidName" xml:space="preserve">
+    <value>Nom d'usuari no vàlid</value>
+  </data>
+  <data name="LRTooManySpecials" xml:space="preserve">
+    <value>Tens massa caràcters especials en el teu nom d'usuari</value>
   </data>
 </root>

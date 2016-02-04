@@ -86,6 +86,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -164,7 +165,7 @@
     <value><![CDATA[If you <strong>teach your native language</strong> you will be rewarded with time in your account. If you <strong>practice other languages</strong> you will be spending time from the time bank.]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value><![CDATA[You will <strong>start with 5 free hours</strong>, and each month Langademy will give you 2 additional hours.]]></value>
+    <value><![CDATA[You will <strong>start with 5 free hours</strong> so you can practice the languages you want]]></value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
     <value>In Langademy you can make videocalls with your contacts and decide which language you are going to practice. </value>
@@ -197,7 +198,7 @@
     <value>The Time Bank is a way to make language exchange fair for everyone at Langademy. This is how it works:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>You will begin with 5 hours, and every month you will receive {0} extra hours.</value>
+    <value>You will begin with 5 hours so you can practice the language you want.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>By default, you will not be able to accumulate more than 10 hours in your Time Bank account.</value>

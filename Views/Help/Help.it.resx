@@ -86,6 +86,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -163,7 +164,7 @@
     <value><![CDATA[Si <strong> insegni la tua lingua madre</strong> guadagnerai tempo al tuo account, e invece si <strong>  pratichi altre lingue</strong> spenderai tempo dal tuo account.]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value><![CDATA[Inizierai con<strong>5 ore gratis</strong>, e ogni mese Langademy ti darà 2 ore extra.]]></value>
+    <value><![CDATA[Inizierai con<strong>5 ore gratis</strong>, per iniziare a parlare la lingua che desideri.]]></value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
     <value>In Langademy puoi effettuare videochiamate con i tuoi contatti e avere il controllo della lingua che vuoi praticare.</value>
@@ -196,7 +197,7 @@
     <value> La Banca del Tempo è il sistema per fare più proficuo per tutti lo scambio linguistico. Ecco come funziona:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Inizierai con 5 ore, e ogni mese Langademy ti darà {0} ore extra.</value>
+    <value>Inizierai con 5 ore in modo da poter parlare la lingua che si desidera.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Per impostazione predefinita, non sarà possibile accumulare più di 10 ore nella tua banca del tempo.</value>
