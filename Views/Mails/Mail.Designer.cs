@@ -115,6 +115,15 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to New meetups for you!.
+        /// </summary>
+        public static string NewMeetupMails {
+            get {
+                return ResourceManager.GetString("NewMeetupMails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Recover your password.
         /// </summary>
         public static string PasswordRecovery {
