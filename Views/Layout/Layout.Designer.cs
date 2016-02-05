@@ -178,6 +178,15 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Langademy is based on a timebanking policy. In this app you can check the historic of your time balance and you will know the effect of having conversations in different languages .
+        /// </summary>
+        public static string TBDescription {
+            get {
+                return ResourceManager.GetString("TBDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Time Bank.
         /// </summary>
         public static string TBTitle {
