@@ -132,6 +132,12 @@
   <data name="Description" xml:space="preserve">
     <value>Langademy is a social network to learn languages. It offers a language exchange space with natives all over the world for helping people to become fluent in foreign languages. </value>
   </data>
+  <data name="DesktopDescription" xml:space="preserve">
+    <value>This is Langademy's home. From here, you can visit the entire Langademy, and you can tell to your contacts the Languages you are willing to use and also your Langademy state. You can also check your notifications in the right panel.</value>
+  </data>
+  <data name="DesktopTitle" xml:space="preserve">
+    <value>Home - Langademy</value>
+  </data>
   <data name="Keywords" xml:space="preserve">
     <value>Langademy, learn languages, language exchange, become fluent, practice english, practice spanish, practice languages, native speakers, improve language level</value>
   </data>
@@ -155,6 +161,12 @@
   </data>
   <data name="MainTitle" xml:space="preserve">
     <value>Language Exchange</value>
+  </data>
+  <data name="SearchDescription" xml:space="preserve">
+    <value>Search new Langademy users or people that you know from previous conversations. You can also filter them by languages they know and their level</value>
+  </data>
+  <data name="SearchTitle" xml:space="preserve">
+    <value>Search users - Langademy</value>
   </data>
   <data name="TBDescription" xml:space="preserve">
     <value>Langademy is based on a timebanking policy. In this app you can check the historic of your time balance and you will know the effect of having conversations in different languages </value>
