@@ -106,6 +106,24 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This is Langademy&apos;s home. From here, you can visit the entire Langademy, and you can tell to your contacts the Languages you are willing to use and also your Langademy state. You can also check your notifications in the right panel..
+        /// </summary>
+        public static string DesktopDescription {
+            get {
+                return ResourceManager.GetString("DesktopDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Home - Langademy.
+        /// </summary>
+        public static string DesktopTitle {
+            get {
+                return ResourceManager.GetString("DesktopTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy, learn languages, language exchange, become fluent, practice english, practice spanish, practice languages, native speakers, improve language level.
         /// </summary>
         public static string Keywords {
@@ -174,6 +192,24 @@ namespace Resources.Views.Layout {
         public static string MainTitle {
             get {
                 return ResourceManager.GetString("MainTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search new Langademy users or people that you know from previous conversations. You can also filter them by languages they know and their level.
+        /// </summary>
+        public static string SearchDescription {
+            get {
+                return ResourceManager.GetString("SearchDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search users - Langademy.
+        /// </summary>
+        public static string SearchTitle {
+            get {
+                return ResourceManager.GetString("SearchTitle", resourceCulture);
             }
         }
         
