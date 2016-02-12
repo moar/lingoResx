@@ -58,13 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -158,6 +151,9 @@
   </data>
   <data name="MainTitle" xml:space="preserve">
     <value>Intercanvi d'idiomes </value>
+  </data>
+  <data name="TBDescription" xml:space="preserve">
+    <value>Langademy utilitza una política de Banc de Temps. En aquesta aplicació podràs consultar el teu històric de hores i com les converses mantingudes en diferents idiomes afecten al teu balanç d'hores.</value>
   </data>
   <data name="TBTitle" xml:space="preserve">
     <value>Banc de Temps</value>
