@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,6 +129,12 @@
   <data name="Description" xml:space="preserve">
     <value>Langademy es una xarxa social per aprendre idiomes. Ofereix l'intercanvi d'idiomes amb natius d'arreu del món per a que la gent pugui aconseguir fluïdesa amb un idioma</value>
   </data>
+  <data name="DesktopDescription" xml:space="preserve">
+    <value>Aquesta és la pàgina d'inici de Langademy. Des d'aquí podeu navegar per tot Langademy, també establir el teu estat e indicar als teus contactes en quins idiomes estàs disposat a conversar. Al panell dret pots consultar les teves notificacions.</value>
+  </data>
+  <data name="DesktopTitle" xml:space="preserve">
+    <value>Inici - Langademy</value>
+  </data>
   <data name="Keywords" xml:space="preserve">
     <value>Langademy, aprendre idiomes, intercanvi d'idiomes, millorar la fluïdesa, practicar idiomes, natius, millorar l'idioma, practicar angles </value>
   </data>
@@ -151,6 +158,12 @@
   </data>
   <data name="MainTitle" xml:space="preserve">
     <value>Intercanvi d'idiomes </value>
+  </data>
+  <data name="SearchDescription" xml:space="preserve">
+    <value>Troba nous amics a Langademy o troba a aquells amb els que ja has conversats. Pots filtrar les teves recerques per idioma i pel nivell dels usuaris</value>
+  </data>
+  <data name="SearchTitle" xml:space="preserve">
+    <value>Recerques - Langademy</value>
   </data>
   <data name="TBDescription" xml:space="preserve">
     <value>Langademy utilitza una política de Banc de Temps. En aquesta aplicació podràs consultar el teu històric de hores i com les converses mantingudes en diferents idiomes afecten al teu balanç d'hores.</value>

@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -128,6 +129,9 @@
   <data name="Description" xml:space="preserve">
     <value>Langademy è un social network per imparare le lingue. Offre scambio linguistico con nativi di tutto il mondo così la gente può ottenere scioltezza in una lingua.</value>
   </data>
+  <data name="DesktopTitle" xml:space="preserve">
+    <value>Home - Langademy</value>
+  </data>
   <data name="Keywords" xml:space="preserve">
     <value>Langademy, imparare le lingue, scambio di lingue, acquisire una buona padronanza, praticare l'inglese, praticare spagnolo, pratica le lingue, nativi, migliorare il livello di lingua..</value>
   </data>
@@ -151,6 +155,12 @@
   </data>
   <data name="MainTitle" xml:space="preserve">
     <value>Scambio di lingue</value>
+  </data>
+  <data name="SearchDescription" xml:space="preserve">
+    <value>Cerca nuovi utenti Langademy o persone con cui hai parlato in precedenza. È possibile filtrare le ricerche per linguaggi o livello degli utenti</value>
+  </data>
+  <data name="SearchTitle" xml:space="preserve">
+    <value>Ricerca utenti - Langademy</value>
   </data>
   <data name="TBDescription" xml:space="preserve">
     <value>Langademy utilizza il criterio Banca del Tempo. In questa applicazione potete visualizzare il record di ore e come le conversazione nelle diverse lingue incide sull tuo saldo di ore.</value>
