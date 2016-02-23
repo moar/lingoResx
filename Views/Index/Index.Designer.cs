@@ -97,7 +97,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to It&apos;s free!.
+        ///   Looks up a localized string similar to Learn languages for free.
         /// </summary>
         public static string Free {
             get {
@@ -196,6 +196,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Join Langademy, your language exchange community.
+        /// </summary>
+        public static string IndexLogoAlt {
+            get {
+                return ResourceManager.GetString("IndexLogoAlt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The easiest way to meet a new partner.
         /// </summary>
         public static string IndexLR1 {
@@ -241,7 +250,16 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Take advantage of the Meetup Board.
+        ///   Looks up a localized string similar to Create converstion exchange meetups in the meetup board.
+        /// </summary>
+        public static string IndexMBPictureAlt {
+            get {
+                return ResourceManager.GetString("IndexMBPictureAlt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Take advantage of Langademy&apos;s Meetup Board.
         /// </summary>
         public static string IndexMeetingBoard1 {
             get {
@@ -259,7 +277,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Organize meetups for the days and hours you want to enter the Language Roulette. Make it in time so people will have time to join the meetup.
+        ///   Looks up a localized string similar to When do you want to have a conversation? Contribute to enriching the language exchange community by scheduling meetups for the days and hours you want to enter the Language Roulette. Make it in time so people will have time to join the meetup.
         /// </summary>
         public static string IndexMeetingBoard3 {
             get {
@@ -286,7 +304,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I found a partner that I like!.
+        ///   Looks up a localized string similar to Did you like to conversate with your partner?.
         /// </summary>
         public static string IndexPartners1 {
             get {
@@ -340,7 +358,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are ready!.
+        ///   Looks up a localized string similar to You are ready to talk in Spanish, English or the language you want!.
         /// </summary>
         public static string IndexReady {
             get {
@@ -349,7 +367,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search partners.
+        ///   Looks up a localized string similar to Search language exchange partners.
         /// </summary>
         public static string IndexSearchPartners {
             get {
@@ -403,7 +421,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Timebanking.
+        ///   Looks up a localized string similar to Time banking.
         /// </summary>
         public static string IndexTimeBank1 {
             get {
@@ -421,7 +439,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Read the timebanking rules in order to know when a videochat conversation will add or substract time from your Time Bank account.
+        ///   Looks up a localized string similar to Read the time banking rules in order to know when a videochat conversation will add or substract time from your Time Bank account.
         /// </summary>
         public static string IndexTimeBank3 {
             get {
@@ -439,7 +457,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language Roulette  is a videochat roulette where you can find native speakers to practice your favourite languages.
+        ///   Looks up a localized string similar to Learn spanish, german, english, french or any language online with Langademy. By using the  you can find native speakers to practice your favourite languages.
         /// </summary>
         public static string IndLangroulette {
             get {
@@ -457,7 +475,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next meetups.
+        ///   Looks up a localized string similar to Next meetups to practice languages.
         /// </summary>
         public static string IndNextMeetups {
             get {
@@ -512,7 +530,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Meet new people.
+        ///   Looks up a localized string similar to Conversation exchange.
         /// </summary>
         public static string KnowPeople {
             get {
@@ -548,7 +566,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to  Create a language meetup and invite your partners to join.
+        ///   Looks up a localized string similar to  Create meetups to exchange languages when you want and invite your partners to join!.
         /// </summary>
         public static string ManageMeetup {
             get {
@@ -566,7 +584,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign up and complete your profile.
+        ///   Looks up a localized string similar to Sign up and start learning languages for free.
         /// </summary>
         public static string RegisterAndCompleteProfile {
             get {
@@ -575,7 +593,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Speak in your native language and we will give you the same amount of time to practice other languages.
+        ///   Looks up a localized string similar to Speak in your native language and we will give you the same amount of time to practice other languages. Make conversation exchange your trade!.
         /// </summary>
         public static string SpeakNative {
             get {
@@ -584,7 +602,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Try the Language Roulette.
+        ///   Looks up a localized string similar to Try conversation exchange with the Language Roulette.
         /// </summary>
         public static string TryLanguageRoulette {
             get {
@@ -602,7 +620,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Whenever it suits you.
+        ///   Looks up a localized string similar to Practice the language you want, when you want.
         /// </summary>
         public static string WhenPossible {
             get {

@@ -146,7 +146,7 @@
     <value>Write some details about you</value>
   </data>
   <data name="CannotDeleteNativePendingMeetup" xml:space="preserve">
-    <value>You signed up for a meetup in this langauge. Leave the meetup before removing this language.</value>
+    <value>You signed up for a meetup in this language. Leave the meetup before removing this language.</value>
   </data>
   <data name="AlertOff" xml:space="preserve">
     <value>Off</value>

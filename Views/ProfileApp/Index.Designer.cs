@@ -124,7 +124,7 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You signed up for a meetup in this langauge. Leave the meetup before removing this language..
+        ///   Looks up a localized string similar to You signed up for a meetup in this language. Leave the meetup before removing this language..
         /// </summary>
         public static string CannotDeleteNativePendingMeetup {
             get {
