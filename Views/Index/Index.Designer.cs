@@ -304,7 +304,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Did you like to conversate with your partner?.
+        ///   Looks up a localized string similar to Did you like chatting with your partner?.
         /// </summary>
         public static string IndexPartners1 {
             get {
