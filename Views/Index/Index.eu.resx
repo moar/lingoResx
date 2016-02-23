@@ -58,10 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,7 +129,7 @@
     <value>Jarrai gaitzazu!</value>
   </data>
   <data name="Free" xml:space="preserve">
-    <value>Doakoa da!</value>
+    <value>Ikasi hizkuntzak dohainik!</value>
   </data>
   <data name="IndAbout" xml:space="preserve">
     <value>Langademyri buruz</value>
@@ -142,7 +138,7 @@
     <value>Hizkuntzak</value>
   </data>
   <data name="IndNextMeetups" xml:space="preserve">
-    <value>Hurrengo bilerak Language Roulettean</value>
+    <value>Hizkuntzak praktikatzeko hurrengo bilerak</value>
   </data>
   <data name="IndParticipants" xml:space="preserve">
     <value>Partaideak</value>
@@ -175,16 +171,16 @@
     <value>Sartu</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Sortu ezazu bilera bat eta gonbida itzazu zure lagunak</value>
+    <value>Sortu ezazu hizkuntza trukerako bilera bat eta gonbida itzazu zure lagunak</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Bisita ezazu Langademy!</value>
   </data>
   <data name="WhenPossible" xml:space="preserve">
-    <value>Zuk ahal duzunean</value>
+    <value>Praktikatu nahi duzun hizkuntza, zuk ahal duzunean</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>Language Roulettea  bideo konferentzia bidezko erruleta bat da. Bertan hiztun natiboak aurkituko dituzu zure hizkuntza gogokoenak praktika ditzatzun</value>
+    <value>Ikasi ingelesa, alemana, frantsesa edo nahi duzun hizkuntza online Langademy erabiliz. Language Roulettea erabiliz hiztun natiboak aurkituko dituzu zure hizkuntza gogokoenak praktika ditzatzun</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Hitz egin ezazu zure jatorrizko hizkuntzan eta eskaini duzun denbora zuri oparituko dizugu nahi dituzun hizkuntzak praktika ditzazun</value>
@@ -205,7 +201,7 @@
     <value>Beste pertsona batekin hitz egin nahi baduzu, "hurrengoa" klikatu eta beste bikote bat bilatuko dizugu</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Aprobetxatu ezazu Bilera taula</value>
+    <value>Aprobetxatu ezazu Langademy-ko bilera taula</value>
   </data>
   <data name="IndexMeetingBoard2" xml:space="preserve">
     <value>Denok batera!</value>
@@ -241,7 +237,7 @@
     <value>Prest zaude!</value>
   </data>
   <data name="IndexSearchPartners" xml:space="preserve">
-    <value>Bilatu mintzalagunak</value>
+    <value>Bilatu mintzalagun gehiago</value>
   </data>
   <data name="IndexSeeMore" xml:space="preserve">
     <value>Ikusi gehiago</value>
@@ -250,7 +246,7 @@
     <value>Igo itzazu zure profileko eta azaleko argazkiak</value>
   </data>
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
-    <value>Erregistra zaitez eta bete ezazu zure profila</value>
+    <value>Erregistra zaitez eta hasi hizkuntzak ikasten</value>
   </data>
   <data name="TryLanguageRoulette" xml:space="preserve">
     <value>Probatu ezazu Language Roulettea</value>
@@ -302,5 +298,11 @@
   </data>
   <data name="IndexFooterSt4" xml:space="preserve">
     <value>Zalantzaren bat baduzu, bialdu iezaguzu mezu bat zure Konbertsazio Panelaren bitartez. Atsegin handiz lagunduko dizugu</value>
+  </data>
+  <data name="IndexLogoAlt" xml:space="preserve">
+    <value>Sartu zaitez Langademy-ra, zure hizkuntza elkartrukerako gunea</value>
+  </data>
+  <data name="IndexMBPictureAlt" xml:space="preserve">
+    <value>Sortu itzazu hizkuntzak praktikatzeko bilerak bilera taularen bitartez</value>
   </data>
 </root>

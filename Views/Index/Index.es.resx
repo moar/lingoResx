@@ -58,10 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -133,7 +129,7 @@
     <value>¡Síguenos!</value>
   </data>
   <data name="Free" xml:space="preserve">
-    <value>¡Es gratis!</value>
+    <value>Aprende idiomas gratis</value>
   </data>
   <data name="IndAbout" xml:space="preserve">
     <value>Acerca de Langademy</value>
@@ -142,7 +138,7 @@
     <value>Idiomas</value>
   </data>
   <data name="IndNextMeetups" xml:space="preserve">
-    <value>Próximas quedadas en Language Roulette</value>
+    <value>Siguientes intercambios para practicar idiomas online</value>
   </data>
   <data name="IndParticipants" xml:space="preserve">
     <value>Participantes</value>
@@ -160,7 +156,7 @@
     <value>Apúntate</value>
   </data>
   <data name="KnowPeople" xml:space="preserve">
-    <value>Conoce gente nueva</value>
+    <value>Intercambio de idiomas</value>
   </data>
   <data name="Participants" xml:space="preserve">
     <value>Participantes</value>
@@ -175,16 +171,16 @@
     <value>Iniciar sesión</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Organiza una quedada y haz saber a todos cuándo vas a entrar</value>
+    <value>Crea quedadas para intercambiar idiomas cuando mejor te venga y haz saber a todos cuándo vas a entrar</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>¡Visita Langademy!</value>
   </data>
   <data name="WhenPossible" xml:space="preserve">
-    <value>Cuando mejor te venga</value>
+    <value>Practica el idioma que quieras, cuando tú quieras</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>Language Roulette  es la ruleta de videoconferencias donde conocerás nativos y otros estudiantes para practicar tus idiomas favoritos</value>
+    <value>Aprende inglés, alemán, frances o cualquier otro idioma online y de manera gratuita con Langademy. Utilizando el Language Roulette conocerás nativos y otros estudiantes para mentener conversaciones en tus idiomas favoritos</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>
@@ -205,13 +201,13 @@
     <value>Y cuando quieras hablar con alguien más, pulsa Siguiente y te volvemos a emparejar</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Aprovecha el Tablón de Quedadas</value>
+    <value>Aprovecha el Tablón de Quedadas de Langademy</value>
   </data>
   <data name="IndexMeetingBoard2" xml:space="preserve">
     <value>¡Todos a una!</value>
   </data>
   <data name="IndexMeetingBoard3" xml:space="preserve">
-    <value>Organiza quedadas los días y horas que te apetezca entrar al Language Roulette. Pero hazlo con tiempo para que más gente tenga tiempo de apuntarse</value>
+    <value>¿Cuándo quieres mantener una conversación con nativos o en tu propio idioma? Contribuye con la comunidad de intercambio de idiomas organizando quedadas los días y horas que te apetezca entrar al Language Roulette. Pero hazlo con tiempo para que más gente tenga tiempo de apuntarse</value>
   </data>
   <data name="IndexMeetingBoard4" xml:space="preserve">
     <value>O si alguien ha organizado ya alguna quedada apúntate. ¡Solo tienes que pulsar un botón! A los que están apuntados les encantará saber que tú también te apuntas</value>
@@ -238,10 +234,10 @@
     <value>¿De dónde eres?¿Cuales son tus intereses?</value>
   </data>
   <data name="IndexReady" xml:space="preserve">
-    <value>¡Ya estás listo!</value>
+    <value>Ya estás listo para mantener conversaciones en inglés, alemán, francés o el idioma que quieras</value>
   </data>
   <data name="IndexSearchPartners" xml:space="preserve">
-    <value>Buscar compañeros</value>
+    <value>Busca compañeros de intercambio</value>
   </data>
   <data name="IndexSeeMore" xml:space="preserve">
     <value>Ver más</value>
@@ -250,16 +246,16 @@
     <value>Sube tu foto de perfil y de portada</value>
   </data>
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
-    <value>Regístrate y completa tu perfil</value>
+    <value>Regístrate y comienza a aprender idiomas</value>
   </data>
   <data name="TryLanguageRoulette" xml:space="preserve">
-    <value>Prueba el Language Roulette</value>
+    <value>Prueba el intercambio de idiomas en el Language Roulette</value>
   </data>
   <data name="IndexLanguageExchange1" xml:space="preserve">
     <value>Intercambio de idiomas</value>
   </data>
   <data name="IndexLanguageExchange2" xml:space="preserve">
-    <value>El tiempo del que dispones para hablar por videoconferencia con nativos es el mismo que tú dediques a otros hablando en tu idioma nativo</value>
+    <value>El tiempo del que dispones para hablar por videoconferencia con nativos es el mismo que tú dediques a otros hablando en tu idioma nativo. Por ejemplo, si mantienes 30 minutos de conversación en castellano, podrás utilizar esos 30 minutos para mantener conversaciones en inglés con otros nativos</value>
   </data>
   <data name="IndexLanguageExchange3" xml:space="preserve">
     <value>Funciona como un tandem, pero tú decides cuándo y con quién hablas en cada idioma, sean las mismas u otras personas</value>
@@ -274,10 +270,10 @@
     <value>¿Eres profesor?</value>
   </data>
   <data name="IndexTimeBank1" xml:space="preserve">
-    <value>Banco del Tiempo</value>
+    <value>Consumo colaborativo</value>
   </data>
   <data name="IndexTimeBank2" xml:space="preserve">
-    <value>Controla tu saldo de tiempo para saber si necesitas conversar en tu idioma nativo</value>
+    <value>Mediante el Banco del Tiempo puedes controlar tu saldo de tiempo para saber si necesitas conversar en tu idioma nativo</value>
   </data>
   <data name="IndexTimeBank3" xml:space="preserve">
     <value>Consulta las reglas del Banco de Tiempo para saber cuándo una videoconferencia te suma o resta tiempo</value>
@@ -302,5 +298,11 @@
   </data>
   <data name="IndexFooterSt4" xml:space="preserve">
     <value>Si tienes alguna duda, mándanos un mensaje desde tu Panel de Conversaciones. Estaremos encantados de ayudarte</value>
+  </data>
+  <data name="IndexLogoAlt" xml:space="preserve">
+    <value>Únete a Langademy, tu comunidad de intercambio de idiomas</value>
+  </data>
+  <data name="IndexMBPictureAlt" xml:space="preserve">
+    <value>Crea quedadas para intercambiar idiomas en el tablón de quedadas</value>
   </data>
 </root>

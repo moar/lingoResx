@@ -60,6 +60,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -158,7 +159,7 @@
     <value>Términos y Condiciones - Langademy</value>
   </data>
   <data name="MainTitle" xml:space="preserve">
-    <value>Intercambio de idiomas</value>
+    <value>Aprende idiomas online mediante el intercambio de idiomas</value>
   </data>
   <data name="SearchDescription" xml:space="preserve">
     <value>Encuentra nuevos amigos en Langademy o encuentra a aquellos con los que ya has conversados. Puedes filtrar tus búsquedas por idioma y por el nivel de los usuarios</value>
