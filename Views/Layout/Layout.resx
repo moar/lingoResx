@@ -59,6 +59,7 @@
             : and then encoded with base64 encoding.-->
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -160,7 +161,7 @@
     <value>Terms and Conditions - Langademy</value>
   </data>
   <data name="MainTitle" xml:space="preserve">
-    <value>Language Exchange</value>
+    <value>Learn languages online via language exchange</value>
   </data>
   <data name="SearchDescription" xml:space="preserve">
     <value>Search new Langademy users or people that you know from previous conversations. You can filter you searches by languages they know and their level</value>
@@ -169,7 +170,7 @@
     <value>Search users - Langademy</value>
   </data>
   <data name="TBDescription" xml:space="preserve">
-    <value>Langademy is based on a timebanking policy. In this app you can check the historic of your time balance and you will know the effect of having conversations in different languages </value>
+    <value>Langademy is based on a time banking policy. In this app you can check the historic of your time balance and you will know the effect of having conversations in different languages </value>
   </data>
   <data name="TBTitle" xml:space="preserve">
     <value>Time Bank</value>

@@ -89,6 +89,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -161,7 +162,7 @@
     <value><![CDATA[You can <strong>create meetups</strong> to meet with more people at the Language Roulette]]></value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
-    <value><![CDATA[<strong>Timebanking:</strong>]]></value>
+    <value><![CDATA[<strong>Time banking:</strong>]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
     <value><![CDATA[If you <strong>teach your native language</strong> you will be rewarded with time in your account. If you <strong>practice other languages</strong> you will be spending time from the time bank.]]></value>

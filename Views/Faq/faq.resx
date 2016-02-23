@@ -70,6 +70,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -148,7 +149,7 @@
     <value>No, and you don’t have to install anything to use videoconferences on Langademy.</value>
   </data>
   <data name="Answer7" xml:space="preserve">
-    <value>Langademy is free of any charge. We use a timebanking policy. The time you devote speaking to others in your native languages will be added to your account so you can use it to learn other languages.</value>
+    <value>Langademy is free of any charge. We use a time banking policy. The time you devote speaking to others in your native languages will be added to your account so you can use it to learn other languages.</value>
   </data>
   <data name="Answer8" xml:space="preserve">
     <value>When you are on a conversation within the Language Roulette, you have the option to send a connection request to your partner. Once you are connected, you can send private messages and also make private videocalls.</value>

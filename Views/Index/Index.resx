@@ -61,6 +61,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -132,7 +133,7 @@
     <value>Follow us!</value>
   </data>
   <data name="Free" xml:space="preserve">
-    <value>It's free!</value>
+    <value>Learn language for free</value>
   </data>
   <data name="IndAbout" xml:space="preserve">
     <value>About</value>
@@ -141,7 +142,7 @@
     <value>Languages</value>
   </data>
   <data name="IndNextMeetups" xml:space="preserve">
-    <value>Next meetups</value>
+    <value>Next meetups to practice languages</value>
   </data>
   <data name="IndParticipants" xml:space="preserve">
     <value>Participants</value>
@@ -160,7 +161,7 @@
     <value>Join</value>
   </data>
   <data name="KnowPeople" xml:space="preserve">
-    <value>Meet new people</value>
+    <value>Conversation exchange</value>
   </data>
   <data name="Participants" xml:space="preserve">
     <value>Participants</value>
@@ -175,19 +176,19 @@
     <value>Login</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value> Create a language meetup and invite your partners to join</value>
+    <value> Create meetups to exchange languages when you want and invite your partners to join!</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Visit Langademy!</value>
   </data>
   <data name="WhenPossible" xml:space="preserve">
-    <value>Whenever it suits you</value>
+    <value>Practice the language you want, when you want</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>Language Roulette  is a videochat roulette where you can find native speakers to practice your favourite languages</value>
+    <value>Learn spanish, german, english, french or any language online with Langademy. By using the  you can find native speakers to practice your favourite languages</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
-    <value>Speak in your native language and we will give you the same amount of time to practice other languages</value>
+    <value>Speak in your native language and we will give you the same amount of time to practice other languages. Make conversation exchange your trade!</value>
   </data>
   <data name="IndexLR1" xml:space="preserve">
     <value>The easiest way to meet a new partner</value>
@@ -205,13 +206,13 @@
     <value>If you want to speak with another person, click next and we will find you another match</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Take advantage of the Meetup Board</value>
+    <value>Take advantage of Langademy's Meetup Board</value>
   </data>
   <data name="IndexMeetingBoard2" xml:space="preserve">
     <value>All for one!</value>
   </data>
   <data name="IndexMeetingBoard3" xml:space="preserve">
-    <value>Organize meetups for the days and hours you want to enter the Language Roulette. Make it in time so people will have time to join the meetup</value>
+    <value>When do you want to have a conversation? Contribute to enriching the language exchange community by scheduling meetups for the days and hours you want to enter the Language Roulette. Make it in time so people will have time to join the meetup</value>
   </data>
   <data name="IndexMeetingBoard4" xml:space="preserve">
     <value>If someone else has organized a meetup, you can join the meetup. It's just a click! The other attendants will like it if you join them</value>
@@ -238,10 +239,10 @@
     <value>Where are you from? What are your interests?</value>
   </data>
   <data name="IndexReady" xml:space="preserve">
-    <value>You are ready!</value>
+    <value>You are ready to talk in Spanish, English or the langauge you want!</value>
   </data>
   <data name="IndexSearchPartners" xml:space="preserve">
-    <value>Search partners</value>
+    <value>Search language exchange partners</value>
   </data>
   <data name="IndexSeeMore" xml:space="preserve">
     <value>See more</value>
@@ -250,10 +251,10 @@
     <value>Upload your avatar and cover photos</value>
   </data>
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
-    <value>Sign up and complete your profile</value>
+    <value>Sign up and start learning languages for free</value>
   </data>
   <data name="TryLanguageRoulette" xml:space="preserve">
-    <value>Try the Language Roulette</value>
+    <value>Try conversation exchange with the Language Roulette</value>
   </data>
   <data name="IndexLanguageExchange1" xml:space="preserve">
     <value>Language exchange</value>
@@ -274,13 +275,13 @@
     <value>Are you a teacher?</value>
   </data>
   <data name="IndexTimeBank1" xml:space="preserve">
-    <value>Timebanking</value>
+    <value>Tim ebanking</value>
   </data>
   <data name="IndexTimeBank2" xml:space="preserve">
     <value>Check your time balance to know if you have to speak in your native language</value>
   </data>
   <data name="IndexTimeBank3" xml:space="preserve">
-    <value>Read the timebanking rules in order to know when a videochat conversation will add or substract time from your Time Bank account</value>
+    <value>Read the time banking rules in order to know when a videochat conversation will add or substract time from your Time Bank account</value>
   </data>
   <data name="IndexTimeBank4" xml:space="preserve">
     <value>Using your state your contacts will know if you are available to receive videocalls</value>
