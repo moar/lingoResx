@@ -178,7 +178,7 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remember that only the rooms of the languages you practise are available for you. Add languages to your profile if you want to practice more languages.
+        ///   Looks up a localized string similar to Remember that only the rooms of the languages you practice are available for you. Add languages to your profile if you want to practice more languages.
         /// </summary>
         public static string LRRememberLanguageList {
             get {
@@ -250,7 +250,7 @@ namespace Resources.Views.Langroulette {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Select a room and start practicing a language.
+        ///   Looks up a localized string similar to Select a room and start practicing a language online.
         /// </summary>
         public static string SelectRoom {
             get {

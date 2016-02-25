@@ -160,7 +160,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language Roulette-Tandem.
+        ///   Looks up a localized string similar to Meet new people and learn languages online - Language Roulette.
         /// </summary>
         public static string LRTitle {
             get {

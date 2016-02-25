@@ -163,7 +163,7 @@
     <value>Is your room empty? Check if there are any meetups soon in the {0}!</value>
   </data>
   <data name="SelectRoom" xml:space="preserve">
-    <value>Select a room and start practicing a language</value>
+    <value>Select a room and start practicing a language online</value>
   </data>
   <data name="LRFilter" xml:space="preserve">
     <value>Filter</value>

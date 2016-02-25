@@ -61,6 +61,33 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Language filter.
+        /// </summary>
+        public static string SearchFilter {
+            get {
+                return ResourceManager.GetString("SearchFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find language exchange partners.
+        /// </summary>
+        public static string SearchMainTitle {
+            get {
+                return ResourceManager.GetString("SearchMainTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learn foreign languages online, it’s free! Pssst, don’t forget to be collaborative. Speak in your native language and we will give you the same amount of time to practice other languages with natives.
+        /// </summary>
+        public static string SearchSubTitle {
+            get {
+                return ResourceManager.GetString("SearchSubTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your search produced no results.
         /// </summary>
         public static string SNoResults {
