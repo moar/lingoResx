@@ -259,7 +259,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Take advantage of Langademy&apos;s Meetup Board.
+        ///   Looks up a localized string similar to Schedule conversation exchanges with Langademy&apos;s Meetup Board.
         /// </summary>
         public static string IndexMeetingBoard1 {
             get {
@@ -457,7 +457,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn spanish, german, english, french or any language online with Langademy. By using the  you can find native speakers to practice your favourite languages.
+        ///   Looks up a localized string similar to Learn spanish, german, english, french or any language online with Langademy. By using the Language Roulette you can find native speakers to practice your favourite languages.
         /// </summary>
         public static string IndLangroulette {
             get {

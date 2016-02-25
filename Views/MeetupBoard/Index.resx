@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,52 +57,48 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
-  
-  
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -124,7 +121,7 @@
     <value>All meetups</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value>The meetup hasn't begun yet, but you can go to the Language Roulette when you want</value>
+    <value>The meetup hasn't begun yet, but you can go to the Language Roulette and &lt;b&gt;practice {0}&lt;/b&gt; when you want</value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Attend</value>
@@ -214,7 +211,7 @@
     <value>You can not invite other users to attend a meetup starting in less than {0} hours</value>
   </data>
   <data name="Meetup" xml:space="preserve">
-    <value>Join {0} meetup!</value>
+    <value>Meetup: talk in {0} online!</value>
   </data>
   <data name="MBLanguages" xml:space="preserve">
     <value>Languages</value>
@@ -235,10 +232,10 @@
     <value>Enter</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>The meetup has begun! Go to the Language Roulette now</value>
+    <value>The meetup has begun! Go to the Language Roulette and start speaking in {0} now</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value>The meetup is over. But remember that you can go to the Language Roulette when you want</value>
+    <value>The meetup is over. But remember that you can go to the Language Roulette and &lt;b&gt;practice {0}&lt;/b&gt; when you want</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>You are about to share this meetup on Reddit. We suggest one of the following subreddits:</value>
@@ -269,5 +266,8 @@
   </data>
   <data name="MeetupCancelled" xml:space="preserve">
     <value>This meetup has been cancelled. But you can create a new one right now!</value>
+  </data>
+  <data name="MBCreateJoinMeetup" xml:space="preserve">
+    <value>Join an existing meetup or create a new one and start practicing the language you want</value>
   </data>
 </root>

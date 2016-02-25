@@ -79,7 +79,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In the meetup board, you can create meetups to let the others know when you will be available to chat, or you can join the existing meetups .
+        ///   Looks up a localized string similar to In the meetup board, you can create language exchange meetups to let the others know when you will be available to chat, or you can join the existing meetups..
         /// </summary>
         public static string DescMeetupBoard {
             get {
@@ -187,7 +187,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language Exchange.
+        ///   Looks up a localized string similar to Learn languages online via language exchange.
         /// </summary>
         public static string MainTitle {
             get {
@@ -196,7 +196,16 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search new Langademy users or people that you know from previous conversations. You can also filter them by languages they know and their level.
+        ///   Looks up a localized string similar to Conversation exchange meetups, create or join them! - Langademy.
+        /// </summary>
+        public static string MBTitle {
+            get {
+                return ResourceManager.GetString("MBTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search new Langademy users or people that you know from previous conversations. You can filter you searches by languages they know and their level.
         /// </summary>
         public static string SearchDescription {
             get {
@@ -205,7 +214,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search users - Langademy.
+        ///   Looks up a localized string similar to Search language exchange partners - Langademy.
         /// </summary>
         public static string SearchTitle {
             get {
@@ -214,7 +223,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is based on a timebanking policy. In this app you can check the historic of your time balance and you will know the effect of having conversations in different languages .
+        ///   Looks up a localized string similar to Langademy is based on a time banking policy. In this app you can check the historic of your time balance and you will know the effect of having conversations in different languages .
         /// </summary>
         public static string TBDescription {
             get {
