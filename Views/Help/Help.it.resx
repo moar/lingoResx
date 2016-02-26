@@ -91,6 +91,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -162,7 +163,7 @@
     <value>Il modo più semplice per coincidere con più persone nel Language Roulette è quello di organizzare appuntamenti nella Tabella di appuntamenti o unirsi a quelli che già sono stati creati.  </value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
-    <value><![CDATA[ <strong>La banca del Tempo:</strong>]]></value>
+    <value><![CDATA[ <strong>Banca del Tempo:</strong>]]></value>
   </data>
   <data name="HelpAssistanteStep2F2" xml:space="preserve">
     <value><![CDATA[Si <strong> insegni la tua lingua madre</strong> guadagnerai tempo al tuo account, e invece si <strong>  pratichi altre lingue</strong> spenderai tempo dal tuo account.]]></value>

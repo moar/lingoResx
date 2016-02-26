@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -129,7 +130,7 @@
     <value>Segueix-nos!</value>
   </data>
   <data name="Free" xml:space="preserve">
-    <value>Es gratuït!</value>
+    <value>Aprèn idiomes gratis</value>
   </data>
   <data name="IndAbout" xml:space="preserve">
     <value>Sobre Langademy</value>
@@ -138,7 +139,7 @@
     <value>Idiomes</value>
   </data>
   <data name="IndNextMeetups" xml:space="preserve">
-    <value>Pròximes quedades en Language Roulette</value>
+    <value>Següents intercanvis per practicar idiomes online</value>
   </data>
   <data name="IndParticipants" xml:space="preserve">
     <value>Participants</value>
@@ -156,7 +157,7 @@
     <value>Uneix-te</value>
   </data>
   <data name="KnowPeople" xml:space="preserve">
-    <value>Coneix gent nova </value>
+    <value>Intercanvi d'idiomes</value>
   </data>
   <data name="Participants" xml:space="preserve">
     <value>Participants</value>
@@ -171,16 +172,16 @@
     <value>Iniciar sessió </value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Organitza una quedada i fes saber a tots quan vas a entrar</value>
+    <value>Organitza quedades per intercanviar idiomes quan millor et vingui i fes saber a tots quan vas a entrar</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Visita Langademy!</value>
   </data>
   <data name="WhenPossible" xml:space="preserve">
-    <value>Quan millor et vingui </value>
+    <value>Practica l'idioma que vulguis, quan tu vulguis</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>Language Roulette és una ruleta de videoxat on coneixeràs parlants natius i altres estudiants per a practicar els teus idiomes preferits</value>
+    <value>Aprèn anglès, alemany, francès o qualsevol altre idioma online amb Langademy. Al Language Roulette coneixeràs natius per mantenir converses en els teus idiomes preferits</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Parla el teu idioma natiu amb els demés i et regalarem el temps que els has dedicat per a practicar altres idiomes</value>
@@ -201,13 +202,13 @@
     <value>I quan vulguis parlar amb algú més, clica següent i et tornem a aparellar</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Aprofita el Tauler d'Quedades</value>
+    <value>Organitza intercanvis d'idiomes al Tauler de Quedades de Langademy</value>
   </data>
   <data name="IndexMeetingBoard2" xml:space="preserve">
     <value>Tots a una!</value>
   </data>
   <data name="IndexMeetingBoard3" xml:space="preserve">
-    <value>Organitza quedades els dies i hores que et vingui de gust entrar al Language Roulette. Però fes-ho amb temps perquè més gent tingui temps d'apuntar-s'hi</value>
+    <value>Quan vols mantenir una conversa amb natius o en el teu propi idioma? Contribueix amb la comunitat d'intercanvi d'idiomes organitzant quedades els dies i hores que et vingui de gust entrar al Language Roulette. Però fes-ho amb temps per a que més gent tingui temps d'apuntar-s'hi</value>
   </data>
   <data name="IndexMeetingBoard4" xml:space="preserve">
     <value>O si algú ha organitzat ja alguna quedada apunta't. Només has de clicar un botó! Als que estan apuntats els encantarà saber que tu també t'apuntes</value>
@@ -234,10 +235,10 @@
     <value>D'on ets? Quins són els teus interessos?</value>
   </data>
   <data name="IndexReady" xml:space="preserve">
-    <value>Ja estàs llest!</value>
+    <value>Ja estàs llest per a mantenir converses en anglès, alemany, francès o en l'idioma que vulguis!</value>
   </data>
   <data name="IndexSearchPartners" xml:space="preserve">
-    <value>Buscar companys</value>
+    <value>Buscar companys d'intercanvi</value>
   </data>
   <data name="IndexSeeMore" xml:space="preserve">
     <value>Veure més</value>
@@ -246,10 +247,10 @@
     <value>Puja la teva foto de perfil i de portada</value>
   </data>
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
-    <value>Registra't i completa el teu perfil</value>
+    <value>Registra't i comença a aprendre idiomes</value>
   </data>
   <data name="TryLanguageRoulette" xml:space="preserve">
-    <value>Prova el Language Roulette</value>
+    <value>Prova l'intercanvi d'idiomes en el Language Roulette </value>
   </data>
   <data name="IndexLanguageExchange1" xml:space="preserve">
     <value>Intercanvi d'idiomes </value>
@@ -270,7 +271,7 @@
     <value>Ets professor?</value>
   </data>
   <data name="IndexTimeBank1" xml:space="preserve">
-    <value>Banc de Temps</value>
+    <value>Consum col·laboratiu</value>
   </data>
   <data name="IndexTimeBank2" xml:space="preserve">
     <value>Controla el teu saldo de temps per saber si necessites conversar en el teu idioma natiu</value>
@@ -298,5 +299,11 @@
   </data>
   <data name="IndexFooterSt4" xml:space="preserve">
     <value>Si tens algun dubte, envia'ns un missatge al Panell de Converses. Estarem encantats d'ajudar-te</value>
+  </data>
+  <data name="IndexLogoAlt" xml:space="preserve">
+    <value>Uneix-te a Langademy, la teva comunitat d'intercanvi d'idiomes</value>
+  </data>
+  <data name="IndexMBPictureAlt" xml:space="preserve">
+    <value>Crea quedades per intercanviar idiomes al tauler de quedades</value>
   </data>
 </root>

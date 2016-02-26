@@ -58,10 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -124,7 +120,7 @@
     <value>Totes les quedades </value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value>La quedada no ha començat encara, però pots anar al Language Roulette quan vulguis</value>
+    <value><![CDATA[La quedada no ha començat encara, però pots entrar al Language Roulette y <b>practicar {0}</b> quan vulguis]]></value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Assistir</value>
@@ -214,7 +210,7 @@
     <value>No es pot convidar a altres usuaris a assistir a una quedada que comença en menys de {0} hores</value>
   </data>
   <data name="Meetup" xml:space="preserve">
-    <value>Uneix-te a la quedada de {0}!</value>
+    <value>Quedada per parlar en {0} online!</value>
   </data>
   <data name="MBLanguages" xml:space="preserve">
     <value>Idiomes</value>
@@ -235,10 +231,10 @@
     <value>Entrar</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>La quedada ha començat! Accedeix al Language Roulette </value>
+    <value>La quedada ha començat! Accedeix al Language Roulette i comença a parlar en {0}</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value>La quedada ha finalitzat. Però recorda que pots anar a la Language Roulette quan vulguis</value>
+    <value>La quedada ha finalitzat. Però recorda que pots entrar la Language Roulette i practicar {0} quan vulguis</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>Vas a  compartir aquesta quedada en Reddit. Et suggerim els següents subreddits:</value>
@@ -269,5 +265,8 @@
   </data>
   <data name="MeetupCancelled" xml:space="preserve">
     <value>La quedada a la qual intentes accedir ha estat cancel·lada. Però pots crear una nova ara mateix!</value>
+  </data>
+  <data name="MBCreateJoinMeetup" xml:space="preserve">
+    <value>Uneix-te a una quedada o crea una nova i comença a practicar l'idioma que vulguis</value>
   </data>
 </root>

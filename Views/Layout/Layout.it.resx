@@ -58,9 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -131,6 +128,9 @@
   <data name="Description" xml:space="preserve">
     <value>Langademy è un social network per imparare le lingue. Offre scambio linguistico con nativi di tutto il mondo così la gente può ottenere scioltezza in una lingua.</value>
   </data>
+  <data name="DesktopDescription" xml:space="preserve">
+    <value>Questa è la web d'inizio di Langademy. Da qui puoi navigare per tutto Langademy, modificare il tuo stato, dire ai tuoi contatti in che lingua stai disposto a conversare ecc Nel riquadro a destra è possibile visualizzare le tue notifiche.</value>
+  </data>
   <data name="DesktopTitle" xml:space="preserve">
     <value>Home - Langademy</value>
   </data>
@@ -147,7 +147,7 @@
     <value>language roulette, scambio linguistico, chat, tandem, scioltezza</value>
   </data>
   <data name="LRTitle" xml:space="preserve">
-    <value>Language Roulette-Tandem</value>
+    <value>Conosce nuove persone e inizia ad imparare lingue online - Language Roulette</value>
   </data>
   <data name="MainPrivacy" xml:space="preserve">
     <value>Privacy - Langademy</value>
@@ -156,13 +156,16 @@
     <value>Termini e Condizioni - Langademy</value>
   </data>
   <data name="MainTitle" xml:space="preserve">
-    <value>Scambio di lingue</value>
+    <value>Impara lingue online con lo scambio linguistico </value>
+  </data>
+  <data name="MBTitle" xml:space="preserve">
+    <value>Iscriviti o rifai nuovi appuntamenti per imparare lingue! - Langademy</value>
   </data>
   <data name="SearchDescription" xml:space="preserve">
     <value>Cerca nuovi utenti Langademy o persone con cui hai parlato in precedenza. È possibile filtrare le ricerche per linguaggi o livello degli utenti</value>
   </data>
   <data name="SearchTitle" xml:space="preserve">
-    <value>Ricerca utenti - Langademy</value>
+    <value>Ricerca utenti per lo scambio di linguaggio - Langademy</value>
   </data>
   <data name="TBDescription" xml:space="preserve">
     <value>Langademy utilizza il criterio Banca del Tempo. In questa applicazione potete visualizzare il record di ore e come le conversazione nelle diverse lingue incide sull tuo saldo di ore.</value>

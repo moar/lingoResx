@@ -58,10 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -124,7 +120,7 @@
     <value>Bilera guztiak</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value>Oraindik ez da bilera hasi, baina Language Roulettera nahi duzunean sar zaitezke</value>
+    <value><![CDATA[Oraindik ez da bilera hasi, baina nahi duzunean sar zaitezke Language Roulettera <b>{0} praktikatzeko</b>]]></value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Joango naiz</value>
@@ -214,7 +210,7 @@
     <value>Ezin duzu {0} ordu baino gutxiagotan hasiko den bilera batera inor gonbidatu</value>
   </data>
   <data name="Meetup" xml:space="preserve">
-    <value>{0}(e)ko bileran apuntatu!</value>
+    <value>Bilera: {0} online praktika ezazu!</value>
   </data>
   <data name="MBLanguages" xml:space="preserve">
     <value>Hizkuntzak</value>
@@ -235,10 +231,10 @@
     <value>Sartu</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>Bilera hasi da dagoeneko! Sar zaitez Language Roulettera</value>
+    <value>Bilera hasi da dagoeneko! Sar zaitez Language Roulettera eta hasi zaitez {0} praktikatzen</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value>Bilera bukatu da dagoeneko. Baina gogora ezazu Language Roulettera nahi duzunean sar zaitezkeela</value>
+    <value><![CDATA[Bilera bukatu da dagoeneko. Baina gogora ezazu Language Roulettera nahi duzunean sar zaitezkeela <b>{0} praktikatzeko</b>]]></value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>Bilera hau Redditen elkarbanatu behar duzu. Ondorengo subredditak iradokitzen dizkizugu:</value>
@@ -269,5 +265,8 @@
   </data>
   <data name="MeetupCancelled" xml:space="preserve">
     <value>Bilera hau bertan bera utzi da, baina zeure bilera sortu dezakezu oraintxe bertan!</value>
+  </data>
+  <data name="MBCreateJoinMeetup" xml:space="preserve">
+    <value>Apunta zaitez bilera batera edo sortu ezazu berri bat eta hasi zaitez nahi duzun hizkuntza praktikatzen</value>
   </data>
 </root>

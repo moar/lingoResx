@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -201,7 +202,7 @@
     <value>Beste pertsona batekin hitz egin nahi baduzu, "hurrengoa" klikatu eta beste bikote bat bilatuko dizugu</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Aprobetxatu ezazu Langademy-ko bilera taula</value>
+    <value>Antolatu hizkuntzak trukatzeko bilerak Langademy-ren bilera taula erabiliz</value>
   </data>
   <data name="IndexMeetingBoard2" xml:space="preserve">
     <value>Denok batera!</value>

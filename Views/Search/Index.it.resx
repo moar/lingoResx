@@ -58,16 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -126,6 +116,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="SearchFilter" xml:space="preserve">
+    <value>Filtro di lingue</value>
+  </data>
+  <data name="SearchMainTitle" xml:space="preserve">
+    <value>Trovare partner per lo scambio linguistico</value>
+  </data>
+  <data name="SearchSubTitle" xml:space="preserve">
+    <value>Impara lingue online in forma gratuita! Psssst, non dimenticarti di condividere la tua lingua madre con gli altri. Potrai usare il tempo utilizzato per insegnare la tua lingua, per praticare la lingua che vuoi con i madrelingua.</value>
+  </data>
   <data name="SNoResults" xml:space="preserve">
     <value>La ricerca non ha prodotto risultati</value>
   </data>

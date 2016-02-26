@@ -74,6 +74,7 @@
   
   
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -163,7 +164,7 @@
     <value>È la tua stanza vuota? Controllare se c'è qualche appuntamento presto nella {0}!</value>
   </data>
   <data name="SelectRoom" xml:space="preserve">
-    <value>Sceglie una stanza e inizia a praticare una lingua</value>
+    <value>Sceglie una stanza e inizia a praticare una lingua online</value>
   </data>
   <data name="LRFilter" xml:space="preserve">
     <value>Filtro</value>

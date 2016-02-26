@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -171,7 +172,7 @@
     <value>Iniciar sesión</value>
   </data>
   <data name="ManageMeetup" xml:space="preserve">
-    <value>Crea quedadas para intercambiar idiomas cuando mejor te venga y haz saber a todos cuándo vas a entrar</value>
+    <value>Organiza quedadas para intercambiar idiomas cuando mejor te venga y haz saber a todos cuando vas a entrar</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>¡Visita Langademy!</value>
@@ -180,7 +181,7 @@
     <value>Practica el idioma que quieras, cuando tú quieras</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>Aprende inglés, alemán, frances o cualquier otro idioma online con Langademy. En el Language Roulette conocerás nativos para mentener conversaciones en tus idiomas favoritos</value>
+    <value>Aprende inglés, alemán, frances o cualquier otro idioma online con Langademy. En el Language Roulette conocerás nativos para mantener conversaciones en tus idiomas favoritos</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>
@@ -201,7 +202,7 @@
     <value>Y cuando quieras hablar con alguien más, pulsa Siguiente y te volvemos a emparejar</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Aprovecha el Tablón de Quedadas de Langademy</value>
+    <value>Organiza intercambios de idiomas en el Tablón de Quedadas de Langademy</value>
   </data>
   <data name="IndexMeetingBoard2" xml:space="preserve">
     <value>¡Todos a una!</value>

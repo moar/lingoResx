@@ -58,6 +58,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -129,7 +130,7 @@
     <value>Seguici!</value>
   </data>
   <data name="Free" xml:space="preserve">
-    <value>È gratis!</value>
+    <value>Impara lingue gratis</value>
   </data>
   <data name="IndAbout" xml:space="preserve">
     <value>Su Langademy</value>
@@ -138,7 +139,7 @@
     <value>Lingue</value>
   </data>
   <data name="IndNextMeetups" xml:space="preserve">
-    <value>Prossimi appuntamenti nell'Language Roulette</value>
+    <value>Prossimi scambi per praticare lingue online</value>
   </data>
   <data name="IndParticipants" xml:space="preserve">
     <value>Partecipanti</value>
@@ -156,7 +157,7 @@
     <value>Iscriviti</value>
   </data>
   <data name="KnowPeople" xml:space="preserve">
-    <value>Conosci gente</value>
+    <value>Scambio linguistico</value>
   </data>
   <data name="Participants" xml:space="preserve">
     <value>Partecipanti</value>
@@ -177,10 +178,10 @@
     <value>Visita Langademy!</value>
   </data>
   <data name="WhenPossible" xml:space="preserve">
-    <value>Quando preferisci</value>
+    <value>Pratica la lingua che vuoi, quando vuoi</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>Language Roulette è una roulette videochat dove troverete nativi per praticare le vostre lingue preferite</value>
+    <value>Imparare l'inglese, tedesco, francese o qualsiasi altra lingua Langademy on-line. Sul Language Roulette troverai nativi per praticare le tue lingue preferite </value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Parla nella tua lingua madre con gli altri e ti daremo lo stesso tempo che hai dedicato per praticare le altre lingue</value>
@@ -201,7 +202,7 @@
     <value>Se vuoi parlare con un'altra persona, clicca su Seguente e ti ritorniamo a abbinare con un nuovo partner</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Approfitta la Tabella di Appuntamenti </value>
+    <value>Organizza scambi linguistici sulla Tabella di Appuntamenti di Langademy</value>
   </data>
   <data name="IndexMeetingBoard2" xml:space="preserve">
     <value>Tutti per uno!</value>
@@ -234,10 +235,10 @@
     <value>Di dove sei? Quali sono i tuoi interessi?</value>
   </data>
   <data name="IndexReady" xml:space="preserve">
-    <value>Sei pronto!</value>
+    <value>Sei pronto per discutere in inglese, tedesco, francese o la lingua che vuoi!</value>
   </data>
   <data name="IndexSearchPartners" xml:space="preserve">
-    <value>Cerca partners</value>
+    <value>Cerca partners di scambio</value>
   </data>
   <data name="IndexSeeMore" xml:space="preserve">
     <value>Mostra di più</value>
@@ -246,10 +247,10 @@
     <value>Carica la tua foto di profilo e copertina</value>
   </data>
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
-    <value>Registrati e completa il tuo profilo</value>
+    <value>Registrati e inizia a imparare lingue</value>
   </data>
   <data name="TryLanguageRoulette" xml:space="preserve">
-    <value>Prova Language Roulette</value>
+    <value>Prova lo scambio di lingue a Language Roulette</value>
   </data>
   <data name="IndexLanguageExchange1" xml:space="preserve">
     <value>Scambio di lingue</value>
@@ -270,7 +271,7 @@
     <value>Sei un insegnante?</value>
   </data>
   <data name="IndexTimeBank1" xml:space="preserve">
-    <value>Banca del Tempo</value>
+    <value>Consumo collaborativo</value>
   </data>
   <data name="IndexTimeBank2" xml:space="preserve">
     <value>Controlla il saldo tempo per sapere se devi parlare nella tua lingua madre</value>
@@ -298,5 +299,11 @@
   </data>
   <data name="IndexFooterSt4" xml:space="preserve">
     <value>Se hai qualche dubbio, inviaci un messaggio dal tuo pannello di Conversazioni. Saremo felici di aiutarti</value>
+  </data>
+  <data name="IndexLogoAlt" xml:space="preserve">
+    <value>Iscriviti a Langademy, la tua comunità di scambio linguistico</value>
+  </data>
+  <data name="IndexMBPictureAlt" xml:space="preserve">
+    <value>Organizza appuntamenti per lo scambio linguistico nella tabella di appuntamenti</value>
   </data>
 </root>

@@ -58,9 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -150,7 +147,7 @@
     <value>language roulette, intercambio de idiomas, practica idiomas, tándem, fluidez idioma</value>
   </data>
   <data name="LRTitle" xml:space="preserve">
-    <value>Language Roulette-Tandem</value>
+    <value>Conoce a gente nueva y comienza a aprender idiomas online - Language Roulette</value>
   </data>
   <data name="MainPrivacy" xml:space="preserve">
     <value>Privacidad - Langademy</value>
@@ -161,11 +158,14 @@
   <data name="MainTitle" xml:space="preserve">
     <value>Aprende idiomas online mediante el intercambio de idiomas</value>
   </data>
+  <data name="MBTitle" xml:space="preserve">
+    <value>Apúntate o crea quedadas para aprender idiomas con nativos - Langademy</value>
+  </data>
   <data name="SearchDescription" xml:space="preserve">
     <value>Encuentra nuevos amigos en Langademy o encuentra a aquellos con los que ya has conversados. Puedes filtrar tus búsquedas por idioma y por el nivel de los usuarios</value>
   </data>
   <data name="SearchTitle" xml:space="preserve">
-    <value>Búsquedas - Langademy</value>
+    <value>Encuentra compañeros para intercambios de idiomas - Langademy</value>
   </data>
   <data name="TBDescription" xml:space="preserve">
     <value>Langademy usa una política de Banco de Tiempo. En esta aplicación podrás consultar tu histórico de horas y como las conversaciones mantenidas en diferentes idiomas afectan a tu saldo de horas</value>
