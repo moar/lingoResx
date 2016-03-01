@@ -58,66 +58,6 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.-->
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -185,6 +125,9 @@
   <data name="CallReport" xml:space="preserve">
     <value>Rapporto da chiamate</value>
   </data>
+  <data name="CannotConnect" xml:space="preserve">
+    <value>Non è possibile stabilire la chiamata tra {0} e te, a causa del livello di sicurezza delle reti dove vi trovate</value>
+  </data>
   <data name="CurrentTimeBalance" xml:space="preserve">
     <value>Saldo di ore attuale</value>
   </data>
@@ -234,6 +177,6 @@
     <value>{0} vuole chattare con te!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
-    <value>Aspettando la camera di  {0}</value>
+    <value>In attesa il permesso per utilizzare la tua camera...</value>
   </data>
 </root>
