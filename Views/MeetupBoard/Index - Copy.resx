@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllMeetups" xml:space="preserve">
+    <value>All meetups</value>
+  </data>
+  <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
+    <value>The meetup hasn't begun yet, but you can go to the Language Roulette and &lt;b&gt;practice {0}&lt;/b&gt; when you want</value>
+  </data>
+  <data name="Attend" xml:space="preserve">
+    <value>Attend</value>
+  </data>
+  <data name="AvgLevel" xml:space="preserve">
+    <value>Avg Level</value>
+  </data>
+  <data name="CancelAttendance" xml:space="preserve">
+    <value>Cancel Attendance</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="MBDate" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="ExistingMeetupLanguage" xml:space="preserve">
+    <value>There is already a meetup at this time to speak {0}. Join it instead of creating a new one</value>
+  </data>
+  <data name="InvitableContactsHeader" xml:space="preserve">
+    <value>Contacts that speak {0}</value>
+  </data>
+  <data name="InviteContacts" xml:space="preserve">
+    <value>Invite Contacts</value>
+  </data>
+  <data name="InviteContactsDesc" xml:space="preserve">
+    <value>Select the contacts that you want to invite to this meetup</value>
+  </data>
+  <data name="MeetupHasStarted" xml:space="preserve">
+    <value>You can only join a meetup before its start time</value>
+  </data>
+  <data name="MeetupBoard" xml:space="preserve">
+    <value>Meetup Board</value>
+  </data>
+  <data name="MeetupsAllUserLanguages" xml:space="preserve">
+    <value>There are meetups at this time to speak on any of your languages. Attend an existing meetup instead of creating a new one</value>
+  </data>
+  <data name="MyMeetups" xml:space="preserve">
+    <value>My meetups</value>
+  </data>
+  <data name="NewMeetup" xml:space="preserve">
+    <value>New meetup</value>
+  </data>
+  <data name="NextPrevMeetups" xml:space="preserve">
+    <value>Previous and next meetups</value>
+  </data>
+  <data name="ReqDateTime" xml:space="preserve">
+    <value>The starting date and time of the meetup are required</value>
+  </data>
+  <data name="ReqLanguage" xml:space="preserve">
+    <value>The language of the meetup is required</value>
+  </data>
+  <data name="SelectedContactsHeader" xml:space="preserve">
+    <value>Selected contacts</value>
+  </data>
+  <data name="StartTime" xml:space="preserve">
+    <value>Start time</value>
+  </data>
+  <data name="StartTimeMin" xml:space="preserve">
+    <value>You can not schedule a meetup before current time</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="UserHasNotLanguage" xml:space="preserve">
+    <value>You can only schedule meetups for your languages</value>
+  </data>
+  <data name="UserNoLanguages" xml:space="preserve">
+    <value>You need to complete your list of languages in your profile for organizing a meetup</value>
+  </data>
+  <data name="Natives" xml:space="preserve">
+    <value>Natives</value>
+  </data>
+  <data name="MeetupCollision" xml:space="preserve">
+    <value>You have confirmed your attendance to another meetup at the same time</value>
+  </data>
+  <data name="StartTimeMax" xml:space="preserve">
+    <value>You can only schedule meetups within the next 15 days from now</value>
+  </data>
+  <data name="ConfirmInvitations" xml:space="preserve">
+    <value>{0} invitations submitted successfully</value>
+  </data>
+  <data name="MeetupPast" xml:space="preserve">
+    <value>You can not invite other users to attend a meetup that is already over</value>
+  </data>
+  <data name="MeetupTooClose" xml:space="preserve">
+    <value>You can not invite other users to attend a meetup starting in less than {0} hours</value>
+  </data>
+  <data name="Meetup" xml:space="preserve">
+    <value>Meetup: talk in {0} online!</value>
+  </data>
+  <data name="MBLanguages" xml:space="preserve">
+    <value>Languages</value>
+  </data>
+  <data name="SelectMeetupLanguage" xml:space="preserve">
+    <value>Select language</value>
+  </data>
+  <data name="MBNextMeetups" xml:space="preserve">
+    <value>Next meetups</value>
+  </data>
+  <data name="MBParticipants" xml:space="preserve">
+    <value>Participants</value>
+  </data>
+  <data name="MBNewMeetupPopover" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="MBEnter" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
+    <value>The meetup has begun! Go to the Language Roulette and start speaking in {0} now</value>
+  </data>
+  <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
+    <value>The meetup is over. But remember that you can go to the Language Roulette and &lt;b&gt;practice {0}&lt;/b&gt; when you want</value>
+  </data>
+  <data name="AboutToShareReddit" xml:space="preserve">
+    <value>You are about to share this meetup on Reddit. We suggest one of the following subreddits:</value>
+  </data>
+  <data name="CopiedToClipboard" xml:space="preserve">
+    <value>When you click Continue, the text of the post will be copied to the clipboard and you will be redirected to {{:SiteUrl}}</value>
+  </data>
+  <data name="LangContacts" xml:space="preserve">
+    <value>Langademy contacts</value>
+  </data>
+  <data name="MBContinue" xml:space="preserve">
+    <value>Continue</value>
+  </data>
+  <data name="MBMeetupDefaultPost" xml:space="preserve">
+    <value>Join me to the {0} meetup on {1} at %s</value>
+  </data>
+  <data name="MBPost" xml:space="preserve">
+    <value>Post</value>
+  </data>
+  <data name="MBShareSubreddit" xml:space="preserve">
+    <value>Videochat meetup to practice {0} at Langademy on {1}.</value>
+  </data>
+  <data name="ShareReddit" xml:space="preserve">
+    <value>Share on Reddit</value>
+  </data>
+  <data name="SubmitToReddit" xml:space="preserve">
+    <value>Submit to Reddit</value>
+  </data>
+  <data name="MeetupCancelled" xml:space="preserve">
+    <value>This meetup has been cancelled. But you can create a new one right now!</value>
+  </data>
+  <data name="MBCreateJoinMeetup" xml:space="preserve">
+    <value>Join an existing meetup or create a new one and start practicing the language you want</value>
+  </data>
+  <data name="MBAddTopic" xml:space="preserve">
+    <value>Add topic</value>
+  </data>
+  <data name="MBVotesCount" xml:space="preserve">
+    <value>Votes</value>
+  </data>
+  <data name="MBVoteTopics" xml:space="preserve">
+    <value>VOTE topics</value>
+  </data>
+</root>
