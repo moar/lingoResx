@@ -232,15 +232,6 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in to post.
-        /// </summary>
-        public static string MBLoginPost {
-            get {
-                return ResourceManager.GetString("MBLoginPost", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to The meetup has begun! Go to the Language Roulette and start speaking in {0} now.
         /// </summary>
         public static string MBMeetGetLangRouletteDuring {
@@ -322,7 +313,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to votes.
+        ///   Looks up a localized string similar to Votes.
         /// </summary>
         public static string MBVotesCount {
             get {
@@ -340,7 +331,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Meetup: talk in {0} online!.
+        ///   Looks up a localized string similar to Meetup: talk in {0} online!.
         /// </summary>
         public static string Meetup {
             get {
