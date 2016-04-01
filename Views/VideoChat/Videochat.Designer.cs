@@ -88,7 +88,7 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} and you cannot be connected due to the security level of you networks.
+        ///   Looks up a localized string similar to {0} and you cannot be connected due to the security level of your networks.
         /// </summary>
         public static string CannotConnect {
             get {
@@ -241,7 +241,7 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Waiting for {0}&apos;s camera .
+        ///   Looks up a localized string similar to Waiting for permission to user your camera....
         /// </summary>
         public static string WaitingTo {
             get {

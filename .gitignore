@@ -1776,3 +1776,11 @@ obj/LocalRelease/TempPE/Views.VideoChat.Videochat.Designer.cs.dll
 obj/LocalRelease/TempPE/Views.VisitProfileApp.Profile.Designer.cs.dll
 obj/LocalDebug/DesignTimeResolveAssemblyReferences.cache
 obj/LocalDebug/TempPE/Apps.Routes.Designer.cs.dll
+obj/LocalDebug/Resources.ViewModels.Meetups.Categories.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Topics.resources
+obj/LocalDebug/TempPE/ViewModels.Meetups.Categories.Designer.cs.dll
+obj/LocalDebug/TempPE/ViewModels.Meetups.Topics.Designer.cs.dll
+obj/Release/Resources.ViewModels.Meetups.Categories.resources
+obj/Release/Resources.ViewModels.Meetups.Topics.resources
+obj/Release/TempPE/ViewModels.Meetups.Categories.Designer.cs.dll
+obj/Release/TempPE/ViewModels.Meetups.Topics.Designer.cs.dll

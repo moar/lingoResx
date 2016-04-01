@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,49 +57,48 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -117,67 +117,103 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CallCalling" xml:space="preserve">
-    <value>CALLING {0}</value>
+  <data name="american_football" xml:space="preserve">
+    <value>American football</value>
   </data>
-  <data name="CallIncomingCall" xml:space="preserve">
-    <value>INCOMING CALL</value>
+  <data name="athletics" xml:space="preserve">
+    <value>Athletics</value>
   </data>
-  <data name="CallReport" xml:space="preserve">
-    <value>Call report</value>
+  <data name="baseball" xml:space="preserve">
+    <value>Baseball</value>
   </data>
-  <data name="CannotConnect" xml:space="preserve">
-    <value>{0} and you cannot be connected due to the security level of your networks</value>
+  <data name="basketball" xml:space="preserve">
+    <value>Basketball</value>
   </data>
-  <data name="CurrentTimeBalance" xml:space="preserve">
-    <value>Current time balance</value>
+  <data name="bets" xml:space="preserve">
+    <value>Bets</value>
   </data>
-  <data name="HoursBagEarning" xml:space="preserve">
-    <value>Earning for the Time Bank</value>
+  <data name="boxing" xml:space="preserve">
+    <value>Boxing</value>
   </data>
-  <data name="HoursBagSpent" xml:space="preserve">
-    <value>Spent on Time Bank</value>
+  <data name="comics" xml:space="preserve">
+    <value>Comics</value>
   </data>
-  <data name="IsBusy" xml:space="preserve">
-    <value>{0} is busy</value>
+  <data name="cricket" xml:space="preserve">
+    <value>Cricket</value>
   </data>
-  <data name="LoadingLocal" xml:space="preserve">
-    <value>Loading local video</value>
+  <data name="economics" xml:space="preserve">
+    <value>Economics</value>
   </data>
-  <data name="NoAnswer" xml:space="preserve">
-    <value>{0} is not answering</value>
+  <data name="entrepreneurship" xml:space="preserve">
+    <value>Entrepreneurship</value>
   </data>
-  <data name="PrevTime" xml:space="preserve">
-    <value>Previous time balance</value>
+  <data name="events" xml:space="preserve">
+    <value>Events</value>
   </data>
-  <data name="ReportLang" xml:space="preserve">
-    <value>Language</value>
+  <data name="films" xml:space="preserve">
+    <value>Films</value>
   </data>
-  <data name="ReportLevel" xml:space="preserve">
-    <value>Your level</value>
+  <data name="fitness" xml:space="preserve">
+    <value>Fitnesss</value>
   </data>
-  <data name="ReportPartnerlevel" xml:space="preserve">
-    <value>Your partner's level</value>
+  <data name="football" xml:space="preserve">
+    <value>Football</value>
   </data>
-  <data name="ReportTimeAccount" xml:space="preserve">
-    <value>Time to your account</value>
+  <data name="formula_1" xml:space="preserve">
+    <value>Formula 1</value>
   </data>
-  <data name="TimeBanking" xml:space="preserve">
-    <value>Time banking</value>
+  <data name="gaming" xml:space="preserve">
+    <value>Gaming</value>
   </data>
-  <data name="TimeLeft" xml:space="preserve">
-    <value>Time left</value>
+  <data name="golf" xml:space="preserve">
+    <value>Golf</value>
   </data>
-  <data name="Title" xml:space="preserve">
-    <value>Videochat</value>
+  <data name="hockey" xml:space="preserve">
+    <value>Hockey</value>
   </data>
-  <data name="VCDuration" xml:space="preserve">
-    <value>Duration</value>
+  <data name="industry" xml:space="preserve">
+    <value>Industry</value>
   </data>
-  <data name="VidWannaChat" xml:space="preserve">
-    <value>{0} wants to chat with you!</value>
+  <data name="innovation" xml:space="preserve">
+    <value>Innovation</value>
   </data>
-  <data name="WaitingTo" xml:space="preserve">
-    <value>Waiting for permission to user your camera...</value>
+  <data name="marketing" xml:space="preserve">
+    <value>Marketing</value>
+  </data>
+  <data name="music" xml:space="preserve">
+    <value>Music</value>
+  </data>
+  <data name="nightlife" xml:space="preserve">
+    <value>Nightlife</value>
+  </data>
+  <data name="opportunities" xml:space="preserve">
+    <value>Opportunities</value>
+  </data>
+  <data name="scandals" xml:space="preserve">
+    <value>Scandals</value>
+  </data>
+  <data name="tennis" xml:space="preserve">
+    <value>Tennis</value>
+  </data>
+  <data name="theater" xml:space="preserve">
+    <value>Theater</value>
+  </data>
+  <data name="TopicDescReq" xml:space="preserve">
+    <value>Topic description is required</value>
+  </data>
+  <data name="TopicTitleReq" xml:space="preserve">
+    <value>Topic title is required</value>
+  </data>
+  <data name="trade" xml:space="preserve">
+    <value>Trade</value>
+  </data>
+  <data name="tv_shows" xml:space="preserve">
+    <value>TV Shows</value>
+  </data>
+  <data name="TopicDescriptionLength" xml:space="preserve">
+    <value>The description must be at least {2} characters long and shorter than {1} characters</value>
+  </data>
+  <data name="TopicTitleLength" xml:space="preserve">
+    <value>The title must be at least {2} characters long and shorter than {1} characters</value>
   </data>
 </root>

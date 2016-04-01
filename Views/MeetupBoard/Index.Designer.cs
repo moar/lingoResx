@@ -178,6 +178,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add topic.
+        /// </summary>
+        public static string MBAddTopic {
+            get {
+                return ResourceManager.GetString("MBAddTopic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Continue.
         /// </summary>
         public static string MBContinue {
@@ -219,6 +228,15 @@ namespace Resources.Views.MeetupBoard {
         public static string MBLanguages {
             get {
                 return ResourceManager.GetString("MBLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in to post.
+        /// </summary>
+        public static string MBLoginPost {
+            get {
+                return ResourceManager.GetString("MBLoginPost", resourceCulture);
             }
         }
         
@@ -300,6 +318,24 @@ namespace Resources.Views.MeetupBoard {
         public static string MBShareSubreddit {
             get {
                 return ResourceManager.GetString("MBShareSubreddit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to votes.
+        /// </summary>
+        public static string MBVotesCount {
+            get {
+                return ResourceManager.GetString("MBVotesCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to VOTE topics.
+        /// </summary>
+        public static string MBVoteTopics {
+            get {
+                return ResourceManager.GetString("MBVoteTopics", resourceCulture);
             }
         }
         

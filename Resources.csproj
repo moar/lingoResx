@@ -178,6 +178,16 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>HoursBag.resx</DependentUpon>
     </Compile>
+    <Compile Include="ViewModels\Meetups\Categories.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Categories.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\Meetups\Topics.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Topics.resx</DependentUpon>
+    </Compile>
     <Compile Include="ViewModels\Notifications\Notification.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -469,6 +479,14 @@
     <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>HoursBag.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Categories.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Topics.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewModels\Notifications\Notification.ca.resx" />
     <EmbeddedResource Include="ViewModels\Notifications\Notification.de.resx" />
