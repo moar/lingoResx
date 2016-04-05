@@ -79,6 +79,42 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Enter topic manually.
+        /// </summary>
+        public static string ATEnterTopic {
+            get {
+                return ResourceManager.GetString("ATEnterTopic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Insert a description for the topic.
+        /// </summary>
+        public static string ATInsertTopicDesc {
+            get {
+                return ResourceManager.GetString("ATInsertTopicDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Insert a title for the topic.
+        /// </summary>
+        public static string ATInsertTopicTitle {
+            get {
+                return ResourceManager.GetString("ATInsertTopicTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can add an URL that is related to the topic.
+        /// </summary>
+        public static string ATInsertUrl {
+            get {
+                return ResourceManager.GetString("ATInsertUrl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Attend.
         /// </summary>
         public static string Attend {
@@ -187,6 +223,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This category doesn&apos;t have subtopics.
+        /// </summary>
+        public static string MBCategoryNoSubtopics {
+            get {
+                return ResourceManager.GetString("MBCategoryNoSubtopics", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Continue.
         /// </summary>
         public static string MBContinue {
@@ -219,6 +264,15 @@ namespace Resources.Views.MeetupBoard {
         public static string MBEnter {
             get {
                 return ResourceManager.GetString("MBEnter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have to join the meetup to post.
+        /// </summary>
+        public static string MBJoinToPost {
+            get {
+                return ResourceManager.GetString("MBJoinToPost", resourceCulture);
             }
         }
         
@@ -277,11 +331,29 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to News couldn&apos;t be retrieved.
+        /// </summary>
+        public static string MBNewNotRetrieved {
+            get {
+                return ResourceManager.GetString("MBNewNotRetrieved", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Next meetups.
         /// </summary>
         public static string MBNextMeetups {
             get {
                 return ResourceManager.GetString("MBNextMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A topic hasn&apos;t been proposed yet. Be the first to propose a topic for this meetup!.
+        /// </summary>
+        public static string MBNoTopicsProposed {
+            get {
+                return ResourceManager.GetString("MBNoTopicsProposed", resourceCulture);
             }
         }
         
@@ -304,11 +376,56 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Share meetup.
+        /// </summary>
+        public static string MBShareMeetup {
+            get {
+                return ResourceManager.GetString("MBShareMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Videochat meetup to practice {0} at Langademy on {1}..
         /// </summary>
         public static string MBShareSubreddit {
             get {
                 return ResourceManager.GetString("MBShareSubreddit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The meetup is started! Enter now the Language Roulette.
+        /// </summary>
+        public static string MBStartedMeetup {
+            get {
+                return ResourceManager.GetString("MBStartedMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Submit.
+        /// </summary>
+        public static string MBSubmitTopic {
+            get {
+                return ResourceManager.GetString("MBSubmitTopic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search.
+        /// </summary>
+        public static string MBTopicSearch {
+            get {
+                return ResourceManager.GetString("MBTopicSearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View older posts.
+        /// </summary>
+        public static string MBViewOlderPosts {
+            get {
+                return ResourceManager.GetString("MBViewOlderPosts", resourceCulture);
             }
         }
         

@@ -279,4 +279,43 @@
   <data name="MBVoteTopics" xml:space="preserve">
     <value>VOTE topics</value>
   </data>
+  <data name="MBCategoryNoSubtopics" xml:space="preserve">
+    <value>This category doesn't have subtopics</value>
+  </data>
+  <data name="MBNewNotRetrieved" xml:space="preserve">
+    <value>News couldn't be retrieved</value>
+  </data>
+  <data name="MBNoTopicsProposed" xml:space="preserve">
+    <value>A topic hasn't been proposed yet. Be the first to propose a topic for this meetup!</value>
+  </data>
+  <data name="MBStartedMeetup" xml:space="preserve">
+    <value>The meetup is started! Enter now the Language Roulette</value>
+  </data>
+  <data name="ATEnterTopic" xml:space="preserve">
+    <value>Enter topic manually</value>
+  </data>
+  <data name="ATInsertTopicDesc" xml:space="preserve">
+    <value>Insert a description for the topic</value>
+  </data>
+  <data name="ATInsertTopicTitle" xml:space="preserve">
+    <value>Insert a title for the topic</value>
+  </data>
+  <data name="ATInsertUrl" xml:space="preserve">
+    <value>You can add an URL that is related to the topic</value>
+  </data>
+  <data name="MBSubmitTopic" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="MBTopicSearch" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="MBJoinToPost" xml:space="preserve">
+    <value>You have to join the meetup to post</value>
+  </data>
+  <data name="MBShareMeetup" xml:space="preserve">
+    <value>Share meetup</value>
+  </data>
+  <data name="MBViewOlderPosts" xml:space="preserve">
+    <value>View older posts</value>
+  </data>
 </root>
