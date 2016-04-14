@@ -318,4 +318,10 @@
   <data name="MBViewOlderPosts" xml:space="preserve">
     <value>View older posts</value>
   </data>
+  <data name="MBComments" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+  <data name="MBTopics" xml:space="preserve">
+    <value>Topics</value>
+  </data>
 </root>

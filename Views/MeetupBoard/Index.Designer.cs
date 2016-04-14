@@ -232,6 +232,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Comments.
+        /// </summary>
+        public static string MBComments {
+            get {
+                return ResourceManager.GetString("MBComments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Continue.
         /// </summary>
         public static string MBContinue {
@@ -408,6 +417,15 @@ namespace Resources.Views.MeetupBoard {
         public static string MBSubmitTopic {
             get {
                 return ResourceManager.GetString("MBSubmitTopic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Topics.
+        /// </summary>
+        public static string MBTopics {
+            get {
+                return ResourceManager.GetString("MBTopics", resourceCulture);
             }
         }
         
