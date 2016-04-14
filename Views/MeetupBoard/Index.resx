@@ -339,4 +339,7 @@
   <data name="MBShortNatives" xml:space="preserve">
     <value>Nat.</value>
   </data>
+  <data name="MBPostWriteComment" xml:space="preserve">
+    <value>Write your comment</value>
+  </data>
 </root>

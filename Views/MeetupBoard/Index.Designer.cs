@@ -412,6 +412,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Write your comment.
+        /// </summary>
+        public static string MBPostWriteComment {
+            get {
+                return ResourceManager.GetString("MBPostWriteComment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Share meetup.
         /// </summary>
         public static string MBShareMeetup {
