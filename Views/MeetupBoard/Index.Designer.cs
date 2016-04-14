@@ -223,6 +223,24 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Adv..
+        /// </summary>
+        public static string MBAdvanced {
+            get {
+                return ResourceManager.GetString("MBAdvanced", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Begi..
+        /// </summary>
+        public static string MBBeginners {
+            get {
+                return ResourceManager.GetString("MBBeginners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to This category doesn&apos;t have subtopics.
         /// </summary>
         public static string MBCategoryNoSubtopics {
@@ -273,6 +291,15 @@ namespace Resources.Views.MeetupBoard {
         public static string MBEnter {
             get {
                 return ResourceManager.GetString("MBEnter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Inter..
+        /// </summary>
+        public static string MBIntermediates {
+            get {
+                return ResourceManager.GetString("MBIntermediates", resourceCulture);
             }
         }
         
@@ -403,6 +430,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Nat..
+        /// </summary>
+        public static string MBShortNatives {
+            get {
+                return ResourceManager.GetString("MBShortNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The meetup is started! Enter now the Language Roulette.
         /// </summary>
         public static string MBStartedMeetup {
@@ -435,6 +471,15 @@ namespace Resources.Views.MeetupBoard {
         public static string MBTopicSearch {
             get {
                 return ResourceManager.GetString("MBTopicSearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View all.
+        /// </summary>
+        public static string MBViewAllParts {
+            get {
+                return ResourceManager.GetString("MBViewAllParts", resourceCulture);
             }
         }
         

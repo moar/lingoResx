@@ -324,4 +324,19 @@
   <data name="MBTopics" xml:space="preserve">
     <value>Topics</value>
   </data>
+  <data name="MBAdvanced" xml:space="preserve">
+    <value>Adv.</value>
+  </data>
+  <data name="MBBeginners" xml:space="preserve">
+    <value>Begi.</value>
+  </data>
+  <data name="MBIntermediates" xml:space="preserve">
+    <value>Inter.</value>
+  </data>
+  <data name="MBViewAllParts" xml:space="preserve">
+    <value>View all</value>
+  </data>
+  <data name="MBShortNatives" xml:space="preserve">
+    <value>Nat.</value>
+  </data>
 </root>
