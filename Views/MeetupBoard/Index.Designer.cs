@@ -385,6 +385,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to A topic hasn&apos;t been proposed yet. Join the meetup if you want to propose a conversation topic for the meetup.
+        /// </summary>
+        public static string MBNoTopicsCantVote {
+            get {
+                return ResourceManager.GetString("MBNoTopicsCantVote", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to A topic hasn&apos;t been proposed yet. Be the first to propose a topic for this meetup!.
         /// </summary>
         public static string MBNoTopicsProposed {

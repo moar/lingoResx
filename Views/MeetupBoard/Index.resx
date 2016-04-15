@@ -342,4 +342,7 @@
   <data name="MBPostWriteComment" xml:space="preserve">
     <value>Write your comment</value>
   </data>
+  <data name="MBNoTopicsCantVote" xml:space="preserve">
+    <value>A topic hasn't been proposed yet. Join the meetup if you want to propose a conversation topic for the meetup</value>
+  </data>
 </root>
