@@ -115,6 +115,33 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Latest news.
+        /// </summary>
+        public static string ATLatestNews {
+            get {
+                return ResourceManager.GetString("ATLatestNews", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Provided by.
+        /// </summary>
+        public static string ATProvidedBy {
+            get {
+                return ResourceManager.GetString("ATProvidedBy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select subcategories.
+        /// </summary>
+        public static string ATSelectSubCategories {
+            get {
+                return ResourceManager.GetString("ATSelectSubCategories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Attend.
         /// </summary>
         public static string Attend {
@@ -394,7 +421,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A topic hasn&apos;t been proposed yet. Be the first to propose a topic for this meetup!.
+        ///   Looks up a localized string similar to A topic hasn&apos;t been proposed yet. Be the first to propose a conversation topic for this meetup!.
         /// </summary>
         public static string MBNoTopicsProposed {
             get {

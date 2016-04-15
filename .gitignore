@@ -1785,3 +1785,15 @@ obj/Release/Resources.ViewModels.Meetups.Topics.resources
 obj/Release/TempPE/ViewModels.Meetups.Categories.Designer.cs.dll
 obj/Release/TempPE/ViewModels.Meetups.Topics.Designer.cs.dll
 obj/LocalDebug/TempPE/Views.MeetupBoard.Index - Copy.Designer.cs.dll
+obj/LocalDebug/Resources.ViewModels.Meetups.Categories.ca.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Categories.de.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Categories.es.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Categories.eu.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Categories.fr.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Categories.it.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Topics.ca.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Topics.de.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Topics.es.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Topics.eu.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Topics.fr.resources
+obj/LocalDebug/Resources.ViewModels.Meetups.Topics.it.resources

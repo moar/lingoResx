@@ -480,10 +480,22 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>HoursBag.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.ca.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.de.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.es.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.eu.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.fr.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.it.resx" />
     <EmbeddedResource Include="ViewModels\Meetups\Categories.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Categories.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.ca.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.de.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.es.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.eu.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.fr.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.it.resx" />
     <EmbeddedResource Include="ViewModels\Meetups\Topics.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Topics.Designer.cs</LastGenOutput>
