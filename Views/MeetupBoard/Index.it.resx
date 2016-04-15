@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,10 +57,8 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -186,7 +185,7 @@
     <value>Non è possibile pianificare un appuntamento prima del suo orario di inizio</value>
   </data>
   <data name="Time" xml:space="preserve">
-    <value>Tempo</value>
+    <value>Ora</value>
   </data>
   <data name="UserHasNotLanguage" xml:space="preserve">
     <value>Solo è possibile programmare appuntamenti nella tua lingua</value>
@@ -271,5 +270,80 @@
   </data>
   <data name="MBCreateJoinMeetup" xml:space="preserve">
     <value>Iscriviti ai appuntamenti, organizza nuovi appuntamenti, e comincia a imparare la lingua desiderata!</value>
+  </data>
+  <data name="MBAddTopic" xml:space="preserve">
+    <value>Aggiungere un tema</value>
+  </data>
+  <data name="MBVotesCount" xml:space="preserve">
+    <value>Voti</value>
+  </data>
+  <data name="MBVoteTopics" xml:space="preserve">
+    <value>VOTE topics</value>
+  </data>
+  <data name="MBCategoryNoSubtopics" xml:space="preserve">
+    <value>Questa categoria non ha sottoargomenti</value>
+  </data>
+  <data name="MBNewNotRetrieved" xml:space="preserve">
+    <value>Non si hanno caricato le notizie</value>
+  </data>
+  <data name="MBNoTopicsProposed" xml:space="preserve">
+    <value>Non c'è ancora nessun argomento di conversazione. Puoi essere il primo a proporre un argomento per l'appuntamento!</value>
+  </data>
+  <data name="MBStartedMeetup" xml:space="preserve">
+    <value>L'appuntamento è iniziato! Entra nell' Language Roulette</value>
+  </data>
+  <data name="ATEnterTopic" xml:space="preserve">
+    <value>Scrive su un argomento</value>
+  </data>
+  <data name="ATInsertTopicDesc" xml:space="preserve">
+    <value>Inserire una descrizione per l'argomento</value>
+  </data>
+  <data name="ATInsertTopicTitle" xml:space="preserve">
+    <value>Inserisci un titolo per l'argomento</value>
+  </data>
+  <data name="ATInsertUrl" xml:space="preserve">
+    <value>È possibile aggiungere un URL che è legato al tema</value>
+  </data>
+  <data name="MBSubmitTopic" xml:space="preserve">
+    <value>Inviare</value>
+  </data>
+  <data name="MBTopicSearch" xml:space="preserve">
+    <value>Cerca</value>
+  </data>
+  <data name="MBJoinToPost" xml:space="preserve">
+    <value>Bisogna unirsi a l'appuntamento per pubblicare un post</value>
+  </data>
+  <data name="MBShareMeetup" xml:space="preserve">
+    <value>Condividi appuntamento</value>
+  </data>
+  <data name="MBViewOlderPosts" xml:space="preserve">
+    <value>Vedi post precedenti</value>
+  </data>
+  <data name="MBComments" xml:space="preserve">
+    <value>Commenti</value>
+  </data>
+  <data name="MBTopics" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="MBAdvanced" xml:space="preserve">
+    <value>Avz.</value>
+  </data>
+  <data name="MBBeginners" xml:space="preserve">
+    <value>Elem.</value>
+  </data>
+  <data name="MBIntermediates" xml:space="preserve">
+    <value>Inter.</value>
+  </data>
+  <data name="MBViewAllParts" xml:space="preserve">
+    <value>Visualizza tutto</value>
+  </data>
+  <data name="MBShortNatives" xml:space="preserve">
+    <value>Nat.</value>
+  </data>
+  <data name="MBPostWriteComment" xml:space="preserve">
+    <value>Inserisci un commento</value>
+  </data>
+  <data name="MBNoTopicsCantVote" xml:space="preserve">
+    <value>Non si ha proposto nessun argomento di conversazione. Unisciti all'appuntamento se vuoi proporre un argomento alla conversazione.</value>
   </data>
 </root>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,10 +57,8 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -270,5 +269,80 @@
   </data>
   <data name="MBCreateJoinMeetup" xml:space="preserve">
     <value>Apunta zaitez bilera batera edo sortu ezazu berri bat eta hasi zaitez nahi duzun hizkuntza praktikatzen</value>
+  </data>
+  <data name="MBAddTopic" xml:space="preserve">
+    <value>Gaia gehitu</value>
+  </data>
+  <data name="MBVotesCount" xml:space="preserve">
+    <value>Botuak</value>
+  </data>
+  <data name="MBVoteTopics" xml:space="preserve">
+    <value>BOZKATU gaiak</value>
+  </data>
+  <data name="MBCategoryNoSubtopics" xml:space="preserve">
+    <value>Kategoria honek ez dauka azpigairik</value>
+  </data>
+  <data name="MBNewNotRetrieved" xml:space="preserve">
+    <value>Ezin izan dugu berririk aurkitu momentu honetan</value>
+  </data>
+  <data name="MBNoTopicsProposed" xml:space="preserve">
+    <value>Oraindik ez da bilera honetarako mintzagairik proposatu. Izan zaitez lehenengoa!</value>
+  </data>
+  <data name="MBStartedMeetup" xml:space="preserve">
+    <value>Bilera hau hasi da dagoeneko! Sartu zaitez Language Roulettera orain!</value>
+  </data>
+  <data name="ATEnterTopic" xml:space="preserve">
+    <value>Idatz ezazu nahi duzun gai bati buruz</value>
+  </data>
+  <data name="ATInsertTopicDesc" xml:space="preserve">
+    <value>Idatz ezazu gaiaren deskribapen bat</value>
+  </data>
+  <data name="ATInsertTopicTitle" xml:space="preserve">
+    <value>Idatz ezazu gaiaren izenburua</value>
+  </data>
+  <data name="ATInsertUrl" xml:space="preserve">
+    <value>Gaiarekin erlazionatutako URL bat sar ezazu</value>
+  </data>
+  <data name="MBSubmitTopic" xml:space="preserve">
+    <value>Bidali</value>
+  </data>
+  <data name="MBTopicSearch" xml:space="preserve">
+    <value>Bilatu</value>
+  </data>
+  <data name="MBJoinToPost" xml:space="preserve">
+    <value>Posteatzeko bileran apuntatua egon behar duzu</value>
+  </data>
+  <data name="MBShareMeetup" xml:space="preserve">
+    <value>Bilera elkarbanatu</value>
+  </data>
+  <data name="MBViewOlderPosts" xml:space="preserve">
+    <value>Post zaharragoak ikusi</value>
+  </data>
+  <data name="MBComments" xml:space="preserve">
+    <value>Iruzkinak</value>
+  </data>
+  <data name="MBTopics" xml:space="preserve">
+    <value>Gaiak</value>
+  </data>
+  <data name="MBAdvanced" xml:space="preserve">
+    <value>Aur.</value>
+  </data>
+  <data name="MBBeginners" xml:space="preserve">
+    <value>Atari</value>
+  </data>
+  <data name="MBIntermediates" xml:space="preserve">
+    <value>Erdi.</value>
+  </data>
+  <data name="MBViewAllParts" xml:space="preserve">
+    <value>Guztiak ikusi</value>
+  </data>
+  <data name="MBShortNatives" xml:space="preserve">
+    <value>Nat.</value>
+  </data>
+  <data name="MBPostWriteComment" xml:space="preserve">
+    <value>Idatzi zure iruzkina</value>
+  </data>
+  <data name="MBNoTopicsCantVote" xml:space="preserve">
+    <value>Ez da bilerarako hizketa gairik proposatu oraindik. Apunta zaitez bilerara gai bat proposatzea nahi baduzu.</value>
   </data>
 </root>

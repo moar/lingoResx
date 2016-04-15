@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,10 +57,8 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -270,5 +269,80 @@
   </data>
   <data name="MBCreateJoinMeetup" xml:space="preserve">
     <value>Únete a una quedada o crea una nueva y comienza a practicar el idioma que quieras</value>
+  </data>
+  <data name="MBAddTopic" xml:space="preserve">
+    <value>Añadir tema</value>
+  </data>
+  <data name="MBVotesCount" xml:space="preserve">
+    <value>Votos</value>
+  </data>
+  <data name="MBVoteTopics" xml:space="preserve">
+    <value>VOTACIÓN de temas</value>
+  </data>
+  <data name="MBCategoryNoSubtopics" xml:space="preserve">
+    <value>Esta categoría no tiene subtemas</value>
+  </data>
+  <data name="MBNewNotRetrieved" xml:space="preserve">
+    <value>No se han podido cargar las noticias</value>
+  </data>
+  <data name="MBNoTopicsProposed" xml:space="preserve">
+    <value>No se ha propuesto ningun tema de conversación todavía. Sé el primero en proponer un tema de conversación para la quedada</value>
+  </data>
+  <data name="MBStartedMeetup" xml:space="preserve">
+    <value>¡La quedada ha comenzado! Entra ahora a la sala</value>
+  </data>
+  <data name="ATEnterTopic" xml:space="preserve">
+    <value>Escribe sobre un tema</value>
+  </data>
+  <data name="ATInsertTopicDesc" xml:space="preserve">
+    <value>Introduce una descripción para el tema</value>
+  </data>
+  <data name="ATInsertTopicTitle" xml:space="preserve">
+    <value>Introduce un título para el tema</value>
+  </data>
+  <data name="ATInsertUrl" xml:space="preserve">
+    <value>Puedes añadir una URL que esté relacionado con el tema</value>
+  </data>
+  <data name="MBSubmitTopic" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="MBTopicSearch" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="MBJoinToPost" xml:space="preserve">
+    <value>Tienes que unirte a la quedada para poder postear</value>
+  </data>
+  <data name="MBShareMeetup" xml:space="preserve">
+    <value>Compartir quedada</value>
+  </data>
+  <data name="MBViewOlderPosts" xml:space="preserve">
+    <value>Ver los posts anteriores</value>
+  </data>
+  <data name="MBComments" xml:space="preserve">
+    <value>Comentarios</value>
+  </data>
+  <data name="MBTopics" xml:space="preserve">
+    <value>Temas</value>
+  </data>
+  <data name="MBAdvanced" xml:space="preserve">
+    <value>Avzdo.</value>
+  </data>
+  <data name="MBBeginners" xml:space="preserve">
+    <value>Inic.</value>
+  </data>
+  <data name="MBIntermediates" xml:space="preserve">
+    <value>Inter.</value>
+  </data>
+  <data name="MBViewAllParts" xml:space="preserve">
+    <value>Ver todos</value>
+  </data>
+  <data name="MBShortNatives" xml:space="preserve">
+    <value>Nat.</value>
+  </data>
+  <data name="MBPostWriteComment" xml:space="preserve">
+    <value>Introduce un comentario</value>
+  </data>
+  <data name="MBNoTopicsCantVote" xml:space="preserve">
+    <value>No se ha propuesto ningún tema de conversación. Apúntate a la quedada si quieres proponer un tema de conversación</value>
   </data>
 </root>
