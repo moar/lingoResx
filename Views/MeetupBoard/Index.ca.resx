@@ -345,4 +345,13 @@
   <data name="MBNoTopicsCantVote" xml:space="preserve">
     <value>No s'ha proposat cap tema de conversa. Apunta't a la trobada si vols proposar un tema de conversa</value>
   </data>
+  <data name="ATLatestNews" xml:space="preserve">
+    <value>Últimes notícies</value>
+  </data>
+  <data name="ATProvidedBy" xml:space="preserve">
+    <value>Obtinguts de</value>
+  </data>
+  <data name="ATSelectSubCategories" xml:space="preserve">
+    <value>Selecciona les subcategories</value>
+  </data>
 </root>

@@ -345,4 +345,13 @@
   <data name="MBNoTopicsCantVote" xml:space="preserve">
     <value>No se ha propuesto ningún tema de conversación. Apúntate a la quedada si quieres proponer un tema de conversación</value>
   </data>
+  <data name="ATLatestNews" xml:space="preserve">
+    <value>Últimas noticias</value>
+  </data>
+  <data name="ATProvidedBy" xml:space="preserve">
+    <value>Obtenidos de</value>
+  </data>
+  <data name="ATSelectSubCategories" xml:space="preserve">
+    <value>Selecciona las subcategorias</value>
+  </data>
 </root>

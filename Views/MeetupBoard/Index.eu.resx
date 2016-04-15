@@ -345,4 +345,13 @@
   <data name="MBNoTopicsCantVote" xml:space="preserve">
     <value>Ez da bilerarako hizketa gairik proposatu oraindik. Apunta zaitez bilerara gai bat proposatzea nahi baduzu.</value>
   </data>
+  <data name="ATLatestNews" xml:space="preserve">
+    <value>Azken berriak</value>
+  </data>
+  <data name="ATProvidedBy" xml:space="preserve">
+    <value>Bing-en bitartez eskuratuta </value>
+  </data>
+  <data name="ATSelectSubCategories" xml:space="preserve">
+    <value>Aukeratu azpikategoriak</value>
+  </data>
 </root>

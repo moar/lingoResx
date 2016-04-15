@@ -346,4 +346,13 @@
   <data name="MBNoTopicsCantVote" xml:space="preserve">
     <value>Non si ha proposto nessun argomento di conversazione. Unisciti all'appuntamento se vuoi proporre un argomento alla conversazione.</value>
   </data>
+  <data name="ATLatestNews" xml:space="preserve">
+    <value>Ultime notizie</value>
+  </data>
+  <data name="ATProvidedBy" xml:space="preserve">
+    <value>ottenuti da</value>
+  </data>
+  <data name="ATSelectSubCategories" xml:space="preserve">
+    <value>Seleziona le sottocategorie</value>
+  </data>
 </root>
