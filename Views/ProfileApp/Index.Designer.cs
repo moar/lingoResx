@@ -286,20 +286,11 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New meetup alerts for languages I&apos;m learning.
+        ///   Looks up a localized string similar to New meetup alerts.
         /// </summary>
-        public static string NewMeetupForeignLanguages {
+        public static string NewMeetupAlert {
             get {
-                return ResourceManager.GetString("NewMeetupForeignLanguages", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to New meetup alerts for my native languages.
-        /// </summary>
-        public static string NewMeetupOwnLanguages {
-            get {
-                return ResourceManager.GetString("NewMeetupOwnLanguages", resourceCulture);
+                return ResourceManager.GetString("NewMeetupAlert", resourceCulture);
             }
         }
         
