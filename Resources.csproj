@@ -712,7 +712,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\RightPanel\RightPanel.ca.resx" />
     <EmbeddedResource Include="Views\RightPanel\RightPanel.de.resx" />
-    <EmbeddedResource Include="Views\RightPanel\RightPanel.es.resx" />
+    <EmbeddedResource Include="Views\RightPanel\RightPanel.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\RightPanel\RightPanel.eu.resx" />
     <EmbeddedResource Include="Views\RightPanel\RightPanel.fr.resx" />
     <EmbeddedResource Include="Views\RightPanel\RightPanel.it.resx" />
