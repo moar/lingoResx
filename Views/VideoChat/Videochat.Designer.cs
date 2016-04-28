@@ -88,6 +88,42 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We have found a conversation partner that is available right now.
+        /// </summary>
+        public static string CallSuggestMes {
+            get {
+                return ResourceManager.GetString("CallSuggestMes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remember: speaking in a non-native language with a native user has a cost for your timebank account.
+        /// </summary>
+        public static string CallSuggestNeg {
+            get {
+                return ResourceManager.GetString("CallSuggestNeg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This call will not affect to your timebank account.
+        /// </summary>
+        public static string CallSuggestNot {
+            get {
+                return ResourceManager.GetString("CallSuggestNot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remember: speaking in your language to a partner that has a lower level than you adds time to your timebank account.
+        /// </summary>
+        public static string CallSuggestPos {
+            get {
+                return ResourceManager.GetString("CallSuggestPos", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} and you cannot be connected due to the security level of your networks.
         /// </summary>
         public static string CannotConnect {
@@ -151,6 +187,15 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Partner match found.
+        /// </summary>
+        public static string PartnerMatchFound {
+            get {
+                return ResourceManager.GetString("PartnerMatchFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Previous time balance.
         /// </summary>
         public static string PrevTime {
@@ -192,6 +237,24 @@ namespace Resources.Views.VideoChat {
         public static string ReportTimeAccount {
             get {
                 return ResourceManager.GetString("ReportTimeAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call.
+        /// </summary>
+        public static string SugCall {
+            get {
+                return ResourceManager.GetString("SugCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not now.
+        /// </summary>
+        public static string SugNotNow {
+            get {
+                return ResourceManager.GetString("SugNotNow", resourceCulture);
             }
         }
         
