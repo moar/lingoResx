@@ -1811,3 +1811,5 @@ obj/Release/Resources.ViewModels.Meetups.Topics.es.resources
 obj/Release/Resources.ViewModels.Meetups.Topics.eu.resources
 obj/Release/Resources.ViewModels.Meetups.Topics.fr.resources
 obj/Release/Resources.ViewModels.Meetups.Topics.it.resources
+obj/LocalDebug/Resources.Views.ChatRooms.Chatroom.resources
+obj/LocalDebug/TempPE/Views.ChatRooms.Chatroom.Designer.cs.dll

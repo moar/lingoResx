@@ -208,6 +208,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\ChatRooms\Chatroom.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Chatroom.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Contact\Contact.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -540,6 +545,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Chatroom.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Contact\Contact.ca.resx" />
     <EmbeddedResource Include="Views\Contact\Contact.de.resx" />
     <EmbeddedResource Include="Views\Contact\Contact.es.resx" />
@@ -559,6 +568,7 @@
     <EmbeddedResource Include="Views\Desktop\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Faq\faq.ca.resx" />
     <EmbeddedResource Include="Views\Faq\faq.de.resx" />

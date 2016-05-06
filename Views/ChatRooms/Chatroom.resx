@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,127 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccountOptions" xml:space="preserve">
-    <value>Account options</value>
+  <data name="CRAdvanced" xml:space="preserve">
+    <value>Advanced</value>
   </data>
-  <data name="AddAboutYou" xml:space="preserve">
-    <value>Add information about your interests</value>
+  <data name="CRAutomaticPartner" xml:space="preserve">
+    <value>Automatir partner finder</value>
   </data>
-  <data name="AddBirthDate" xml:space="preserve">
-    <value>Add your birth date</value>
+  <data name="CRAvailable" xml:space="preserve">
+    <value>Available</value>
   </data>
-  <data name="AddMoreLangs" xml:space="preserve">
-    <value>Add one or more languages to your profile</value>
+  <data name="CRBeginners" xml:space="preserve">
+    <value>Beginners</value>
   </data>
-  <data name="AddThumbnail" xml:space="preserve">
-    <value>Add your photo</value>
+  <data name="CRCall" xml:space="preserve">
+    <value>Call</value>
   </data>
-  <data name="DeskAbout" xml:space="preserve">
-    <value>About </value>
+  <data name="CRHideFiltered" xml:space="preserve">
+    <value>Hide filtered</value>
   </data>
-  <data name="DeskBusy" xml:space="preserve">
-    <value>Busy</value>
+  <data name="CRIntermediate" xml:space="preserve">
+    <value>Intermediate</value>
   </data>
-  <data name="DeskContact" xml:space="preserve">
-    <value>Contact</value>
+  <data name="CRMeetupsTab" xml:space="preserve">
+    <value>Meetups</value>
   </data>
-  <data name="DeskFeedback" xml:space="preserve">
-    <value>Feedback</value>
+  <data name="CRMeetupTime" xml:space="preserve">
+    <value>There's a meetup schedulet at {0}</value>
   </data>
-  <data name="DeskInviteFriends" xml:space="preserve">
-    <value>Invite your friends to join Langademy!</value>
+  <data name="CRMeetupTopics" xml:space="preserve">
+    <value>Meetup topics</value>
   </data>
-  <data name="DeskJoinMeetup" xml:space="preserve">
-    <value>Join!</value>
-  </data>
-  <data name="DeskLanguages" xml:space="preserve">
-    <value>Languages</value>
-  </data>
-  <data name="DeskLRNatives" xml:space="preserve">
-    <value>Native(s)</value>
-  </data>
-  <data name="DeskMymeetings" xml:space="preserve">
-    <value>My Language Roulette Meetups</value>
-  </data>
-  <data name="DeskParticipants" xml:space="preserve">
-    <value>Participants</value>
-  </data>
-  <data name="DeskPrivacy" xml:space="preserve">
-    <value>Privacy</value>
-  </data>
-  <data name="DeskQuickComplete" xml:space="preserve">
-    <value>Complete your profile quickly</value>
-  </data>
-  <data name="DeskSuggestCommunity" xml:space="preserve">
-    <value>Be suggested to the language community</value>
-  </data>
-  <data name="DeskSuggestedMeetups" xml:space="preserve">
-    <value>Meetups you can join</value>
-  </data>
-  <data name="DeskTerms" xml:space="preserve">
-    <value>Terms</value>
-  </data>
-  <data name="EditProfileDesk" xml:space="preserve">
-    <value>Edit Profile</value>
-  </data>
-  <data name="EmptyInbox" xml:space="preserve">
-    <value>You have no messages</value>
-  </data>
-  <data name="EmptyMeetups" xml:space="preserve">
-    <value>Create a meetup!</value>
-  </data>
-  <data name="LogOut" xml:space="preserve">
-    <value>Logout</value>
-  </data>
-  <data name="NumNatives" xml:space="preserve">
+  <data name="CRNatives" xml:space="preserve">
     <value>Natives</value>
   </data>
-  <data name="Online" xml:space="preserve">
-    <value>Online</value>
+  <data name="CRNextMeetups" xml:space="preserve">
+    <value>Next meetups</value>
   </data>
-  <data name="Settings" xml:space="preserve">
-    <value>Settings</value>
+  <data name="CRNoLanguageMeetups" xml:space="preserve">
+    <value>There are no meetups scheduled for this rooms</value>
   </data>
-  <data name="TimeBalance" xml:space="preserve">
-    <value>Time balance</value>
+  <data name="CRNoMeetup" xml:space="preserve">
+    <value>There isn't any meetup scheduled at this time</value>
   </data>
-  <data name="TimeBank" xml:space="preserve">
-    <value>Time Bank</value>
+  <data name="CRNoTopicsProposed" xml:space="preserve">
+    <value>Nobody has proposed conversation topics for this meetup</value>
   </data>
-  <data name="TodayLangs" xml:space="preserve">
-    <value>Today I'll speak in</value>
+  <data name="CRNumNatives" xml:space="preserve">
+    <value>Natives</value>
   </data>
-  <data name="DeskPeopleYouMayKnow" xml:space="preserve">
-    <value>People you may know</value>
+  <data name="CRNumParticipants" xml:space="preserve">
+    <value>Participants</value>
   </data>
-  <data name="DeskSkip" xml:space="preserve">
-    <value>Skip</value>
+  <data name="CRTopicsTab" xml:space="preserve">
+    <value>Topics</value>
   </data>
-  <data name="DesktSugUsCheckMeets" xml:space="preserve">
-    <value>Check their next meetups!</value>
+  <data name="CRUsersCount" xml:space="preserve">
+    <value>users</value>
   </data>
-  <data name="DeskSugsUsActivity" xml:space="preserve">
-    <value>View their recent activity</value>
+  <data name="CRUsersTab" xml:space="preserve">
+    <value>Users</value>
   </data>
-  <data name="DeskSugUsMeet" xml:space="preserve">
-    <value>Meet new people</value>
+  <data name="CRViewProfile" xml:space="preserve">
+    <value>View profile</value>
   </data>
-  <data name="DeskSugUsStats" xml:space="preserve">
-    <value>Check their stats</value>
-  </data>
-  <data name="DeskRestrictRequests" xml:space="preserve">
-    <value>Restrict contact requests</value>
-  </data>
-  <data name="DeskStateAutPartnerFind" xml:space="preserve">
-    <value>Automatic partner finder</value>
-  </data>
-  <data name="DeskStateReceiveCalls" xml:space="preserve">
-    <value>Make/receive calls</value>
-  </data>
-  <data name="DeskTimeBankDescription" xml:space="preserve">
-    <value>Here you can configure if you are available to receive videocalls in your native languages. You can also choose if you want Langademy to automatically find a partner for you to make a call</value>
-  </data>
-  <data name="DesktStateTimeBanking" xml:space="preserve">
-    <value>Time banking</value>
+  <data name="CRWriteTextbox" xml:space="preserve">
+    <value>Write here...</value>
   </data>
 </root>
