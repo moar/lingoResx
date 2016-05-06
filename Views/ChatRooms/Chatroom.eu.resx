@@ -117,67 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CallCalling" xml:space="preserve">
-    <value>TRUCANT A {0}</value>
+  <data name="CRAdvanced" xml:space="preserve">
+    <value>Maila aurreratua</value>
   </data>
-  <data name="CallIncomingCall" xml:space="preserve">
-    <value>TRUCADA ENTRANT </value>
+  <data name="CRAutomaticPartner" xml:space="preserve">
+    <value>Mintzalagun bilatzaile automatikoa</value>
   </data>
-  <data name="CallReport" xml:space="preserve">
-    <value>Resum de la trucada</value>
+  <data name="CRAvailable" xml:space="preserve">
+    <value>Eskuragarri</value>
   </data>
-  <data name="CannotConnect" xml:space="preserve">
-    <value>No es pot establir la trucada entre {0} i tu a causa del nivell de seguretat de les xarxes on us trobeu</value>
+  <data name="CRBeginners" xml:space="preserve">
+    <value>Sarrera maila</value>
   </data>
-  <data name="CurrentTimeBalance" xml:space="preserve">
-    <value>Saldo d'hores actual </value>
+  <data name="CRCall" xml:space="preserve">
+    <value>Deitu</value>
   </data>
-  <data name="HoursBagEarning" xml:space="preserve">
-    <value>Guanys per al Banc de Temps </value>
+  <data name="CRHideFiltered" xml:space="preserve">
+    <value>Iragazi</value>
   </data>
-  <data name="HoursBagSpent" xml:space="preserve">
-    <value>Despesa en el Banc de Temps</value>
+  <data name="CRIntermediate" xml:space="preserve">
+    <value>Erdi maila</value>
   </data>
-  <data name="IsBusy" xml:space="preserve">
-    <value>{0} està ocupat</value>
+  <data name="CRMeetupsTab" xml:space="preserve">
+    <value>Bilerak</value>
   </data>
-  <data name="LoadingLocal" xml:space="preserve">
-    <value>Carregant vídeo local</value>
+  <data name="CRMeetupTime" xml:space="preserve">
+    <value>Bilera bat antolatu da {0}-tan</value>
   </data>
-  <data name="NoAnswer" xml:space="preserve">
-    <value>{0} no contesta</value>
+  <data name="CRMeetupTopics" xml:space="preserve">
+    <value>Bilerako gaiak</value>
   </data>
-  <data name="PrevTime" xml:space="preserve">
-    <value>Balanç de temps anterior</value>
+  <data name="CRNatives" xml:space="preserve">
+    <value>Natiboak</value>
   </data>
-  <data name="ReportLang" xml:space="preserve">
-    <value>Idioma</value>
+  <data name="CRNextMeetups" xml:space="preserve">
+    <value>Hurrengo bilerak</value>
   </data>
-  <data name="ReportLevel" xml:space="preserve">
-    <value>El teu nivell</value>
+  <data name="CRNoLanguageMeetups" xml:space="preserve">
+    <value>Ez da bilerarik antolatu gela hontarako</value>
   </data>
-  <data name="ReportPartnerlevel" xml:space="preserve">
-    <value>Nivell del teu company d'intercanvi </value>
+  <data name="CRNoMeetup" xml:space="preserve">
+    <value>Ez dago bilerarik ordu honetan</value>
   </data>
-  <data name="ReportTimeAccount" xml:space="preserve">
-    <value>Temps per al teu compte</value>
+  <data name="CRNoTopicsProposed" xml:space="preserve">
+    <value>Inork ez du bilera honetarako hizketa gairik proposatu</value>
   </data>
-  <data name="TimeBanking" xml:space="preserve">
-    <value>Banc de Temps</value>
+  <data name="CRNumNatives" xml:space="preserve">
+    <value>Natiboak</value>
   </data>
-  <data name="TimeLeft" xml:space="preserve">
-    <value>Temps restant</value>
+  <data name="CRNumParticipants" xml:space="preserve">
+    <value>Partaideak</value>
   </data>
-  <data name="Title" xml:space="preserve">
-    <value>Videoxat</value>
+  <data name="CRTopicsTab" xml:space="preserve">
+    <value>Gaiak</value>
   </data>
-  <data name="VCDuration" xml:space="preserve">
-    <value> Duració </value>
+  <data name="CRUsersCount" xml:space="preserve">
+    <value>erabiltzaileak</value>
   </data>
-  <data name="VidWannaChat" xml:space="preserve">
-    <value>{0} vol parlar amb tu!</value>
+  <data name="CRUsersTab" xml:space="preserve">
+    <value>Usuarios</value>
   </data>
-  <data name="WaitingTo" xml:space="preserve">
-    <value>Esperant el permís per utilitzar la teva càmera...</value>
+  <data name="CRViewProfile" xml:space="preserve">
+    <value>Profila ikusi</value>
+  </data>
+  <data name="CRWriteTextbox" xml:space="preserve">
+    <value>Idatzi hemen...</value>
   </data>
 </root>

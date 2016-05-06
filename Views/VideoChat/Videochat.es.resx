@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,9 +57,8 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -126,6 +126,18 @@
   <data name="CallReport" xml:space="preserve">
     <value>Resumen de la llamada</value>
   </data>
+  <data name="CallSuggestMes" xml:space="preserve">
+    <value>Hemos encontrado un usuario que se encuentra disponible para hablar contigo en estos momentos</value>
+  </data>
+  <data name="CallSuggestNeg" xml:space="preserve">
+    <value>Recuerda: si hablas en nativo con un usuario nativo esta llamada tendrá un coste para tu banco de tiempo</value>
+  </data>
+  <data name="CallSuggestNot" xml:space="preserve">
+    <value>Esta llamada no afectará a tu banco de tiempo</value>
+  </data>
+  <data name="CallSuggestPos" xml:space="preserve">
+    <value>Recuerda: si hablas en tu idioma nativo con un usuario que está aprendiendo ese idioma, recibirás tiempo en tu banco de tiempo</value>
+  </data>
   <data name="CannotConnect" xml:space="preserve">
     <value>No se puede establecer la llamada entre {0} y tú a causa del nivel de seguridad de las redes donde os encontráis</value>
   </data>
@@ -147,6 +159,9 @@
   <data name="NoAnswer" xml:space="preserve">
     <value>{0} no contesta</value>
   </data>
+  <data name="PartnerMatchFound" xml:space="preserve">
+    <value>Compañero para conversación encontrado</value>
+  </data>
   <data name="PrevTime" xml:space="preserve">
     <value>Saldo de tiempo anterior</value>
   </data>
@@ -161,6 +176,12 @@
   </data>
   <data name="ReportTimeAccount" xml:space="preserve">
     <value>Tiempo para tu cuenta</value>
+  </data>
+  <data name="SugCall" xml:space="preserve">
+    <value>Llamar</value>
+  </data>
+  <data name="SugNotNow" xml:space="preserve">
+    <value>Ahora no</value>
   </data>
   <data name="TimeBanking" xml:space="preserve">
     <value>Banco de Tiempo</value>
