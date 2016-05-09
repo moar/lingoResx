@@ -259,6 +259,24 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Login to see your conversations.
+        /// </summary>
+        public static string RPRegForMessages {
+            get {
+                return ResourceManager.GetString("RPRegForMessages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Login to see your chat rooms.
+        /// </summary>
+        public static string RPRegForRooms {
+            get {
+                return ResourceManager.GetString("RPRegForRooms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Search.
         /// </summary>
         public static string RPSearch {

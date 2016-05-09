@@ -70,7 +70,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Automatir partner finder.
+        ///   Looks up a localized string similar to Automatic partner finder.
         /// </summary>
         public static string CRAutomaticPartner {
             get {
@@ -169,7 +169,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are no meetups scheduled for this rooms.
+        ///   Looks up a localized string similar to There are no meetups scheduled for this room.
         /// </summary>
         public static string CRNoLanguageMeetups {
             get {

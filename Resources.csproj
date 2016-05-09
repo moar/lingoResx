@@ -545,6 +545,12 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.ca.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.de.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.es.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.eu.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.fr.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.it.resx" />
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Chatroom.Designer.cs</LastGenOutput>
