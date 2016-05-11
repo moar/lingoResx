@@ -548,7 +548,9 @@
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.ca.resx" />
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.de.resx" />
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.es.resx" />
-    <EmbeddedResource Include="Views\ChatRooms\Chatroom.eu.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.fr.resx" />
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.it.resx" />
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.resx">

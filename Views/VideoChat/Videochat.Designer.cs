@@ -295,6 +295,51 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Don&apos;t show more matches.
+        /// </summary>
+        public static string VCNoMoreMatches {
+            get {
+                return ResourceManager.GetString("VCNoMoreMatches", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to OK.
+        /// </summary>
+        public static string VCOk {
+            get {
+                return ResourceManager.GetString("VCOk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Return home.
+        /// </summary>
+        public static string VCReturnHome {
+            get {
+                return ResourceManager.GetString("VCReturnHome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tip.
+        /// </summary>
+        public static string VCTip {
+            get {
+                return ResourceManager.GetString("VCTip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can enable/disable the automatic partner finder in your state panel whenever you want.
+        /// </summary>
+        public static string VCTipContent {
+            get {
+                return ResourceManager.GetString("VCTipContent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} wants to chat with you!.
         /// </summary>
         public static string VidWannaChat {

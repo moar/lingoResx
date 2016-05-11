@@ -133,6 +133,24 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Did you like the conversation?.
+        /// </summary>
+        public static string DeskConversationLike {
+            get {
+                return ResourceManager.GetString("DeskConversationLike", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter.
+        /// </summary>
+        public static string DeskEnter {
+            get {
+                return ResourceManager.GetString("DeskEnter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Feedback.
         /// </summary>
         public static string DeskFeedback {
@@ -336,6 +354,15 @@ namespace Resources.Views.Desktop {
         public static string DesktSugUsCheckMeets {
             get {
                 return ResourceManager.GetString("DesktSugUsCheckMeets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to users.
+        /// </summary>
+        public static string DeskUsers {
+            get {
+                return ResourceManager.GetString("DeskUsers", resourceCulture);
             }
         }
         
