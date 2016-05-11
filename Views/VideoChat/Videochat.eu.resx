@@ -195,6 +195,21 @@
   <data name="VCDuration" xml:space="preserve">
     <value>Iraupena</value>
   </data>
+  <data name="VCNoMoreMatches" xml:space="preserve">
+    <value>Ez erakutsi mintzalagun gehiago</value>
+  </data>
+  <data name="VCOk" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="VCReturnHome" xml:space="preserve">
+    <value>Hasierara itzuli</value>
+  </data>
+  <data name="VCTip" xml:space="preserve">
+    <value>Oharra</value>
+  </data>
+  <data name="VCTipContent" xml:space="preserve">
+    <value>Mintzalagun bilatzaile automatikoa nahi duzunean gaitu/desgaitu dezakezu</value>
+  </data>
   <data name="VidWannaChat" xml:space="preserve">
     <value>{0}-(e)k zurekin hitz egin nahi du!</value>
   </data>

@@ -184,7 +184,7 @@
     <value>Practica el idioma que quieras, cuando tú quieras</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>Aprende inglés, alemán, frances o cualquier otro idioma online con Langademy. En el Language Roulette conocerás nativos para mantener conversaciones en tus idiomas favoritos</value>
+    <value>Aprende inglés, alemán, francés o cualquier otro idioma online con Langademy. En las salas de idiomas de Langademy conocerás nativos para chatear o hacer videollamadas en tus idiomas favoritos</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>
@@ -196,13 +196,13 @@
     <value>Enchufa tu webcam y tu micrófono y entra en la sala del idioma que quieres practicar</value>
   </data>
   <data name="IndexLR3" xml:space="preserve">
-    <value>Nosotros te emparejamos con un compañero que esté libre y cumpla tu filtro</value>
+    <value>Podrás chatear o realizar llamadas a los nativos que se encuentren a la sala</value>
   </data>
   <data name="IndexLR4" xml:space="preserve">
     <value>Sé simpático ;-)</value>
   </data>
   <data name="IndexLR5" xml:space="preserve">
-    <value>Y cuando quieras hablar con alguien más, pulsa Siguiente y te volvemos a emparejar</value>
+    <value>Y si lo deseas, activa el buscador automático de compañeros: Langademy se ocupará de emparejarte automáticamente con un compañero que esté libre y cumpla tu filtro</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
     <value>Organiza intercambios de idiomas en el Tablón de Quedadas de Langademy</value>
@@ -211,13 +211,13 @@
     <value>¡Todos a una!</value>
   </data>
   <data name="IndexMeetingBoard3" xml:space="preserve">
-    <value>¿Cuándo quieres mantener una conversación con nativos o en tu propio idioma? Contribuye con la comunidad de intercambio de idiomas organizando quedadas los días y horas que te apetezca entrar al Language Roulette. Pero hazlo con tiempo para que más gente tenga tiempo de apuntarse</value>
+    <value>¿Cuándo quieres mantener una conversación con nativos o en tu propio idioma? Contribuye con la comunidad de intercambio de idiomas organizando quedadas los días y horas que te apetezca entrar a  conversar. Pero hazlo con tiempo para que más gente tenga tiempo de apuntarse</value>
   </data>
   <data name="IndexMeetingBoard4" xml:space="preserve">
-    <value>O si alguien ha organizado ya alguna quedada apúntate. ¡Solo tienes que pulsar un botón! A los que están apuntados les encantará saber que tú también te apuntas</value>
+    <value>O si alguien ha organizado ya alguna quedada apúntate. ¡Solo tienes que pulsar un botón! Además, los que os apuntéis en la quedada podréis elegir y votar los temas sobre  los que deseáis hablar en las quedadas.</value>
   </data>
   <data name="IndexMeetingBoard5" xml:space="preserve">
-    <value>Además puedes compartir el link de la quedada en tus redes sociales para que se apunte más gente. Cuantos más mejor :-)</value>
+    <value>Si quieres que más gente se una a la quedada, puedes compartir el link de la quedada en tus redes sociales. Cuantos más mejor :-)</value>
   </data>
   <data name="IndexPartners1" xml:space="preserve">
     <value>¡Encontré un compañero que mola!</value>
@@ -229,7 +229,7 @@
     <value>Envíale una solicitud de contacto</value>
   </data>
   <data name="IndexPartners4" xml:space="preserve">
-    <value>Cuando la acepte podréis chatear y hacer videoconferencias directamente sin entrar en el Language Roulette</value>
+    <value>Cuando la acepte podréis chatear y hacer videoconferencias directamente sin tener que entrar a las salas</value>
   </data>
   <data name="IndexQuestion1" xml:space="preserve">
     <value>¿Qué idiomas hablas? ¿Cual es tu nivel?</value>
@@ -253,7 +253,7 @@
     <value>Regístrate y comienza a aprender idiomas</value>
   </data>
   <data name="TryLanguageRoulette" xml:space="preserve">
-    <value>Prueba el intercambio de idiomas en el Language Roulette</value>
+    <value>Prueba el intercambio de idiomas en las salas de Langademy</value>
   </data>
   <data name="IndexLanguageExchange1" xml:space="preserve">
     <value>Intercambio de idiomas</value>
@@ -265,7 +265,7 @@
     <value>Funciona como un tandem, pero tú decides cuándo y con quién hablas en cada idioma, sean las mismas u otras personas</value>
   </data>
   <data name="IndexLanguageExchange4" xml:space="preserve">
-    <value>Cuando te registras en Langademy empiezas con 5 horas en tu cuenta para que puedas probar</value>
+    <value>Cuando te registras en Langademy empiezas con 2 horas en tu cuenta para que puedas probar</value>
   </data>
   <data name="IndexTeacherSubscribe" xml:space="preserve">
     <value>¡Estamos preparando herramientas increibles para ti! Mándanos tu dirección de e-mail y te mantendremos al corriente de las novedades</value>

@@ -126,6 +126,18 @@
   <data name="CallReport" xml:space="preserve">
     <value>Resum de la trucada</value>
   </data>
+  <data name="CallSuggestMes" xml:space="preserve">
+    <value>Hem trobat un usuari disponible per parlar amb tu ara mateix</value>
+  </data>
+  <data name="CallSuggestNeg" xml:space="preserve">
+    <value>Recorda: si parles amb un usuari natiu aquesta trucada tindrà un cost per al teu banc de temps</value>
+  </data>
+  <data name="CallSuggestNot" xml:space="preserve">
+    <value>Aquesta trucada no afectarà al teu banc de temps</value>
+  </data>
+  <data name="CallSuggestPos" xml:space="preserve">
+    <value>Recorda: si parles en el teu idioma natiu amb un usuari que està aprenent aquest idioma, rebràs temps al teu banc de temps</value>
+  </data>
   <data name="CannotConnect" xml:space="preserve">
     <value>No es pot establir la trucada entre {0} i tu a causa del nivell de seguretat de les xarxes on us trobeu</value>
   </data>
@@ -147,6 +159,9 @@
   <data name="NoAnswer" xml:space="preserve">
     <value>{0} no contesta</value>
   </data>
+  <data name="PartnerMatchFound" xml:space="preserve">
+    <value>Trobat company per conversa</value>
+  </data>
   <data name="PrevTime" xml:space="preserve">
     <value>Balanç de temps anterior</value>
   </data>
@@ -162,6 +177,12 @@
   <data name="ReportTimeAccount" xml:space="preserve">
     <value>Temps per al teu compte</value>
   </data>
+  <data name="SugCall" xml:space="preserve">
+    <value>Trucar</value>
+  </data>
+  <data name="SugNotNow" xml:space="preserve">
+    <value>Ara no</value>
+  </data>
   <data name="TimeBanking" xml:space="preserve">
     <value>Banc de Temps</value>
   </data>
@@ -173,6 +194,21 @@
   </data>
   <data name="VCDuration" xml:space="preserve">
     <value> Duració </value>
+  </data>
+  <data name="VCNoMoreMatches" xml:space="preserve">
+    <value>No mostrar més emparellaments</value>
+  </data>
+  <data name="VCOk" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="VCReturnHome" xml:space="preserve">
+    <value>Tornar a l'inici</value>
+  </data>
+  <data name="VCTip" xml:space="preserve">
+    <value>Pista</value>
+  </data>
+  <data name="VCTipContent" xml:space="preserve">
+    <value>Pots activar / desactivar el cercador automàtic de companys en el teu panell d'estat quan vulguis</value>
   </data>
   <data name="VidWannaChat" xml:space="preserve">
     <value>{0} vol parlar amb tu!</value>

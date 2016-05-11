@@ -228,4 +228,25 @@
   <data name="DeskRestrictRequests" xml:space="preserve">
     <value>Restringir sol·licituds de contacte</value>
   </data>
+  <data name="DeskStateAutPartnerFind" xml:space="preserve">
+    <value>Cercador automàtic de companys</value>
+  </data>
+  <data name="DeskStateReceiveCalls" xml:space="preserve">
+    <value>Fer/rebre trucades</value>
+  </data>
+  <data name="DeskTimeBankDescription" xml:space="preserve">
+    <value>Aquí pots configurar si vols rebre trucades d'altres usuaris. També pots triar si vols que Langademy et trobi un company per fer una trucada automàticament</value>
+  </data>
+  <data name="DesktStateTimeBanking" xml:space="preserve">
+    <value>Banc de Temps</value>
+  </data>
+  <data name="DeskConversationLike" xml:space="preserve">
+    <value>T'agradat la conversa?</value>
+  </data>
+  <data name="DeskEnter" xml:space="preserve">
+    <value>Entrar</value>
+  </data>
+  <data name="DeskUsers" xml:space="preserve">
+    <value>usuaris</value>
+  </data>
 </root>

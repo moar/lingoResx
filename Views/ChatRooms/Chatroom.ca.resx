@@ -117,4 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="CRAdvanced" xml:space="preserve">
+    <value>Avançat</value>
+  </data>
+  <data name="CRAutomaticPartner" xml:space="preserve">
+    <value>Cercador automàtic de companys</value>
+  </data>
+  <data name="CRAvailable" xml:space="preserve">
+    <value>Disponible</value>
+  </data>
+  <data name="CRBeginners" xml:space="preserve">
+    <value>Principiant</value>
+  </data>
+  <data name="CRCall" xml:space="preserve">
+    <value>Trucar</value>
+  </data>
+  <data name="CRHideFiltered" xml:space="preserve">
+    <value>Ocultar filtrats</value>
+  </data>
+  <data name="CRIntermediate" xml:space="preserve">
+    <value>Intermedi</value>
+  </data>
+  <data name="CRMeetupsTab" xml:space="preserve">
+    <value>Quedades</value>
+  </data>
+  <data name="CRMeetupTime" xml:space="preserve">
+    <value>S'ha organitzat una quedada a la (s) {0}</value>
+  </data>
+  <data name="CRMeetupTopics" xml:space="preserve">
+    <value>Temes de les quedada</value>
+  </data>
+  <data name="CRNatives" xml:space="preserve">
+    <value>Natius</value>
+  </data>
+  <data name="CRNextMeetups" xml:space="preserve">
+    <value>Següents quedades</value>
+  </data>
+  <data name="CRNoLanguageMeetups" xml:space="preserve">
+    <value>No s'han organitzat quedades per a aquesta sala</value>
+  </data>
+  <data name="CRNoMeetup" xml:space="preserve">
+    <value>No hi ha cap quedada a aquesta hora</value>
+  </data>
+  <data name="CRNoTopicsProposed" xml:space="preserve">
+    <value>No s'han proposat temes de conversa per a aquesta quedada</value>
+  </data>
+  <data name="CRNumNatives" xml:space="preserve">
+    <value>Natius</value>
+  </data>
+  <data name="CRNumParticipants" xml:space="preserve">
+    <value>Participants </value>
+  </data>
+  <data name="CRTopicsTab" xml:space="preserve">
+    <value>Temes</value>
+  </data>
+  <data name="CRUsersCount" xml:space="preserve">
+    <value>usuaris</value>
+  </data>
+  <data name="CRUsersTab" xml:space="preserve">
+    <value>Usuaris</value>
+  </data>
+  <data name="CRViewProfile" xml:space="preserve">
+    <value>Veure perfil</value>
+  </data>
+  <data name="CRWriteTextbox" xml:space="preserve">
+    <value>Escriu aquí..</value>
+  </data>
+</root>

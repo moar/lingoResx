@@ -240,4 +240,13 @@
   <data name="DesktStateTimeBanking" xml:space="preserve">
     <value>Denbora bankua</value>
   </data>
+  <data name="DeskConversationLike" xml:space="preserve">
+    <value>Gustora hitz egin al zenuen?</value>
+  </data>
+  <data name="DeskEnter" xml:space="preserve">
+    <value>Sartu</value>
+  </data>
+  <data name="DeskUsers" xml:space="preserve">
+    <value>erabiltzaileak</value>
+  </data>
 </root>

@@ -130,7 +130,7 @@
     <value>Hemos encontrado un usuario que se encuentra disponible para hablar contigo en estos momentos</value>
   </data>
   <data name="CallSuggestNeg" xml:space="preserve">
-    <value>Recuerda: si hablas en nativo con un usuario nativo esta llamada tendrá un coste para tu banco de tiempo</value>
+    <value>Recuerda: si hablas con un usuario nativo esta llamada tendrá un coste para tu banco de tiempo</value>
   </data>
   <data name="CallSuggestNot" xml:space="preserve">
     <value>Esta llamada no afectará a tu banco de tiempo</value>
@@ -194,6 +194,21 @@
   </data>
   <data name="VCDuration" xml:space="preserve">
     <value>Duración</value>
+  </data>
+  <data name="VCNoMoreMatches" xml:space="preserve">
+    <value>No mostrar más emparejamientos</value>
+  </data>
+  <data name="VCOk" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="VCReturnHome" xml:space="preserve">
+    <value>Volver a inicio</value>
+  </data>
+  <data name="VCTip" xml:space="preserve">
+    <value>Pista</value>
+  </data>
+  <data name="VCTipContent" xml:space="preserve">
+    <value>Puedes activar/desactivar el buscador automático de compañeros en tu panel de estado cuando quieras</value>
   </data>
   <data name="VidWannaChat" xml:space="preserve">
     <value>¡{0} quiere hablar contigo!</value>

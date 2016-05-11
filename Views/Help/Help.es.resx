@@ -172,7 +172,7 @@
     <value><![CDATA[Si <strong>enseñas a alguien tu idioma nativo</strong> ganarás tiempo para tu cuenta, y si <strong>practicas otros idiomas</strong> gastarás las horas de tu cuenta.]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value><![CDATA[Comenzarás con <strong>5 horas gratuitas</strong> para que puedas hablar en el idioma que quieras]]></value>
+    <value><![CDATA[Comenzarás con <strong>2 horas gratuitas</strong> para que puedas hablar en el idioma que quieras]]></value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
     <value>En Langademy puedes hacer videollamadas con tus contactos y controlar el idioma que vayas a practicar.</value>
@@ -205,7 +205,7 @@
     <value>El Banco de Tiempo es un concepto para que con el intercambio de idiomas todos salgan ganando. Éste es su funcionamiento:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Comenzarás con 5 horas para que puedas hablar en el idioma que quieras.</value>
+    <value>Comenzarás con 2 horas para que puedas hablar en el idioma que quieras.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Por defecto, no podrás acumular más de 10 horas en tu Banco de Tiempo.</value>
