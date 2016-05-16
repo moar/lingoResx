@@ -602,11 +602,11 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Try conversation exchange with the Language Roulette.
+        ///   Looks up a localized string similar to Try conversation exchange in the chat rooms.
         /// </summary>
-        public static string TryLanguageRoulette {
+        public static string TryChatRooms {
             get {
-                return ResourceManager.GetString("TryLanguageRoulette", resourceCulture);
+                return ResourceManager.GetString("TryChatRooms", resourceCulture);
             }
         }
         

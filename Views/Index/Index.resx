@@ -250,8 +250,8 @@
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
     <value>Sign up and start learning languages for free</value>
   </data>
-  <data name="TryLanguageRoulette" xml:space="preserve">
-    <value>Try conversation exchange with the Language Roulette</value>
+  <data name="TryChatRooms" xml:space="preserve">
+    <value>Try conversation exchange in the chat rooms</value>
   </data>
   <data name="IndexLanguageExchange1" xml:space="preserve">
     <value>Language exchange</value>
