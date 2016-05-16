@@ -198,7 +198,7 @@
   <data name="LangademyState" xml:space="preserve">
     <value>Langademy egoera</value>
   </data>
-  <data name="LangrouletteIntro" xml:space="preserve">
+  <data name="ChatRoomsIntro" xml:space="preserve">
     <value>Language Roulettea zure hizkuntza gogokoenak praktika ditzakezun tokia da. Aukeratu gela bat eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Hitz egiteko lagun bat aukeratuko dizugu! Gogoratu bilera taula kontsulta dezakezula Language Rouletteko bilerak noiz izango diren ikusteko.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">

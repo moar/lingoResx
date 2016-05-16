@@ -198,7 +198,7 @@
   <data name="LangademyState" xml:space="preserve">
     <value>Stato Langademy</value>
   </data>
-  <data name="LangrouletteIntro" xml:space="preserve">
+  <data name="ChatRoomsIntro" xml:space="preserve">
     <value>Entra nel Language Roulette, seleziona una stanza e inizia a parlare la tua lingua preferita!  Ci occupiamo noi di cercarte una coppia!Ricorda che puoi controllare la tabella di appuntamenti per sapere quando saranno i prossimi appuntamenti nel Language Roulette.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">

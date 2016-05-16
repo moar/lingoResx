@@ -250,7 +250,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Create converstion exchange meetups in the meetup board.
+        ///   Looks up a localized string similar to Create conversation exchange meetups in the meetup board.
         /// </summary>
         public static string IndexMBPictureAlt {
             get {
@@ -566,7 +566,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to  Create meetups to exchange languages when you want and invite your partners to join!.
+        ///   Looks up a localized string similar to Create meetups to exchange languages when you want and invite your partners to join!.
         /// </summary>
         public static string ManageMeetup {
             get {

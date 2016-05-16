@@ -135,20 +135,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Answer1" xml:space="preserve">
-    <value>The Language Roulette room list only shows the languages you have added to your profile. If you want to learn new languages or get other languages’ rooms, just add those languages to your profile</value>
+    <value>The room list only shows the languages you have added to your profile. If you want to learn new languages or get other languages’ rooms, just add those languages to your profile</value>
   </data>
   <data name="Answer2" xml:space="preserve">
-    <value><![CDATA[The main way to get time for your account, is by talking to others in your native languages. You can go to a Language Roulette room of one of your native languages, or you can make private calls in your native languages with your contacts.<br />
+    <value><![CDATA[The main way to get time for your account, is by talking to others in your native languages. You can go to the chat room of one of your native languages, or you can make private calls in your native languages with your contacts.<br />
                                 You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook.]]></value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>If you go to a Language Roulette room and there it's empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup.</value>
+    <value>If you go to a language room and there it's empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup.</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Yes. Go to Settings =&gt; Privacy, and turn on the “Allow only contact requests from people you have spoken to” option.</value>
   </data>
   <data name="Answer5" xml:space="preserve">
-    <value>All the meetups take place in a Language Roulette room. You can whether go to the Language Roulette app and select the room, or select the meetup from the meetup board and enter directly to the room when the time comes.</value>
+    <value>All the meetups take place inside a chat room. You can whether go to your right panel app and select the room you want to enter, or select the meetup from the meetup board and enter directly to the room when the time comes.</value>
   </data>
   <data name="Answer6" xml:space="preserve">
     <value>No, and you don’t have to install anything to use videoconferences on Langademy.</value>
@@ -157,13 +157,13 @@
     <value>Langademy is free of any charge. We use a time banking policy. The time you devote speaking to others in your native languages will be added to your account so you can use it to learn other languages.</value>
   </data>
   <data name="Answer8" xml:space="preserve">
-    <value>When you are on a conversation within the Language Roulette, you have the option to send a connection request to your partner. Once you are connected, you can send private messages and also make private videocalls.</value>
+    <value>When you are on a conversation within a chat room, you have the option to send a connection request to your partner. Remembar that you can also check your call history in your Time Bank app. Once you are connected, you can send private messages and also make private videocalls.</value>
   </data>
   <data name="Answer9" xml:space="preserve">
     <value>Langademy have no language restrictions. It offers rooms for most of the languages of the world. Don’t hesitate to contact us if you think a language is missing</value>
   </data>
   <data name="Question1" xml:space="preserve">
-    <value>Why are only some rooms available in the Language Roulette room lists?</value>
+    <value>Why are only some rooms available in my room list?</value>
   </data>
   <data name="Question2" xml:space="preserve">
     <value>How can I earn more time for my account?</value>
@@ -184,7 +184,7 @@
     <value>Do I have to pay to use Langademy?</value>
   </data>
   <data name="Question8" xml:space="preserve">
-    <value>How can I keep in touch with the people I have chatted in the Language Roulette?</value>
+    <value>How can I keep in touch with the people I have chatted in the chat rooms?</value>
   </data>
   <data name="Question9" xml:space="preserve">
     <value>Which languages are available in Langademy?</value>

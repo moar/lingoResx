@@ -587,6 +587,7 @@
     <EmbeddedResource Include="Views\Faq\faq.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>faq.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Feedback\Feedback.ca.resx" />
     <EmbeddedResource Include="Views\Feedback\Feedback.de.resx" />
@@ -598,15 +599,24 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Feedback.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Help\Help.ca.resx" />
+    <EmbeddedResource Include="Views\Help\Help.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Help\Help.de.resx" />
-    <EmbeddedResource Include="Views\Help\Help.es.resx" />
-    <EmbeddedResource Include="Views\Help\Help.eu.resx" />
+    <EmbeddedResource Include="Views\Help\Help.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Help\Help.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Help\Help.fr.resx" />
-    <EmbeddedResource Include="Views\Help\Help.it.resx" />
+    <EmbeddedResource Include="Views\Help\Help.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Help\Help.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Help.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\HoursBag\HoursBag.ca.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.de.resx" />

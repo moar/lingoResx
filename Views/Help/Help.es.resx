@@ -198,7 +198,7 @@
   <data name="LangademyState" xml:space="preserve">
     <value>Estado Langademy</value>
   </data>
-  <data name="LangrouletteIntro" xml:space="preserve">
+  <data name="ChatRoomsIntro" xml:space="preserve">
     <value>El Language Roulette es el espacio donde se encuentra la gente que quiere intercambiar idiomas. Selecciona una sala y ¡comienza a practicar tu idioma favorito! ¡Nosotros nos encargaremos de emparejarte! Recuerda que puedes consultar el tablón de quedadas para saber cuándo tendrán lugar las quedadas del Language Roulette.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">

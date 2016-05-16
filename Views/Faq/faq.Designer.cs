@@ -61,7 +61,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Language Roulette room list only shows the languages you have added to your profile. If you want to learn new languages or get other languages’ rooms, just add those languages to your profile.
+        ///   Looks up a localized string similar to The room list only shows the languages you have added to your profile. If you want to learn new languages or get other languages’ rooms, just add those languages to your profile.
         /// </summary>
         public static string Answer1 {
             get {
@@ -70,25 +70,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy uses WebRTC technology for making videocalls, which not every browser supports. We recommend the latest versions of Chrome, Firefox or Opera for achieving the best compatibility with Langademy. Unfortunately, if you are using an IOS-based device like an Iphone or an IPad, currently there aren’t any available options to make videocalls at Langademy (not even with Chrome). In the future we are planning to develop a native IOS App so you can also get the most out of Langademy..
-        /// </summary>
-        public static string Answer10 {
-            get {
-                return ResourceManager.GetString("Answer10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Not at all. It just means that you arrived before the other partners. Do not hesitate and enter the room. As soon as other users enter the room you will be automatically paired and you will start talking. Not everybody is punctual, so be patient and wait inside the room. We are considering to develop some minigames to make the waiting time more entertaining. What do you think? You can send us your feedback by clicking the feedback link at the footer of Langademy’s main page..
-        /// </summary>
-        public static string Answer11 {
-            get {
-                return ResourceManager.GetString("Answer11", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to The main way to get time for your account, is by talking to others in your native languages. You can go to a Language Roulette room of one of your native languages, or you can make private calls in your native languages with your contacts.&lt;br /&gt;
+        ///   Looks up a localized string similar to The main way to get time for your account, is by talking to others in your native languages. You can go to the chat room of one of your native languages, or you can make private calls in your native languages with your contacts.&lt;br /&gt;
         ///                                You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook..
         /// </summary>
         public static string Answer2 {
@@ -98,7 +80,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you go to a Language Roulette room and there it&apos;s empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup..
+        ///   Looks up a localized string similar to If you go to a language room and there it&apos;s empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup..
         /// </summary>
         public static string Answer3 {
             get {
@@ -116,7 +98,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All the meetups take place in a Language Roulette room. You can whether go to the Language Roulette app and select the room, or select the meetup from the meetup board and enter directly to the room when the time comes..
+        ///   Looks up a localized string similar to All the meetups take place inside a chat room. You can whether go to your right panel app and select the room you want to enter, or select the meetup from the meetup board and enter directly to the room when the time comes..
         /// </summary>
         public static string Answer5 {
             get {
@@ -134,7 +116,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is free of any charge. We use a timebanking policy. The time you devote speaking to others in your native languages will be added to your account so you can use it to learn other languages..
+        ///   Looks up a localized string similar to Langademy is free of any charge. We use a time banking policy. The time you devote speaking to others in your native languages will be added to your account so you can use it to learn other languages..
         /// </summary>
         public static string Answer7 {
             get {
@@ -143,7 +125,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you are on a conversation within the Language Roulette, you have the option to send a connection request to your partner. Once you are connected, you can send private messages and also make private videocalls..
+        ///   Looks up a localized string similar to When you are on a conversation within a chat room, you have the option to send a connection request to your partner. Remembar that you can also check your call history in your Time Bank app. Once you are connected, you can send private messages and also make private videocalls..
         /// </summary>
         public static string Answer8 {
             get {
@@ -161,7 +143,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Why are only some rooms available in the Language Roulette room lists?.
+        ///   Looks up a localized string similar to Why are only some rooms available in my room list?.
         /// </summary>
         public static string Question1 {
             get {
@@ -170,25 +152,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Why do I have a warning indicating that my browser does not support videocalls?.
-        /// </summary>
-        public static string Question10 {
-            get {
-                return ResourceManager.GetString("Question10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to I joined a meetup but there are no people in the Language Roulette room at the starting time of the meetup. Does it mean that it has been cancelled?.
-        /// </summary>
-        public static string Question11 {
-            get {
-                return ResourceManager.GetString("Question11", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to How can I earn more timefor my account?.
+        ///   Looks up a localized string similar to How can I earn more time for my account?.
         /// </summary>
         public static string Question2 {
             get {
@@ -242,7 +206,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to How can I keep in touch with the people I have chatted in the Language Roulette?.
+        ///   Looks up a localized string similar to How can I keep in touch with the people I have chatted in the chat rooms?.
         /// </summary>
         public static string Question8 {
             get {
