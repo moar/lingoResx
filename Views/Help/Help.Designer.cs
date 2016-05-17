@@ -61,7 +61,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The chat rooms are the place where you can go to exchange languages with a native. Select a room in your right panel and start practicing your favourite language! Remember that you can check the meetup board to know when the Language Roulette meetups take place..
+        ///   Looks up a localized string similar to The chat rooms are the place where you can go to exchange languages with a native. Select a room in your right panel and start practicing your favourite language! Remember that you can check the meetup board to know when the chat room meetups take place..
         /// </summary>
         public static string ChatRoomsIntro {
             get {
@@ -89,7 +89,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to the Language Roulette, select a language and start practicing it using video call technology..
+        ///   Looks up a localized string similar to Go to the chat room list, select a language room and start practicing it using video call technology..
         /// </summary>
         public static string HelpAssistanteStep1F1 {
             get {
@@ -157,6 +157,15 @@ namespace Resources.Views.Help {
         public static string HelpAssistanteStep3F3 {
             get {
                 return ResourceManager.GetString("HelpAssistanteStep3F3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chat Rooms.
+        /// </summary>
+        public static string HelpChatRoom {
+            get {
+                return ResourceManager.GetString("HelpChatRoom", resourceCulture);
             }
         }
         
