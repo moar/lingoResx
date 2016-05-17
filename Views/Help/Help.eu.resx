@@ -124,10 +124,10 @@
     <value>Langademy 3 pausotan</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Sartu Language Roulettera, aukeratu nahi duzun hizkuntza eta hasi zaitez bideodei bitartez mintzatzen.</value>
+    <value>Joan txat gelen zerrendara, aukeratu nahi duzun hizkuntza eta hasi zaitez bideodei bitartez mintzatzen.</value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
-    <value><![CDATA[Language Roulettean jende gehiagorekin bat egiteko modu errezena, <strong>Bilera taulan</strong>  bilerak sortzea edo existitzen diren bileretara apuntatzea da.]]></value>
+    <value><![CDATA[Txat gela batean jende gehiagorekin bat egiteko modu errezena, <strong>Bilera taulan</strong>  bilerak sortzea edo existitzen diren bileretara apuntatzea da.]]></value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
     <value><![CDATA[<strong>Denbora bankuan</strong>:]]></value>
@@ -185,5 +185,8 @@
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Denbora bankua</value>
+  </data>
+  <data name="HelpChatRoom" xml:space="preserve">
+    <value>Txat gelak</value>
   </data>
 </root>

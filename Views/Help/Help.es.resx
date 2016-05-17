@@ -124,10 +124,10 @@
     <value>Langademy en 3 pasos</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Entra al Language Roulette, elige el idioma que quieras y comienza a practicar por videoconferencia.</value>
+    <value>Ve a la lista de salas, elige la sala del idioma que quieras y comienza a practicar por videoconferencia.</value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
-    <value>Lo más fácil para coincidir con más gente en el Language Roulette es organizar quedadas en el Tablón de quedadas o apuntarte a las que ya haya.</value>
+    <value>Lo más fácil para coincidir con más gente en las salas de chat es organizar quedadas en el Tablón de quedadas o apuntarte a las que ya haya.</value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
     <value><![CDATA[<strong>Banco de Tiempo:</strong>]]></value>
@@ -185,5 +185,8 @@
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Banco de Tiempo</value>
+  </data>
+  <data name="HelpChatRoom" xml:space="preserve">
+    <value>Salas de chat</value>
   </data>
 </root>
