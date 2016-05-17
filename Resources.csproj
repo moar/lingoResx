@@ -637,6 +637,7 @@
     <EmbeddedResource Include="Views\Index\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Langroulette\Index.ca.resx" />
     <EmbeddedResource Include="Views\Langroulette\Index.de.resx" />
