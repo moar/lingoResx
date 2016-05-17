@@ -115,7 +115,7 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have no contacts yet. Go to {0} and meet new partners!.
+        ///   Looks up a localized string similar to You have no contacts yet. Go to the chat rooms and meet new partners!.
         /// </summary>
         public static string NoContacts {
             get {
