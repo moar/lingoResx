@@ -117,4 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="CRAdvanced" xml:space="preserve">
+    <value>Avanzato</value>
+  </data>
+  <data name="CRAutomaticPartner" xml:space="preserve">
+    <value>Ricerca automatica di compagni</value>
+  </data>
+  <data name="CRAvailable" xml:space="preserve">
+    <value>Disponibile</value>
+  </data>
+  <data name="CRBeginners" xml:space="preserve">
+    <value>Principiante</value>
+  </data>
+  <data name="CRCall" xml:space="preserve">
+    <value>Chiamare</value>
+  </data>
+  <data name="CRHideFiltered" xml:space="preserve">
+    <value>Nascondere filtrati</value>
+  </data>
+  <data name="CRIntermediate" xml:space="preserve">
+    <value>Intermedio</value>
+  </data>
+  <data name="CRMeetupsTab" xml:space="preserve">
+    <value>Appuntamenti</value>
+  </data>
+  <data name="CRMeetupTime" xml:space="preserve">
+    <value>Si ha organizzato un appuntamento alle {0}</value>
+  </data>
+  <data name="CRMeetupTopics" xml:space="preserve">
+    <value>Argomenti degli appuntamenti</value>
+  </data>
+  <data name="CRNatives" xml:space="preserve">
+    <value>Madrelingua</value>
+  </data>
+  <data name="CRNextMeetups" xml:space="preserve">
+    <value>Prossimi appuntamenti</value>
+  </data>
+  <data name="CRNoLanguageMeetups" xml:space="preserve">
+    <value>Non si hanno organizzato appuntamenti per questa stanza</value>
+  </data>
+  <data name="CRNoMeetup" xml:space="preserve">
+    <value>Non c'è nessun appuntamento a quest'ora</value>
+  </data>
+  <data name="CRNoTopicsProposed" xml:space="preserve">
+    <value>Non ci sono preposti argomenti di conversazione in questo appuntamento</value>
+  </data>
+  <data name="CRNumNatives" xml:space="preserve">
+    <value>Madrelingua</value>
+  </data>
+  <data name="CRNumParticipants" xml:space="preserve">
+    <value>Partecipanti</value>
+  </data>
+  <data name="CRTopicsTab" xml:space="preserve">
+    <value>Argomenti</value>
+  </data>
+  <data name="CRUsersCount" xml:space="preserve">
+    <value>utenti</value>
+  </data>
+  <data name="CRUsersTab" xml:space="preserve">
+    <value>Utenti</value>
+  </data>
+  <data name="CRViewProfile" xml:space="preserve">
+    <value>Visualizza il profilo</value>
+  </data>
+  <data name="CRWriteTextbox" xml:space="preserve">
+    <value>Scrive qui...</value>
+  </data>
+</root>

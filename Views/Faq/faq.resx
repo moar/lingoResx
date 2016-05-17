@@ -142,7 +142,7 @@
                                 You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook.]]></value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>If you go to a language room and there it's empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup.</value>
+    <value>If you go to a chat room and there it's empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup.</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Yes. Go to Settings =&gt; Privacy, and turn on the “Allow only contact requests from people you have spoken to” option.</value>
@@ -157,13 +157,13 @@
     <value>Langademy is free of any charge. We use a time banking policy. The time you devote speaking to others in your native languages will be added to your account so you can use it to learn other languages.</value>
   </data>
   <data name="Answer8" xml:space="preserve">
-    <value>When you are on a conversation within a chat room, you have the option to send a connection request to your partner. Remembar that you can also check your call history in your Time Bank app. Once you are connected, you can send private messages and also make private videocalls.</value>
+    <value>When you inside a chat room, you have the option to send a connection request to your partners. Remember that you can also check your call history in your Time Bank app. Once you are connected, you can send private messages and also make private videocalls.</value>
   </data>
   <data name="Answer9" xml:space="preserve">
     <value>Langademy have no language restrictions. It offers rooms for most of the languages of the world. Don’t hesitate to contact us if you think a language is missing</value>
   </data>
   <data name="Question1" xml:space="preserve">
-    <value>Why are only some rooms available in my room list?</value>
+    <value>Why are only some rooms available in the room list of my right panel?</value>
   </data>
   <data name="Question2" xml:space="preserve">
     <value>How can I earn more time for my account?</value>

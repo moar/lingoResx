@@ -180,7 +180,7 @@
     <value>Meetup cancelled</value>
   </data>
   <data name="MeetupInvitation" xml:space="preserve">
-    <value>{0} invited you to attend a Language Roulette meetup</value>
+    <value>{0} invited you to attend a meetup</value>
   </data>
   <data name="NewMissedCall" xml:space="preserve">
     <value>Missed call</value>

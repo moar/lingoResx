@@ -135,19 +135,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Answer1" xml:space="preserve">
-    <value>La lista de salas del Language Roulette solo muestra los idiomas que has añadido en tu perfil. Si quieres aprender otros idiomas o acceder a salas de otros idiomas, tienes que añadir esos idiomas a tu perfil</value>
+    <value>La lista de salas solo muestra los idiomas que has añadido en tu perfil. Si quieres aprender otros idiomas o acceder a salas de otros idiomas, tienes que añadir esos idiomas a tu perfil</value>
   </data>
   <data name="Answer2" xml:space="preserve">
-    <value><![CDATA[La principal manera de conseguir tiempo para tu cuenta es enseñando tu idioma nativo a otros usuarios. Puedes ir a una sala Language Roulette de uno de tus idiomas nativos o puedes realizar videollamadas privadas con tus contactos. <br/> También puedes conseguir tiempo si invitas a tus amigos a Langademy o si nos sigues en Twitter y Facebook  ]]></value>
+    <value><![CDATA[La principal manera de conseguir tiempo para tu cuenta es enseñando tu idioma nativo a otros usuarios. Puedes ir a la sala de uno de tus idiomas nativos o puedes realizar videollamadas privadas con tus contactos. <br/> También puedes conseguir tiempo si invitas a tus amigos a Langademy o si nos sigues en Twitter y Facebook  ]]></value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>Si accedes a una sala de Language Roulette y está vacía, puedes ver si existe alguna quedada en el tablón de quedadas. Si no hay ninguna quedada, puedes crear tus propias quedadas. Solo tienes que seleccionar el idioma, la fecha y la hora de tu quedada</value>
+    <value>Si accedes a una sala de chat y está vacía, puedes ver si existe alguna quedada en el tablón de quedadas. Si no hay ninguna quedada, puedes crear tus propias quedadas. Solo tienes que seleccionar el idioma, la fecha y la hora de tu quedada</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Sí. Accede a  Configuración =&gt; Privacidad, y habilita la opción "Permitir solo las solicitudes de contacto de la gente con la que has hablado"</value>
   </data>
   <data name="Answer5" xml:space="preserve">
-    <value>Todas las quedadas tienen lugar en las salas de Language Roulette. Para acceder a una quedada, puedes ir a la aplicación de Language Roulette y seleccionar la sala de la quedada. También puedes entrar en el tablón de quedadas, seleccionar la quedada y acceder directamente a la sala cuando se acerque la hora de la quedada</value>
+    <value>Todas las quedadas tienen lugar en las salas de chat. Para acceder a una quedada, puedes ir al panel derecho y seleccionar la sala de la quedada. También puedes entrar en el tablón de quedadas, seleccionar la quedada y acceder directamente a la sala cuando se acerque la hora de la quedada</value>
   </data>
   <data name="Answer6" xml:space="preserve">
     <value>No, y no tienes que instalar ningún complemento adicional para hacer videollamadas en Langademy</value>
@@ -156,13 +156,13 @@
     <value>No tienes que pagar nada para usar Langademy. Usamos una política de banco de tiempo. El tiempo que utilices para hablar en tus idiomas nativos será añadido a tu cuenta para que lo utilices para aprender los idiomas que quieras.</value>
   </data>
   <data name="Answer8" xml:space="preserve">
-    <value>Cuando estés en una conversación dentro de una sala Language Roulette, tienes la opción de mandar una solicitud de conexión a tu compañero. Una vez que estéis conectados, podréis enviaros mensajes privados y realizar videollamadas privadas entre vosotros</value>
+    <value>Cuando estés dentro de una sala, tienes la opción de mandar una solicitud de conexión a tus compañeros, y recuerda que puedes consultar tu histórico de llamadas en tu app de Banco del Tiempo. Una vez que estéis conectados, podréis enviaros mensajes privados y realizar videollamadas privadas entre vosotros</value>
   </data>
   <data name="Answer9" xml:space="preserve">
     <value>Langademy ofrece salas de casi todos los idiomas del mundo. No dudes en contactarnos si echas de menos algún idioma</value>
   </data>
   <data name="Question1" xml:space="preserve">
-    <value>¿Por qué solo se muestran algunas salas en la lista de salas del Language Roulette?</value>
+    <value>¿Por qué puedo acceder solo a algunas salas de idiomas?</value>
   </data>
   <data name="Question2" xml:space="preserve">
     <value>¿Cómo puedo conseguir más tiempo para mi cuenta?</value>
@@ -183,7 +183,7 @@
     <value>¿Tengo que pagar para utilizar Langademy?</value>
   </data>
   <data name="Question8" xml:space="preserve">
-    <value>¿Cómo puedo mantener el contacto con la gente que he hablado en el Language Roulette?</value>
+    <value>¿Cómo puedo mantener el contacto con la gente que he hablado en las salas de chat?</value>
   </data>
   <data name="Question9" xml:space="preserve">
     <value>¿Qué idiomas puedo practicar en Langademy?</value>

@@ -178,8 +178,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langademy ofrece una manera única de conocer hablantes nativos y de intercambiar idiomas por videoconferencia: el Language Roulette. No tienes que preocuparte de nada, tan solo tienes que elegir el idioma que quieres practicar, y nosotros te encontraremos un compañero que se ajuste a tus necesidades.<br/>
-¿Y si no hay nadie disponible cuando lo necesites? No te preocupes, puedes organizar quedadas para que el resto de usuarios sepan cuando estarás disponible, o puedes apuntarte a las quedadas que hayan organizado otros usuarios en el Tablón de quedadas.]]></value>
+    <value><![CDATA[Langademy ofrece salas de prácticamente todos los idiomas del mundo. En estas salas conocerás gente con la que podrás intercambiar idiomas, tanto por videollamadas como por chat.  Y si no te apetece estar conectado al chat, no tienes que preocuparte: activa el buscador automático de compañeros y Langademy te encontrará un compañero de conversación que se ajuste a tus necesidades de manera automática.<br/>
+¿Y si no hay nadie disponible cuando lo necesites? Puedes organizar quedadas para que el resto de usuarios sepan cuando estarás disponible, o puedes apuntarte a las quedadas que hayan organizado otros usuarios en el Tablón de quedadas.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
     <value>Langademy es una comunidad online de intercambio de idiomas donde puedes practicar idiomas con nativos de todo el mundo. Escuchar a nativos en un contexto natural te ayudará a mejorar tu compresión e interiorizarás los sonidos únicos que tiene cada idioma. Asimismo, mejorarás tu fluidez al hablar. Aprenderás nuevas palabras, frases, y los hablantes nativos podrán corregirte mientras conversáis.</value>

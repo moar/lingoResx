@@ -135,20 +135,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Answer1" xml:space="preserve">
-    <value>Language Rouletteko gela zerrendan zure profilean gehituta dituzun hizkuntzen gelak soilik daude eskuragarri. Hizkuntza berriak ikasi nahi badituzu edo beste hizkuntza batzuetako geletara sartu nahi baduzu, gehitu itzazu hizkuntza horiek zure profilean.</value>
+    <value>Gelen zerrendan zure profilean gehituta dituzun hizkuntzen gelak soilik daude eskuragarri. Hizkuntza berriak ikasi nahi badituzu edo beste hizkuntza batzuetako geletara sartu nahi baduzu, gehitu itzazu hizkuntza horiek zure profilean.</value>
   </data>
   <data name="Answer2" xml:space="preserve">
-    <value><![CDATA[Zure konturako denbora gehigarria lortzeko modu nagusia, Langademyko kideekin zuk menperatzen dituzun hizkuntzetan mintzatzea da. Hizkuntza hauetako Language Rouletteko geletara joan zaitezke, edo zure Langademyko  konexioekin bideo-dei pribatuak egin ditzakezu.<br/>
+    <value><![CDATA[Zure konturako denbora gehigarria lortzeko modu nagusia, Langademyko kideekin zuk menperatzen dituzun hizkuntzetan mintzatzea da. Hizkuntza hauetako txat geletara joan zaitezke, edo zure Langademyko  konexioekin bideo-dei pribatuak egin ditzakezu.<br/>
 Zure lagunak Langademyra gonbidatuz edo Twitterren eta Facebooken gure jarraitzaile eginez ere zure konturako denbora irabaziko duzu]]></value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>Language Rouletteko gela batera sartzen bazara eta bertan inor ez badago, bilera taulan bileraren bat programatuta dagoen ikus dezakezu. Bilerarik ez badago, bileraren bat antolatu dezakezu. Bileraren hizkuntza, data eta ordua soilik aukeratu behar dituzu.</value>
+    <value>Txat gela batera sartzen bazara eta bertan inor ez badago, bilera taulan bileraren bat programatuta dagoen ikus dezakezu. Bilerarik ez badago, bileraren bat antolatu dezakezu. Bileraren hizkuntza, data eta ordua soilik aukeratu behar dituzu.</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Bai. Joan Ezarpenak =&gt; Pribazitatea-ra, eta "Ezagutzen duzun jendearen kontaktu eskaerak soilik onartu" aukera gaitu ezazu.</value>
   </data>
   <data name="Answer5" xml:space="preserve">
-    <value>Bilera guztiak Language Rouletteko geletan egiten dira. Bilera batera joateko, Language Roulettean bileraren gelara sar zaitezke, edo bestela, bilera taulan bilera aukeratu, eta zuzenean Language Rouletteko gelara sar zaitezke</value>
+    <value>Bilera guztiak hizkuntza espezifiko bateko txat geletan egiten dira. Bilera batera joateko, zure eskuineko panelera joan eta aukeratu ezazu zein gelatara sartzea nahi duzu. Bestela, bilera taulan bilera aukeratu, eta zuzenean txat gelara sar zaitezke</value>
   </data>
   <data name="Answer6" xml:space="preserve">
     <value>Ez, eta ez duzu ezer instalatu behar Langademyn bideo deiak egiteko</value>
@@ -157,13 +157,13 @@ Zure lagunak Langademyra gonbidatuz edo Twitterren eta Facebooken gure jarraitza
     <value>Langademy erabiltzeko ez duzu ezer ordaindu behar. Denbora banku politika bat erabiltzen dugu. Hau da. beste erabiltzaileei zuk menderatzen dituzun hizkuntzetan hitz egiten badiezu, beraiekin hizketan igaro duzun denbora zure kontura gehituko da, zuk nahi dituzun hizkuntzak ikasi ditzazun</value>
   </data>
   <data name="Answer8" xml:space="preserve">
-    <value>Language Rouletteko konbertsazio batean zaudenean, zure solasaldiko lagunari konexio eskaera bat bidali diezaiokezu. Konektatuta zaudetenean, mezu eta bideo-dei pribatuak egin ditzakezue zuen artean</value>
+    <value>Txat gela batean zaudenean, zure solas lagunei konexio eskaera bat bidal diezaiekezu. Gogoratu zure diene historikoa zure debonra bankuarean appean kontsulta dezakezula. Konektatuta zaudetenean, mezu eta bideo-dei pribatuak egin ditzakezue zuen artean</value>
   </data>
   <data name="Answer9" xml:space="preserve">
     <value>Langademyk munduko hizkuntza gehienetako gelak eskaintzen ditu. Hizkuntzaren bat faltan botatzen baduzu, kontakta gaitzazu</value>
   </data>
   <data name="Question1" xml:space="preserve">
-    <value>Zergatik ez daude gela guztiak eskuragarri Language Rouletteko gela zerrendan?</value>
+    <value>Zergatik ez daude gela guztiak eskuragarri eskuin peneleko gela zerrendan?</value>
   </data>
   <data name="Question2" xml:space="preserve">
     <value>Nola irabazi dezaket nire konturako denbora gehiago?</value>
@@ -184,7 +184,7 @@ Zure lagunak Langademyra gonbidatuz edo Twitterren eta Facebooken gure jarraitza
     <value>Langademy erabiltzeko zerbait ordaindu behar al dut?</value>
   </data>
   <data name="Question8" xml:space="preserve">
-    <value>Nola mantendu dezaket harremana Language Roulettean ezagutu dudan jendearekin?</value>
+    <value>Nola mantendu dezaket harremana txat geletan ezagutu dudan jendearekin?</value>
   </data>
   <data name="Question9" xml:space="preserve">
     <value>Zein hizkuntza ikasteko erabil dezaket Langademy?</value>

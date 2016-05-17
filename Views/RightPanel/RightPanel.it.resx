@@ -207,4 +207,10 @@
   <data name="RPSearch" xml:space="preserve">
     <value>Ricerca</value>
   </data>
+  <data name="RPRegForMessages" xml:space="preserve">
+    <value>Accedi per vedere le conversazioni</value>
+  </data>
+  <data name="RPRegForRooms" xml:space="preserve">
+    <value>Accede per vedere le stanze</value>
+  </data>
 </root>

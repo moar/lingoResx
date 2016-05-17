@@ -172,7 +172,7 @@
     <value><![CDATA[Ongi menderatzen duzun <strong>hizkuntza bat irakasten</strong> baduzu, zure konturako denbora irabaziko duzu, eta <strong>beste hizkuntza batzuetan hitz egiten</strong> baduzu, denbora bankuko denbora gastatuko duzu]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value><![CDATA[<strong> Doako 5 ordurekin hasiko zara</strong> nahi duzun hizkuntzetan hitz egin dezazun]]></value>
+    <value><![CDATA[<strong> Doako 2 ordurekin hasiko zara</strong> nahi duzun hizkuntzetan hitz egin dezazun]]></value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
     <value>Langademyn bideo deiak egin ditzakezu zure kontaktuekin praktikatzea nahi duzun hizkuntzan.</value>
@@ -199,13 +199,13 @@
     <value>Langademy egoera</value>
   </data>
   <data name="ChatRoomsIntro" xml:space="preserve">
-    <value>Language Roulettea zure hizkuntza gogokoenak praktika ditzakezun tokia da. Aukeratu gela bat eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Hitz egiteko lagun bat aukeratuko dizugu! Gogoratu bilera taula kontsulta dezakezula Language Rouletteko bilerak noiz izango diren ikusteko.</value>
+    <value>Txat geletan aurki ditzakezu hizkuntza trukerako mintzalagunak. Aukeratu gela bat eskuin panelean eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Gogoratu bilera taula kontsulta dezakezula bilerak noiz izango diren ikusteko.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>Denbora bankua hizkuntza trukea guztiontzat errentagarria izateko modu bat da. Hau da bere funtzionamendua:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>5 ordurekin hasiko zara nahi duzun hizkuntzan hitz egin dezazun</value>
+    <value>2 ordurekin hasiko zara nahi duzun hizkuntzan hitz egin dezazun</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Ezin izango dituzu 10 ordu baino gehiago pilatu zure denbora bankuan </value>

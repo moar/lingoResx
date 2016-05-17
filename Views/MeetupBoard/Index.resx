@@ -121,7 +121,7 @@
     <value>All meetups</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[The meetup hasn't begun yet, but you can go to the Language Roulette and <b>practice {0}</b> when you want]]></value>
+    <value><![CDATA[The meetup hasn't begun yet, but you can go to the chat room and <b>practice {0}</b> when you want]]></value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Attend</value>
@@ -232,10 +232,10 @@
     <value>Enter</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>The meetup has begun! Go to the Language Roulette and start speaking in {0} now</value>
+    <value>The meetup has begun! Go to the chat room and start speaking in {0} now</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value><![CDATA[The meetup is over. But remember that you can go to the Language Roulette and <b>practice {0}</b> when you want]]></value>
+    <value><![CDATA[The meetup is over. But remember that you can go to the chat room and <b>practice {0}</b> when you want]]></value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>You are about to share this meetup on Reddit. We suggest one of the following subreddits:</value>
@@ -289,7 +289,7 @@
     <value>A topic hasn't been proposed yet. Be the first to propose a conversation topic for this meetup!</value>
   </data>
   <data name="MBStartedMeetup" xml:space="preserve">
-    <value>The meetup is started! Enter now the Language Roulette</value>
+    <value>The meetup is started! Enter now the chat room</value>
   </data>
   <data name="ATEnterTopic" xml:space="preserve">
     <value>Enter topic manually</value>

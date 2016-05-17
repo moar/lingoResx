@@ -178,8 +178,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langademyk hiztun natiboak ezagutzeko eta hizkuntza elkartrukerako modu paregabea eskaintzen du bideo konferentziak erabiliz: Language Roulettea. Ez duzu ezertaz arduratu beharrik: praktikatu nahi duzun hizkuntza aukeratu, eta zurekin hitz egiteko bikotekide bat aurkituko dizugu. <br/>
-Eta sartzen zarenean inor ez badago? Lasai, bilerak antolatzeko aukera duzu, eta horrela gainontzeko mintzalagunek beraiekin solasaldi bat izateko libre noiz egongo zaren jakingo dute. Gainera, besteek sortutako bilerak kontsultatu ditzakezu bilera taulan.]]></value>
+    <value><![CDATA[Langademyk munduko edozein hizkuntzatako chat gelak ditu. Gela ahuetan hiztun natiboak ezagutu eta hizkuntza elkartrukerrako jende berria ezagutuko duzu hauekin bideo konferentziak egin ditzazun. Ez baduzu txat geletara sartu nahi, ez arduratu: gaitu ezazu mintzalagun bilatzaile automatikoa eta zurekin hitz egiteko bikotekide bat aurkituko dizugu. <br/>
+Eta gela batera sartzen zarenean inor ez badago? Lasai, bilerak antolatzeko aukera duzu, eta horrela gainontzeko mintzalagunek beraiekin solasaldi bat izateko libre noiz egongo zaren jakingo dute. Gainera, ez ahaztu besteek sortutako bilerak kontsultatu ditzakezula bilera taulan.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
     <value>Langademy hizkuntza elkartrukerako sareko komunitate bat da, eta bertan mundu osoko natiboekin hizkuntza atzerritarrak praktikatu ahal izango dituzu. Hiztun natiboak kontextu natural batean entzuteak zure entzumena hobetzen lagunduko dizu eta baita hizkuntza bakoitzeko doinu bakarrak ikasten ere. Era berean, zure ahozko gaitasuna ere hobetuko duzu. Hitz berriak eta hizkuntzetako jatorrizko esaldiak ikasiko dituzu, hitz egiten duzun bitartean hiztun natiboa zu zuzentzeko prest izango duzularik.</value>
@@ -191,7 +191,7 @@ Eta sartzen zarenean inor ez badago? Lasai, bilerak antolatzeko aukera duzu, eta
     <value>Denbora Bankua</value>
   </data>
   <data name="AboutTimeBankText" xml:space="preserve">
-    <value>Denbora bankua hizkuntza elkartrukea denontzako errentagarria izateko modu bat da. Zure ama hizkuntza beste erabiltzaile batzurekin partekatzen baduzu, beste hizkuntza batzuk praktika ditzazun denbora emango dizugu. Eta zure ama hizkuntza ez den hizkuntza batean aritzen bazara, zure denbora bankuko denbora gastatuko duzu. 5 ordurekin hasiko zara, zuk nahi duzun hizkuntzan berba egin dezazun</value>
+    <value>Denbora bankua hizkuntza elkartrukea denontzako errentagarria izateko modu bat da. Zure ama hizkuntza beste erabiltzaile batzurekin partekatzen baduzu, beste hizkuntza batzuk praktika ditzazun denbora emango dizugu. Eta zure ama hizkuntza ez den hizkuntza batean aritzen bazara, zure denbora bankuko denbora gastatuko duzu. 2 ordurekin hasiko zara, zuk nahi duzun hizkuntzan berba egin dezazun</value>
   </data>
   <data name="AboutTitle1" xml:space="preserve">
     <value>Ikasi hizkuntzak eta zure maila hobetu Langademyn</value>

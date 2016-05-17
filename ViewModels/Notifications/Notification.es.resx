@@ -180,7 +180,7 @@
     <value>Quedada cancelada</value>
   </data>
   <data name="MeetupInvitation" xml:space="preserve">
-    <value>{0} te ha invitado a una quedada de Language Roulette</value>
+    <value>{0} te ha invitado a una quedada</value>
   </data>
   <data name="NewMissedCall" xml:space="preserve">
     <value>Llamada perdida</value>

@@ -121,7 +121,7 @@
     <value>Bilera guztiak</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[Oraindik ez da bilera hasi, baina nahi duzunean sar zaitezke Language Roulettera <b>{0} praktikatzeko</b>]]></value>
+    <value><![CDATA[Oraindik ez da bilera hasi, baina nahi duzunean sar zaitezke txat gelara <b>{0} praktikatzeko</b>]]></value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Joango naiz</value>
@@ -232,10 +232,10 @@
     <value>Sartu</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>Bilera hasi da dagoeneko! Sar zaitez Language Roulettera eta hasi zaitez {0} praktikatzen</value>
+    <value>Bilera hasi da dagoeneko! Sar zaitez txat geara eta hasi zaitez {0} praktikatzen</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value><![CDATA[Bilera bukatu da dagoeneko. Baina gogora ezazu Language Roulettera nahi duzunean sar zaitezkeela <b>{0} praktikatzeko</b>]]></value>
+    <value><![CDATA[Bilera bukatu da dagoeneko. Baina gogora ezazu  nahi duzunean sar zaitezkeela txat geletara <b>{0} praktikatzeko</b>]]></value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>Bilera hau Redditen elkarbanatu behar duzu. Ondorengo subredditak iradokitzen dizkizugu:</value>
@@ -289,7 +289,7 @@
     <value>Oraindik ez da bilera honetarako mintzagairik proposatu. Izan zaitez lehenengoa!</value>
   </data>
   <data name="MBStartedMeetup" xml:space="preserve">
-    <value>Bilera hau hasi da dagoeneko! Sartu zaitez Language Roulettera orain!</value>
+    <value>Bilera hau hasi da dagoeneko! Sartu zaitez txat gelan orain!</value>
   </data>
   <data name="ATEnterTopic" xml:space="preserve">
     <value>Idatz ezazu nahi duzun gai bati buruz</value>

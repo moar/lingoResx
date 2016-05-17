@@ -180,7 +180,7 @@
     <value>Bilera bertan behera utzia</value>
   </data>
   <data name="MeetupInvitation" xml:space="preserve">
-    <value>{0}(e)k  Language Rouletteko bilera batera gonbidatu zaitu</value>
+    <value>{0}(e)k bilera batera gonbidatu zaitu</value>
   </data>
   <data name="NewMissedCall" xml:space="preserve">
     <value>Dei galdua</value>

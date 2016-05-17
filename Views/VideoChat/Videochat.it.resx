@@ -126,6 +126,18 @@
   <data name="CallReport" xml:space="preserve">
     <value>Rapporto da chiamate</value>
   </data>
+  <data name="CallSuggestMes" xml:space="preserve">
+    <value>Abbiamo trovato un utente che è disponibile a parlare con te in questo momento</value>
+  </data>
+  <data name="CallSuggestNeg" xml:space="preserve">
+    <value>Ricorda, se parli con un utente nativo questa chiamata avrà un costo per la tua banca tempo</value>
+  </data>
+  <data name="CallSuggestNot" xml:space="preserve">
+    <value>Questa chiamata non influisce sulla banca del tempo</value>
+  </data>
+  <data name="CallSuggestPos" xml:space="preserve">
+    <value>Ricorda: se parli nella tua lingua madre con un utente che sta imparando la tua lingua, riceverai tempo nella tua banca del tempo</value>
+  </data>
   <data name="CannotConnect" xml:space="preserve">
     <value>Non è possibile stabilire la chiamata tra {0} e te, a causa del livello di sicurezza delle reti dove vi trovate</value>
   </data>
@@ -147,6 +159,9 @@
   <data name="NoAnswer" xml:space="preserve">
     <value>{0} non risponde</value>
   </data>
+  <data name="PartnerMatchFound" xml:space="preserve">
+    <value>Compagno trovato per la conversazione</value>
+  </data>
   <data name="PrevTime" xml:space="preserve">
     <value>Saldo di ore precedente</value>
   </data>
@@ -162,6 +177,12 @@
   <data name="ReportTimeAccount" xml:space="preserve">
     <value>Tempo nell tuo account</value>
   </data>
+  <data name="SugCall" xml:space="preserve">
+    <value>Chiamare</value>
+  </data>
+  <data name="SugNotNow" xml:space="preserve">
+    <value>Ora no</value>
+  </data>
   <data name="TimeBanking" xml:space="preserve">
     <value>Banca del Tempo</value>
   </data>
@@ -173,6 +194,21 @@
   </data>
   <data name="VCDuration" xml:space="preserve">
     <value>Durata</value>
+  </data>
+  <data name="VCNoMoreMatches" xml:space="preserve">
+    <value>Non mostrare più abbinamenti</value>
+  </data>
+  <data name="VCOk" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="VCReturnHome" xml:space="preserve">
+    <value>Ritornare all'inizio</value>
+  </data>
+  <data name="VCTip" xml:space="preserve">
+    <value>Pista</value>
+  </data>
+  <data name="VCTipContent" xml:space="preserve">
+    <value>Puoi abilitare / disattivare la ricerca automatica dei partner nel proprio pannello in qualsiasi momento</value>
   </data>
   <data name="VidWannaChat" xml:space="preserve">
     <value>{0} vuole chattare con te!</value>

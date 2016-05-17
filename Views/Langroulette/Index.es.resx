@@ -191,7 +191,7 @@
     <value>No puedes llamar a este usuario</value>
   </data>
   <data name="NoCallsWhileInRoom" xml:space="preserve">
-    <value>No puedes realizar llamadas privadas mientras estás en una sala </value>
+    <value>No puedes hacer llamadas privadas mientras estás en una sala </value>
   </data>
   <data name="LRNext" xml:space="preserve">
     <value>Siguiente</value>

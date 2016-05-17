@@ -200,7 +200,7 @@
     <value>Langademy state</value>
   </data>
   <data name="ChatRoomsIntro" xml:space="preserve">
-    <value>The chat rooms are the place where you can go to exchange languages with a native. Select a room in your right panel and start practicing your favourite language! Remember that you can check the meetup board to know when the Language Roulette meetups take place.</value>
+    <value>The chat rooms are the place where you can go to exchange languages with a native. Select a room in your right panel and start practicing your favourite language! Remember that you can check the meetup board to know when the chat room meetups take place.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>The Time Bank is a way to make language exchange fair for everyone at Langademy. This is how it works:</value>
