@@ -764,6 +764,7 @@
     <EmbeddedResource Include="Views\VideoChat\Videochat.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Videochat.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.ca.resx" />
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.de.resx" />

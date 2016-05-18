@@ -106,6 +106,24 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to DO YOU WANT TO ACTIVATE IT?.
+        /// </summary>
+        public static string AutoMatchActivateQuestion {
+            get {
+                return ResourceManager.GetString("AutoMatchActivateQuestion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Automatic partner finder will find you online users that match your filter automatically so you can make videocalls with them..
+        /// </summary>
+        public static string AutomatchExplananion {
+            get {
+                return ResourceManager.GetString("AutomatchExplananion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to About .
         /// </summary>
         public static string DeskAbout {
@@ -196,7 +214,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to My Language Roulette Meetups.
+        ///   Looks up a localized string similar to My meetups.
         /// </summary>
         public static string DeskMymeetings {
             get {
