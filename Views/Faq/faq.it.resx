@@ -141,13 +141,13 @@
     <value><![CDATA[Puoi andare nella stanza di una delle tue lingue madre oppure è possibile effettuare chiamate video private con i tuoi contatti. <br/> può anche ottenere il tempo se inviti i tuoi amici a Langademy o se ci seguono su Twitter e Facebook]]></value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>Se si va in una stanza nel chat room e non c'e nessuno, puoi andare sulla tabella di appuntamenti. Se non c'e nessun appuntantamento creato è possibile creare uno di nuovo, devi selezionare la lingua,l'ora e il giorno dell'appuntamento</value>
+    <value>Se si va in una stanza nella chat room e non c'e nessuno, puoi andare sulla tabella di appuntamenti. Se non c'e nessun appuntantamento creato è possibile creare uno di nuovo, devi selezionare la lingua,l'ora e il giorno dell'appuntamento.</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Sì. Vai a Impostazioni =&gt; Privacy, e attivare l'opzione "Consenti solo le richieste di contatto da parte di persone  con cui hai parlato"</value>
   </data>
   <data name="Answer5" xml:space="preserve">
-    <value>Tutti gli appuntamenti si svolgono nel chat room. Puoi andare nella tabella di appuntamenti e selezionare l'appuntamento e accedere direttamente nella chat quando sarà il momento.
+    <value>Tutti gli appuntamenti si svolgono nelle chat rooms. Puoi andare nella tabella di appuntamenti e selezionare l'appuntamento e accedere direttamente nella chat quando sarà il momento.
 </value>
   </data>
   <data name="Answer6" xml:space="preserve">
@@ -163,7 +163,7 @@
     <value>Langacademy dispone di sale in quasi tutte le lingue del mondo. Ti preghiamo di contattarci se senti che manca qualsiasi lingua</value>
   </data>
   <data name="Question1" xml:space="preserve">
-    <value>Perché solo si mostrano alcune camere nella lista delle sale chat?</value>
+    <value>Perché solo si mostrano alcune stanze nella lista delle chat rooms?</value>
   </data>
   <data name="Question2" xml:space="preserve">
     <value>Come posso guadagnare più tempo per il mio account?</value>

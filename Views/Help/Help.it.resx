@@ -124,10 +124,10 @@
     <value>Langademy in 3 passi</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Entra nel chat room, seleziona una la lingua e inizia a praticare utilizzando le videochiamate.</value>
+    <value>Vai alla lista delle chat rooms, seleziona una stanza della lingua e inizia a praticare utilizzando la tecnologia video chiamata.</value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
-    <value>Il modo più semplice per coincidere con più persone nel chat room è quello di organizzare appuntamenti nella Tabella di appuntamenti o unirsi a quelli che già sono stati creati.  </value>
+    <value>Il modo più semplice per coincidere con più persone nelle chat rooms è quello di organizzare appuntamenti nella Tabella di appuntamenti o unirsi a quelli che già sono stati creati.  </value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
     <value><![CDATA[ <strong>Banca del Tempo:</strong>]]></value>
@@ -185,5 +185,8 @@
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Banca del Tempo</value>
+  </data>
+  <data name="HelpChatRoom" xml:space="preserve">
+    <value>Chat Rooms</value>
   </data>
 </root>

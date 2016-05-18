@@ -249,4 +249,10 @@
   <data name="DeskUsers" xml:space="preserve">
     <value>usuaris</value>
   </data>
+  <data name="AutoMatchActivateQuestion" xml:space="preserve">
+    <value>VOLS ACTIVAR-HO?</value>
+  </data>
+  <data name="AutomatchExplananion" xml:space="preserve">
+    <value>El cercador de companys de conversa automàtic et buscarà companys que estan en línia i que compleixen el teu filtre de manera automàtica perquè puguis fer videotrucades amb ells.</value>
+  </data>
 </root>

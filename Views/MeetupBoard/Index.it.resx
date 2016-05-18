@@ -121,7 +121,7 @@
     <value>Tutti gli Appuntamenti</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[L'appuntamento non è ancora iniziato, ma puoi andare nel chat room e <b>praticare {0}</b> quando vuoi
+    <value><![CDATA[L'appuntamento non è ancora iniziato, ma puoi andare nella chat room e <b>praticare {0}</b> quando vuoi
 ]]></value>
   </data>
   <data name="Attend" xml:space="preserve">
@@ -233,10 +233,10 @@
     <value>Entrare</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>L'appuntamento è iniziato! Vai nel chat room e comincia a parlare in {0}</value>
+    <value>L'appuntamento è iniziato! Vai nella chat room e comincia a parlare in {0}</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value>L'appuntamento è finito. Ma ricorda che puoi andare nel chat room e praticare {0} quando vuoi</value>
+    <value>L'appuntamento è finito. Ma ricorda che puoi andare nella chat room e praticare {0} quando vuoi</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>Stai per condividere questo appuntamento su Reddit. Ti consigliamo i seguenti subreddits:</value>
@@ -290,7 +290,7 @@
     <value>Non c'è ancora nessun argomento di conversazione. Puoi essere il primo a proporre un argomento per l'appuntamento!</value>
   </data>
   <data name="MBStartedMeetup" xml:space="preserve">
-    <value>L'appuntamento è iniziato! Entra nel chat room</value>
+    <value>L'appuntamento è iniziato! Entra nella chat room</value>
   </data>
   <data name="ATEnterTopic" xml:space="preserve">
     <value>Scrive su un argomento</value>

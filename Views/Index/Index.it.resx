@@ -190,7 +190,7 @@
     <value>Il modo più semplice per incontrare un nuovo partner</value>
   </data>
   <data name="IndexLR2" xml:space="preserve">
-    <value>Collega la webcam e il microfono ed entra nella stanza della lingua che vuoi praticare</value>
+    <value>Collega la webcam e il microfono ed entra nella chat room della lingua che vuoi praticare</value>
   </data>
   <data name="IndexLR3" xml:space="preserve">
     <value>Puoi chattare o effettuare chiamate video con gli madre lingua che troverai sul chat</value>
@@ -226,7 +226,7 @@
     <value>Invia una richiesta di contatto</value>
   </data>
   <data name="IndexPartners4" xml:space="preserve">
-    <value>Quando lui accetta la tua richiesta, sarete in grado di effettuare video conferenze senza entrare nel chat room</value>
+    <value>Quando lui accetta la tua richiesta, sarete in grado di effettuare video conferenze senza entrare nelle chat rooms</value>
   </data>
   <data name="IndexQuestion1" xml:space="preserve">
     <value>Che lingue parli? Qual è il tuo livello?</value>
@@ -248,6 +248,9 @@
   </data>
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
     <value>Registrati e inizia a imparare lingue</value>
+  </data>
+  <data name="TryChatRooms" xml:space="preserve">
+    <value>Prova lo scambio di lingue nelle chat room</value>
   </data>
   <data name="IndexLanguageExchange1" xml:space="preserve">
     <value>Scambio di lingue</value>
