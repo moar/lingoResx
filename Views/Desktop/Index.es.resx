@@ -249,4 +249,10 @@
   <data name="DeskUsers" xml:space="preserve">
     <value>usuarios</value>
   </data>
+  <data name="AutoMatchActivateQuestion" xml:space="preserve">
+    <value>¿QUIERES ACTIVARLO?</value>
+  </data>
+  <data name="AutomatchExplananion" xml:space="preserve">
+    <value>El buscador de compañeros de conversación automático te buscará compañeros que están online y que cumplen tu filtro de manera automática para que puedas hacer videollamadas con ellos.</value>
+  </data>
 </root>

@@ -249,4 +249,10 @@
   <data name="DeskUsers" xml:space="preserve">
     <value>erabiltzaileak</value>
   </data>
+  <data name="AutoMatchActivateQuestion" xml:space="preserve">
+    <value>AKTIBATZEA NAHI AL DUZU?</value>
+  </data>
+  <data name="AutomatchExplananion" xml:space="preserve">
+    <value>Mintzalagun bilatzaile automatikoak eskuragarri dauden eta zure iragazkia betetzen duten erabiltzaileak aurkituko dizkizu automatikoki beraiekin bideodeiak egin ditzazun</value>
+  </data>
 </root>

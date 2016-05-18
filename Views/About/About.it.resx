@@ -178,7 +178,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langacademy offre un modo unico di incontrare madrelingua e di scambiare lingue per videoconferenze: il Language Roulette. Non devi preoccuparti per niente, devi solo scegliere la lingua che desideri praticare, e noi troveremo un partner che si adatta alle tue esigenze.<br/>
+    <value><![CDATA[Langacademy offre un modo unico di incontrare madrelingua e di scambiare lingue per videoconferenze. Non devi preoccuparti per niente, devi solo scegliere la lingua che desideri praticare, e noi troveremo un partner che si adatta alle tue esigenze.<br/>
 Che cosa succede se nessuno è disponibile quando ne avete bisogno? Non ti preoccupi, è possibile creare appuntamenti per gli altri utenti,che è un modo di fare sapere quando sarete disponibili, oppure è possibile vedere gli appuntamenti che sono stati creati da altri utenti nella Tabella di Appuntamenti.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">

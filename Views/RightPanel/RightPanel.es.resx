@@ -136,7 +136,7 @@
     <value>Mensajes</value>
   </data>
   <data name="NoContacts" xml:space="preserve">
-    <value>No tienes ningún contacto. Entra en el {0}  y conoce a gente nueva!</value>
+    <value>No tienes ningún contacto. Entra a las salas de chat y conoce a gente nueva!</value>
   </data>
   <data name="NoMessages" xml:space="preserve">
     <value>No tienes ningún mensaje</value>

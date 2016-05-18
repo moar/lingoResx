@@ -178,7 +178,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langacademy ofereix una manera única de conèixer parlants natius i de crear tàndems usant el Language Roulette, una eina web per realitzar videoconferències. No t'has de preocupar de res, tan sols has de triar l'idioma que vols practicar, i nosaltres et trobarem un company que s'ajusti a les teves necessitats. <br/>
+    <value><![CDATA[Langacademy ofereix una manera única de conèixer parlants natius i de crear tàndems, una eina web per realitzar videoconferències. No t'has de preocupar de res, tan sols has de triar l'idioma que vols practicar, i nosaltres et trobarem un company que s'ajusti a les teves necessitats. <br/>
 I si no hi ha ningú disponible quan ho necessitis? No et preocupis, pots crear quedades perquè la resta d'usuaris sàpiguen quan estaràs disponible, o pots veure les quedades que han estat ja creades per altres usuaris en el Tauler de quedades.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">

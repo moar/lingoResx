@@ -136,7 +136,7 @@
     <value>Mezuak</value>
   </data>
   <data name="NoContacts" xml:space="preserve">
-    <value>Ez duzu kontakturik oraindik. Jo {0}ra eta lagun berriak ezagutu itzatzu!</value>
+    <value>Ez duzu kontakturik oraindik. Jo txat geletara eta lagun berriak ezagutu itzatzu!</value>
   </data>
   <data name="NoMessages" xml:space="preserve">
     <value>Ez daukazu mezurik</value>

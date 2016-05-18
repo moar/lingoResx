@@ -124,10 +124,10 @@
     <value>Langademy in 3 passi</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Vai a Language Roulette, seleziona una la lingua e inizia a praticare utilizzando le videochiamate.</value>
+    <value>Entra nel chat room, seleziona una la lingua e inizia a praticare utilizzando le videochiamate.</value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
-    <value>Il modo più semplice per coincidere con più persone nel Language Roulette è quello di organizzare appuntamenti nella Tabella di appuntamenti o unirsi a quelli che già sono stati creati.  </value>
+    <value>Il modo più semplice per coincidere con più persone nel chat room è quello di organizzare appuntamenti nella Tabella di appuntamenti o unirsi a quelli che già sono stati creati.  </value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
     <value><![CDATA[ <strong>Banca del Tempo:</strong>]]></value>
@@ -136,7 +136,7 @@
     <value><![CDATA[Si <strong> insegni la tua lingua madre</strong> guadagnerai tempo al tuo account, e invece si <strong>  pratichi altre lingue</strong> spenderai tempo dal tuo account.]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value><![CDATA[Inizierai con<strong>5 ore gratis</strong>, per iniziare a parlare la lingua che desideri.]]></value>
+    <value><![CDATA[Inizierai con<strong>2 ore gratis</strong>, per iniziare a parlare la lingua che desideri.]]></value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
     <value>In Langademy puoi effettuare videochiamate con i tuoi contatti e avere il controllo della lingua che vuoi praticare.</value>
@@ -163,13 +163,13 @@
     <value>Stato Langademy</value>
   </data>
   <data name="ChatRoomsIntro" xml:space="preserve">
-    <value>Entra nel Language Roulette, seleziona una stanza e inizia a parlare la tua lingua preferita!  Ci occupiamo noi di cercarte una coppia!Ricorda che puoi controllare la tabella di appuntamenti per sapere quando saranno i prossimi appuntamenti nel Language Roulette.</value>
+    <value>Entra nel chat room, seleziona una stanza e inizia a parlare la tua lingua preferita!  Ci occupiamo noi di cercarte una coppia!Ricorda che puoi controllare la tabella di appuntamenti per sapere quando saranno i prossimi appuntamenti.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value> La Banca del Tempo è il sistema per fare più proficuo per tutti lo scambio linguistico. Ecco come funziona:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Inizierai con 5 ore in modo da poter parlare la lingua che si desidera.</value>
+    <value>Inizierai con 2 ore in modo da poter parlare la lingua che si desidera.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Per impostazione predefinita, non sarà possibile accumulare più di 10 ore nella tua banca del tempo.</value>

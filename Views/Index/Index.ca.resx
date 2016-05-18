@@ -181,7 +181,7 @@
     <value>Practica l'idioma que vulguis, quan tu vulguis</value>
   </data>
   <data name="IndLangroulette" xml:space="preserve">
-    <value>Aprèn anglès, alemany, francès o qualsevol altre idioma online amb Langademy. Al Language Roulette coneixeràs natius per mantenir converses en els teus idiomes preferits</value>
+    <value>Aprèn anglès, alemany, francès o qualsevol altre idioma online amb Langademy. En les sales de xat de Langademy coneixeràs natius per mantenir converses en els teus idiomes preferits</value>
   </data>
   <data name="SpeakNative" xml:space="preserve">
     <value>Parla el teu idioma natiu amb els demés i et regalarem el temps que els has dedicat per a practicar altres idiomes</value>
@@ -193,13 +193,13 @@
     <value>Connecta la teva webcam i el teu micròfon i entra a la sala de l'idioma que vols practicar</value>
   </data>
   <data name="IndexLR3" xml:space="preserve">
-    <value>Nosaltres t'aparellem amb un company que estigui lliure i compleixi teu filtre</value>
+    <value>Podràs xatejar o fer videotrucades amb els natius que es troben a les sales</value>
   </data>
   <data name="IndexLR4" xml:space="preserve">
     <value>Sigues simpàtic;-)</value>
   </data>
   <data name="IndexLR5" xml:space="preserve">
-    <value>I quan vulguis parlar amb algú més, clica següent i et tornem a aparellar</value>
+    <value>I si ho desitges, activa el cercador automàtic de companys: Langademy s'ocuparà de emparellar-te automàticament amb un company que estigui lliure i compleixi teu filtre</value>
   </data>
   <data name="IndexMeetingBoard1" xml:space="preserve">
     <value>Organitza intercanvis d'idiomes al Tauler de Quedades de Langademy</value>
@@ -208,13 +208,13 @@
     <value>Tots a una!</value>
   </data>
   <data name="IndexMeetingBoard3" xml:space="preserve">
-    <value>Quan vols mantenir una conversa amb natius o en el teu propi idioma? Contribueix amb la comunitat d'intercanvi d'idiomes organitzant quedades els dies i hores que et vingui de gust entrar al Language Roulette. Però fes-ho amb temps per a que més gent tingui temps d'apuntar-s'hi</value>
+    <value>Quan vols mantenir una conversa amb natius o en el teu propi idioma? Contribueix amb la comunitat d'intercanvi d'idiomes organitzant quedades els dies i hores que et vingui de gust. Però fes-ho amb temps per a que més gent tingui temps d'apuntar-s'hi</value>
   </data>
   <data name="IndexMeetingBoard4" xml:space="preserve">
-    <value>O si algú ha organitzat ja alguna quedada apunta't. Només has de clicar un botó! Als que estan apuntats els encantarà saber que tu també t'apuntes</value>
+    <value>O si algú ha organitzat ja alguna quedada apunta't. Només has de clicar un botó! A més a més, els que us apunteu a la trobada podeu triar i votar els temes sobre els quals desitgeu parlar en les quedades.</value>
   </data>
   <data name="IndexMeetingBoard5" xml:space="preserve">
-    <value>A més pots compartir el link de la quedada a les xarxes socials perquè s'apunte més gent. Quants més millor :-)</value>
+    <value>Si vols que més gent conegui la trobada, pots compartir el link de la trobada a les xarxes socials. Com més millor :-)</value>
   </data>
   <data name="IndexPartners1" xml:space="preserve">
     <value>He trobat un company que mola!</value>
@@ -226,7 +226,7 @@
     <value>Envia-li una sol·licitud de contacte</value>
   </data>
   <data name="IndexPartners4" xml:space="preserve">
-    <value>Quan l'acceptis podreu xatejar i fer videoconferències directament sense entrar al Language Roulette</value>
+    <value>Quan l'acceptis podreu xatejar i fer videoconferències directament sense haver d'entrar a les sales</value>
   </data>
   <data name="IndexQuestion1" xml:space="preserve">
     <value>Quins idiomes parles? Quin és el teu nivell?</value>
@@ -248,6 +248,9 @@
   </data>
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
     <value>Registra't i comença a aprendre idiomes</value>
+  </data>
+  <data name="TryChatRooms" xml:space="preserve">
+    <value>Prova l'intercanvi d'idiomes a les sales de xat</value>
   </data>
   <data name="IndexLanguageExchange1" xml:space="preserve">
     <value>Intercanvi d'idiomes </value>

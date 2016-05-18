@@ -121,7 +121,7 @@
     <value>Totes les quedades </value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[La quedada no ha començat encara, però pots entrar al Language Roulette y <b>practicar {0}</b> quan vulguis]]></value>
+    <value><![CDATA[La quedada no ha començat encara, però pots accedir a la sala  y <b>practicar {0}</b> quan vulguis]]></value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Assistir</value>
@@ -232,10 +232,10 @@
     <value>Entrar</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>La quedada ha començat! Accedeix al Language Roulette i comença a parlar en {0}</value>
+    <value>La quedada ha començat! Accedeix  la salal i comença a parlar en {0}</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value>La quedada ha finalitzat. Però recorda que pots entrar la Language Roulette i practicar {0} quan vulguis</value>
+    <value>La quedada ha finalitzat. Però pots entrar la sala i practicar {0} quan vulguis</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>Vas a  compartir aquesta quedada en Reddit. Et suggerim els següents subreddits:</value>

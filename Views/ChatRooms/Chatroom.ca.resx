@@ -183,4 +183,7 @@
   <data name="CRWriteTextbox" xml:space="preserve">
     <value>Escriu aquí..</value>
   </data>
+  <data name="CRParticipants" xml:space="preserve">
+    <value>Participants</value>
+  </data>
 </root>

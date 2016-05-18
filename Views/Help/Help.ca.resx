@@ -124,10 +124,10 @@
     <value>Langademy en 3 passos</value>
   </data>
   <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Entra a Language Roulette,selecciona un idioma i comença a practicar per videoconferència. </value>
+    <value>Accedeix a les sales de xat, selecciona un idioma i comença a practicar per videoconferència. </value>
   </data>
   <data name="HelpAssistanteStep1F2" xml:space="preserve">
-    <value>La forma més fàcil de conèixer gent al Language Roulette es organitzar quedades al Tauler de quedades o bé unir-se a aquelles que han estat ja creades</value>
+    <value>La forma més fàcil de conèixer gent a les sales de xat, es organitzar quedades al Tauler de quedades o bé unir-se a aquelles que han estat ja creades</value>
   </data>
   <data name="HelpAssistanteStep2F1" xml:space="preserve">
     <value><![CDATA[ <strong>Banc del Temps:</strong>]]></value>
@@ -137,8 +137,8 @@
 ]]></value>
   </data>
   <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value><![CDATA[Començaràs amb <strong>5 hores gratuïtes </strong> per a que puguis parlar l'idioma que vulguis.
-  ]]></value>
+    <value><![CDATA[Començaràs amb <strong>2 hores gratuïtes </strong> per a que puguis parlar l'idioma que vulguis.
+  ]]></value>
   </data>
   <data name="HelpAssistanteStep3F1" xml:space="preserve">
     <value>En Langademy pots fer videotrucades amb els teus contactes i decidir quin idioma practicar.</value>
@@ -165,14 +165,14 @@
     <value>Estat Langademy</value>
   </data>
   <data name="ChatRoomsIntro" xml:space="preserve">
-    <value>El Language Roulette és l'espai on es reuneix la gent que desitja intercanviar idiomes. Selecciona una sala i comença a practicar el teu idioma favorit! Nosaltres ens encarregarem de emparellar-te! Recorda que pots consultar el tauler de quedades per saber quan tindran lloc les quedades a el Language Roulette.</value>
+    <value>Les sales de xat són l'espai on es troba la gent que vol intercanviar idiomes. Selecciona una sala i comença a practicar el teu idioma favorit! Recorda que pots consultar el tauler d'quedades per saber quan tindran lloc les quedades.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
     <value>El Banc de Temps es un concepte per a que amb l'intercanvi d'idiomes tots surtin guanyant. 
 Aquest es el seu funcionament:  </value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Començaràs amb 5 hores per a que puguis parlar amb l'idioma que vulguis.</value>
+    <value>Començaràs amb 2 hores per a que puguis parlar amb l'idioma que vulguis.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Per defecte, no podràs acumular més de 10 hores al Banc de Temps.</value>
@@ -188,5 +188,8 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Banc de temps</value>
+  </data>
+  <data name="HelpChatRoom" xml:space="preserve">
+    <value>Sales xat</value>
   </data>
 </root>

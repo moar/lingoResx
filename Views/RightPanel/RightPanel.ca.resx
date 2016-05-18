@@ -136,7 +136,7 @@
     <value>Missatges </value>
   </data>
   <data name="NoContacts" xml:space="preserve">
-    <value>No tens cap contacte. Accedeix al {0} i coneix a gent nova </value>
+    <value>No tens cap contacte. Accedeix a les sales de xat i coneix a gent nova!</value>
   </data>
   <data name="NoMessages" xml:space="preserve">
     <value>No tens cap missatge </value>

@@ -180,7 +180,7 @@
     <value>Appuntamento cancellato</value>
   </data>
   <data name="MeetupInvitation" xml:space="preserve">
-    <value>{0} ti ha invitato a un appuntamento a Language Roulette</value>
+    <value>{0} ti ha invitato a un appuntamento</value>
   </data>
   <data name="NewMissedCall" xml:space="preserve">
     <value>Chiamata persa</value>
