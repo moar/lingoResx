@@ -213,4 +213,7 @@
   <data name="RPRegForRooms" xml:space="preserve">
     <value>Accede para ver las salas</value>
   </data>
+  <data name="RPChatRooms" xml:space="preserve">
+    <value>Salas de chat</value>
+  </data>
 </root>

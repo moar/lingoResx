@@ -213,4 +213,7 @@
   <data name="RPRegForRooms" xml:space="preserve">
     <value>Sartu zure gelak ikusteko</value>
   </data>
+  <data name="RPChatRooms" xml:space="preserve">
+    <value>Txat gelak</value>
+  </data>
 </root>
