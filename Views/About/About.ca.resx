@@ -178,11 +178,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langacademy ofereix una manera única de conèixer parlants natius i de crear tàndems, una eina web per realitzar videoconferències. No t'has de preocupar de res, tan sols has de triar l'idioma que vols practicar, i nosaltres et trobarem un company que s'ajusti a les teves necessitats. <br/>
+    <value><![CDATA[Langademy ofereix una manera única de conèixer parlants natius i de crear tàndems, una eina web per realitzar videoconferències. No t'has de preocupar de res, tan sols has de triar l'idioma que vols practicar, i nosaltres et trobarem un company que s'ajusti a les teves necessitats. <br/>
 I si no hi ha ningú disponible quan ho necessitis? No et preocupis, pots crear quedades perquè la resta d'usuaris sàpiguen quan estaràs disponible, o pots veure les quedades que han estat ja creades per altres usuaris en el Tauler de quedades.]]></value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
-    <value>Langacademy és una comunitat online d'intercanvi d'idiomes on pots practicar idiomes amb natius de tot el món. Escoltar natius en un context natural t'ajudarà a millorar la teva compressió e interioritzaràs els sons únics que té cada idioma. Així mateix, milloraràs la teva fluïdesa al parlar. Aprendràs noves paraules, frases, i els parlants natius et podran corregir mentre converseu.</value>
+    <value>Langademy és una comunitat online d'intercanvi d'idiomes on pots practicar idiomes amb natius de tot el món. Escoltar natius en un context natural t'ajudarà a millorar la teva compressió e interioritzaràs els sons únics que té cada idioma. Així mateix, milloraràs la teva fluïdesa al parlar. Aprendràs noves paraules, frases, i els parlants natius et podran corregir mentre converseu.</value>
   </data>
   <data name="AboutMainTitle" xml:space="preserve">
     <value>Sobre Langademy</value>

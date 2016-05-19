@@ -229,7 +229,7 @@
     <value>Limitare richieste di contatto</value>
   </data>
   <data name="DeskStateAutPartnerFind" xml:space="preserve">
-    <value>Buscador automático de compañeros di compagni</value>
+    <value>Finder automatico di compagni</value>
   </data>
   <data name="DeskStateReceiveCalls" xml:space="preserve">
     <value>Effettuare /ricevere chiamate</value>

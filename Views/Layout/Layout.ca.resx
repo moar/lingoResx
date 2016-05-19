@@ -120,7 +120,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescAbout" xml:space="preserve">
-    <value>Langacademy és una comunitat online d'intercanvi d'idiomes on pots practicar idiomes amb natius de tot el món</value>
+    <value>Langademy és una comunitat online d'intercanvi d'idiomes on pots practicar idiomes amb natius de tot el món</value>
   </data>
   <data name="DescFaq" xml:space="preserve">
     <value>En aquesta secció pots trobar les preguntes més freqüents que han fet els usuaris de Langademy: els idiomes que pots aprendre en Langademy, el funcionament del banc de temps i altres preguntes rellevants que ha fet la comunitat de Langademy.</value>
