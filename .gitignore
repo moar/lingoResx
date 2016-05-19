@@ -1819,3 +1819,11 @@ obj/LocalDebug/Resources.Views.ChatRooms.Chatroom.es.resources
 obj/LocalDebug/Resources.Views.ChatRooms.Chatroom.eu.resources
 obj/LocalDebug/Resources.Views.ChatRooms.Chatroom.fr.resources
 obj/LocalDebug/Resources.Views.ChatRooms.Chatroom.it.resources
+obj/Release/Resources.Views.ChatRooms.Chatroom.ca.resources
+obj/Release/Resources.Views.ChatRooms.Chatroom.de.resources
+obj/Release/Resources.Views.ChatRooms.Chatroom.es.resources
+obj/Release/Resources.Views.ChatRooms.Chatroom.eu.resources
+obj/Release/Resources.Views.ChatRooms.Chatroom.fr.resources
+obj/Release/Resources.Views.ChatRooms.Chatroom.it.resources
+obj/Release/Resources.Views.ChatRooms.Chatroom.resources
+obj/Release/TempPE/Views.ChatRooms.Chatroom.Designer.cs.dll

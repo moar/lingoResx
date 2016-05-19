@@ -169,6 +169,15 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Chat Rooms.
+        /// </summary>
+        public static string RPChatRooms {
+            get {
+                return ResourceManager.GetString("RPChatRooms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Contacts.
         /// </summary>
         public static string RPContacts {
