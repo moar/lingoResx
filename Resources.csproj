@@ -757,7 +757,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.ca.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.de.resx" />
-    <EmbeddedResource Include="Views\VideoChat\Videochat.es.resx" />
+    <EmbeddedResource Include="Views\VideoChat\Videochat.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.eu.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.fr.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.it.resx" />

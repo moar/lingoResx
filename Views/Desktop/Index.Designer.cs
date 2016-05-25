@@ -286,6 +286,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Here you can configure if you are available to receive videocalls in your native languages.
+        /// </summary>
+        public static string DeskStateNativeCallsInfo {
+            get {
+                return ResourceManager.GetString("DeskStateNativeCallsInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Make/receive calls.
         /// </summary>
         public static string DeskStateReceiveCalls {
