@@ -97,6 +97,15 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Buy credits.
+        /// </summary>
+        public static string CRBuyCredits {
+            get {
+                return ResourceManager.GetString("CRBuyCredits", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Call.
         /// </summary>
         public static string CRCall {
@@ -133,7 +142,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There&apos;s a meetup schedulet at {0}.
+        ///   Looks up a localized string similar to There&apos;s a meetup scheduled at {0}.
         /// </summary>
         public static string CRMeetupTime {
             get {
@@ -178,7 +187,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There isn&apos;t any meetup scheduled at this time.
+        ///   Looks up a localized string similar to There is no meetup scheduled at this time.
         /// </summary>
         public static string CRNoMeetup {
             get {
@@ -255,6 +264,69 @@ namespace Resources.Views.ChatRooms {
         public static string CRViewProfile {
             get {
                 return ResourceManager.GetString("CRViewProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Writing in this chat room is free but you must have credits in your Wallet ({0}).
+        /// </summary>
+        public static string CRVisitorSentence {
+            get {
+                return ResourceManager.GetString("CRVisitorSentence", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You need to have at least {0} positive vote in {1} conversations. Go to the {1} Time Banking room, make videocalls and gain positive votes!.
+        /// </summary>
+        public static string CRWalletCondition1Content {
+            get {
+                return ResourceManager.GetString("CRWalletCondition1Content", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gain reputation:.
+        /// </summary>
+        public static string CRWalletCondition1Title {
+            get {
+                return ResourceManager.GetString("CRWalletCondition1Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to your Wallet and add your billing details.
+        /// </summary>
+        public static string CRWalletCondition2Content {
+            get {
+                return ResourceManager.GetString("CRWalletCondition2Content", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add your billing details:.
+        /// </summary>
+        public static string CRWalletCondition2Title {
+            get {
+                return ResourceManager.GetString("CRWalletCondition2Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can&apos;t access to this wallet room.
+        /// </summary>
+        public static string CRWalletConditionHeading {
+            get {
+                return ResourceManager.GetString("CRWalletConditionHeading", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In order to access this wallet room you need to:.
+        /// </summary>
+        public static string CRWalletConditions {
+            get {
+                return ResourceManager.GetString("CRWalletConditions", resourceCulture);
             }
         }
         

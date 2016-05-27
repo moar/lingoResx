@@ -1828,3 +1828,7 @@ obj/Release/Resources.Views.ChatRooms.Chatroom.it.resources
 obj/Release/Resources.Views.ChatRooms.Chatroom.resources
 obj/Release/TempPE/Views.ChatRooms.Chatroom.Designer.cs.dll
 obj/Debug/TempPE/Views.ChatRooms.Chatroom.Designer.cs.dll
+obj/LocalDebug/Resources.General.Time.resources
+obj/LocalDebug/Resources.Views.WalletRoom.Room.resources
+obj/LocalDebug/TempPE/General.Time.Designer.cs.dll
+obj/LocalDebug/TempPE/Views.WalletRoom.Room.Designer.cs.dll

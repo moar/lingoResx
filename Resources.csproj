@@ -127,6 +127,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ServerNotifications.resx</DependentUpon>
     </Compile>
+    <Compile Include="General\Time.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Time.resx</DependentUpon>
+    </Compile>
     <Compile Include="Hubs\MessagingHub\MessagingHub.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -318,6 +323,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Profile.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\WalletRoom\Room.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Room.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -387,6 +397,10 @@
     <EmbeddedResource Include="General\ServerNotifications.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ServerNotifications.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\Time.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Time.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.ca.resx" />
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.de.resx" />
@@ -556,6 +570,7 @@
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Chatroom.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Contact\Contact.ca.resx" />
     <EmbeddedResource Include="Views\Contact\Contact.de.resx" />
@@ -777,6 +792,10 @@
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Profile.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\WalletRoom\Room.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Room.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

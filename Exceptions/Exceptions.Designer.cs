@@ -133,7 +133,7 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your post couldn&apos;t be saved.
+        ///   Looks up a localized string similar to The post couldn&apos;t be added.
         /// </summary>
         public static string PostNotAdded {
             get {
@@ -196,7 +196,7 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The are too many topics for this meetup.
+        ///   Looks up a localized string similar to You cannot add more topics.
         /// </summary>
         public static string TooManyTopics {
             get {
@@ -219,6 +219,15 @@ namespace Resources.Exceptions {
         public static string UserNotInAnyRoom {
             get {
                 return ResourceManager.GetString("UserNotInAnyRoom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Value couldn&apos;t be saved.
+        /// </summary>
+        public static string ValueNotSaved {
+            get {
+                return ResourceManager.GetString("ValueNotSaved", resourceCulture);
             }
         }
     }
