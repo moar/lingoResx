@@ -1832,3 +1832,7 @@ obj/LocalDebug/Resources.General.Time.resources
 obj/LocalDebug/Resources.Views.WalletRoom.Room.resources
 obj/LocalDebug/TempPE/General.Time.Designer.cs.dll
 obj/LocalDebug/TempPE/Views.WalletRoom.Room.Designer.cs.dll
+obj/Release/Resources.General.Time.resources
+obj/Release/Resources.Views.WalletRoom.Room.resources
+obj/Release/TempPE/General.Time.Designer.cs.dll
+obj/Release/TempPE/Views.WalletRoom.Room.Designer.cs.dll

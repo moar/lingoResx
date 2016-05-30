@@ -295,7 +295,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to your Wallet and add your billing details.
+        ///   Looks up a localized string similar to Go to your {0} and add your billing details.
         /// </summary>
         public static string CRWalletCondition2Content {
             get {
@@ -327,6 +327,15 @@ namespace Resources.Views.ChatRooms {
         public static string CRWalletConditions {
             get {
                 return ResourceManager.GetString("CRWalletConditions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet.
+        /// </summary>
+        public static string CRWalletConditionWallet {
+            get {
+                return ResourceManager.GetString("CRWalletConditionWallet", resourceCulture);
             }
         }
         

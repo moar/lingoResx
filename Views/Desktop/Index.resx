@@ -258,4 +258,7 @@
   <data name="DeskStateNativeCallsInfo" xml:space="preserve">
     <value>Here you can configure if you are available to receive videocalls in your native languages</value>
   </data>
+  <data name="DeskWalletRequirements" xml:space="preserve">
+    <value>View access requirements</value>
+  </data>
 </root>

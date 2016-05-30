@@ -193,7 +193,7 @@
     <value>Gain reputation:</value>
   </data>
   <data name="CRWalletCondition2Content" xml:space="preserve">
-    <value>Go to your Wallet and add your billing details</value>
+    <value>Go to your {0} and add your billing details</value>
   </data>
   <data name="CRWalletCondition2Title" xml:space="preserve">
     <value>Add your billing details:</value>
@@ -209,5 +209,8 @@
   </data>
   <data name="CRBuyCredits" xml:space="preserve">
     <value>Buy credits</value>
+  </data>
+  <data name="CRWalletConditionWallet" xml:space="preserve">
+    <value>Wallet</value>
   </data>
 </root>

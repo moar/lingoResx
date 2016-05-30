@@ -394,6 +394,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to View access requirements.
+        /// </summary>
+        public static string DeskWalletRequirements {
+            get {
+                return ResourceManager.GetString("DeskWalletRequirements", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Edit Profile.
         /// </summary>
         public static string EditProfileDesk {
