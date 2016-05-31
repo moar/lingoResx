@@ -295,11 +295,11 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Videocall.
+        ///   Looks up a localized string similar to Timebank call.
         /// </summary>
-        public static string RPVideocall {
+        public static string RPTBCall {
             get {
-                return ResourceManager.GetString("RPVideocall", resourceCulture);
+                return ResourceManager.GetString("RPTBCall", resourceCulture);
             }
         }
         
@@ -309,6 +309,15 @@ namespace Resources.Views.RightPanel {
         public static string RPViewProfile {
             get {
                 return ResourceManager.GetString("RPViewProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet call.
+        /// </summary>
+        public static string RPWalletCall {
+            get {
+                return ResourceManager.GetString("RPWalletCall", resourceCulture);
             }
         }
         

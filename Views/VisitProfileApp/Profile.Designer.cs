@@ -349,11 +349,29 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Timebank call.
+        /// </summary>
+        public static string VPTBCall {
+            get {
+                return ResourceManager.GetString("VPTBCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Call.
         /// </summary>
         public static string VPVideoCall {
             get {
                 return ResourceManager.GetString("VPVideoCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet call.
+        /// </summary>
+        public static string VPWalletCall {
+            get {
+                return ResourceManager.GetString("VPWalletCall", resourceCulture);
             }
         }
         
