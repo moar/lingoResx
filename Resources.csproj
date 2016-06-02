@@ -127,11 +127,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ServerNotifications.resx</DependentUpon>
     </Compile>
-    <Compile Include="General\Time.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Time.resx</DependentUpon>
-    </Compile>
     <Compile Include="Hubs\MessagingHub\MessagingHub.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -397,10 +392,6 @@
     <EmbeddedResource Include="General\ServerNotifications.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ServerNotifications.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="General\Time.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Time.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.ca.resx" />
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.de.resx" />

@@ -349,7 +349,7 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Waiting for permission to user your camera....
+        ///   Looks up a localized string similar to Waiting for permission to use your camera....
         /// </summary>
         public static string WaitingTo {
             get {

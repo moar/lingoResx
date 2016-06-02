@@ -214,6 +214,6 @@
     <value>{0} wants to chat with you!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
-    <value>Waiting for permission to user your camera...</value>
+    <value>Waiting for permission to use your camera...</value>
   </data>
 </root>

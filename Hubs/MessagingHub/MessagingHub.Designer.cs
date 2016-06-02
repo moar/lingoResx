@@ -169,6 +169,15 @@ namespace Resources.Hubs.MessagingHub {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You are native, you can&apos;t call other natives.
+        /// </summary>
+        public static string NativesCantCall {
+            get {
+                return ResourceManager.GetString("NativesCantCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You don&apos;t have enough credits to call {0}. Go to your Wallet and {1}.
         /// </summary>
         public static string NoEnoughCredits {

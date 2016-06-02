@@ -165,4 +165,7 @@
   <data name="NoEnoughCredits" xml:space="preserve">
     <value>You don't have enough credits to call {0}. Go to your Wallet and {1}</value>
   </data>
+  <data name="NativesCantCall" xml:space="preserve">
+    <value>You are native, you can't call other natives</value>
+  </data>
 </root>
