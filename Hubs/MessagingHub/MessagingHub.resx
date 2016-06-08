@@ -168,4 +168,7 @@
   <data name="NativesCantCall" xml:space="preserve">
     <value>You are native, you can't call other natives</value>
   </data>
+  <data name="PriceUpdateError" xml:space="preserve">
+    <value>An error ocurred during the call</value>
+  </data>
 </root>

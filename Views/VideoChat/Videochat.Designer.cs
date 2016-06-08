@@ -295,6 +295,24 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have 3 minutes to decide if you want to speak with this native. Once the 3 minutes are past the rate of this call will start to be applied to the call.
+        /// </summary>
+        public static string VCMinTimeCallerInfo {
+            get {
+                return ResourceManager.GetString("VCMinTimeCallerInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your conversation partner has 3 minutes to decide if he wants to have a conversation with you. Once the 3 minutes are past your rate will start to be applied to the call.
+        /// </summary>
+        public static string VCMinTimeNativeInfo {
+            get {
+                return ResourceManager.GetString("VCMinTimeNativeInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Don&apos;t show more matches.
         /// </summary>
         public static string VCNoMoreMatches {
@@ -313,11 +331,29 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Rate.
+        /// </summary>
+        public static string VCRate {
+            get {
+                return ResourceManager.GetString("VCRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Return home.
         /// </summary>
         public static string VCReturnHome {
             get {
                 return ResourceManager.GetString("VCReturnHome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to spent.
+        /// </summary>
+        public static string VCSpent {
+            get {
+                return ResourceManager.GetString("VCSpent", resourceCulture);
             }
         }
         

@@ -212,5 +212,14 @@ namespace Resources.Hubs.MessagingHub {
                 return ResourceManager.GetString("NoWalletRate", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to An error ocurred during the call.
+        /// </summary>
+        public static string PriceUpdateError {
+            get {
+                return ResourceManager.GetString("PriceUpdateError", resourceCulture);
+            }
+        }
     }
 }
