@@ -124,6 +124,15 @@ namespace Resources.Apps {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to My Wallet.
+        /// </summary>
+        public static string MyWallet {
+            get {
+                return ResourceManager.GetString("MyWallet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Edit profile.
         /// </summary>
         public static string ProfileApp {

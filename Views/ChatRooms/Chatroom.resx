@@ -213,4 +213,7 @@
   <data name="CRWalletConditionWallet" xml:space="preserve">
     <value>Wallet</value>
   </data>
+  <data name="CRBalance" xml:space="preserve">
+    <value>Your credits:</value>
+  </data>
 </root>

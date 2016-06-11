@@ -213,6 +213,12 @@
   <data name="VCReturnHome" xml:space="preserve">
     <value>Return home</value>
   </data>
+  <data name="VCSendMessage" xml:space="preserve">
+    <value>Send message</value>
+  </data>
+  <data name="VCSendMessageTip" xml:space="preserve">
+    <value>You can only send messages to your connections</value>
+  </data>
   <data name="VCSpent" xml:space="preserve">
     <value>spent</value>
   </data>
@@ -227,5 +233,11 @@
   </data>
   <data name="WaitingTo" xml:space="preserve">
     <value>Waiting for permission to use your camera...</value>
+  </data>
+  <data name="WalletCallError" xml:space="preserve">
+    <value>The call does not comply with Langademy's terms of service and will not be computed</value>
+  </data>
+  <data name="WalletReportFee" xml:space="preserve">
+    <value>Langademy only charges fees on Wallet-videocalls when you speak in your native language for more than 3 minutes</value>
   </data>
 </root>

@@ -349,6 +349,24 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Send message.
+        /// </summary>
+        public static string VCSendMessage {
+            get {
+                return ResourceManager.GetString("VCSendMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can only send messages to your connections.
+        /// </summary>
+        public static string VCSendMessageTip {
+            get {
+                return ResourceManager.GetString("VCSendMessageTip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to spent.
         /// </summary>
         public static string VCSpent {
@@ -390,6 +408,24 @@ namespace Resources.Views.VideoChat {
         public static string WaitingTo {
             get {
                 return ResourceManager.GetString("WaitingTo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The call does not comply with Langademy&apos;s terms of service and will not be computed.
+        /// </summary>
+        public static string WalletCallError {
+            get {
+                return ResourceManager.GetString("WalletCallError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy only charges fees on Wallet-videocalls when you speak in your native language for more than 3 minutes.
+        /// </summary>
+        public static string WalletReportFee {
+            get {
+                return ResourceManager.GetString("WalletReportFee", resourceCulture);
             }
         }
     }

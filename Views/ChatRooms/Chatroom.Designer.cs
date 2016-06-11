@@ -88,6 +88,15 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your credits:.
+        /// </summary>
+        public static string CRBalance {
+            get {
+                return ResourceManager.GetString("CRBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Beginners.
         /// </summary>
         public static string CRBeginners {

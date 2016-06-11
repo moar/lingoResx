@@ -261,4 +261,25 @@
   <data name="DeskWalletRequirements" xml:space="preserve">
     <value>View access requirements</value>
   </data>
+  <data name="WalletTileNativeMovement" xml:space="preserve">
+    <value>You talked to {0} in {1}</value>
+  </data>
+  <data name="WalletTilePurchaseMovement" xml:space="preserve">
+    <value>You have purchased {0} credits</value>
+  </data>
+  <data name="WalletTileStudentMovement" xml:space="preserve">
+    <value>You talked to {0} in {1}</value>
+  </data>
+  <data name="WalletLastMovement" xml:space="preserve">
+    <value>Last movement</value>
+  </data>
+  <data name="WalletNoMovement" xml:space="preserve">
+    <value>You don't have any movements in your account yet</value>
+  </data>
+  <data name="WalletTileBalance" xml:space="preserve">
+    <value>Wallet balance</value>
+  </data>
+  <data name="WalletTileFillAddress" xml:space="preserve">
+    <value>You need to fill your billings address</value>
+  </data>
 </root>

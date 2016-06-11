@@ -491,5 +491,68 @@ namespace Resources.Views.Desktop {
                 return ResourceManager.GetString("TodayLangs", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last movement.
+        /// </summary>
+        public static string WalletLastMovement {
+            get {
+                return ResourceManager.GetString("WalletLastMovement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You don&apos;t have any movements in your account yet.
+        /// </summary>
+        public static string WalletNoMovement {
+            get {
+                return ResourceManager.GetString("WalletNoMovement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet balance.
+        /// </summary>
+        public static string WalletTileBalance {
+            get {
+                return ResourceManager.GetString("WalletTileBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You need to fill your billings address.
+        /// </summary>
+        public static string WalletTileFillAddress {
+            get {
+                return ResourceManager.GetString("WalletTileFillAddress", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You talked to {0} in {1}.
+        /// </summary>
+        public static string WalletTileNativeMovement {
+            get {
+                return ResourceManager.GetString("WalletTileNativeMovement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have purchased {0} credits.
+        /// </summary>
+        public static string WalletTilePurchaseMovement {
+            get {
+                return ResourceManager.GetString("WalletTilePurchaseMovement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You talked to {0} in {1}.
+        /// </summary>
+        public static string WalletTileStudentMovement {
+            get {
+                return ResourceManager.GetString("WalletTileStudentMovement", resourceCulture);
+            }
+        }
     }
 }
