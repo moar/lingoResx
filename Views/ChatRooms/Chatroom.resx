@@ -214,6 +214,6 @@
     <value>Wallet</value>
   </data>
   <data name="CRBalance" xml:space="preserve">
-    <value>Your credits:</value>
+    <value>Your credits</value>
   </data>
 </root>
