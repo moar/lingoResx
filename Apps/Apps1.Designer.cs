@@ -70,6 +70,15 @@ namespace Resources.Apps {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Chat rooms.
+        /// </summary>
+        public static string ChatRooms {
+            get {
+                return ResourceManager.GetString("ChatRooms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Desktop.
         /// </summary>
         public static string Desktop {

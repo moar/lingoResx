@@ -120,6 +120,9 @@
   <data name="AccountManApp" xml:space="preserve">
     <value>Settings</value>
   </data>
+  <data name="ChatRooms" xml:space="preserve">
+    <value>Chat rooms</value>
+  </data>
   <data name="Desktop" xml:space="preserve">
     <value>Desktop</value>
   </data>
