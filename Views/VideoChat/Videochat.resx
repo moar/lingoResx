@@ -195,6 +195,9 @@
   <data name="VCDuration" xml:space="preserve">
     <value>Duration</value>
   </data>
+  <data name="VCEarned" xml:space="preserve">
+    <value>Earned</value>
+  </data>
   <data name="VCMinTimeCallerInfo" xml:space="preserve">
     <value>You have 3 minutes to decide if you want to speak with this native. Once the 3 minutes are past the rate of this call will start to be applied to the call</value>
   </data>

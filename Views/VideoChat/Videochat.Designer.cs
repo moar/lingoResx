@@ -295,6 +295,15 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Earned.
+        /// </summary>
+        public static string VCEarned {
+            get {
+                return ResourceManager.GetString("VCEarned", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You have 3 minutes to decide if you want to speak with this native. Once the 3 minutes are past the rate of this call will start to be applied to the call.
         /// </summary>
         public static string VCMinTimeCallerInfo {
