@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,87 +57,8 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -198,6 +120,9 @@
   <data name="CalleeBusy" xml:space="preserve">
     <value>{0} está ocupado ahora. Intentalo más tarde</value>
   </data>
+  <data name="CalleeIsNotNative" xml:space="preserve">
+    <value>El {0} no es tu idioma nativo</value>
+  </data>
   <data name="CalleeNoChatHours" xml:space="preserve">
     <value>{0} no tiene saldo suficiente en su Banco de Tiempo para hablar contigo</value>
   </data>
@@ -230,5 +155,20 @@
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>No puedes llamar a {0}: no estáis conectados</value>
+  </data>
+  <data name="NoWalletRate" xml:space="preserve">
+    <value>{0} no ha definido una tairifa para esta llamada todavía</value>
+  </data>
+  <data name="CallBuyWalletCredits" xml:space="preserve">
+    <value>compra créditos</value>
+  </data>
+  <data name="NoEnoughCredits" xml:space="preserve">
+    <value>No tienes suficientes créditos para llamar a {0}. Ve a tu wallet y {1}</value>
+  </data>
+  <data name="NativesCantCall" xml:space="preserve">
+    <value>Eres nativo, no puedes llamar a otros nativos</value>
+  </data>
+  <data name="PriceUpdateError" xml:space="preserve">
+    <value>Ocurrió un error durante la llamada</value>
   </data>
 </root>

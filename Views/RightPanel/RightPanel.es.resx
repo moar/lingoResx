@@ -141,8 +141,8 @@
   <data name="NoMessages" xml:space="preserve">
     <value>No tienes ningún mensaje</value>
   </data>
-  <data name="RPVideocall" xml:space="preserve">
-    <value>Videollamada</value>
+  <data name="RPTBCall" xml:space="preserve">
+    <value>Llamada de Banco del Tiempo</value>
   </data>
   <data name="Videocall" xml:space="preserve">
     <value>Videollamada</value>
@@ -215,5 +215,8 @@
   </data>
   <data name="RPChatRooms" xml:space="preserve">
     <value>Salas de chat</value>
+  </data>
+  <data name="RPWalletCall" xml:space="preserve">
+    <value>Llamada de Wallet</value>
   </data>
 </root>

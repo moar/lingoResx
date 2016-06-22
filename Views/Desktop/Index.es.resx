@@ -255,4 +255,31 @@
   <data name="AutomatchExplananion" xml:space="preserve">
     <value>El buscador de compañeros de conversación automático te buscará compañeros que están online y que cumplen tu filtro de manera automática para que puedas hacer videollamadas con ellos.</value>
   </data>
+  <data name="DeskStateNativeCallsInfo" xml:space="preserve">
+    <value>Aquí puedes configurar si deseas recibir llamadas en tus idiomas nativos</value>
+  </data>
+  <data name="DeskWalletRequirements" xml:space="preserve">
+    <value>Ver los requisitos de acceso</value>
+  </data>
+  <data name="WalletTileNativeMovement" xml:space="preserve">
+    <value>Has hablado con {0} en {1}</value>
+  </data>
+  <data name="WalletTilePurchaseMovement" xml:space="preserve">
+    <value>Has comprado {0} creditos</value>
+  </data>
+  <data name="WalletTileStudentMovement" xml:space="preserve">
+    <value>Has hablado con {0} en {1}</value>
+  </data>
+  <data name="WalletLastMovement" xml:space="preserve">
+    <value>Último movimiento</value>
+  </data>
+  <data name="WalletNoMovement" xml:space="preserve">
+    <value>Oraindik ez duzu mugimendurik zure kontuan </value>
+  </data>
+  <data name="WalletTileBalance" xml:space="preserve">
+    <value>Saldo Wallet</value>
+  </data>
+  <data name="WalletTileFillAddress" xml:space="preserve">
+    <value>Tienes que rellenar tus datos de facturación</value>
+  </data>
 </root>

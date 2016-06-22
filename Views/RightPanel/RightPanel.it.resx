@@ -141,9 +141,6 @@
   <data name="NoMessages" xml:space="preserve">
     <value>Non hai nessun messaggio</value>
   </data>
-  <data name="RPVideocall" xml:space="preserve">
-    <value>Video chiamata</value>
-  </data>
   <data name="Videocall" xml:space="preserve">
     <value>Video chiamata</value>
   </data>

@@ -141,8 +141,8 @@
   <data name="NoMessages" xml:space="preserve">
     <value>Ez daukazu mezurik</value>
   </data>
-  <data name="RPVideocall" xml:space="preserve">
-    <value>Bideodeia</value>
+  <data name="RPTBCall" xml:space="preserve">
+    <value>Denbora bakuko deia</value>
   </data>
   <data name="Videocall" xml:space="preserve">
     <value>Bideodeia</value>
@@ -215,5 +215,8 @@
   </data>
   <data name="RPChatRooms" xml:space="preserve">
     <value>Txat gelak</value>
+  </data>
+  <data name="RPWalletCall" xml:space="preserve">
+    <value>Walle deia</value>
   </data>
 </root>

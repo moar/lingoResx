@@ -195,14 +195,29 @@
   <data name="VCDuration" xml:space="preserve">
     <value>Iraupena</value>
   </data>
+  <data name="VCEarned" xml:space="preserve">
+    <value>irabazita</value>
+  </data>
   <data name="VCNoMoreMatches" xml:space="preserve">
     <value>Ez erakutsi mintzalagun gehiago</value>
   </data>
   <data name="VCOk" xml:space="preserve">
     <value>OK</value>
   </data>
+  <data name="VCRate" xml:space="preserve">
+    <value>Tarifa</value>
+  </data>
   <data name="VCReturnHome" xml:space="preserve">
     <value>Hasierara itzuli</value>
+  </data>
+  <data name="VCSendMessage" xml:space="preserve">
+    <value>Mezua bidali</value>
+  </data>
+  <data name="VCSendMessageTip" xml:space="preserve">
+    <value>Zure kontaktuei soilik bidal diezazkiekezu mezuak</value>
+  </data>
+  <data name="VCSpent" xml:space="preserve">
+    <value>Gastatuta</value>
   </data>
   <data name="VCTip" xml:space="preserve">
     <value>Oharra</value>
@@ -214,6 +229,12 @@
     <value>{0}-(e)k zurekin hitz egin nahi du!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
-    <value>Zure kamera erabiltzeko baimenaren zain</value>
+    <value>Zure kamera erabiltzeko baimenaren zain...</value>
+  </data>
+  <data name="WalletCallError" xml:space="preserve">
+    <value>Dei honek ez ditu Langademyren zerbitzuko baldintzak betetzen eta deiak ez du kontatuko</value>
+  </data>
+  <data name="WalletReportFee" xml:space="preserve">
+    <value>Langademyk zure hizkuntza natiboan  3 minutu baino gehiagoko deietan soilik kobratuko dizu komisioa</value>
   </data>
 </root>

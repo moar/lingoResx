@@ -255,4 +255,28 @@
   <data name="AutomatchExplananion" xml:space="preserve">
     <value>Mintzalagun bilatzaile automatikoak eskuragarri dauden eta zure iragazkia betetzen duten erabiltzaileak aurkituko dizkizu automatikoki beraiekin bideodeiak egin ditzazun</value>
   </data>
+  <data name="DeskWalletRequirements" xml:space="preserve">
+    <value>Ikusi sartzeko baldintzak</value>
+  </data>
+  <data name="WalletTileNativeMovement" xml:space="preserve">
+    <value>{0}-(e)kin {1} hitz egin duzu</value>
+  </data>
+  <data name="WalletTilePurchaseMovement" xml:space="preserve">
+    <value>{0} kreditu erosi dituzu</value>
+  </data>
+  <data name="WalletTileStudentMovement" xml:space="preserve">
+    <value>{0}-(e)kin {1} hitz egin duzu</value>
+  </data>
+  <data name="WalletLastMovement" xml:space="preserve">
+    <value>Azken mugimendua</value>
+  </data>
+  <data name="WalletNoMovement" xml:space="preserve">
+    <value>Oraindik ez duzu mugimendurik zure kontuan</value>
+  </data>
+  <data name="WalletTileBalance" xml:space="preserve">
+    <value>Walleteko saldoa</value>
+  </data>
+  <data name="WalletTileFillAddress" xml:space="preserve">
+    <value>Zure fakturazio helbidea bete behar duzu</value>
+  </data>
 </root>

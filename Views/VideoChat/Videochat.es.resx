@@ -195,14 +195,32 @@
   <data name="VCDuration" xml:space="preserve">
     <value>Duración</value>
   </data>
+  <data name="VCEarned" xml:space="preserve">
+    <value>ganados</value>
+  </data>
+  <data name="VCMinTimeNativeInfo" xml:space="preserve">
+    <value>Tu compañero de conversación tiene 3 minutos para decidir si decide mantener una conversación contigo. Una vez que pasen esos 3 minutos tu tarifa comenzará a ser aplicada en la llamada</value>
+  </data>
   <data name="VCNoMoreMatches" xml:space="preserve">
     <value>No mostrar más emparejamientos</value>
   </data>
   <data name="VCOk" xml:space="preserve">
     <value>OK</value>
   </data>
+  <data name="VCRate" xml:space="preserve">
+    <value>Tarifa</value>
+  </data>
   <data name="VCReturnHome" xml:space="preserve">
     <value>Volver a inicio</value>
+  </data>
+  <data name="VCSendMessage" xml:space="preserve">
+    <value>Mandar mensaje</value>
+  </data>
+  <data name="VCSendMessageTip" xml:space="preserve">
+    <value>Soo puedes mandar mensajes a tus contactos</value>
+  </data>
+  <data name="VCSpent" xml:space="preserve">
+    <value>gastados</value>
   </data>
   <data name="VCTip" xml:space="preserve">
     <value>Pista</value>
@@ -214,6 +232,12 @@
     <value>¡{0} quiere hablar contigo!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
-    <value>Esperando a los permisos para poder utilizar tu cámara</value>
+    <value>Esperando a los permisos para poder utilizar tu cámara...</value>
+  </data>
+  <data name="WalletCallError" xml:space="preserve">
+    <value>Esta llamada no cumple las condiciones de servicio de Langademy y no computarán</value>
+  </data>
+  <data name="WalletReportFee" xml:space="preserve">
+    <value>Langademy solo cobra comisiones en las llamadas de Wallet cuando hablas en tu idioma nativo durante más de 3 minutos</value>
   </data>
 </root>

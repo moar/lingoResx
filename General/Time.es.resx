@@ -117,103 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CRAdvanced" xml:space="preserve">
-    <value>Advanced</value>
+  <data name="Hour" xml:space="preserve">
+    <value>Hora</value>
   </data>
-  <data name="CRAutomaticPartner" xml:space="preserve">
-    <value>Automatic partner finder</value>
+  <data name="Minute" xml:space="preserve">
+    <value>Minuto</value>
   </data>
-  <data name="CRAvailable" xml:space="preserve">
-    <value>Available</value>
-  </data>
-  <data name="CRBeginners" xml:space="preserve">
-    <value>Beginners</value>
-  </data>
-  <data name="CRCall" xml:space="preserve">
-    <value>Call</value>
-  </data>
-  <data name="CRHideFiltered" xml:space="preserve">
-    <value>Hide filtered</value>
-  </data>
-  <data name="CRIntermediate" xml:space="preserve">
-    <value>Intermediate</value>
-  </data>
-  <data name="CRMeetupsTab" xml:space="preserve">
-    <value>Meetups</value>
-  </data>
-  <data name="CRMeetupTime" xml:space="preserve">
-    <value>There's a meetup scheduled at {0}</value>
-  </data>
-  <data name="CRMeetupTopics" xml:space="preserve">
-    <value>Meetup topics</value>
-  </data>
-  <data name="CRNatives" xml:space="preserve">
-    <value>Natives</value>
-  </data>
-  <data name="CRNextMeetups" xml:space="preserve">
-    <value>Next meetups</value>
-  </data>
-  <data name="CRNoLanguageMeetups" xml:space="preserve">
-    <value>There are no meetups scheduled for this room</value>
-  </data>
-  <data name="CRNoMeetup" xml:space="preserve">
-    <value>There is no meetup scheduled at this time</value>
-  </data>
-  <data name="CRNoTopicsProposed" xml:space="preserve">
-    <value>Nobody has proposed conversation topics for this meetup</value>
-  </data>
-  <data name="CRNumNatives" xml:space="preserve">
-    <value>Natives</value>
-  </data>
-  <data name="CRNumParticipants" xml:space="preserve">
-    <value>Participants</value>
-  </data>
-  <data name="CRTopicsTab" xml:space="preserve">
-    <value>Topics</value>
-  </data>
-  <data name="CRUsersCount" xml:space="preserve">
-    <value>users</value>
-  </data>
-  <data name="CRUsersTab" xml:space="preserve">
-    <value>Users</value>
-  </data>
-  <data name="CRViewProfile" xml:space="preserve">
-    <value>View profile</value>
-  </data>
-  <data name="CRWriteTextbox" xml:space="preserve">
-    <value>Write here...</value>
-  </data>
-  <data name="CRParticipants" xml:space="preserve">
-    <value>Participants</value>
-  </data>
-  <data name="CRWalletCondition1Content" xml:space="preserve">
-    <value>You need to have at least {0} positive vote in {1} conversations. Go to the {1} Time Banking room, make videocalls and gain positive votes!</value>
-  </data>
-  <data name="CRWalletCondition1Title" xml:space="preserve">
-    <value>Gain reputation:</value>
-  </data>
-  <data name="CRWalletCondition2Content" xml:space="preserve">
-    <value>Go to your {0} and add your billing details</value>
-  </data>
-  <data name="CRWalletCondition2Title" xml:space="preserve">
-    <value>Add your billing details:</value>
-  </data>
-  <data name="CRWalletConditionHeading" xml:space="preserve">
-    <value>You can't access to this wallet room</value>
-  </data>
-  <data name="CRWalletConditions" xml:space="preserve">
-    <value>In order to access this wallet room you need to:</value>
-  </data>
-  <data name="CRVisitorSentence" xml:space="preserve">
-    <value>Writing in this chat room is free but you must have credits in your Wallet ({0})</value>
-  </data>
-  <data name="CRBuyCredits" xml:space="preserve">
-    <value>Buy credits</value>
-  </data>
-  <data name="CRWalletConditionWallet" xml:space="preserve">
-    <value>Wallet</value>
-  </data>
-  <data name="CRBalance" xml:space="preserve">
-    <value>Your credits</value>
+  <data name="Second" xml:space="preserve">
+    <value>Segundo</value>
   </data>
 </root>
