@@ -283,6 +283,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Inbox.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\MyWallet\MyWallet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyWallet.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\ProfileApp\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -715,6 +720,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Inbox.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>MyWallet.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\ProfileApp\Index.ca.resx" />
     <EmbeddedResource Include="Views\ProfileApp\Index.de.resx" />
     <EmbeddedResource Include="Views\ProfileApp\Index.es.resx" />
@@ -784,6 +793,12 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Profile.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\WalletRoom\Room.ca.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.de.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.es.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.eu.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.fr.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.it.resx" />
     <EmbeddedResource Include="Views\WalletRoom\Room.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Room.Designer.cs</LastGenOutput>
