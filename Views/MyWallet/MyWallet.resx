@@ -138,6 +138,12 @@
   <data name="MWName" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="MWOrderCompleteTitle" xml:space="preserve">
+    <value>Payment processed successfully</value>
+  </data>
+  <data name="MWOrderCompleteWarn" xml:space="preserve">
+    <value>You need to complete your address so that your purchase becomes available in your Wallet</value>
+  </data>
   <data name="MWRegionCounty" xml:space="preserve">
     <value>Region/County</value>
   </data>

@@ -124,6 +124,24 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Payment processed successfully.
+        /// </summary>
+        public static string MWOrderCompleteTitle {
+            get {
+                return ResourceManager.GetString("MWOrderCompleteTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You need to complete your address so that your purchase becomes available in your Wallet.
+        /// </summary>
+        public static string MWOrderCompleteWarn {
+            get {
+                return ResourceManager.GetString("MWOrderCompleteWarn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Region/County.
         /// </summary>
         public static string MWRegionCounty {
