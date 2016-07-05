@@ -117,6 +117,51 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="CashoutHistory" xml:space="preserve">
+    <value>History</value>
+  </data>
+  <data name="CashoutRequest" xml:space="preserve">
+    <value>Request</value>
+  </data>
+  <data name="MovBalance" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="MovCreditsIn" xml:space="preserve">
+    <value>Credits In</value>
+  </data>
+  <data name="MovCreditsOut" xml:space="preserve">
+    <value>Credits Out</value>
+  </data>
+  <data name="MovDate" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="MovDescription" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="MovementsFrom" xml:space="preserve">
+    <value>From</value>
+  </data>
+  <data name="MovementsLastTransactions" xml:space="preserve">
+    <value>Last transactions</value>
+  </data>
+  <data name="MovementsTo" xml:space="preserve">
+    <value>To</value>
+  </data>
+  <data name="MovementsTransactions" xml:space="preserve">
+    <value>Transactions</value>
+  </data>
+  <data name="MovLastMonth" xml:space="preserve">
+    <value>Last month</value>
+  </data>
+  <data name="MovSelect" xml:space="preserve">
+    <value>Select</value>
+  </data>
+  <data name="MovThisMonth" xml:space="preserve">
+    <value>This month</value>
+  </data>
+  <data name="MovThisYear" xml:space="preserve">
+    <value>This year</value>
+  </data>
   <data name="MWAddressLine1" xml:space="preserve">
     <value>Address (line 1)</value>
   </data>

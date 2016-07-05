@@ -61,6 +61,141 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to History.
+        /// </summary>
+        public static string CashoutHistory {
+            get {
+                return ResourceManager.GetString("CashoutHistory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Request.
+        /// </summary>
+        public static string CashoutRequest {
+            get {
+                return ResourceManager.GetString("CashoutRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Balance.
+        /// </summary>
+        public static string MovBalance {
+            get {
+                return ResourceManager.GetString("MovBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credits In.
+        /// </summary>
+        public static string MovCreditsIn {
+            get {
+                return ResourceManager.GetString("MovCreditsIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credits Out.
+        /// </summary>
+        public static string MovCreditsOut {
+            get {
+                return ResourceManager.GetString("MovCreditsOut", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date.
+        /// </summary>
+        public static string MovDate {
+            get {
+                return ResourceManager.GetString("MovDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Description.
+        /// </summary>
+        public static string MovDescription {
+            get {
+                return ResourceManager.GetString("MovDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to From.
+        /// </summary>
+        public static string MovementsFrom {
+            get {
+                return ResourceManager.GetString("MovementsFrom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last transactions.
+        /// </summary>
+        public static string MovementsLastTransactions {
+            get {
+                return ResourceManager.GetString("MovementsLastTransactions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To.
+        /// </summary>
+        public static string MovementsTo {
+            get {
+                return ResourceManager.GetString("MovementsTo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Transactions.
+        /// </summary>
+        public static string MovementsTransactions {
+            get {
+                return ResourceManager.GetString("MovementsTransactions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last month.
+        /// </summary>
+        public static string MovLastMonth {
+            get {
+                return ResourceManager.GetString("MovLastMonth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select.
+        /// </summary>
+        public static string MovSelect {
+            get {
+                return ResourceManager.GetString("MovSelect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This month.
+        /// </summary>
+        public static string MovThisMonth {
+            get {
+                return ResourceManager.GetString("MovThisMonth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This year.
+        /// </summary>
+        public static string MovThisYear {
+            get {
+                return ResourceManager.GetString("MovThisYear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Address (line 1).
         /// </summary>
         public static string MWAddressLine1 {
