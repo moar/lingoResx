@@ -407,6 +407,7 @@
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>MessagingHub.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Languages\LanguageLevels.ca.resx" />
     <EmbeddedResource Include="Languages\LanguageLevels.de.resx" />

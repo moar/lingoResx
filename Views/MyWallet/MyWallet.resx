@@ -171,4 +171,13 @@
   <data name="ReceiptPurchaseCredits" xml:space="preserve">
     <value>Purchase Langademy Credits</value>
   </data>
+  <data name="WalletPurchaseConcept" xml:space="preserve">
+    <value>Credits purchase</value>
+  </data>
+  <data name="WalletVideoCallAsNative" xml:space="preserve">
+    <value>Videocall ({0}) with {1}</value>
+  </data>
+  <data name="WalletVideoCallAsStudent" xml:space="preserve">
+    <value>Videocall to native speaker ({0}): {1}</value>
+  </data>
 </root>

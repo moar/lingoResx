@@ -221,5 +221,32 @@ namespace Resources.Views.MyWallet {
                 return ResourceManager.GetString("ReceiptPurchaseCredits", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credits purchase.
+        /// </summary>
+        public static string WalletPurchaseConcept {
+            get {
+                return ResourceManager.GetString("WalletPurchaseConcept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Videocall ({0}) with {1}.
+        /// </summary>
+        public static string WalletVideoCallAsNative {
+            get {
+                return ResourceManager.GetString("WalletVideoCallAsNative", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Videocall to native speaker ({0}): {1}.
+        /// </summary>
+        public static string WalletVideoCallAsStudent {
+            get {
+                return ResourceManager.GetString("WalletVideoCallAsStudent", resourceCulture);
+            }
+        }
     }
 }
