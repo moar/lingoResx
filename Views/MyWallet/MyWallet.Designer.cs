@@ -61,6 +61,303 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Enter the amount of credits to add to your account.
+        /// </summary>
+        public static string AddCreditsAmmout {
+            get {
+                return ResourceManager.GetString("AddCreditsAmmout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Current balance.
+        /// </summary>
+        public static string AddCreditsCurBal {
+            get {
+                return ResourceManager.GetString("AddCreditsCurBal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Minimum.
+        /// </summary>
+        public static string AddCreditsMinimumAmmount {
+            get {
+                return ResourceManager.GetString("AddCreditsMinimumAmmount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Checkout directly with Paypal or click Next for other options.
+        /// </summary>
+        public static string AddcreditsPaypal {
+            get {
+                return ResourceManager.GetString("AddcreditsPaypal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchas Langademy Credits.
+        /// </summary>
+        public static string AddCreditsTitle {
+            get {
+                return ResourceManager.GetString("AddCreditsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Amount of credits.
+        /// </summary>
+        public static string AddPaymentAmount {
+            get {
+                return ResourceManager.GetString("AddPaymentAmount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We are sorry. There are no payment methods available in your country.
+        /// </summary>
+        public static string AddPaymentNoCountryPayment {
+            get {
+                return ResourceManager.GetString("AddPaymentNoCountryPayment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm the order in the next step and you will be redirected to paypal to complete the process.
+        /// </summary>
+        public static string AddPaymentPaypalNote {
+            get {
+                return ResourceManager.GetString("AddPaymentPaypalNote", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchase Langademy Credits.
+        /// </summary>
+        public static string AddPaymentPurchase {
+            get {
+                return ResourceManager.GetString("AddPaymentPurchase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm the order in the next step and you will be redirected to the bank gateway to complete the process.
+        /// </summary>
+        public static string AddPaymentRedsys {
+            get {
+                return ResourceManager.GetString("AddPaymentRedsys", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the payment method.
+        /// </summary>
+        public static string AddPaymentSelect {
+            get {
+                return ResourceManager.GetString("AddPaymentSelect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Card Code.
+        /// </summary>
+        public static string AdPayCCCode {
+            get {
+                return ResourceManager.GetString("AdPayCCCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Expiration.
+        /// </summary>
+        public static string AdPayCCExp {
+            get {
+                return ResourceManager.GetString("AdPayCCExp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cardholder name.
+        /// </summary>
+        public static string AdPayCCName {
+            get {
+                return ResourceManager.GetString("AdPayCCName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Card number.
+        /// </summary>
+        public static string AdPayCCNum {
+            get {
+                return ResourceManager.GetString("AdPayCCNum", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Type.
+        /// </summary>
+        public static string AdPayCCType {
+            get {
+                return ResourceManager.GetString("AdPayCCType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cash out information.
+        /// </summary>
+        public static string BillDataCashoutinfo {
+            get {
+                return ResourceManager.GetString("BillDataCashoutinfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Billing data.
+        /// </summary>
+        public static string BillDataTitle {
+            get {
+                return ResourceManager.GetString("BillDataTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter or update your billing information.
+        /// </summary>
+        public static string BillDataUpdBillInfo {
+            get {
+                return ResourceManager.GetString("BillDataUpdBillInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No..
+        /// </summary>
+        public static string BillsPanelBillNo {
+            get {
+                return ResourceManager.GetString("BillsPanelBillNo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date.
+        /// </summary>
+        public static string BillsPanelDate {
+            get {
+                return ResourceManager.GetString("BillsPanelDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Download.
+        /// </summary>
+        public static string BillsPanelDownload {
+            get {
+                return ResourceManager.GetString("BillsPanelDownload", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last bills.
+        /// </summary>
+        public static string BillsPanelLastBills {
+            get {
+                return ResourceManager.GetString("BillsPanelLastBills", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Billing period.
+        /// </summary>
+        public static string BillsPanelPeriod {
+            get {
+                return ResourceManager.GetString("BillsPanelPeriod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Status.
+        /// </summary>
+        public static string BillsPanelStatus {
+            get {
+                return ResourceManager.GetString("BillsPanelStatus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bills.
+        /// </summary>
+        public static string BillsPanelTitle {
+            get {
+                return ResourceManager.GetString("BillsPanelTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add credits.
+        /// </summary>
+        public static string BuyAddCrds {
+            get {
+                return ResourceManager.GetString("BuyAddCrds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm.
+        /// </summary>
+        public static string BuyConfirm {
+            get {
+                return ResourceManager.GetString("BuyConfirm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit Shop.
+        /// </summary>
+        public static string BuyCShop {
+            get {
+                return ResourceManager.GetString("BuyCShop", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Payment.
+        /// </summary>
+        public static string BuyPayment {
+            get {
+                return ResourceManager.GetString("BuyPayment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Receipt data.
+        /// </summary>
+        public static string BuyReceiptData {
+            get {
+                return ResourceManager.GetString("BuyReceiptData", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Paypal Id.
+        /// </summary>
+        public static string CashOutEdPaypalId {
+            get {
+                return ResourceManager.GetString("CashOutEdPaypalId", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy Password.
+        /// </summary>
+        public static string CashOutEdPw {
+            get {
+                return ResourceManager.GetString("CashOutEdPw", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to History.
         /// </summary>
         public static string CashoutHistory {
@@ -75,6 +372,168 @@ namespace Resources.Views.MyWallet {
         public static string CashoutRequest {
             get {
                 return ResourceManager.GetString("CashoutRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Card number.
+        /// </summary>
+        public static string CCInfoCardNum {
+            get {
+                return ResourceManager.GetString("CCInfoCardNum", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Code.
+        /// </summary>
+        public static string CCInfoCode {
+            get {
+                return ResourceManager.GetString("CCInfoCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Expiration.
+        /// </summary>
+        public static string CCInfoExpiration {
+            get {
+                return ResourceManager.GetString("CCInfoExpiration", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cardholder name.
+        /// </summary>
+        public static string CCInfotHolderName {
+            get {
+                return ResourceManager.GetString("CCInfotHolderName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit card type.
+        /// </summary>
+        public static string CCInfoType {
+            get {
+                return ResourceManager.GetString("CCInfoType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Amount of credits.
+        /// </summary>
+        public static string ConfirmOrderAmount {
+            get {
+                return ResourceManager.GetString("ConfirmOrderAmount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Payment information.
+        /// </summary>
+        public static string ConfirmOrderInfo {
+            get {
+                return ResourceManager.GetString("ConfirmOrderInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm order.
+        /// </summary>
+        public static string ConfirmOrderTitle {
+            get {
+                return ResourceManager.GetString("ConfirmOrderTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Amount of credits purchased.
+        /// </summary>
+        public static string COrderCompletedAmount {
+            get {
+                return ResourceManager.GetString("COrderCompletedAmount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Current balance.
+        /// </summary>
+        public static string COrderCompletedBalance {
+            get {
+                return ResourceManager.GetString("COrderCompletedBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Congratulations! Your purchase has been processed succesfully.
+        /// </summary>
+        public static string COrderCompletedTitle {
+            get {
+                return ResourceManager.GetString("COrderCompletedTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cash out.
+        /// </summary>
+        public static string COutPanelTitle {
+            get {
+                return ResourceManager.GetString("COutPanelTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Paypal account.
+        /// </summary>
+        public static string COutRO {
+            get {
+                return ResourceManager.GetString("COutRO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Billing info.
+        /// </summary>
+        public static string CShopBillInfo {
+            get {
+                return ResourceManager.GetString("CShopBillInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bills.
+        /// </summary>
+        public static string CShopBills {
+            get {
+                return ResourceManager.GetString("CShopBills", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cash out.
+        /// </summary>
+        public static string CShopCashout {
+            get {
+                return ResourceManager.GetString("CShopCashout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit Shop.
+        /// </summary>
+        public static string CShopCreditShop {
+            get {
+                return ResourceManager.GetString("CShopCreditShop", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Transactions.
+        /// </summary>
+        public static string CShopTransactions {
+            get {
+                return ResourceManager.GetString("CShopTransactions", resourceCulture);
             }
         }
         
@@ -277,6 +736,24 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Confirm the order and you will be redirected to paypal to complete the process.
+        /// </summary>
+        public static string MWPaypalInfo {
+            get {
+                return ResourceManager.GetString("MWPaypalInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Click confirm and you will be redirected to the bank gateway to complete the process.
+        /// </summary>
+        public static string MWRedsysInfo {
+            get {
+                return ResourceManager.GetString("MWRedsysInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Region/County.
         /// </summary>
         public static string MWRegionCounty {
@@ -331,6 +808,33 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Back to My Wallet.
+        /// </summary>
+        public static string OderCompletedBackMw {
+            get {
+                return ResourceManager.GetString("OderCompletedBackMw", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Order number.
+        /// </summary>
+        public static string OrderCompletedNum {
+            get {
+                return ResourceManager.GetString("OrderCompletedNum", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy credit purchase.
+        /// </summary>
+        public static string OrderCompletedpurchase {
+            get {
+                return ResourceManager.GetString("OrderCompletedpurchase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Amount of credits.
         /// </summary>
         public static string ReceiptAmountofcredits {
@@ -354,6 +858,141 @@ namespace Resources.Views.MyWallet {
         public static string ReceiptPurchaseCredits {
             get {
                 return ResourceManager.GetString("ReceiptPurchaseCredits", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please, enter your Langademy Account password.
+        /// </summary>
+        public static string ReqCashoutAccPass {
+            get {
+                return ResourceManager.GetString("ReqCashoutAccPass", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available balance.
+        /// </summary>
+        public static string ReqCashoutAvailableBalance {
+            get {
+                return ResourceManager.GetString("ReqCashoutAvailableBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I&apos;m the Paypal account owner. I have not misrepresented my identity information. The funds in my wallet account have been legally obtained according to Langademy&apos;s terms of service. I acknowledge that it is my responsibility to comply with my obligations under income tax provisions in my country.
+        /// </summary>
+        public static string ReqCashoutConditions {
+            get {
+                return ResourceManager.GetString("ReqCashoutConditions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm.
+        /// </summary>
+        public static string ReqCashoutConfirm {
+            get {
+                return ResourceManager.GetString("ReqCashoutConfirm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirmation.
+        /// </summary>
+        public static string ReqCashoutConfirmation {
+            get {
+                return ResourceManager.GetString("ReqCashoutConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I confirm the above information is true.
+        /// </summary>
+        public static string ReqCashoutConfirmCheck {
+            get {
+                return ResourceManager.GetString("ReqCashoutConfirmCheck", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cash out Langademy Credits.
+        /// </summary>
+        public static string ReqCashoutCredits {
+            get {
+                return ResourceManager.GetString("ReqCashoutCredits", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter the amount of credits to cash out.
+        /// </summary>
+        public static string ReqCashoutEnterAmmount {
+            get {
+                return ResourceManager.GetString("ReqCashoutEnterAmmount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm cash out method or.
+        /// </summary>
+        public static string ReqCashoutMethodConfirm {
+            get {
+                return ResourceManager.GetString("ReqCashoutMethodConfirm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New balance.
+        /// </summary>
+        public static string ReqCashoutNewBal {
+            get {
+                return ResourceManager.GetString("ReqCashoutNewBal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Note: Cash out requests are processed once a week. You can follow the status of your request at the Cash out -&gt; History section.
+        /// </summary>
+        public static string ReqCashoutNote {
+            get {
+                return ResourceManager.GetString("ReqCashoutNote", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Paypal account.
+        /// </summary>
+        public static string ReqCashoutPaypalAccount {
+            get {
+                return ResourceManager.GetString("ReqCashoutPaypalAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Amount requested.
+        /// </summary>
+        public static string ReqCashoutReq {
+            get {
+                return ResourceManager.GetString("ReqCashoutReq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cash out request submitted successfully.
+        /// </summary>
+        public static string ReqCashoutTitle {
+            get {
+                return ResourceManager.GetString("ReqCashoutTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update.
+        /// </summary>
+        public static string ReqCashoutUpdate {
+            get {
+                return ResourceManager.GetString("ReqCashoutUpdate", resourceCulture);
             }
         }
         

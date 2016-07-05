@@ -225,4 +225,217 @@
   <data name="WalletVideoCallAsStudent" xml:space="preserve">
     <value>Videocall to native speaker ({0}): {1}</value>
   </data>
+  <data name="AddCreditsAmmout" xml:space="preserve">
+    <value>Enter the amount of credits to add to your account</value>
+  </data>
+  <data name="AddCreditsCurBal" xml:space="preserve">
+    <value>Current balance</value>
+  </data>
+  <data name="AddCreditsMinimumAmmount" xml:space="preserve">
+    <value>Minimum</value>
+  </data>
+  <data name="AddcreditsPaypal" xml:space="preserve">
+    <value>Checkout directly with Paypal or click Next for other options</value>
+  </data>
+  <data name="AddCreditsTitle" xml:space="preserve">
+    <value>Purchas Langademy Credits</value>
+  </data>
+  <data name="AddPaymentAmount" xml:space="preserve">
+    <value>Amount of credits</value>
+  </data>
+  <data name="AddPaymentNoCountryPayment" xml:space="preserve">
+    <value>We are sorry. There are no payment methods available in your country</value>
+  </data>
+  <data name="AddPaymentPaypalNote" xml:space="preserve">
+    <value>Confirm the order in the next step and you will be redirected to paypal to complete the process</value>
+  </data>
+  <data name="AddPaymentPurchase" xml:space="preserve">
+    <value>Purchase Langademy Credits</value>
+  </data>
+  <data name="AddPaymentRedsys" xml:space="preserve">
+    <value>Confirm the order in the next step and you will be redirected to the bank gateway to complete the process</value>
+  </data>
+  <data name="AddPaymentSelect" xml:space="preserve">
+    <value>Select the payment method</value>
+  </data>
+  <data name="AdPayCCCode" xml:space="preserve">
+    <value>Card Code</value>
+  </data>
+  <data name="AdPayCCExp" xml:space="preserve">
+    <value>Expiration</value>
+  </data>
+  <data name="AdPayCCName" xml:space="preserve">
+    <value>Cardholder name</value>
+  </data>
+  <data name="AdPayCCNum" xml:space="preserve">
+    <value>Card number</value>
+  </data>
+  <data name="AdPayCCType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="BillDataCashoutinfo" xml:space="preserve">
+    <value>Cash out information</value>
+  </data>
+  <data name="BillDataTitle" xml:space="preserve">
+    <value>Billing data</value>
+  </data>
+  <data name="BillDataUpdBillInfo" xml:space="preserve">
+    <value>Enter or update your billing information</value>
+  </data>
+  <data name="BillsPanelBillNo" xml:space="preserve">
+    <value>No.</value>
+  </data>
+  <data name="BillsPanelDate" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="BillsPanelDownload" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="BillsPanelLastBills" xml:space="preserve">
+    <value>Last bills</value>
+  </data>
+  <data name="BillsPanelPeriod" xml:space="preserve">
+    <value>Billing period</value>
+  </data>
+  <data name="BillsPanelStatus" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="BillsPanelTitle" xml:space="preserve">
+    <value>Bills</value>
+  </data>
+  <data name="BuyAddCrds" xml:space="preserve">
+    <value>Add credits</value>
+  </data>
+  <data name="BuyConfirm" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="BuyCShop" xml:space="preserve">
+    <value>Credit Shop</value>
+  </data>
+  <data name="BuyPayment" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="BuyReceiptData" xml:space="preserve">
+    <value>Receipt data</value>
+  </data>
+  <data name="CashOutEdPaypalId" xml:space="preserve">
+    <value>Paypal Id</value>
+  </data>
+  <data name="CashOutEdPw" xml:space="preserve">
+    <value>Langademy Password</value>
+  </data>
+  <data name="CCInfoCardNum" xml:space="preserve">
+    <value>Card number</value>
+  </data>
+  <data name="CCInfoCode" xml:space="preserve">
+    <value>Code</value>
+  </data>
+  <data name="CCInfoExpiration" xml:space="preserve">
+    <value>Expiration</value>
+  </data>
+  <data name="CCInfotHolderName" xml:space="preserve">
+    <value>Cardholder name</value>
+  </data>
+  <data name="CCInfoType" xml:space="preserve">
+    <value>Credit card type</value>
+  </data>
+  <data name="ConfirmOrderAmount" xml:space="preserve">
+    <value>Amount of credits</value>
+  </data>
+  <data name="ConfirmOrderInfo" xml:space="preserve">
+    <value>Payment information</value>
+  </data>
+  <data name="ConfirmOrderTitle" xml:space="preserve">
+    <value>Confirm order</value>
+  </data>
+  <data name="COrderCompletedAmount" xml:space="preserve">
+    <value>Amount of credits purchased</value>
+  </data>
+  <data name="COrderCompletedBalance" xml:space="preserve">
+    <value>Current balance</value>
+  </data>
+  <data name="COrderCompletedTitle" xml:space="preserve">
+    <value>Congratulations! Your purchase has been processed succesfully</value>
+  </data>
+  <data name="COutPanelTitle" xml:space="preserve">
+    <value>Cash out</value>
+  </data>
+  <data name="COutRO" xml:space="preserve">
+    <value>Paypal account</value>
+  </data>
+  <data name="CShopBillInfo" xml:space="preserve">
+    <value>Billing info</value>
+  </data>
+  <data name="CShopBills" xml:space="preserve">
+    <value>Bills</value>
+  </data>
+  <data name="CShopCashout" xml:space="preserve">
+    <value>Cash out</value>
+  </data>
+  <data name="CShopCreditShop" xml:space="preserve">
+    <value>Credit Shop</value>
+  </data>
+  <data name="CShopTransactions" xml:space="preserve">
+    <value>Transactions</value>
+  </data>
+  <data name="MWPaypalInfo" xml:space="preserve">
+    <value>Confirm the order and you will be redirected to paypal to complete the process</value>
+  </data>
+  <data name="MWRedsysInfo" xml:space="preserve">
+    <value>Click confirm and you will be redirected to the bank gateway to complete the process</value>
+  </data>
+  <data name="OderCompletedBackMw" xml:space="preserve">
+    <value>Back to My Wallet</value>
+  </data>
+  <data name="OrderCompletedNum" xml:space="preserve">
+    <value>Order number</value>
+  </data>
+  <data name="OrderCompletedpurchase" xml:space="preserve">
+    <value>Langademy credit purchase</value>
+  </data>
+  <data name="ReqCashoutAccPass" xml:space="preserve">
+    <value>Please, enter your Langademy Account password</value>
+  </data>
+  <data name="ReqCashoutAvailableBalance" xml:space="preserve">
+    <value>Available balance</value>
+  </data>
+  <data name="ReqCashoutConditions" xml:space="preserve">
+    <value>I'm the Paypal account owner. I have not misrepresented my identity information. The funds in my wallet account have been legally obtained according to Langademy's terms of service. I acknowledge that it is my responsibility to comply with my obligations under income tax provisions in my country</value>
+  </data>
+  <data name="ReqCashoutConfirm" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="ReqCashoutConfirmation" xml:space="preserve">
+    <value>Confirmation</value>
+  </data>
+  <data name="ReqCashoutConfirmCheck" xml:space="preserve">
+    <value>I confirm the above information is true</value>
+  </data>
+  <data name="ReqCashoutCredits" xml:space="preserve">
+    <value>Cash out Langademy Credits</value>
+  </data>
+  <data name="ReqCashoutEnterAmmount" xml:space="preserve">
+    <value>Enter the amount of credits to cash out</value>
+  </data>
+  <data name="ReqCashoutMethodConfirm" xml:space="preserve">
+    <value>Confirm cash out method or</value>
+  </data>
+  <data name="ReqCashoutNewBal" xml:space="preserve">
+    <value>New balance</value>
+  </data>
+  <data name="ReqCashoutNote" xml:space="preserve">
+    <value>Note: Cash out requests are processed once a week. You can follow the status of your request at the Cash out -&gt; History section</value>
+  </data>
+  <data name="ReqCashoutPaypalAccount" xml:space="preserve">
+    <value>Paypal account</value>
+  </data>
+  <data name="ReqCashoutReq" xml:space="preserve">
+    <value>Amount requested</value>
+  </data>
+  <data name="ReqCashoutTitle" xml:space="preserve">
+    <value>Cash out request submitted successfully</value>
+  </data>
+  <data name="ReqCashoutUpdate" xml:space="preserve">
+    <value>Update</value>
+  </data>
 </root>
