@@ -97,7 +97,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Purchas Langademy Credits.
+        ///   Looks up a localized string similar to Purchase Langademy Credits.
         /// </summary>
         public static string AddCreditsTitle {
             get {
@@ -484,7 +484,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Paypal account.
+        ///   Looks up a localized string similar to PayPal account.
         /// </summary>
         public static string COutRO {
             get {
@@ -673,6 +673,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to AVAILABLE BALANCE.
+        /// </summary>
+        public static string MWAvailableBalance {
+            get {
+                return ResourceManager.GetString("MWAvailableBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We can&apos;t save your address because your location&apos;s taxes and your billing address&apos;s taxes differ.
         /// </summary>
         public static string MWCantSaveAddress {
@@ -709,6 +718,24 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to More info.
+        /// </summary>
+        public static string MWMoreInfo {
+            get {
+                return ResourceManager.GetString("MWMoreInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee that will be reflected in your next invoice. This fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either..
+        /// </summary>
+        public static string MWMovementInfo {
+            get {
+                return ResourceManager.GetString("MWMovementInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Name.
         /// </summary>
         public static string MWName {
@@ -736,11 +763,20 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm the order and you will be redirected to paypal to complete the process.
+        ///   Looks up a localized string similar to Confirm the order and you will be redirected to PayPal to complete the process.
         /// </summary>
         public static string MWPaypalInfo {
             get {
                 return ResourceManager.GetString("MWPaypalInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NEXT BILL.
+        /// </summary>
+        public static string MWProvicionBalance {
+            get {
+                return ResourceManager.GetString("MWProvicionBalance", resourceCulture);
             }
         }
         
@@ -795,6 +831,15 @@ namespace Resources.Views.MyWallet {
         public static string MWTaxId {
             get {
                 return ResourceManager.GetString("MWTaxId", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TOTAL BALANCE.
+        /// </summary>
+        public static string MWTotalBalance {
+            get {
+                return ResourceManager.GetString("MWTotalBalance", resourceCulture);
             }
         }
         

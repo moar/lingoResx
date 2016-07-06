@@ -124,6 +124,15 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Create meetup.
+        /// </summary>
+        public static string CRCreateMeetup {
+            get {
+                return ResourceManager.GetString("CRCreateMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Hide filtered.
         /// </summary>
         public static string CRHideFiltered {

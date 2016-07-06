@@ -703,7 +703,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\MeetupBoard\Index.ca.resx" />
     <EmbeddedResource Include="Views\MeetupBoard\Index.de.resx" />
-    <EmbeddedResource Include="Views\MeetupBoard\Index.es.resx" />
+    <EmbeddedResource Include="Views\MeetupBoard\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\MeetupBoard\Index.eu.resx" />
     <EmbeddedResource Include="Views\MeetupBoard\Index.fr.resx" />
     <EmbeddedResource Include="Views\MeetupBoard\Index.it.resx" />
@@ -721,6 +723,14 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Inbox.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.ca.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.de.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.eu.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.fr.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.it.resx" />
     <EmbeddedResource Include="Views\MyWallet\MyWallet.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>MyWallet.Designer.cs</LastGenOutput>
