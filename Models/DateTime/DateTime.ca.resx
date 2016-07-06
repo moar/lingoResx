@@ -121,6 +121,12 @@
   <data name="Hours" xml:space="preserve">
     <value>hores</value>
   </data>
+  <data name="Hour" xml:space="preserve">
+    <value>hora</value>
+  </data>
+  <data name="Minute" xml:space="preserve">
+    <value>minut</value>
+  </data>
   <data name="Minutes" xml:space="preserve">
     <value>minuts</value>
   </data>
@@ -132,6 +138,9 @@
   </data>
   <data name="OneLetterSecond" xml:space="preserve">
     <value>s</value>
+  </data>
+  <data name="Second" xml:space="preserve">
+    <value>segon</value>
   </data>
   <data name="Seconds" xml:space="preserve">
     <value>segons</value>

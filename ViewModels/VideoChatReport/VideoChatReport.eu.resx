@@ -117,11 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ConnectionError" xml:space="preserve">
-    <value>Zure deia amaitu egin da konexio errore baten ondorioz</value>
-  </data>
+  
   <data name="LikeSentence" xml:space="preserve">
     <value>{0}(r)ekin hitz egitaa gustatu al zaizu?</value>
+  </data>
+  <data name="ConnectionError" xml:space="preserve">
+    <value>Zure deia amaitu egin da konexio errore baten ondorioz</value>
   </data>
   <data name="NoCameraNorMic" xml:space="preserve">
     <value>Zure adiskideak ezin izan du kamera edo mikroa konektatu eta deia amaitutzat eman da</value>

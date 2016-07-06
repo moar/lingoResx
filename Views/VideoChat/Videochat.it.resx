@@ -195,14 +195,35 @@
   <data name="VCDuration" xml:space="preserve">
     <value>Durata</value>
   </data>
+  <data name="VCEarned" xml:space="preserve">
+    <value>guadagnato</value>
+  </data>
+  <data name="VCMinTimeCallerInfo" xml:space="preserve">
+    <value>Hai 3 minuti per decidere se vuoi parlare con questo madrelingua. Dopo i 3 minuti, si inizierà ad applicare il tasso di questa conversazione</value>
+  </data>
+  <data name="VCMinTimeNativeInfo" xml:space="preserve">
+    <value>L'interlocutore ha 3 minuti per decidere di avere una conversazione con te. Una volta che si passa questi 3 minuti, la tariffa comincia ad essere applicata nella chiamata</value>
+  </data>
   <data name="VCNoMoreMatches" xml:space="preserve">
     <value>Non mostrare più abbinamenti</value>
   </data>
   <data name="VCOk" xml:space="preserve">
     <value>OK</value>
   </data>
+  <data name="VCRate" xml:space="preserve">
+    <value>Tariffa</value>
+  </data>
   <data name="VCReturnHome" xml:space="preserve">
     <value>Ritornare all'inizio</value>
+  </data>
+  <data name="VCSendMessage" xml:space="preserve">
+    <value>Inviare messaggi</value>
+  </data>
+  <data name="VCSendMessageTip" xml:space="preserve">
+    <value>Solo è possibile inviare messaggi ai tuoi contatti</value>
+  </data>
+  <data name="VCSpent" xml:space="preserve">
+    <value>speso</value>
   </data>
   <data name="VCTip" xml:space="preserve">
     <value>Pista</value>
@@ -215,5 +236,11 @@
   </data>
   <data name="WaitingTo" xml:space="preserve">
     <value>In attesa il permesso per utilizzare la tua camera...</value>
+  </data>
+  <data name="WalletCallError" xml:space="preserve">
+    <value>Questa chiamata non soddisfa con i termini di Langademy e non sarà calcolata.</value>
+  </data>
+  <data name="WalletReportFee" xml:space="preserve">
+    <value>Langademy addebita solo le tasse sulle Wallet-videocalls quando si parla nella tua lingua madre per più di 3 minuti</value>
   </data>
 </root>

@@ -120,6 +120,9 @@
   <data name="AccountManApp" xml:space="preserve">
     <value> Configuració</value>
   </data>
+  <data name="ChatRooms" xml:space="preserve">
+    <value>Chat rooms</value>
+  </data>
   <data name="Desktop" xml:space="preserve">
     <value>Escriptori  </value>
   </data>
@@ -137,6 +140,9 @@
   </data>
   <data name="MessageApp" xml:space="preserve">
     <value>Missatges</value>
+  </data>
+  <data name="MyWallet" xml:space="preserve">
+    <value>Al meu Wallet</value>
   </data>
   <data name="ProfileApp" xml:space="preserve">
     <value>Editar perfil</value>

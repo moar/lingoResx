@@ -255,4 +255,31 @@
   <data name="AutomatchExplananion" xml:space="preserve">
     <value>Il motore di ricerca di compagni di conversazione automatico ti trovera utenti online che corrispondono al tuo filtro in modo da poter effetuare chiamate video con loro.</value>
   </data>
+  <data name="DeskStateNativeCallsInfo" xml:space="preserve">
+    <value>Qui è possibile configurare, il ricevere chiamate nelle tue lingue madre.</value>
+  </data>
+  <data name="DeskWalletRequirements" xml:space="preserve">
+    <value>Vedi i requisiti di accesso</value>
+  </data>
+  <data name="WalletTileNativeMovement" xml:space="preserve">
+    <value>Hai parlato con {0} in {1}</value>
+  </data>
+  <data name="WalletTilePurchaseMovement" xml:space="preserve">
+    <value>Hai comprato {0} crediti</value>
+  </data>
+  <data name="WalletTileStudentMovement" xml:space="preserve">
+    <value>Hai parlato con {0} in {1}</value>
+  </data>
+  <data name="WalletLastMovement" xml:space="preserve">
+    <value>Ultimo movimento</value>
+  </data>
+  <data name="WalletNoMovement" xml:space="preserve">
+    <value>Ancora non ci sono movimenti sul tuo conto</value>
+  </data>
+  <data name="WalletTileBalance" xml:space="preserve">
+    <value>Saldo Wallet</value>
+  </data>
+  <data name="WalletTileFillAddress" xml:space="preserve">
+    <value>È necessario compilare i dati di fatturazione</value>
+  </data>
 </root>

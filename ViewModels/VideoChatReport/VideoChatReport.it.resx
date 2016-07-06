@@ -121,11 +121,20 @@
   <data name="LikeSentence" xml:space="preserve">
     <value>Ti è piaciuto chiacchierare con {0}?</value>
   </data>
+  <data name="ConnectionError" xml:space="preserve">
+    <value>Questa chiamata è stata finita da un errore di connessione</value>
+  </data>
+  <data name="NoCameraNorMic" xml:space="preserve">
+    <value>Il tuo partner non ha riuscito a collegarsi a una camera o micro e la chiamata è stato conclusa.</value>
+  </data>
   <data name="NoCostNatives" xml:space="preserve">
     <value>Le chiamate tra i madrelingua non hanno costo alcuno</value>
   </data>
   <data name="NoCostNoNatives" xml:space="preserve">
     <value>Le chiamate tra i non madrelingua non hanno costo alcuno</value>
+  </data>
+  <data name="NoMediaAcceptance" xml:space="preserve">
+    <value>Il tuo partner non ha riuscito a collegarsi a una camera o micro e la chiamata è stato conclusa.</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
     <value>Chiamata terminata</value>

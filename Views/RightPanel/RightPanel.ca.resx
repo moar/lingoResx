@@ -141,6 +141,9 @@
   <data name="NoMessages" xml:space="preserve">
     <value>No tens cap missatge </value>
   </data>
+  <data name="RPTBCall" xml:space="preserve">
+    <value>Trucada del Banc del Temps</value>
+  </data>
   <data name="Videocall" xml:space="preserve">
     <value>Videotrucada </value>
   </data>
@@ -209,5 +212,11 @@
   </data>
   <data name="RPRegForRooms" xml:space="preserve">
     <value>Accedeix per veure les sales</value>
+  </data>
+  <data name="RPChatRooms" xml:space="preserve">
+    <value>Sales de xat</value>
+  </data>
+  <data name="RPWalletCall" xml:space="preserve">
+    <value>Trucada Wallet</value>
   </data>
 </root>

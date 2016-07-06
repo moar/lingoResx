@@ -195,14 +195,35 @@
   <data name="VCDuration" xml:space="preserve">
     <value> Duració </value>
   </data>
+  <data name="VCEarned" xml:space="preserve">
+    <value>guanyats</value>
+  </data>
+  <data name="VCMinTimeCallerInfo" xml:space="preserve">
+    <value>Tens 3 minuts per decidir si vols conversar amb aquest natiu. Quan passin els 3 minuts se't començarà a aplicar la tarifa d'aquesta conversa</value>
+  </data>
+  <data name="VCMinTimeNativeInfo" xml:space="preserve">
+    <value>El teu company de conversa té 3 minuts per decidir si decideix mantenir una conversa amb tu. Una vegada que passin aquests 3 minuts la teva tarifa començarà a ser aplicada a la trucada</value>
+  </data>
   <data name="VCNoMoreMatches" xml:space="preserve">
     <value>No mostrar més emparellaments</value>
   </data>
   <data name="VCOk" xml:space="preserve">
     <value>OK</value>
   </data>
+  <data name="VCRate" xml:space="preserve">
+    <value>Tarifa</value>
+  </data>
   <data name="VCReturnHome" xml:space="preserve">
     <value>Tornar a l'inici</value>
+  </data>
+  <data name="VCSendMessage" xml:space="preserve">
+    <value>Enviar missatge</value>
+  </data>
+  <data name="VCSendMessageTip" xml:space="preserve">
+    <value>Només pots enviar missatges als teus contactes</value>
+  </data>
+  <data name="VCSpent" xml:space="preserve">
+    <value>gastats </value>
   </data>
   <data name="VCTip" xml:space="preserve">
     <value>Pista</value>
@@ -215,5 +236,11 @@
   </data>
   <data name="WaitingTo" xml:space="preserve">
     <value>Esperant el permís per utilitzar la teva càmera...</value>
+  </data>
+  <data name="WalletCallError" xml:space="preserve">
+    <value>Aquesta trucada no compleix les condicions de servei de Langademy i no computaran</value>
+  </data>
+  <data name="WalletReportFee" xml:space="preserve">
+    <value>Langademy només cobra comissions en les trucades de Wallet quan parles en el teu idioma natiu durant més de 3 minuts</value>
   </data>
 </root>

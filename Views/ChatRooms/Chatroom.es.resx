@@ -202,7 +202,7 @@
     <value>No puedes acceder a esta sala Wallet</value>
   </data>
   <data name="CRWalletConditions" xml:space="preserve">
-    <value>Para acceder a esta sala walet necesitas cumplir estos requisitos:</value>
+    <value>Para acceder a esta sala wallet necesitas cumplir estos requisitos:</value>
   </data>
   <data name="CRVisitorSentence" xml:space="preserve">
     <value>Escribir en esta sala es gratis pero necesitas tener créditos en tu cuenta Wallet ({0})</value>

@@ -141,6 +141,9 @@
   <data name="NoMessages" xml:space="preserve">
     <value>Non hai nessun messaggio</value>
   </data>
+  <data name="RPTBCall" xml:space="preserve">
+    <value>Chiamata dalla banca del tempo</value>
+  </data>
   <data name="Videocall" xml:space="preserve">
     <value>Video chiamata</value>
   </data>
@@ -209,5 +212,11 @@
   </data>
   <data name="RPRegForRooms" xml:space="preserve">
     <value>Accede per vedere le stanze</value>
+  </data>
+  <data name="RPChatRooms" xml:space="preserve">
+    <value>Chat Rooms</value>
+  </data>
+  <data name="RPWalletCall" xml:space="preserve">
+    <value>Chiamata Wallet</value>
   </data>
 </root>

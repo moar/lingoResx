@@ -120,6 +120,9 @@
   <data name="CalleeBusy" xml:space="preserve">
     <value>{0} està ocupat, intenta-ho més tard</value>
   </data>
+  <data name="CalleeIsNotNative" xml:space="preserve">
+    <value>El {0} no és el teu idioma natiu</value>
+  </data>
   <data name="CalleeNoChatHours" xml:space="preserve">
     <value>{0} no té saldo suficient al seu Banc de Temps per parlar amb tu</value>
   </data>
@@ -153,5 +156,20 @@
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>No pots trucar a {0}: no esteu connectats</value>
+  </data>
+  <data name="NoWalletRate" xml:space="preserve">
+    <value>{0} no ha definit una tarifa per aquesta trucada encara</value>
+  </data>
+  <data name="CallBuyWalletCredits" xml:space="preserve">
+    <value>compra crèdits</value>
+  </data>
+  <data name="NoEnoughCredits" xml:space="preserve">
+    <value>No tens suficients crèdits per trucar a {0}. Vés al teu wallet i {1}</value>
+  </data>
+  <data name="NativesCantCall" xml:space="preserve">
+    <value>Ets natiu, no pots trucar a altres natius</value>
+  </data>
+  <data name="PriceUpdateError" xml:space="preserve">
+    <value>S'ha produït un error durant la trucada</value>
   </data>
 </root>

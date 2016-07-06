@@ -222,4 +222,10 @@
   <data name="VPDeclineReq" xml:space="preserve">
     <value>Rifiutare</value>
   </data>
+  <data name="VPTBCall" xml:space="preserve">
+    <value>Chiamata dalla banca del tempo</value>
+  </data>
+  <data name="VPWalletCall" xml:space="preserve">
+    <value>Chiamata Wallet</value>
+  </data>
 </root>

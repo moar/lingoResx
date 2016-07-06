@@ -120,6 +120,15 @@
   <data name="AlreadyReported" xml:space="preserve">
     <value>Aquest usuari ja s'ha reportat</value>
   </data>
+  <data name="ConnectionLost" xml:space="preserve">
+    <value>S'ha perdut la connexió</value>
+  </data>
+  <data name="ConnectionLostContent" xml:space="preserve">
+    <value>No hem pogut connectar amb els servidors de Langademy. Clica refrescar si vols intentar-ho de nou</value>
+  </data>
+  <data name="RefreshConnection" xml:space="preserve">
+    <value>Refrescar</value>
+  </data>
   <data name="ServerError" xml:space="preserve">
     <value>Ho sentim, però alguna cosa ha sortit malament</value>
   </data>

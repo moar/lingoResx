@@ -222,4 +222,10 @@
   <data name="VPDeclineReq" xml:space="preserve">
     <value>Rebutjar </value>
   </data>
+  <data name="VPTBCall" xml:space="preserve">
+    <value>Trucada del Banc del Temps</value>
+  </data>
+  <data name="VPWalletCall" xml:space="preserve">
+    <value>Trucada Wallet</value>
+  </data>
 </root>

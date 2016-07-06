@@ -118,324 +118,324 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CashoutHistory" xml:space="preserve">
-    <value>History</value>
+    <value>Historia</value>
   </data>
   <data name="CashoutRequest" xml:space="preserve">
-    <value>Request</value>
+    <value>Eskaera</value>
   </data>
   <data name="MovBalance" xml:space="preserve">
-    <value>Balance</value>
+    <value>Saldoa</value>
   </data>
   <data name="MovCreditsIn" xml:space="preserve">
-    <value>Credits In</value>
+    <value>Kredituak</value>
   </data>
   <data name="MovCreditsOut" xml:space="preserve">
-    <value>Credits Out</value>
+    <value>Kredituak</value>
   </data>
   <data name="MovDate" xml:space="preserve">
-    <value>Date</value>
+    <value>Data</value>
   </data>
   <data name="MovDescription" xml:space="preserve">
-    <value>Description</value>
+    <value>Deskribapena</value>
   </data>
   <data name="MovementsFrom" xml:space="preserve">
-    <value>From</value>
+    <value>Noiztik</value>
   </data>
   <data name="MovementsLastTransactions" xml:space="preserve">
-    <value>Last transactions</value>
+    <value>Azken operazioak</value>
   </data>
   <data name="MovementsTo" xml:space="preserve">
-    <value>To</value>
+    <value>Arte</value>
   </data>
   <data name="MovementsTransactions" xml:space="preserve">
-    <value>Transactions</value>
+    <value>Operazioak</value>
   </data>
   <data name="MovLastMonth" xml:space="preserve">
-    <value>Last month</value>
+    <value>Azken hilabetea</value>
   </data>
   <data name="MovSelect" xml:space="preserve">
-    <value>Select</value>
+    <value>Aukeratu</value>
   </data>
   <data name="MovThisMonth" xml:space="preserve">
-    <value>This month</value>
+    <value>Hilabete honetan</value>
   </data>
   <data name="MovThisYear" xml:space="preserve">
-    <value>This year</value>
+    <value>Urte honetan</value>
   </data>
   <data name="MWAddressLine1" xml:space="preserve">
-    <value>Address (line 1)</value>
+    <value>Helbidea (1. lerroa)</value>
   </data>
   <data name="MWAddressLine2" xml:space="preserve">
-    <value>Address (line 2)</value>
+    <value>Helbidea (2. lerroa)</value>
   </data>
   <data name="MWCantSaveAddress" xml:space="preserve">
-    <value>We can't save your address because your location's taxes and your billing address's taxes differ</value>
+    <value>Ezin dugu zure helbidea gorde zu aurkitzen zaren tokiko zergak eta zure helbidean sartu dituzun tokiko zergak bat ez datozelako</value>
   </data>
   <data name="MWCity" xml:space="preserve">
-    <value>City</value>
+    <value>Hiria</value>
   </data>
   <data name="MWCountry" xml:space="preserve">
-    <value>Country</value>
+    <value>Herrialdea</value>
   </data>
   <data name="MWLastName" xml:space="preserve">
-    <value>Last name</value>
+    <value>Abizena</value>
   </data>
   <data name="MWName" xml:space="preserve">
-    <value>Name</value>
+    <value>Izena</value>
   </data>
   <data name="MWOrderCompleteTitle" xml:space="preserve">
-    <value>Payment processed successfully</value>
+    <value>Ordainketa ongi prozesatu da</value>
   </data>
   <data name="MWOrderCompleteWarn" xml:space="preserve">
-    <value>You need to complete your address so that your purchase becomes available in your Wallet</value>
+    <value>Zure erosketa Walletean eskuragarri izan dezazun beharrezkoa da zure heldidea betetzea</value>
   </data>
   <data name="MWRegionCounty" xml:space="preserve">
-    <value>Region/County</value>
+    <value>Eskualdea</value>
   </data>
   <data name="MWRegionCountyRequired" xml:space="preserve">
-    <value>Region/County required</value>
+    <value>Eskualdea sartzea beharrezkoa da</value>
   </data>
   <data name="MWStateProvince" xml:space="preserve">
-    <value>State/Province</value>
+    <value>Estatua/Probintzia</value>
   </data>
   <data name="MWStateProvinceRequired" xml:space="preserve">
-    <value>State/Province is required</value>
+    <value>Estatua/Probintzia sartzea beharrezkoa da</value>
   </data>
   <data name="MWTaxId" xml:space="preserve">
-    <value>Tax Id</value>
+    <value>IFK-a (Tax Id)</value>
   </data>
   <data name="MWZipCode" xml:space="preserve">
-    <value>Zip Code</value>
+    <value>Posta kodea</value>
   </data>
   <data name="ReceiptAmountofcredits" xml:space="preserve">
-    <value>Amount of credits</value>
+    <value>Kreditu kopurua</value>
   </data>
   <data name="ReceiptConfirmPersonalData" xml:space="preserve">
-    <value>Confirm your personal data or update</value>
+    <value>Sartu edo eguneratu itzazu zure datu pertsonalak</value>
   </data>
   <data name="ReceiptPurchaseCredits" xml:space="preserve">
-    <value>Purchase Langademy Credits</value>
+    <value>Erosi Langademyko kredituak</value>
   </data>
   <data name="WalletPurchaseConcept" xml:space="preserve">
-    <value>Credits purchase</value>
+    <value>Kreditu erosketa</value>
   </data>
   <data name="WalletVideoCallAsNative" xml:space="preserve">
-    <value>Videocall ({0}) with {1}</value>
+    <value>({0}) bideodeia {1}-(e)kin</value>
   </data>
   <data name="WalletVideoCallAsStudent" xml:space="preserve">
-    <value>Videocall to native speaker ({0}): {1}</value>
+    <value>({0}) bideodeia {1} mintzalagun natiboarekin</value>
   </data>
   <data name="AddCreditsAmmout" xml:space="preserve">
-    <value>Enter the amount of credits to add to your account</value>
+    <value>Sartu erosi nahi duzun kreditu kopurua</value>
   </data>
   <data name="AddCreditsCurBal" xml:space="preserve">
-    <value>Current balance</value>
+    <value>Saldo eskuragarria</value>
   </data>
   <data name="AddCreditsMinimumAmmount" xml:space="preserve">
-    <value>Minimum</value>
+    <value>Minimoa</value>
   </data>
   <data name="AddcreditsPaypal" xml:space="preserve">
-    <value>Checkout directly with Paypal or click Next for other options</value>
+    <value>Ordaindu zuzenean PayPalekin edo klikatu Hurrengoa beste ordainketa aukerak ikusteko</value>
   </data>
   <data name="AddCreditsTitle" xml:space="preserve">
-    <value>Purchase Langademy Credits</value>
+    <value>Erosi Langademy kredituak</value>
   </data>
   <data name="AddPaymentAmount" xml:space="preserve">
-    <value>Amount of credits</value>
+    <value>Kreditu kopurua</value>
   </data>
   <data name="AddPaymentNoCountryPayment" xml:space="preserve">
-    <value>We are sorry. There are no payment methods available in your country</value>
+    <value>Sentitzen dugu. Ez dago zure herrialderako ordainketa metodorik</value>
   </data>
   <data name="AddPaymentPaypalNote" xml:space="preserve">
-    <value>Confirm the order in the next step and you will be redirected to paypal to complete the process</value>
+    <value>Konfirmatu eskaera hurrengo pausoan eta PayPalera berbidaliko zaitugu prozesua bukatu dezazun</value>
   </data>
   <data name="AddPaymentPurchase" xml:space="preserve">
-    <value>Purchase Langademy Credits</value>
+    <value>Erosi Langademy kredituak</value>
   </data>
   <data name="AddPaymentRedsys" xml:space="preserve">
-    <value>Confirm the order in the next step and you will be redirected to the bank gateway to complete the process</value>
+    <value>Konfirmatu ezazu eskaera hurrengo pausoan eta zure bankuaren pasarelara berbidaliko zaitugu prozesua bukatu dezazun</value>
   </data>
   <data name="AddPaymentSelect" xml:space="preserve">
-    <value>Select the payment method</value>
+    <value>Aukeratu ordainketa metodoa</value>
   </data>
   <data name="AdPayCCCode" xml:space="preserve">
-    <value>Card Code</value>
+    <value>Txartelaren kodea</value>
   </data>
   <data name="AdPayCCExp" xml:space="preserve">
-    <value>Expiration</value>
+    <value>Iraungitze data</value>
   </data>
   <data name="AdPayCCName" xml:space="preserve">
-    <value>Cardholder name</value>
+    <value>Titularraren izena</value>
   </data>
   <data name="AdPayCCNum" xml:space="preserve">
-    <value>Card number</value>
+    <value>Txartel zenbakia</value>
   </data>
   <data name="AdPayCCType" xml:space="preserve">
-    <value>Type</value>
+    <value>Mota</value>
   </data>
   <data name="BillDataCashoutinfo" xml:space="preserve">
-    <value>Cash out information</value>
+    <value>Kreditu ateratze informazioa</value>
   </data>
   <data name="BillDataTitle" xml:space="preserve">
-    <value>Billing data</value>
+    <value>Fakturazio datuak</value>
   </data>
   <data name="BillDataUpdBillInfo" xml:space="preserve">
-    <value>Enter or update your billing information</value>
+    <value>Sartu edo eguneratu ezazu zure fakturazio informazioa</value>
   </data>
   <data name="BillsPanelBillNo" xml:space="preserve">
-    <value>No.</value>
+    <value>Zenbakia</value>
   </data>
   <data name="BillsPanelDate" xml:space="preserve">
-    <value>Date</value>
+    <value>Data</value>
   </data>
   <data name="BillsPanelDownload" xml:space="preserve">
-    <value>Download</value>
+    <value>Deskargatu</value>
   </data>
   <data name="BillsPanelLastBills" xml:space="preserve">
-    <value>Last bills</value>
+    <value>Azken fakturak</value>
   </data>
   <data name="BillsPanelPeriod" xml:space="preserve">
-    <value>Billing period</value>
+    <value>Fakturatze periodoa</value>
   </data>
   <data name="BillsPanelStatus" xml:space="preserve">
-    <value>Status</value>
+    <value>Egoera</value>
   </data>
   <data name="BillsPanelTitle" xml:space="preserve">
-    <value>Bills</value>
+    <value>Fakturak</value>
   </data>
   <data name="BuyAddCrds" xml:space="preserve">
-    <value>Add credits</value>
+    <value>Gehitu kredituak</value>
   </data>
   <data name="BuyConfirm" xml:space="preserve">
-    <value>Confirm</value>
+    <value>Konfirmatu</value>
   </data>
   <data name="BuyCShop" xml:space="preserve">
-    <value>Credit Shop</value>
+    <value>Kreditu denda</value>
   </data>
   <data name="BuyPayment" xml:space="preserve">
-    <value>Payment</value>
+    <value>Ordainketa</value>
   </data>
   <data name="BuyReceiptData" xml:space="preserve">
-    <value>Receipt data</value>
+    <value>Erreziboaren datuak</value>
   </data>
   <data name="CashOutEdPaypalId" xml:space="preserve">
-    <value>Paypal Id</value>
+    <value>PayPal Id-a</value>
   </data>
   <data name="CashOutEdPw" xml:space="preserve">
-    <value>Langademy Password</value>
+    <value>Langademyko pasahitza</value>
   </data>
   <data name="CCInfoCardNum" xml:space="preserve">
-    <value>Card number</value>
+    <value>Txartel zenbakia</value>
   </data>
   <data name="CCInfoCode" xml:space="preserve">
-    <value>Code</value>
+    <value>Kodea</value>
   </data>
   <data name="CCInfoExpiration" xml:space="preserve">
-    <value>Expiration</value>
+    <value>Iraungitze data</value>
   </data>
   <data name="CCInfotHolderName" xml:space="preserve">
-    <value>Cardholder name</value>
+    <value>Titularraren izena</value>
   </data>
   <data name="CCInfoType" xml:space="preserve">
-    <value>Credit card type</value>
+    <value>Kreditu txartel mota</value>
   </data>
   <data name="ConfirmOrderAmount" xml:space="preserve">
-    <value>Amount of credits</value>
+    <value>Kreditu kopurua</value>
   </data>
   <data name="ConfirmOrderInfo" xml:space="preserve">
-    <value>Payment information</value>
+    <value>Ordainketa informazioa</value>
   </data>
   <data name="ConfirmOrderTitle" xml:space="preserve">
-    <value>Confirm order</value>
+    <value>Eskaera konfirmatu</value>
   </data>
   <data name="COrderCompletedAmount" xml:space="preserve">
-    <value>Amount of credits purchased</value>
+    <value>Erositako kreditu kopurua</value>
   </data>
   <data name="COrderCompletedBalance" xml:space="preserve">
-    <value>Current balance</value>
+    <value>Saldo eskuragarria</value>
   </data>
   <data name="COrderCompletedTitle" xml:space="preserve">
-    <value>Congratulations! Your purchase has been processed succesfully</value>
+    <value>Bikain! Zure erosketa zuzen joan da</value>
   </data>
   <data name="COutPanelTitle" xml:space="preserve">
-    <value>Cash out</value>
+    <value>Kreditu ateratzea</value>
   </data>
   <data name="COutRO" xml:space="preserve">
-    <value>PayPal account</value>
+    <value>PayPal kontua</value>
   </data>
   <data name="CShopBillInfo" xml:space="preserve">
-    <value>Billing info</value>
+    <value>Fakturazioa informazioa</value>
   </data>
   <data name="CShopBills" xml:space="preserve">
-    <value>Bills</value>
+    <value>Fakturak</value>
   </data>
   <data name="CShopCashout" xml:space="preserve">
-    <value>Cash out</value>
+    <value>Kreditu-ateratzea</value>
   </data>
   <data name="CShopCreditShop" xml:space="preserve">
-    <value>Credit Shop</value>
+    <value>Kreditu denda</value>
   </data>
   <data name="CShopTransactions" xml:space="preserve">
-    <value>Transactions</value>
+    <value>Operazioak</value>
   </data>
   <data name="MWPaypalInfo" xml:space="preserve">
-    <value>Confirm the order and you will be redirected to PayPal to complete the process</value>
+    <value>Konfirmatu ezazu zure eskaera eta PayPalera berbidaliko zaitugu erosketa bukatu dezazun</value>
   </data>
   <data name="MWRedsysInfo" xml:space="preserve">
-    <value>Click confirm and you will be redirected to the bank gateway to complete the process</value>
+    <value>Konfirmatu ezazu zure eskera eta zuren bankuaren pasarelara berbidaliko zaitugu erosketa bukatu dezazun</value>
   </data>
   <data name="OderCompletedBackMw" xml:space="preserve">
-    <value>Back to My Wallet</value>
+    <value>Itzuki My Walletera</value>
   </data>
   <data name="OrderCompletedNum" xml:space="preserve">
-    <value>Order number</value>
+    <value>Eskaera zenbakia</value>
   </data>
   <data name="OrderCompletedpurchase" xml:space="preserve">
-    <value>Langademy credit purchase</value>
+    <value>Langademy kredituen erosketa</value>
   </data>
   <data name="ReqCashoutAccPass" xml:space="preserve">
-    <value>Please, enter your Langademy Account password</value>
+    <value>Mesedez, sartu ezazu zure Langademyko pasahitza</value>
   </data>
   <data name="ReqCashoutAvailableBalance" xml:space="preserve">
-    <value>Available balance</value>
+    <value>Saldo eskuragarria</value>
   </data>
   <data name="ReqCashoutConditions" xml:space="preserve">
-    <value>I'm the Paypal account owner. I have not misrepresented my identity information. The funds in my wallet account have been legally obtained according to Langademy's terms of service. I acknowledge that it is my responsibility to comply with my obligations under income tax provisions in my country</value>
+    <value>PayPal kontu honen jabea naiz. Ez dut nire nortasun informazioa faltsifikatu. My Walleteko kredituak legea eta Lanagademyko baldintzak beteaz lortu ditut. Nire herrialdeko zergen inguruko legeak betetzea nire betebeharra dela onartzen dut</value>
   </data>
   <data name="ReqCashoutConfirm" xml:space="preserve">
-    <value>Confirm</value>
+    <value>Konfirmatu</value>
   </data>
   <data name="ReqCashoutConfirmation" xml:space="preserve">
-    <value>Confirmation</value>
+    <value>Konfirmazioa</value>
   </data>
   <data name="ReqCashoutConfirmCheck" xml:space="preserve">
-    <value>I confirm the above information is true</value>
+    <value>Informazio hau egia dela berresten dut</value>
   </data>
   <data name="ReqCashoutCredits" xml:space="preserve">
-    <value>Cash out Langademy Credits</value>
+    <value>Langademyko kredituak atera</value>
   </data>
   <data name="ReqCashoutEnterAmmount" xml:space="preserve">
-    <value>Enter the amount of credits to cash out</value>
+    <value>Sartu ateratzea nahi duzun kreditu kopurua</value>
   </data>
   <data name="ReqCashoutMethodConfirm" xml:space="preserve">
-    <value>Confirm cash out method or</value>
+    <value>Berretsi kredituak ateratzeko metodoa edo</value>
   </data>
   <data name="ReqCashoutNewBal" xml:space="preserve">
-    <value>New balance</value>
+    <value>Saldo berria</value>
   </data>
   <data name="ReqCashoutNote" xml:space="preserve">
-    <value>Note: Cash out requests are processed once a week. You can follow the status of your request at the Cash out -&gt; History section</value>
+    <value>Oharra: Kredituak ateratzeko eskaerak astean behin prozesatzen dira. Eskeaeren egoerak Kreditu ateratzea -&gt; Historiala sezkioan jarrai ditzakezu</value>
   </data>
   <data name="ReqCashoutPaypalAccount" xml:space="preserve">
-    <value>Paypal account</value>
+    <value>PayPal kontua</value>
   </data>
   <data name="ReqCashoutReq" xml:space="preserve">
-    <value>Amount requested</value>
+    <value>Eskatutako kopurua</value>
   </data>
   <data name="ReqCashoutTitle" xml:space="preserve">
-    <value>Cash out request submitted successfully</value>
+    <value>Kredituak ateratzeko eskaera zuzen bidali da</value>
   </data>
   <data name="ReqCashoutUpdate" xml:space="preserve">
-    <value>Update</value>
+    <value>Eguneratu</value>
   </data>
 </root>

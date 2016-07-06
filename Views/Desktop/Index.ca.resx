@@ -255,4 +255,31 @@
   <data name="AutomatchExplananion" xml:space="preserve">
     <value>El cercador de companys de conversa automàtic et buscarà companys que estan en línia i que compleixen el teu filtre de manera automàtica perquè puguis fer videotrucades amb ells.</value>
   </data>
+  <data name="DeskStateNativeCallsInfo" xml:space="preserve">
+    <value>Aquí pots configurar si vols rebre trucades en les teves llengües natives</value>
+  </data>
+  <data name="DeskWalletRequirements" xml:space="preserve">
+    <value>Veure els requisits d'accés</value>
+  </data>
+  <data name="WalletTileNativeMovement" xml:space="preserve">
+    <value>Has parlat amb {0} en {1}</value>
+  </data>
+  <data name="WalletTilePurchaseMovement" xml:space="preserve">
+    <value>Has comprat {0} crèdits</value>
+  </data>
+  <data name="WalletTileStudentMovement" xml:space="preserve">
+    <value>Has parlat amb {0} en {1}</value>
+  </data>
+  <data name="WalletLastMovement" xml:space="preserve">
+    <value>Últim moviment</value>
+  </data>
+  <data name="WalletNoMovement" xml:space="preserve">
+    <value>Encara no tens moviments al teu compte</value>
+  </data>
+  <data name="WalletTileBalance" xml:space="preserve">
+    <value>Saldo Wallet</value>
+  </data>
+  <data name="WalletTileFillAddress" xml:space="preserve">
+    <value>Has d'omplir les dades de facturació</value>
+  </data>
 </root>

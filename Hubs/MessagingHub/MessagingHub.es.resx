@@ -157,7 +157,7 @@
     <value>No puedes llamar a {0}: no estáis conectados</value>
   </data>
   <data name="NoWalletRate" xml:space="preserve">
-    <value>{0} no ha definido una tairifa para esta llamada todavía</value>
+    <value>{0} no ha definido una tarifa para esta llamada todavía</value>
   </data>
   <data name="CallBuyWalletCredits" xml:space="preserve">
     <value>compra créditos</value>

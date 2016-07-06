@@ -255,6 +255,9 @@
   <data name="AutomatchExplananion" xml:space="preserve">
     <value>Mintzalagun bilatzaile automatikoak eskuragarri dauden eta zure iragazkia betetzen duten erabiltzaileak aurkituko dizkizu automatikoki beraiekin bideodeiak egin ditzazun</value>
   </data>
+  <data name="DeskStateNativeCallsInfo" xml:space="preserve">
+    <value>Hemen zure hizkuntza natiboetan deirik jaso nahi duzun erabaki dezakezu</value>
+  </data>
   <data name="DeskWalletRequirements" xml:space="preserve">
     <value>Ikusi sartzeko baldintzak</value>
   </data>

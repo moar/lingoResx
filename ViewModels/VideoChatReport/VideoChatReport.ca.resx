@@ -121,11 +121,20 @@
   <data name="LikeSentence" xml:space="preserve">
     <value>T'ha agradat conversar amb {0} ?</value>
   </data>
+  <data name="ConnectionError" xml:space="preserve">
+    <value>Aquesta trucada s'ha acabat per un error en la connexió</value>
+  </data>
+  <data name="NoCameraNorMic" xml:space="preserve">
+    <value>El teu company no ha pogut connectar una càmera o micro i la trucada ha hagut de ser finalitzada</value>
+  </data>
   <data name="NoCostNatives" xml:space="preserve">
     <value>Les trucades entre els natius no tenen cost</value>
   </data>
   <data name="NoCostNoNatives" xml:space="preserve">
     <value>Les trucades entre usuaris que no son natius no tenen cost </value>
+  </data>
+  <data name="NoMediaAcceptance" xml:space="preserve">
+    <value>El teu company no ha pogut connectar una càmera o micro i la trucada ha hagut de ser finalitzada</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
     <value>Has finalitzat la trucada</value>

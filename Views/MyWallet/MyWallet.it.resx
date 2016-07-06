@@ -117,104 +117,59 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CRAdvanced" xml:space="preserve">
-    <value>Avanzato</value>
+  
+  <data name="MWAddressLine1" xml:space="preserve">
+    <value>Indirizzo (linea 1)</value>
   </data>
-  <data name="CRAutomaticPartner" xml:space="preserve">
-    <value>Ricerca automatica di compagni</value>
+  <data name="MWAddressLine2" xml:space="preserve">
+    <value>Indirizzo (linea 2)</value>
   </data>
-  <data name="CRAvailable" xml:space="preserve">
-    <value>Disponibile</value>
+  <data name="MWCantSaveAddress" xml:space="preserve">
+    <value>Non possiamo tenere l'indirizzo perché le tasse dove sei e le tasse del vostro indirizzo di fatturazione non corrispondono</value>
   </data>
-  <data name="CRBeginners" xml:space="preserve">
-    <value>Principiante</value>
+  <data name="MWCity" xml:space="preserve">
+    <value>Città</value>
   </data>
-  <data name="CRCall" xml:space="preserve">
-    <value>Chiamare</value>
+  <data name="MWCountry" xml:space="preserve">
+    <value>Paese</value>
   </data>
-  <data name="CRHideFiltered" xml:space="preserve">
-    <value>Nascondere filtrati</value>
+  <data name="MWLastName" xml:space="preserve">
+    <value>Cognome</value>
   </data>
-  <data name="CRIntermediate" xml:space="preserve">
-    <value>Intermedio</value>
+  <data name="MWName" xml:space="preserve">
+    <value>Nome</value>
   </data>
-  <data name="CRMeetupsTab" xml:space="preserve">
-    <value>Appuntamenti</value>
+  <data name="MWOrderCompleteTitle" xml:space="preserve">
+    <value>Il pagamento è stato effettuato correttamente</value>
   </data>
-  <data name="CRMeetupTime" xml:space="preserve">
-    <value>Si ha organizzato un appuntamento alle {0}</value>
+  <data name="MWOrderCompleteWarn" xml:space="preserve">
+    <value>È necessario inserire il tuo indirizzo in modo che il tuo acquisto sia disponibile nel tuo Wallet</value>
   </data>
-  <data name="CRMeetupTopics" xml:space="preserve">
-    <value>Argomenti degli appuntamenti</value>
+  <data name="MWRegionCounty" xml:space="preserve">
+    <value>Regione</value>
   </data>
-  <data name="CRNatives" xml:space="preserve">
-    <value>Madrelingua</value>
+  <data name="MWRegionCountyRequired" xml:space="preserve">
+    <value>È necessario inserire la regione</value>
   </data>
-  <data name="CRNextMeetups" xml:space="preserve">
-    <value>Prossimi appuntamenti</value>
+  <data name="MWStateProvince" xml:space="preserve">
+    <value>Stato/Provincia</value>
   </data>
-  <data name="CRNoLanguageMeetups" xml:space="preserve">
-    <value>Non si hanno organizzato appuntamenti per questa stanza</value>
+  <data name="MWStateProvinceRequired" xml:space="preserve">
+    <value>È necessario inserire lo stato / provincia </value>
   </data>
-  <data name="CRNoMeetup" xml:space="preserve">
-    <value>Non c'è nessun appuntamento a quest'ora</value>
+  <data name="MWTaxId" xml:space="preserve">
+    <value>Codice fiscale</value>
   </data>
-  <data name="CRNoTopicsProposed" xml:space="preserve">
-    <value>Non ci sono preposti argomenti di conversazione in questo appuntamento</value>
+  <data name="MWZipCode" xml:space="preserve">
+    <value>Codice postale</value>
   </data>
-  <data name="CRNumNatives" xml:space="preserve">
-    <value>Madrelingua</value>
+  <data name="ReceiptAmountofcredits" xml:space="preserve">
+    <value>Numero di crediti</value>
   </data>
-  <data name="CRNumParticipants" xml:space="preserve">
-    <value>Partecipanti</value>
+  <data name="ReceiptConfirmPersonalData" xml:space="preserve">
+    <value>Inserisci o aggiorna i tuoi dati personali</value>
   </data>
-  <data name="CRTopicsTab" xml:space="preserve">
-    <value>Argomenti</value>
-  </data>
-  <data name="CRUsersCount" xml:space="preserve">
-    <value>utenti</value>
-  </data>
-  <data name="CRUsersTab" xml:space="preserve">
-    <value>Utenti</value>
-  </data>
-  <data name="CRViewProfile" xml:space="preserve">
-    <value>Visualizza il profilo</value>
-  </data>
-  <data name="CRWriteTextbox" xml:space="preserve">
-    <value>Scrive qui...</value>
-  </data>
-  <data name="CRParticipants" xml:space="preserve">
-    <value>Partecipanti</value>
-  </data>
-  <data name="CRWalletCondition1Content" xml:space="preserve">
-    <value>È necessario avere almeno {0} voti positivi in conversazioni di {1}. Vai nella stanza Banca del Tempo di {1}, effettua videochiamate e ottieni un feedback positivo!</value>
-  </data>
-  <data name="CRWalletCondition1Title" xml:space="preserve">
-    <value>Guadagna reputazione:</value>
-  </data>
-  <data name="CRWalletCondition2Content" xml:space="preserve">
-    <value>Vai al tuo {0} e aggiunge i tuoi dati di fatturazione</value>
-  </data>
-  <data name="CRWalletCondition2Title" xml:space="preserve">
-    <value>Aggiunge i tuoi dati di fatturazione:</value>
-  </data>
-  <data name="CRWalletConditionHeading" xml:space="preserve">
-    <value>Non si può accedere a questa wallet room</value>
-  </data>
-  <data name="CRWalletConditions" xml:space="preserve">
-    <value>Per accedere a questa wallet room è necessario soddisfare i seguenti requisiti:</value>
-  </data>
-  <data name="CRVisitorSentence" xml:space="preserve">
-    <value>Scrivere in questa chat room è gratuito, ma è necessario avere nel tuo conto crediti Wallet ({0}) 
-</value>
-  </data>
-  <data name="CRBuyCredits" xml:space="preserve">
-    <value>Acquista crediti</value>
-  </data>
-  <data name="CRWalletConditionWallet" xml:space="preserve">
-    <value>Wallet</value>
-  </data>
-  <data name="CRBalance" xml:space="preserve">
-    <value>I tuoi crediti</value>
+  <data name="ReceiptPurchaseCredits" xml:space="preserve">
+    <value>Acquista crediti Langademy</value>
   </data>
 </root>

@@ -198,6 +198,9 @@
   <data name="VCEarned" xml:space="preserve">
     <value>ganados</value>
   </data>
+  <data name="VCMinTimeCallerInfo" xml:space="preserve">
+    <value>Tienes 3 minutos para decidir si quieres conversar con este nativo. Cuando pasen los 3 minutos se te empezará a aplicar la tarifa de esta conversación</value>
+  </data>
   <data name="VCMinTimeNativeInfo" xml:space="preserve">
     <value>Tu compañero de conversación tiene 3 minutos para decidir si decide mantener una conversación contigo. Una vez que pasen esos 3 minutos tu tarifa comenzará a ser aplicada en la llamada</value>
   </data>
@@ -217,7 +220,7 @@
     <value>Mandar mensaje</value>
   </data>
   <data name="VCSendMessageTip" xml:space="preserve">
-    <value>Soo puedes mandar mensajes a tus contactos</value>
+    <value>Sólo puedes mandar mensajes a tus contactos</value>
   </data>
   <data name="VCSpent" xml:space="preserve">
     <value>gastados</value>

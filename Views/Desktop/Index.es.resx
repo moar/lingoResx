@@ -274,7 +274,7 @@
     <value>Último movimiento</value>
   </data>
   <data name="WalletNoMovement" xml:space="preserve">
-    <value>Oraindik ez duzu mugimendurik zure kontuan </value>
+    <value>Todavía no tienes movimientos en tu cuenta</value>
   </data>
   <data name="WalletTileBalance" xml:space="preserve">
     <value>Saldo Wallet</value>

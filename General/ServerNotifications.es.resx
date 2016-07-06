@@ -124,7 +124,7 @@
     <value>Se ha perdido la conexión</value>
   </data>
   <data name="ConnectionLostContent" xml:space="preserve">
-    <value>No hemos podidos conectar con los servidores de Langademy. Pulsa refrescar si quieres intentarlo de nuevo</value>
+    <value>No hemos podido conectar con los servidores de Langademy. Pulsa refrescar si quieres intentarlo de nuevo</value>
   </data>
   <data name="RefreshConnection" xml:space="preserve">
     <value>Refrescar</value>

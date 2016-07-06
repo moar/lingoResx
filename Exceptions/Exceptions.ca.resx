@@ -162,4 +162,16 @@
   <data name="ReturnHomepage" xml:space="preserve">
     <value>Anar a la pàgina principal</value>
   </data>
+  <data name="ValueNotSaved" xml:space="preserve">
+    <value>No s'ha pogut guardar el valor</value>
+  </data>
+  <data name="PostNotAdded" xml:space="preserve">
+    <value>No es pogué afegir el post</value>
+  </data>
+  <data name="PostNotEdited" xml:space="preserve">
+    <value>El post no s'ha pogut editar</value>
+  </data>
+  <data name="TooManyTopics" xml:space="preserve">
+    <value>No pots afegir més temes</value>
+  </data>
 </root>

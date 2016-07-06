@@ -120,6 +120,9 @@
   <data name="CalleeBusy" xml:space="preserve">
     <value>{0} è occupato in questo momento. Prova più tardi</value>
   </data>
+  <data name="CalleeIsNotNative" xml:space="preserve">
+    <value>Il {0} non è la tua lingua madre</value>
+  </data>
   <data name="CalleeNoChatHours" xml:space="preserve">
     <value>{0} non ha saldo sufficiente nella sua Banca di Tempo per parlare con te
 </value>
@@ -153,5 +156,20 @@
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>Non è possibile chiamare a {0}: non siete collegati</value>
+  </data>
+  <data name="NoWalletRate" xml:space="preserve">
+    <value>{0} ancora non ha fissato una tariffa per questa chiamata </value>
+  </data>
+  <data name="CallBuyWalletCredits" xml:space="preserve">
+    <value>acquista crediti</value>
+  </data>
+  <data name="NoEnoughCredits" xml:space="preserve">
+    <value>Non hai credito sufficiente per chiamare {0}. Vai sul tuo Wallet e {1}</value>
+  </data>
+  <data name="NativesCantCall" xml:space="preserve">
+    <value>Sei un madrelingua, non puoi chiamare ad altri madrelingue</value>
+  </data>
+  <data name="PriceUpdateError" xml:space="preserve">
+    <value>Si è verificato un errore durante la chiamata</value>
   </data>
 </root>
