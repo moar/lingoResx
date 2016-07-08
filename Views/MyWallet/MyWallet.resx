@@ -453,4 +453,22 @@
   <data name="MWMovementInfo" xml:space="preserve">
     <value>At the end of the month, Langademy will charge you a fee that will be reflected in your next invoice. This fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either.</value>
   </data>
+  <data name="CashoutCreatePW" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="CashoutCreatePWSent" xml:space="preserve">
+    <value>You don't have a local account. You need to create a password for your accoutn if you want to edit your billling data.</value>
+  </data>
+  <data name="CashOutPanAmount" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="CashOutPanDate" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="CashOutPanNo" xml:space="preserve">
+    <value>No.</value>
+  </data>
+  <data name="CashOutPanStatus" xml:space="preserve">
+    <value>Status</value>
+  </data>
 </root>

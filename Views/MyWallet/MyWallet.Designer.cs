@@ -340,6 +340,24 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Create.
+        /// </summary>
+        public static string CashoutCreatePW {
+            get {
+                return ResourceManager.GetString("CashoutCreatePW", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You don&apos;t have a local account. You need to create a password for your accoutn if you want to edit your billling data..
+        /// </summary>
+        public static string CashoutCreatePWSent {
+            get {
+                return ResourceManager.GetString("CashoutCreatePWSent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Paypal Id.
         /// </summary>
         public static string CashOutEdPaypalId {
@@ -363,6 +381,42 @@ namespace Resources.Views.MyWallet {
         public static string CashoutHistory {
             get {
                 return ResourceManager.GetString("CashoutHistory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Amount.
+        /// </summary>
+        public static string CashOutPanAmount {
+            get {
+                return ResourceManager.GetString("CashOutPanAmount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date.
+        /// </summary>
+        public static string CashOutPanDate {
+            get {
+                return ResourceManager.GetString("CashOutPanDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No..
+        /// </summary>
+        public static string CashOutPanNo {
+            get {
+                return ResourceManager.GetString("CashOutPanNo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Status.
+        /// </summary>
+        public static string CashOutPanStatus {
+            get {
+                return ResourceManager.GetString("CashOutPanStatus", resourceCulture);
             }
         }
         

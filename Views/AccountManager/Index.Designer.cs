@@ -223,6 +223,33 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have no password for this account.
+        /// </summary>
+        public static string AMNoPw {
+            get {
+                return ResourceManager.GetString("AMNoPw", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Create.
+        /// </summary>
+        public static string AMNoPwCreate {
+            get {
+                return ResourceManager.GetString("AMNoPwCreate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You haven&apos;t created a password for this account yet. Create a password add more security to your account.
+        /// </summary>
+        public static string AMNoPwTitle {
+            get {
+                return ResourceManager.GetString("AMNoPwTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Blocked users.
         /// </summary>
         public static string Blocking {
