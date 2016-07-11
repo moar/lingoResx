@@ -351,9 +351,6 @@
   <data name="COrderCompletedAmount" xml:space="preserve">
     <value>Amount of credits purchased</value>
   </data>
-  <data name="COrderCompletedBalance" xml:space="preserve">
-    <value>Current balance</value>
-  </data>
   <data name="COrderCompletedTitle" xml:space="preserve">
     <value>Congratulations! Your purchase has been processed succesfully</value>
   </data>
@@ -418,7 +415,7 @@
     <value>Enter the amount of credits to cash out</value>
   </data>
   <data name="ReqCashoutMethodConfirm" xml:space="preserve">
-    <value>Confirm cash out method or</value>
+    <value>Confirm the cash out method or</value>
   </data>
   <data name="ReqCashoutNewBal" xml:space="preserve">
     <value>New balance</value>
@@ -451,7 +448,7 @@
     <value>TOTAL BALANCE</value>
   </data>
   <data name="MWMovementInfo" xml:space="preserve">
-    <value>At the end of the month, Langademy will charge you a fee that will be reflected in your next invoice. This fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either.</value>
+    <value>At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. and it is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a cashout, the amount of credits that you have requested won't be available to use.</value>
   </data>
   <data name="CashoutCreatePW" xml:space="preserve">
     <value>Create</value>
@@ -470,5 +467,51 @@
   </data>
   <data name="CashOutPanStatus" xml:space="preserve">
     <value>Status</value>
+  </data>
+  <data name="ReqCashoutMin" xml:space="preserve">
+    <value>Minimum</value>
+  </data>
+  <data name="BillingMovementConcept" xml:space="preserve">
+    <value>Invoice: {0}-{1}</value>
+  </data>
+  <data name="UpdReqCashChangedAfter" xml:space="preserve">
+    <value>You changed your paypal account after requesting this withdrawal</value>
+  </data>
+  <data name="UpdReqCashChangePaypalAcc" xml:space="preserve">
+    <value>If you want to change the paypal account where Langademy will transfer the money you must link a new one first.
+                                You can do it {0}. After that you can come back to this screen and update your request</value>
+  </data>
+  <data name="UpdReqCashHere" xml:space="preserve">
+    <value>here</value>
+  </data>
+  <data name="UpdReqCashMaxWithdrawal" xml:space="preserve">
+    <value>Maximum withdrawal amount</value>
+  </data>
+  <data name="UpdReqCashNoPaypal" xml:space="preserve">
+    <value>Currently you don't have a paypal account linked with Langademy</value>
+  </data>
+  <data name="UpdReqCashRequested" xml:space="preserve">
+    <value>You requested a withdrawal on {0}. Before your request is processed you can update or cancel it</value>
+  </data>
+  <data name="UpdReqCashSelectTransAccount" xml:space="preserve">
+    <value>Please, select the account where Langademy will transfer your money</value>
+  </data>
+  <data name="UpdReqCashUpdRequest" xml:space="preserve">
+    <value>Update withdrawal request</value>
+  </data>
+  <data name="UpdRquCashUpdateAmount" xml:space="preserve">
+    <value>Update withdrawal amount</value>
+  </data>
+  <data name="CashoutRequestEnterPaypal" xml:space="preserve">
+    <value>You have to enter your Paypal account Id before you can request a cash out. You can do it {0}</value>
+  </data>
+  <data name="InProcReqCashoutAmount" xml:space="preserve">
+    <value>Requested amount</value>
+  </data>
+  <data name="InProcRequCashoutProcessed" xml:space="preserve">
+    <value>You requested a withdrawal which is currently being processed. After you receive your payment you will be able to make a new request</value>
+  </data>
+  <data name="UpdCashSuc" xml:space="preserve">
+    <value>Withdrawal request updated successfully</value>
   </data>
 </root>

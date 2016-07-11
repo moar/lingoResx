@@ -232,6 +232,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Invoice: {0}-{1}.
+        /// </summary>
+        public static string BillingMovementConcept {
+            get {
+                return ResourceManager.GetString("BillingMovementConcept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to No..
         /// </summary>
         public static string BillsPanelBillNo {
@@ -430,6 +439,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have to enter your Paypal account Id before you can request a cash out. You can do it {0}.
+        /// </summary>
+        public static string CashoutRequestEnterPaypal {
+            get {
+                return ResourceManager.GetString("CashoutRequestEnterPaypal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Card number.
         /// </summary>
         public static string CCInfoCardNum {
@@ -511,15 +529,6 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Current balance.
-        /// </summary>
-        public static string COrderCompletedBalance {
-            get {
-                return ResourceManager.GetString("COrderCompletedBalance", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Congratulations! Your purchase has been processed succesfully.
         /// </summary>
         public static string COrderCompletedTitle {
@@ -588,6 +597,24 @@ namespace Resources.Views.MyWallet {
         public static string CShopTransactions {
             get {
                 return ResourceManager.GetString("CShopTransactions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Requested amount.
+        /// </summary>
+        public static string InProcReqCashoutAmount {
+            get {
+                return ResourceManager.GetString("InProcReqCashoutAmount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You requested a withdrawal which is currently being processed. After you receive your payment you will be able to make a new request.
+        /// </summary>
+        public static string InProcRequCashoutProcessed {
+            get {
+                return ResourceManager.GetString("InProcRequCashoutProcessed", resourceCulture);
             }
         }
         
@@ -781,7 +808,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee that will be reflected in your next invoice. This fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either..
+        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. and it is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a cashout, the amount of credits that you have requested won&apos;t be available to use..
         /// </summary>
         public static string MWMovementInfo {
             get {
@@ -1033,11 +1060,20 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm cash out method or.
+        ///   Looks up a localized string similar to Confirm the cash out method or.
         /// </summary>
         public static string ReqCashoutMethodConfirm {
             get {
                 return ResourceManager.GetString("ReqCashoutMethodConfirm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Minimum.
+        /// </summary>
+        public static string ReqCashoutMin {
+            get {
+                return ResourceManager.GetString("ReqCashoutMin", resourceCulture);
             }
         }
         
@@ -1092,6 +1128,97 @@ namespace Resources.Views.MyWallet {
         public static string ReqCashoutUpdate {
             get {
                 return ResourceManager.GetString("ReqCashoutUpdate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Withdrawal request updated successfully.
+        /// </summary>
+        public static string UpdCashSuc {
+            get {
+                return ResourceManager.GetString("UpdCashSuc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You changed your paypal account after requesting this withdrawal.
+        /// </summary>
+        public static string UpdReqCashChangedAfter {
+            get {
+                return ResourceManager.GetString("UpdReqCashChangedAfter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you want to change the paypal account where Langademy will transfer the money you must link a new one first.
+        ///                                You can do it {0}. After that you can come back to this screen and update your request.
+        /// </summary>
+        public static string UpdReqCashChangePaypalAcc {
+            get {
+                return ResourceManager.GetString("UpdReqCashChangePaypalAcc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to here.
+        /// </summary>
+        public static string UpdReqCashHere {
+            get {
+                return ResourceManager.GetString("UpdReqCashHere", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Maximum withdrawal amount.
+        /// </summary>
+        public static string UpdReqCashMaxWithdrawal {
+            get {
+                return ResourceManager.GetString("UpdReqCashMaxWithdrawal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Currently you don&apos;t have a paypal account linked with Langademy.
+        /// </summary>
+        public static string UpdReqCashNoPaypal {
+            get {
+                return ResourceManager.GetString("UpdReqCashNoPaypal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You requested a withdrawal on {0}. Before your request is processed you can update or cancel it.
+        /// </summary>
+        public static string UpdReqCashRequested {
+            get {
+                return ResourceManager.GetString("UpdReqCashRequested", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please, select the account where Langademy will transfer your money.
+        /// </summary>
+        public static string UpdReqCashSelectTransAccount {
+            get {
+                return ResourceManager.GetString("UpdReqCashSelectTransAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update withdrawal request.
+        /// </summary>
+        public static string UpdReqCashUpdRequest {
+            get {
+                return ResourceManager.GetString("UpdReqCashUpdRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update withdrawal amount.
+        /// </summary>
+        public static string UpdRquCashUpdateAmount {
+            get {
+                return ResourceManager.GetString("UpdRquCashUpdateAmount", resourceCulture);
             }
         }
         

@@ -351,9 +351,6 @@
   <data name="COrderCompletedAmount" xml:space="preserve">
     <value>Número de créditos comprados</value>
   </data>
-  <data name="COrderCompletedBalance" xml:space="preserve">
-    <value>Saldo actual</value>
-  </data>
   <data name="COrderCompletedTitle" xml:space="preserve">
     <value>¡Feilicidades! Tu compra se ha efectuado correctamente</value>
   </data>
@@ -400,7 +397,7 @@
     <value>Saldo disponible</value>
   </data>
   <data name="ReqCashoutConditions" xml:space="preserve">
-    <value>Soy el propietario de la cuenta PayPal. No he tergiversado la información de mi identidad. Los fondos en mi cuenta de My Wallet han sido obtenidos legalmente de acuerdo a los términos de servicio de Langademy. Reconozco que es mi responsabilidad cumplir con mis obligaciones  tributarias en virtud a las leyes tributarias de mi país.</value>
+    <value>Soy el propietario de la cuenta PayPal. No he falseado mis datos de identificación. Los fondos en mi cuenta de My Wallet han sido obtenidos legalmente de acuerdo a los términos de servicio de Langademy. Reconozco que es mi responsabilidad cumplir con mis obligaciones  tributarias en virtud a las leyes tributarias de mi país.</value>
   </data>
   <data name="ReqCashoutConfirm" xml:space="preserve">
     <value>Confirmar</value>
@@ -415,10 +412,10 @@
     <value>Reintegro de Créditos de Langademy</value>
   </data>
   <data name="ReqCashoutEnterAmmount" xml:space="preserve">
-    <value>Introduce el número de créditos para el reintegro</value>
+    <value>Introduce la cantidad del reintegro</value>
   </data>
   <data name="ReqCashoutMethodConfirm" xml:space="preserve">
-    <value>Confirma un método para el reintegro o</value>
+    <value>Confirma el método para el reintegro o</value>
   </data>
   <data name="ReqCashoutNewBal" xml:space="preserve">
     <value>Nuevo saldo</value>
@@ -437,5 +434,11 @@
   </data>
   <data name="ReqCashoutUpdate" xml:space="preserve">
     <value>Actualizar</value>
+  </data>
+  <data name="ReqCashoutMin" xml:space="preserve">
+    <value>Minimo</value>
+  </data>
+  <data name="UpdRquCashUpdateAmount" xml:space="preserve">
+    <value>Actualiza la cantidad del reintegro</value>
   </data>
 </root>
