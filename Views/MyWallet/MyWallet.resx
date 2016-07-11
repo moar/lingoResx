@@ -514,4 +514,7 @@
   <data name="UpdCashSuc" xml:space="preserve">
     <value>Withdrawal request updated successfully</value>
   </data>
+  <data name="WithdrawalConcept" xml:space="preserve">
+    <value>Withdrawal</value>
+  </data>
 </root>

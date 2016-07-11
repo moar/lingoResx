@@ -1248,5 +1248,14 @@ namespace Resources.Views.MyWallet {
                 return ResourceManager.GetString("WalletVideoCallAsStudent", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Withdrawal.
+        /// </summary>
+        public static string WithdrawalConcept {
+            get {
+                return ResourceManager.GetString("WithdrawalConcept", resourceCulture);
+            }
+        }
     }
 }
