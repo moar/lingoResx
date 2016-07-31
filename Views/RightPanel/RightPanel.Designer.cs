@@ -340,6 +340,15 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Timebanking rooms.
+        /// </summary>
+        public static string TimeBankingRooms {
+            get {
+                return ResourceManager.GetString("TimeBankingRooms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Videocall.
         /// </summary>
         public static string Videocall {
@@ -354,6 +363,15 @@ namespace Resources.Views.RightPanel {
         public static string ViewProfile {
             get {
                 return ResourceManager.GetString("ViewProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet rooms.
+        /// </summary>
+        public static string WalletRooms {
+            get {
+                return ResourceManager.GetString("WalletRooms", resourceCulture);
             }
         }
         
