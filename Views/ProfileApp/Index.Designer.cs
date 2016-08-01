@@ -133,6 +133,15 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have to leave this language&apos;s room or rooms if you want to delete this language..
+        /// </summary>
+        public static string CannotDeleteNativePendingRoom {
+            get {
+                return ResourceManager.GetString("CannotDeleteNativePendingRoom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You cannot modify this language now. Try it later.
         /// </summary>
         public static string CannotModifyLanguage {
