@@ -124,6 +124,60 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers a language exchange space with natives all over the world for helping people to become fluent in foreign languages..
+        /// </summary>
+        public static string IndexExchangeDescription {
+            get {
+                return ResourceManager.GetString("IndexExchangeDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy - Language exchange.
+        /// </summary>
+        public static string IndexExchangeTitle {
+            get {
+                return ResourceManager.GetString("IndexExchangeTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you like conversating with people, now you can earn money if by having conversations in your native languages. Enter the chat rooms and meet people that want to learn your native language!.
+        /// </summary>
+        public static string IndexNativesDescription {
+            get {
+                return ResourceManager.GetString("IndexNativesDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy: earn money as a conversation partner.
+        /// </summary>
+        public static string IndexNativesTitle {
+            get {
+                return ResourceManager.GetString("IndexNativesTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Have conversations with natives and become fluent in a language! You can whether exchange languages or pay natives to have conversations with you..
+        /// </summary>
+        public static string IndexStudentsDescription {
+            get {
+                return ResourceManager.GetString("IndexStudentsDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy: learn languages.
+        /// </summary>
+        public static string IndexStudentsTitle {
+            get {
+                return ResourceManager.GetString("IndexStudentsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy, learn languages, language exchange, become fluent, practice english, practice spanish, practice languages, native speakers, improve language level.
         /// </summary>
         public static string Keywords {
@@ -151,7 +205,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to language roulette,language exchange,chat,tandem, fluency.
+        ///   Looks up a localized string similar to language chat rooms,language exchange,chat,tandem, fluency.
         /// </summary>
         public static string LRKeywords {
             get {
