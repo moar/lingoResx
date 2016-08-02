@@ -349,7 +349,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The meetup has begun! Go to the Language Roulette and start speaking in {0} now.
+        ///   Looks up a localized string similar to The meetup has begun! Go to the chat room and start speaking in {0} now.
         /// </summary>
         public static string MBMeetGetLangRouletteDuring {
             get {
@@ -358,7 +358,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The meetup is over. But remember that you can go to the Language Roulette and &lt;b&gt;practice {0}&lt;/b&gt; when you want.
+        ///   Looks up a localized string similar to The meetup is over. But remember that you can go to the chat room and &lt;b&gt;practice {0}&lt;/b&gt; when you want.
         /// </summary>
         public static string MBMeetGetLangRouletteEnded {
             get {
@@ -367,7 +367,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The meetup hasn&apos;t begun yet, but you can go to the Language Roulette and &lt;b&gt;practice {0}&lt;/b&gt; when you want.
+        ///   Looks up a localized string similar to The meetup hasn&apos;t begun yet, but you can go to the chat room and &lt;b&gt;practice {0}&lt;/b&gt; when you want.
         /// </summary>
         public static string MBMeetGetLangRoulettePrev {
             get {
@@ -408,6 +408,24 @@ namespace Resources.Views.MeetupBoard {
         public static string MBNextMeetups {
             get {
                 return ResourceManager.GetString("MBNextMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Join a meetup or create a new one!.
+        /// </summary>
+        public static string MBNoMeetups {
+            get {
+                return ResourceManager.GetString("MBNoMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No meetups scheduled.
+        /// </summary>
+        public static string MBNoMeetupsScheduled {
+            get {
+                return ResourceManager.GetString("MBNoMeetupsScheduled", resourceCulture);
             }
         }
         
@@ -484,7 +502,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The meetup is started! Enter now the Language Roulette.
+        ///   Looks up a localized string similar to The meetup is started! Enter now the chat room.
         /// </summary>
         public static string MBStartedMeetup {
             get {
