@@ -232,10 +232,7 @@
     <value>Current balance</value>
   </data>
   <data name="AddCreditsMinimumAmmount" xml:space="preserve">
-    <value>Minimum</value>
-  </data>
-  <data name="AddcreditsPaypal" xml:space="preserve">
-    <value>Checkout directly with Paypal or click Next for other options</value>
+    <value>Minimum purchase</value>
   </data>
   <data name="AddCreditsTitle" xml:space="preserve">
     <value>Purchase Langademy Credits</value>
@@ -454,7 +451,7 @@
     <value>Create</value>
   </data>
   <data name="CashoutCreatePWSent" xml:space="preserve">
-    <value>You don't have a local account. You need to create a password for your accoutn if you want to edit your billling data.</value>
+    <value>You don't have a local account. You need to create a password for your account if you want to edit your billing data.</value>
   </data>
   <data name="CashOutPanAmount" xml:space="preserve">
     <value>Amount</value>
@@ -516,5 +513,14 @@
   </data>
   <data name="WithdrawalConcept" xml:space="preserve">
     <value>Withdrawal</value>
+  </data>
+  <data name="ReqCashoutMaximumAvailable" xml:space="preserve">
+    <value>Maximum withdrawal amount</value>
+  </data>
+  <data name="WalletMaxWithdrawal" xml:space="preserve">
+    <value>The maximum amount you can cash out is {0}</value>
+  </data>
+  <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
+    <value>Requesting withdrawals during ongoing videcalls is not allowed</value>
   </data>
 </root>

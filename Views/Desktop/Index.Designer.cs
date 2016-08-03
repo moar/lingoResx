@@ -538,7 +538,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have purchased {0} credits.
+        ///   Looks up a localized string similar to Credits purchase.
         /// </summary>
         public static string WalletTilePurchaseMovement {
             get {

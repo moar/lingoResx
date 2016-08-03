@@ -79,20 +79,11 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Minimum.
+        ///   Looks up a localized string similar to Minimum purchase.
         /// </summary>
         public static string AddCreditsMinimumAmmount {
             get {
                 return ResourceManager.GetString("AddCreditsMinimumAmmount", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Checkout directly with Paypal or click Next for other options.
-        /// </summary>
-        public static string AddcreditsPaypal {
-            get {
-                return ResourceManager.GetString("AddcreditsPaypal", resourceCulture);
             }
         }
         
@@ -358,7 +349,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You don&apos;t have a local account. You need to create a password for your accoutn if you want to edit your billling data..
+        ///   Looks up a localized string similar to You don&apos;t have a local account. You need to create a password for your account if you want to edit your billing data..
         /// </summary>
         public static string CashoutCreatePWSent {
             get {
@@ -1060,6 +1051,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Maximum withdrawal amount.
+        /// </summary>
+        public static string ReqCashoutMaximumAvailable {
+            get {
+                return ResourceManager.GetString("ReqCashoutMaximumAvailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Confirm the cash out method or.
         /// </summary>
         public static string ReqCashoutMethodConfirm {
@@ -1223,6 +1223,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The maximum amount you can cash out is {0}.
+        /// </summary>
+        public static string WalletMaxWithdrawal {
+            get {
+                return ResourceManager.GetString("WalletMaxWithdrawal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Credits purchase.
         /// </summary>
         public static string WalletPurchaseConcept {
@@ -1246,6 +1255,15 @@ namespace Resources.Views.MyWallet {
         public static string WalletVideoCallAsStudent {
             get {
                 return ResourceManager.GetString("WalletVideoCallAsStudent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Requesting withdrawals during ongoing videcalls is not allowed.
+        /// </summary>
+        public static string WalletVideoWithDrawalNotAllowed {
+            get {
+                return ResourceManager.GetString("WalletVideoWithDrawalNotAllowed", resourceCulture);
             }
         }
         

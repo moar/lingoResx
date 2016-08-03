@@ -61,11 +61,20 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CALLING {0}.
+        ///   Looks up a localized string similar to Calling.
         /// </summary>
         public static string CallCalling {
             get {
                 return ResourceManager.GetString("CallCalling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CALLING {0}.
+        /// </summary>
+        public static string CallCallingSomeone {
+            get {
+                return ResourceManager.GetString("CallCallingSomeone", resourceCulture);
             }
         }
         

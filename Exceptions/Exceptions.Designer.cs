@@ -61,6 +61,15 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sorry, something went wrong and you have to repeat the buying process due to security reasons.
+        /// </summary>
+        public static string BuyingError {
+            get {
+                return ResourceManager.GetString("BuyingError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sorry, but something went wrong.
         /// </summary>
         public static string ExcServerError {
@@ -201,6 +210,15 @@ namespace Resources.Exceptions {
         public static string TooManyTopics {
             get {
                 return ResourceManager.GetString("TooManyTopics", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to An unexpected error happened. Please, if the problem persists contact Langademy&apos;s support team.
+        /// </summary>
+        public static string UnexpectedError {
+            get {
+                return ResourceManager.GetString("UnexpectedError", resourceCulture);
             }
         }
         
