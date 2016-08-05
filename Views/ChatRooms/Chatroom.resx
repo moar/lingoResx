@@ -219,4 +219,7 @@
   <data name="CRCreateMeetup" xml:space="preserve">
     <value>Create meetup</value>
   </data>
+  <data name="zzz" xml:space="preserve">
+    <value>sdsaa</value>
+  </data>
 </root>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -120,9 +120,6 @@
   <data name="About" xml:space="preserve">
     <value>Sobre Langademy</value>
   </data>
-  <data name="Board" xml:space="preserve">
-    <value><![CDATA[<a href="/MeetupBoard" class="link"><strong>Tauler de Quedades</strong></a>]]></value>
-  </data>
   <data name="ComingSoon" xml:space="preserve">
     <value>PRÒXIMAMENT</value>
   </data>
@@ -134,15 +131,6 @@
   </data>
   <data name="IndAbout" xml:space="preserve">
     <value>Sobre Langademy</value>
-  </data>
-  <data name="IndLanguages" xml:space="preserve">
-    <value>Idiomes</value>
-  </data>
-  <data name="IndNextMeetups" xml:space="preserve">
-    <value>Següents intercanvis per practicar idiomes online</value>
-  </data>
-  <data name="IndParticipants" xml:space="preserve">
-    <value>Participants</value>
   </data>
   <data name="IndPrivacy" xml:space="preserve">
     <value>Privacitat </value>
@@ -156,131 +144,20 @@
   <data name="Join" xml:space="preserve">
     <value>Uneix-te</value>
   </data>
-  <data name="KnowPeople" xml:space="preserve">
-    <value>Intercanvi d'idiomes</value>
-  </data>
-  <data name="Participants" xml:space="preserve">
-    <value>Participants</value>
-  </data>
-  <data name="LanguageEx" xml:space="preserve">
-    <value>El teu espai d'intercanvi d'idiomes a internet</value>
-  </data>
-  <data name="LearnLang" xml:space="preserve">
-    <value>Aprèn idiomes i millora el teu nivell parlant amb gent d'arreu del món </value>
-  </data>
   <data name="Login" xml:space="preserve">
     <value>Iniciar sessió </value>
-  </data>
-  <data name="ManageMeetup" xml:space="preserve">
-    <value>Organitza quedades per intercanviar idiomes quan millor et vingui i fes saber a tots quan vas a entrar</value>
-  </data>
-  <data name="Visit" xml:space="preserve">
-    <value>Visita Langademy!</value>
-  </data>
-  <data name="WhenPossible" xml:space="preserve">
-    <value>Practica l'idioma que vulguis, quan tu vulguis</value>
-  </data>
-  <data name="IndLangroulette" xml:space="preserve">
-    <value>Aprèn anglès, alemany, francès o qualsevol altre idioma online amb Langademy. En les sales de xat de Langademy coneixeràs natius per mantenir converses en els teus idiomes preferits</value>
-  </data>
-  <data name="SpeakNative" xml:space="preserve">
-    <value>Parla el teu idioma natiu amb els demés i et regalarem el temps que els has dedicat per a practicar altres idiomes</value>
-  </data>
-  <data name="IndexLR1" xml:space="preserve">
-    <value>La forma més fàcil de fer un primer contacte</value>
-  </data>
-  <data name="IndexLR2" xml:space="preserve">
-    <value>Connecta la teva webcam i el teu micròfon i entra a la sala de l'idioma que vols practicar</value>
-  </data>
-  <data name="IndexLR3" xml:space="preserve">
-    <value>Podràs xatejar o fer videotrucades amb els natius que es troben a les sales</value>
-  </data>
-  <data name="IndexLR4" xml:space="preserve">
-    <value>Sigues simpàtic;-)</value>
-  </data>
-  <data name="IndexLR5" xml:space="preserve">
-    <value>I si ho desitges, activa el cercador automàtic de companys: Langademy s'ocuparà de emparellar-te automàticament amb un company que estigui lliure i compleixi teu filtre</value>
-  </data>
-  <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Organitza intercanvis d'idiomes al Tauler de Quedades de Langademy</value>
-  </data>
-  <data name="IndexMeetingBoard2" xml:space="preserve">
-    <value>Tots a una!</value>
-  </data>
-  <data name="IndexMeetingBoard3" xml:space="preserve">
-    <value>Quan vols mantenir una conversa amb natius o en el teu propi idioma? Contribueix amb la comunitat d'intercanvi d'idiomes organitzant quedades els dies i hores que et vingui de gust. Però fes-ho amb temps per a que més gent tingui temps d'apuntar-s'hi</value>
-  </data>
-  <data name="IndexMeetingBoard4" xml:space="preserve">
-    <value>O si algú ha organitzat ja alguna quedada apunta't. Només has de clicar un botó! A més a més, els que us apunteu a la trobada podeu triar i votar els temes sobre els quals desitgeu parlar en les quedades.</value>
-  </data>
-  <data name="IndexMeetingBoard5" xml:space="preserve">
-    <value>Si vols que més gent conegui la trobada, pots compartir el link de la trobada a les xarxes socials. Com més millor :-)</value>
-  </data>
-  <data name="IndexPartners1" xml:space="preserve">
-    <value>He trobat un company que mola!</value>
-  </data>
-  <data name="IndexPartners2" xml:space="preserve">
-    <value>Vota'l al seu perfil!</value>
-  </data>
-  <data name="IndexPartners3" xml:space="preserve">
-    <value>Envia-li una sol·licitud de contacte</value>
-  </data>
-  <data name="IndexPartners4" xml:space="preserve">
-    <value>Quan l'acceptis podreu xatejar i fer videoconferències directament sense haver d'entrar a les sales</value>
-  </data>
-  <data name="IndexQuestion1" xml:space="preserve">
-    <value>Quins idiomes parles? Quin és el teu nivell?</value>
-  </data>
-  <data name="IndexQuestion2" xml:space="preserve">
-    <value>D'on ets? Quins són els teus interessos?</value>
   </data>
   <data name="IndexReady" xml:space="preserve">
     <value>Ja estàs llest per a mantenir converses en anglès, alemany, francès o en l'idioma que vulguis!</value>
   </data>
-  <data name="IndexSearchPartners" xml:space="preserve">
-    <value>Buscar companys d'intercanvi</value>
-  </data>
-  <data name="IndexSeeMore" xml:space="preserve">
-    <value>Veure més</value>
-  </data>
-  <data name="IndexStep2" xml:space="preserve">
-    <value>Puja la teva foto de perfil i de portada</value>
-  </data>
   <data name="RegisterAndCompleteProfile" xml:space="preserve">
     <value>Registra't i comença a aprendre idiomes</value>
-  </data>
-  <data name="TryChatRooms" xml:space="preserve">
-    <value>Prova l'intercanvi d'idiomes a les sales de xat</value>
-  </data>
-  <data name="IndexLanguageExchange1" xml:space="preserve">
-    <value>Intercanvi d'idiomes </value>
-  </data>
-  <data name="IndexLanguageExchange2" xml:space="preserve">
-    <value>El temps de què disposes per parlar per videoconferència amb natius és el mateix que tu dediquis a altres parlant en el teu idioma natiu.</value>
-  </data>
-  <data name="IndexLanguageExchange3" xml:space="preserve">
-    <value>Funciona com un tàndem, però tu decideixes quan i amb qui parles en cada idioma, siguin les mateixes o altres persones.</value>
-  </data>
-  <data name="IndexLanguageExchange4" xml:space="preserve">
-    <value>Quan et registres a Langademy comences amb 2 hores al teu compte perquè puguis provar</value>
   </data>
   <data name="IndexTeacherSubscribe" xml:space="preserve">
     <value>Estem preparant eines increïbles per a tu! Envia'ns la teva adreça de correu electrònic i et mantindrem al corrent de les novetats</value>
   </data>
   <data name="IndexTeacherTitle" xml:space="preserve">
     <value>Ets professor?</value>
-  </data>
-  <data name="IndexTimeBank1" xml:space="preserve">
-    <value>Consum col·laboratiu</value>
-  </data>
-  <data name="IndexTimeBank2" xml:space="preserve">
-    <value>Controla el teu saldo de temps per saber si necessites conversar en el teu idioma natiu</value>
-  </data>
-  <data name="IndexTimeBank3" xml:space="preserve">
-    <value>Consulta les regles del Banc de Temps per saber quan una videoconferència et suma o resta temps</value>
-  </data>
-  <data name="IndexTimeBank4" xml:space="preserve">
-    <value>En el teu estat pots indicar els idiomes en què estàs disponible per rebre vídeotrucades dels teus contactes</value>
   </data>
   <data name="IndexAlreadySubscribed" xml:space="preserve">
     <value>Ja estàs subscrit</value>
@@ -302,8 +179,5 @@
   </data>
   <data name="IndexLogoAlt" xml:space="preserve">
     <value>Uneix-te a Langademy, la teva comunitat d'intercanvi d'idiomes</value>
-  </data>
-  <data name="IndexMBPictureAlt" xml:space="preserve">
-    <value>Crea quedades per intercanviar idiomes al tauler de quedades</value>
   </data>
 </root>

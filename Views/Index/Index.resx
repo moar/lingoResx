@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -120,29 +120,14 @@
   <data name="About" xml:space="preserve">
     <value>About</value>
   </data>
-  <data name="Board" xml:space="preserve">
-    <value><![CDATA[<a href="/MeetupBoard" class="link"><strong>meetup board</strong></a>]]></value>
-  </data>
   <data name="ComingSoon" xml:space="preserve">
     <value>COMING SOON</value>
   </data>
   <data name="FollowUs" xml:space="preserve">
     <value>Follow us!</value>
   </data>
-  <data name="Free" xml:space="preserve">
-    <value>Learn languages for free</value>
-  </data>
   <data name="IndAbout" xml:space="preserve">
     <value>About</value>
-  </data>
-  <data name="IndLanguages" xml:space="preserve">
-    <value>Languages</value>
-  </data>
-  <data name="IndNextMeetups" xml:space="preserve">
-    <value>Next meetups to practice languages</value>
-  </data>
-  <data name="IndParticipants" xml:space="preserve">
-    <value>Participants</value>
   </data>
   <data name="IndPrivacy" xml:space="preserve">
     <value>Privacy
@@ -157,131 +142,14 @@
   <data name="Join" xml:space="preserve">
     <value>Join</value>
   </data>
-  <data name="KnowPeople" xml:space="preserve">
-    <value>Conversation exchange</value>
-  </data>
-  <data name="Participants" xml:space="preserve">
-    <value>Participants</value>
-  </data>
-  <data name="LanguageEx" xml:space="preserve">
-    <value>Your online language exchange community</value>
-  </data>
-  <data name="LearnLang" xml:space="preserve">
-    <value>Learn languages and become fluent talking to people all over the world</value>
-  </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
-  </data>
-  <data name="ManageMeetup" xml:space="preserve">
-    <value>Create meetups to exchange languages when you want and invite your partners to join!</value>
-  </data>
-  <data name="Visit" xml:space="preserve">
-    <value>Visit Langademy!</value>
-  </data>
-  <data name="WhenPossible" xml:space="preserve">
-    <value>Practice the language you want, when you want</value>
-  </data>
-  <data name="IndLangroulette" xml:space="preserve">
-    <value>Learn spanish, german, english, french or any language online with Langademy.  In Langademy's chat rooms you can find native speakers to practice your favourite languages</value>
-  </data>
-  <data name="SpeakNative" xml:space="preserve">
-    <value>Speak in your native language and we will give you the same amount of time to practice other languages. Make conversation exchange your trade!</value>
-  </data>
-  <data name="IndexLR1" xml:space="preserve">
-    <value>The easiest way to meet a new partner</value>
-  </data>
-  <data name="IndexLR2" xml:space="preserve">
-    <value>Plug in your webcam and your microphone and enter the room of the language you want to practice</value>
-  </data>
-  <data name="IndexLR3" xml:space="preserve">
-    <value>You can chat or make videocalls with the natives you meet in the chat rooms</value>
-  </data>
-  <data name="IndexLR4" xml:space="preserve">
-    <value>Be kind ;-)</value>
-  </data>
-  <data name="IndexLR5" xml:space="preserve">
-    <value>If you want you can enable the automatic friend finder: Langademy will find you a match that is online and meets your filter so you can make videocall</value>
-  </data>
-  <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Schedule conversation exchanges with Langademy's Meetup Board</value>
-  </data>
-  <data name="IndexMeetingBoard2" xml:space="preserve">
-    <value>All for one!</value>
-  </data>
-  <data name="IndexMeetingBoard3" xml:space="preserve">
-    <value>When do you want to have a conversation? Contribute to enriching the language exchange community by scheduling meetups for the days and hours you want to enter a chat room. Make it in time so people will have time to join the meetup</value>
-  </data>
-  <data name="IndexMeetingBoard4" xml:space="preserve">
-    <value>If someone else has organized a meetup, you can join the meetup. It's just a click! If you join the meetup you can chose and vote the trending topics to be discussed at the meetup.</value>
-  </data>
-  <data name="IndexMeetingBoard5" xml:space="preserve">
-    <value>You can also share the meetup link in social networks so more people can join the meetup. The more, the merrier :-)</value>
-  </data>
-  <data name="IndexPartners1" xml:space="preserve">
-    <value>Did you like chatting with your partner?</value>
-  </data>
-  <data name="IndexPartners2" xml:space="preserve">
-    <value>Vote him in his profile!</value>
-  </data>
-  <data name="IndexPartners3" xml:space="preserve">
-    <value>Send him a contact request</value>
-  </data>
-  <data name="IndexPartners4" xml:space="preserve">
-    <value>When he accepts your request you will be able to chat and make videoconferences without entering the language rooms</value>
-  </data>
-  <data name="IndexQuestion1" xml:space="preserve">
-    <value>What languages do you speak? Which is your level?</value>
-  </data>
-  <data name="IndexQuestion2" xml:space="preserve">
-    <value>Where are you from? What are your interests?</value>
-  </data>
   <data name="IndexReady" xml:space="preserve">
     <value>You are ready to talk in Spanish, English or the language you want!</value>
-  </data>
-  <data name="IndexSearchPartners" xml:space="preserve">
-    <value>Search language exchange partners</value>
-  </data>
-  <data name="IndexSeeMore" xml:space="preserve">
-    <value>See more</value>
-  </data>
-  <data name="IndexStep2" xml:space="preserve">
-    <value>Upload your avatar and cover photos</value>
-  </data>
-  <data name="RegisterAndCompleteProfile" xml:space="preserve">
-    <value>Sign up and start learning languages for free</value>
-  </data>
-  <data name="TryChatRooms" xml:space="preserve">
-    <value>Try conversation exchange in the chat rooms</value>
-  </data>
-  <data name="IndexLanguageExchange1" xml:space="preserve">
-    <value>Language exchange</value>
-  </data>
-  <data name="IndexLanguageExchange2" xml:space="preserve">
-    <value>The amount of time you have to speak with natives by videoconference is the same amount of time that you use to teach your native language to others</value>
-  </data>
-  <data name="IndexLanguageExchange3" xml:space="preserve">
-    <value>It works like a tandem, but you decide who you partners are, when and in which language you want to chat with </value>
-  </data>
-  <data name="IndexLanguageExchange4" xml:space="preserve">
-    <value>You will begin with 2 free hours so you can try Langademy's language exchange</value>
   </data>
   <data name="IndexTeacherSubscribe" xml:space="preserve">
     <value>We are working on amazing tools for you! Send us your email address and we will keep you informed about new updates</value>
   </data>
   <data name="IndexTeacherTitle" xml:space="preserve">
     <value>Are you a teacher?</value>
-  </data>
-  <data name="IndexTimeBank1" xml:space="preserve">
-    <value>Time banking</value>
-  </data>
-  <data name="IndexTimeBank2" xml:space="preserve">
-    <value>Check your time balance to know if you have to speak in your native language</value>
-  </data>
-  <data name="IndexTimeBank3" xml:space="preserve">
-    <value>Read the time banking rules in order to know when a videochat conversation will add or substract time from your Time Bank account</value>
-  </data>
-  <data name="IndexTimeBank4" xml:space="preserve">
-    <value>Using your state your contacts will know if you are available to receive videocalls</value>
   </data>
   <data name="IndexAlreadySubscribed" xml:space="preserve">
     <value>You are already subscribed</value>
@@ -304,7 +172,79 @@
   <data name="IndexLogoAlt" xml:space="preserve">
     <value>Join Langademy, your language exchange community</value>
   </data>
-  <data name="IndexMBPictureAlt" xml:space="preserve">
-    <value>Create conversation exchange meetups in the meetup board</value>
+  <data name="IndBlock2SubBlock1Text" xml:space="preserve">
+    <value>If you don’t have time for language exchanges, don’t worry. At Langademy you will find native speakers with the best rates of the language market to practice languages when you want</value>
+  </data>
+  <data name="IndBlock2SubBlock1Title" xml:space="preserve">
+    <value>Do you have a busy schedule?</value>
+  </data>
+  <data name="IndBlock2SubBlock2Text" xml:space="preserve">
+    <value>Speak in your native language and we will give you the same amount of time to practice other languages. Make conversation exchange your trade!</value>
+  </data>
+  <data name="IndBlock2SubBlock2Title" xml:space="preserve">
+    <value>Language exchange</value>
+  </data>
+  <data name="IndBlock2SubBlock3" xml:space="preserve">
+    <value>Sign up and start learning languages</value>
+  </data>
+  <data name="IndBlock2Subtitle" xml:space="preserve">
+    <value>Learn spanish, german, english, french or any language online with Langademy. In Langademy's chat rooms you can find native speakers to chat or make online videocalls in your favourite languages</value>
+  </data>
+  <data name="IndBlock2Title" xml:space="preserve">
+    <value>Do you want to learn a language?</value>
+  </data>
+  <data name="IndBlock3Step1" xml:space="preserve">
+    <value>Add credits to your Langademy Wallet</value>
+  </data>
+  <data name="IndBlock3Step2" xml:space="preserve">
+    <value>Enter the Wallet Chatroom of your language choice</value>
+  </data>
+  <data name="IndBlock3Step3" xml:space="preserve">
+    <value>Chat with native speakers (for free), check their reputation and their rates for private videocalls</value>
+  </data>
+  <data name="IndBlock3Step4" xml:space="preserve">
+    <value>Start a videocall with your chosen native speaker and have fun (ALWAYS!)</value>
+  </data>
+  <data name="IndBlock3Text1" xml:space="preserve">
+    <value>The perfect solution for those who don't look for a teacher but want to practice a language and have no time for language exchange</value>
+  </data>
+  <data name="IndBlock3Text2" xml:space="preserve">
+    <value>Learn more about Langademy Wallet</value>
+  </data>
+  <data name="IndBlock3Text3" xml:space="preserve">
+    <value>Earn money from home speaking in your native language</value>
+  </data>
+  <data name="IndBlock3Title" xml:space="preserve">
+    <value>If you don't have time for language exchange...</value>
+  </data>
+  <data name="IndBlock4Block2Text" xml:space="preserve">
+    <value>Sometimes meeting people at the time you want isn’t easy. Create meetups to exchange languages when you want and let the language community know about it</value>
+  </data>
+  <data name="IndBlock4Block2Title" xml:space="preserve">
+    <value>Practice de language you want, when you want</value>
+  </data>
+  <data name="IndBlock4Block3Text" xml:space="preserve">
+    <value>Money isn't necessary to learn a language at Langademy. Timebanking to the rescue! Talk to others in your native language, and we will give you the same amount of time to practice foreign languages. </value>
+  </data>
+  <data name="IndBlock4Block3Title" xml:space="preserve">
+    <value>Learn languages for free</value>
+  </data>
+  <data name="IndBlock4Text1" xml:space="preserve">
+    <value>This is your place if you want to practice foreign languages for free. Find conversation exchange partners and improve your language skills by texting or making online video calls with them</value>
+  </data>
+  <data name="IndBlock4Title" xml:space="preserve">
+    <value>Language Exchange</value>
+  </data>
+  <data name="IndSubTitle" xml:space="preserve">
+    <value>Make online videocalls with native speakers all over the world and practice foreign languages when you want</value>
+  </data>
+  <data name="IndTitlePart1" xml:space="preserve">
+    <value>Learn languages</value>
+  </data>
+  <data name="IndTitlePart2" xml:space="preserve">
+    <value>with native speakers online</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
   </data>
 </root>

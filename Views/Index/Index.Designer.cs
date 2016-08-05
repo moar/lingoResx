@@ -70,15 +70,6 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;/MeetupBoard&quot; class=&quot;link&quot;&gt;&lt;strong&gt;meetup board&lt;/strong&gt;&lt;/a&gt;.
-        /// </summary>
-        public static string Board {
-            get {
-                return ResourceManager.GetString("Board", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to COMING SOON.
         /// </summary>
         public static string ComingSoon {
@@ -97,20 +88,200 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn languages for free.
-        /// </summary>
-        public static string Free {
-            get {
-                return ResourceManager.GetString("Free", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to About.
         /// </summary>
         public static string IndAbout {
             get {
                 return ResourceManager.GetString("IndAbout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you don’t have time for language exchanges, don’t worry. At Langademy you will find native speakers with the best rates of the language market to practice languages when you want.
+        /// </summary>
+        public static string IndBlock2SubBlock1Text {
+            get {
+                return ResourceManager.GetString("IndBlock2SubBlock1Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you have a busy schedule?.
+        /// </summary>
+        public static string IndBlock2SubBlock1Title {
+            get {
+                return ResourceManager.GetString("IndBlock2SubBlock1Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Speak in your native language and we will give you the same amount of time to practice other languages. Make conversation exchange your trade!.
+        /// </summary>
+        public static string IndBlock2SubBlock2Text {
+            get {
+                return ResourceManager.GetString("IndBlock2SubBlock2Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language exchange.
+        /// </summary>
+        public static string IndBlock2SubBlock2Title {
+            get {
+                return ResourceManager.GetString("IndBlock2SubBlock2Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign up and start learning languages.
+        /// </summary>
+        public static string IndBlock2SubBlock3 {
+            get {
+                return ResourceManager.GetString("IndBlock2SubBlock3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learn spanish, german, english, french or any language online with Langademy. In Langademy&apos;s chat rooms you can find native speakers to chat or make online videocalls in your favourite languages.
+        /// </summary>
+        public static string IndBlock2Subtitle {
+            get {
+                return ResourceManager.GetString("IndBlock2Subtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to learn a language?.
+        /// </summary>
+        public static string IndBlock2Title {
+            get {
+                return ResourceManager.GetString("IndBlock2Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add credits to your Langademy Wallet.
+        /// </summary>
+        public static string IndBlock3Step1 {
+            get {
+                return ResourceManager.GetString("IndBlock3Step1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter the Wallet Chatroom of your language choice.
+        /// </summary>
+        public static string IndBlock3Step2 {
+            get {
+                return ResourceManager.GetString("IndBlock3Step2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chat with native speakers (for free), check their reputation and their rates for private videocalls.
+        /// </summary>
+        public static string IndBlock3Step3 {
+            get {
+                return ResourceManager.GetString("IndBlock3Step3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start a videocall with your chosen native speaker and have fun (ALWAYS!).
+        /// </summary>
+        public static string IndBlock3Step4 {
+            get {
+                return ResourceManager.GetString("IndBlock3Step4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The perfect solution for those who don&apos;t look for a teacher but want to practice a language and have no time for language exchange.
+        /// </summary>
+        public static string IndBlock3Text1 {
+            get {
+                return ResourceManager.GetString("IndBlock3Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learn more about Langademy Wallet.
+        /// </summary>
+        public static string IndBlock3Text2 {
+            get {
+                return ResourceManager.GetString("IndBlock3Text2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earn money from home speaking in your native language.
+        /// </summary>
+        public static string IndBlock3Text3 {
+            get {
+                return ResourceManager.GetString("IndBlock3Text3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you don&apos;t have time for language exchange....
+        /// </summary>
+        public static string IndBlock3Title {
+            get {
+                return ResourceManager.GetString("IndBlock3Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sometimes meeting people at the time you want isn’t easy. Create meetups to exchange languages when you want and let the language community know about it.
+        /// </summary>
+        public static string IndBlock4Block2Text {
+            get {
+                return ResourceManager.GetString("IndBlock4Block2Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Practice de language you want, when you want.
+        /// </summary>
+        public static string IndBlock4Block2Title {
+            get {
+                return ResourceManager.GetString("IndBlock4Block2Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Money isn&apos;t necessary to learn a language at Langademy. Timebanking to the rescue! Talk to others in your native language, and we will give you the same amount of time to practice foreign languages. .
+        /// </summary>
+        public static string IndBlock4Block3Text {
+            get {
+                return ResourceManager.GetString("IndBlock4Block3Text", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learn languages for free.
+        /// </summary>
+        public static string IndBlock4Block3Title {
+            get {
+                return ResourceManager.GetString("IndBlock4Block3Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This is your place if you want to practice foreign languages for free. Find conversation exchange partners and improve your language skills by texting or making online video calls with them.
+        /// </summary>
+        public static string IndBlock4Text1 {
+            get {
+                return ResourceManager.GetString("IndBlock4Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language Exchange.
+        /// </summary>
+        public static string IndBlock4Title {
+            get {
+                return ResourceManager.GetString("IndBlock4Title", resourceCulture);
             }
         }
         
@@ -160,42 +331,6 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language exchange.
-        /// </summary>
-        public static string IndexLanguageExchange1 {
-            get {
-                return ResourceManager.GetString("IndexLanguageExchange1", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to The amount of time you have to speak with natives by videoconference is the same amount of time that you use to teach your native language to others.
-        /// </summary>
-        public static string IndexLanguageExchange2 {
-            get {
-                return ResourceManager.GetString("IndexLanguageExchange2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to It works like a tandem, but you decide who you partners are, when and in which language you want to chat with .
-        /// </summary>
-        public static string IndexLanguageExchange3 {
-            get {
-                return ResourceManager.GetString("IndexLanguageExchange3", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to You will begin with 5 free hours so you can try Langademy&apos;s language exchange.
-        /// </summary>
-        public static string IndexLanguageExchange4 {
-            get {
-                return ResourceManager.GetString("IndexLanguageExchange4", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Join Langademy, your language exchange community.
         /// </summary>
         public static string IndexLogoAlt {
@@ -205,191 +340,11 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The easiest way to meet a new partner.
-        /// </summary>
-        public static string IndexLR1 {
-            get {
-                return ResourceManager.GetString("IndexLR1", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Plug in your webcam and your microphone and enter the room of the language you want to practice.
-        /// </summary>
-        public static string IndexLR2 {
-            get {
-                return ResourceManager.GetString("IndexLR2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to We will find you a partner to speak with you that meets your filter.
-        /// </summary>
-        public static string IndexLR3 {
-            get {
-                return ResourceManager.GetString("IndexLR3", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Be kind ;-).
-        /// </summary>
-        public static string IndexLR4 {
-            get {
-                return ResourceManager.GetString("IndexLR4", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to If you want to speak with another person, click next and we will find you another match.
-        /// </summary>
-        public static string IndexLR5 {
-            get {
-                return ResourceManager.GetString("IndexLR5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Create conversation exchange meetups in the meetup board.
-        /// </summary>
-        public static string IndexMBPictureAlt {
-            get {
-                return ResourceManager.GetString("IndexMBPictureAlt", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Schedule conversation exchanges with Langademy&apos;s Meetup Board.
-        /// </summary>
-        public static string IndexMeetingBoard1 {
-            get {
-                return ResourceManager.GetString("IndexMeetingBoard1", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to All for one!.
-        /// </summary>
-        public static string IndexMeetingBoard2 {
-            get {
-                return ResourceManager.GetString("IndexMeetingBoard2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to When do you want to have a conversation? Contribute to enriching the language exchange community by scheduling meetups for the days and hours you want to enter the Language Roulette. Make it in time so people will have time to join the meetup.
-        /// </summary>
-        public static string IndexMeetingBoard3 {
-            get {
-                return ResourceManager.GetString("IndexMeetingBoard3", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to If someone else has organized a meetup, you can join the meetup. It&apos;s just a click! The other attendants will like it if you join them.
-        /// </summary>
-        public static string IndexMeetingBoard4 {
-            get {
-                return ResourceManager.GetString("IndexMeetingBoard4", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to You can also share the meetup link in social networks so more people can join the meetup. The more, the merrier :-).
-        /// </summary>
-        public static string IndexMeetingBoard5 {
-            get {
-                return ResourceManager.GetString("IndexMeetingBoard5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Did you like chatting with your partner?.
-        /// </summary>
-        public static string IndexPartners1 {
-            get {
-                return ResourceManager.GetString("IndexPartners1", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Vote him in his profile!.
-        /// </summary>
-        public static string IndexPartners2 {
-            get {
-                return ResourceManager.GetString("IndexPartners2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Send him a contact request.
-        /// </summary>
-        public static string IndexPartners3 {
-            get {
-                return ResourceManager.GetString("IndexPartners3", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to When he accepts your request you will be able to make videoconferences without entering the Language Roulette.
-        /// </summary>
-        public static string IndexPartners4 {
-            get {
-                return ResourceManager.GetString("IndexPartners4", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to What languages do you speak? Which is your level?.
-        /// </summary>
-        public static string IndexQuestion1 {
-            get {
-                return ResourceManager.GetString("IndexQuestion1", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Where are you from? What are your interests?.
-        /// </summary>
-        public static string IndexQuestion2 {
-            get {
-                return ResourceManager.GetString("IndexQuestion2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to You are ready to talk in Spanish, English or the language you want!.
         /// </summary>
         public static string IndexReady {
             get {
                 return ResourceManager.GetString("IndexReady", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Search language exchange partners.
-        /// </summary>
-        public static string IndexSearchPartners {
-            get {
-                return ResourceManager.GetString("IndexSearchPartners", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to See more.
-        /// </summary>
-        public static string IndexSeeMore {
-            get {
-                return ResourceManager.GetString("IndexSeeMore", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Upload your avatar and cover photos.
-        /// </summary>
-        public static string IndexStep2 {
-            get {
-                return ResourceManager.GetString("IndexStep2", resourceCulture);
             }
         }
         
@@ -421,78 +376,6 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time banking.
-        /// </summary>
-        public static string IndexTimeBank1 {
-            get {
-                return ResourceManager.GetString("IndexTimeBank1", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Check your time balance to know if you have to speak in your native language.
-        /// </summary>
-        public static string IndexTimeBank2 {
-            get {
-                return ResourceManager.GetString("IndexTimeBank2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Read the time banking rules in order to know when a videochat conversation will add or substract time from your Time Bank account.
-        /// </summary>
-        public static string IndexTimeBank3 {
-            get {
-                return ResourceManager.GetString("IndexTimeBank3", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Using your state your contacts will know if you are available to receive videocalls.
-        /// </summary>
-        public static string IndexTimeBank4 {
-            get {
-                return ResourceManager.GetString("IndexTimeBank4", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Learn spanish, german, english, french or any language online with Langademy. By using the Language Roulette you can find native speakers to practice your favourite languages.
-        /// </summary>
-        public static string IndLangroulette {
-            get {
-                return ResourceManager.GetString("IndLangroulette", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Languages.
-        /// </summary>
-        public static string IndLanguages {
-            get {
-                return ResourceManager.GetString("IndLanguages", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Next meetups to practice languages.
-        /// </summary>
-        public static string IndNextMeetups {
-            get {
-                return ResourceManager.GetString("IndNextMeetups", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Participants.
-        /// </summary>
-        public static string IndParticipants {
-            get {
-                return ResourceManager.GetString("IndParticipants", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Privacy
         ///.
         /// </summary>
@@ -512,11 +395,38 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Make online videocalls with native speakers all over the world and practice foreign languages when you want.
+        /// </summary>
+        public static string IndSubTitle {
+            get {
+                return ResourceManager.GetString("IndSubTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Terms and Conditions.
         /// </summary>
         public static string IndTerms {
             get {
                 return ResourceManager.GetString("IndTerms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learn languages.
+        /// </summary>
+        public static string IndTitlePart1 {
+            get {
+                return ResourceManager.GetString("IndTitlePart1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to with native speakers online.
+        /// </summary>
+        public static string IndTitlePart2 {
+            get {
+                return ResourceManager.GetString("IndTitlePart2", resourceCulture);
             }
         }
         
@@ -530,101 +440,11 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Conversation exchange.
-        /// </summary>
-        public static string KnowPeople {
-            get {
-                return ResourceManager.GetString("KnowPeople", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Your online language exchange community.
-        /// </summary>
-        public static string LanguageEx {
-            get {
-                return ResourceManager.GetString("LanguageEx", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Learn languages and become fluent talking to people all over the world.
-        /// </summary>
-        public static string LearnLang {
-            get {
-                return ResourceManager.GetString("LearnLang", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Login.
         /// </summary>
         public static string Login {
             get {
                 return ResourceManager.GetString("Login", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Create meetups to exchange languages when you want and invite your partners to join!.
-        /// </summary>
-        public static string ManageMeetup {
-            get {
-                return ResourceManager.GetString("ManageMeetup", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Participants.
-        /// </summary>
-        public static string Participants {
-            get {
-                return ResourceManager.GetString("Participants", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Sign up and start learning languages for free.
-        /// </summary>
-        public static string RegisterAndCompleteProfile {
-            get {
-                return ResourceManager.GetString("RegisterAndCompleteProfile", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Speak in your native language and we will give you the same amount of time to practice other languages. Make conversation exchange your trade!.
-        /// </summary>
-        public static string SpeakNative {
-            get {
-                return ResourceManager.GetString("SpeakNative", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Try conversation exchange in the chat rooms.
-        /// </summary>
-        public static string TryChatRooms {
-            get {
-                return ResourceManager.GetString("TryChatRooms", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Visit Langademy!.
-        /// </summary>
-        public static string Visit {
-            get {
-                return ResourceManager.GetString("Visit", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Practice the language you want, when you want.
-        /// </summary>
-        public static string WhenPossible {
-            get {
-                return ResourceManager.GetString("WhenPossible", resourceCulture);
             }
         }
     }
