@@ -223,6 +223,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\ExchangeIndex\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Faq\faq.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -242,6 +247,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>HoursBag.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IndexNatives\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Index\Index.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -309,6 +319,11 @@
       <DependentUpon>RightPanel.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Search\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\StudentIndex\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
@@ -590,6 +605,11 @@
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Faq\faq.ca.resx" />
     <EmbeddedResource Include="Views\Faq\faq.de.resx" />
     <EmbeddedResource Include="Views\Faq\faq.es.resx" />
@@ -640,9 +660,15 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>HoursBag.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexNatives\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Index\Index.ca.resx" />
     <EmbeddedResource Include="Views\Index\Index.de.resx" />
-    <EmbeddedResource Include="Views\Index\Index.es.resx" />
+    <EmbeddedResource Include="Views\Index\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Index\Index.eu.resx" />
     <EmbeddedResource Include="Views\Index\Index.fr.resx" />
     <EmbeddedResource Include="Views\Index\Index.it.resx" />
@@ -781,6 +807,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentIndex\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.ca.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.de.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.es.resx">
@@ -815,11 +845,7 @@
       <LastGenOutput>Room.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Views\LanguageExchangeIndex\" />
-    <Folder Include="Views\NativesIndex\" />
-    <Folder Include="Views\StudentIndex\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

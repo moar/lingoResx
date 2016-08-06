@@ -376,6 +376,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Languages.
+        /// </summary>
+        public static string IndLanguages {
+            get {
+                return ResourceManager.GetString("IndLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Privacy
         ///.
         /// </summary>

@@ -1872,3 +1872,9 @@ obj/LocalDebug/Resources.Views.MyWallet.MyWallet.es.resources
 obj/LocalDebug/Resources.Views.MyWallet.MyWallet.eu.resources
 obj/LocalDebug/Resources.Views.MyWallet.MyWallet.fr.resources
 obj/LocalDebug/Resources.Views.MyWallet.MyWallet.it.resources
+obj/LocalDebug/Resources.Views.ExchangeIndex.Index.resources
+obj/LocalDebug/Resources.Views.IndexNatives.Index.resources
+obj/LocalDebug/Resources.Views.StudentIndex.Index.resources
+obj/LocalDebug/TempPE/Views.ExchangeIndex.Index.Designer.cs.dll
+obj/LocalDebug/TempPE/Views.IndexNatives.Index.Designer.cs.dll
+obj/LocalDebug/TempPE/Views.StudentIndex.Index.Designer.cs.dll

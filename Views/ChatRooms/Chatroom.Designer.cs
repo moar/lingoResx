@@ -365,14 +365,5 @@ namespace Resources.Views.ChatRooms {
                 return ResourceManager.GetString("CRWriteTextbox", resourceCulture);
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to sdsaa.
-        /// </summary>
-        public static string zzz {
-            get {
-                return ResourceManager.GetString("zzz", resourceCulture);
-            }
-        }
     }
 }
