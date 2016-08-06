@@ -61,7 +61,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Find native speakers that suit you: check their experience and rates.
+        ///   Looks up a localized string similar to Enter the Wallet chat rooms and find native speakers that suit you: check their experience and rates.
         /// </summary>
         public static string IsBlock2B1Text {
             get {
@@ -169,7 +169,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy will find you a conversation partner that suits you.
+        ///   Looks up a localized string similar to Don&apos;t worry about looking for a partner.
         /// </summary>
         public static string ISBlock3B3Title {
             get {
@@ -187,7 +187,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Have conversations in your native language and we will give you the same ammount of time so you can practice foreign languages.
+        ///   Looks up a localized string similar to Have online conversations in your native language and we will give you the same amount of time so you can practice foreign languages.
         /// </summary>
         public static string ISOption1Text {
             get {
@@ -205,7 +205,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you don&apos;t have time for conversation exchanges this is your options. Pay a native for a conversation.
+        ///   Looks up a localized string similar to If you don&apos;t have time for conversation exchanges this is your option. Pay a native for a conversation.
         /// </summary>
         public static string ISOption2Text {
             get {

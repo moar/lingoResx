@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="IsBlock2B1Text" xml:space="preserve">
-    <value>Find native speakers that suit you: check their experience and rates</value>
+    <value>Enter the Wallet chat rooms and find native speakers that suit you: check their experience and rates</value>
   </data>
   <data name="ISBlock2B1Title" xml:space="preserve">
     <value>Enter the Wallet Rooms</value>
@@ -154,19 +154,19 @@
     <value>Langademy's automatic partner finder will find you a partners that are available to speak and that match your preferences.</value>
   </data>
   <data name="ISBlock3B3Title" xml:space="preserve">
-    <value>Langademy will find you a conversation partner that suits you</value>
+    <value>Don't worry about looking for a partner</value>
   </data>
   <data name="ISBlock3Title" xml:space="preserve">
     <value>Language Exchange</value>
   </data>
   <data name="ISOption1Text" xml:space="preserve">
-    <value>Have conversations in your native language and we will give you the same ammount of time so you can practice foreign languages</value>
+    <value>Have online conversations in your native language and we will give you the same amount of time so you can practice foreign languages</value>
   </data>
   <data name="ISOption1Title" xml:space="preserve">
     <value>Language exchange</value>
   </data>
   <data name="ISOption2Text" xml:space="preserve">
-    <value>If you don't have time for conversation exchanges this is your options. Pay a native for a conversation</value>
+    <value>If you don't have time for conversation exchanges this is your option. Pay a native for a conversation</value>
   </data>
   <data name="ISOption2Title" xml:space="preserve">
     <value>Pay for conversations</value>
