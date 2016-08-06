@@ -160,6 +160,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Learn more about language exchanges.
+        /// </summary>
+        public static string IndBlock3LinkText {
+            get {
+                return ResourceManager.GetString("IndBlock3LinkText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add credits to your Langademy Wallet.
         /// </summary>
         public static string IndBlock3Step1 {

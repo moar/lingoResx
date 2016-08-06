@@ -124,7 +124,7 @@
     <value>Enter chat Rooms</value>
   </data>
   <data name="INBlock2B2Text" xml:space="preserve">
-    <value>Go to the timebanking rooms and make video calls with different people. Earn positive votes and your reputation will increase. Therefore more people will want to talk to you</value>
+    <value>Go to the {0} and make video calls with different people. Earn positive votes and your reputation will increase. Therefore more people will want to talk to you</value>
   </data>
   <data name="INBlock2B2Title" xml:space="preserve">
     <value>Gain reputation</value>
@@ -146,6 +146,10 @@
   </data>
   <data name="INMainPicture" xml:space="preserve">
     <value>Earn money from your home</value>
+  </data>
+  <data name="INTimeBankingRooms" xml:space="preserve">
+    <value>time banking rooms</value>
+    <comment>contexto: go to the time banking rooms</comment>
   </data>
   <data name="INTitle" xml:space="preserve">
     <value>Put a price to you conversations</value>

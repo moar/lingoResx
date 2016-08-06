@@ -79,7 +79,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to the timebanking rooms and make video calls with different people. Earn positive votes and your reputation will increase. Therefore more people will want to talk to you.
+        ///   Looks up a localized string similar to Go to the {0} and make video calls with different people. Earn positive votes and your reputation will increase. Therefore more people will want to talk to you.
         /// </summary>
         public static string INBlock2B2Text {
             get {
@@ -147,6 +147,15 @@ namespace Resources.Views.IndexNatives {
         public static string INMainPicture {
             get {
                 return ResourceManager.GetString("INMainPicture", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to time banking rooms.
+        /// </summary>
+        public static string INTimeBankingRooms {
+            get {
+                return ResourceManager.GetString("INTimeBankingRooms", resourceCulture);
             }
         }
         

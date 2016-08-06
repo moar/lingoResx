@@ -250,4 +250,7 @@
   <data name="IndLanguages" xml:space="preserve">
     <value>Languages</value>
   </data>
+  <data name="IndBlock3LinkText" xml:space="preserve">
+    <value>Learn more about language exchanges</value>
+  </data>
 </root>
