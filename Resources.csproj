@@ -663,6 +663,7 @@
     <EmbeddedResource Include="Views\IndexNatives\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Index\Index.ca.resx" />
     <EmbeddedResource Include="Views\Index\Index.de.resx" />
@@ -810,6 +811,7 @@
     <EmbeddedResource Include="Views\StudentIndex\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.ca.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.de.resx" />

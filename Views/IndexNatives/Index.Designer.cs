@@ -61,7 +61,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter your native language&apos;s chat room and meet new people that are willing to learn your language.
+        ///   Looks up a localized string similar to Once you have enough reputation, enter your native language&apos;s Wallet chat room and meet new people that are willing to learn your language.
         /// </summary>
         public static string INBlock2B1Text {
             get {
@@ -70,7 +70,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter chat Rooms.
+        ///   Looks up a localized string similar to Enter Wallet chat Rooms.
         /// </summary>
         public static string INBlock2B1Title {
             get {
@@ -79,7 +79,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to the {0} and make video calls with different people. Earn positive votes and your reputation will increase. Therefore more people will want to talk to you.
+        ///   Looks up a localized string similar to Go to the {0} and make video calls with different people. Earn positive votes and your reputation will improve. As a result more people will want to talk to you!.
         /// </summary>
         public static string INBlock2B2Text {
             get {

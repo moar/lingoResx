@@ -160,7 +160,7 @@ namespace Resources.Views.ExchangeIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Check your time balance to know if you need to increase it speaking in your antive language. Read the time banking rules in order to know when a videochat conversation will add or substract time from your Time Bank account. Using your state, your contacts will know if you are available to start a video call.
+        ///   Looks up a localized string similar to Check your time balance to know if you need to increase it speaking in your native language. Read the time banking rules in order to know when a videochat conversation will add or substract time from your Time Bank account. Using your state, your contacts will know if you are available to start a video call.
         /// </summary>
         public static string EIBlock3B1Text3 {
             get {

@@ -250,7 +250,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Practice de language you want, when you want.
+        ///   Looks up a localized string similar to Practice the language you want, when you want.
         /// </summary>
         public static string IndBlock4Block2Title {
             get {
