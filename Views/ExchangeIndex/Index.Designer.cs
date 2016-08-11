@@ -142,7 +142,7 @@ namespace Resources.Views.ExchangeIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The amount of time you have for speaking with natives by videconference is the same amount of time that you use for helping others speak in your antive language.
+        ///   Looks up a localized string similar to The amount of time you have for speaking with natives by videconference is the same amount of time that you use for helping others speak in your native language.
         /// </summary>
         public static string EIBlock3B1Text1 {
             get {

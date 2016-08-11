@@ -127,7 +127,7 @@
     <value>Intercambio de idiomas</value>
   </data>
   <data name="EIBlock2B1Text" xml:space="preserve">
-    <value>¿Qué idiomas hablas?¿Cuál es tu nivel?¿De dónde eres?¿Cúales son tus intereses? Sube tu foto de perfil y foto de perfil y ya estarás preparado para practicar ingles, frances o el idiomas que tú quieras</value>
+    <value>¿Qué idiomas hablas?¿Cuál es tu nivel?¿De dónde eres?¿Cúales son tus intereses? Sube tu foto de perfil y foto de portada y ya estarás preparado para practicar ingles, francés o el idioma que tú quieras</value>
   </data>
   <data name="EIBlock2B1Title" xml:space="preserve">
     <value>Regístrate y comienza a practicar idiomas gratis</value>
@@ -151,7 +151,7 @@
     <value>Funciona como un tandem pero tú eres el que decide las personas, el horario y el idioma en el que quieres conversar</value>
   </data>
   <data name="EIBlock3B1Text3" xml:space="preserve">
-    <value>Revisa tu saldo de tiempo para saber si necesitas hablar en tu idioma nativo. Lee las reglas del banco del tiempo para saber cuando se te sumará o restará el tiempo de tu cuenta del Banco del Tiempo cuando mantengas una conversación. Usando tu estado tus contactos sabrán si estás disponible para empezar una videollamada</value>
+    <value>Revisa tu saldo de tiempo para saber si necesitas hablar en tu idioma nativo. Lee las reglas del banco del tiempo para saber cuando se te sumará o restará el tiempo de tu cuenta del Banco del Tiempo cuando mantengas una conversación. Mediante tu estado tus contactos sabrán si estás disponible para empezar una videollamada</value>
   </data>
   <data name="EIBlock3B1Title" xml:space="preserve">
     <value>Banco del Tiempo</value>

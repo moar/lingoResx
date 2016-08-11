@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -184,7 +184,7 @@
     <value>Intercambio de idiomas</value>
   </data>
   <data name="IndBlock2SubBlock3" xml:space="preserve">
-    <value>Regístrate y comineza a aprender idiomas</value>
+    <value>Regístrate y comienza a aprender idiomas</value>
   </data>
   <data name="IndBlock2Subtitle" xml:space="preserve">
     <value>Aprende inglés, alemán, francés o cualquier otro idioma online con Langademy. En las salas de chat de Langademy conocerás nativos para chatear o hacer videollamadas en tus idiomas favoritos</value>
@@ -210,14 +210,14 @@
   <data name="IndBlock3Text2" xml:space="preserve">
     <value>Aprende más sobre Langademy Wallet</value>
   </data>
-  <data name="IndBlock3Text3" xml:space="preserve">
+  <data name="IndBlock3Text4" xml:space="preserve">
     <value>Gana dinero desde tu casa hablando en tu idioma nativo</value>
   </data>
   <data name="IndBlock3Title" xml:space="preserve">
     <value>Si no tienes tiempo para intercambios de idiomas...</value>
   </data>
   <data name="IndBlock4Block2Text" xml:space="preserve">
-    <value>Algunas veces no es fácil coincidir con la gente a la hora que tu quieres. Las quedadas de Langademy te ayudaran en esto: crea quedadas para intercambiar idiomas para el dia y hora que tu quieras e invita a tus contactos</value>
+    <value>Algunas veces no es fácil coincidir con la gente a la hora que tú quieres. Las quedadas de Langademy te ayudarán en esto: crea quedadas para intercambiar idiomas para el día y hora que tú quieras e invita a tus contactos</value>
   </data>
   <data name="IndBlock4Block2Title" xml:space="preserve">
     <value>Practica el idioma que quieras, cuando quieras</value>
@@ -251,5 +251,8 @@
   </data>
   <data name="IndBlock3LinkText" xml:space="preserve">
     <value>Aprende más sobre el intercambio de idiomas</value>
+  </data>
+  <data name="IndBlock3Text3" xml:space="preserve">
+    <value>Y si te gusta ayudar a que los demás practiquen un idioma</value>
   </data>
 </root>

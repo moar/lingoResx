@@ -576,6 +576,12 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Blog\Blog.ca.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.de.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.es.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.eu.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.fr.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.it.resx" />
     <EmbeddedResource Include="Views\Blog\Blog.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Blog.Designer.cs</LastGenOutput>
@@ -614,6 +620,16 @@
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.ca.resx" />
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.de.resx" />
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.fr.resx" />
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.it.resx" />
     <EmbeddedResource Include="Views\ExchangeIndex\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
@@ -669,6 +685,16 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>HoursBag.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexNatives\Index.ca.resx" />
+    <EmbeddedResource Include="Views\IndexNatives\Index.de.resx" />
+    <EmbeddedResource Include="Views\IndexNatives\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexNatives\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexNatives\Index.fr.resx" />
+    <EmbeddedResource Include="Views\IndexNatives\Index.it.resx" />
     <EmbeddedResource Include="Views\IndexNatives\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
@@ -679,7 +705,9 @@
     <EmbeddedResource Include="Views\Index\Index.es.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Index\Index.eu.resx" />
+    <EmbeddedResource Include="Views\Index\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Index\Index.fr.resx" />
     <EmbeddedResource Include="Views\Index\Index.it.resx" />
     <EmbeddedResource Include="Views\Index\Index.resx">
@@ -817,6 +845,16 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentIndex\Index.ca.resx" />
+    <EmbeddedResource Include="Views\StudentIndex\Index.de.resx" />
+    <EmbeddedResource Include="Views\StudentIndex\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentIndex\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentIndex\Index.fr.resx" />
+    <EmbeddedResource Include="Views\StudentIndex\Index.it.resx" />
     <EmbeddedResource Include="Views\StudentIndex\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>

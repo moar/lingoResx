@@ -152,9 +152,9 @@
     <comment>contexto: go to the time banking rooms</comment>
   </data>
   <data name="INTitle" xml:space="preserve">
-    <value>Pon un precio a tus conversaciones</value>
+    <value>Pon precio a tus conversaciones</value>
   </data>
   <data name="INTitleText" xml:space="preserve">
-    <value><![CDATA[Si te gusta conversar con gente nueva y ayudar a que consigan fluidez en tu idioma nativo, esta es tu ocasión para <strong>ganar un dinero extra desde tu casa</strong> ]]></value>
+    <value><![CDATA[Si te gusta conversar con gente nueva y ayudar a que consigan fluidez en tu idioma nativo, ésta es tu ocasión para <strong>ganar un dinero extra desde tu casa</strong> ]]></value>
   </data>
 </root>

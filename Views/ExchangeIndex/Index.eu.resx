@@ -145,13 +145,13 @@
     <value>Zure mintzalagunarekin solastea gustatu al zaizu?</value>
   </data>
   <data name="EIBlock3B1Text1" xml:space="preserve">
-    <value>Beste natibo batzuekin bideo deiak egiten daukazun denbora, zuk beste mintzalagun batzuei zure hizkuntza natiboa ikasteko eskeini diezun denbora bera da </value>
+    <value>Beste natibo batzuekin bideo deiak egiteko daukazun denbora, zuk beste mintzalagun batzuei zure hizkuntza natiboa ikasteko eskeini diezun denbora bera da </value>
   </data>
   <data name="EIBlock3B1Text2" xml:space="preserve">
     <value>Tandem batek moduan funtzionatzen du, baina zuk aukeratuko duzu noiz, norekin eta zein hizkuntzatan hitz egin nahi duzun</value>
   </data>
   <data name="EIBlock3B1Text3" xml:space="preserve">
-    <value>Zaindu ezazu zure denbora saldoa, eta denbora gutxi baduzu hitz egin ezazu zure hizkuntza natiboan denbora bakurako denbora gehiago irabazteko. Bankutik denbora noiz gehitu edo kenduko zaizun jakiteko, Irakurri itzazu denbora bankuko erregelak. Bestalde, jakin ezazu zure perfileko egoeraren bitartez, zure Langademyko kontaktuek beraiekin hitz egiteko eskuragarri zauden adierazi diezaiekezula</value>
+    <value>Zaindu ezazu zure denbora saldoa, eta denbora gutxi baduzu hitz egin ezazu zure hizkuntza natiboan denbora bakurako denbora gehiago irabazteko. Bankutik denbora noiz gehitu edo kenduko zaizun jakiteko, irakurri itzazu denbora bankuko erregelak. Bestalde, jakin ezazu zure perfileko egoeraren bitartez, zure Langademyko kontaktuek beraiekin hitz egiteko eskuragarri zauden adierazi diezaiekezula</value>
   </data>
   <data name="EIBlock3B1Title" xml:space="preserve">
     <value>Denbora bankua</value>
@@ -163,10 +163,10 @@
     <value>Antolatu itzazu hizkuntza elkartrukeak Langademyren Bilera Taularen bitartez</value>
   </data>
   <data name="EIMeetingBoard3" xml:space="preserve">
-    <value>Noiz nahi duzu konbertsazio bat izatea? Aberastu ezazu hizkuntxa elkartrukerako komunitatea zuk mintzatzea nahi duzun ordu eta egunetarako bileran sortuaz. Sortu itzazu bilerak denboraz, jendeak hauen berri izateko eta hauetara apuntatzeko denbora izan dezan</value>
+    <value>Noiz nahi duzu konbertsazio bat izatea? Aberastu ezazu hizkuntza elkartrukerako komunitatea zuk mintzatzea nahi duzun ordu eta egunetarako bilerak sortuz. Sortu itzazu bilerak denboraz, jendeak hauen berri izateko eta hauetara apuntatzeko denbora izan dezan</value>
   </data>
   <data name="EIMeetingBoard4" xml:space="preserve">
-    <value>Beste norbaitek bileraren bat antolatu badu bilera hortan apuntatu zaitezke. Klik bat egitea besterik ez da! Bilerara apuntatzen bazara, bilera hortarako gaiak proposatu eta botatu ahal izango dituzu</value>
+    <value>Beste norbaitek bileraren bat antolatu badu bilera hortan apuntatu zaitezke. Klik bat egitea besterik ez da! Bilerara apuntatzen bazara, bilera hortarako gaiak proposatu eta bozkatu ahal izango dituzu</value>
   </data>
   <data name="EIMeetingBoard5" xml:space="preserve">
     <value>Gainera, bilerak sare sozialetan parteka ditzakezu, horrela jende gehiagok parte hartuko du bileretan. Zenbat eta gehiago hobeto!</value>

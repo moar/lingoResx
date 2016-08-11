@@ -130,7 +130,7 @@
     <value>Zure erreputazioa hobetu</value>
   </data>
   <data name="INBlock2B3Text" xml:space="preserve">
-    <value>Sartu gelara, konpara itzazu beste natiboen tarifak eta definitu ezazu zure tarifa </value>
+    <value>Wallet gela batera sartzen zarenean, konpara itzazu beste natiboen tarifak eta definitu ezazu zure tarifa </value>
   </data>
   <data name="INBlock2B3Title" xml:space="preserve">
     <value>Izan lehiakorra</value>
@@ -142,7 +142,7 @@
     <value>Bilatu ezazu hizkuntzak ikastea nahi duen jendea</value>
   </data>
   <data name="INJoin" xml:space="preserve">
-    <value>Batu zaitez gurekin!</value>
+    <value>Batu zaitez gugana!</value>
   </data>
   <data name="INMainPicture" xml:space="preserve">
     <value>Irabaz ezazu dirua etxetik</value>

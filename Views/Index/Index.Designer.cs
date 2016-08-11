@@ -223,11 +223,20 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Earn money from home speaking in your native language.
+        ///   Looks up a localized string similar to If you also like helping others practice.
         /// </summary>
         public static string IndBlock3Text3 {
             get {
                 return ResourceManager.GetString("IndBlock3Text3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earn money from home speaking in your native language.
+        /// </summary>
+        public static string IndBlock3Text4 {
+            get {
+                return ResourceManager.GetString("IndBlock3Text4", resourceCulture);
             }
         }
         
