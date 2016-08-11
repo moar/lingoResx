@@ -208,6 +208,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\Blog\Blog.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Blog.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\ChatRooms\Chatroom.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -570,6 +575,10 @@
     <EmbeddedResource Include="Views\AccountManager\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Blog\Blog.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Blog.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.ca.resx" />
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.de.resx" />
