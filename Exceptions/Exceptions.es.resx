@@ -174,4 +174,10 @@
   <data name="TooManyTopics" xml:space="preserve">
     <value>No puedes añadir más temas</value>
   </data>
+  <data name="BuyingError" xml:space="preserve">
+    <value>Perdona, ha ocurrido algún error y tienes que repetir el proceso de compra por razones de seguridad</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Ha ocurrido un error inesperado. Por favor contacta con el equipo de soporte de Langademy si el error persiste</value>
+  </data>
 </root>

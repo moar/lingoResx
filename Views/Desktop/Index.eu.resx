@@ -265,7 +265,7 @@
     <value>{0}-(e)kin {1} hitz egin duzu</value>
   </data>
   <data name="WalletTilePurchaseMovement" xml:space="preserve">
-    <value>{0} kreditu erosi dituzu</value>
+    <value>Kreditu erosketa</value>
   </data>
   <data name="WalletTileStudentMovement" xml:space="preserve">
     <value>{0}-(e)kin {1} hitz egin duzu</value>

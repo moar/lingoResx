@@ -117,112 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Accept" xml:space="preserve">
-    <value>Onartu</value>
+  <data name="BlogCategoryTitle" xml:space="preserve">
+    <value>Artículos sobre la categoría "{0}"</value>
   </data>
-  <data name="AllContacts" xml:space="preserve">
-    <value>Kontaktu guztiak</value>
+  <data name="BlogSubtitle" xml:space="preserve">
+    <value>Lee nuestros artículos sobre aprendizaje de idiomas y el mundo que nos rodea</value>
   </data>
-  <data name="ConnectionLost" xml:space="preserve">
-    <value>Konexioa galdu da. Saiakera berrirako</value>
+  <data name="BlogTagTitle" xml:space="preserve">
+    <value>Artículos con el tag {0}</value>
   </data>
-  <data name="RPContacts" xml:space="preserve">
-    <value>Kontaktuak</value>
-  </data>
-  <data name="Decline" xml:space="preserve">
-    <value>Ukatu</value>
-  </data>
-  <data name="Messages" xml:space="preserve">
-    <value>Mezuak</value>
-  </data>
-  <data name="NoContacts" xml:space="preserve">
-    <value>Ez duzu kontakturik oraindik. Jo txat geletara eta lagun berriak ezagutu itzatzu!</value>
-  </data>
-  <data name="NoMessages" xml:space="preserve">
-    <value>Ez daukazu mezurik</value>
-  </data>
-  <data name="RPTBCall" xml:space="preserve">
-    <value>Denbora bakuko deia</value>
-  </data>
-  <data name="Videocall" xml:space="preserve">
-    <value>Bideodeia</value>
-  </data>
-  <data name="NoNotifications" xml:space="preserve">
-    <value>Ez daukazu jakinarazpenik</value>
-  </data>
-  <data name="Notifications" xml:space="preserve">
-    <value>Jakinarazpenak</value>
-  </data>
-  <data name="ReloadNow" xml:space="preserve">
-    <value>Birkargatu orain</value>
-  </data>
-  <data name="SendMessage" xml:space="preserve">
-    <value>Mezua bidali</value>
-  </data>
-  <data name="ShowAll" xml:space="preserve">
-    <value>Guztiak erakutsi</value>
-  </data>
-  <data name="ViewProfile" xml:space="preserve">
-    <value>Ikusi profila</value>
-  </data>
-  <data name="RPViewProfile" xml:space="preserve">
-    <value>Ikusi profila</value>
-  </data>
-  <data name="WriteHere" xml:space="preserve">
-    <value>Idatzi hemen</value>
-  </data>
-  <data name="ContactsNoLogged" xml:space="preserve">
-    <value>Hasi sesioa zure kontaktuak ikusteko</value>
-  </data>
-  <data name="NotificationsNoLogged" xml:space="preserve">
-    <value>Hasi sesioa zure jakinarazpenak ikusteko</value>
-  </data>
-  <data name="RPFilterAdd" xml:space="preserve">
-    <value>Gehitu</value>
-  </data>
-  <data name="RPFilterAllLanguages" xml:space="preserve">
-    <value>Hizkuntza guztiak</value>
-  </data>
-  <data name="RPFilterAllPeople" xml:space="preserve">
-    <value>Erabiltzaile guztiak</value>
-  </data>
-  <data name="RPFilterCancel" xml:space="preserve">
-    <value>Utzi</value>
-  </data>
-  <data name="RPFilterLanguages" xml:space="preserve">
-    <value>Hizkuntzak</value>
-  </data>
-  <data name="RPFilterNotTalketTo" xml:space="preserve">
-    <value>Hitz egin ez duzun jendea</value>
-  </data>
-  <data name="RPFilterOk" xml:space="preserve">
-    <value>Ok</value>
-  </data>
-  <data name="RPFilterOnline" xml:space="preserve">
-    <value>Online bakarrik</value>
-  </data>
-  <data name="RPFilterTalkedTo" xml:space="preserve">
-    <value>Hitz egin duzun jendea</value>
-  </data>
-  <data name="RPSearch" xml:space="preserve">
-    <value>Bilatu</value>
-  </data>
-  <data name="RPRegForMessages" xml:space="preserve">
-    <value>Sartu zure konbertsazioak ikusteko</value>
-  </data>
-  <data name="RPRegForRooms" xml:space="preserve">
-    <value>Sartu zure gelak ikusteko</value>
-  </data>
-  <data name="RPChatRooms" xml:space="preserve">
-    <value>Txat gelak</value>
-  </data>
-  <data name="RPWalletCall" xml:space="preserve">
-    <value>Walle deia</value>
-  </data>
-  <data name="TimeBankingRooms" xml:space="preserve">
-    <value>Denbora banku gelak</value>
-  </data>
-  <data name="WalletRooms" xml:space="preserve">
-    <value>Wallet gelak</value>
+  <data name="BlogTitle" xml:space="preserve">
+    <value>Artículos Langademy</value>
   </data>
 </root>

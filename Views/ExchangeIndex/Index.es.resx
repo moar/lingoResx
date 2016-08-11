@@ -117,112 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Accept" xml:space="preserve">
-    <value>Onartu</value>
+  <data name="EIBlock1Link" xml:space="preserve">
+    <value>Leer más</value>
   </data>
-  <data name="AllContacts" xml:space="preserve">
-    <value>Kontaktu guztiak</value>
+  <data name="EIBlock1Text" xml:space="preserve">
+    <value>Consigue fluidez en cualquier idioma con los intercambios de idiomas. Ve a las salas de chat de Langademy, busca hablantes nativos y practica tus idiomas favoritos. ¡Podrás aprender inglés, alemán, frances o cualquier otro idioma!</value>
   </data>
-  <data name="ConnectionLost" xml:space="preserve">
-    <value>Konexioa galdu da. Saiakera berrirako</value>
+  <data name="EIBlock1Title" xml:space="preserve">
+    <value>Intercambio de idiomas</value>
   </data>
-  <data name="RPContacts" xml:space="preserve">
-    <value>Kontaktuak</value>
+  <data name="EIBlock2B1Text" xml:space="preserve">
+    <value>¿Qué idiomas hablas?¿Cuál es tu nivel?¿De dónde eres?¿Cúales son tus intereses? Sube tu foto de perfil y foto de perfil y ya estarás preparado para practicar ingles, frances o el idiomas que tú quieras</value>
   </data>
-  <data name="Decline" xml:space="preserve">
-    <value>Ukatu</value>
+  <data name="EIBlock2B1Title" xml:space="preserve">
+    <value>Regístrate y comienza a practicar idiomas gratis</value>
   </data>
-  <data name="Messages" xml:space="preserve">
-    <value>Mezuak</value>
+  <data name="EIBlock2B2Text" xml:space="preserve">
+    <value>La manera más fácil para conocer nuevos compañeros. Enchufa tu cámara y micro y entra a la sala del idioma que quieres practicar. Puedes chatear o mantener videollamadas con los nativos que conozcas en las salas de chat. ¡Sé simpático!</value>
   </data>
-  <data name="NoContacts" xml:space="preserve">
-    <value>Ez duzu kontakturik oraindik. Jo txat geletara eta lagun berriak ezagutu itzatzu!</value>
+  <data name="EIBlock2B2Title" xml:space="preserve">
+    <value>Prueba el intecambio de idiomas en las salas de chat</value>
   </data>
-  <data name="NoMessages" xml:space="preserve">
-    <value>Ez daukazu mezurik</value>
+  <data name="EIBlock2B3Text" xml:space="preserve">
+    <value>¡Dale tu voto en su perfil! Enviale una petición de contacto y cuando te acepte podréis mantener videollamadas privadas sin tener que entrar a las salas de chat</value>
   </data>
-  <data name="RPTBCall" xml:space="preserve">
-    <value>Denbora bakuko deia</value>
+  <data name="EIBlock2B3Title" xml:space="preserve">
+    <value>¿Te ha gustado hablar con tu compañero?</value>
   </data>
-  <data name="Videocall" xml:space="preserve">
-    <value>Bideodeia</value>
+  <data name="EIBlock3B1Text1" xml:space="preserve">
+    <value>El tiempo que tienes para hablar con nativos es el mismo tiempo que has usado ayudando a otras personas a que hablen tu idioma nativo</value>
   </data>
-  <data name="NoNotifications" xml:space="preserve">
-    <value>Ez daukazu jakinarazpenik</value>
+  <data name="EIBlock3B1Text2" xml:space="preserve">
+    <value>Funciona como un tandem pero tú eres el que decide las personas, el horario y el idioma en el que quieres conversar</value>
   </data>
-  <data name="Notifications" xml:space="preserve">
-    <value>Jakinarazpenak</value>
+  <data name="EIBlock3B1Text3" xml:space="preserve">
+    <value>Revisa tu saldo de tiempo para saber si necesitas hablar en tu idioma nativo. Lee las reglas del banco del tiempo para saber cuando se te sumará o restará el tiempo de tu cuenta del Banco del Tiempo cuando mantengas una conversación. Usando tu estado tus contactos sabrán si estás disponible para empezar una videollamada</value>
   </data>
-  <data name="ReloadNow" xml:space="preserve">
-    <value>Birkargatu orain</value>
+  <data name="EIBlock3B1Title" xml:space="preserve">
+    <value>Banco del Tiempo</value>
   </data>
-  <data name="SendMessage" xml:space="preserve">
-    <value>Mezua bidali</value>
+  <data name="EIMBPictureAlt" xml:space="preserve">
+    <value>Crea quedadas para intercambio de conversaciones en el tablón de quedadas</value>
   </data>
-  <data name="ShowAll" xml:space="preserve">
-    <value>Guztiak erakutsi</value>
+  <data name="EIMeetingBoard1" xml:space="preserve">
+    <value>Organiza quedadas en el tablón de quedadas de Langademy</value>
   </data>
-  <data name="ViewProfile" xml:space="preserve">
-    <value>Ikusi profila</value>
+  <data name="EIMeetingBoard3" xml:space="preserve">
+    <value>¿Cuándo vas a tener un rato para conversar? Contribuye a la comunidad de intercambio de idiomas organizando quedadas los días en los que vayas a entrar a las salas de chat. Hazlo con un poco de antelación para que la gente tenga tiempo de unirse a la quedada</value>
   </data>
-  <data name="RPViewProfile" xml:space="preserve">
-    <value>Ikusi profila</value>
+  <data name="EIMeetingBoard4" xml:space="preserve">
+    <value>Si alguien más ha organizado una quedada te puedes unir a ella. ¡Es solo un clic! Si te unes a la quedada podrás proponer y votar temas para hablar en las quedada.</value>
   </data>
-  <data name="WriteHere" xml:space="preserve">
-    <value>Idatzi hemen</value>
+  <data name="EIMeetingBoard5" xml:space="preserve">
+    <value>También pueden compartir el link de la quedada en las redes sociales para que más gente se pueda unir a la quedada. Cuantos más, mejor :-)</value>
   </data>
-  <data name="ContactsNoLogged" xml:space="preserve">
-    <value>Hasi sesioa zure kontaktuak ikusteko</value>
+  <data name="EINextMeetups" xml:space="preserve">
+    <value>Siguientes quedadas para practicar idiomas</value>
   </data>
-  <data name="NotificationsNoLogged" xml:space="preserve">
-    <value>Hasi sesioa zure jakinarazpenak ikusteko</value>
+  <data name="EIParticipants" xml:space="preserve">
+    <value>Participantes</value>
   </data>
-  <data name="RPFilterAdd" xml:space="preserve">
-    <value>Gehitu</value>
+  <data name="EISearchPartners" xml:space="preserve">
+    <value>Busca compañeros de intecambio de idiomas</value>
   </data>
-  <data name="RPFilterAllLanguages" xml:space="preserve">
-    <value>Hizkuntza guztiak</value>
-  </data>
-  <data name="RPFilterAllPeople" xml:space="preserve">
-    <value>Erabiltzaile guztiak</value>
-  </data>
-  <data name="RPFilterCancel" xml:space="preserve">
-    <value>Utzi</value>
-  </data>
-  <data name="RPFilterLanguages" xml:space="preserve">
-    <value>Hizkuntzak</value>
-  </data>
-  <data name="RPFilterNotTalketTo" xml:space="preserve">
-    <value>Hitz egin ez duzun jendea</value>
-  </data>
-  <data name="RPFilterOk" xml:space="preserve">
-    <value>Ok</value>
-  </data>
-  <data name="RPFilterOnline" xml:space="preserve">
-    <value>Online bakarrik</value>
-  </data>
-  <data name="RPFilterTalkedTo" xml:space="preserve">
-    <value>Hitz egin duzun jendea</value>
-  </data>
-  <data name="RPSearch" xml:space="preserve">
-    <value>Bilatu</value>
-  </data>
-  <data name="RPRegForMessages" xml:space="preserve">
-    <value>Sartu zure konbertsazioak ikusteko</value>
-  </data>
-  <data name="RPRegForRooms" xml:space="preserve">
-    <value>Sartu zure gelak ikusteko</value>
-  </data>
-  <data name="RPChatRooms" xml:space="preserve">
-    <value>Txat gelak</value>
-  </data>
-  <data name="RPWalletCall" xml:space="preserve">
-    <value>Walle deia</value>
-  </data>
-  <data name="TimeBankingRooms" xml:space="preserve">
-    <value>Denbora banku gelak</value>
-  </data>
-  <data name="WalletRooms" xml:space="preserve">
-    <value>Wallet gelak</value>
+  <data name="EITitle" xml:space="preserve">
+    <value>Tu comunidad online de intercambio de idiomas</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -120,17 +120,11 @@
   <data name="About" xml:space="preserve">
     <value>Langademyri buruz</value>
   </data>
-  <data name="Board" xml:space="preserve">
-    <value>&lt;a href="/MeetupBoard" class="link"&gt;&lt;strong&gt;Bilera taula&lt;/strong&gt;&lt;/a&gt;</value>
-  </data>
   <data name="ComingSoon" xml:space="preserve">
     <value>LAISTER GATOZ</value>
   </data>
   <data name="FollowUs" xml:space="preserve">
     <value>Jarrai gaitzazu!</value>
-  </data>
-  <data name="Free" xml:space="preserve">
-    <value>Ikasi hizkuntzak dohainik!</value>
   </data>
   <data name="IndAbout" xml:space="preserve">
     <value>Langademyri buruz</value>
@@ -146,30 +140,6 @@
   </data>
   <data name="Join" xml:space="preserve">
     <value>Izena eman</value>
-  </data>
-  <data name="Login" xml:space="preserve">
-    <value>Sartu</value>
-  </data>
-  <data name="Visit" xml:space="preserve">
-    <value>Bisita ezazu Langademy!</value>
-  </data>
-  <data name="IndLangroulette" xml:space="preserve">
-    <value>Ikasi ingelesa, alemana, frantsesa edo nahi duzun hizkuntza online Langademy erabiliz. Langademyren txat gelatan hiztun natiboak aurkituko dituzu zure hizkuntza gogokoenak praktika ditzatzun</value>
-  </data>
-  <data name="IndexLR1" xml:space="preserve">
-    <value>Mintzalagun berriak aurkitzeko modu errezena</value>
-  </data>
-  <data name="IndexLR2" xml:space="preserve">
-    <value>Piztu itzazu zure webcam eta mikroa eta sar zaitez hitz egin nahi duzun hizkuntzaren gelara</value>
-  </data>
-  <data name="IndexLR3" xml:space="preserve">
-    <value>Txat geletan ezagutzen duzun jendearekin idatziz eta bideo dei bitartez komunikatu zaitezke</value>
-  </data>
-  <data name="IndexLR4" xml:space="preserve">
-    <value>Atsegina izan ;-)</value>
-  </data>
-  <data name="IndexLR5" xml:space="preserve">
-    <value>Mintzalagun bilatzaile automatikoa gaitzen baduzu, Langademyk momentu horretan zurekin hitz egiteko eskuragarri dagoen mintzalagun bat aurkituko dizu zuretzak, berarekin bideo dei bat izan dezazun</value>
   </data>
   <data name="IndexReady" xml:space="preserve">
     <value>Prest zaude!</value>
@@ -200,5 +170,86 @@
   </data>
   <data name="IndexLogoAlt" xml:space="preserve">
     <value>Sartu zaitez Langademy-ra, zure hizkuntza elkartrukerako gunea</value>
+  </data>
+  <data name="IndBlock2SubBlock1Text" xml:space="preserve">
+    <value>Hizkuntza elkartrukerako denborarik ez baduzu, ez zaitez arduratu, Langademyn tarifa hobeenak eskaintzen dituzten hiztun natiboak aurkituko dituzu, zuk ahal eta nahi duzunean hizkuntzan praktikatu ditzazun</value>
+  </data>
+  <data name="IndBlock2SubBlock1Title" xml:space="preserve">
+    <value>Agenda estua al daukazu?</value>
+  </data>
+  <data name="IndBlock2SubBlock2Text" xml:space="preserve">
+    <value>Hitz egin ezazu zure jatorrizko hizkuntzan eta eskaini duzun denbora zuri oparituko dizugu nahi dituzun hizkuntzak praktika ditzazun</value>
+  </data>
+  <data name="IndBlock2SubBlock2Title" xml:space="preserve">
+    <value>Hizkuntza elkartrukea</value>
+  </data>
+  <data name="IndBlock2SubBlock3" xml:space="preserve">
+    <value>Erregistratu eta has zaitez hizkuntzak ikasten</value>
+  </data>
+  <data name="IndBlock2Subtitle" xml:space="preserve">
+    <value>Ikasi ingelesa, alemana, frantsesa edo nahi duzun hizkuntza online Langademy erabiliz. Langademyren txat gelatan hiztun natiboak aurkituko dituzu zure atzerriko hizkuntza gogokoenak praktika ditzatzun</value>
+  </data>
+  <data name="IndBlock2Title" xml:space="preserve">
+    <value>Hizkuntza bat ikastea nahi al duzu?</value>
+  </data>
+  <data name="IndBlock3Step1" xml:space="preserve">
+    <value>Gehitu kredituak zure Langademy Walletera</value>
+  </data>
+  <data name="IndBlock3Step2" xml:space="preserve">
+    <value>Sartu ikasi nahi duzun hizkuntzako Wallet txat gelara</value>
+  </data>
+  <data name="IndBlock3Step3" xml:space="preserve">
+    <value>Txateatu mintzalagun natiboekin (doan), ikusi beraien erreputazioa eta beraiekin dei pribatuak egiteko eskaintzen dituzten tarifak</value>
+  </data>
+  <data name="IndBlock3Step4" xml:space="preserve">
+    <value>Hasi ezazu bideo dei bat zuk nahi duzun mintzalagun natiboarekin eta ondo pasa ezazu! (BETI!)</value>
+  </data>
+  <data name="IndBlock3Text1" xml:space="preserve">
+    <value>Hizkuntza elkartrukerako denborarik ez duten, eta maisu bat bilatu beharrean hiztun natiboekin hitz egitea nahi duten pertsonentzat aukera bikaina</value>
+  </data>
+  <data name="IndBlock3Text2" xml:space="preserve">
+    <value>Ikas gehiago Langademy Walleti buruz</value>
+  </data>
+  <data name="IndBlock3Text3" xml:space="preserve">
+    <value>Irabaz ezazu dirua etxetik zure hizkuntza natiboan hitz eginez</value>
+  </data>
+  <data name="IndBlock3Title" xml:space="preserve">
+    <value>Hizkuntza elkartrukerako denborarik ez baduzu...</value>
+  </data>
+  <data name="IndBlock4Block2Text" xml:space="preserve">
+    <value>Batzutan beste mintzalagunekin ordu berean elkartzea ez da erreza izaten. Sortu itzazu hizkuntza elkartrukerako bilerak zuk hitz egitea posible izango duzun ordurako eta horrela beste mintzalagunek solasaldi horren berri izango dute. Gonbida itzazu zure kontaktuak ere bertara!</value>
+  </data>
+  <data name="IndBlock4Block2Title" xml:space="preserve">
+    <value>Hitz egin ezazu nahi duzun hizkuntzan, nahi duzunean</value>
+  </data>
+  <data name="IndBlock4Block3Text" xml:space="preserve">
+    <value>Dirua ez da beharrezkoa Langademyn hizkuntza bat ikasteko! Denbora bankua erreskatera! Erakutsi zure hizkuntza natiboa beste mintzalagun batzuei eta horretarako erabili duzun denbora beste hizkuntza batzuk praktikatu ditzazun emango dizugu</value>
+  </data>
+  <data name="IndBlock4Block3Title" xml:space="preserve">
+    <value>Ikasi hizkuntzak dohainik!</value>
+  </data>
+  <data name="IndBlock4Text1" xml:space="preserve">
+    <value>Hau da zure lekua hizkuntzak doan ikasi nahi badituzu. Bila itzazu hizkuntza elkartrukerako mintzalagunak eta hobetu ezazu zure hizkuntza beraiei idatziz edo bideodeiak eginez.</value>
+  </data>
+  <data name="IndBlock4Title" xml:space="preserve">
+    <value>Hizkuntza elkartrukea</value>
+  </data>
+  <data name="IndSubTitle" xml:space="preserve">
+    <value>Egin itzazu online bideo deiak mundu osoko hiztun natiboekin nahi duzun atzerriko hizkuntza praktikatzeko</value>
+  </data>
+  <data name="IndTitlePart1" xml:space="preserve">
+    <value>Hizkuntzak ikasi</value>
+  </data>
+  <data name="IndTitlePart2" xml:space="preserve">
+    <value>mintzalagun natiboekin</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Sartu</value>
+  </data>
+  <data name="IndLanguages" xml:space="preserve">
+    <value>Hizkuntzak</value>
+  </data>
+  <data name="IndBlock3LinkText" xml:space="preserve">
+    <value>Ikasi gehiago hizkuntza elkartrukeei buruz</value>
   </data>
 </root>

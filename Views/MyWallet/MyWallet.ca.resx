@@ -117,7 +117,51 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
+  <data name="CashoutHistory" xml:space="preserve">
+    <value>Històric</value>
+  </data>
+  <data name="CashoutRequest" xml:space="preserve">
+    <value>Sol·licitar</value>
+  </data>
+  <data name="MovBalance" xml:space="preserve">
+    <value>Saldo</value>
+  </data>
+  <data name="MovCreditsIn" xml:space="preserve">
+    <value>Crèdits</value>
+  </data>
+  <data name="MovCreditsOut" xml:space="preserve">
+    <value>Crèdits</value>
+  </data>
+  <data name="MovDate" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="MovDescription" xml:space="preserve">
+    <value>Descripció</value>
+  </data>
+  <data name="MovementsFrom" xml:space="preserve">
+    <value>Des de </value>
+  </data>
+  <data name="MovementsLastTransactions" xml:space="preserve">
+    <value>Últimes operacions</value>
+  </data>
+  <data name="MovementsTo" xml:space="preserve">
+    <value>Fins:</value>
+  </data>
+  <data name="MovementsTransactions" xml:space="preserve">
+    <value>Operacions</value>
+  </data>
+  <data name="MovLastMonth" xml:space="preserve">
+    <value>Últim mes</value>
+  </data>
+  <data name="MovSelect" xml:space="preserve">
+    <value>Seleccionar</value>
+  </data>
+  <data name="MovThisMonth" xml:space="preserve">
+    <value>Aquest mes</value>
+  </data>
+  <data name="MovThisYear" xml:space="preserve">
+    <value>Aquest any</value>
+  </data>
   <data name="MWAddressLine1" xml:space="preserve">
     <value>Adreça (línia 1)</value>
   </data>
@@ -171,5 +215,218 @@
   </data>
   <data name="ReceiptPurchaseCredits" xml:space="preserve">
     <value>Compra crèdits de Langademy</value>
+  </data>
+  <data name="WalletPurchaseConcept" xml:space="preserve">
+    <value>Comprar crèdits</value>
+  </data>
+  <data name="WalletVideoCallAsNative" xml:space="preserve">
+    <value>Videotrucada ({0}) amb {1}</value>
+  </data>
+  <data name="WalletVideoCallAsStudent" xml:space="preserve">
+    <value>Videotrucada amb un parlant natiu ({0}): {1}</value>
+  </data>
+  <data name="AddCreditsAmmout" xml:space="preserve">
+    <value>Introdueix el nombre de crèdits que vols comprar</value>
+  </data>
+  <data name="AddCreditsCurBal" xml:space="preserve">
+    <value>Saldo actual</value>
+  </data>
+  <data name="AddCreditsMinimumAmmount" xml:space="preserve">
+    <value>Mínim</value>
+  </data>
+  <data name="AddCreditsTitle" xml:space="preserve">
+    <value>Comprar crèdits de Langademy</value>
+  </data>
+  <data name="AddPaymentAmount" xml:space="preserve">
+    <value>Nombre de crèdits</value>
+  </data>
+  <data name="AddPaymentNoCountryPayment" xml:space="preserve">
+    <value>Ho sentim. No hi ha mètodes de pagament disponibles per al teu país</value>
+  </data>
+  <data name="AddPaymentPaypalNote" xml:space="preserve">
+    <value>Confirma l'ordre en el següent pas i seràs redirigit a PayPal per a completar el procés</value>
+  </data>
+  <data name="AddPaymentPurchase" xml:space="preserve">
+    <value>Comprar crèdits Langademy</value>
+  </data>
+  <data name="AddPaymentRedsys" xml:space="preserve">
+    <value>Confirma la comanda i en el següent pas seràs redirigit a la passarel·la de pagament del teu banc per a què completis el procés</value>
+  </data>
+  <data name="AddPaymentSelect" xml:space="preserve">
+    <value>Selecciona el mètode de pagament</value>
+  </data>
+  <data name="AdPayCCCode" xml:space="preserve">
+    <value>Codi de targeta</value>
+  </data>
+  <data name="AdPayCCExp" xml:space="preserve">
+    <value>Data d'expiració</value>
+  </data>
+  <data name="AdPayCCName" xml:space="preserve">
+    <value>Titular de la targeta</value>
+  </data>
+  <data name="AdPayCCNum" xml:space="preserve">
+    <value>Número de targeta</value>
+  </data>
+  <data name="AdPayCCType" xml:space="preserve">
+    <value>Tipus</value>
+  </data>
+  <data name="BillDataCashoutinfo" xml:space="preserve">
+    <value>Informació de reintegrament</value>
+  </data>
+  <data name="BillDataTitle" xml:space="preserve">
+    <value>Dades de facturació</value>
+  </data>
+  <data name="BillDataUpdBillInfo" xml:space="preserve">
+    <value>Ompli o actualitza les dades de facturació</value>
+  </data>
+  <data name="BillsPanelBillNo" xml:space="preserve">
+    <value>Núm.</value>
+  </data>
+  <data name="BillsPanelDate" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="BillsPanelDownload" xml:space="preserve">
+    <value>Descarregar</value>
+  </data>
+  <data name="BillsPanelLastBills" xml:space="preserve">
+    <value>Últimes factures</value>
+  </data>
+  <data name="BillsPanelPeriod" xml:space="preserve">
+    <value>Període de facturació</value>
+  </data>
+  <data name="BillsPanelStatus" xml:space="preserve">
+    <value>Estat</value>
+  </data>
+  <data name="BillsPanelTitle" xml:space="preserve">
+    <value>Factures</value>
+  </data>
+  <data name="BuyAddCrds" xml:space="preserve">
+    <value>Afegir crèdits</value>
+  </data>
+  <data name="BuyConfirm" xml:space="preserve">
+    <value>Confirmar</value>
+  </data>
+  <data name="BuyCShop" xml:space="preserve">
+    <value>Botiga de crèdits</value>
+  </data>
+  <data name="BuyPayment" xml:space="preserve">
+    <value>Pagaments</value>
+  </data>
+  <data name="BuyReceiptData" xml:space="preserve">
+    <value>Dades del rebut</value>
+  </data>
+  <data name="CashOutEdPaypalId" xml:space="preserve">
+    <value>Id de PayPal</value>
+  </data>
+  <data name="CashOutEdPw" xml:space="preserve">
+    <value>Clau Langademy</value>
+  </data>
+  <data name="CCInfoCardNum" xml:space="preserve">
+    <value>Número de targeta</value>
+  </data>
+  <data name="CCInfoCode" xml:space="preserve">
+    <value>Codi</value>
+  </data>
+  <data name="CCInfoExpiration" xml:space="preserve">
+    <value>Data d'expiració</value>
+  </data>
+  <data name="CCInfotHolderName" xml:space="preserve">
+    <value>Nom del titular</value>
+  </data>
+  <data name="CCInfoType" xml:space="preserve">
+    <value>Tipus de targeta de crèdit</value>
+  </data>
+  <data name="ConfirmOrderAmount" xml:space="preserve">
+    <value>Nombre de crèdits</value>
+  </data>
+  <data name="ConfirmOrderInfo" xml:space="preserve">
+    <value>Informació de pagament</value>
+  </data>
+  <data name="ConfirmOrderTitle" xml:space="preserve">
+    <value>Confirmar ordre</value>
+  </data>
+  <data name="COrderCompletedAmount" xml:space="preserve">
+    <value>Nombre de crèdits comprats</value>
+  </data>
+  <data name="COrderCompletedTitle" xml:space="preserve">
+    <value>Enhorabona! La teva compra s'ha efectuat correctament</value>
+  </data>
+  <data name="COutPanelTitle" xml:space="preserve">
+    <value>Reintegrament</value>
+  </data>
+  <data name="COutRO" xml:space="preserve">
+    <value>Compte PayPal</value>
+  </data>
+  <data name="CShopBillInfo" xml:space="preserve">
+    <value>Informació de facturació</value>
+  </data>
+  <data name="CShopBills" xml:space="preserve">
+    <value>Factures</value>
+  </data>
+  <data name="CShopCashout" xml:space="preserve">
+    <value>Reintegrament</value>
+  </data>
+  <data name="CShopCreditShop" xml:space="preserve">
+    <value>Botiga de crèdits</value>
+  </data>
+  <data name="CShopTransactions" xml:space="preserve">
+    <value>Operacions</value>
+  </data>
+  <data name="MWPaypalInfo" xml:space="preserve">
+    <value>Confirma l'ordre i passareu a PayPal per a completar el procés</value>
+  </data>
+  <data name="MWRedsysInfo" xml:space="preserve">
+    <value>Fes clic a confirmar i seràs redirigit a la passarel·la de pagament del teua banc per a completar el procés</value>
+  </data>
+  <data name="OderCompletedBackMw" xml:space="preserve">
+    <value>Tornar a My Wallet</value>
+  </data>
+  <data name="OrderCompletedNum" xml:space="preserve">
+    <value>Número d'ordre</value>
+  </data>
+  <data name="OrderCompletedpurchase" xml:space="preserve">
+    <value>Comprar crèdits de Langademy</value>
+  </data>
+  <data name="ReqCashoutAccPass" xml:space="preserve">
+    <value>Si us plau, introdueix la teva contrasenya de Langademy</value>
+  </data>
+  <data name="ReqCashoutAvailableBalance" xml:space="preserve">
+    <value>Saldo disponible</value>
+  </data>
+  <data name="ReqCashoutConditions" xml:space="preserve">
+    <value>Sóc el propietari del compte PayPal. No he tergiversat la informació de la meva identitat. Els fons en el meu compte de My Wallet han estat obtinguts legalment d'acord amb els termes de servei de Langademy. Reconec que és la meva responsabilitat complir amb les meves obligacions tributàries en virtut a les lleis tributàries del meu país.</value>
+  </data>
+  <data name="ReqCashoutConfirm" xml:space="preserve">
+    <value>Confirmar</value>
+  </data>
+  <data name="ReqCashoutConfirmation" xml:space="preserve">
+    <value>Confirmació</value>
+  </data>
+  <data name="ReqCashoutConfirmCheck" xml:space="preserve">
+    <value>Confirmo que aquesta informació és verdadera</value>
+  </data>
+  <data name="ReqCashoutCredits" xml:space="preserve">
+    <value>Reintegrament de Crèdits Langademy</value>
+  </data>
+  <data name="ReqCashoutEnterAmmount" xml:space="preserve">
+    <value>Introdueix el nombre de crèdits per al reintegrament</value>
+  </data>
+  <data name="ReqCashoutMethodConfirm" xml:space="preserve">
+    <value>Confirma un mètode per al reintegrament o</value>
+  </data>
+  <data name="ReqCashoutNewBal" xml:space="preserve">
+    <value>Nou saldo</value>
+  </data>
+  <data name="ReqCashoutPaypalAccount" xml:space="preserve">
+    <value>Compte PayPal</value>
+  </data>
+  <data name="ReqCashoutReq" xml:space="preserve">
+    <value>Quantitat sol·licitada</value>
+  </data>
+  <data name="ReqCashoutTitle" xml:space="preserve">
+    <value>Sol·licitud de reintegrament enviada correctament</value>
+  </data>
+  <data name="ReqCashoutUpdate" xml:space="preserve">
+    <value>Actualitzar</value>
   </data>
 </root>

@@ -265,7 +265,7 @@
     <value>Has hablado con {0} en {1}</value>
   </data>
   <data name="WalletTilePurchaseMovement" xml:space="preserve">
-    <value>Has comprado {0} creditos</value>
+    <value>Compra de créditos</value>
   </data>
   <data name="WalletTileStudentMovement" xml:space="preserve">
     <value>Has hablado con {0} en {1}</value>

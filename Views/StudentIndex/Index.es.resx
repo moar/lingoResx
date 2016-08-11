@@ -117,112 +117,67 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Accept" xml:space="preserve">
-    <value>Onartu</value>
+  <data name="IsBlock2B1Text" xml:space="preserve">
+    <value>Entra a las de chat Wallet y encuentra nativos que se ajusten a tus necesidades: revisa su experiencia y tarifas</value>
   </data>
-  <data name="AllContacts" xml:space="preserve">
-    <value>Kontaktu guztiak</value>
+  <data name="ISBlock2B1Title" xml:space="preserve">
+    <value>Entra a las salas Wallet</value>
   </data>
-  <data name="ConnectionLost" xml:space="preserve">
-    <value>Konexioa galdu da. Saiakera berrirako</value>
+  <data name="ISBlock2B2Text" xml:space="preserve">
+    <value>Haz videollamadas con nativos de todo el mundo. Tendrás un periodo de prueba para decidir si deseas seguir con la llamada y pagar por la conversación</value>
   </data>
-  <data name="RPContacts" xml:space="preserve">
-    <value>Kontaktuak</value>
+  <data name="ISBlock2B2Title" xml:space="preserve">
+    <value>Haz videollamadas privadas</value>
   </data>
-  <data name="Decline" xml:space="preserve">
-    <value>Ukatu</value>
+  <data name="ISBlock2B3Text" xml:space="preserve">
+    <value>Paga solo por lo que hablas. Ni un céntimo más</value>
   </data>
-  <data name="Messages" xml:space="preserve">
-    <value>Mezuak</value>
+  <data name="ISBlock2B3Title" xml:space="preserve">
+    <value>Paga solo por el tiempo que hables</value>
   </data>
-  <data name="NoContacts" xml:space="preserve">
-    <value>Ez duzu kontakturik oraindik. Jo txat geletara eta lagun berriak ezagutu itzatzu!</value>
+  <data name="ISBlock2Title" xml:space="preserve">
+    <value>Conversaciones de pago</value>
   </data>
-  <data name="NoMessages" xml:space="preserve">
-    <value>Ez daukazu mezurik</value>
+  <data name="ISBlock3B1Text" xml:space="preserve">
+    <value>El dinero no es un requisito indispensable a la hora de aprender idioma: compartir tu tiempo y conocimientos es suficiente en Langademy. Se ofrece un Banco del Tiempo: el tiempo que gastes conversando en tu idioma nativo podrás usarlo para aprender otros idiomas.</value>
   </data>
-  <data name="RPTBCall" xml:space="preserve">
-    <value>Denbora bakuko deia</value>
+  <data name="ISBlock3B1Title" xml:space="preserve">
+    <value>Usa el tiempo como moneda de cambio</value>
   </data>
-  <data name="Videocall" xml:space="preserve">
-    <value>Bideodeia</value>
+  <data name="ISBlock3B2Text" xml:space="preserve">
+    <value>Entra a las salas de banco del tiempo de Langademy y encontrarás a gente que habla el idioma que quieres practicar. Si tienes una webcam podrás mantener videollamadas con ellos, y si no, también puedes realizar llamadas de voz o simplemente escribirte con ellos</value>
   </data>
-  <data name="NoNotifications" xml:space="preserve">
-    <value>Ez daukazu jakinarazpenik</value>
+  <data name="ISBlock3B2Title" xml:space="preserve">
+    <value>Conoce gente nueva</value>
   </data>
-  <data name="Notifications" xml:space="preserve">
-    <value>Jakinarazpenak</value>
+  <data name="ISBlock3B3Text" xml:space="preserve">
+    <value>El buscador automático de compañeros de Langademy te buscará compañeros que estén disponibles para hablar y que cumpla tus preferencias</value>
   </data>
-  <data name="ReloadNow" xml:space="preserve">
-    <value>Birkargatu orain</value>
+  <data name="ISBlock3B3Title" xml:space="preserve">
+    <value>No te preocupes de buscar un compañero</value>
   </data>
-  <data name="SendMessage" xml:space="preserve">
-    <value>Mezua bidali</value>
+  <data name="ISBlock3Title" xml:space="preserve">
+    <value>Intercambio de idiomas</value>
   </data>
-  <data name="ShowAll" xml:space="preserve">
-    <value>Guztiak erakutsi</value>
+  <data name="ISOption1Text" xml:space="preserve">
+    <value>Mantén conversaciones online en tu idioma nativo y te daremos la misma cantidad de tiempo para que practiques otros idiomas</value>
   </data>
-  <data name="ViewProfile" xml:space="preserve">
-    <value>Ikusi profila</value>
+  <data name="ISOption1Title" xml:space="preserve">
+    <value>Intercambio de idiomas</value>
   </data>
-  <data name="RPViewProfile" xml:space="preserve">
-    <value>Ikusi profila</value>
+  <data name="ISOption2Text" xml:space="preserve">
+    <value>Si no tienes tiempo para intercambios, ésta es tu opción. Paga a un nativo por una conversación</value>
   </data>
-  <data name="WriteHere" xml:space="preserve">
-    <value>Idatzi hemen</value>
+  <data name="ISOption2Title" xml:space="preserve">
+    <value>Paga por conversar</value>
   </data>
-  <data name="ContactsNoLogged" xml:space="preserve">
-    <value>Hasi sesioa zure kontaktuak ikusteko</value>
+  <data name="ISOptionTitle" xml:space="preserve">
+    <value>¿Cómo prefieres practicar un idioma?</value>
   </data>
-  <data name="NotificationsNoLogged" xml:space="preserve">
-    <value>Hasi sesioa zure jakinarazpenak ikusteko</value>
+  <data name="ISSubTitle" xml:space="preserve">
+    <value>conversando con hablantes nativos</value>
   </data>
-  <data name="RPFilterAdd" xml:space="preserve">
-    <value>Gehitu</value>
-  </data>
-  <data name="RPFilterAllLanguages" xml:space="preserve">
-    <value>Hizkuntza guztiak</value>
-  </data>
-  <data name="RPFilterAllPeople" xml:space="preserve">
-    <value>Erabiltzaile guztiak</value>
-  </data>
-  <data name="RPFilterCancel" xml:space="preserve">
-    <value>Utzi</value>
-  </data>
-  <data name="RPFilterLanguages" xml:space="preserve">
-    <value>Hizkuntzak</value>
-  </data>
-  <data name="RPFilterNotTalketTo" xml:space="preserve">
-    <value>Hitz egin ez duzun jendea</value>
-  </data>
-  <data name="RPFilterOk" xml:space="preserve">
-    <value>Ok</value>
-  </data>
-  <data name="RPFilterOnline" xml:space="preserve">
-    <value>Online bakarrik</value>
-  </data>
-  <data name="RPFilterTalkedTo" xml:space="preserve">
-    <value>Hitz egin duzun jendea</value>
-  </data>
-  <data name="RPSearch" xml:space="preserve">
-    <value>Bilatu</value>
-  </data>
-  <data name="RPRegForMessages" xml:space="preserve">
-    <value>Sartu zure konbertsazioak ikusteko</value>
-  </data>
-  <data name="RPRegForRooms" xml:space="preserve">
-    <value>Sartu zure gelak ikusteko</value>
-  </data>
-  <data name="RPChatRooms" xml:space="preserve">
-    <value>Txat gelak</value>
-  </data>
-  <data name="RPWalletCall" xml:space="preserve">
-    <value>Walle deia</value>
-  </data>
-  <data name="TimeBankingRooms" xml:space="preserve">
-    <value>Denbora banku gelak</value>
-  </data>
-  <data name="WalletRooms" xml:space="preserve">
-    <value>Wallet gelak</value>
+  <data name="ISTitle" xml:space="preserve">
+    <value>Adquiere fluidez</value>
   </data>
 </root>

@@ -174,4 +174,10 @@
   <data name="TooManyTopics" xml:space="preserve">
     <value>Ezin ditzakezu gai gehiago geitu</value>
   </data>
+  <data name="BuyingError" xml:space="preserve">
+    <value>Barkatu, zerbait gaizki joan da eta erosketa prozesua errepikatu beharra daukazu segurtasun arrazoiengatik</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Ezusteko akatsen bat gertatu da. Mesesdez, kontakta ezazu Langademyko harreta taldeaz arazoa ez bada laister konpontzen</value>
+  </data>
 </root>

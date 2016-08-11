@@ -120,29 +120,14 @@
   <data name="About" xml:space="preserve">
     <value>Sobre Langademy</value>
   </data>
-  <data name="Board" xml:space="preserve">
-    <value><![CDATA[<a href="/MeetupBoard" class="link"><strong>Tablón</strong></a>]]></value>
-  </data>
   <data name="ComingSoon" xml:space="preserve">
     <value>PRÓXIMAMENTE</value>
   </data>
   <data name="FollowUs" xml:space="preserve">
     <value>¡Síguenos!</value>
   </data>
-  <data name="Free" xml:space="preserve">
-    <value>Aprende idiomas gratis</value>
-  </data>
   <data name="IndAbout" xml:space="preserve">
     <value>Acerca de Langademy</value>
-  </data>
-  <data name="IndLanguages" xml:space="preserve">
-    <value>Idiomas</value>
-  </data>
-  <data name="IndNextMeetups" xml:space="preserve">
-    <value>Siguientes intercambios para practicar idiomas online</value>
-  </data>
-  <data name="IndParticipants" xml:space="preserve">
-    <value>Participantes</value>
   </data>
   <data name="IndPrivacy" xml:space="preserve">
     <value>Privacidad</value>
@@ -156,131 +141,14 @@
   <data name="Join" xml:space="preserve">
     <value>Apúntate</value>
   </data>
-  <data name="KnowPeople" xml:space="preserve">
-    <value>Intercambio de idiomas</value>
-  </data>
-  <data name="Participants" xml:space="preserve">
-    <value>Participantes</value>
-  </data>
-  <data name="LanguageEx" xml:space="preserve">
-    <value>Tu espacio de intercambio de idiomas en internet</value>
-  </data>
-  <data name="LearnLang" xml:space="preserve">
-    <value>Aprende idiomas y mejora tu nivel hablando con gente de todo el mundo</value>
-  </data>
-  <data name="Login" xml:space="preserve">
-    <value>Iniciar sesión</value>
-  </data>
-  <data name="ManageMeetup" xml:space="preserve">
-    <value>Organiza quedadas para intercambiar idiomas cuando mejor te venga y haz saber a todos cuando vas a entrar</value>
-  </data>
-  <data name="Visit" xml:space="preserve">
-    <value>¡Visita Langademy!</value>
-  </data>
-  <data name="WhenPossible" xml:space="preserve">
-    <value>Practica el idioma que quieras, cuando tú quieras</value>
-  </data>
-  <data name="IndLangroulette" xml:space="preserve">
-    <value>Aprende inglés, alemán, francés o cualquier otro idioma online con Langademy. En las salas de chat de Langademy conocerás nativos para chatear o hacer videollamadas en tus idiomas favoritos</value>
-  </data>
-  <data name="SpeakNative" xml:space="preserve">
-    <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>
-  </data>
-  <data name="IndexLR1" xml:space="preserve">
-    <value>La forma más fácil de hacer un primer contacto</value>
-  </data>
-  <data name="IndexLR2" xml:space="preserve">
-    <value>Enchufa tu webcam y tu micrófono y entra en la sala del idioma que quieres practicar</value>
-  </data>
-  <data name="IndexLR3" xml:space="preserve">
-    <value>Podrás chatear o hacer videollamadas con los nativos que se encuentres en las salas</value>
-  </data>
-  <data name="IndexLR4" xml:space="preserve">
-    <value>Sé simpático ;-)</value>
-  </data>
-  <data name="IndexLR5" xml:space="preserve">
-    <value>Y si lo deseas, activa el buscador automático de compañeros: Langademy se ocupará de emparejarte automáticamente con un compañero que esté libre y cumpla tu filtro</value>
-  </data>
-  <data name="IndexMeetingBoard1" xml:space="preserve">
-    <value>Organiza intercambios de idiomas en el Tablón de Quedadas de Langademy</value>
-  </data>
-  <data name="IndexMeetingBoard2" xml:space="preserve">
-    <value>¡Todos a una!</value>
-  </data>
-  <data name="IndexMeetingBoard3" xml:space="preserve">
-    <value>¿Cuándo quieres mantener una conversación con nativos o en tu propio idioma? Contribuye con la comunidad de intercambio de idiomas organizando quedadas los días y horas que te apetezca entrar a  conversar. Pero hazlo con tiempo para que más gente tenga tiempo de apuntarse</value>
-  </data>
-  <data name="IndexMeetingBoard4" xml:space="preserve">
-    <value>O si alguien ha organizado ya alguna quedada apúntate. ¡Solo tienes que pulsar un botón! Además, los que os apuntéis en la quedada podréis elegir y votar los temas sobre  los que deseáis hablar en las quedadas.</value>
-  </data>
-  <data name="IndexMeetingBoard5" xml:space="preserve">
-    <value>Si quieres que más gente conozca la quedada, puedes compartir el link de la quedada en tus redes sociales. Cuantos más mejor :-)</value>
-  </data>
-  <data name="IndexPartners1" xml:space="preserve">
-    <value>¡Encontré un compañero que mola!</value>
-  </data>
-  <data name="IndexPartners2" xml:space="preserve">
-    <value>¡Vótale en su perfil!</value>
-  </data>
-  <data name="IndexPartners3" xml:space="preserve">
-    <value>Envíale una solicitud de contacto</value>
-  </data>
-  <data name="IndexPartners4" xml:space="preserve">
-    <value>Cuando la acepte podréis chatear y hacer videoconferencias directamente sin tener que entrar a las salas</value>
-  </data>
-  <data name="IndexQuestion1" xml:space="preserve">
-    <value>¿Qué idiomas hablas? ¿Cual es tu nivel?</value>
-  </data>
-  <data name="IndexQuestion2" xml:space="preserve">
-    <value>¿De dónde eres?¿Cuales son tus intereses?</value>
-  </data>
   <data name="IndexReady" xml:space="preserve">
     <value>Ya estás listo para mantener conversaciones en inglés, alemán, francés o en el idioma que quieras</value>
-  </data>
-  <data name="IndexSearchPartners" xml:space="preserve">
-    <value>Busca compañeros de intercambio</value>
-  </data>
-  <data name="IndexSeeMore" xml:space="preserve">
-    <value>Ver más</value>
-  </data>
-  <data name="IndexStep2" xml:space="preserve">
-    <value>Sube tu foto de perfil y de portada</value>
-  </data>
-  <data name="RegisterAndCompleteProfile" xml:space="preserve">
-    <value>Regístrate y comienza a aprender idiomas</value>
-  </data>
-  <data name="TryChatRooms" xml:space="preserve">
-    <value>Prueba el intercambio de idiomas en las salas de chat</value>
-  </data>
-  <data name="IndexLanguageExchange1" xml:space="preserve">
-    <value>Intercambio de idiomas</value>
-  </data>
-  <data name="IndexLanguageExchange2" xml:space="preserve">
-    <value>El tiempo del que dispones para hablar por videoconferencia con nativos es el mismo que tú dediques a otros hablando en tu idioma nativo. Por ejemplo, si mantienes 30 minutos de conversación en castellano, podrás utilizar esos 30 minutos para mantener conversaciones en inglés con otros nativos</value>
-  </data>
-  <data name="IndexLanguageExchange3" xml:space="preserve">
-    <value>Funciona como un tandem, pero tú decides cuándo y con quién hablas en cada idioma, sean las mismas u otras personas</value>
-  </data>
-  <data name="IndexLanguageExchange4" xml:space="preserve">
-    <value>Cuando te registras en Langademy empiezas con 2 horas en tu cuenta para que puedas probar</value>
   </data>
   <data name="IndexTeacherSubscribe" xml:space="preserve">
     <value>¡Estamos preparando herramientas increibles para ti! Mándanos tu dirección de e-mail y te mantendremos al corriente de las novedades</value>
   </data>
   <data name="IndexTeacherTitle" xml:space="preserve">
     <value>¿Eres profesor?</value>
-  </data>
-  <data name="IndexTimeBank1" xml:space="preserve">
-    <value>Consumo colaborativo</value>
-  </data>
-  <data name="IndexTimeBank2" xml:space="preserve">
-    <value>Mediante el Banco del Tiempo puedes controlar tu saldo de tiempo para saber si necesitas conversar en tu idioma nativo</value>
-  </data>
-  <data name="IndexTimeBank3" xml:space="preserve">
-    <value>Consulta las reglas del Banco de Tiempo para saber cuándo una videoconferencia te suma o resta tiempo</value>
-  </data>
-  <data name="IndexTimeBank4" xml:space="preserve">
-    <value>En tu estado puedes indicar los idiomas en los que estás disponible para recibir videollamadas de tus contactos</value>
   </data>
   <data name="IndexAlreadySubscribed" xml:space="preserve">
     <value>Ya estás suscrito</value>
@@ -303,7 +171,85 @@
   <data name="IndexLogoAlt" xml:space="preserve">
     <value>Únete a Langademy, tu comunidad de intercambio de idiomas</value>
   </data>
-  <data name="IndexMBPictureAlt" xml:space="preserve">
-    <value>Crea quedadas para intercambiar idiomas en el tablón de quedadas</value>
+  <data name="IndBlock2SubBlock1Text" xml:space="preserve">
+    <value>No te preocupes si no tienes tiempo para intercambiar idiomas. En Langademy encontrarás los nativos con las mejores tarifas del mercado para practicar idiomas cuando quieras</value>
+  </data>
+  <data name="IndBlock2SubBlock1Title" xml:space="preserve">
+    <value>¿Tienes una agenda apretada?</value>
+  </data>
+  <data name="IndBlock2SubBlock2Text" xml:space="preserve">
+    <value>Habla en tu idioma nativo con los demás y te regalamos el tiempo que les dediques para practicar otros idiomas</value>
+  </data>
+  <data name="IndBlock2SubBlock2Title" xml:space="preserve">
+    <value>Intercambio de idiomas</value>
+  </data>
+  <data name="IndBlock2SubBlock3" xml:space="preserve">
+    <value>Regístrate y comineza a aprender idiomas</value>
+  </data>
+  <data name="IndBlock2Subtitle" xml:space="preserve">
+    <value>Aprende inglés, alemán, francés o cualquier otro idioma online con Langademy. En las salas de chat de Langademy conocerás nativos para chatear o hacer videollamadas en tus idiomas favoritos</value>
+  </data>
+  <data name="IndBlock2Title" xml:space="preserve">
+    <value>¿Quieres aprender un idioma?</value>
+  </data>
+  <data name="IndBlock3Step1" xml:space="preserve">
+    <value>Añade créditos a tu cuenta Wallet de Langademy</value>
+  </data>
+  <data name="IndBlock3Step2" xml:space="preserve">
+    <value>Entra a la sala de chat Wallet del idioma que quieras</value>
+  </data>
+  <data name="IndBlock3Step3" xml:space="preserve">
+    <value>Chatea gratis con hablantes nativos, mira su reputación y las tarifas que ofrecen para mantener conversaciones</value>
+  </data>
+  <data name="IndBlock3Step4" xml:space="preserve">
+    <value>Comienza una videollamada con un nativo de tu gusto y diviértete, (¡SIEMPRE!)</value>
+  </data>
+  <data name="IndBlock3Text1" xml:space="preserve">
+    <value>La solución perfecta para la gente que no quiere un profesor pero que quiere practicar un idioma y no tiene tiempo para intercambios</value>
+  </data>
+  <data name="IndBlock3Text2" xml:space="preserve">
+    <value>Aprende más sobre Langademy Wallet</value>
+  </data>
+  <data name="IndBlock3Text3" xml:space="preserve">
+    <value>Gana dinero desde tu casa hablando en tu idioma nativo</value>
+  </data>
+  <data name="IndBlock3Title" xml:space="preserve">
+    <value>Si no tienes tiempo para intercambios de idiomas...</value>
+  </data>
+  <data name="IndBlock4Block2Text" xml:space="preserve">
+    <value>Algunas veces no es fácil coincidir con la gente a la hora que tu quieres. Las quedadas de Langademy te ayudaran en esto: crea quedadas para intercambiar idiomas para el dia y hora que tu quieras e invita a tus contactos</value>
+  </data>
+  <data name="IndBlock4Block2Title" xml:space="preserve">
+    <value>Practica el idioma que quieras, cuando quieras</value>
+  </data>
+  <data name="IndBlock4Block3Text" xml:space="preserve">
+    <value>El dinero no es necesario para poder aprender un idioma en Langademy. ¡El banco del tiempo al rescate! Habla con los demás en tu idioma nativo, y nosotros te daremos el tiempo que hayas empleado para que practiques otros idiomas</value>
+  </data>
+  <data name="IndBlock4Block3Title" xml:space="preserve">
+    <value>Aprende idiomas gratis</value>
+  </data>
+  <data name="IndBlock4Text1" xml:space="preserve">
+    <value>Este es tu sitios si quieres practicar idiomas gratuitamente. Encuentra compañeros de intercambio y mejora tu idioma mientras haces videollamadas o escribes a otros nativos</value>
+  </data>
+  <data name="IndBlock4Title" xml:space="preserve">
+    <value>Intercambio de idiomas</value>
+  </data>
+  <data name="IndSubTitle" xml:space="preserve">
+    <value>Haz videollamadas online con hablantes nativos de todo el mundo y practica idiomas cuando quieras</value>
+  </data>
+  <data name="IndTitlePart1" xml:space="preserve">
+    <value>Aprende idiomas</value>
+  </data>
+  <data name="IndTitlePart2" xml:space="preserve">
+    <value>con hablantes nativos online</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Iniciar sesión</value>
+  </data>
+  <data name="IndLanguages" xml:space="preserve">
+    <value>Idiomas</value>
+  </data>
+  <data name="IndBlock3LinkText" xml:space="preserve">
+    <value>Aprende más sobre el intercambio de idiomas</value>
   </data>
 </root>

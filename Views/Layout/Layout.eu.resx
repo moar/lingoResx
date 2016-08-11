@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,11 +57,8 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
-  
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -178,5 +176,23 @@
   </data>
   <data name="UserDescription" xml:space="preserve">
     <value>Kaixo! {0} naiz eta hizkuntza berriak ikasi nahi ditut Langademyn!</value>
+  </data>
+  <data name="IndexExchangeDescription" xml:space="preserve">
+    <value>Langademy hizkuntzak ikasteko sare sozial bat da. Mundu osoko hiztun natiboekin harrementan jarriko zaitu hizkuntza elkartrukeak egin ditzazun eta horrela zure atzerriko hizkuntzen maila hobetu dezazun</value>
+  </data>
+  <data name="IndexExchangeTitle" xml:space="preserve">
+    <value>Langademy - Hizkuntza elkartrukea</value>
+  </data>
+  <data name="IndexNativesDescription" xml:space="preserve">
+    <value>Jendearekin hitz egitea gogoko baduzu, orain Langademyn dirua irabazi dezakezu zure hizkuntza natiboan konbertsazioak izateagatik. Sartu txat geletara eta ezagutu zure ama hizkuntza ikasi nahi duen jendea!</value>
+  </data>
+  <data name="IndexNativesTitle" xml:space="preserve">
+    <value>Langademy: dirua irabazi ezazu mintzalagun lanak eginez</value>
+  </data>
+  <data name="IndexStudentsDescription" xml:space="preserve">
+    <value>Menperatu itzazu atzerriko hizkuntzak mintzalagun natiboekin konbertsazioak mantenduz! Horretarako bi aukera dituzu: hizkuntza elkartrukeak egitea edo hiztun natiboei zurekin hitz egin dezaten ordaintzea</value>
+  </data>
+  <data name="IndexStudentsTitle" xml:space="preserve">
+    <value>Langademy: hizkuntzak ikasi itzazu</value>
   </data>
 </root>

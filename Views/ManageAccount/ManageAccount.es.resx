@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,89 +57,8 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -200,6 +120,9 @@
   <data name="CheckEmail" xml:space="preserve">
     <value>Por favor revisa tu correo electrónico para restablecer tu contraseña</value>
   </data>
+  <data name="CheckEmailCreation" xml:space="preserve">
+    <value>Te hemos enviado un email a {0}. Revisa tu correo para finalizar el proceso de creación de contraseña</value>
+  </data>
   <data name="EmailLink" xml:space="preserve">
     <value>Enviar enlace al correo</value>
   </data>
@@ -208,6 +131,12 @@
   </data>
   <data name="ForgotPass" xml:space="preserve">
     <value>¿Olvidaste tu contraseña?</value>
+  </data>
+  <data name="MAReturn" xml:space="preserve">
+    <value>Volver</value>
+  </data>
+  <data name="PwCreationConfirm" xml:space="preserve">
+    <value>Confirmacion de creación de contraseña</value>
   </data>
   <data name="PwForgotConfirm" xml:space="preserve">
     <value>Confirmación de recuperación de contraseña</value>

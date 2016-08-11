@@ -219,4 +219,10 @@
   <data name="RPWalletCall" xml:space="preserve">
     <value>Llamada de Wallet</value>
   </data>
+  <data name="TimeBankingRooms" xml:space="preserve">
+    <value>Salas de Banco del Tiempo</value>
+  </data>
+  <data name="WalletRooms" xml:space="preserve">
+    <value>Salas Wallet</value>
+  </data>
 </root>

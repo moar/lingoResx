@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -232,10 +232,7 @@
     <value>Saldo eskuragarria</value>
   </data>
   <data name="AddCreditsMinimumAmmount" xml:space="preserve">
-    <value>Minimoa</value>
-  </data>
-  <data name="AddcreditsPaypal" xml:space="preserve">
-    <value>Ordaindu zuzenean PayPalekin edo klikatu Hurrengoa beste ordainketa aukerak ikusteko</value>
+    <value>Erosketa minimoa</value>
   </data>
   <data name="AddCreditsTitle" xml:space="preserve">
     <value>Erosi Langademy kredituak</value>
@@ -434,5 +431,95 @@
   </data>
   <data name="ReqCashoutUpdate" xml:space="preserve">
     <value>Eguneratu</value>
+  </data>
+  <data name="MWAvailableBalance" xml:space="preserve">
+    <value>SALDO ESKURAGARRIA</value>
+  </data>
+  <data name="MWMoreInfo" xml:space="preserve">
+    <value>Infomazio gehiago</value>
+  </data>
+  <data name="MWProvicionBalance" xml:space="preserve">
+    <value>HURRENGO FAKTURA</value>
+  </data>
+  <data name="MWTotalBalance" xml:space="preserve">
+    <value>SALDO TOTALA</value>
+  </data>
+  <data name="MWMovementInfo" xml:space="preserve">
+    <value>Hilaren bukaeran, Langademyk komisio bat kobratuko dizu natibo moduan izan dituzun konbertsazioengatik, eta komisio hau zure hurrengo fakturan aplikatuta agertuko da. Komisioa ez zaizu zure kontutik kenduko hurrengo faktura emititu arte, baina ezin izango duzu erabili beste erosketa batzuk egiteko. Gainera, jakin ezazu kredituak ateratzeko eskari bat egiten duzunean, ezin izango duzula kreditu kopuru hori erabili beste eragiketa batzuk egiteko</value>
+  </data>
+  <data name="CashoutCreatePW" xml:space="preserve">
+    <value>Sortu</value>
+  </data>
+  <data name="CashoutCreatePWSent" xml:space="preserve">
+    <value>Ez duzu kontu lokalik. Zure hebilderatze datuak editatu nahi badituzu pasahitz bat sortu beharra daukazu</value>
+  </data>
+  <data name="CashOutPanAmount" xml:space="preserve">
+    <value>Kantitatea</value>
+  </data>
+  <data name="CashOutPanDate" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="CashOutPanNo" xml:space="preserve">
+    <value>Zenb.</value>
+  </data>
+  <data name="CashOutPanStatus" xml:space="preserve">
+    <value>Egoera</value>
+  </data>
+  <data name="ReqCashoutMin" xml:space="preserve">
+    <value>Maximoa</value>
+  </data>
+  <data name="BillingMovementConcept" xml:space="preserve">
+    <value>Faktura: {1}-{0}</value>
+  </data>
+  <data name="UpdReqCashChangedAfter" xml:space="preserve">
+    <value>Zure PayPal kontua aldatu duzu kredituak ateratzeko eskaera egin ondoren</value>
+  </data>
+  <data name="UpdReqCashChangePaypalAcc" xml:space="preserve">
+    <value>Langademyk dirua transferituko dizun PayPal kontua aldatzea nahi baduzu, PayPal kontu berri bat sartu beharko duzu lehenengo. {0} egin dezakezu. Hori egin ondoren, pantaila honetara bueltatu eta zure eskaria eguneratu ahal izango duzu</value>
+  </data>
+  <data name="UpdReqCashHere" xml:space="preserve">
+    <value>hemen</value>
+  </data>
+  <data name="UpdReqCashMaxWithdrawal" xml:space="preserve">
+    <value>Atera dezakezun kreditu kopuru maximoa</value>
+  </data>
+  <data name="UpdReqCashNoPaypal" xml:space="preserve">
+    <value>Ez daukazu PayPaleko konturik Langademyn </value>
+  </data>
+  <data name="UpdReqCashRequested" xml:space="preserve">
+    <value>Kredituak ateratzeko eskaera bat egin zenuen data honetan: {0}. Eskaera hori prozesatua izan aurretik eguneratu edo bertan behera utzi dezakezu</value>
+  </data>
+  <data name="UpdReqCashSelectTransAccount" xml:space="preserve">
+    <value>Mesedez, aukeratu ezazu Langademyk dirua tranferitzea nahi duzun kontua</value>
+  </data>
+  <data name="UpdReqCashUpdRequest" xml:space="preserve">
+    <value>Kredituak ateratzeko eskaria eguneratu</value>
+  </data>
+  <data name="UpdRquCashUpdateAmount" xml:space="preserve">
+    <value>Kredituak ateratzeko kopurua eguneratu</value>
+  </data>
+  <data name="CashoutRequestEnterPaypal" xml:space="preserve">
+    <value>PayPaleko kontuaren Id-a sartu behar duzu kredituak ateratzeko eskari bat egin aurretik. {0} egin dezakezu</value>
+  </data>
+  <data name="InProcReqCashoutAmount" xml:space="preserve">
+    <value>Eskatutako kantitatea</value>
+  </data>
+  <data name="InProcRequCashoutProcessed" xml:space="preserve">
+    <value>Dirua ateratzeko eskari bat egin duzu, baina dagoeneko zure beste eskari bat prozesatzen ari gara. Eskari horren ordainketa jasotzen duzunean beste eskari bat egin ahal izango duzu</value>
+  </data>
+  <data name="UpdCashSuc" xml:space="preserve">
+    <value>Kredituak ateratzeko eskaera zuzen burutu da</value>
+  </data>
+  <data name="WithdrawalConcept" xml:space="preserve">
+    <value>Kredituak atera</value>
+  </data>
+  <data name="ReqCashoutMaximumAvailable" xml:space="preserve">
+    <value>Kredituak ateratzeko gehienezko kantitatea</value>
+  </data>
+  <data name="WalletMaxWithdrawal" xml:space="preserve">
+    <value>Atera dezakezun gehiengo kreditu  kopurua {0} da</value>
+  </data>
+  <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
+    <value>Ezin dezakezu kredituak ateratzeko eskaerarik egin bideo dei baten zauden bitartean</value>
   </data>
 </root>

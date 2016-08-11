@@ -354,4 +354,10 @@
   <data name="ATSelectSubCategories" xml:space="preserve">
     <value>Aukeratu azpikategoriak</value>
   </data>
+  <data name="MBNoMeetups" xml:space="preserve">
+    <value>Apunta zaitez bileraren batera edo berri bat sortu ezazu!</value>
+  </data>
+  <data name="MBNoMeetupsScheduled" xml:space="preserve">
+    <value>Ez da bilerarik antolatu oraindik</value>
+  </data>
 </root>

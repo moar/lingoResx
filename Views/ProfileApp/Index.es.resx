@@ -246,4 +246,7 @@
   <data name="NewMeetupAlert" xml:space="preserve">
     <value>Alerta de nuevas quedadas</value>
   </data>
+  <data name="CannotDeleteNativePendingRoom" xml:space="preserve">
+    <value>Tienes que salir de la sala o salas de este idioma si quieres eliminar este idioma</value>
+  </data>
 </root>
