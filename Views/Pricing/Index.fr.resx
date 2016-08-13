@@ -117,40 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="PricingFee" xml:space="preserve">
-    <value>The 13% of the amount charged to the learner</value>
-  </data>
-  <data name="PricingFree" xml:space="preserve">
-    <value>Free</value>
-  </data>
-  <data name="PricingLearners" xml:space="preserve">
-    <value>Learners</value>
-  </data>
-  <data name="PricingNatives" xml:space="preserve">
-    <value>Native speakers</value>
-  </data>
-  <data name="PricingSignUp" xml:space="preserve">
-    <value>Sign up</value>
-  </data>
-  <data name="PricingSubTitle" xml:space="preserve">
-    <value>Join today and start enjoying these features</value>
-  </data>
-  <data name="PricingTitle" xml:space="preserve">
-    <value>Pricing</value>
-  </data>
-  <data name="PRow1Title" xml:space="preserve">
-    <value>Time banking voice and video calls</value>
-  </data>
-  <data name="PRow2Title" xml:space="preserve">
-    <value>Wallet voice and video calls</value>
-  </data>
-  <data name="PRow3Title" xml:space="preserve">
-    <value>Credit purchase</value>
-  </data>
-  <data name="PRow4Title" xml:space="preserve">
-    <value>Credit withdrawal</value>
-  </data>
-  <data name="PRow5Title" xml:space="preserve">
-    <value>Messaging at chat rooms</value>
-  </data>
-</root>
+  </root>

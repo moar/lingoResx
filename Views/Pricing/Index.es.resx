@@ -118,39 +118,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="PricingFee" xml:space="preserve">
-    <value>The 13% of the amount charged to the learner</value>
+    <value>El 13% de la cantidad que se le ha cobrado al alumno</value>
   </data>
   <data name="PricingFree" xml:space="preserve">
-    <value>Free</value>
+    <value>Gratis</value>
   </data>
   <data name="PricingLearners" xml:space="preserve">
-    <value>Learners</value>
+    <value>Alumnos</value>
   </data>
   <data name="PricingNatives" xml:space="preserve">
-    <value>Native speakers</value>
+    <value>Hablantes nativos</value>
   </data>
   <data name="PricingSignUp" xml:space="preserve">
-    <value>Sign up</value>
+    <value>Regístrate</value>
   </data>
   <data name="PricingSubTitle" xml:space="preserve">
-    <value>Join today and start enjoying these features</value>
+    <value>Únete hoy mismo y empieza a disfrutar de los servicios que ofrece Langademy</value>
   </data>
   <data name="PricingTitle" xml:space="preserve">
-    <value>Pricing</value>
+    <value>Precios</value>
   </data>
   <data name="PRow1Title" xml:space="preserve">
-    <value>Time banking voice and video calls</value>
+    <value>Llamadas de voz y video de Banco del Tiempo</value>
   </data>
   <data name="PRow2Title" xml:space="preserve">
-    <value>Wallet voice and video calls</value>
+    <value>Llamadas de voz y video de Wallet</value>
   </data>
   <data name="PRow3Title" xml:space="preserve">
-    <value>Credit purchase</value>
+    <value>Compra de créditos</value>
   </data>
   <data name="PRow4Title" xml:space="preserve">
-    <value>Credit withdrawal</value>
+    <value>Retirada de créditos</value>
   </data>
   <data name="PRow5Title" xml:space="preserve">
-    <value>Messaging at chat rooms</value>
+    <value>Mensajería en las salas de chat</value>
   </data>
 </root>
