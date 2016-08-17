@@ -117,4 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="INBlock2B1Text" xml:space="preserve">
+    <value>Un cop aconsegueixis la reputació suficient, entra a la sala Wallet de la teva llengua materna i comença a conèixer gent que vol aprendre el teu idioma</value>
+  </data>
+  <data name="INBlock2B1Title" xml:space="preserve">
+    <value>Entra a les sales de xat Wallet</value>
+  </data>
+  <data name="INBlock2B2Text" xml:space="preserve">
+    <value>Vés a les {0} i fes videotrucades amb la gent. Guanya vots positius i la teva reputació millorarà. ¡Com millor sigui la teva reputació més gent voldrà parlar amb tu!</value>
+  </data>
+  <data name="INBlock2B2Title" xml:space="preserve">
+    <value>Millora la teva reputació</value>
+  </data>
+  <data name="INBlock2B3Text" xml:space="preserve">
+    <value>Comparar les tarifes d'altres natius i estableix la tarifa</value>
+  </data>
+  <data name="INBlock2B3Title" xml:space="preserve">
+    <value>Sigues competitiu</value>
+  </data>
+  <data name="INConditions" xml:space="preserve">
+    <value>Revisa els termes de servei de Langademy</value>
+  </data>
+  <data name="INFacesPicture" xml:space="preserve">
+    <value>Busca a gent que vulgui aprendre idiomes </value>
+  </data>
+  <data name="INJoin" xml:space="preserve">
+    <value>Uneix-te ja!</value>
+  </data>
+  <data name="INMainPicture" xml:space="preserve">
+    <value>Guanya diners des de casa</value>
+  </data>
+</root>

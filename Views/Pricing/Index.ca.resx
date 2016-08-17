@@ -117,4 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  
+  <data name="PricingFee" xml:space="preserve">
+    <value>El 13% de la quantitat que se li ha cobrat a l'alumne</value>
+  </data>
+  <data name="PricingFree" xml:space="preserve">
+    <value>Gratis</value>
+  </data>
+  <data name="PricingLearners" xml:space="preserve">
+    <value>Alumnes</value>
+  </data>
+  <data name="PricingNatives" xml:space="preserve">
+    <value>Parlants natius</value>
+  </data>
+  <data name="PricingSignUp" xml:space="preserve">
+    <value>Registra't</value>
+  </data>
+  <data name="PricingSubTitle" xml:space="preserve">
+    <value>Uneix-te avui mateix i comença a gaudir dels serveis que ofereix Langademy</value>
+  </data>
+  <data name="PricingTitle" xml:space="preserve">
+    <value>Preus</value>
+  </data>
+  <data name="PRow1Title" xml:space="preserve">
+    <value>Trucades de veu i vídeo de Banc del Temps</value>
+  </data>
+  <data name="PRow2Title" xml:space="preserve">
+    <value>Trucades de veu i vídeo de Wallet</value>
+  </data>
+  <data name="PRow3Title" xml:space="preserve">
+    <value>Compra de crèdits</value>
+  </data>
+</root>

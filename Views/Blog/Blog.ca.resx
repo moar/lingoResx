@@ -117,4 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="BlogCategoryTitle" xml:space="preserve">
+    <value>Articles sobre la categoria "{0}"</value>
+  </data>
+  <data name="BlogSubtitle" xml:space="preserve">
+    <value>Llegeix els nostres articles sobre l'aprenentatge d'idiomes i el món que ens envolta</value>
+  </data>
+  <data name="BlogTagTitle" xml:space="preserve">
+    <value>Articles amb el tag {0}</value>
+  </data>
+  <data name="BlogTitle" xml:space="preserve">
+    <value>Articles Langademy</value>
+  </data>
+</root>

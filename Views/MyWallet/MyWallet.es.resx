@@ -522,4 +522,19 @@
   <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
     <value>Las solicitudes de retirada de créditos no están permitidas durante una videollamada</value>
   </data>
+  <data name="MWAddress" xml:space="preserve">
+    <value>Dirección</value>
+  </data>
+  <data name="MWFullname" xml:space="preserve">
+    <value>Nombre completo</value>
+  </data>
+  <data name="SelectCountry" xml:space="preserve">
+    <value>Elige pais</value>
+  </data>
+  <data name="SelectRegion" xml:space="preserve">
+    <value>Elige región/condado</value>
+  </data>
+  <data name="SelectState" xml:space="preserve">
+    <value>Elige estado/provincia</value>
+  </data>
 </root>

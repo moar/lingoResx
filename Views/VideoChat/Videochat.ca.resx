@@ -120,6 +120,9 @@
   <data name="CallCalling" xml:space="preserve">
     <value>TRUCANT A {0}</value>
   </data>
+  <data name="CallCallingSomeone" xml:space="preserve">
+    <value>TRUCANT A {0}</value>
+  </data>
   <data name="CallIncomingCall" xml:space="preserve">
     <value>TRUCADA ENTRANT </value>
   </data>

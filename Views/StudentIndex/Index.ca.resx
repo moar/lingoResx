@@ -117,4 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="IsBlock2B1Text" xml:space="preserve">
+    <value>Entra a les sales de xat Wallet i troba natius que s'ajustin a les teves necessitats: revisa la seva experiència i tarifes</value>
+  </data>
+  <data name="ISBlock2B1Title" xml:space="preserve">
+    <value>Entra a les sales wallet</value>
+  </data>
+  <data name="ISBlock2B2Text" xml:space="preserve">
+    <value>Fes videotrucades amb natius de tot el món. Tindràs un període de prova per decidir si desitges seguir amb la trucada i pagar per la conversa</value>
+  </data>
+  <data name="ISBlock2B2Title" xml:space="preserve">
+    <value>Fes videotrucades privades</value>
+  </data>
+  <data name="ISBlock2B3Text" xml:space="preserve">
+    <value>Paga només pel que parles. Ni un cèntim més</value>
+  </data>
+  <data name="ISBlock2B3Title" xml:space="preserve">
+    <value>Paga només pel temps que parlis</value>
+  </data>
+  <data name="ISBlock2Title" xml:space="preserve">
+    <value>Converses de pagament</value>
+  </data>
+  <data name="ISBlock3B1Text" xml:space="preserve">
+    <value>Els diners no son un requisit indispensable a l'hora d'aprendre idiomes: compartir el teu temps i coneixements és suficient. Langademy ofereix un Banc del Temps: el temps que gastis conversant en el teu idioma natiu podràs utilitzar-lo per aprendre altres idiomes.</value>
+  </data>
+  <data name="ISBlock3B1Title" xml:space="preserve">
+    <value>Utilitza el temps com a moneda de canvi</value>
+  </data>
+  <data name="ISBlock3B2Text" xml:space="preserve">
+    <value>Entra a les sales de banc del temps de Langademy i trobaràs a gent que parla l'idioma que vols practicar. Si tens una càmera web podràs mantenir videotrucades amb ells, i si no, també pots fer trucades de veu o simplement escriure't amb ells</value>
+  </data>
+</root>

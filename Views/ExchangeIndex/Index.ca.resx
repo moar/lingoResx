@@ -117,4 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="EIBlock1Link" xml:space="preserve">
+    <value>Llegir més</value>
+  </data>
+  <data name="EIBlock1Text" xml:space="preserve">
+    <value>Aconsegueix fluïdesa en qualsevol idioma amb els intercanvis d'idiomes. Vés a les sales de xat de Langademy, busca parlants natius i practica els teus idiomes preferits. Podràs aprendre anglès, alemany, francès o qualsevol altre idioma!</value>
+  </data>
+  <data name="EIBlock1Title" xml:space="preserve">
+    <value>Intercanvi d'idiomes</value>
+  </data>
+  <data name="EIBlock2B1Text" xml:space="preserve">
+    <value>Quins idiomes parles? Quin és el teu nivell? D'on ets? Quins són els teus interessos? Puja la teva foto de perfil i foto de portada i ja estaràs preparat per practicar anglès, francès o l'idioma que tu vulguis</value>
+  </data>
+  <data name="EIBlock2B1Title" xml:space="preserve">
+    <value>Registra't i comença a practicar idiomes gratis</value>
+  </data>
+  <data name="EIBlock2B2Text" xml:space="preserve">
+    <value>La manera més fàcil per conèixer nous companys. Connecta la teva càmera i micro i entra a la sala de l'idioma que vols practicar. Pots xatejar o mantenir videotrucades amb els natius que coneguis a les sales de xat. Sigues simpàtic!</value>
+  </data>
+  <data name="EIBlock2B2Title" xml:space="preserve">
+    <value>Prova l'intercanvi d'idiomes a les sales de xat</value>
+  </data>
+  <data name="EIBlock2B3Text" xml:space="preserve">
+    <value>Dóna-li el teu vot en el seu perfil! Envia-li una petició de contacte i quan t'accepti podreu mantenir videotrucades privades sense haver d'entrar a les sales de xat</value>
+  </data>
+  <data name="EIBlock2B3Title" xml:space="preserve">
+    <value>T'ha agradat parlar amb el teu company?</value>
+  </data>
+  <data name="EIBlock3B1Text1" xml:space="preserve">
+    <value>El temps que tens per parlar amb natius és el mateix temps que has fet servir ajudant a altres persones a que parlin el teu idioma natiu</value>
+  </data>
+</root>

@@ -120,6 +120,9 @@
   <data name="CheckEmail" xml:space="preserve">
     <value>Si us plau revisa el teu correu electrònic per a restablir la seva clau</value>
   </data>
+  <data name="CheckEmailCreation" xml:space="preserve">
+    <value>T'hem enviat un e-mail a {0}. Revisa el teu correu per finalitzar el procés de creació de contrasenya</value>
+  </data>
   <data name="EmailLink" xml:space="preserve">
     <value>Enviar enllaç al correu </value>
   </data>
@@ -128,6 +131,12 @@
   </data>
   <data name="ForgotPass" xml:space="preserve">
     <value>Has oblidat la teva contrasenya?</value>
+  </data>
+  <data name="MAReturn" xml:space="preserve">
+    <value>Tornar</value>
+  </data>
+  <data name="PwCreationConfirm" xml:space="preserve">
+    <value>Confirmació de creació de contrasenya</value>
   </data>
   <data name="PwForgotConfirm" xml:space="preserve">
     <value>Confirmació de recuperació de contrasenya </value>

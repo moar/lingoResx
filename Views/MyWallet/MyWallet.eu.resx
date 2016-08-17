@@ -522,4 +522,19 @@
   <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
     <value>Ezin dezakezu kredituak ateratzeko eskaerarik egin bideo dei baten zauden bitartean</value>
   </data>
+  <data name="MWAddress" xml:space="preserve">
+    <value>Helbidea</value>
+  </data>
+  <data name="MWFullname" xml:space="preserve">
+    <value>Izen abizenak</value>
+  </data>
+  <data name="SelectCountry" xml:space="preserve">
+    <value>Aukeratu herrialdea</value>
+  </data>
+  <data name="SelectRegion" xml:space="preserve">
+    <value>Aukeratu herrialdea/probintzia</value>
+  </data>
+  <data name="SelectState" xml:space="preserve">
+    <value>Aukeratu estatua/probintzia</value>
+  </data>
 </root>
