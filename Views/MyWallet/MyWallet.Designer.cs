@@ -727,6 +727,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Address.
+        /// </summary>
+        public static string MWAddress {
+            get {
+                return ResourceManager.GetString("MWAddress", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Address (line 1).
         /// </summary>
         public static string MWAddressLine1 {
@@ -781,6 +790,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Full name.
+        /// </summary>
+        public static string MWFullname {
+            get {
+                return ResourceManager.GetString("MWFullname", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Last name.
         /// </summary>
         public static string MWLastName {
@@ -799,7 +817,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. and it is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a cashout, the amount of credits that you have requested won&apos;t be available to use..
+        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. The fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a cashout, the amount of credits that you have requested won&apos;t be available to use..
         /// </summary>
         public static string MWMovementInfo {
             get {
@@ -1132,6 +1150,33 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select country.
+        /// </summary>
+        public static string SelectCountry {
+            get {
+                return ResourceManager.GetString("SelectCountry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select region/county.
+        /// </summary>
+        public static string SelectRegion {
+            get {
+                return ResourceManager.GetString("SelectRegion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select state/province.
+        /// </summary>
+        public static string SelectState {
+            get {
+                return ResourceManager.GetString("SelectState", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Withdrawal request updated successfully.
         /// </summary>
         public static string UpdCashSuc {
@@ -1141,7 +1186,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You changed your paypal account after requesting this withdrawal.
+        ///   Looks up a localized string similar to You changed your PayPal account after requesting this withdrawal.
         /// </summary>
         public static string UpdReqCashChangedAfter {
             get {
@@ -1150,7 +1195,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you want to change the paypal account where Langademy will transfer the money you must link a new one first.
+        ///   Looks up a localized string similar to If you want to change the PayPal account where Langademy will transfer the money you must link a new one first.
         ///                                You can do it {0}. After that you can come back to this screen and update your request.
         /// </summary>
         public static string UpdReqCashChangePaypalAcc {
