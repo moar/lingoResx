@@ -115,7 +115,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Check Langademy&apos;s terms and conditions.
+        ///   Looks up a localized string similar to Check Langademy&apos;s prices.
         /// </summary>
         public static string INConditions {
             get {

@@ -853,11 +853,29 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Pay with credit card.
+        /// </summary>
+        public static string MWPayCreditCard {
+            get {
+                return ResourceManager.GetString("MWPayCreditCard", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Confirm the order and you will be redirected to PayPal to complete the process.
         /// </summary>
         public static string MWPaypalInfo {
             get {
                 return ResourceManager.GetString("MWPaypalInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pay with PayPal.
+        /// </summary>
+        public static string MWPayPaypal {
+            get {
+                return ResourceManager.GetString("MWPayPaypal", resourceCulture);
             }
         }
         

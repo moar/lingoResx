@@ -899,6 +899,7 @@
     <EmbeddedResource Include="Views\VisitProfileApp\Profile.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Profile.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\WalletRoom\Room.ca.resx" />
     <EmbeddedResource Include="Views\WalletRoom\Room.de.resx" />
