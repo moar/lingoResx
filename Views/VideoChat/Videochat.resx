@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -195,11 +195,17 @@
   <data name="Title" xml:space="preserve">
     <value>Videochat</value>
   </data>
+  <data name="VCAvailableBalance" xml:space="preserve">
+    <value>Available balance</value>
+  </data>
   <data name="VCDuration" xml:space="preserve">
     <value>Duration</value>
   </data>
   <data name="VCEarned" xml:space="preserve">
     <value>Earned</value>
+  </data>
+  <data name="VCFee" xml:space="preserve">
+    <value>Langademy fee</value>
   </data>
   <data name="VCMinTimeCallerInfo" xml:space="preserve">
     <value>You have 3 minutes to decide if you want to speak with this native. Once the 3 minutes are past the rate of this call will start to be applied to the call</value>
@@ -207,11 +213,17 @@
   <data name="VCMinTimeNativeInfo" xml:space="preserve">
     <value>Your conversation partner has 3 minutes to decide if he wants to have a conversation with you. Once the 3 minutes are past your rate will start to be applied to the call</value>
   </data>
+  <data name="VCMonthlyFee" xml:space="preserve">
+    <value>Monthly fee</value>
+  </data>
   <data name="VCNoMoreMatches" xml:space="preserve">
     <value>Don't show more matches</value>
   </data>
   <data name="VCOk" xml:space="preserve">
     <value>OK</value>
+  </data>
+  <data name="VCPreviousBalance" xml:space="preserve">
+    <value>Previous balance</value>
   </data>
   <data name="VCRate" xml:space="preserve">
     <value>Rate</value>
@@ -233,6 +245,9 @@
   </data>
   <data name="VCTipContent" xml:space="preserve">
     <value>You can enable/disable the automatic partner finder in your state panel whenever you want</value>
+  </data>
+  <data name="VCTransaction" xml:space="preserve">
+    <value>Wallet transaction</value>
   </data>
   <data name="VidWannaChat" xml:space="preserve">
     <value>{0} wants to chat with you!</value>

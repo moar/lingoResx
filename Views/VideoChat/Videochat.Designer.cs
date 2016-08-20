@@ -295,6 +295,15 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Available balance.
+        /// </summary>
+        public static string VCAvailableBalance {
+            get {
+                return ResourceManager.GetString("VCAvailableBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Duration.
         /// </summary>
         public static string VCDuration {
@@ -309,6 +318,15 @@ namespace Resources.Views.VideoChat {
         public static string VCEarned {
             get {
                 return ResourceManager.GetString("VCEarned", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy fee.
+        /// </summary>
+        public static string VCFee {
+            get {
+                return ResourceManager.GetString("VCFee", resourceCulture);
             }
         }
         
@@ -331,6 +349,15 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Monthly fee.
+        /// </summary>
+        public static string VCMonthlyFee {
+            get {
+                return ResourceManager.GetString("VCMonthlyFee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Don&apos;t show more matches.
         /// </summary>
         public static string VCNoMoreMatches {
@@ -345,6 +372,15 @@ namespace Resources.Views.VideoChat {
         public static string VCOk {
             get {
                 return ResourceManager.GetString("VCOk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Previous balance.
+        /// </summary>
+        public static string VCPreviousBalance {
+            get {
+                return ResourceManager.GetString("VCPreviousBalance", resourceCulture);
             }
         }
         
@@ -408,6 +444,15 @@ namespace Resources.Views.VideoChat {
         public static string VCTipContent {
             get {
                 return ResourceManager.GetString("VCTipContent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet transaction.
+        /// </summary>
+        public static string VCTransaction {
+            get {
+                return ResourceManager.GetString("VCTransaction", resourceCulture);
             }
         }
         

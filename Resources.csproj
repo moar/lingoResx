@@ -803,6 +803,7 @@
     <EmbeddedResource Include="Views\MyWallet\MyWallet.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>MyWallet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Pricing\Index.ca.resx" />
     <EmbeddedResource Include="Views\Pricing\Index.de.resx" />

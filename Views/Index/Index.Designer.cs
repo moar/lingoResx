@@ -304,6 +304,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Blog.
+        /// </summary>
+        public static string IndBlog {
+            get {
+                return ResourceManager.GetString("IndBlog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You are already subscribed.
         /// </summary>
         public static string IndexAlreadySubscribed {

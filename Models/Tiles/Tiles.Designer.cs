@@ -151,6 +151,15 @@ namespace Resources.Models.Tiles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Blog.
+        /// </summary>
+        public static string TileBlog {
+            get {
+                return ResourceManager.GetString("TileBlog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Chat.
         /// </summary>
         public static string TileChat {
