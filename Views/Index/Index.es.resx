@@ -255,4 +255,7 @@
   <data name="IndBlock3Text4" xml:space="preserve">
     <value>Gana dinero desde tu casa hablando en tu idioma nativo</value>
   </data>
+  <data name="IndBlog" xml:space="preserve">
+    <value>Blog</value>
+  </data>
 </root>

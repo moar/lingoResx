@@ -537,4 +537,10 @@
   <data name="SelectState" xml:space="preserve">
     <value>Aukeratu estatua/probintzia</value>
   </data>
+  <data name="MWPayCreditCard" xml:space="preserve">
+    <value>Ordaindu kreditu txartelarekin</value>
+  </data>
+  <data name="MWPayPaypal" xml:space="preserve">
+    <value>Ordaindu PayPalekin</value>
+  </data>
 </root>

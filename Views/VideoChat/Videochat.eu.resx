@@ -195,11 +195,17 @@
   <data name="Title" xml:space="preserve">
     <value>Bideotxata</value>
   </data>
+  <data name="VCAvailableBalance" xml:space="preserve">
+    <value>Saldo eskuragarria</value>
+  </data>
   <data name="VCDuration" xml:space="preserve">
     <value>Iraupena</value>
   </data>
   <data name="VCEarned" xml:space="preserve">
     <value>irabazita</value>
+  </data>
+  <data name="VCFee" xml:space="preserve">
+    <value>Langademyren komisioa</value>
   </data>
   <data name="VCMinTimeCallerInfo" xml:space="preserve">
     <value>3 minutu dituzu natibo honekin hitz egin nahi duzun erabakitzeko. 3 minutuak pasatzen direnean konbertsazioaren tarifa aplikatzen hasiko gatzaizkizu</value>
@@ -207,11 +213,17 @@
   <data name="VCMinTimeNativeInfo" xml:space="preserve">
     <value>Zure mintzalagunak 3 minutu ditu zurekin hitz egin nahi duen erabakitzeko. 3 minutu horiek igarotzen direnean konbertsazioaren tarifa deiari aplikatzen hasiko gara</value>
   </data>
+  <data name="VCMonthlyFee" xml:space="preserve">
+    <value>Hileko komisioa</value>
+  </data>
   <data name="VCNoMoreMatches" xml:space="preserve">
     <value>Ez erakutsi mintzalagun gehiago</value>
   </data>
   <data name="VCOk" xml:space="preserve">
     <value>OK</value>
+  </data>
+  <data name="VCPreviousBalance" xml:space="preserve">
+    <value>Aurreko saldoa</value>
   </data>
   <data name="VCRate" xml:space="preserve">
     <value>Tarifa</value>
@@ -233,6 +245,9 @@
   </data>
   <data name="VCTipContent" xml:space="preserve">
     <value>Mintzalagun bilatzaile automatikoa nahi duzunean gaitu/desgaitu dezakezu</value>
+  </data>
+  <data name="VCTransaction" xml:space="preserve">
+    <value>Wallet trantsakzioa</value>
   </data>
   <data name="VidWannaChat" xml:space="preserve">
     <value>{0}-(e)k zurekin hitz egin nahi du!</value>

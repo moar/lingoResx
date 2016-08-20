@@ -195,11 +195,17 @@
   <data name="Title" xml:space="preserve">
     <value>VideoChat</value>
   </data>
+  <data name="VCAvailableBalance" xml:space="preserve">
+    <value>Saldo disponible</value>
+  </data>
   <data name="VCDuration" xml:space="preserve">
     <value>Duración</value>
   </data>
   <data name="VCEarned" xml:space="preserve">
     <value>ganados</value>
+  </data>
+  <data name="VCFee" xml:space="preserve">
+    <value>Comisión Langademy</value>
   </data>
   <data name="VCMinTimeCallerInfo" xml:space="preserve">
     <value>Tienes 3 minutos para decidir si quieres conversar con este nativo. Cuando pasen los 3 minutos se te empezará a aplicar la tarifa de esta conversación</value>
@@ -207,11 +213,17 @@
   <data name="VCMinTimeNativeInfo" xml:space="preserve">
     <value>Tu compañero de conversación tiene 3 minutos para decidir si decide mantener una conversación contigo. Una vez que pasen esos 3 minutos tu tarifa comenzará a ser aplicada en la llamada</value>
   </data>
+  <data name="VCMonthlyFee" xml:space="preserve">
+    <value>Comisión mensual</value>
+  </data>
   <data name="VCNoMoreMatches" xml:space="preserve">
     <value>No mostrar más emparejamientos</value>
   </data>
   <data name="VCOk" xml:space="preserve">
     <value>OK</value>
+  </data>
+  <data name="VCPreviousBalance" xml:space="preserve">
+    <value>Saldo anterior</value>
   </data>
   <data name="VCRate" xml:space="preserve">
     <value>Tarifa</value>
@@ -233,6 +245,9 @@
   </data>
   <data name="VCTipContent" xml:space="preserve">
     <value>Puedes activar/desactivar el buscador automático de compañeros en tu panel de estado cuando quieras</value>
+  </data>
+  <data name="VCTransaction" xml:space="preserve">
+    <value>Transacción de Wallet</value>
   </data>
   <data name="VidWannaChat" xml:space="preserve">
     <value>¡{0} quiere hablar contigo!</value>
