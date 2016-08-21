@@ -417,6 +417,9 @@
   <data name="ReqCashoutNewBal" xml:space="preserve">
     <value>Nou saldo</value>
   </data>
+  <data name="ReqCashoutNote" xml:space="preserve">
+    <value>Nota: Les peticions de reintegraments es processen un cop a la setmana. Pots seguir l'estat de les teves peticions en la secció Reintegraments -&gt; Històric</value>
+  </data>
   <data name="ReqCashoutPaypalAccount" xml:space="preserve">
     <value>Compte PayPal</value>
   </data>
@@ -428,5 +431,117 @@
   </data>
   <data name="ReqCashoutUpdate" xml:space="preserve">
     <value>Actualitzar</value>
+  </data>
+  <data name="MWAvailableBalance" xml:space="preserve">
+    <value>SALDO DISPONIBLE
+</value>
+  </data>
+  <data name="MWMoreInfo" xml:space="preserve">
+    <value>Més info.</value>
+  </data>
+  <data name="MWProvicionBalance" xml:space="preserve">
+    <value>SEGÜENT FACTURA</value>
+  </data>
+  <data name="MWTotalBalance" xml:space="preserve">
+    <value>TOTAL SALDO</value>
+  </data>
+  <data name="MWMovementInfo" xml:space="preserve">
+    <value>Al final de mes Langademy et cobrarà una comissió per les converses que has mantingut com a natiu. Veuràs reflexada està comissió en la següent factura. No se't traurà la comissió del teu compte fins que emetem la següent factura, però tampoc podràs usar aquest saldo retingut per realitzar altres compres. A més, si has sol·licitat un reintegrament, la quantitat sol·licitada tampoc podrà ser utilitzada per realitzar compres.</value>
+  </data>
+  <data name="CashoutCreatePW" xml:space="preserve">
+    <value>Crear</value>
+  </data>
+  <data name="CashoutCreatePWSent" xml:space="preserve">
+    <value>No tens un compte local. Necessites crear una contrasenya per al teu compte si vols editar les dades de facturació</value>
+  </data>
+  <data name="CashOutPanAmount" xml:space="preserve">
+    <value>Quantitat</value>
+  </data>
+  <data name="CashOutPanDate" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="CashOutPanNo" xml:space="preserve">
+    <value>Núm.</value>
+  </data>
+  <data name="CashOutPanStatus" xml:space="preserve">
+    <value>Estat</value>
+  </data>
+  <data name="ReqCashoutMin" xml:space="preserve">
+    <value>Mínim</value>
+  </data>
+  <data name="BillingMovementConcept" xml:space="preserve">
+    <value>Factura: {0} - {1}</value>
+  </data>
+  <data name="UpdReqCashChangedAfter" xml:space="preserve">
+    <value>Has canviat el teu compte de PayPal després d'haver sol·licitat un reintegrament</value>
+  </data>
+  <data name="UpdReqCashChangePaypalAcc" xml:space="preserve">
+    <value>Si vols canviar el compte de PayPal a la qual Langademy et va a transferir els diners, primer has de vincular un compte nou a Langademy. Pots fer-ho {0}. Una vegada que hagis vinculat el compte, podràs tornar a aquesta pantalla i actualitzar les teves dades.</value>
+  </data>
+  <data name="UpdReqCashHere" xml:space="preserve">
+    <value>aquí</value>
+  </data>
+  <data name="UpdReqCashMaxWithdrawal" xml:space="preserve">
+    <value>Quantitat màxima a reintegrar</value>
+  </data>
+  <data name="UpdReqCashNoPaypal" xml:space="preserve">
+    <value>No tens cap compte PayPal vinculat a Langademy</value>
+  </data>
+  <data name="UpdReqCashRequested" xml:space="preserve">
+    <value> Vas sol·licitar un reintegrament a {0}. Pots cancel·lar o actualitzar la teva sol·licitud abans que aquesta sigui processada</value>
+  </data>
+  <data name="UpdReqCashSelectTransAccount" xml:space="preserve">
+    <value>Si us plau, seleccioneu el compte on vols que Langademy transfereix els teus diners</value>
+  </data>
+  <data name="UpdReqCashUpdRequest" xml:space="preserve">
+    <value>Actualitzar la sol·licitud del reintegrament</value>
+  </data>
+  <data name="UpdRquCashUpdateAmount" xml:space="preserve">
+    <value>Actualitza la quantitat del reintegrament</value>
+  </data>
+  <data name="CashoutRequestEnterPaypal" xml:space="preserve">
+    <value>Has d'introduir el teu compte de PayPal per poder sol·licitar un reintegrament. Pots fer-ho {0}</value>
+  </data>
+  <data name="InProcReqCashoutAmount" xml:space="preserve">
+    <value>Quantitat sol·licitada</value>
+  </data>
+  <data name="InProcRequCashoutProcessed" xml:space="preserve">
+    <value>En aquests moments s'està processant una sol·licitud de reintegrament. Quan rebis aquest pagament podràs realitzar una nova sol·licitud.</value>
+  </data>
+  <data name="UpdCashSuc" xml:space="preserve">
+    <value>La sol·licitud de reintegrament s'ha actualitzat correctament</value>
+  </data>
+  <data name="WithdrawalConcept" xml:space="preserve">
+    <value>Retirar crèdits</value>
+  </data>
+  <data name="ReqCashoutMaximumAvailable" xml:space="preserve">
+    <value>Quantitat màxima de retirada</value>
+  </data>
+  <data name="WalletMaxWithdrawal" xml:space="preserve">
+    <value>La quantitat màxima per a una retirada són {0} crèdits</value>
+  </data>
+  <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
+    <value>Les sol·licituds de retirada de crèdits no estan permeses durant una trucada</value>
+  </data>
+  <data name="MWAddress" xml:space="preserve">
+    <value>Adreça</value>
+  </data>
+  <data name="MWFullname" xml:space="preserve">
+    <value>Nom complet</value>
+  </data>
+  <data name="SelectCountry" xml:space="preserve">
+    <value>Escull país</value>
+  </data>
+  <data name="SelectRegion" xml:space="preserve">
+    <value>Escull regió/comtat</value>
+  </data>
+  <data name="SelectState" xml:space="preserve">
+    <value>Escull estat/província </value>
+  </data>
+  <data name="MWPayCreditCard" xml:space="preserve">
+    <value>Pagar amb targeta de crèdit</value>
+  </data>
+  <data name="MWPayPaypal" xml:space="preserve">
+    <value>Pagar amb PayPal</value>
   </data>
 </root>

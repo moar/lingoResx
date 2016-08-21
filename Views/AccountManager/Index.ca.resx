@@ -196,4 +196,13 @@
   <data name="AccSecurity" xml:space="preserve">
     <value>Seguretat</value>
   </data>
+  <data name="AMNoPw" xml:space="preserve">
+    <value>No tens contrasenya per aquest compte</value>
+  </data>
+  <data name="AMNoPwCreate" xml:space="preserve">
+    <value>Crear</value>
+  </data>
+  <data name="AMNoPwTitle" xml:space="preserve">
+    <value>Encara no has creat una contrasenya per al teu compte. Crea una contrasenya perquè el teu compte sigui més segur</value>
+  </data>
 </root>

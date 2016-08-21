@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CallCalling" xml:space="preserve">
-    <value>TRUCANT A {0}</value>
+    <value>TRUCANT </value>
   </data>
   <data name="CallCallingSomeone" xml:space="preserve">
     <value>TRUCANT A {0}</value>
@@ -195,11 +195,17 @@
   <data name="Title" xml:space="preserve">
     <value>Videoxat</value>
   </data>
+  <data name="VCAvailableBalance" xml:space="preserve">
+    <value>Saldo disponible</value>
+  </data>
   <data name="VCDuration" xml:space="preserve">
     <value> Duració </value>
   </data>
   <data name="VCEarned" xml:space="preserve">
     <value>guanyats</value>
+  </data>
+  <data name="VCFee" xml:space="preserve">
+    <value>Comissió Langademy</value>
   </data>
   <data name="VCMinTimeCallerInfo" xml:space="preserve">
     <value>Tens 3 minuts per decidir si vols conversar amb aquest natiu. Quan passin els 3 minuts se't començarà a aplicar la tarifa d'aquesta conversa</value>
@@ -207,11 +213,17 @@
   <data name="VCMinTimeNativeInfo" xml:space="preserve">
     <value>El teu company de conversa té 3 minuts per decidir si decideix mantenir una conversa amb tu. Una vegada que passin aquests 3 minuts la teva tarifa començarà a ser aplicada a la trucada</value>
   </data>
+  <data name="VCMonthlyFee" xml:space="preserve">
+    <value>Comissió mensual</value>
+  </data>
   <data name="VCNoMoreMatches" xml:space="preserve">
     <value>No mostrar més emparellaments</value>
   </data>
   <data name="VCOk" xml:space="preserve">
     <value>OK</value>
+  </data>
+  <data name="VCPreviousBalance" xml:space="preserve">
+    <value>Saldo anterior</value>
   </data>
   <data name="VCRate" xml:space="preserve">
     <value>Tarifa</value>
@@ -233,6 +245,9 @@
   </data>
   <data name="VCTipContent" xml:space="preserve">
     <value>Pots activar / desactivar el cercador automàtic de companys en el teu panell d'estat quan vulguis</value>
+  </data>
+  <data name="VCTransaction" xml:space="preserve">
+    <value>Transacció de Wallet</value>
   </data>
   <data name="VidWannaChat" xml:space="preserve">
     <value>{0} vol parlar amb tu!</value>

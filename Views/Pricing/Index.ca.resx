@@ -148,4 +148,10 @@
   <data name="PRow3Title" xml:space="preserve">
     <value>Compra de crèdits</value>
   </data>
+  <data name="PRow4Title" xml:space="preserve">
+    <value>Retirada de crèdits</value>
+  </data>
+  <data name="PRow5Title" xml:space="preserve">
+    <value>Missatgeria a les sales de xat</value>
+  </data>
 </root>

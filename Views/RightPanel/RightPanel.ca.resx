@@ -219,4 +219,7 @@
   <data name="RPWalletCall" xml:space="preserve">
     <value>Trucada Wallet</value>
   </data>
+  <data name="WalletRooms" xml:space="preserve">
+    <value>Sales Wallet</value>
+  </data>
 </root>

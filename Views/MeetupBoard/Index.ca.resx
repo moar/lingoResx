@@ -354,4 +354,10 @@
   <data name="ATSelectSubCategories" xml:space="preserve">
     <value>Selecciona les subcategories</value>
   </data>
+  <data name="MBNoMeetups" xml:space="preserve">
+    <value>Uneix-te a una quedada o crea una nova!</value>
+  </data>
+  <data name="MBNoMeetupsScheduled" xml:space="preserve">
+    <value>No s'han organitzat quedades</value>
+  </data>
 </root>

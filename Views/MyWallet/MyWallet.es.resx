@@ -543,4 +543,7 @@
   <data name="MWPayPaypal" xml:space="preserve">
     <value>Pagar con PayPal</value>
   </data>
+  <data name="MWEdit" xml:space="preserve">
+    <value>Editar</value>
+  </data>
 </root>

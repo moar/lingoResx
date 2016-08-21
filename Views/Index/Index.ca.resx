@@ -171,19 +171,88 @@
   <data name="IndexLogoAlt" xml:space="preserve">
     <value>Uneix-te a Langademy, la teva comunitat d'intercanvi d'idiomes</value>
   </data>
+  <data name="IndBlock2SubBlock1Text" xml:space="preserve">
+    <value>No et preocupis si no tens temps per intercanviar idiomes. En Langademy trobaràs els natius amb les millors tarifes del mercat per practicar idiomes quan vulguis</value>
+  </data>
+  <data name="IndBlock2SubBlock1Title" xml:space="preserve">
+    <value>Tens una agenda apretada?</value>
+  </data>
   <data name="IndBlock2SubBlock2Text" xml:space="preserve">
     <value>Parla el teu idioma natiu amb els demés i et regalarem el temps que els has dedicat per a practicar altres idiomes</value>
   </data>
   <data name="IndBlock2SubBlock2Title" xml:space="preserve">
     <value>Intercanvi d'idiomes </value>
   </data>
+  <data name="IndBlock2SubBlock3" xml:space="preserve">
+    <value>Registra't i comença a aprendre idiomes</value>
+  </data>
+  <data name="IndBlock2Subtitle" xml:space="preserve">
+    <value>Aprèn anglès, alemany, francès o qualsevol altre idioma online amb Langademy. A les sales de xat de Langademy coneixeràs natius per xatejar o fer videotrucades en els teus idiomes favorits</value>
+  </data>
+  <data name="IndBlock2Title" xml:space="preserve">
+    <value>Vols aprendre una llengua?</value>
+  </data>
+  <data name="IndBlock3Step1" xml:space="preserve">
+    <value>Afegeix crèdits al teu compte Wallet de Langademy</value>
+  </data>
+  <data name="IndBlock3Step2" xml:space="preserve">
+    <value>Entra a la sala de xat Wallet de l'idioma que vulguis</value>
+  </data>
+  <data name="IndBlock3Step3" xml:space="preserve">
+    <value>Xateja gratis amb parlants natius, mira la seva reputació i les tarifes que ofereixen per mantenir converses</value>
+  </data>
+  <data name="IndBlock3Step4" xml:space="preserve">
+    <value>Comença una videotrucada amb un natiu del teu gust i diverteix-te, (SEMPRE!)</value>
+  </data>
+  <data name="IndBlock3Text1" xml:space="preserve">
+    <value>La solució perfecta per a la gent que no vol un professor però que vol practicar una llengua i no té temps per a intercanvis</value>
+  </data>
+  <data name="IndBlock3Text2" xml:space="preserve">
+    <value>Aprèn més sobre Langademy Wallet</value>
+  </data>
+  <data name="IndBlock3Text3" xml:space="preserve">
+    <value>I si t'agrada ajudar a que els demés practiquin una llengua</value>
+  </data>
+  <data name="IndBlock3Title" xml:space="preserve">
+    <value>Si no tens temps per a intercanvis d'idiomes ...</value>
+  </data>
+  <data name="IndBlock4Block2Text" xml:space="preserve">
+    <value>Algunes vegades no és fàcil coincidir amb la gent a l'hora que tu vols. Les quedades de Langademy t'ajudaran en això: crea quedades per intercanviar idiomes per al dia i hora que tu vulguis i convida als teus contactes</value>
+  </data>
+  <data name="IndBlock4Block3Text" xml:space="preserve">
+    <value>Els diners no son necessaris per poder aprendre un idioma en Langademy. El Banc del Temps al rescat! Parla amb els altres en la teva llengua materna, i nosaltres et donarem el temps que hagis emprat perquè practiques altres idiomes</value>
+  </data>
   <data name="IndBlock4Block3Title" xml:space="preserve">
     <value>Aprèn idiomes gratis</value>
+  </data>
+  <data name="IndBlock4Text1" xml:space="preserve">
+    <value>Aquest és el teu lloc si vols practicar idiomes gratuïtament. Troba companys d'intercanvi i millora el teu idioma mentre fas videotrucades o escrius a altres natius</value>
+  </data>
+  <data name="IndBlock4Title" xml:space="preserve">
+    <value>Intercanvi d'idiomes</value>
+  </data>
+  <data name="IndSubTitle" xml:space="preserve">
+    <value>Fes videotrucades online amb parlants natius de tot el món i practica idiomes quan vulguis</value>
+  </data>
+  <data name="IndTitlePart1" xml:space="preserve">
+    <value>Aprèn idiomes</value>
+  </data>
+  <data name="IndTitlePart2" xml:space="preserve">
+    <value>amb parlants natius en línia</value>
   </data>
   <data name="Login" xml:space="preserve">
     <value>Iniciar sessió </value>
   </data>
   <data name="IndLanguages" xml:space="preserve">
     <value>Idiomes</value>
+  </data>
+  <data name="IndBlock3LinkText" xml:space="preserve">
+    <value>Aprèn més sobre l'intercanvi d'idiomes</value>
+  </data>
+  <data name="IndBlock3Text4" xml:space="preserve">
+    <value>Guanya diners des de casa parlant en el teu idioma natiu</value>
+  </data>
+  <data name="IndBlog" xml:space="preserve">
+    <value>Blog</value>
   </data>
 </root>

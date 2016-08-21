@@ -177,4 +177,22 @@
   <data name="UserDescription" xml:space="preserve">
     <value>Hola! Sóc {0} i vull aprendre nous idiomes en Langademy!</value>
   </data>
+  <data name="IndexExchangeDescription" xml:space="preserve">
+    <value>Langademy és una xarxa social per aprendre idiomes. Ofereix un espai d'intercanvi d'idiomes amb natius de tot el món per ajudar a la gent a que aprengui o adquireixi fluïdesa en diferents idiomes</value>
+  </data>
+  <data name="IndexExchangeTitle" xml:space="preserve">
+    <value>Langademy - Intercanvi d'idiomes</value>
+  </data>
+  <data name="IndexNativesDescription" xml:space="preserve">
+    <value>Si t'agrada conversar amb la gent, ara pots guanyar diners mantenint converses en els teus idiomes natius. Entra a les sales de xat i coneix gent que vulgui aprendre el teu idioma!</value>
+  </data>
+  <data name="IndexNativesTitle" xml:space="preserve">
+    <value>Langademy: guanya diners com a company de conversa</value>
+  </data>
+  <data name="IndexStudentsDescription" xml:space="preserve">
+    <value>Mantén converses amb parlants natius i millora la teva fluïdesa de l'idioma! Tens dues opcions: pots fer intercanvis d'idiomes o pagar a un natiu perquè conversi amb tu</value>
+  </data>
+  <data name="IndexStudentsTitle" xml:space="preserve">
+    <value>Langademy: aprèn idiomes</value>
+  </data>
 </root>

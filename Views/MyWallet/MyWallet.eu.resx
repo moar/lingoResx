@@ -543,4 +543,7 @@
   <data name="MWPayPaypal" xml:space="preserve">
     <value>Ordaindu PayPalekin</value>
   </data>
+  <data name="MWEdit" xml:space="preserve">
+    <value>Editatu</value>
+  </data>
 </root>

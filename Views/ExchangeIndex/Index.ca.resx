@@ -147,4 +147,41 @@
   <data name="EIBlock3B1Text1" xml:space="preserve">
     <value>El temps que tens per parlar amb natius és el mateix temps que has fet servir ajudant a altres persones a que parlin el teu idioma natiu</value>
   </data>
+  <data name="EIBlock3B1Text2" xml:space="preserve">
+    <value>Funciona com un tàndem però tu ets el que decideix les persones, l'horari i l'idioma en què vols conversar</value>
+  </data>
+  <data name="EIBlock3B1Text3" xml:space="preserve">
+    <value>Revisa el teu saldo de temps per saber si necessites parlar en la teva llengua materna. Llegeix les regles del banc del temps per saber quan se't sumarà o se't restarà temps de la teva compte del Banc del Temps quan mantinguis una conversa. Mitjançant el teu estat els teus contactes sabran si estàs disponible per començar una vídeotrucada</value>
+  </data>
+  <data name="EIBlock3B1Title" xml:space="preserve">
+    <value>Banc del Temps</value>
+  </data>
+  <data name="EIMBPictureAlt" xml:space="preserve">
+    <value>Crea quedades per a l'intercanvi de converses al tauler de quedades</value>
+  </data>
+  <data name="EIMeetingBoard1" xml:space="preserve">
+    <value>Organitza quedades al tauler de quedades de Langademy</value>
+  </data>
+  <data name="EIMeetingBoard3" xml:space="preserve">
+    <value>Quan vas a tenir una estona per conversar?
+Contribueix a la comunitat d'intercanvi d'idiomes organitzant quedades els dies en què vagis a entrar a les sales de xat. Fes-ho amb una mica d'antelació perquè la gent tingui temps d'unir-se a la trobada</value>
+  </data>
+  <data name="EIMeetingBoard4" xml:space="preserve">
+    <value>Si algú més ha organitzat una quedada et pots unir a ella. És només un clic! Si t'uneixes a la quedada podràs proposar i votar temes per parlar a la quedada.</value>
+  </data>
+  <data name="EIMeetingBoard5" xml:space="preserve">
+    <value>També pots compartir el link de la quedada a les xarxes socials perquè més gent es pugui unir a la quedada. Com més, millor :-)</value>
+  </data>
+  <data name="EINextMeetups" xml:space="preserve">
+    <value>Següents quedades per practicar idiomes</value>
+  </data>
+  <data name="EIParticipants" xml:space="preserve">
+    <value>Participants</value>
+  </data>
+  <data name="EISearchPartners" xml:space="preserve">
+    <value>Busca companys d'intercanvi d'idiomes</value>
+  </data>
+  <data name="EITitle" xml:space="preserve">
+    <value>La teva comunitat online d'intercanvi d'idiomes</value>
+  </data>
 </root>

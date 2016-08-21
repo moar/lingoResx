@@ -147,4 +147,37 @@
   <data name="ISBlock3B2Text" xml:space="preserve">
     <value>Entra a les sales de banc del temps de Langademy i trobaràs a gent que parla l'idioma que vols practicar. Si tens una càmera web podràs mantenir videotrucades amb ells, i si no, també pots fer trucades de veu o simplement escriure't amb ells</value>
   </data>
+  <data name="ISBlock3B2Title" xml:space="preserve">
+    <value>Coneix gent nova</value>
+  </data>
+  <data name="ISBlock3B3Text" xml:space="preserve">
+    <value>El cercador automàtic de companys de Langademy et buscarà companys que estiguin disponibles per parlar i que compleixin les teves preferències</value>
+  </data>
+  <data name="ISBlock3B3Title" xml:space="preserve">
+    <value>No et preocupis de cercar un company</value>
+  </data>
+  <data name="ISBlock3Title" xml:space="preserve">
+    <value>Intercanvi d'idiomes</value>
+  </data>
+  <data name="ISOption1Text" xml:space="preserve">
+    <value>Mantén converses online a la teva llengua materna i et donarem la mateixa quantitat de temps perquè practiquis altres idiomes</value>
+  </data>
+  <data name="ISOption1Title" xml:space="preserve">
+    <value>Intercanvi d'idiomes</value>
+  </data>
+  <data name="ISOption2Text" xml:space="preserve">
+    <value>Si no tens temps per a intercanvis, aquesta és la teva opció. Paga a un natiu per una conversa</value>
+  </data>
+  <data name="ISOption2Title" xml:space="preserve">
+    <value>Paga per conversar</value>
+  </data>
+  <data name="ISOptionTitle" xml:space="preserve">
+    <value>Com prefereixes practicar una llengua?</value>
+  </data>
+  <data name="ISSubTitle" xml:space="preserve">
+    <value>conversant amb parlants natius</value>
+  </data>
+  <data name="ISTitle" xml:space="preserve">
+    <value>Adquireix fluïdesa</value>
+  </data>
 </root>

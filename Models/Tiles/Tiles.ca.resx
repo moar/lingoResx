@@ -156,4 +156,7 @@
   <data name="SearchUsers" xml:space="preserve">
     <value>Busca més usuaris</value>
   </data>
+  <data name="TileBlog" xml:space="preserve">
+    <value>Blog</value>
+  </data>
 </root>
