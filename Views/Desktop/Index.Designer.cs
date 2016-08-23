@@ -277,6 +277,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Start.
+        /// </summary>
+        public static string DeskStart {
+            get {
+                return ResourceManager.GetString("DeskStart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Automatic partner finder.
         /// </summary>
         public static string DeskStateAutPartnerFind {
@@ -399,6 +408,24 @@ namespace Resources.Views.Desktop {
         public static string DeskWalletRequirements {
             get {
                 return ResourceManager.GetString("DeskWalletRequirements", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hi there! You are one of us now! Now, we will show you some tips on how Langademy works in a few steps. When you see this icon, click it and we will show you its info..
+        /// </summary>
+        public static string DeskWelcomeSent {
+            get {
+                return ResourceManager.GetString("DeskWelcomeSent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Welcome aboard!.
+        /// </summary>
+        public static string DeskWelcomeTitle {
+            get {
+                return ResourceManager.GetString("DeskWelcomeTitle", resourceCulture);
             }
         }
         
