@@ -232,7 +232,7 @@
     <value>Saldo attuale</value>
   </data>
   <data name="AddCreditsMinimumAmmount" xml:space="preserve">
-    <value>Minimo</value>
+    <value>Acquisto minimo </value>
   </data>
   <data name="AddCreditsTitle" xml:space="preserve">
     <value>Acquistare crediti Langademy</value>
@@ -256,7 +256,7 @@
     <value>Scegli il metodo di pagamento</value>
   </data>
   <data name="AdPayCCCode" xml:space="preserve">
-    <value>Codice della carta</value>
+    <value>Codice della carta di credito</value>
   </data>
   <data name="AdPayCCExp" xml:space="preserve">
     <value>Data di scadenza</value>

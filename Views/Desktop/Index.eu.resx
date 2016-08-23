@@ -282,4 +282,13 @@
   <data name="WalletTileFillAddress" xml:space="preserve">
     <value>Zure fakturazio helbidea bete behar duzu</value>
   </data>
+  <data name="DeskStart" xml:space="preserve">
+    <value>Hasi</value>
+  </data>
+  <data name="DeskWelcomeSent" xml:space="preserve">
+    <value>Kaixo! Jada gutako bat zara! Orain, Langademyren inguruko argibide labur batzuk erakutsiko dizkizugu. Ondorengo ikonoa ikusten duzunean, klikatu ezazu eta bere informazioa erakutsiko dizugu</value>
+  </data>
+  <data name="DeskWelcomeTitle" xml:space="preserve">
+    <value>Ongi etorri!</value>
+  </data>
 </root>

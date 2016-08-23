@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="IsBlock2B1Text" xml:space="preserve">
+    <value>Vai nelle Wallet chat rooms e trova dei madrelingua che si adattano a le tue preferenze: controlla la loro esperienza e prezzi</value>
+  </data>
+</root>

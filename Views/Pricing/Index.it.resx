@@ -118,4 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  </root>
+  <data name="PricingFee" xml:space="preserve">
+    <value>Il 13% dell'importo che è stato a carico allo studente</value>
+  </data>
+  <data name="PricingFree" xml:space="preserve">
+    <value>Gratis</value>
+  </data>
+  <data name="PricingLearners" xml:space="preserve">
+    <value>Studenti</value>
+  </data>
+  <data name="PricingSignUp" xml:space="preserve">
+    <value>Registrati</value>
+  </data>
+</root>

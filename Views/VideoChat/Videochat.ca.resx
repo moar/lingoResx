@@ -253,7 +253,7 @@
     <value>{0} vol parlar amb tu!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
-    <value>Esperant el permís per utilitzar la teva càmera...</value>
+    <value>Esperant el permís per poder utilitzar la teva càmera...</value>
   </data>
   <data name="WalletCallError" xml:space="preserve">
     <value>Aquesta trucada no compleix les condicions de servei de Langademy i no computaran</value>

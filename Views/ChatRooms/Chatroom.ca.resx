@@ -216,4 +216,7 @@
   <data name="CRBalance" xml:space="preserve">
     <value>Els teus crèdits</value>
   </data>
+  <data name="CRCreateMeetup" xml:space="preserve">
+    <value>Crear quedada</value>
+  </data>
 </root>

@@ -169,7 +169,7 @@
     <value>Non è stato possibile aggiungere il post</value>
   </data>
   <data name="PostNotEdited" xml:space="preserve">
-    <value>Il post non è potuto essere editato.</value>
+    <value>Il post non è potuto essere modificato</value>
   </data>
   <data name="TooManyTopics" xml:space="preserve">
     <value>Non è possibile aggiungere più argomenti</value>

@@ -118,7 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CallCalling" xml:space="preserve">
-    <value>CHIAMATA </value>
+    <value>CHIAMANDO</value>
+  </data>
+  <data name="CallCallingSomeone" xml:space="preserve">
+    <value>CHIAMANDO A  {0}</value>
   </data>
   <data name="CallIncomingCall" xml:space="preserve">
     <value>CHIAMATA IN ARRIVO</value>
@@ -235,7 +238,7 @@
     <value>{0} vuole chattare con te!</value>
   </data>
   <data name="WaitingTo" xml:space="preserve">
-    <value>In attesa il permesso per utilizzare la tua camera...</value>
+    <value>In attesa il permesso per poter utilizzare la tua camera...</value>
   </data>
   <data name="WalletCallError" xml:space="preserve">
     <value>Questa chiamata non soddisfa con i termini di Langademy e non sarà calcolata.</value>

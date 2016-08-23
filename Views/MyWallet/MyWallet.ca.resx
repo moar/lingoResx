@@ -232,7 +232,7 @@
     <value>Saldo actual</value>
   </data>
   <data name="AddCreditsMinimumAmmount" xml:space="preserve">
-    <value>Mínim</value>
+    <value>Compra mínima</value>
   </data>
   <data name="AddCreditsTitle" xml:space="preserve">
     <value>Comprar crèdits de Langademy</value>
@@ -352,7 +352,7 @@
     <value>Enhorabona! La teva compra s'ha efectuat correctament</value>
   </data>
   <data name="COutPanelTitle" xml:space="preserve">
-    <value>Reintegrament</value>
+    <value>Reintegraments</value>
   </data>
   <data name="COutRO" xml:space="preserve">
     <value>Compte PayPal</value>
@@ -364,7 +364,7 @@
     <value>Factures</value>
   </data>
   <data name="CShopCashout" xml:space="preserve">
-    <value>Reintegrament</value>
+    <value>Reintegraments</value>
   </data>
   <data name="CShopCreditShop" xml:space="preserve">
     <value>Botiga de crèdits</value>
@@ -412,7 +412,7 @@
     <value>Introdueix el nombre de crèdits per al reintegrament</value>
   </data>
   <data name="ReqCashoutMethodConfirm" xml:space="preserve">
-    <value>Confirma un mètode per al reintegrament o</value>
+    <value>Confirma un mètode per al reintegrament </value>
   </data>
   <data name="ReqCashoutNewBal" xml:space="preserve">
     <value>Nou saldo</value>
@@ -543,5 +543,8 @@
   </data>
   <data name="MWPayPaypal" xml:space="preserve">
     <value>Pagar amb PayPal</value>
+  </data>
+  <data name="MWEdit" xml:space="preserve">
+    <value>Editar</value>
   </data>
 </root>
