@@ -402,6 +402,7 @@
     <EmbeddedResource Include="Exceptions\Exceptions.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Exceptions.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="General\CookieConsent.ca.resx" />
     <EmbeddedResource Include="General\CookieConsent.de.resx" />

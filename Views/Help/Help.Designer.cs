@@ -70,16 +70,6 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy provides videocalls between Langademy contacts specifying the conversation language. When you log in to Langademy you can use your state to let your contacts know in which languages you want to speak. If you don’t want to receive any calls, just set your state to busy. And remember that videocalls may have an impact on your Time Bank account. 
-        ///.
-        /// </summary>
-        public static string DesktopState {
-            get {
-                return ResourceManager.GetString("DesktopState", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Langademy in 3 steps.
         /// </summary>
         public static string HelpAssistanceTitle {
@@ -98,7 +88,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can &lt;strong&gt;create meetups&lt;/strong&gt; to meet with more people at the Language Roulette.
+        ///   Looks up a localized string similar to You can &lt;strong&gt;create meetups&lt;/strong&gt; to meet with more people at the chat rooms.
         /// </summary>
         public static string HelpAssistanteStep1F2 {
             get {
@@ -125,7 +115,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You will &lt;strong&gt;start with 5 free hours&lt;/strong&gt; so you can practice the languages you want.
+        ///   Looks up a localized string similar to You will &lt;strong&gt;start with 2 free hours&lt;/strong&gt; so you can practice the languages you want.
         /// </summary>
         public static string HelpAssistanteStep2F3 {
             get {
@@ -143,7 +133,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your state shows the languages you have defined in your profile. When these languages are enabled or disabled in your state, your contacts will know that you only want to receive calls in those languages that are enabled..
+        ///   Looks up a localized string similar to Your state shows the languages you have defined in your profile. When these switches are enabled or disabled in your state, your contacts will know that you only want to receive calls in those languages that are enabled.  .
         /// </summary>
         public static string HelpAssistanteStep3F2 {
             get {
@@ -179,11 +169,191 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to How does Langademy work?.
+        /// </summary>
+        public static string HelpGeneralTitle {
+            get {
+                return ResourceManager.GetString("HelpGeneralTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Return to index.
+        /// </summary>
+        public static string HelpGoToIndex {
+            get {
+                return ResourceManager.GetString("HelpGoToIndex", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Index.
+        /// </summary>
+        public static string HelpIndex {
+            get {
+                return ResourceManager.GetString("HelpIndex", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy state.
+        /// </summary>
+        public static string HelpLangademyStateTitle {
+            get {
+                return ResourceManager.GetString("HelpLangademyStateTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learners: how to start.
+        /// </summary>
+        public static string HelpLearnersTitle {
+            get {
+                return ResourceManager.GetString("HelpLearnersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Native speakers fee.
+        /// </summary>
+        public static string HelpNativesFeeTitle {
+            get {
+                return ResourceManager.GetString("HelpNativesFeeTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you want to chat in your native language, you have to go the Wallet chat room of your native language, where you will find language learners to speak with..
+        /// </summary>
+        public static string HelpNativesSent1 {
+            get {
+                return ResourceManager.GetString("HelpNativesSent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to But firstly, you have to meet some requirements:.
+        /// </summary>
+        public static string HelpNativesSent2 {
+            get {
+                return ResourceManager.GetString("HelpNativesSent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Each Wallet chat room requires a minimum number of up votes. So go to the Time Banking chat rooms, talk to other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to enter the Wallet chat room of that specific language..
+        /// </summary>
+        public static string HelpNativesSent3 {
+            get {
+                return ResourceManager.GetString("HelpNativesSent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fill your billing data. Before entering any Wallet room, you need to fill your billing address the MyWallet app -&gt; Billing data..
+        /// </summary>
+        public static string HelpNativesSent4 {
+            get {
+                return ResourceManager.GetString("HelpNativesSent4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Once you meet these two requirements, you are ready to enter the Wallet rooms..
+        /// </summary>
+        public static string HelpNativesSent5 {
+            get {
+                return ResourceManager.GetString("HelpNativesSent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Native speakers: how to start.
+        /// </summary>
+        public static string HelpNativesTitle {
+            get {
+                return ResourceManager.GetString("HelpNativesTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Related articles.
+        /// </summary>
+        public static string HelpRelatedArticles {
+            get {
+                return ResourceManager.GetString("HelpRelatedArticles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You can show this help at any time by clicking {0} at the foot of the page.
         /// </summary>
         public static string HelpShowhelpagain {
             get {
                 return ResourceManager.GetString("HelpShowhelpagain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can change your state from your home screen. Click your avatar and the left panel will be opened..
+        /// </summary>
+        public static string HelpState1 {
+            get {
+                return ResourceManager.GetString("HelpState1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Once there, you have different options regarding your state:.
+        /// </summary>
+        public static string HelpState2 {
+            get {
+                return ResourceManager.GetString("HelpState2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you don’t want to receive any calls, just set your state to busy.
+        /// </summary>
+        public static string HelpState3 {
+            get {
+                return ResourceManager.GetString("HelpState3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time Banking rooms: These rooms have two states. With the first state, you can select if you want to receive calls from the Time Banking room of a specific language. The seconds state lets you switch on and off the automatic partner finder. If you disable de overall state of a language, the automatic partner finder will also be disabled..
+        /// </summary>
+        public static string HelpState4 {
+            get {
+                return ResourceManager.GetString("HelpState4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet rooms: Disable the rooms of the languages that you don’t want to receive calls..
+        /// </summary>
+        public static string HelpState5 {
+            get {
+                return ResourceManager.GetString("HelpState5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Automatic partner finder.
+        /// </summary>
+        public static string HelpState6 {
+            get {
+                return ResourceManager.GetString("HelpState6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy will find you an online partner that meets your preferences and that is available to speak with you. When a match is found, you will receive a notification asking if you want to start a call with the chosen partner..
+        /// </summary>
+        public static string HelpState7 {
+            get {
+                return ResourceManager.GetString("HelpState7", resourceCulture);
             }
         }
         
@@ -197,11 +367,173 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Language learners have two options if they want to practice a language: they can use whether the Wallet rooms or the Time Banking rooms..
+        /// </summary>
+        public static string HelpStudentIntro1 {
+            get {
+                return ResourceManager.GetString("HelpStudentIntro1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In the Wallet rooms, language learners pay in order to have a conversation with a native. In the Time Banking rooms, time is used as a trade. Check the {0} and the {1} sections for more information about these rooms..
+        /// </summary>
+        public static string HelpStudentIntro2 {
+            get {
+                return ResourceManager.GetString("HelpStudentIntro2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When you meet new partners in a room, you can send them connection request. Once you are connected, you will be able to make video calls without entering the rooms..
+        /// </summary>
+        public static string HelpStudentIntro3 {
+            get {
+                return ResourceManager.GetString("HelpStudentIntro3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time Banking provides a way to learn languages without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account. Check the Time Banking rules ({0})..
+        /// </summary>
+        public static string HelpTBIntro1 {
+            get {
+                return ResourceManager.GetString("HelpTBIntro1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To practice a language, go to the Time Banking rooms, start chatting with people and make video calls with them. In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account..
+        /// </summary>
+        public static string HelpTBIntro2 {
+            get {
+                return ResourceManager.GetString("HelpTBIntro2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string HelpTBIntro3 {
+            get {
+                return ResourceManager.GetString("HelpTBIntro3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time Banking introduction.
+        /// </summary>
+        public static string HelpTBIntroTitle {
+            get {
+                return ResourceManager.GetString("HelpTBIntroTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time Banking rooms are the place where you can find language exchange partners. In these rooms you can chat for free or make Time Banking video calls (check {0})..
+        /// </summary>
+        public static string HelpTBRooms1 {
+            get {
+                return ResourceManager.GetString("HelpTBRooms1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can see what users are online in the left user panel. If you click the user, you will see different options that each user provides: you can add them as partners, make video calls, and report or block them..
+        /// </summary>
+        public static string HelpTBRooms2 {
+            get {
+                return ResourceManager.GetString("HelpTBRooms2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If the room is empty or there is no activity at the moment, you can create Meetups to tell the others when you will be free to have a chat or a video call. You can also join the existing meetups..
+        /// </summary>
+        public static string HelpTBRooms3 {
+            get {
+                return ResourceManager.GetString("HelpTBRooms3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Creating meetups in the Meetup Board.
+        /// </summary>
+        public static string HelpTBRooms4 {
+            get {
+                return ResourceManager.GetString("HelpTBRooms4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to On the other hand, if you are attending a meetup, you can propose new topics for the meetup or vote the topics that other users have proposed..
+        /// </summary>
+        public static string HelpTBRooms5 {
+            get {
+                return ResourceManager.GetString("HelpTBRooms5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can go to the Meetup Board from your Time Banking room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it..
+        /// </summary>
+        public static string HelpTBRooms6 {
+            get {
+                return ResourceManager.GetString("HelpTBRooms6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time Banking chat rooms.
+        /// </summary>
+        public static string HelpTBRoomsTitle {
+            get {
+                return ResourceManager.GetString("HelpTBRoomsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How does Time Banking work?.
+        /// </summary>
+        public static string HelpTBWorkTitle {
+            get {
+                return ResourceManager.GetString("HelpTBWorkTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet introduction.
+        /// </summary>
+        public static string HelpWalletIntroTitle {
+            get {
+                return ResourceManager.GetString("HelpWalletIntroTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet chat rooms.
+        /// </summary>
+        public static string HelpWalletRoomsTitle {
+            get {
+                return ResourceManager.GetString("HelpWalletRoomsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Welcome to Langademy!.
         /// </summary>
         public static string HelpWelcome {
             get {
                 return ResourceManager.GetString("HelpWelcome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit withdrawal.
+        /// </summary>
+        public static string HelpWithdrawalTitle {
+            get {
+                return ResourceManager.GetString("HelpWithdrawalTitle", resourceCulture);
             }
         }
         
@@ -224,7 +556,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You will begin with 5 hours so you can practice the language you want..
+        ///   Looks up a localized string similar to You will begin with 2 hours so you can practice the language you want..
         /// </summary>
         public static string TimeBankF1 {
             get {
@@ -274,6 +606,15 @@ namespace Resources.Views.Help {
         public static string TimeBankTitle {
             get {
                 return ResourceManager.GetString("TimeBankTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet.
+        /// </summary>
+        public static string WalletTitle {
+            get {
+                return ResourceManager.GetString("WalletTitle", resourceCulture);
             }
         }
     }
