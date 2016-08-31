@@ -117,33 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="HelpAssistanceTitle" xml:space="preserve">
-    <value>Langademy in 3 steps</value>
-  </data>
-  <data name="HelpAssistanteStep1F1" xml:space="preserve">
-    <value>Go to the chat room list, select a language room and start practicing it using video call technology.</value>
-  </data>
-  <data name="HelpAssistanteStep1F2" xml:space="preserve">
-    <value>You can &lt;strong&gt;create meetups&lt;/strong&gt; to meet with more people at the chat rooms</value>
-  </data>
-  <data name="HelpAssistanteStep2F1" xml:space="preserve">
-    <value>&lt;strong&gt;Time banking:&lt;/strong&gt;</value>
-  </data>
-  <data name="HelpAssistanteStep2F2" xml:space="preserve">
-    <value>If you &lt;strong&gt;teach your native language&lt;/strong&gt; you will be rewarded with time in your account. If you &lt;strong&gt;practice other languages&lt;/strong&gt; you will be spending time from the time bank.</value>
-  </data>
-  <data name="HelpAssistanteStep2F3" xml:space="preserve">
-    <value>You will &lt;strong&gt;start with 2 free hours&lt;/strong&gt; so you can practice the languages you want</value>
-  </data>
-  <data name="HelpAssistanteStep3F1" xml:space="preserve">
-    <value>In Langademy you can make videocalls with your contacts and decide which language you are going to practice. </value>
-  </data>
-  <data name="HelpAssistanteStep3F2" xml:space="preserve">
-    <value>Your state shows the languages you have defined in your profile. When these switches are enabled or disabled in your state, your contacts will know that you only want to receive calls in those languages that are enabled.  </value>
-  </data>
-  <data name="HelpAssistanteStep3F3" xml:space="preserve">
-    <value>If you don't want to receive calls, set your state to busy. Remember that these calls can affect your Time Bank account.</value>
-  </data>
   <data name="HelpDontShow" xml:space="preserve">
     <value>Don't show again</value>
   </data>
