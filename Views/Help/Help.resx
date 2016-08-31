@@ -217,7 +217,7 @@
     <value>Each Wallet chat room requires a minimum number of up votes. So go to the Time Banking chat rooms, talk to other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to enter the Wallet chat room of that specific language.</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Fill your billing data. Before entering any Wallet room, you need to fill your billing address the MyWallet app -&gt; Billing data.</value>
+    <value>Fill your billing data. Before entering any Wallet room, you need to fill your billing address in the MyWallet app -&gt; Billing data.</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
     <value>Once you meet these two requirements, you are ready to enter the Wallet rooms.</value>
@@ -238,7 +238,7 @@
     <value>Wallet introduction</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Wallet chat rooms</value>
+    <value>Wallet chat rooms and Wallet video calls</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Credit withdrawal</value>
@@ -268,13 +268,13 @@
     <value>Langademy will find you an online partner that meets your preferences and that is available to speak with you. When a match is found, you will receive a notification asking if you want to start a call with the chosen partner.</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
-    <value>Language learners have two options if they want to practice a language: they can use whether the Wallet rooms or the Time Banking rooms.</value>
+    <value>Language learners have two options if they want to practice a language: they can use either the Wallet rooms or the Time Banking rooms.</value>
   </data>
   <data name="HelpStudentIntro2" xml:space="preserve">
     <value>In the Wallet rooms, language learners pay in order to have a conversation with a native. In the Time Banking rooms, time is used as a trade. Check the {0} and the {1} sections for more information about these rooms.</value>
   </data>
   <data name="HelpStudentIntro3" xml:space="preserve">
-    <value>When you meet new partners in a room, you can send them connection request. Once you are connected, you will be able to make video calls without entering the rooms.</value>
+    <value>When you meet new partners in a room, you can send them a connection request. Once you are connected, you will be able to make video calls without entering the rooms.</value>
   </data>
   <data name="HelpTBIntro1" xml:space="preserve">
     <value>Time Banking provides a way to learn languages without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account. Check the Time Banking rules ({0}).</value>
@@ -302,5 +302,87 @@
   </data>
   <data name="HelpTBRooms6" xml:space="preserve">
     <value>You can go to the Meetup Board from your Time Banking room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it.</value>
+  </data>
+  <data name="HelpWalletFees1" xml:space="preserve">
+    <value>Native speakers are charged the 13% of the amount that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated.</value>
+  </data>
+  <data name="HelpWalletFees2" xml:space="preserve">
+    <value>In order to understand how the available balance is calculated, several terms need to be explained:</value>
+  </data>
+  <data name="HelpWalletFees3" xml:space="preserve">
+    <value>Total Balance: It shows the total amount of credits before the 13% fee is applied to it.</value>
+  </data>
+  <data name="HelpWalletFees4" xml:space="preserve">
+    <value>Langademy fee: At the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either.</value>
+  </data>
+  <data name="HelpWalletFees5" xml:space="preserve">
+    <value>Pending cash-out requests: If a cash out is requested, the amount of credits that have been requested won't be available to use.</value>
+  </data>
+  <data name="HelpWalletFees6" xml:space="preserve">
+    <value>Available balance: In the view of the abovementioned terms, this is how available balance is calculated
+</value>
+  </data>
+  <data name="HelpWalletFees7" xml:space="preserve">
+    <value>Available balance = total balance – Langademy fee – amount of credits requested for withdrawal</value>
+  </data>
+  <data name="HelpWalletWithdrawal1" xml:space="preserve">
+    <value>Credit withdrawal can be requested in MyWallet -&gt; Withdrawals</value>
+  </data>
+  <data name="HelpWalletWithdrawal2" xml:space="preserve">
+    <value>Credit Withdrawals are processed every 15 days. If you want, you can edit the amount of credits you have requested before the processing of the withdrawal has begun. Once the request has been done, you can’t make another request until the previous request has been processed.</value>
+  </data>
+  <data name="HelpWCR1" xml:space="preserve">
+    <value>Wallet chat rooms are the meeting point for native speakers and language learners. In these rooms, language learners can chat and make video calls with the native speakers. Each native speaker has an hourly rate, which will be applied when a video call is made. During a call, this rate will be updated each minute, so language learners will only pay for the number of minutes they talk. In each call, there will be a 3-minutes-long trial so the language learners can decide if they want to continue with the call before they start to pay.</value>
+  </data>
+  <data name="HelpWCR2" xml:space="preserve">
+    <value>Requirements to enter the Wallet Rooms</value>
+  </data>
+  <data name="HelpWCR3" xml:space="preserve">
+    <value>Both native speakers and language learners have meet some requirements to enter each of the Wallet chat rooms.</value>
+  </data>
+  <data name="HelpWCR4" xml:space="preserve">
+    <value>Requirements for language learners:</value>
+  </data>
+  <data name="HelpWCR5" xml:space="preserve">
+    <value>Chatting in the Wallet rooms it’s free. However, language learners have to buy credits if they want have access to the wallet rooms. Once they have made a purchase, they can chat and make video calls with native speakers. During a call, the rate that have been specified by the native speaker will be applied to the call</value>
+  </data>
+  <data name="HelpWCR6" xml:space="preserve">
+    <value>Requirements for native speakers:</value>
+  </data>
+  <data name="HelpWCR7" xml:space="preserve">
+    <value>Native speakers have to meet two requirements if they want to enter a Wallet room:</value>
+  </data>
+  <data name="HelpWCR8" xml:space="preserve">
+    <value>Each Wallet requires to have a minimum number of positive votes. In order to gain positive votes, native speakers can go to the Time Banking room of the same language, make video calls with language learners and earn positive votes. If a native speaker wants to gather learners at a certain date and time, they can create meetups. More info at ({0})</value>
+  </data>
+  <data name="HelpWCR9" xml:space="preserve">
+    <value>Complete the billing address: Go to My Wallet and complete the billing address.</value>
+  </data>
+  <data name="HelpWalletIntro1" xml:space="preserve">
+    <value>My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests.</value>
+  </data>
+  <data name="HelpWalletIntro2" xml:space="preserve">
+    <value>If you are at Langademy to learn languages, go to the Wallet chat rooms (link) and look for native speakers and their rates.</value>
+  </data>
+  <data name="HelpWalletIntro3" xml:space="preserve">
+    <value>If you want to earn some money while you speak with languages learners, you will have to earn some reputation in the Time Banking rooms before you can enter the Wallet chat rooms ({0})</value>
+  </data>
+  <data name="HelpHeaderTitle" xml:space="preserve">
+    <value>Langademy Help</value>
+  </data>
+  <data name="HelpIndexTitle" xml:space="preserve">
+    <value>How can we help you?</value>
+  </data>
+  <data name="HelpNativesSent6" xml:space="preserve">
+    <value>Introduction to Wallet rooms and calls</value>
+  </data>
+  <data name="HelpNativesSent7" xml:space="preserve">
+    <value>When you enter a Wallet room for the first time, you will have to specify a rate for your calls (in case you haven’t defined it before). Once you are in a room, you can chat with the language learners while you wait someone to call you. If you have a good reputation and you make a good impression in the chat room, it will be easier to receive calls.</value>
+  </data>
+  <data name="HelpNativesSent8" xml:space="preserve">
+    <value>When you receive a video call, your rate will be applied to the call and your Wallet credit balance will be updated once the call is finished. Each call will have a fee ({0}) that will be charged to your account at the end of the month.</value>
+  </data>
+  <data name="HelpCheckPrices" xml:space="preserve">
+    <value>check prices</value>
   </data>
 </root>

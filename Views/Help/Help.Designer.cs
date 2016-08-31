@@ -160,6 +160,15 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to check prices.
+        /// </summary>
+        public static string HelpCheckPrices {
+            get {
+                return ResourceManager.GetString("HelpCheckPrices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Don&apos;t show again.
         /// </summary>
         public static string HelpDontShow {
@@ -187,11 +196,29 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Langademy Help.
+        /// </summary>
+        public static string HelpHeaderTitle {
+            get {
+                return ResourceManager.GetString("HelpHeaderTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Index.
         /// </summary>
         public static string HelpIndex {
             get {
                 return ResourceManager.GetString("HelpIndex", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How can we help you?.
+        /// </summary>
+        public static string HelpIndexTitle {
+            get {
+                return ResourceManager.GetString("HelpIndexTitle", resourceCulture);
             }
         }
         
@@ -250,7 +277,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fill your billing data. Before entering any Wallet room, you need to fill your billing address the MyWallet app -&gt; Billing data..
+        ///   Looks up a localized string similar to Fill your billing data. Before entering any Wallet room, you need to fill your billing address in the MyWallet app -&gt; Billing data..
         /// </summary>
         public static string HelpNativesSent4 {
             get {
@@ -264,6 +291,33 @@ namespace Resources.Views.Help {
         public static string HelpNativesSent5 {
             get {
                 return ResourceManager.GetString("HelpNativesSent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Introduction to Wallet rooms and calls.
+        /// </summary>
+        public static string HelpNativesSent6 {
+            get {
+                return ResourceManager.GetString("HelpNativesSent6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When you enter a Wallet room for the first time, you will have to specify a rate for your calls (in case you haven’t defined it before). Once you are in a room, you can chat with the language learners while you wait someone to call you. If you have a good reputation and you make a good impression in the chat room, it will be easier to receive calls..
+        /// </summary>
+        public static string HelpNativesSent7 {
+            get {
+                return ResourceManager.GetString("HelpNativesSent7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When you receive a video call, your rate will be applied to the call and your Wallet credit balance will be updated once the call is finished. Each call will have a fee ({0}) that will be charged to your account at the end of the month..
+        /// </summary>
+        public static string HelpNativesSent8 {
+            get {
+                return ResourceManager.GetString("HelpNativesSent8", resourceCulture);
             }
         }
         
@@ -367,7 +421,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language learners have two options if they want to practice a language: they can use whether the Wallet rooms or the Time Banking rooms..
+        ///   Looks up a localized string similar to Language learners have two options if they want to practice a language: they can use either the Wallet rooms or the Time Banking rooms..
         /// </summary>
         public static string HelpStudentIntro1 {
             get {
@@ -385,7 +439,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you meet new partners in a room, you can send them connection request. Once you are connected, you will be able to make video calls without entering the rooms..
+        ///   Looks up a localized string similar to When you meet new partners in a room, you can send them a connection request. Once you are connected, you will be able to make video calls without entering the rooms..
         /// </summary>
         public static string HelpStudentIntro3 {
             get {
@@ -502,6 +556,97 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Native speakers are charged the 13% of the amount that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated..
+        /// </summary>
+        public static string HelpWalletFees1 {
+            get {
+                return ResourceManager.GetString("HelpWalletFees1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In order to understand how the available balance is calculated, several terms need to be explained:.
+        /// </summary>
+        public static string HelpWalletFees2 {
+            get {
+                return ResourceManager.GetString("HelpWalletFees2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total Balance: It shows the total amount of credits before the 13% fee is applied to it..
+        /// </summary>
+        public static string HelpWalletFees3 {
+            get {
+                return ResourceManager.GetString("HelpWalletFees3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy fee: At the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either..
+        /// </summary>
+        public static string HelpWalletFees4 {
+            get {
+                return ResourceManager.GetString("HelpWalletFees4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pending cash-out requests: If a cash out is requested, the amount of credits that have been requested won&apos;t be available to use..
+        /// </summary>
+        public static string HelpWalletFees5 {
+            get {
+                return ResourceManager.GetString("HelpWalletFees5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available balance: In the view of the abovementioned terms, this is how available balance is calculated
+        ///.
+        /// </summary>
+        public static string HelpWalletFees6 {
+            get {
+                return ResourceManager.GetString("HelpWalletFees6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available balance = total balance – Langademy fee – amount of credits requested for withdrawal.
+        /// </summary>
+        public static string HelpWalletFees7 {
+            get {
+                return ResourceManager.GetString("HelpWalletFees7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests..
+        /// </summary>
+        public static string HelpWalletIntro1 {
+            get {
+                return ResourceManager.GetString("HelpWalletIntro1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you are at Langademy to learn languages, go to the Wallet chat rooms (link) and look for native speakers and their rates..
+        /// </summary>
+        public static string HelpWalletIntro2 {
+            get {
+                return ResourceManager.GetString("HelpWalletIntro2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you want to earn some money while you speak with languages learners, you will have to earn some reputation in the Time Banking rooms before you can enter the Wallet chat rooms ({0}).
+        /// </summary>
+        public static string HelpWalletIntro3 {
+            get {
+                return ResourceManager.GetString("HelpWalletIntro3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Wallet introduction.
         /// </summary>
         public static string HelpWalletIntroTitle {
@@ -511,11 +656,110 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wallet chat rooms.
+        ///   Looks up a localized string similar to Wallet chat rooms and Wallet video calls.
         /// </summary>
         public static string HelpWalletRoomsTitle {
             get {
                 return ResourceManager.GetString("HelpWalletRoomsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit withdrawal can be requested in MyWallet -&gt; Withdrawals.
+        /// </summary>
+        public static string HelpWalletWithdrawal1 {
+            get {
+                return ResourceManager.GetString("HelpWalletWithdrawal1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit Withdrawals are processed every 15 days. If you want, you can edit the amount of credits you have requested before the processing of the withdrawal has begun. Once the request has been done, you can’t make another request until the previous request has been processed..
+        /// </summary>
+        public static string HelpWalletWithdrawal2 {
+            get {
+                return ResourceManager.GetString("HelpWalletWithdrawal2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet chat rooms are the meeting point for native speakers and language learners. In these rooms, language learners can chat and make video calls with the native speakers. Each native speaker has an hourly rate, which will be applied when a video call is made. During a call, this rate will be updated each minute, so language learners will only pay for the number of minutes they talk. In each call, there will be a 3-minutes-long trial so the language learners can decide if they want to continue with the cal [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string HelpWCR1 {
+            get {
+                return ResourceManager.GetString("HelpWCR1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Requirements to enter the Wallet Rooms.
+        /// </summary>
+        public static string HelpWCR2 {
+            get {
+                return ResourceManager.GetString("HelpWCR2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Both native speakers and language learners have meet some requirements to enter each of the Wallet chat rooms..
+        /// </summary>
+        public static string HelpWCR3 {
+            get {
+                return ResourceManager.GetString("HelpWCR3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Requirements for language learners:.
+        /// </summary>
+        public static string HelpWCR4 {
+            get {
+                return ResourceManager.GetString("HelpWCR4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chatting in the Wallet rooms it’s free. However, language learners have to buy credits if they want have access to the wallet rooms. Once they have made a purchase, they can chat and make video calls with native speakers. During a call, the rate that have been specified by the native speaker will be applied to the call.
+        /// </summary>
+        public static string HelpWCR5 {
+            get {
+                return ResourceManager.GetString("HelpWCR5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Requirements for native speakers:.
+        /// </summary>
+        public static string HelpWCR6 {
+            get {
+                return ResourceManager.GetString("HelpWCR6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Native speakers have to meet two requirements if they want to enter a Wallet room:.
+        /// </summary>
+        public static string HelpWCR7 {
+            get {
+                return ResourceManager.GetString("HelpWCR7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Each Wallet requires to have a minimum number of positive votes. In order to gain positive votes, native speakers can go to the Time Banking room of the same language, make video calls with language learners and earn positive votes. If a native speaker wants to gather learners at a certain date and time, they can create meetups. More info at ({0}).
+        /// </summary>
+        public static string HelpWCR8 {
+            get {
+                return ResourceManager.GetString("HelpWCR8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Complete the billing address: Go to My Wallet and complete the billing address..
+        /// </summary>
+        public static string HelpWCR9 {
+            get {
+                return ResourceManager.GetString("HelpWCR9", resourceCulture);
             }
         }
         
