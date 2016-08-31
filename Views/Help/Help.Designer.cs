@@ -475,7 +475,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Native speakers are charged the 13% of the amount that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated..
+        ///   Looks up a localized string similar to Native speakers are charged the 13% of the amount (+ taxes) that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated..
         /// </summary>
         public static string HelpWalletFees1 {
             get {
@@ -511,7 +511,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pending cash-out requests: If a cash out is requested, the amount of credits that have been requested won&apos;t be available to use..
+        ///   Looks up a localized string similar to Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that have been requested won&apos;t be available to use..
         /// </summary>
         public static string HelpWalletFees5 {
             get {

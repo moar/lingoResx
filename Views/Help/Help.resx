@@ -277,7 +277,7 @@
     <value>You can go to the Meetup Board from your Time Banking room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
-    <value>Native speakers are charged the 13% of the amount that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated.</value>
+    <value>Native speakers are charged the 13% of the amount (+ taxes) that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated.</value>
   </data>
   <data name="HelpWalletFees2" xml:space="preserve">
     <value>In order to understand how the available balance is calculated, several terms need to be explained:</value>
@@ -289,7 +289,7 @@
     <value>Langademy fee: At the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either.</value>
   </data>
   <data name="HelpWalletFees5" xml:space="preserve">
-    <value>Pending cash-out requests: If a cash out is requested, the amount of credits that have been requested won't be available to use.</value>
+    <value>Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that have been requested won't be available to use.</value>
   </data>
   <data name="HelpWalletFees6" xml:space="preserve">
     <value>Available balance: In the view of the abovementioned terms, this is how available balance is calculated
