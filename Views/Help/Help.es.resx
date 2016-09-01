@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DesktopState" xml:space="preserve">
-    <value>Langademy te permite hacer videollamadas con tus contactos especificando el idioma de la conversación. Cuando entras en Langademy puedes utilizar tu estado para hacer saber a tus contactos en que idiomas quieres hablar. Si no quieres recibir ninguna llamada, cambia tu estado a ocupado. Y recuerda que las videollamadas pueden afectar a tu saldo en el Banco de Tiempo.</value>
-  </data>
   <data name="HelpDontShow" xml:space="preserve">
     <value>No mostrar de nuevo</value>
   </data>
@@ -161,5 +158,200 @@
   </data>
   <data name="HelpChatRoom" xml:space="preserve">
     <value>Salas de chat</value>
+  </data>
+  <data name="WalletTitle" xml:space="preserve">
+    <value>Wallet</value>
+  </data>
+  <data name="HelpIndex" xml:space="preserve">
+    <value>Índice</value>
+  </data>
+  <data name="HelpGeneralTitle" xml:space="preserve">
+    <value>¿Cómo funciona Langademy?</value>
+  </data>
+  <data name="HelpGoToIndex" xml:space="preserve">
+    <value>Volver al índice</value>
+  </data>
+  <data name="HelpLangademyStateTitle" xml:space="preserve">
+    <value>Estado de Langademy</value>
+  </data>
+  <data name="HelpLearnersTitle" xml:space="preserve">
+    <value>Estudiantes: cómo empezar</value>
+  </data>
+  <data name="HelpNativesFeeTitle" xml:space="preserve">
+    <value>Comisión de los nativos</value>
+  </data>
+  <data name="HelpNativesSent1" xml:space="preserve">
+    <value>Si quieres hablar en tu idioma nativo, debes ir a la sala de chat Wallet de tu idioma, donde encontrarás estudiantes con los que poder conversar</value>
+  </data>
+  <data name="HelpNativesSent2" xml:space="preserve">
+    <value>Pero primeramente debes cumplir unos requisitos:</value>
+  </data>
+  <data name="HelpNativesSent3" xml:space="preserve">
+    <value>Cada sala de chat de Wallet requiere un número mínimo de votos positivos. Para conseguirlos ve a las salas de Banco del Tiempo, habla con la gente que quiere aprender tu idioma y gana votos positivos. Una vez que hayas ganado el número de votos que se requieren para entrar a la sala de un idioma, podrás entrar a esa sala</value>
+  </data>
+  <data name="HelpNativesSent4" xml:space="preserve">
+    <value>Rellena tus datos de facturación. Antes de entrar a una sala Wallet, tienes que rellenar tu dirección de facturación en My Wallet -&gt; Información de facturación</value>
+  </data>
+  <data name="HelpNativesSent5" xml:space="preserve">
+    <value>Una vez que cumplas estos dos requisitos, estarás preparado para entrar a las salas Wallet</value>
+  </data>
+  <data name="HelpNativesTitle" xml:space="preserve">
+    <value>Hablantes nativos: cómo empezar</value>
+  </data>
+  <data name="HelpTBIntroTitle" xml:space="preserve">
+    <value>Introducción al Banco del Tiempo</value>
+  </data>
+  <data name="HelpTBRoomsTitle" xml:space="preserve">
+    <value>Salas de chat del Banco del Tiempo</value>
+  </data>
+  <data name="HelpTBWorkTitle" xml:space="preserve">
+    <value>¿Cómo funciona el Banco del Tiempo?</value>
+  </data>
+  <data name="HelpWalletIntroTitle" xml:space="preserve">
+    <value>Introducción a Wallet</value>
+  </data>
+  <data name="HelpWalletRoomsTitle" xml:space="preserve">
+    <value>Salas de chat Wallet y videollamadas Wallet</value>
+  </data>
+  <data name="HelpWithdrawalTitle" xml:space="preserve">
+    <value>Retirada de créditos</value>
+  </data>
+  <data name="HelpRelatedArticles" xml:space="preserve">
+    <value>Artículos relacionados</value>
+  </data>
+  <data name="HelpState1" xml:space="preserve">
+    <value>Puedes cambiar tu estado desde tu página de inicio. Clica en tu avatar y se abrirá el panel izquierdo.</value>
+  </data>
+  <data name="HelpState2" xml:space="preserve">
+    <value>Una vez ahi, tienes diferentes opciones para tu estado:</value>
+  </data>
+  <data name="HelpState3" xml:space="preserve">
+    <value>Si no quieres recibir ninguna llamada, cambia tu estado a "ocupado"</value>
+  </data>
+  <data name="HelpState4" xml:space="preserve">
+    <value>Salas de Banco del Tiempo: estas salas tienen dos estados. Con el primer estado, puedes seleccionar si quieres recibir llamadas de Banco del Tiempo para un idioma específico. El segundo estado te permite activar y desactivar el buscador automático de compañeros. Si desactivas el estado general para la sala de un idioma, también se desactivará el buscador automático de compañeros</value>
+  </data>
+  <data name="HelpState5" xml:space="preserve">
+    <value>Salas de Wallet: deshabilita las salas de los idiomas en los que no quieres recibir llamadas</value>
+  </data>
+  <data name="HelpState6" xml:space="preserve">
+    <value>Buscador de compañeros automático</value>
+  </data>
+  <data name="HelpState7" xml:space="preserve">
+    <value>Langademy te buscará un compañero que cumpla tus preferencias y que esté disponible para conversar contigo. Cuanto se encuentré un compañero, te mostraremos una notificación preguntándote si quieres conversar con el compañero que te hemos encontrado</value>
+  </data>
+  <data name="HelpStudentIntro1" xml:space="preserve">
+    <value>Los estudiantes de un idioma tienes dos opciones a la hora de practicar el idioma: pueden usar las salas de chat de Wallet o las sala de chat de Banco del Tiempo</value>
+  </data>
+  <data name="HelpStudentIntro2" xml:space="preserve">
+    <value>En las salas Wallet, los estudiantes pagan para mantener una conversación con un nativo. En las salas de Banco del Tiempo, el tiempo se usa como moneda de cambio. Mira las secciones {0} y {1} para más información sobre estos dos tipos de salas.</value>
+  </data>
+  <data name="HelpStudentIntro3" xml:space="preserve">
+    <value>Cuando conozcas algún compañero nuevo en una sala, puedes mandarle una solicitud de conexión. Cuando estéis conectados, podréis hacer videollamadas entre los dos sin tener que entrar a las sala.</value>
+  </data>
+  <data name="HelpTBIntro1" xml:space="preserve">
+    <value>El Banco del Tiempo ofrece una manera para aprender idiomas sin que tengas que gastar tu dinero: el tiempo que utilices para hablar en tu idioma nativos con los estudiantes sera añadido a tu cuenta de Banco del Tiempo. Mira las reglas del Banco del Tiempo ({0}).</value>
+  </data>
+  <data name="HelpTBIntro2" xml:space="preserve">
+    <value>Si quieres practicar un idioma, ve a las salas de Banco del Tiempo, empieza a hablar con la gente que encuentres allí y haz videollamadas con ellos. En tu página de inicio podrás ver el saldo de tu cuenta del Banco del Tiempo. Si accedes a la aplicación de tu Banco del Tiempo podrás consultar el histórico y los detalles de tus movimientos en el Banco del Tiempo</value>
+  </data>
+  <data name="HelpTBRooms1" xml:space="preserve">
+    <value>Las salas de Banco del Tiempo son el lugar donde encontrarás compañeros de intercambio de idiomas. En esas salas podrás chatear gratis y realizar llamadas de Banco del Tiempo (ver{0}).</value>
+  </data>
+  <data name="HelpTBRooms2" xml:space="preserve">
+    <value>Puedes consultar que usuarios están en línea en el panel izquierdo. Si clicas en el usuario, verás las diferentes opciones de cada usuario: puedes agregarlos como compañeros, hacer videollamadas o reportar o bloquearlos si te han causado algún problema</value>
+  </data>
+  <data name="HelpTBRooms3" xml:space="preserve">
+    <value>Si la habitación está vacia o no hay ninguna actividad en ese momento, puedes crear quedadas para que el resto de usuarios vean cuándo estarás disponible para chatear o hacer videollamadas. También puedes unirte a las quedadas que otros usuarios han creado. </value>
+  </data>
+  <data name="HelpTBRooms4" xml:space="preserve">
+    <value>Crear quedadas en el Tablón de quedadas</value>
+  </data>
+  <data name="HelpTBRooms5" xml:space="preserve">
+    <value>Ademas, si estás apuntado a una quedada puedes proponer nuevos temas para esa quedada o votar los temas que otros usuarios han propuesto</value>
+  </data>
+  <data name="HelpTBRooms6" xml:space="preserve">
+    <value>Puedes acceder al tablón de quedadas a través de tu página de inicio o desde las salas de Banco del Tiempo. Una vez que accedas al tabón, podrás ver las quedadas de los idiomas que tienes añadidos en tu perfil. Si quieres crear una quedada, selecciona un idioma, fecha y una hora para la quedada. Cuando hayas creado la quedada, puedes invitar a tus contactos de Langademy a que se unan a ella.</value>
+  </data>
+  <data name="HelpWalletFees1" xml:space="preserve">
+    <value>A los hablantes nativos se les retendrá el 13% (+ IVA) de la cantidad que se le haya cobrado al estudiante. El saldo será actualizado cuando la llamada haya finalizado.</value>
+  </data>
+  <data name="HelpWalletFees2" xml:space="preserve">
+    <value>Para entender como se calcula el saldo disponible, hay que tener en cuenta los siguientes términos:</value>
+  </data>
+  <data name="HelpWalletFees3" xml:space="preserve">
+    <value>Saldo total: muestra el número total de créditos sin que la comisión del 13% haya sido aplicada</value>
+  </data>
+  <data name="HelpWalletFees4" xml:space="preserve">
+    <value>Comisión de Langademy: a final de mes Langademy cobrará un 13% a las conversaciones que han mantenido los hablantes nativos. Esta comisión será reflejada en la siguiente emisión de la factura. La comisión no se cobrará hasta que dicha factura sea emitida, </value>
+  </data>
+  <data name="HelpWalletFees5" xml:space="preserve">
+    <value>Solicitudes pendientes de retirada de créditos: cuando se hace una solicitud, la cantidad de créditos que se haya solicitado no estará disponible para uso.</value>
+  </data>
+  <data name="HelpWalletFees6" xml:space="preserve">
+    <value>Saldo disponible: viendo los conceptos que se han explicado, este es el cálculo del saldo disponible:</value>
+  </data>
+  <data name="HelpWalletFees7" xml:space="preserve">
+    <value>Saldo disponible = saldo total - comisión de Langademy - número de créditos solicitados para retirada</value>
+  </data>
+  <data name="HelpWalletWithdrawal1" xml:space="preserve">
+    <value>La retirada de créditos se puede solicitar en My Wallet -&gt; Reintegros</value>
+  </data>
+  <data name="HelpWalletWithdrawal2" xml:space="preserve">
+    <value>Los reintegros se procesan cada 15 días. Si lo deseas, puedes editar el número de créditos que hayas solicitado antes de que el reintegro haya sido procesado. Si ya has realizado una solicitud, no podrás hacer otra solicitud hasta que la anterior solicitud haya sido procesada</value>
+  </data>
+  <data name="HelpWCR1" xml:space="preserve">
+    <value>Las salas de chat Wallet son el punto de encuentro de los hablante nativos y los estudiantes. En estas salas los estudiantes pueden hacer llamadas con los hablantes nativos. Cada nativo tiene su tarifa, que será aplicada cuando se haga una videollamada. Durante la llamada, el coste de la llamada se irá actualizando cada minuto, por lo que los hablantes nativos solo pagarán por el número de minutos que hablen. En cada llamada, habrá un periodo de prueba de 3 minutos, en el que el estudiante podrá decidir si quiere continuar con la llamada antes de que comience a pagar.</value>
+  </data>
+  <data name="HelpWCR2" xml:space="preserve">
+    <value>Requisitos para entrar es las salas Wallet</value>
+  </data>
+  <data name="HelpWCR3" xml:space="preserve">
+    <value>Tanto los hablantes nativos como los estudiantes de idiomas tienen que cumpliar unos requisitos para poder entrar a las salas de chat Wallet.</value>
+  </data>
+  <data name="HelpWCR4" xml:space="preserve">
+    <value>Requisitos para los estudiantes de idiomas:</value>
+  </data>
+  <data name="HelpWCR5" xml:space="preserve">
+    <value>Chatear en las salas Wallet es gratuito. Sin embargo, si un estudiante desea acceder a las salas de Wallet tendrá que comprar créditos. Cuando se haya realizado un mínimo de una compra, podrán chatear  y hacer videollamadas con los hablantes nativos. Durante la llamada se aplicará la tarifa que cada nativo haya establecido para ese idioma.</value>
+  </data>
+  <data name="HelpWCR6" xml:space="preserve">
+    <value>Requisitos para los hablantes nativos:</value>
+  </data>
+  <data name="HelpWCR7" xml:space="preserve">
+    <value>Los hablantes nativos tienen que cumplir dos requisitos para entrar en una sala Wallet:</value>
+  </data>
+  <data name="HelpWCR8" xml:space="preserve">
+    <value>Cada sala de Wallet requiere tener un número de votos positivos mínimo. Para ganar votos positivos, los hablantes nativos pueden ir a las salas de Banco del Tiempo del idioma en el que se quieren ganar votos y hacer videollamadas con los estudiantes para ganar votos positivos. Si un nativo quiere reunir a varios estudiantes a la misma hora, puede crear quedadas. Más información en {0}</value>
+  </data>
+  <data name="HelpWCR9" xml:space="preserve">
+    <value>Rellenar la dirección de facturación: ve a My Wallet y rellenar tu dirección de facturación</value>
+  </data>
+  <data name="HelpWalletIntro1" xml:space="preserve">
+    <value>My Wallet es la aplicación donde puedes gestionar tus finanzas de Langademy. En este app podrás consultas tus movimientos, tu histórico de facturas y añadir o editar tu información de facturación. Langademy también permite la compras  y reintegros de créditos.</value>
+  </data>
+  <data name="HelpWalletIntro2" xml:space="preserve">
+    <value>Si has entrado en Langademy para aprender idiomas, ve a las salas de chat Wallet y revisa sus tarifas y reputaciones</value>
+  </data>
+  <data name="HelpWalletIntro3" xml:space="preserve">
+    <value>Si quieres ganar dinero mientras hablas con estudiantes de tu idioma nativo, tendrás que mejorar tu reputación en las salas de Banco del Tiempo antes de poder entrar en las salas de chat Wallet ({0})</value>
+  </data>
+  <data name="HelpHeaderTitle" xml:space="preserve">
+    <value>Ayuda de Langademy</value>
+  </data>
+  <data name="HelpIndexTitle" xml:space="preserve">
+    <value>¿Cómo podemos ayudarte?</value>
+  </data>
+  <data name="HelpNativesSent6" xml:space="preserve">
+    <value>Introducción a las salas y llamadas de Wallet</value>
+  </data>
+  <data name="HelpNativesSent7" xml:space="preserve">
+    <value>Cuando accedas por primera vez a una sala de Wallet, tendrás que especificar una tarifa para tus llamadas de esa sala. Cuando estés en la sala, podrás chatear con los estudiantes que encuentres allí o esperar a que alguien te llame. Si tienes una buena reputación y si das una buena impresión en el chat tendrás más posibilidades de recibir llamadas.</value>
+  </data>
+  <data name="HelpNativesSent8" xml:space="preserve">
+    <value>Cuando recibas una videollamada, se le aplicará la tarifa que hayas establecido y cuando acaba la llamada tu saldo será actualizado. Cada llamada tiene una comisión ({0}) que será cobrada de tu cuenta al final de mes</value>
+  </data>
+  <data name="HelpCheckPrices" xml:space="preserve">
+    <value>consulta los precios</value>
   </data>
 </root>

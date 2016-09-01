@@ -282,8 +282,11 @@
   <data name="WalletTileFillAddress" xml:space="preserve">
     <value>Tienes que rellenar tus datos de facturación</value>
   </data>
+  <data name="DeskStart" xml:space="preserve">
+    <value>Empezar</value>
+  </data>
   <data name="DeskWelcomeSent" xml:space="preserve">
-    <value>Hola! ¡Ya eres uno de nosotros! A continuación, te iremos mostrando distintos avisos para que veas como funciona Langademy en unos sencillos pasos. Cuando veas este icono, clica y te mostraremos su información.</value>
+    <value>¡Hola! ¡Ya eres uno de nosotros! A continuación, te iremos mostrando distintos avisos para que veas como funciona Langademy en unos sencillos pasos. Cuando veas este icono, clica y te mostraremos su información.</value>
   </data>
   <data name="DeskWelcomeTitle" xml:space="preserve">
     <value>¡Bienvenido a bordo!</value>
