@@ -484,6 +484,33 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The bank gateway reported that the purchasing process was not completed.
+        /// </summary>
+        public static string CCPurchaseErrorContent1 {
+            get {
+                return ResourceManager.GetString("CCPurchaseErrorContent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you still want to make a purchase start the process again..
+        /// </summary>
+        public static string CCPurchaseErrorContent2 {
+            get {
+                return ResourceManager.GetString("CCPurchaseErrorContent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you need help to complete the process, please contact our Customer Support by sending a message to {0}.
+        /// </summary>
+        public static string CCPurchaseErrorContent3 {
+            get {
+                return ResourceManager.GetString("CCPurchaseErrorContent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Amount of credits.
         /// </summary>
         public static string ConfirmOrderAmount {
@@ -993,6 +1020,51 @@ namespace Resources.Views.MyWallet {
         public static string OrderCompletedpurchase {
             get {
                 return ResourceManager.GetString("OrderCompletedpurchase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy credit purchase.
+        /// </summary>
+        public static string PayPalFailPurchase {
+            get {
+                return ResourceManager.GetString("PayPalFailPurchase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This can happen in case of communication or validation problems between the payment provider and Langademy. In this case the purchasing process has not been completed. Please try to purchase your credits again after a few minutes..
+        /// </summary>
+        public static string PPPurchaseErrorContent1 {
+            get {
+                return ResourceManager.GetString("PPPurchaseErrorContent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you have received a payment confirmation from Paypal, please check whether the credits have been transferred to your account (My Wallet)..
+        /// </summary>
+        public static string PPPurchaseErrorContent2 {
+            get {
+                return ResourceManager.GetString("PPPurchaseErrorContent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In the unlikely event that you have received a payment confirmation but credits haven’t been added to your account please contact our Customer Support by sending a message to {0}.
+        /// </summary>
+        public static string PPPurchaseErrorContent3 {
+            get {
+                return ResourceManager.GetString("PPPurchaseErrorContent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to An error has occurred during the purchasing process.
+        /// </summary>
+        public static string PurchaseError {
+            get {
+                return ResourceManager.GetString("PurchaseError", resourceCulture);
             }
         }
         
