@@ -149,7 +149,8 @@
   </data>
   <data name="INTimeBankingRooms" xml:space="preserve">
     <value>time banking rooms</value>
-    <comment>contexto: go to the time banking rooms</comment>
+    <comment>contexto: go to the time banking rooms
+</comment>
   </data>
   <data name="INTitle" xml:space="preserve">
     <value>Put a price to your conversations</value>

@@ -149,7 +149,8 @@
   </data>
   <data name="INTimeBankingRooms" xml:space="preserve">
     <value>denbora bankuko geletara</value>
-    <comment>contexto: go to the time banking rooms</comment>
+    <comment>contexto: go to the time banking rooms
+</comment>
   </data>
   <data name="INTitle" xml:space="preserve">
     <value>Jarri prezio bat zure konbertsazioei</value>

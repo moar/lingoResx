@@ -120,6 +120,9 @@
   <data name="Add" xml:space="preserve">
     <value>Gehitu</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>Atzera</value>
+  </data>
   <data name="Cancel" xml:space="preserve">
     <value>Utzi</value>
   </data>
@@ -129,6 +132,9 @@
   <data name="Confirm" xml:space="preserve">
     <value>OK</value>
   </data>
+  <data name="ConfirmConf" xml:space="preserve">
+    <value>Baieztatu</value>
+  </data>
   <data name="Delete" xml:space="preserve">
     <value>Ezabatu</value>
   </data>
@@ -137,6 +143,9 @@
   </data>
   <data name="Leave" xml:space="preserve">
     <value>Utzi</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Hurrengoa</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>OK</value>
