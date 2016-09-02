@@ -546,4 +546,28 @@
   <data name="MWEdit" xml:space="preserve">
     <value>Editar</value>
   </data>
+  <data name="CCPurchaseErrorContent1" xml:space="preserve">
+    <value>La pasarela de pago ha comunicado que el proceso de compra no ha sido completado</value>
+  </data>
+  <data name="CCPurchaseErrorContent2" xml:space="preserve">
+    <value>Si sigues deseando efectuar la compra vuelve a hacer la compra otra vez</value>
+  </data>
+  <data name="CCPurchaseErrorContent3" xml:space="preserve">
+    <value>Si necesitas ayuda para completar este proceso, ponte en contacto con el soporte al cliente de Langademy mandando un mensaje a {0}</value>
+  </data>
+  <data name="PayPalFailPurchase" xml:space="preserve">
+    <value>Compra de créditos de Langademy</value>
+  </data>
+  <data name="PPPurchaseErrorContent1" xml:space="preserve">
+    <value>Este error puede ocurrir en caso de que haya problemas de comunicación o validación entre Langademy y el proveedor de pagos. La compra no ha sido completada. Vuélvelo a intentar la compra en unos minutos.</value>
+  </data>
+  <data name="PPPurchaseErrorContent2" xml:space="preserve">
+    <value>Si has recibido una confirmación de pago de PayPal, revisa si los créditos han sido transferidos a tu cuenta (My Wallet)</value>
+  </data>
+  <data name="PPPurchaseErrorContent3" xml:space="preserve">
+    <value>En el extraño caso de que hayas recibido una confirmación de pago y no se hayan añadido los créditos a tu cuenta, contacta al servicio de soporte al cliente de Langademy en la dirección de correo {0}</value>
+  </data>
+  <data name="PurchaseError" xml:space="preserve">
+    <value>Ha ocurrido un error durante el proceso de compra</value>
+  </data>
 </root>
