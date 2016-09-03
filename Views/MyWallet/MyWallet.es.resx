@@ -570,4 +570,7 @@
   <data name="PurchaseError" xml:space="preserve">
     <value>Ha ocurrido un error durante el proceso de compra</value>
   </data>
+  <data name="MWRefund" xml:space="preserve">
+    <value>Reembolso de créditos</value>
+  </data>
 </root>

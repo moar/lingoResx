@@ -358,7 +358,7 @@
     <value>PayPal kontua</value>
   </data>
   <data name="CShopBillInfo" xml:space="preserve">
-    <value>Fakturazioa informazioa</value>
+    <value>Fakturazio informazioa</value>
   </data>
   <data name="CShopBills" xml:space="preserve">
     <value>Fakturak</value>
@@ -545,5 +545,32 @@
   </data>
   <data name="MWEdit" xml:space="preserve">
     <value>Editatu</value>
+  </data>
+  <data name="CCPurchaseErrorContent1" xml:space="preserve">
+    <value>Bankuko pasabideak erosketa ezin izan dela burutu adierazi du</value>
+  </data>
+  <data name="CCPurchaseErrorContent2" xml:space="preserve">
+    <value>Oraindik ere erosketa egitea nahi baduzu, egin ezazu erosketa hasieratik berriz ere</value>
+  </data>
+  <data name="CCPurchaseErrorContent3" xml:space="preserve">
+    <value>Prozesua bukatzeko laguntza behar baduzu, kontakta ezazu Langademyko bezeroen arreta zerbitzua, helbide honetara mezu elektroniko bat bidaliz:  {0}</value>
+  </data>
+  <data name="PayPalFailPurchase" xml:space="preserve">
+    <value>Langademyko kredituen erosketa</value>
+  </data>
+  <data name="PPPurchaseErrorContent1" xml:space="preserve">
+    <value>Mezu honen arrazoia bankuaren eta Langademyren arteko komunikazio arazoak izan daitezke. Mezu ikusten ari bazara zure erosketa ez da burutu. Mesedez, ahalegindu zaitez berriz kredituak erosten minutu batzuren buruan.</value>
+  </data>
+  <data name="PPPurchaseErrorContent2" xml:space="preserve">
+    <value>PayPaletik erosketa egin izanaren baieztapena jaso baduzu, begiratu zure My Wallet kontuan kredituak gehitu zaizkizula.</value>
+  </data>
+  <data name="PPPurchaseErrorContent3" xml:space="preserve">
+    <value>Erosketa burutu izanaren konfirmazioa jaso baduzu, baina kredituak zure kontuan gehitu ez badira, kontakta gaitzazu gure bezeroaren arreta zerbitzuan {0}-ra mezu bat bidaliz</value>
+  </data>
+  <data name="PurchaseError" xml:space="preserve">
+    <value>Akatsen bat gertatu da erosketa prozesua egiterakoan</value>
+  </data>
+  <data name="MWRefund" xml:space="preserve">
+    <value>Kredituen errenboltsoa</value>
   </data>
 </root>

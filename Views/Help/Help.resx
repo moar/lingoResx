@@ -229,7 +229,7 @@
     <value>If you don’t want to receive any calls, just set your state to busy</value>
   </data>
   <data name="HelpState4" xml:space="preserve">
-    <value>Time Banking rooms: These rooms have two states. With the first state, you can select if you want to receive calls from the Time Banking room of a specific language. The seconds state lets you switch on and off the automatic partner finder. If you disable de overall state of a language, the automatic partner finder will also be disabled.</value>
+    <value>Time Banking rooms: these rooms have two states. With the first state, you can select if you want to receive calls from the Time Banking room of a specific language. The seconds state lets you switch on and off the automatic partner finder. If you disable the overall state of a language, the automatic partner finder will also be disabled.</value>
   </data>
   <data name="HelpState5" xml:space="preserve">
     <value>Wallet rooms: Disable the rooms of the languages that you don’t want to receive calls.</value>
@@ -280,10 +280,10 @@
     <value>In order to understand how the available balance is calculated, several terms need to be explained:</value>
   </data>
   <data name="HelpWalletFees3" xml:space="preserve">
-    <value>Total Balance: It shows the total amount of credits before the 13% fee is applied to it.</value>
+    <value>Total Balance: it shows the total amount of credits before the 13% fee is applied to it.</value>
   </data>
   <data name="HelpWalletFees4" xml:space="preserve">
-    <value>Langademy fee: At the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either.</value>
+    <value>Langademy fee: at the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either.</value>
   </data>
   <data name="HelpWalletFees5" xml:space="preserve">
     <value>Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that have been requested won't be available to use.</value>
