@@ -934,6 +934,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Credit refund.
+        /// </summary>
+        public static string MWRefund {
+            get {
+                return ResourceManager.GetString("MWRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Region/County.
         /// </summary>
         public static string MWRegionCounty {
@@ -1042,7 +1051,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you have received a payment confirmation from Paypal, please check whether the credits have been transferred to your account (My Wallet)..
+        ///   Looks up a localized string similar to If you have received a payment confirmation from PayPal, please check whether the credits have been transferred to your account (My Wallet)..
         /// </summary>
         public static string PPPurchaseErrorContent2 {
             get {
