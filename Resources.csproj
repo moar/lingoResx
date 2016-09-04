@@ -798,7 +798,9 @@
     <EmbeddedResource Include="Views\MyWallet\MyWallet.es.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\MyWallet\MyWallet.eu.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\MyWallet\MyWallet.fr.resx" />
     <EmbeddedResource Include="Views\MyWallet\MyWallet.it.resx" />
     <EmbeddedResource Include="Views\MyWallet\MyWallet.resx">
