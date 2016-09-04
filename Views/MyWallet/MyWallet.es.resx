@@ -573,4 +573,10 @@
   <data name="MWRefund" xml:space="preserve">
     <value>Reembolso de créditos</value>
   </data>
+  <data name="MWNoTransactions" xml:space="preserve">
+    <value>No hay transacciones de Wallet durante este periodo</value>
+  </data>
+  <data name="MWPendingWithDrawReq" xml:space="preserve">
+    <value>Peticiones de reembolso pendientes</value>
+  </data>
 </root>

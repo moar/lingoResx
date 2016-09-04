@@ -573,4 +573,10 @@
   <data name="MWRefund" xml:space="preserve">
     <value>Kredituen errenboltsoa</value>
   </data>
+  <data name="MWNoTransactions" xml:space="preserve">
+    <value>Ez dago Walleteko mugimendurik epe honetan</value>
+  </data>
+  <data name="MWPendingWithDrawReq" xml:space="preserve">
+    <value>Ateratzeke dauden kredituen eskariak</value>
+  </data>
 </root>
