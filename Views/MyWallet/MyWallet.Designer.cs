@@ -871,6 +871,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to There are no Wallet transactions in this period.
+        /// </summary>
+        public static string MWNoTransactions {
+            get {
+                return ResourceManager.GetString("MWNoTransactions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Payment processed successfully.
         /// </summary>
         public static string MWOrderCompleteTitle {
@@ -912,6 +921,15 @@ namespace Resources.Views.MyWallet {
         public static string MWPayPaypal {
             get {
                 return ResourceManager.GetString("MWPayPaypal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pending withdrawal requests.
+        /// </summary>
+        public static string MWPendingWithDrawReq {
+            get {
+                return ResourceManager.GetString("MWPendingWithDrawReq", resourceCulture);
             }
         }
         
