@@ -151,6 +151,51 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Create a meetup.
+        /// </summary>
+        public static string CRMBCreateMeetup {
+            get {
+                return ResourceManager.GetString("CRMBCreateMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can&apos;t chat with people right now? Is there little activity in the room? No problem! Go to the meetup board and create a meetup on the date an hour you want!.
+        /// </summary>
+        public static string CRMBSentence1 {
+            get {
+                return ResourceManager.GetString("CRMBSentence1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you create a meetup, other users will now when you will be available or joining this room again to chat or make videocalls..
+        /// </summary>
+        public static string CRMBSentence2 {
+            get {
+                return ResourceManager.GetString("CRMBSentence2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you looking for someone?.
+        /// </summary>
+        public static string CRMBTripBodyTitle {
+            get {
+                return ResourceManager.GetString("CRMBTripBodyTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy Meetups.
+        /// </summary>
+        public static string CRMBTripTitle {
+            get {
+                return ResourceManager.GetString("CRMBTripTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Meetups.
         /// </summary>
         public static string CRMeetupsTab {
