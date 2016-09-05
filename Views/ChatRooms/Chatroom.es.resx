@@ -219,4 +219,19 @@
   <data name="CRCreateMeetup" xml:space="preserve">
     <value>Crear quedada</value>
   </data>
+  <data name="CRMBCreateMeetup" xml:space="preserve">
+    <value>Crea una quedada</value>
+  </data>
+  <data name="CRMBSentence1" xml:space="preserve">
+    <value>No has podido contactara con nadie? Hay poca actividad en la sala? No hay problema. Vete al tablón de quedadas y ¡crea una quedada en la fecha y hora que quieras!</value>
+  </data>
+  <data name="CRMBSentence2" xml:space="preserve">
+    <value>Si creas una quedada, los demás usuarios sabrán cuando estarás disponible unirte a esta sala para chatear o para hacer videollamadas</value>
+  </data>
+  <data name="CRMBTripBodyTitle" xml:space="preserve">
+    <value>¿Estás buscando a alguien?</value>
+  </data>
+  <data name="CRMBTripTitle" xml:space="preserve">
+    <value>Quedadas de Langademy</value>
+  </data>
 </root>

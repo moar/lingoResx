@@ -219,4 +219,19 @@
   <data name="CRCreateMeetup" xml:space="preserve">
     <value>Bilera bat sortu</value>
   </data>
+  <data name="CRMBCreateMeetup" xml:space="preserve">
+    <value>Sortu bilera bat</value>
+  </data>
+  <data name="CRMBSentence1" xml:space="preserve">
+    <value>Ezan izan al duzu inorekin kontakturik mantendu? Aktibitate gutxi al dago gelan? Ez dago arazorik. Joan bilera taulara eta sortu ezazu bilera bat zuk nau duzun egun eta orduan!</value>
+  </data>
+  <data name="CRMBSentence2" xml:space="preserve">
+    <value>Bilera bat sortzen baduzu, gainontzeko erabiltzaileek gela honetara txateatzeko edo bideo deiak egiteko noiz sartuko zaren jakingo dute</value>
+  </data>
+  <data name="CRMBTripBodyTitle" xml:space="preserve">
+    <value>Norbaiten bila al zabiltza?</value>
+  </data>
+  <data name="CRMBTripTitle" xml:space="preserve">
+    <value>Langademyko bilerak</value>
+  </data>
 </root>
