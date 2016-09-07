@@ -97,6 +97,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Apps.resx</DependentUpon>
     </Compile>
+    <Compile Include="Billing\Billing.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Billing.resx</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\Account\Account.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -368,6 +373,10 @@
     <EmbeddedResource Include="Apps\Apps.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Apps1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\Billing.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Billing.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Controllers\Account\Account.ca.resx" />
     <EmbeddedResource Include="Controllers\Account\Account.de.resx" />

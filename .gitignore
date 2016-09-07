@@ -2046,3 +2046,5 @@ obj/Release/TempPE/Views.IndexNatives.Index.Designer.cs.dll
 obj/Release/TempPE/Views.MyWallet.MyWallet.Designer.cs.dll
 obj/Release/TempPE/Views.Pricing.Index.Designer.cs.dll
 obj/Release/TempPE/Views.StudentIndex.Index.Designer.cs.dll
+obj/LocalDebug/Resources.Billing.Billing.resources
+obj/LocalDebug/TempPE/Billing.Billing.Designer.cs.dll
