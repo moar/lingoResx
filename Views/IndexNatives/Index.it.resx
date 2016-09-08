@@ -117,4 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="INBlock2B1Text" xml:space="preserve">
+    <value>Una volta che si ottiene abbastanza reputazione, entra nel Wallet chat room della tua lingua madre e inizia incontrare persone che vogliono imparare la tua lingua</value>
+  </data>
+  <data name="INBlock2B1Title" xml:space="preserve">
+    <value>Accedi alle Wallet chat Romms</value>
+  </data>
+  <data name="INBlock2B2Text" xml:space="preserve">
+    <value>Vai alla {0} ed effettua chiamate video con la gente. Guadagna un feedback positivo e la vostra reputazione migliorerà. Migliore è la reputazione più gente vorrà parlare con te!</value>
+  </data>
+  <data name="INBlock2B2Title" xml:space="preserve">
+    <value>Migliora la tua reputazione</value>
+  </data>
+  <data name="INBlock2B3Text" xml:space="preserve">
+    <value>Confronta i prezzi di altri madrelingua e fissa la tua tariffa</value>
+  </data>
+  <data name="INBlock2B3Title" xml:space="preserve">
+    <value>Sii competitivo </value>
+  </data>
+  <data name="INConditions" xml:space="preserve">
+    <value>Controlla i prezzi di Langademy</value>
+  </data>
+  <data name="INFacesPicture" xml:space="preserve">
+    <value>Cerca delle persone che vogliono imparare le lingue</value>
+  </data>
+  <data name="INJoin" xml:space="preserve">
+    <value>Registrati ora!</value>
+  </data>
+</root>

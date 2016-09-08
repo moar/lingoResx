@@ -127,7 +127,19 @@
   <data name="PricingLearners" xml:space="preserve">
     <value>Studenti</value>
   </data>
+  <data name="PricingNatives" xml:space="preserve">
+    <value>Madrelingua</value>
+  </data>
   <data name="PricingSignUp" xml:space="preserve">
     <value>Registrati</value>
+  </data>
+  <data name="PricingSubTitle" xml:space="preserve">
+    <value>Iscriviti oggi ed inizia a godere i servizi offerti per Langademy</value>
+  </data>
+  <data name="PricingTitle" xml:space="preserve">
+    <value>Prezzi</value>
+  </data>
+  <data name="PRow1Title" xml:space="preserve">
+    <value>Chiamate di voce e video della Banca del Tiempo</value>
   </data>
 </root>

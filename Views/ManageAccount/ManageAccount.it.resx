@@ -120,6 +120,9 @@
   <data name="CheckEmail" xml:space="preserve">
     <value>Controlla la tua e-mail per reimpostare la password</value>
   </data>
+  <data name="CheckEmailCreation" xml:space="preserve">
+    <value>Abbiamo inviato una e-mail a {0}. Controlla la tua e-mail per completare il processo di creazione della password</value>
+  </data>
   <data name="EmailLink" xml:space="preserve">
     <value>Collegamento e-mail</value>
   </data>
@@ -128,6 +131,12 @@
   </data>
   <data name="ForgotPass" xml:space="preserve">
     <value>Hai dimenticato la password?</value>
+  </data>
+  <data name="MAReturn" xml:space="preserve">
+    <value>Return</value>
+  </data>
+  <data name="PwCreationConfirm" xml:space="preserve">
+    <value>Conferma della creazione della password</value>
   </data>
   <data name="PwForgotConfirm" xml:space="preserve">
     <value>Recupero password di conferma</value>

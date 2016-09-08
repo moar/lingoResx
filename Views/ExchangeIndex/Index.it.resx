@@ -120,4 +120,22 @@
   <data name="EIBlock1Link" xml:space="preserve">
     <value>Leggi tutto</value>
   </data>
+  <data name="EIBlock1Text" xml:space="preserve">
+    <value>Diventa fluente in qualsiasi lingua con scambi linguistici on-line. Vai a Langademy's chat room, alla ricerca di madrelingua e pratica le tue lingue preferite. È possibile imparare lo spagnolo, tedesco, inglese, francese o qualsiasi altra lingua!</value>
+  </data>
+  <data name="EIBlock1Title" xml:space="preserve">
+    <value>Scambio di lingue</value>
+  </data>
+  <data name="EIBlock2B1Text" xml:space="preserve">
+    <value>Quali lingue parli? Qual è il tuo livello? Da dove sei? Quali sono i tuoi interessi? Carica la tua immagine del profilo e sarai pronto per praticare l'inglese, il francese o quella lingua che desideri imparare!</value>
+  </data>
+  <data name="EIBlock2B1Title" xml:space="preserve">
+    <value>Iscriviti e inizia a praticare lingue gratuitamente</value>
+  </data>
+  <data name="EIBlock2B2Text" xml:space="preserve">
+    <value>Il modo più semplice per incontrare nuovi compagni. Collega la fotocamera e micro ed entra nella stanza della lingua che vuoi praticare. Puoi chattare o fare chiamate-video con i madrelingua che incontri nelle chat room. Sii gentile!</value>
+  </data>
+  <data name="EIBlock2B2Title" xml:space="preserve">
+    <value>Prova lo scambio di lingue nelle chat rooms</value>
+  </data>
 </root>
