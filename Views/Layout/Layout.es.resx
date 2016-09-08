@@ -127,7 +127,7 @@
     <value>En el Tablón de quedadas puedes organizar quedadas para que el resto de usuarios sepan cuando estarás disponible, o puedes apuntarte a las quedadas que hayan organizado otros usuarios</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Langademy es una red social para aprender idiomas. Ofrece un espacio de intercambio de idiomas con nativos de todo el mundo para ayudar a la gente a mejorar su fluidez en un idioma.</value>
+    <value>Langademy es una red social para aprender idiomas. Ofrece un espacio donde nativos de todo el mundo se conectan con estudiantes de idiomas. Mejora la fluidez en un idioma manteniendo conversaciones con nativos. Estas conversaciones pueden ser e pago o se puede utilizar el tiempo como moneda de cambio mediante el intercambio de idiomas.</value>
   </data>
   <data name="DesktopDescription" xml:space="preserve">
     <value>Ésta es la página de inicio de Langademy. Desde aquí puedes navegar en todo Langademy, y su vez establecer tu estado e indicar a tus contactos en qué idiomas estás dispuesto a conversar. En el panel derecho puedes consultar tus notificaciones.</value>
@@ -154,7 +154,7 @@
     <value>Términos y Condiciones - Langademy</value>
   </data>
   <data name="MainTitle" xml:space="preserve">
-    <value>Aprende idiomas online mediante el intercambio de idiomas</value>
+    <value>Aprende idiomas online: haz intercambio de idiomas o paga por conversaciones con nativos</value>
   </data>
   <data name="MBTitle" xml:space="preserve">
     <value>Apúntate o crea quedadas para aprender idiomas con nativos - Langademy</value>
@@ -175,7 +175,7 @@
     <value>¡Hola!¡Soy {0} y quiero aprendes nuevos idiomas en Langademy!</value>
   </data>
   <data name="IndexExchangeDescription" xml:space="preserve">
-    <value>Langademy es una red social para aprender idiomas. Ofrece un espacio de intercambio de idiomas con nativos de todo el mundo para ayudar a la gente a que aprenda o adquiera fluidez en distintos idiomas</value>
+    <value>Langademy es una red social para aprender idiomas. Ofrece un espacio donde nativos de todo el mundo se conectan con estudiantes de idiomas. Mejora la fluidez en un idioma manteniendo conversaciones con nativos. Estas conversaciones pueden ser e pago o se puede utilizar el tiempo como moneda de cambio mediante el intercambio de idiomas.</value>
   </data>
   <data name="IndexExchangeTitle" xml:space="preserve">
     <value>Langademy - Intercambio de idiomas</value>

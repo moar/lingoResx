@@ -120,4 +120,13 @@
   <data name="BlogCategoryTitle" xml:space="preserve">
     <value>Articoli sulla categoria "{0}"</value>
   </data>
+  <data name="BlogSubtitle" xml:space="preserve">
+    <value>Leggi i nostri articoli su l'apprendimento delle lingue e il mondo che ci circonda</value>
+  </data>
+  <data name="BlogTagTitle" xml:space="preserve">
+    <value>Articoli con il tag {0}</value>
+  </data>
+  <data name="BlogTitle" xml:space="preserve">
+    <value>Articoli Langademy</value>
+  </data>
 </root>
