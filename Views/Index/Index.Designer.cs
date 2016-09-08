@@ -88,15 +88,6 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About.
-        /// </summary>
-        public static string IndAbout {
-            get {
-                return ResourceManager.GetString("IndAbout", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to If you don’t have time for language exchanges, don’t worry. At Langademy you will find native speakers with the best rates of the language market to practice languages when you want.
         /// </summary>
         public static string IndBlock2SubBlock1Text {

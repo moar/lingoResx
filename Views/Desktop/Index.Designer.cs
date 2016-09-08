@@ -124,15 +124,6 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About .
-        /// </summary>
-        public static string DeskAbout {
-            get {
-                return ResourceManager.GetString("DeskAbout", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Busy.
         /// </summary>
         public static string DeskBusy {

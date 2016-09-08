@@ -187,15 +187,6 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About Langademy.
-        /// </summary>
-        public static string LAbout {
-            get {
-                return ResourceManager.GetString("LAbout", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to In the Language Roulette you will meet new partners to practice the language you want to learn. Become fluent in a language while you meet new people!.
         /// </summary>
         public static string LRDescription {
