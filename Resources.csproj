@@ -749,6 +749,7 @@
     <EmbeddedResource Include="Views\Layout\Layout.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Layout.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.ca.resx" />
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.de.resx" />

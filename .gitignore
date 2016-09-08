@@ -2048,3 +2048,5 @@ obj/Release/TempPE/Views.Pricing.Index.Designer.cs.dll
 obj/Release/TempPE/Views.StudentIndex.Index.Designer.cs.dll
 obj/LocalDebug/Resources.Billing.Billing.resources
 obj/LocalDebug/TempPE/Billing.Billing.Designer.cs.dll
+obj/Release/Resources.Billing.Billing.resources
+obj/Release/TempPE/Billing.Billing.Designer.cs.dll

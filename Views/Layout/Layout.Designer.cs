@@ -97,7 +97,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers a language exchange space with natives all over the world for helping people to become fluent in foreign languages. .
+        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers an online space where natives all over the world are connected with language students. It provides two ways of trading with conversations: language exchanges and paid conversations. .
         /// </summary>
         public static string Description {
             get {
@@ -124,7 +124,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers a language exchange space with natives all over the world for helping people to become fluent in foreign languages..
+        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers an online space where natives all over the world are connected with language students. It provides two ways of trading with conversations: language exchanges and paid conversations..
         /// </summary>
         public static string IndexExchangeDescription {
             get {
@@ -241,7 +241,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn languages online via language exchange.
+        ///   Looks up a localized string similar to Learn languages online: language exchanges or paid conversations.
         /// </summary>
         public static string MainTitle {
             get {
