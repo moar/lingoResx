@@ -219,4 +219,10 @@
   <data name="RPWalletCall" xml:space="preserve">
     <value>Chiamata Wallet</value>
   </data>
+  <data name="TimeBankingRooms" xml:space="preserve">
+    <value>Stanze Banca del Tempo</value>
+  </data>
+  <data name="WalletRooms" xml:space="preserve">
+    <value>Wallet rooms</value>
+  </data>
 </root>

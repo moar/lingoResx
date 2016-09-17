@@ -174,4 +174,22 @@
   <data name="UserDescription" xml:space="preserve">
     <value>Ciao! Sono {0} e voglio imparare nuove lingue in Langademy!</value>
   </data>
+  <data name="IndexExchangeDescription" xml:space="preserve">
+    <value>Langademy è un social network per imparare le lingue. Offre un spazio dove i madrelingua da tutto il mondo si possono collegare con gli studenti di lingue.  Dove si può acquire  fluidità nella lingua conversando con gli madrelingua. </value>
+  </data>
+  <data name="IndexExchangeTitle" xml:space="preserve">
+    <value>Langademy - Scambio di lingue </value>
+  </data>
+  <data name="IndexNativesDescription" xml:space="preserve">
+    <value>Se ti piace parlare con la gente, ora è possibile guadagnare denaro, mantenendo le conversazioni nella tua lingua. Entra in chat e incontra persone che vogliono apprendere la tua lingua!</value>
+  </data>
+  <data name="IndexNativesTitle" xml:space="preserve">
+    <value>Langademy: guadagna soldi come un partner di conversazione</value>
+  </data>
+  <data name="IndexStudentsDescription" xml:space="preserve">
+    <value>Parla con un madrelingua e migliorare la fluidità! Hai due opzioni: si può fare scambi linguistici o pagare un madrelingua per conversare con te.</value>
+  </data>
+  <data name="IndexStudentsTitle" xml:space="preserve">
+    <value>Langademy: impara lingue</value>
+  </data>
 </root>

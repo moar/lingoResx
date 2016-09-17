@@ -159,4 +159,200 @@
   <data name="HelpChatRoom" xml:space="preserve">
     <value>Chat Rooms</value>
   </data>
+  <data name="WalletTitle" xml:space="preserve">
+    <value>Wallet</value>
+  </data>
+  <data name="HelpIndex" xml:space="preserve">
+    <value>Indice</value>
+  </data>
+  <data name="HelpGeneralTitle" xml:space="preserve">
+    <value>Come funziona Langademy?</value>
+  </data>
+  <data name="HelpGoToIndex" xml:space="preserve">
+    <value>Torna all'indice</value>
+  </data>
+  <data name="HelpLangademyStateTitle" xml:space="preserve">
+    <value>Status di Langademy</value>
+  </data>
+  <data name="HelpLearnersTitle" xml:space="preserve">
+    <value>Studenti: Introduzione</value>
+  </data>
+  <data name="HelpNativesFeeTitle" xml:space="preserve">
+    <value>Commissione degli madrelingua</value>
+  </data>
+  <data name="HelpNativesSent1" xml:space="preserve">
+    <value>Se vuoi parlare nella tua lingua, devi andare alla Wallet chat room della tua  lingua dove si trovano gli studenti con chi conversare</value>
+  </data>
+  <data name="HelpNativesSent2" xml:space="preserve">
+    <value>Ma prima dobbiamo rispondere a determinati requisiti:</value>
+  </data>
+  <data name="HelpNativesSent3" xml:space="preserve">
+    <value>Ogni Wallet chat room richiede un numero minimo di voti positivi. Per farli devi andare nelle stanze Banca del Tempo, parlare con le persone che vogliono imparare tua lingua e guadagnare un feedback positivo. Una volta che hai vinto il numero di voti necessari, è possibile entrare in quella stanza</value>
+  </data>
+  <data name="HelpNativesSent4" xml:space="preserve">
+    <value>Riempi i dati di fatturazione. Prima di entrare in una stanza,Wallet room, è necessario riempire il vostro indirizzo di fatturazione nel My Wallet -&gt; Informazioni per la fatturazione</value>
+  </data>
+  <data name="HelpNativesSent5" xml:space="preserve">
+    <value>Una volta approvato queste due esigenze, sei pronto per entrare nelle stanze Wallet</value>
+  </data>
+  <data name="HelpNativesTitle" xml:space="preserve">
+    <value>Madrelingua: Introduzione</value>
+  </data>
+  <data name="HelpTBIntroTitle" xml:space="preserve">
+    <value>Introduzione alla Banca del Tempo</value>
+  </data>
+  <data name="HelpTBRoomsTitle" xml:space="preserve">
+    <value>Chat rooms dalla Banca del Tempo</value>
+  </data>
+  <data name="HelpTBWorkTitle" xml:space="preserve">
+    <value>Come funziona la Banca del tempo?</value>
+  </data>
+  <data name="HelpWalletIntroTitle" xml:space="preserve">
+    <value>Introduzione al Wallet</value>
+  </data>
+  <data name="HelpWalletRoomsTitle" xml:space="preserve">
+    <value>Stanze di chat Wallet e videochiamate Wallet</value>
+  </data>
+  <data name="HelpWithdrawalTitle" xml:space="preserve">
+    <value>Ritiro di credito</value>
+  </data>
+  <data name="HelpRelatedArticles" xml:space="preserve">
+    <value>Articoli correlati</value>
+  </data>
+  <data name="HelpState1" xml:space="preserve">
+    <value>È possibile modificare il tuo stato,dalla tua home page. Clicca sul tuo avatar e il pannello di sinistra si aprirà.</value>
+  </data>
+  <data name="HelpState2" xml:space="preserve">
+    <value>Una volta lì, hai diverse opzioni di stato:</value>
+  </data>
+  <data name="HelpState3" xml:space="preserve">
+    <value>Se non vuoi ricevere chiamate, modifica il tuo stato a "occupato"</value>
+  </data>
+  <data name="HelpState4" xml:space="preserve">
+    <value>Stanze Banco del Tempo: Queste camere sono dotate di due stati. Con il primo stato, è possibile selezionare se si desidera ricevere le chiamate da Banca del Tempo per una lingua specifica. Il secondo stato permette di abilitare e disabilitare la ricerca automatica dei compagni. Se disabiliti lo stato generale anche verrà disabilitato il motore di ricerca automatico di compagni</value>
+  </data>
+  <data name="HelpState5" xml:space="preserve">
+    <value>Wallet rooms: disabilita le stanze delle lingue che non desideri ricevere chiamate</value>
+  </data>
+  <data name="HelpState6" xml:space="preserve">
+    <value>Motore di ricerca automatica di compagni </value>
+  </data>
+  <data name="HelpState7" xml:space="preserve">
+    <value>Langademy cercherà un partner che soddisfa le tue preferenze e sía disponibile a parlare con te. Quando viene trovato un partner visualizzeremo una notifica che chiede se si vuole parlare con il partner che ti abbiamo trovato</value>
+  </data>
+  <data name="HelpStudentIntro1" xml:space="preserve">
+    <value>Gli studenti di una lingua hanno due opzioni per quanto riguarda praticare la lingua: possono utilizzare il chat Wallet o le chatroom Banca del Tempo</value>
+  </data>
+  <data name="HelpStudentIntro2" xml:space="preserve">
+    <value>Nelle Wallet rooms, gli studenti pagano per avere una conversazione con un madrelingua. Nelle sale di Banca del Tempo, il tempo viene utilizzato come uno scambio. Guarda le sezioni {0} e {1} per ulteriori informazioni su questi due tipi di camere.</value>
+  </data>
+  <data name="HelpStudentIntro3" xml:space="preserve">
+    <value>Quando incontri un nuovo partner, puoi inviare una richiesta di connessione. Quando si è connessi, è possibile effettuare chiamate video tra i due, senza dover entrare nella stanza.</value>
+  </data>
+  <data name="HelpTBIntro1" xml:space="preserve">
+    <value>La Banca del Tempo offre un modo per imparare le lingue senza dover spendere il tuo denaro: il tempo che si utilizza per parlare la tua lingua madre con gli studenti ti verrà aggiunto al tuo conto Banca del Tempo. Guarda le regole della Banca del Tempo ({0}). </value>
+  </data>
+  <data name="HelpTBIntro2" xml:space="preserve">
+    <value>Se vuoi praticare una lingua, vai alle sale di Banca del Tempo, inizia a parlare con le persone che si trovano lì e effettua chiamate video con loro. Nella tua home page si vedrà il saldo del conto Banca del Tempo. Se si accede l'applicazione Banca del Tempo è possibile visualizzare la cronologia ei dettagli dei movimenti della Banca del Tempo</value>
+  </data>
+  <data name="HelpTBRooms1" xml:space="preserve">
+    <value>Le stanze della Banca del Tempo sono il luogo dove troverai partner per lo scambio di lingua. In queste camere è possibile chattare ed effettuare chiamate: Banca del Tempo (vedi {0}).</value>
+  </data>
+  <data name="HelpTBRooms2" xml:space="preserve">
+    <value>Puoi vedere che utenti sono online in questo riquadro di sinistra. Se fai clic sul utente, vedrete le diverse opzioni per ogni utente: è possibile aggiungere come compagni, effettuare chiamate video o per segnalare o bloccare se si è causato un problema</value>
+  </data>
+  <data name="HelpTBRooms3" xml:space="preserve">
+    <value>Se la stanza è vuota o non ce attività in quel momento, è possibile creare appuntamenti, così gli altri utenti sapranno quando sei disponibile per chattare o effettuare chiamate video. Anche c'e la possibilità di partecipare a gli appuntamenti che gli altri utenti hanno creato.</value>
+  </data>
+  <data name="HelpTBRooms4" xml:space="preserve">
+    <value>Creare appuntamenti nella Tabella di Appuntamenti</value>
+  </data>
+  <data name="HelpTBRooms5" xml:space="preserve">
+    <value>Inoltre, se sei registrato ad un appuntamento è possibile proporre nuovi argomenti per questo appuntamento o votare i temi che altri hanno proposto</value>
+  </data>
+  <data name="HelpTBRooms6" xml:space="preserve">
+    <value>È possibile accedere alla Tabella di Appuntamenti attraverso la tua home page o delle stanze di Banca del Tempo. Una volta che si accede alla tabella, si vedrà gli appuntamenti dei linguaggi che sono stati aggiunti al tuo profilo. Se vuoi creare un appuntamento, seleziona una lingua, la data e l'ora per l'appuntamento. Dopo aver creato l'appuntamento, puoi invitare i tuoi contatti Langademy a partecipare.</value>
+  </data>
+  <data name="HelpWalletFees1" xml:space="preserve">
+    <value> A i madrelingua li saranno trattenuti 13% (+ IVA)  dell'importo addebitato agli studenti. Il saldo verrà aggiornato quando la chiamata viene terminata.
+</value>
+  </data>
+  <data name="HelpWalletFees2" xml:space="preserve">
+    <value>Per capire come il saldo disponibile è calcolato, devono essere presi in considerazione i seguenti termini:</value>
+  </data>
+  <data name="HelpWalletFees3" xml:space="preserve">
+    <value>Totale saldo: visualizza il numero totale di crediti senza  la commissione del 13% (non applicata ancora)</value>
+  </data>
+  <data name="HelpWalletFees4" xml:space="preserve">
+    <value>Commissione Langademy: alla fine del mese Langademy caricherà il 13% per i colloqui che hanno mantenuto i madrelingua. Questa commissione si rifletterà nel prossimo numero della fattura. La commissione non sarà addebitata fino a quando viene emessa la fattura,</value>
+  </data>
+  <data name="HelpWalletFees5" xml:space="preserve">
+    <value>Richieste in attesa di ritiro: quando viene effettuata una richiesta,la quantità di crediti che sono stati richiesti non sarà disponibile per utilizzare</value>
+  </data>
+  <data name="HelpWalletFees6" xml:space="preserve">
+    <value>Saldo disponibile: vedendo i concetti spiegati, questo è il calcolo del saldo disponibile:</value>
+  </data>
+  <data name="HelpWalletFees7" xml:space="preserve">
+    <value>Saldo disponibile = saldo totale - Commissione Langademy - numero di crediti richiesti per il ritiro</value>
+  </data>
+  <data name="HelpWalletWithdrawal1" xml:space="preserve">
+    <value>Il ritiro dei crediti può essere ottenuto in My Wallet-&gt; Rimborsi</value>
+  </data>
+  <data name="HelpWalletWithdrawal2" xml:space="preserve">
+    <value>I remborsi sono gestite ogni 15 giorni. Se desideri, è possibile modificare il numero di crediti che hai richiesto prima che il rimborso è stato elaborato. Se avete già fatto una richiesta, non è possibile effettuare una nuova richiesta fino a quando la domanda precedente è stata elaborata</value>
+  </data>
+  <data name="HelpWCR1" xml:space="preserve">
+    <value>Le stanze chat Wallet room sono il punto d'incontro per i madrelingua e gli studenti. In queste stanze gli studenti possono effettuare chiamate con madrelingua. Ogni madrelingua ha una tariffa che verrà applicata quando una chiamata video è fatta. Durante la chiamata, il costo della chiamata sarà aggiornata ogni minuto, in modo che i madrelingua pagheranno solo per il numero di minuti parlati. In ogni chiamata, ci sarà un periodo di prova di 3 minuti, in cui lo studente può decidere se continuare la chiamata prima che inizi a pagare.</value>
+  </data>
+  <data name="HelpWCR2" xml:space="preserve">
+    <value>Requisiti per accedere alle Wallet Rooms</value>
+  </data>
+  <data name="HelpWCR3" xml:space="preserve">
+    <value>Sia i madrelingua come gli studenti di lingue devono soddisfare determinati requisiti per poter entrare chat room Wallet.</value>
+  </data>
+  <data name="HelpWCR4" xml:space="preserve">
+    <value>Requisiti per gli studenti di lingue:</value>
+  </data>
+  <data name="HelpWCR5" xml:space="preserve">
+    <value>Chattare nelle Wallet rooms è gratuito. Invece, se uno studente vuole accedere alle stanze Wallet rooms dovrà acquistare crediti. Dopo aver completato un minimo di acquisto, possono chattare ed effettuare chiamate video con madrelingua. Durante la chiamata, la tariffa che è stata specificata dal madrelingua, sarà applicata alla chiamata</value>
+  </data>
+  <data name="HelpWCR6" xml:space="preserve">
+    <value>Requisiti per i madrelingua:</value>
+  </data>
+  <data name="HelpWCR7" xml:space="preserve">
+    <value>I madrelingua devono soddisfare due requisiti per entrare in una Wallet room:</value>
+  </data>
+  <data name="HelpWCR8" xml:space="preserve">
+    <value>Ogni stanza Wallet richiede un numero minimo di voti positivi. Per guadagnare voti positivi, i madrelingua possono andare alla Banca del Tempo nella lingua in cui si vuole vincere voti e effettuare chiamate video con gli studenti per guadagnare un feedback positivo. Se un madrelingua vuole riunire diversi studenti allo stesso tempo, è possibile creare degli appuntamenti. Maggiori informazioni sul {0}</value>
+  </data>
+  <data name="HelpWCR9" xml:space="preserve">
+    <value>Riempi l'indirizzo di fatturazione: Vai a my Wallet e riempi il tuo indirizzo di fatturazione</value>
+  </data>
+  <data name="HelpWalletIntro1" xml:space="preserve">
+    <value>My Wallet è l'applicazione in cui è possibile gestire le tue finanze Langademy. Questa applicazione può controllare i tuoi movimenti, la tua cronologia di fatture e aggiungere o modificare le informazioni di fatturazione. Langademy permette anche gli acquisti di credito.</value>
+  </data>
+  <data name="HelpWalletIntro2" xml:space="preserve">
+    <value>Se vai su Langademy per imparare lingue, andare a chat room Wallet e controllare i loro prezzi e reputazione</value>
+  </data>
+  <data name="HelpWalletIntro3" xml:space="preserve">
+    <value>Se vuoi fare soldi mentre parli con gli studenti nella tua lingua madre,bisogna migliorare la tua reputazione nelle sale della Banca del Tempo prima di poter entrare nelle Wallet chat room ({0})</value>
+  </data>
+  <data name="HelpHeaderTitle" xml:space="preserve">
+    <value>Centro assistenza di Langademy</value>
+  </data>
+  <data name="HelpIndexTitle" xml:space="preserve">
+    <value>Come possiamo aiutarti?</value>
+  </data>
+  <data name="HelpNativesSent6" xml:space="preserve">
+    <value>Introduzione alle stanze e chiamate Wallet</value>
+  </data>
+  <data name="HelpNativesSent7" xml:space="preserve">
+    <value>Al primo accesso a una  Wallet room, è necessario specificare un tasso per le chiamate da quella stanza. Quando sei nella stanza, è possibile chattare con gli studenti che lì trovarai o aspetti che qualcuno ti chiami. Se hai una buona reputazione e se dai una buona impressione nella chat, avrai più possibilità di ricevere chiamate.</value>
+  </data>
+  <data name="HelpNativesSent8" xml:space="preserve">
+    <value>Quando ricevi una chiamata video, si applicherà il tasso impostato e al termine della chiamata il saldo verrà aggiornato. Ogni chiamata ha una commissione ({0}) che verrà addebitato sul tuo conto, alla fine del mese.</value>
+  </data>
+  <data name="HelpCheckPrices" xml:space="preserve">
+    <value>controlla i prezzi</value>
+  </data>
 </root>

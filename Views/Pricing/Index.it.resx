@@ -142,4 +142,16 @@
   <data name="PRow1Title" xml:space="preserve">
     <value>Chiamate di voce e video della Banca del Tiempo</value>
   </data>
+  <data name="PRow2Title" xml:space="preserve">
+    <value>Chiamate di voce e video Wallet</value>
+  </data>
+  <data name="PRow3Title" xml:space="preserve">
+    <value>Acquisto di crediti</value>
+  </data>
+  <data name="PRow4Title" xml:space="preserve">
+    <value>Ritiro di credito</value>
+  </data>
+  <data name="PRow5Title" xml:space="preserve">
+    <value>Messaggistica nelle chat rooms</value>
+  </data>
 </root>

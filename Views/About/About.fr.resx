@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
+  <!--Microsoft ResX Schema 
     
     Version 2.0
     
@@ -57,8 +56,69 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
+            : and then encoded with base64 encoding.-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -117,91 +177,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccNotifications" xml:space="preserve">
-    <value>Notifiche</value>
-  </data>
-  <data name="AccPrivacy" xml:space="preserve">
-    <value>Privacy</value>
-  </data>
-  <data name="Account" xml:space="preserve">
-    <value>Conto</value>
-  </data>
-  <data name="AccAnonymousReq" xml:space="preserve">
-    <value>Consenti solo richieste di contatto da parte di persone con cui avete parlato</value>
-  </data>
-  <data name="Accounts" xml:space="preserve">
-    <value>Conti</value>
-  </data>
-  <data name="AccNoSet" xml:space="preserve">
-    <value>No</value>
-  </data>
-  <data name="AccSettings" xml:space="preserve">
-    <value>Impostazioni</value>
-  </data>
-  <data name="AccPrivacySettings" xml:space="preserve">
-    <value>Impostazioni della privacy</value>
-  </data>
-  <data name="AddLinkedLogin" xml:space="preserve">
-    <value>Collega il nuovo account</value>
-  </data>
-  <data name="AccYesSet" xml:space="preserve">
-    <value>Sì</value>
-  </data>
-  <data name="Blocking" xml:space="preserve">
-    <value>Utenti bloccati</value>
-  </data>
-  <data name="AccNoBlocked" xml:space="preserve">
-    <value>Non hai bloccato nessun utente</value>
-  </data>
-  <data name="ChangePassword" xml:space="preserve">
-    <value>Modifica password</value>
-  </data>
-  <data name="ConfirmNewPassword" xml:space="preserve">
-    <value>Conferma la nuova password</value>
-  </data>
-  <data name="LangademyLanguage" xml:space="preserve">
-    <value> Lingua Langademy</value>
-  </data>
-  <data name="NewPassword" xml:space="preserve">
-    <value>Nuova password</value>
-  </data>
-  <data name="OldPassword" xml:space="preserve">
-    <value>Vecchia Password</value>
-  </data>
-  <data name="SelectLanguage" xml:space="preserve">
-    <value>Seleziona la lingua</value>
-  </data>
-  <data name="SocialNetworks" xml:space="preserve">
-    <value>Reti sociali</value>
-  </data>
-  <data name="AccLinkAccounts" xml:space="preserve">
-    <value>Collega account</value>
-  </data>
-  <data name="AccLinkedAccounts" xml:space="preserve">
-    <value>Account collegati</value>
-  </data>
-  <data name="AccNoSocialAcc" xml:space="preserve">
-    <value>Nessun account collegato nelle reti sociali</value>
-  </data>
-  <data name="AccUnblock" xml:space="preserve">
-    <value>Sbloccare</value>
-  </data>
-  <data name="AccDeactivate" xml:space="preserve">
-    <value>Disattivare il accounto</value>
-  </data>
-  <data name="AccDeactivateWarning" xml:space="preserve">
-    <value>Se si disattiva l'account, il tuo profilo Langademy sarà anche disattivato. I tuoi dati e l'attività non saranno visibili, ma alcune informazioni possono essere ancora visibile agli altri: ad esempio il tuo nome, i messaggi inviati o dati sulle conversazioni che hai tenuto in Langademy.</value>
-  </data>
-  <data name="AccSecurity" xml:space="preserve">
-    <value>Sicurezza</value>
-  </data>
-  <data name="AMNoPw" xml:space="preserve">
-    <value>Non si dispone di una password per questo account</value>
-  </data>
-  <data name="AMNoPwCreate" xml:space="preserve">
-    <value>Creare</value>
-  </data>
-  <data name="AMNoPwTitle" xml:space="preserve">
-    <value>Non hai ancora creato una password per l'account. Crea una password per l'account più sicuro</value>
-  </data>
-</root>
+  </root>

@@ -355,4 +355,10 @@
   <data name="ATSelectSubCategories" xml:space="preserve">
     <value>Seleziona le sottocategorie</value>
   </data>
+  <data name="MBNoMeetups" xml:space="preserve">
+    <value>Partecipa a un appuntamento o crea uno di nuovo!</value>
+  </data>
+  <data name="MBNoMeetupsScheduled" xml:space="preserve">
+    <value>Non si sono organizzati appuntamenti</value>
+  </data>
 </root>

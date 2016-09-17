@@ -138,4 +138,49 @@
   <data name="EIBlock2B2Title" xml:space="preserve">
     <value>Prova lo scambio di lingue nelle chat rooms</value>
   </data>
+  <data name="EIBlock2B3Text" xml:space="preserve">
+    <value>Dai il tuo voto nel suo profilo! Invia una richiesta di contatto e una volta lui accetti potreste tenere video chiamate private senza dover inserire nel chat room</value>
+  </data>
+  <data name="EIBlock2B3Title" xml:space="preserve">
+    <value>Ti è piaciuto parlare con il tuo partner?</value>
+  </data>
+  <data name="EIBlock3B1Text1" xml:space="preserve">
+    <value>Il tempo che hai a parlare con madrelingua è lo stesso tempo che hai utilizzato per aiutare altri persone che vogliono parlare la tua lingua madre</value>
+  </data>
+  <data name="EIBlock3B1Text2" xml:space="preserve">
+    <value>Funziona come un tandem, ma tu sei quello che decide la gente, l'orario e la lingua che si vuole parlare</value>
+  </data>
+  <data name="EIBlock3B1Text3" xml:space="preserve">
+    <value>Controlla il tuo saldo di tempo per sapere se è necessario parlare la tua lingua madre. Leggi le regole della banca del tempo per conoscere quando ti aggiungono o tolgono tempo dal tuo account. Nel tuo stato i tuoi contatti sapranno si sei disponibili per avviare una videochiamata</value>
+  </data>
+  <data name="EIBlock3B1Title" xml:space="preserve">
+    <value>Banca del Tempo</value>
+  </data>
+  <data name="EIMBPictureAlt" xml:space="preserve">
+    <value>Crea appuntamenti per lo scambio di conversazioni nella tabella di appuntamenti</value>
+  </data>
+  <data name="EIMeetingBoard1" xml:space="preserve">
+    <value>Organizza appuntamenti nella Tabella di Appuntamenti Langademy</value>
+  </data>
+  <data name="EIMeetingBoard3" xml:space="preserve">
+    <value>Quando avrai il tempo di parlare? Contribuisci alla comunità di scambio linguistico organizzando appuntamenti i giorni in cui sarai nelle chat rom. Farlo con un po 'di anticipo, in modo che le persone abbiano il tempo di partecipare</value>
+  </data>
+  <data name="EIMeetingBoard4" xml:space="preserve">
+    <value>Se qualcun altro ha organizzato un appuntamento si può farne parte. E 'un solo click! Se ti iscrivi al appuntamento potrai proporre e votare su argomenti da discutere.</value>
+  </data>
+  <data name="EIMeetingBoard5" xml:space="preserve">
+    <value>Potrai anche condividere il link dell'appuntamento sui social network in modo che più persone possono unirsi al appuntamento. Più siamo meglio :-)</value>
+  </data>
+  <data name="EINextMeetups" xml:space="preserve">
+    <value>Prossimi appuntamenti  per praticare le lingue</value>
+  </data>
+  <data name="EIParticipants" xml:space="preserve">
+    <value>Partecipanti</value>
+  </data>
+  <data name="EISearchPartners" xml:space="preserve">
+    <value>Cerca compagni di scambio lingue</value>
+  </data>
+  <data name="EITitle" xml:space="preserve">
+    <value>La tua comunità online di scambio di lingua </value>
+  </data>
 </root>

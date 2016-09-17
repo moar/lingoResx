@@ -241,10 +241,10 @@
     <value>Langademy te buscará un compañero que cumpla tus preferencias y que esté disponible para conversar contigo. Cuanto se encuentré un compañero, te mostraremos una notificación preguntándote si quieres conversar con el compañero que te hemos encontrado</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
-    <value>Los estudiantes de un idioma tienes dos opciones a la hora de practicar el idioma: pueden usar las salas de chat de Wallet o las sala de chat de Banco del Tiempo</value>
+    <value>Los estudiantes de un idioma tienen dos opciones a la hora de practicar el idioma: pueden usar las salas de chat de Wallet o las sala de chat de Banco del Tiempo</value>
   </data>
   <data name="HelpStudentIntro2" xml:space="preserve">
-    <value>En las salas Wallet, los estudiantes pagan para mantener una conversación con un nativo. En las salas de Banco del Tiempo, el tiempo se usa como moneda de cambio. Mira las secciones {0} y {1} para más información sobre estos dos tipos de salas.</value>
+    <value>En las salas Wallet, los estudiantes pagan para mantener una conversación con un nativo. En las salas de Banco del Tiempo, el tiempo se usa como moneda de cambio. Mira las secciones {0} y {1} para más información sobre estos dos tipos de salas.</value>
   </data>
   <data name="HelpStudentIntro3" xml:space="preserve">
     <value>Cuando conozcas algún compañero nuevo en una sala, puedes mandarle una solicitud de conexión. Cuando estéis conectados, podréis hacer videollamadas entre los dos sin tener que entrar a las sala.</value>
@@ -271,7 +271,7 @@
     <value>Ademas, si estás apuntado a una quedada puedes proponer nuevos temas para esa quedada o votar los temas que otros usuarios han propuesto</value>
   </data>
   <data name="HelpTBRooms6" xml:space="preserve">
-    <value>Puedes acceder al tablón de quedadas a través de tu página de inicio o desde las salas de Banco del Tiempo. Una vez que accedas al tabón, podrás ver las quedadas de los idiomas que tienes añadidos en tu perfil. Si quieres crear una quedada, selecciona un idioma, fecha y una hora para la quedada. Cuando hayas creado la quedada, puedes invitar a tus contactos de Langademy a que se unan a ella.</value>
+    <value>Puedes acceder al tablón de quedadas a través de tu página de inicio o desde las salas de Banco del Tiempo. Una vez que accedas al tablón, podrás ver las quedadas de los idiomas que tienes añadidos en tu perfil. Si quieres crear una quedada, selecciona un idioma, fecha y una hora para la quedada. Cuando hayas creado la quedada, puedes invitar a tus contactos de Langademy a que se unan a ella.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
     <value>A los hablantes nativos se les retendrá el 13% (+ IVA) de la cantidad que se le haya cobrado al estudiante. El saldo será actualizado cuando la llamada haya finalizado.</value>
@@ -304,10 +304,10 @@
     <value>Las salas de chat Wallet son el punto de encuentro de los hablante nativos y los estudiantes. En estas salas los estudiantes pueden hacer llamadas con los hablantes nativos. Cada nativo tiene su tarifa, que será aplicada cuando se haga una videollamada. Durante la llamada, el coste de la llamada se irá actualizando cada minuto, por lo que los hablantes nativos solo pagarán por el número de minutos que hablen. En cada llamada, habrá un periodo de prueba de 3 minutos, en el que el estudiante podrá decidir si quiere continuar con la llamada antes de que comience a pagar.</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
-    <value>Requisitos para entrar es las salas Wallet</value>
+    <value>Requisitos para entrar en las salas Wallet</value>
   </data>
   <data name="HelpWCR3" xml:space="preserve">
-    <value>Tanto los hablantes nativos como los estudiantes de idiomas tienen que cumpliar unos requisitos para poder entrar a las salas de chat Wallet.</value>
+    <value>Tanto los hablantes nativos como los estudiantes de idiomas tienen que cumplir unos requisitos para poder entrar a las salas de chat Wallet.</value>
   </data>
   <data name="HelpWCR4" xml:space="preserve">
     <value>Requisitos para los estudiantes de idiomas:</value>
@@ -325,7 +325,7 @@
     <value>Cada sala de Wallet requiere tener un número de votos positivos mínimo. Para ganar votos positivos, los hablantes nativos pueden ir a las salas de Banco del Tiempo del idioma en el que se quieren ganar votos y hacer videollamadas con los estudiantes para ganar votos positivos. Si un nativo quiere reunir a varios estudiantes a la misma hora, puede crear quedadas. Más información en {0}</value>
   </data>
   <data name="HelpWCR9" xml:space="preserve">
-    <value>Rellenar la dirección de facturación: ve a My Wallet y rellenar tu dirección de facturación</value>
+    <value>Rellenar la dirección de facturación: ve a My Wallet y rellena tu dirección de facturación</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
     <value>My Wallet es la aplicación donde puedes gestionar tus finanzas de Langademy. En este app podrás consultas tus movimientos, tu histórico de facturas y añadir o editar tu información de facturación. Langademy también permite la compras  y reintegros de créditos.</value>

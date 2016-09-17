@@ -126,9 +126,6 @@
   <data name="FollowUs" xml:space="preserve">
     <value>¡Síguenos!</value>
   </data>
-  <data name="IndAbout" xml:space="preserve">
-    <value>Acerca de Langademy</value>
-  </data>
   <data name="IndPrivacy" xml:space="preserve">
     <value>Privacidad</value>
   </data>
@@ -223,13 +220,13 @@
     <value>Practica el idioma que quieras, cuando quieras</value>
   </data>
   <data name="IndBlock4Block3Text" xml:space="preserve">
-    <value>Els diners no és necessari per poder aprendre un idioma en Langademy. 'El banc del temps al rescat! Parla amb els altres en la teva llengua materna, i nosaltres et donarem el temps que hagis emprat perquè practiques altres idiomes</value>
+    <value>El dinero no es necesario para poder aprender un idioma en Langademy. El Banco del Tiempo al rescate! Habla con los demás en tu lengua materna, y nosotros te daremos el tiempo que hayas empleado para practicas otros idiomas</value>
   </data>
   <data name="IndBlock4Block3Title" xml:space="preserve">
     <value>Aprende idiomas gratis</value>
   </data>
   <data name="IndBlock4Text1" xml:space="preserve">
-    <value>Este es tu sitios si quieres practicar idiomas gratuitamente. Encuentra compañeros de intercambio y mejora tu idioma mientras haces videollamadas o escribes a otros nativos</value>
+    <value>Este es tu sitio si quieres practicar idiomas gratuitamente. Encuentra compañeros de intercambio y mejora tu idioma mientras haces videollamadas o escribes a otros nativos</value>
   </data>
   <data name="IndBlock4Title" xml:space="preserve">
     <value>Intercambio de idiomas</value>

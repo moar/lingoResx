@@ -372,6 +372,9 @@
   <data name="CShopTransactions" xml:space="preserve">
     <value>Operazione</value>
   </data>
+  <data name="MWPaypalInfo" xml:space="preserve">
+    <value>Conferma l'ordine e sarai reindirizzato a PayPal per completare il processo</value>
+  </data>
   <data name="MWRedsysInfo" xml:space="preserve">
     <value>Clic su Conferma e sarai reindirizzato al gateway di pagamento della banca per completare il processo</value>
   </data>
@@ -414,6 +417,9 @@
   <data name="ReqCashoutNewBal" xml:space="preserve">
     <value>Saldo attuale</value>
   </data>
+  <data name="ReqCashoutNote" xml:space="preserve">
+    <value>Nota: le richieste di rimborsis vengono elaborate una volta alla settimana. È possibile seguie lo stato della tua richiesta al Cash Out -&gt; registro attività</value>
+  </data>
   <data name="ReqCashoutPaypalAccount" xml:space="preserve">
     <value>Conto PayPal</value>
   </data>
@@ -428,5 +434,65 @@
   </data>
   <data name="MWAvailableBalance" xml:space="preserve">
     <value>SALDO DISPONIBILE</value>
+  </data>
+  <data name="MWMoreInfo" xml:space="preserve">
+    <value>Più info.</value>
+  </data>
+  <data name="MWProvicionBalance" xml:space="preserve">
+    <value>PROSSIMA FATTURA </value>
+  </data>
+  <data name="MWTotalBalance" xml:space="preserve">
+    <value>SALDO TOTALE</value>
+  </data>
+  <data name="MWMovementInfo" xml:space="preserve">
+    <value>Alla fine del mese Langademy caricherà una commissione per i colloqui mantenuti come madrelingua. Vedrai la commissione riflessa nella fattura successiva. Non si potrà togliere la commissione dal tuo conto fino a quando la prossima fattura sia emessa da noi, ma non ti sarà possibile utilizzare il saldo mantenuto per altri acquisti. Inoltre, se hai richiesto un rimborso, l'importo richiesto non può essere usato per fare acquisti.</value>
+  </data>
+  <data name="CashoutCreatePW" xml:space="preserve">
+    <value>Creare</value>
+  </data>
+  <data name="CashoutCreatePWSent" xml:space="preserve">
+    <value>Non disponi di un account locale. È necessario creare una password per l'account, se vuoi modificare i dati di fatturazione</value>
+  </data>
+  <data name="CashOutPanAmount" xml:space="preserve">
+    <value>Quantità</value>
+  </data>
+  <data name="CashOutPanDate" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="CashOutPanNo" xml:space="preserve">
+    <value>Num.</value>
+  </data>
+  <data name="CashOutPanStatus" xml:space="preserve">
+    <value>Stato</value>
+  </data>
+  <data name="ReqCashoutMin" xml:space="preserve">
+    <value>Minimo</value>
+  </data>
+  <data name="BillingMovementConcept" xml:space="preserve">
+    <value>Fattura: {0} - {1}</value>
+  </data>
+  <data name="UpdReqCashChangedAfter" xml:space="preserve">
+    <value>Hai cambiato il tuo conto PayPal dopo aver chiesto un rimborso</value>
+  </data>
+  <data name="UpdReqCashChangePaypalAcc" xml:space="preserve">
+    <value>Se vuoi cambiare il conto PayPal alla quale Langademy ti trasferirà il denaro, è necessario innanzitutto collegare un account nuova a Langademy. Vai a {0}. Una volta collegato il tuo account, è possibile tornare a questa pagina e aggiornare i dati.</value>
+  </data>
+  <data name="UpdReqCashHere" xml:space="preserve">
+    <value>qui</value>
+  </data>
+  <data name="UpdReqCashMaxWithdrawal" xml:space="preserve">
+    <value>Importo massimo da rimborsare</value>
+  </data>
+  <data name="UpdReqCashNoPaypal" xml:space="preserve">
+    <value>Non disponi di un conto PayPal collegato a Langademy</value>
+  </data>
+  <data name="UpdReqCashRequested" xml:space="preserve">
+    <value>Hai richiesto un rimborso in {0}. È possibile cancellare o aggiornare la richiesta prima che venga accettata </value>
+  </data>
+  <data name="UpdReqCashSelectTransAccount" xml:space="preserve">
+    <value>Prego seleziona l'account in cui si desidera, Langademy, trasferisca i soldi </value>
+  </data>
+  <data name="MWEdit" xml:space="preserve">
+    <value>Modifica</value>
   </data>
 </root>

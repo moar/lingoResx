@@ -132,9 +132,6 @@
   <data name="AddThumbnail" xml:space="preserve">
     <value>Añade tu foto</value>
   </data>
-  <data name="DeskAbout" xml:space="preserve">
-    <value>Acerca de Langademy</value>
-  </data>
   <data name="DeskBusy" xml:space="preserve">
     <value>Ocupado</value>
   </data>

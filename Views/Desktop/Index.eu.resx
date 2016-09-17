@@ -132,9 +132,6 @@
   <data name="AddThumbnail" xml:space="preserve">
     <value>Gehitu zure argazkia</value>
   </data>
-  <data name="DeskAbout" xml:space="preserve">
-    <value>Langademyri buruz</value>
-  </data>
   <data name="DeskBusy" xml:space="preserve">
     <value>Lanpetuta</value>
   </data>

@@ -132,9 +132,6 @@
   <data name="AddThumbnail" xml:space="preserve">
     <value>Afegeix la teva foto</value>
   </data>
-  <data name="DeskAbout" xml:space="preserve">
-    <value>Sobre Langademy</value>
-  </data>
   <data name="DeskBusy" xml:space="preserve">
     <value>Ocupat</value>
   </data>
@@ -281,5 +278,14 @@
   </data>
   <data name="WalletTileFillAddress" xml:space="preserve">
     <value>Has d'omplir les dades de facturació</value>
+  </data>
+  <data name="DeskStart" xml:space="preserve">
+    <value>Començar </value>
+  </data>
+  <data name="DeskWelcomeSent" xml:space="preserve">
+    <value>Hola! Ja ets un de nosaltres! A continuació, t'anirem mostrant diferents avisos perquè vegis com funciona Langademy en uns senzills passos. Quan vegis aquesta icona, clica i et mostrarem la seva informació.</value>
+  </data>
+  <data name="DeskWelcomeTitle" xml:space="preserve">
+    <value>Benvingut a bord!</value>
   </data>
 </root>

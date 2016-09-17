@@ -141,4 +141,43 @@
   <data name="ISBlock3B1Text" xml:space="preserve">
     <value>I soldi non son un prerequisito per imparare lingue: condividere il tuo tempo e la conoscenza è sufficiente. Langademy ti offre la Banca del Tempo: il tempo utilizzato per chattare nella tua lingua madre con gli altri lo puoi spendere per imparare altre lingue.</value>
   </data>
+  <data name="ISBlock3B1Title" xml:space="preserve">
+    <value>Utilizza il tempo come merce di scambio</value>
+  </data>
+  <data name="ISBlock3B2Text" xml:space="preserve">
+    <value>Entra nelle (timebanking rooms) stanze della banca del tempo di Langademy e trova persone che parlano la lingua che vuoi mettere in pratica. Se hai una webcam è possibile mantenere videochiamate con i tuoi partner, e se non, è anche possibile effettuare chiamate voce o semplicemente scrivere.</value>
+  </data>
+  <data name="ISBlock3B2Title" xml:space="preserve">
+    <value>Incontra gente nuova</value>
+  </data>
+  <data name="ISBlock3B3Text" xml:space="preserve">
+    <value>Il motore di ricerca di partners di Langademy ti cercherà compagni che stanno disponibili per parlare </value>
+  </data>
+  <data name="ISBlock3B3Title" xml:space="preserve">
+    <value>Non preoccuparti di trovare un partner</value>
+  </data>
+  <data name="ISBlock3Title" xml:space="preserve">
+    <value>Scambio di lingue</value>
+  </data>
+  <data name="ISOption1Text" xml:space="preserve">
+    <value>Tenere conversazioni online nella propria lingua, ti darà la stessa quantità di tempo per praticare altre lingue</value>
+  </data>
+  <data name="ISOption1Title" xml:space="preserve">
+    <value>Scambio di lingue</value>
+  </data>
+  <data name="ISOption2Text" xml:space="preserve">
+    <value>Se non hai il tempo per gli scambi, questa è la tua scelta. Paga un madrelingua per una conversazione</value>
+  </data>
+  <data name="ISOption2Title" xml:space="preserve">
+    <value>Paga per conversare</value>
+  </data>
+  <data name="ISOptionTitle" xml:space="preserve">
+    <value>Come ti piacerebbe praticare un lingua?</value>
+  </data>
+  <data name="ISSubTitle" xml:space="preserve">
+    <value>conversando con persone madrelingua</value>
+  </data>
+  <data name="ISTitle" xml:space="preserve">
+    <value>Acquire fluidità</value>
+  </data>
 </root>

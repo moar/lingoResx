@@ -144,4 +144,17 @@
   <data name="INJoin" xml:space="preserve">
     <value>Registrati ora!</value>
   </data>
+  <data name="INMainPicture" xml:space="preserve">
+    <value>Guadagna soldi da casa tua</value>
+  </data>
+  <data name="INTimeBankingRooms" xml:space="preserve">
+    <value>stanze della banca del tempo</value>
+    <comment>contexto: go to the time banking rooms</comment>
+  </data>
+  <data name="INTitle" xml:space="preserve">
+    <value>Fissa un prezzo alle tue conversazione</value>
+  </data>
+  <data name="INTitleText" xml:space="preserve">
+    <value><![CDATA[Se ti piace parlare con gente nuova e aiutare alle altre persone a essere fluente nella tua lingua madre, questa è la tua occasione per <strong> guadagnare soldi extra da casa </ strong>]]></value>
+  </data>
 </root>

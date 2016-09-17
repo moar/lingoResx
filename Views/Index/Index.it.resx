@@ -126,9 +126,6 @@
   <data name="FollowUs" xml:space="preserve">
     <value>Seguici!</value>
   </data>
-  <data name="IndAbout" xml:space="preserve">
-    <value>Su Langademy</value>
-  </data>
   <data name="IndPrivacy" xml:space="preserve">
     <value>Privacy</value>
   </data>
@@ -171,19 +168,91 @@
   <data name="IndexLogoAlt" xml:space="preserve">
     <value>Iscriviti a Langademy, la tua comunità di scambio linguistico</value>
   </data>
+  <data name="IndBlock2SubBlock1Text" xml:space="preserve">
+    <value>Non ti preoccupare se non hai tempo per lo scambio di lingue. In Langademy trovarai i madrelingua con le migliori tariffe di mercato per praticare le lingue in qualsiasi momento</value>
+  </data>
+  <data name="IndBlock2SubBlock1Title" xml:space="preserve">
+    <value>Hai un sacco di lavoro?</value>
+  </data>
   <data name="IndBlock2SubBlock2Text" xml:space="preserve">
     <value>Parla nella tua lingua madre con gli altri e ti daremo lo stesso tempo che hai dedicato per praticare le altre lingue</value>
   </data>
   <data name="IndBlock2SubBlock2Title" xml:space="preserve">
     <value>Scambio di lingue</value>
   </data>
+  <data name="IndBlock2SubBlock3" xml:space="preserve">
+    <value>Iscriviti ora e comincia a imparare le lingue</value>
+  </data>
+  <data name="IndBlock2Subtitle" xml:space="preserve">
+    <value>Impara l'inglese, tedesco, francese o qualsiasi altra lingua online con Langademy. Nelle chat rooms di Langademy troverai madrelingua per chattare o fare chiamate video nella tua lingua preferita.</value>
+  </data>
+  <data name="IndBlock2Title" xml:space="preserve">
+    <value>Vuoi imparare una lingua?</value>
+  </data>
+  <data name="IndBlock3Step1" xml:space="preserve">
+    <value>Aggiunge crediti al tuo account Wallet di Langademy</value>
+  </data>
+  <data name="IndBlock3Step2" xml:space="preserve">
+    <value>Entra nella stanza di chat Wallet dalla lingua che desideri</value>
+  </data>
+  <data name="IndBlock3Step3" xml:space="preserve">
+    <value>Chatta gratis con madrelingua, controlla la loro reputazione e le tariffe che offrono per colloqui</value>
+  </data>
+  <data name="IndBlock3Step4" xml:space="preserve">
+    <value>Inizia una videochiamata con un nativo dal tuo gusto e divertirti, (SEMPRE!)</value>
+  </data>
+  <data name="IndBlock3Text1" xml:space="preserve">
+    <value>La soluzione perfetta per le persone che non vogliono un insegnante ma chi vuole praticare una lingua e non ha tempo per gli scambi</value>
+  </data>
+  <data name="IndBlock3Text2" xml:space="preserve">
+    <value>Saperne di più su Langademy Wallet</value>
+  </data>
+  <data name="IndBlock3Text3" xml:space="preserve">
+    <value>E se ti piace aiutare gli altri a praticare una lingua</value>
+  </data>
+  <data name="IndBlock3Title" xml:space="preserve">
+    <value>Se non hai tempo per scambi linguistici ...</value>
+  </data>
+  <data name="IndBlock4Block2Text" xml:space="preserve">
+    <value>A volte non è facile essere d'accordo in un'ora per fare coincidere le persone. Gli appuntamenti di Langademy aiutano in questo caso: crea appuntamenti per scambiare lingue per il giorno e l'ora che si desidera e invita i tuoi contatti</value>
+  </data>
+  <data name="IndBlock4Block2Title" xml:space="preserve">
+    <value>Pratica la lingua che vuoi, in qualsiasi momento</value>
+  </data>
+  <data name="IndBlock4Block3Text" xml:space="preserve">
+    <value>I soldi non sono necessari per imparare una lingua a Langademy. La Banca del Tempo al salvataggio!! Parla con gli altri nella tua lingua madre, e ti daremo il tempo che hai usato per praticare altre lingue.</value>
+  </data>
   <data name="IndBlock4Block3Title" xml:space="preserve">
     <value>Impara lingue gratis</value>
+  </data>
+  <data name="IndBlock4Text1" xml:space="preserve">
+    <value>Questo è il tuo posto se vuoi praticare le lingue. Trova partner di scambio e migliora la lingua, mentre fai chiamate video o scrivi ai madrelingua</value>
+  </data>
+  <data name="IndBlock4Title" xml:space="preserve">
+    <value>Scambio di lingue </value>
+  </data>
+  <data name="IndSubTitle" xml:space="preserve">
+    <value>Effettua chiamate video online con madrelingua in tutto il mondo e pratica le lingue in qualsiasi momento</value>
+  </data>
+  <data name="IndTitlePart1" xml:space="preserve">
+    <value>Impara lingue</value>
+  </data>
+  <data name="IndTitlePart2" xml:space="preserve">
+    <value>Con dei madrelingua online</value>
   </data>
   <data name="Login" xml:space="preserve">
     <value>Login</value>
   </data>
   <data name="IndLanguages" xml:space="preserve">
     <value>Lingue</value>
+  </data>
+  <data name="IndBlock3LinkText" xml:space="preserve">
+    <value>Impara di più sul scambio di lingue</value>
+  </data>
+  <data name="IndBlock3Text4" xml:space="preserve">
+    <value>Guadagna soldi da casa parlando nella tua lingua madre</value>
+  </data>
+  <data name="IndBlog" xml:space="preserve">
+    <value>Blog</value>
   </data>
 </root>
