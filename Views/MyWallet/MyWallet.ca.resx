@@ -527,7 +527,7 @@
     <value>Adreça</value>
   </data>
   <data name="MWFullname" xml:space="preserve">
-    <value>Nom complet</value>
+    <value>Nom i congnoms</value>
   </data>
   <data name="SelectCountry" xml:space="preserve">
     <value>Escull país</value>
@@ -546,5 +546,38 @@
   </data>
   <data name="MWEdit" xml:space="preserve">
     <value>Editar</value>
+  </data>
+  <data name="CCPurchaseErrorContent1" xml:space="preserve">
+    <value>La passarel·la de pagament ha comunicat que el procés de compra no ha estat completat</value>
+  </data>
+  <data name="CCPurchaseErrorContent2" xml:space="preserve">
+    <value>Si encara desitges efectuar la compra repeteix de nou el procés.</value>
+  </data>
+  <data name="CCPurchaseErrorContent3" xml:space="preserve">
+    <value>Si necessites ajuda per completar aquest procés, posa't en contacte amb el suport al client de Langademy enviant un missatge a {0}</value>
+  </data>
+  <data name="PayPalFailPurchase" xml:space="preserve">
+    <value>Compra crèdits Langademy</value>
+  </data>
+  <data name="PPPurchaseErrorContent1" xml:space="preserve">
+    <value>Aquest error pot ocórrer en cas que hi hagi problemes de comunicació o validació entre Langademy i el proveïdor de pagaments. La compra no ha estat completada. Torna a intentar la compra en uns minuts.</value>
+  </data>
+  <data name="PPPurchaseErrorContent2" xml:space="preserve">
+    <value>Si has rebut una confirmació de pagament de PayPal, revisa si els crèdits han estat transferits al teu compte (My Wallet)</value>
+  </data>
+  <data name="PPPurchaseErrorContent3" xml:space="preserve">
+    <value>En l'estrany cas que hagis rebut una confirmació de pagament i no s'hagin afegit els crèdits al teu compte, contacta al servei de suport al client de Langademy a l'adreça de correu {0}</value>
+  </data>
+  <data name="PurchaseError" xml:space="preserve">
+    <value>Hi ha hagut un error durant el procés de compra</value>
+  </data>
+  <data name="MWRefund" xml:space="preserve">
+    <value>Reemborsament de crèdits</value>
+  </data>
+  <data name="MWNoTransactions" xml:space="preserve">
+    <value>No hi ha transaccions de Wallet durant aquest període</value>
+  </data>
+  <data name="MWPendingWithDrawReq" xml:space="preserve">
+    <value>Peticions de reemborsament pendents</value>
   </data>
 </root>

@@ -169,6 +169,9 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpGeneralTitle" xml:space="preserve">
     <value>Com funciona Langademy?</value>
   </data>
+  <data name="HelpGoToIndex" xml:space="preserve">
+    <value>Tornar a l'índex</value>
+  </data>
   <data name="HelpLangademyStateTitle" xml:space="preserve">
     <value>Estat de Langademy</value>
   </data>
@@ -204,6 +207,9 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>Com funciona el Banc del Temps?</value>
+  </data>
+  <data name="HelpWalletIntroTitle" xml:space="preserve">
+    <value>Introducció a Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
     <value>Sales de xat Wallet i videotrucades Wallet</value>

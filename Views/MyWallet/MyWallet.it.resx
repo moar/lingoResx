@@ -492,7 +492,91 @@
   <data name="UpdReqCashSelectTransAccount" xml:space="preserve">
     <value>Prego seleziona l'account in cui si desidera, Langademy, trasferisca i soldi </value>
   </data>
+  <data name="UpdReqCashUpdRequest" xml:space="preserve">
+    <value>Aggiornare la richiesta di rimborso</value>
+  </data>
+  <data name="UpdRquCashUpdateAmount" xml:space="preserve">
+    <value>Aggiornare l'importo di ritiro</value>
+  </data>
+  <data name="CashoutRequestEnterPaypal" xml:space="preserve">
+    <value>È necessario inserire il tuo conto PayPal per richiedere un rimborso. Vai su {0}</value>
+  </data>
+  <data name="InProcReqCashoutAmount" xml:space="preserve">
+    <value>Importo richiesto</value>
+  </data>
+  <data name="InProcRequCashoutProcessed" xml:space="preserve">
+    <value>In questo momento si sta elaborando una richiesta di rimborso. Quando ricevi questo pagamento è possibile effettuare una nuova richiesta.</value>
+  </data>
+  <data name="UpdCashSuc" xml:space="preserve">
+    <value>La richiesta di rimborso si è aggiornato con successo</value>
+  </data>
+  <data name="WithdrawalConcept" xml:space="preserve">
+    <value>Ritiro di crediti</value>
+  </data>
+  <data name="ReqCashoutMaximumAvailable" xml:space="preserve">
+    <value>Importo massimo di ritiro</value>
+  </data>
+  <data name="WalletMaxWithdrawal" xml:space="preserve">
+    <value>L'importo massimo per il ritiro sono {0} crediti</value>
+  </data>
+  <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
+    <value>La richiesta di ritiro durante la video-chiamata in corso non è consentita</value>
+  </data>
+  <data name="MWAddress" xml:space="preserve">
+    <value>Indirizzo</value>
+  </data>
+  <data name="MWFullname" xml:space="preserve">
+    <value>Nome e cognome </value>
+  </data>
+  <data name="SelectCountry" xml:space="preserve">
+    <value>Scegli il paese</value>
+  </data>
+  <data name="SelectRegion" xml:space="preserve">
+    <value>Scegli regione / provincia</value>
+  </data>
+  <data name="SelectState" xml:space="preserve">
+    <value>Scegli stato / provincia</value>
+  </data>
+  <data name="MWPayCreditCard" xml:space="preserve">
+    <value>Paga con la carta di credito</value>
+  </data>
+  <data name="MWPayPaypal" xml:space="preserve">
+    <value>Paga con PayPal</value>
+  </data>
   <data name="MWEdit" xml:space="preserve">
     <value>Modifica</value>
+  </data>
+  <data name="CCPurchaseErrorContent1" xml:space="preserve">
+    <value>Il gateway di pagamento ha segnalato che il processo di acquisto non è stato completato</value>
+  </data>
+  <data name="CCPurchaseErrorContent2" xml:space="preserve">
+    <value>Si vuoi ancora fare un acquisto ritorna a fare di nuovo il processo.</value>
+  </data>
+  <data name="CCPurchaseErrorContent3" xml:space="preserve">
+    <value>Se hai bisogno di aiuto per completare questo processo, contatta l'assistenza clienti Langademy inviando un messaggio a {0}</value>
+  </data>
+  <data name="PayPalFailPurchase" xml:space="preserve">
+    <value>Acquista crediti Langademy</value>
+  </data>
+  <data name="PPPurchaseErrorContent1" xml:space="preserve">
+    <value>Questo errore può verificarsi se ci sono problemi di comunicazione tra Langademy o convalida e fornitore di pagamento. L'acquisto non è stata completata. Riprova l'acquisto in pochi minuti.</value>
+  </data>
+  <data name="PPPurchaseErrorContent2" xml:space="preserve">
+    <value>Se hai ricevuto un conferma di pagamento da parte di PayPal, verifica se i crediti sono stati trasferiti al tuo account (My Wallet)</value>
+  </data>
+  <data name="PPPurchaseErrorContent3" xml:space="preserve">
+    <value>Nel raro caso che hai ricevuto un conferma di pagamento e non vengono aggiunti i crediti al tuo account, contatta il servizio di assistenza clienti del Langademy nella e-mail {0} </value>
+  </data>
+  <data name="PurchaseError" xml:space="preserve">
+    <value>È verificato un errore durante il processo di acquisto</value>
+  </data>
+  <data name="MWRefund" xml:space="preserve">
+    <value>Rimborso di i crediti</value>
+  </data>
+  <data name="MWNoTransactions" xml:space="preserve">
+    <value>Nessuna transazione di Wallet in questo periodo</value>
+  </data>
+  <data name="MWPendingWithDrawReq" xml:space="preserve">
+    <value>Richieste di rimborso in attesa</value>
   </data>
 </root>
