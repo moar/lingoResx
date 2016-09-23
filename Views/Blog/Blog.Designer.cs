@@ -61,7 +61,7 @@ namespace Resources.Views.Blog {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Articles with about category &quot;{0}&quot;.
+        ///   Looks up a localized string similar to Articles about category &quot;{0}&quot;.
         /// </summary>
         public static string BlogCategoryTitle {
             get {

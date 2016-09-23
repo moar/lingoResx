@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BlogCategoryTitle" xml:space="preserve">
-    <value>Articles with about category "{0}"</value>
+    <value>Articles about category "{0}"</value>
   </data>
   <data name="BlogSubtitle" xml:space="preserve">
     <value>Read articles about language learning and the world that surrounds us</value>

@@ -178,6 +178,15 @@ namespace Resources.Views.ExchangeIndex {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} language exchange partners.
+        /// </summary>
+        public static string EILangExcPart {
+            get {
+                return ResourceManager.GetString("EILangExcPart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Create conversation exchange meetups in the meetup board.
         /// </summary>
         public static string EIMBPictureAlt {

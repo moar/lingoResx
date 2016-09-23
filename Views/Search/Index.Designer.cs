@@ -79,11 +79,29 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Find language exchange partners that speak {0}.
+        /// </summary>
+        public static string SearchMainTitleLanguage {
+            get {
+                return ResourceManager.GetString("SearchMainTitleLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Learn foreign languages online, it’s free! Pssst, don’t forget to be collaborative. Speak in your native language and we will give you the same amount of time to practice other languages with natives.
         /// </summary>
         public static string SearchSubTitle {
             get {
                 return ResourceManager.GetString("SearchSubTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learn {0} online, it’s free! Pssst, don’t forget to be collaborative. Speak in your native language and we will give you the same amount of time to practice other languages with natives.
+        /// </summary>
+        public static string SearchSubTitleLanguage {
+            get {
+                return ResourceManager.GetString("SearchSubTitleLanguage", resourceCulture);
             }
         }
         

@@ -97,7 +97,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers an online space where natives all over the world are connected with language students. It provides two ways of trading with conversations: language exchanges and paid conversations. .
+        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers an online space where natives all over the world are connected with language students. Have conversations with natives and become fluent in any language! It provides two ways of trading with conversations: language exchanges and paid conversations. .
         /// </summary>
         public static string Description {
             get {
@@ -124,7 +124,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers an online space where natives all over the world are connected with language students. It provides two ways of trading with conversations: language exchanges and paid conversations..
+        ///   Looks up a localized string similar to Langademy is a social network to learn languages. It offers an online space where natives all over the world are connected with language students. Have conversations with natives and become fluent in any language! It provides two ways of trading with conversations: language exchanges and paid conversations.
         /// </summary>
         public static string IndexExchangeDescription {
             get {
@@ -255,6 +255,24 @@ namespace Resources.Views.Layout {
         public static string SearchDescription {
             get {
                 return ResourceManager.GetString("SearchDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} language exchange partners - Langademy.
+        /// </summary>
+        public static string SearchLangTitle {
+            get {
+                return ResourceManager.GetString("SearchLangTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search new Langademy users that speak {0} or people that you know from previous conversations. You can filter you searches by their level.
+        /// </summary>
+        public static string SearchLanguageDescription {
+            get {
+                return ResourceManager.GetString("SearchLanguageDescription", resourceCulture);
             }
         }
         

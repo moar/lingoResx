@@ -458,6 +458,7 @@
     <EmbeddedResource Include="Languages\Languages.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Languages.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Models\Buttons\Buttons.ca.resx" />
     <EmbeddedResource Include="Models\Buttons\Buttons.de.resx" />
@@ -585,10 +586,13 @@
     <EmbeddedResource Include="Views\Blog\Blog.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Blog.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.ca.resx" />
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.de.resx" />
-    <EmbeddedResource Include="Views\ChatRooms\Chatroom.es.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\ChatRooms\Chatroom.eu.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -611,7 +615,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.ca.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.de.resx" />
-    <EmbeddedResource Include="Views\Desktop\Index.es.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.eu.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.fr.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.it.resx" />
@@ -779,7 +785,9 @@
     <EmbeddedResource Include="Views\MeetupBoard\Index.es.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\MeetupBoard\Index.eu.resx" />
+    <EmbeddedResource Include="Views\MeetupBoard\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\MeetupBoard\Index.fr.resx" />
     <EmbeddedResource Include="Views\MeetupBoard\Index.it.resx" />
     <EmbeddedResource Include="Views\MeetupBoard\Index.resx">
@@ -866,6 +874,7 @@
     <EmbeddedResource Include="Views\Search\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\StudentIndex\Index.ca.resx" />
     <EmbeddedResource Include="Views\StudentIndex\Index.de.resx" />
