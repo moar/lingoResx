@@ -156,6 +156,9 @@
   <data name="EIBlock3B1Title" xml:space="preserve">
     <value>Banco del Tiempo</value>
   </data>
+  <data name="EILangExcPart" xml:space="preserve">
+    <value>Compañeros para intercambios de idiomas de {0}</value>
+  </data>
   <data name="EIMBPictureAlt" xml:space="preserve">
     <value>Crea quedadas para intercambio de conversaciones en el tablón de quedadas</value>
   </data>

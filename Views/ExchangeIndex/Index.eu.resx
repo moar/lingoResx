@@ -156,6 +156,9 @@
   <data name="EIBlock3B1Title" xml:space="preserve">
     <value>Denbora bankua</value>
   </data>
+  <data name="EILangExcPart" xml:space="preserve">
+    <value>{0}-(e)z hitz egiten duten hizkuntza elkartrukerako mintzalagunak</value>
+  </data>
   <data name="EIMBPictureAlt" xml:space="preserve">
     <value>Sortu itzazu hizkuntza elkartrukerako bilerak bilera taulan</value>
   </data>
