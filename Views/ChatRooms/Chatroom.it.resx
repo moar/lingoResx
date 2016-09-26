@@ -224,7 +224,7 @@
     <value>Crea un appuntamento</value>
   </data>
   <data name="CRMBSentence1" xml:space="preserve">
-    <value>Non hai potuto contattare nessuno? C'è poca attività nella stanza? Nessun problema. Vai alla/sulla tabella di appuntamenti e crea un appuntamento sulla data e l'ora che vuoi!</value>
+    <value>Non hai potuto contattare nessuno? C'è poca attività nella stanza? Nessun problema. Vai sulla tabella di appuntamenti e crea un appuntamento nella data e l'ora che vuoi!</value>
   </data>
   <data name="CRMBSentence2" xml:space="preserve">
     <value>Se si crea un appuntamento, gli altri utenti sapranno quando sarai disponibile a partecipare per chattare o effettuare chiamate video</value>

@@ -236,7 +236,7 @@ Aquest es el seu funcionament:  </value>
     <value>Sales de Wallet: desactiva les sales dels idiomes en què no vols rebre trucades</value>
   </data>
   <data name="HelpState6" xml:space="preserve">
-    <value>Cercador de companys automàtick</value>
+    <value>Cercador de companys automàtic </value>
   </data>
   <data name="HelpState7" xml:space="preserve">
     <value>Langademy et buscarà un company que compleixi les teves preferències i que estigui disponible per conversar amb tu. Quan es trobi un company, et mostrarem una notificació preguntant si vols conversar amb el company que t'hem trobat</value>
@@ -314,7 +314,7 @@ Aquest es el seu funcionament:  </value>
     <value>Requisits per als estudiants d'idiomes:</value>
   </data>
   <data name="HelpWCR5" xml:space="preserve">
-    <value>Xatejar a les sales Wallet és gratuït. No obstant això, si un estudiant vol accedir a les sales de Wallet haurà de comprar crèdits. Quan s'hagi realitzat un mínim d'una compra, podran xatejar i fer videotrucades amb els parlants natius. Durant la telefonada s'aplicarà la tarifa que cada natiu hagi establert per a aquest idioma.</value>
+    <value>Xatejar a les sales Wallet és gratuït. No obstant això, si un estudiant vol accedir a les sales de Wallet haurà de comprar crèdits. Quan s'hagi realitzat un mínim de compra, podran xatejar i fer videotrucades amb els parlants natius. Durant la telefonada s'aplicarà la tarifa que cada natiu hagi establert per a aquest idioma.</value>
   </data>
   <data name="HelpWCR6" xml:space="preserve">
     <value>Requisits per als parlants nadius:</value>

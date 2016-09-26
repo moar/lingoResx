@@ -132,4 +132,10 @@
   <data name="SSearchUsers" xml:space="preserve">
     <value>Ricerca utenti</value>
   </data>
+  <data name="SearchMainTitleLanguage" xml:space="preserve">
+    <value>Trova partner di scambio di lingue che parlano {0}</value>
+  </data>
+  <data name="SearchSubTitleLanguage" xml:space="preserve">
+    <value>Impara {0} on-line, è gratis! Non dimentichi di essere collaborativo. Parla nella tua lingua madre e riceverai la stessa quantità di tempo per praticare altre lingue con i madrelingua</value>
+  </data>
 </root>

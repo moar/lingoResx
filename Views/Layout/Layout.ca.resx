@@ -127,7 +127,7 @@
     <value>Al tauler de quedades, pot organitzar quedades per a que la resta sàpiguen quan vas a estar disponible, o bé  per unir-te a les quedades ja existents.</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Langademy es una xarxa social per aprendre idiomes. Ofereix l'intercanvi d'idiomes amb natius d'arreu del món per a que la gent pugui aconseguir fluïdesa amb un idioma</value>
+    <value> Langademy és una xarxa social per aprendre idiomes. Ofereix un espai on nadius de tot el món es connecten amb estudiants d'idiomes. Millora la fluïdesa en una llengua mantenint converses amb natius. Aquestes converses poden ser i pagament o es pot utilitzar el temps com a moneda de canvi mitjançant l'intercanvi d'idiomes.</value>
   </data>
   <data name="DesktopDescription" xml:space="preserve">
     <value>Aquesta és la pàgina d'inici de Langademy. Des d'aquí podeu navegar per tot Langademy, també establir el teu estat e indicar als teus contactes en quins idiomes estàs disposat a conversar. Al panell dret pots consultar les teves notificacions.</value>
@@ -154,7 +154,7 @@
     <value>Termes i Condicions - Langademy</value>
   </data>
   <data name="MainTitle" xml:space="preserve">
-    <value>Aprèn idiomes online mitjançant l'intercanvi d'idiomes</value>
+    <value>Aprèn idiomes online: fes intercanvi d'idiomes o paga per converses amb natius</value>
   </data>
   <data name="MBTitle" xml:space="preserve">
     <value>Apunta't o crea quedades per aprendre idiomes amb natius - Langademy</value>
@@ -194,5 +194,8 @@
   </data>
   <data name="SearchLangTitle" xml:space="preserve">
     <value>Companys per a intercanvis d'idiomes d'{0} - Langademy</value>
+  </data>
+  <data name="SearchLanguageDescription" xml:space="preserve">
+    <value>Troba nous amics a Langademy que parlin {0} o troba a aquells amb els que ja has conversat. Podeu reduir les teves recerques pel nivell dels usuaris</value>
   </data>
 </root>

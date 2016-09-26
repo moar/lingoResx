@@ -132,4 +132,10 @@
   <data name="SSearchUsers" xml:space="preserve">
     <value>Buscar usuaris</value>
   </data>
+  <data name="SearchMainTitleLanguage" xml:space="preserve">
+    <value>Troba companys d'intercanvi d'idiomes que parlen {0}</value>
+  </data>
+  <data name="SearchSubTitleLanguage" xml:space="preserve">
+    <value>Aprèn {0} online, ¡és gratis! No oblidis ser col·laboratiu. Parla la teva llengua materna i et donarem la mateixa quantitat de temps perquè practiquis altres idiomes amb natius</value>
+  </data>
 </root>

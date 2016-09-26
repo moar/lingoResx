@@ -156,6 +156,9 @@
   <data name="EIBlock3B1Title" xml:space="preserve">
     <value>Banca del Tempo</value>
   </data>
+  <data name="EILangExcPart" xml:space="preserve">
+    <value>Compagni per scambi linguistici di {0}</value>
+  </data>
   <data name="EIMBPictureAlt" xml:space="preserve">
     <value>Crea appuntamenti per lo scambio di conversazioni nella tabella di appuntamenti</value>
   </data>
