@@ -178,7 +178,7 @@
     <value>Studenti: Introduzione</value>
   </data>
   <data name="HelpNativesFeeTitle" xml:space="preserve">
-    <value>Commissione degli madrelingua</value>
+    <value>Tariffa dei madrelingua</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
     <value>Se vuoi parlare nella tua lingua, devi andare alla Wallet chat room della tua  lingua dove si trovano gli studenti con chi conversare</value>
@@ -208,7 +208,7 @@
     <value>Come funziona la Banca del tempo?</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
-    <value>Introduzione al Wallet</value>
+    <value>Introduzione a Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
     <value>Stanze di chat Wallet e videochiamate Wallet</value>
@@ -314,7 +314,7 @@
     <value>Requisiti per gli studenti di lingue:</value>
   </data>
   <data name="HelpWCR5" xml:space="preserve">
-    <value>Chattare nelle Wallet rooms è gratuito. Invece, se uno studente vuole accedere alle stanze Wallet rooms dovrà acquistare crediti. Dopo aver completato un minimo di acquisto, possono chattare ed effettuare chiamate video con madrelingua. Durante la chiamata, la tariffa che è stata specificata dal madrelingua, sarà applicata alla chiamata</value>
+    <value>Chattare nelle Wallet rooms è gratis. Invece, se uno studente vuole accedere alle Wallet rooms dovrà acquistare crediti. Dopo aver completato un minimo di acquisti, si potrà chattare ed effettuare chiamate video con i madrelingua. Durante la chiamata si applicherà la tariffa stabilita per ogni madrelingua per quella lingua.</value>
   </data>
   <data name="HelpWCR6" xml:space="preserve">
     <value>Requisiti per i madrelingua:</value>
@@ -332,7 +332,7 @@
     <value>My Wallet è l'applicazione in cui è possibile gestire le tue finanze Langademy. Questa applicazione può controllare i tuoi movimenti, la tua cronologia di fatture e aggiungere o modificare le informazioni di fatturazione. Langademy permette anche gli acquisti di credito.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>Se vai su Langademy per imparare lingue, andare a chat room Wallet e controllare i loro prezzi e reputazione</value>
+    <value>Si sei su Langademy per imparare lingue, vai sulle Wallet rooms e controlla i loro prezzi e le reputazione</value>
   </data>
   <data name="HelpWalletIntro3" xml:space="preserve">
     <value>Se vuoi fare soldi mentre parli con gli studenti nella tua lingua madre,bisogna migliorare la tua reputazione nelle sale della Banca del Tempo prima di poter entrare nelle Wallet chat room ({0})</value>

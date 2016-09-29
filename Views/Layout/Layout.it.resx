@@ -127,7 +127,7 @@
     <value>Nella tabella di appuntamenti, è possibile organizzare appuntamenti, così gli altri sanno quando sarai disponibile, oppure è possibile unirsi ai appuntamenti esistenti</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Langademy è un social network per imparare le lingue. Offre scambio linguistico con nativi di tutto il mondo così la gente può ottenere scioltezza in una lingua.</value>
+    <value>Langademy è un social network per imparare lingue. Offre scambio linguistici con madrelingua di tutto il mondo così la gente può ottenere scioltezza in una lingua.</value>
   </data>
   <data name="DesktopDescription" xml:space="preserve">
     <value>Questa è la web d'inizio di Langademy. Da qui puoi navigare per tutto Langademy, modificare il tuo stato, dire ai tuoi contatti in che lingua stai disposto a conversare ecc Nel riquadro a destra è possibile visualizzare le tue notifiche.</value>
@@ -154,7 +154,7 @@
     <value>Termini e Condizioni - Langademy</value>
   </data>
   <data name="MainTitle" xml:space="preserve">
-    <value>Impara lingue online con lo scambio linguistico </value>
+    <value>Impara lingue online con lo scambio linguistico o paga per conversare con i madrelingua</value>
   </data>
   <data name="MBTitle" xml:space="preserve">
     <value>Iscriviti o rifai nuovi appuntamenti per imparare lingue! - Langademy</value>
@@ -193,6 +193,9 @@
     <value>Langademy: impara lingue</value>
   </data>
   <data name="SearchLangTitle" xml:space="preserve">
-    <value>Utenti per lo scambio di linguaggio di {0} - Langademy</value>
+    <value>Compagni per lo scambio di linguaggio di {0} - Langademy</value>
+  </data>
+  <data name="SearchLanguageDescription" xml:space="preserve">
+    <value>Trova nuovi amici in Langademy che parlano {0} o trova quelli con i quali si è già parlato. È possibile filtrare le ricerche in base al livello degli utenti</value>
   </data>
 </root>

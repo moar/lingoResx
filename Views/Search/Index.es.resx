@@ -133,7 +133,7 @@
     <value>Buscar usuarios</value>
   </data>
   <data name="SearchMainTitleLanguage" xml:space="preserve">
-    <value>Encuentra compañeros te intercambio de idiomas que hablan {0}</value>
+    <value>Encuentra compañeros de intercambio de idiomas que hablan {0}</value>
   </data>
   <data name="SearchSubTitleLanguage" xml:space="preserve">
     <value>Aprende {0} online, ¡es gratis! No olvides ser colaborativo. Habla en tu idioma nativo y te daremos la misma cantidad de tiempo para que practiques otros idiomas con nativos</value>
