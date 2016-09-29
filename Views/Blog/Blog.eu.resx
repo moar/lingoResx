@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Articles" xml:space="preserve">
+    <value>Artikuluak</value>
+  </data>
+  <data name="BlogBlog" xml:space="preserve">
+    <value>Bloga</value>
+  </data>
   <data name="BlogCategoryTitle" xml:space="preserve">
     <value>"{0}" kategoriari buruzko artikuluak</value>
   </data>
@@ -128,5 +134,23 @@
   </data>
   <data name="BlogTitle" xml:space="preserve">
     <value>Langademyko artikuluak</value>
+  </data>
+  <data name="Categories" xml:space="preserve">
+    <value>Kategoriak</value>
+  </data>
+  <data name="GuestPosts" xml:space="preserve">
+    <value>Idatzi</value>
+  </data>
+  <data name="GuestText1" xml:space="preserve">
+    <value>Idatzi iezaguzu mezu bat {0}-ra, zuri buruz eta idatzi nahi duzun artikuluari buruz zebati esanaz</value>
+  </data>
+  <data name="GuestText2" xml:space="preserve">
+    <value>Ahalik eta azkarren erantzungo dizugu!</value>
+  </data>
+  <data name="GuestTitle" xml:space="preserve">
+    <value>Langaemyn artikulu bat idatzi nahi al duzu?</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>Tagak</value>
   </data>
 </root>
