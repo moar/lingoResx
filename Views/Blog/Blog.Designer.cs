@@ -61,6 +61,24 @@ namespace Resources.Views.Blog {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Articles.
+        /// </summary>
+        public static string Articles {
+            get {
+                return ResourceManager.GetString("Articles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Blog.
+        /// </summary>
+        public static string BlogBlog {
+            get {
+                return ResourceManager.GetString("BlogBlog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Articles about category &quot;{0}&quot;.
         /// </summary>
         public static string BlogCategoryTitle {
@@ -93,6 +111,60 @@ namespace Resources.Views.Blog {
         public static string BlogTitle {
             get {
                 return ResourceManager.GetString("BlogTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Categories.
+        /// </summary>
+        public static string Categories {
+            get {
+                return ResourceManager.GetString("Categories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Guest posts.
+        /// </summary>
+        public static string GuestPosts {
+            get {
+                return ResourceManager.GetString("GuestPosts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Write us to {0} and tell us something about you and about the post you want to write.
+        /// </summary>
+        public static string GuestText1 {
+            get {
+                return ResourceManager.GetString("GuestText1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We will give you a response as soon as possible!.
+        /// </summary>
+        public static string GuestText2 {
+            get {
+                return ResourceManager.GetString("GuestText2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to write a post at Langademy?.
+        /// </summary>
+        public static string GuestTitle {
+            get {
+                return ResourceManager.GetString("GuestTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tags.
+        /// </summary>
+        public static string Tags {
+            get {
+                return ResourceManager.GetString("Tags", resourceCulture);
             }
         }
     }

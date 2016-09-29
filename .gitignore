@@ -2050,3 +2050,15 @@ obj/LocalDebug/Resources.Billing.Billing.resources
 obj/LocalDebug/TempPE/Billing.Billing.Designer.cs.dll
 obj/Release/Resources.Billing.Billing.resources
 obj/Release/TempPE/Billing.Billing.Designer.cs.dll
+obj/LocalDebug/Resources.Views.Search.Index.ca.resources
+obj/LocalDebug/Resources.Views.Search.Index.de.resources
+obj/LocalDebug/Resources.Views.Search.Index.es.resources
+obj/LocalDebug/Resources.Views.Search.Index.eu.resources
+obj/LocalDebug/Resources.Views.Search.Index.fr.resources
+obj/LocalDebug/Resources.Views.Search.Index.it.resources
+obj/Release/Resources.Views.Search.Index.ca.resources
+obj/Release/Resources.Views.Search.Index.de.resources
+obj/Release/Resources.Views.Search.Index.es.resources
+obj/Release/Resources.Views.Search.Index.eu.resources
+obj/Release/Resources.Views.Search.Index.fr.resources
+obj/Release/Resources.Views.Search.Index.it.resources
