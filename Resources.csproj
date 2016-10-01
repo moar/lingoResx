@@ -500,6 +500,7 @@
     <EmbeddedResource Include="Models\Tiles\Tiles.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Tiles.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="UserData\UserData.ca.resx" />
     <EmbeddedResource Include="UserData\UserData.de.resx" />

@@ -133,7 +133,7 @@ namespace Resources.Models.Tiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search more users.
+        ///   Looks up a localized string similar to Search exchange partners.
         /// </summary>
         public static string SearchUsers {
             get {

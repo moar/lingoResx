@@ -106,6 +106,24 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Become Langademy&apos;s ambassador.
+        /// </summary>
+        public static string AmbassadorTileTitle {
+            get {
+                return ResourceManager.GetString("AmbassadorTileTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earn timebanking hours and prizes.
+        /// </summary>
+        public static string AmbassasdorTileSubtitle {
+            get {
+                return ResourceManager.GetString("AmbassasdorTileSubtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DO YOU WANT TO ACTIVATE IT?.
         /// </summary>
         public static string AutoMatchActivateQuestion {
