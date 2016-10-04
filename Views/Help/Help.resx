@@ -139,13 +139,13 @@
     <value>The Time Bank is a way to make language exchange fair for everyone at Langademy. This is how it works:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>You will begin with 2 hours so you can practice the language you want.</value>
+    <value>You will begin with 30 minutes so you can practice the language you want.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>By default, you will not be able to accumulate more than 10 hours in your Time Bank account.</value>
   </data>
   <data name="TimeBankF3" xml:space="preserve">
-    <value>Invite your friends and you will get 30 extra minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 60 minutes).</value>
+    <value>Invite your friends and you will get 30 extra minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 30 minutes).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
     <value>When you practice a language that is not your native language, you spend time from your Time Bank account. If you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time in your account.</value>

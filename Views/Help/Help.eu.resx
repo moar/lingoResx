@@ -139,7 +139,7 @@
     <value>Denbora bankua hizkuntza trukea guztiontzat errentagarria izateko modu bat da. Hau da bere funtzionamendua:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>2 ordurekin hasiko zara nahi duzun hizkuntzan hitz egin dezazun</value>
+    <value>30 minuturekin hasiko zara nahi duzun hizkuntzan hitz egin dezazun</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Ezin izango dituzu 10 ordu baino gehiago pilatu zure denbora bankuan </value>

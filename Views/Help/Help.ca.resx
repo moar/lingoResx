@@ -140,13 +140,13 @@
 Aquest es el seu funcionament:  </value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Començaràs amb 2 hores per a que puguis parlar amb l'idioma que vulguis.</value>
+    <value>Començaràs amb 30 minuts per a que puguis parlar amb l'idioma que vulguis.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Per defecte, no podràs acumular més de 10 hores al Banc de Temps.</value>
   </data>
   <data name="TimeBankF3" xml:space="preserve">
-    <value>Convida als teus amics i obtindràs 30 minuts addicionals per cada amic que es registre amb la teva invitació. També pots guanyar hores al teu Banc de Temps seguint-nos en Twitter i Facebook (+ 60 minuts).</value>
+    <value>Convida als teus amics i obtindràs 30 minuts addicionals per cada amic que es registre amb la teva invitació. També pots guanyar hores al teu Banc de Temps seguint-nos en Twitter i Facebook (+ 30 minuts).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
     <value>Quan practiques un idioma que no siga el teu idioma natiu, estaràs gastant temps del teu compte del Banc del Temps. En canvi, si ajudes amb un idioma que domines (nivell mínim: C2), a un altre usuari et sumarà aquest temps al teu compte.</value>
