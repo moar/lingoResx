@@ -294,4 +294,7 @@
   <data name="AmbassasdorTileSubtitle" xml:space="preserve">
     <value>Earn timebanking hours and prizes</value>
   </data>
+  <data name="DeskRoom" xml:space="preserve">
+    <value>room</value>
+  </data>
 </root>

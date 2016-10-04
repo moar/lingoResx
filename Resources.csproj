@@ -684,7 +684,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\HoursBag\HoursBag.ca.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.de.resx" />
-    <EmbeddedResource Include="Views\HoursBag\HoursBag.es.resx" />
+    <EmbeddedResource Include="Views\HoursBag\HoursBag.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\HoursBag\HoursBag.eu.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.fr.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.it.resx" />

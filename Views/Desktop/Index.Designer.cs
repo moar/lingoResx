@@ -277,6 +277,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to room.
+        /// </summary>
+        public static string DeskRoom {
+            get {
+                return ResourceManager.GetString("DeskRoom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Skip.
         /// </summary>
         public static string DeskSkip {
