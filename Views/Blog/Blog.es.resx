@@ -118,6 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="Articles" xml:space="preserve">
+    <value>Artículos</value>
+  </data>
+  <data name="BlogBlog" xml:space="preserve">
+    <value>Blog</value>
+  </data>
   <data name="BlogCategoryTitle" xml:space="preserve">
     <value>Artículos sobre la categoría "{0}"</value>
   </data>
@@ -130,6 +136,12 @@
   <data name="BlogTitle" xml:space="preserve">
     <value>Artículos Langademy</value>
   </data>
+  <data name="Categories" xml:space="preserve">
+    <value>Categorías</value>
+  </data>
+  <data name="GuestPosts" xml:space="preserve">
+    <value>Escribe en Langaemy</value>
+  </data>
   <data name="GuestText1" xml:space="preserve">
     <value>Escríbenos a {0}, indicando quién eres y el tema sobre el que quieres escribir.</value>
   </data>
@@ -138,5 +150,8 @@
   </data>
   <data name="GuestTitle" xml:space="preserve">
     <value>¿Quieres escribir un artículo en Langademy?</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>Tags</value>
   </data>
 </root>
