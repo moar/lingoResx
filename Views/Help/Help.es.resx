@@ -139,13 +139,13 @@
     <value>El Banco de Tiempo es un concepto para que con el intercambio de idiomas todos salgan ganando. Éste es su funcionamiento:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Comenzarás con 2 horas para que puedas hablar en el idioma que quieras.</value>
+    <value>Comenzarás con 30 minutos para que puedas hablar en el idioma que quieras.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Por defecto, no podrás acumular más de 10 horas en tu Banco de Tiempo.</value>
   </data>
   <data name="TimeBankF3" xml:space="preserve">
-    <value>Invita a tus amigos y obtendrás 30 minutos adicionales por cada amigo que se registre con tu invitación. También puedes ganar horas para el Banco de Tiempo siguiéndonos en Twitter y Facebook (+ 60 minutos).</value>
+    <value>Invita a tus amigos y obtendrás 30 minutos adicionales por cada amigo que se registre con tu invitación. También puedes ganar horas para el Banco de Tiempo siguiéndonos en Twitter y Facebook (+ 30 minutos).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
     <value>Cuando practiques en un idioma que no sea tu idioma nativo, estarás gastando tiempo de tu cuenta del Banco de Tiempo. En cambio, si enseñas un idioma que dominas (nivel mínimo: C2) a otro usuario, se sumará ese tiempo a tu cuenta.</value>

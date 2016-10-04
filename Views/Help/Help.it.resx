@@ -139,13 +139,13 @@
     <value> La Banca del Tempo è il sistema per fare più proficuo per tutti lo scambio linguistico. Ecco come funziona:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Inizierai con 2 ore in modo da poter parlare la lingua che si desidera.</value>
+    <value>Inizierai con 30 minuti in modo da poter parlare la lingua che si desidera.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Per impostazione predefinita, non sarà possibile accumulare più di 10 ore nella tua banca del tempo.</value>
   </data>
   <data name="TimeBankF3" xml:space="preserve">
-    <value>Invita i tuoi amici e otterrai 30 minuti per ogni amico che è registrato con il tuo invito. E anche è possibile guadagnare ore per la vostra banca del tempo se ci seguite in Twitter e Facebook (+ 60 minuti).</value>
+    <value>Invita i tuoi amici e otterrai 30 minuti per ogni amico che è registrato con il tuo invito. E anche è possibile guadagnare ore per la vostra banca del tempo se ci seguite in Twitter e Facebook (+ 30 minuti).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
     <value>Quando si pratica una lingua diversa dalla tua lingua madre, starai spendendo ore dalla Banca del Tempo. Ma se si insegni una lingua che controlli (livello minimo: C2) ad un altro utente, il tempo ti sarà aggiunto al tuo account.</value>
