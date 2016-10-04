@@ -124,10 +124,10 @@
     <value>Concepte</value>
   </data>
   <data name="EarnButton" xml:space="preserve">
-    <value>Obtindre més hores</value>
+    <value>Ambaixador Langademy</value>
   </data>
   <data name="EarnByTeaching" xml:space="preserve">
-    <value><![CDATA[Quan parles amb un altres usuari de Langademy el teu <strong>idioma natiu</strong> guanyes temps per al teu Banc del Temps.]]></value>
+    <value>Converteix-te en ambaixador de Langademy</value>
   </data>
   <data name="EnterFriendEmails" xml:space="preserve">
     <value>Introdueix aquí els emails dels teus amics </value>
@@ -136,10 +136,16 @@
     <value>Temps màx.</value>
   </data>
   <data name="InviteEarn" xml:space="preserve">
-    <value><![CDATA[Convida als teus amics a <strong>Langademy</strong> ara! Per cada amic que es registri t'abonarem 30 minuts al teu Banc de Temps. I si ens segueixes a les xarxes socials, obtindràs un altra hora extra!]]></value>
+    <value>Porta els teus amics a Langademy i converteix-te en el nostre ambaixador. Per cada amic que es registri t'abonarem 30 minuts en el teu Banc de Temps. I si ens segueixes a les xarxes socials, gaudiràs altres 30 minuts extra!</value>
   </data>
   <data name="MailInstruction" xml:space="preserve">
     <value>Introdueix una adreça de correu electrònic i prem espai o ";"</value>
+  </data>
+  <data name="NoDraws" xml:space="preserve">
+    <value>No hi ha cap sorteig actiu en aquests moments</value>
+  </data>
+  <data name="NoDrawsSub" xml:space="preserve">
+    <value>Estigues atent a les nostres xarxes socials per participar en els següents sortejos!</value>
   </data>
   <data name="RemainingBagTime" xml:space="preserve">
     <value>Balanç d'hores</value>

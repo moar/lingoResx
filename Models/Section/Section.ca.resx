@@ -126,4 +126,10 @@
   <data name="SecConfiguration" xml:space="preserve">
     <value>Configuració </value>
   </data>
+  <data name="TimeBank" xml:space="preserve">
+    <value>Banc de Temps</value>
+  </data>
+  <data name="Wallet" xml:space="preserve">
+    <value>Wallet</value>
+  </data>
 </root>

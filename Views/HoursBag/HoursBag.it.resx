@@ -124,10 +124,10 @@
     <value>Concetto</value>
   </data>
   <data name="EarnButton" xml:space="preserve">
-    <value>Guadagna più ore</value>
+    <value>Ambasciatore Langademy</value>
   </data>
   <data name="EarnByTeaching" xml:space="preserve">
-    <value><![CDATA[Quando parli ad altri utenti Langademy nella tua <strong>lingua madre</strong> guadagni tempo ]]></value>
+    <value>Diventa ambasciatore Langademy</value>
   </data>
   <data name="EnterFriendEmails" xml:space="preserve">
     <value>Inserisci le email dei tuoi amici qui</value>
@@ -136,10 +136,16 @@
     <value>Max. Tempo</value>
   </data>
   <data name="InviteEarn" xml:space="preserve">
-    <value><![CDATA[Invita i tuoi amici a <strong> Langademy </ strong> ora! Ogni amico registrato aggiungerà 30 minuti alla tua Time Bank! E se ci segui nelle reti sociali, otterrai un'ora in più!]]></value>
+    <value>Porta i tuoi amici a Langademy e diventerai nostro ambasciatore. Ogni amico registrato aggiungerà 30 minuti alla tua Banca del Tempo. E se ci segui nelle reti sociali, otterrai 30 minuti in più!</value>
   </data>
   <data name="MailInstruction" xml:space="preserve">
     <value>Inserisci un indirizzo email e premi spazio o ";"</value>
+  </data>
+  <data name="NoDraws" xml:space="preserve">
+    <value>Nessun sorteggio attivo in questo momento</value>
+  </data>
+  <data name="NoDrawsSub" xml:space="preserve">
+    <value>Fate attenzione ai nostri social network per partecipare a le seguente riffe!</value>
   </data>
   <data name="RemainingBagTime" xml:space="preserve">
     <value>Saldo di ore </value>

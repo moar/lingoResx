@@ -288,4 +288,13 @@
   <data name="DeskWelcomeTitle" xml:space="preserve">
     <value>Benvenuto a bordo!</value>
   </data>
+  <data name="AmbassadorTileTitle" xml:space="preserve">
+    <value>Diventa ambasciatore Langademy</value>
+  </data>
+  <data name="AmbassasdorTileSubtitle" xml:space="preserve">
+    <value>Guadagna premi e tempo per il tuo account</value>
+  </data>
+  <data name="DeskRoom" xml:space="preserve">
+    <value>stanza</value>
+  </data>
 </root>

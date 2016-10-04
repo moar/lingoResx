@@ -120,6 +120,12 @@
   
   
   
+  <data name="Articles" xml:space="preserve">
+    <value>Articoli</value>
+  </data>
+  <data name="BlogBlog" xml:space="preserve">
+    <value>Blog</value>
+  </data>
   <data name="BlogCategoryTitle" xml:space="preserve">
     <value>Articoli sulla categoria "{0}"</value>
   </data>
@@ -131,5 +137,23 @@
   </data>
   <data name="BlogTitle" xml:space="preserve">
     <value>Articoli Langademy</value>
+  </data>
+  <data name="Categories" xml:space="preserve">
+    <value>Categorie</value>
+  </data>
+  <data name="GuestPosts" xml:space="preserve">
+    <value>Scrivi a Langademy</value>
+  </data>
+  <data name="GuestText1" xml:space="preserve">
+    <value>Scrivi a {0}, indicando che sei e l'argomento che vuoi scrivere.</value>
+  </data>
+  <data name="GuestText2" xml:space="preserve">
+    <value>Ti risponderemo al più presto possibile!</value>
+  </data>
+  <data name="GuestTitle" xml:space="preserve">
+    <value>Vuoi scrivere un articolo in Langademy?</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>Tags</value>
   </data>
 </root>
