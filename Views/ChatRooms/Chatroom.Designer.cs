@@ -340,7 +340,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You need to have at least {0} positive vote in {1} conversations. Go to the {1} Time Banking room, make videocalls and gain positive votes!.
+        ///   Looks up a localized string similar to You need to have at least {0} positive vote(s) in {1} conversations. Go to the {1} room, make  videocalls using yout timebank and gain positive votes!.
         /// </summary>
         public static string CRWalletCondition1Content {
             get {
@@ -376,7 +376,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can&apos;t access to this wallet room.
+        ///   Looks up a localized string similar to You can&apos;t update your rate in this language.
         /// </summary>
         public static string CRWalletConditionHeading {
             get {
@@ -385,7 +385,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In order to access this wallet room you need to:.
+        ///   Looks up a localized string similar to If you want to set the rate in this language you need to:.
         /// </summary>
         public static string CRWalletConditions {
             get {

@@ -187,7 +187,7 @@
     <value>Participants</value>
   </data>
   <data name="CRWalletCondition1Content" xml:space="preserve">
-    <value>You need to have at least {0} positive vote in {1} conversations. Go to the {1} Time Banking room, make videocalls and gain positive votes!</value>
+    <value>You need to have at least {0} positive vote(s) in {1} conversations. Go to the {1} room, make  videocalls using yout timebank and gain positive votes!</value>
   </data>
   <data name="CRWalletCondition1Title" xml:space="preserve">
     <value>Gain reputation:</value>
@@ -199,10 +199,10 @@
     <value>Add your billing details:</value>
   </data>
   <data name="CRWalletConditionHeading" xml:space="preserve">
-    <value>You can't access to this wallet room</value>
+    <value>You can't update your rate in this language</value>
   </data>
   <data name="CRWalletConditions" xml:space="preserve">
-    <value>In order to access this wallet room you need to:</value>
+    <value>If you want to set the rate in this language you need to:</value>
   </data>
   <data name="CRVisitorSentence" xml:space="preserve">
     <value>Writing in this chat room is free but you must have credits in your Wallet ({0})</value>

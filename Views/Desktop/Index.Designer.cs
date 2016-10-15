@@ -421,15 +421,6 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to View access requirements.
-        /// </summary>
-        public static string DeskWalletRequirements {
-            get {
-                return ResourceManager.GetString("DeskWalletRequirements", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Hi there! You are one of us now! Now, we will show you some tips on how Langademy works in a few steps. When you see this icon, click it and we will show you its info..
         /// </summary>
         public static string DeskWelcomeSent {
