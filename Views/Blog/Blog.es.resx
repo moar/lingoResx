@@ -119,6 +119,7 @@
   </resheader>
   
   
+  
   <data name="Articles" xml:space="preserve">
     <value>Artículos</value>
   </data>
@@ -141,7 +142,7 @@
     <value>Categorías</value>
   </data>
   <data name="GuestPosts" xml:space="preserve">
-    <value>Escribe en Langaemy</value>
+    <value>Escribe en Langademy</value>
   </data>
   <data name="GuestText1" xml:space="preserve">
     <value>Escríbenos a {0}, indicando quién eres y el tema sobre el que quieres escribir.</value>
