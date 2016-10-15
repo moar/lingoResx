@@ -340,7 +340,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You need to have at least {0} positive vote(s) in {1} conversations. Go to the {1} room, make  videocalls using yout timebank and gain positive votes!.
+        ///   Looks up a localized string similar to You need to have at least {0} positive vote(s) in {1} conversations. Go to the {1} room, make  videocalls using your timebank and gain positive votes!.
         /// </summary>
         public static string CRWalletCondition1Content {
             get {
