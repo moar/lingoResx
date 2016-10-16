@@ -115,15 +115,6 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Call.
-        /// </summary>
-        public static string CRCall {
-            get {
-                return ResourceManager.GetString("CRCall", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Create meetup.
         /// </summary>
         public static string CRCreateMeetup {
@@ -295,6 +286,15 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Timebank call.
+        /// </summary>
+        public static string CRTBCall {
+            get {
+                return ResourceManager.GetString("CRTBCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Topics.
         /// </summary>
         public static string CRTopicsTab {
@@ -340,7 +340,16 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You need to have at least {0} positive vote(s) in {1} conversations. Go to the {1} room, make  videocalls using your timebank and gain positive votes!.
+        ///   Looks up a localized string similar to Wallet call.
+        /// </summary>
+        public static string CRWalletCall {
+            get {
+                return ResourceManager.GetString("CRWalletCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You need to have at least {0} positive vote(s) in {1} conversations. Go to the {1} room, make  video calls using and gain positive votes! And hey, create language meetups so the language students get to know you!.
         /// </summary>
         public static string CRWalletCondition1Content {
             get {
