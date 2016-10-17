@@ -219,8 +219,8 @@
   <data name="RPWalletCall" xml:space="preserve">
     <value>Wallet call</value>
   </data>
-  <data name="TimeBankingRooms" xml:space="preserve">
-    <value>Timebanking rooms</value>
+  <data name="ChatRooms" xml:space="preserve">
+    <value>Chat rooms</value>
   </data>
   <data name="WalletRooms" xml:space="preserve">
     <value>Wallet rooms</value>

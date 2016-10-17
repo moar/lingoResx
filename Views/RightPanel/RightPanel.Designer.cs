@@ -79,6 +79,15 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Chat rooms.
+        /// </summary>
+        public static string ChatRooms {
+            get {
+                return ResourceManager.GetString("ChatRooms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Connection is lost. Reloading in.
         /// </summary>
         public static string ConnectionLost {
@@ -336,15 +345,6 @@ namespace Resources.Views.RightPanel {
         public static string ShowAll {
             get {
                 return ResourceManager.GetString("ShowAll", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Timebanking rooms.
-        /// </summary>
-        public static string TimeBankingRooms {
-            get {
-                return ResourceManager.GetString("TimeBankingRooms", resourceCulture);
             }
         }
         

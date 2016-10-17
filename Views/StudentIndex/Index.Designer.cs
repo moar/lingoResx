@@ -61,7 +61,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter the Wallet chat rooms and find native speakers that suit you: check their experience and rates.
+        ///   Looks up a localized string similar to Enter the chat rooms and find native speakers that suit you: check their experience and rates.
         /// </summary>
         public static string IsBlock2B1Text {
             get {
@@ -70,7 +70,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter the Wallet Rooms.
+        ///   Looks up a localized string similar to Make Wallet video calls.
         /// </summary>
         public static string ISBlock2B1Title {
             get {

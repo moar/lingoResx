@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="IsBlock2B1Text" xml:space="preserve">
-    <value>Enter the Wallet chat rooms and find native speakers that suit you: check their experience and rates</value>
+    <value>Enter the chat rooms and find native speakers that suit you: check their experience and rates</value>
   </data>
   <data name="ISBlock2B1Title" xml:space="preserve">
-    <value>Enter the Wallet Rooms</value>
+    <value>Make Wallet video calls</value>
   </data>
   <data name="ISBlock2B2Text" xml:space="preserve">
     <value>Make private online video calls with native speakers all over the world. You will have a trial period of time to decide if you want to go on and pay for the conversation</value>
