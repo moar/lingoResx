@@ -80,7 +80,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you go to a language room and there it&apos;s empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup..
+        ///   Looks up a localized string similar to If you go to a chat room and there it&apos;s empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup..
         /// </summary>
         public static string Answer3 {
             get {
@@ -125,7 +125,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you are on a conversation within a chat room, you have the option to send a connection request to your partner. Remembar that you can also check your call history in your Time Bank app. Once you are connected, you can send private messages and also make private videocalls..
+        ///   Looks up a localized string similar to When you are inside a chat room, you have the option to send a connection request to your partners. Remember that you can check your call history in your Time Bank app. Once you are connected, you can send private messages and also make private videocalls..
         /// </summary>
         public static string Answer8 {
             get {
@@ -134,7 +134,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy have no language restrictions. It offers rooms for most of the languages of the world. Don’t hesitate to contact us if you think a language is missing.
+        ///   Looks up a localized string similar to Langademy have no language restrictions. It provides rooms for most of the languages of the world. Don’t hesitate to contact us if you think a language is missing.
         /// </summary>
         public static string Answer9 {
             get {
@@ -143,7 +143,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Why are only some rooms available in my room list?.
+        ///   Looks up a localized string similar to Why are only some rooms available in the room list of my right panel?.
         /// </summary>
         public static string Question1 {
             get {
