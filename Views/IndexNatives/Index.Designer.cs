@@ -70,7 +70,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter Wallet chat Rooms.
+        ///   Looks up a localized string similar to Start talking to students.
         /// </summary>
         public static string INBlock2B1Title {
             get {
@@ -79,7 +79,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to the {0} and make video calls with different people. Earn positive votes and your reputation will improve. As a result more people will want to talk to you!.
+        ///   Looks up a localized string similar to Go to your native language&apos;s room and make video calls with different people. Earn positive votes and your reputation will improve. As a result more people will want to talk to you!.
         /// </summary>
         public static string INBlock2B2Text {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Put a price to you conversations.
+        ///   Looks up a localized string similar to Put a price to your conversations.
         /// </summary>
         public static string INTitle {
             get {
@@ -169,7 +169,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you like conversating with new people and help them becoming fluent in your native language, this is your chance to &lt;strong&gt;earn some extra money from home&lt;/strong&gt;.
+        ///   Looks up a localized string similar to If you like conversating with new people and help them to become fluent in your native language, this is your chance to &lt;strong&gt;earn some extra money from home&lt;/strong&gt;.
         /// </summary>
         public static string INTitleText {
             get {

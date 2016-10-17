@@ -142,7 +142,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter Langademy&apos;s time banking rooms and you will find people to speak the language you want. If you have a webcam, you can make video calls with them, else you can make audio calls or just text them!.
+        ///   Looks up a localized string similar to Enter Langademy&apos;s chat rooms, find people that use their timebank and speak the language you want. If you have a webcam, you can make video calls with them, else you can make audio calls or just text them!.
         /// </summary>
         public static string ISBlock3B2Text {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy&apos;s automatic partner finder will find you a partner that are available to speak and that match your preferences..
+        ///   Looks up a localized string similar to Langademy&apos;s automatic partner finder will find you a partner that is available to speak and that match your preferences..
         /// </summary>
         public static string ISBlock3B3Text {
             get {
