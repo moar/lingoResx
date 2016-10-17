@@ -896,7 +896,9 @@
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\StudentIndex\Index.fr.resx" />
-    <EmbeddedResource Include="Views\StudentIndex\Index.it.resx" />
+    <EmbeddedResource Include="Views\StudentIndex\Index.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\StudentIndex\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>

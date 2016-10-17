@@ -181,19 +181,19 @@
     <value>Native speakers fee</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>If you want to chat in your native language, you have to go the Wallet chat room of your native language, where you will find language learners to speak with.</value>
+    <value>If you want to chat in your native language, you have to go the chat room of your native language, where you will find language learners to speak with.</value>
   </data>
   <data name="HelpNativesSent2" xml:space="preserve">
     <value>But firstly, you have to meet some requirements:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
-    <value>Each Wallet chat room requires a minimum number of up votes. So go to the Time Banking chat rooms, talk to other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to enter the Wallet chat room of that specific language.</value>
+    <value>You need to have a minimum number of up votes in a language if you want to set a rate for that language. Make free video calls or time banking calls with other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to set your rate for a specific language.</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Fill your billing data. Before entering any Wallet room, you need to fill your billing address in the MyWallet app -&gt; Billing info.</value>
+    <value>Fill your billing data. To be able to set a rate for Wallet calls, you need to fill your billing address in the MyWallet app -&gt; Billing info.</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
-    <value>Once you meet these two requirements, you are ready to enter the Wallet rooms.</value>
+    <value>Once you meet these two requirements, you are ready to set a rate and earn money with Wallet calls.</value>
   </data>
   <data name="HelpNativesTitle" xml:space="preserve">
     <value>Native speakers: how to start</value>
@@ -202,7 +202,7 @@
     <value>Time Banking introduction</value>
   </data>
   <data name="HelpTBRoomsTitle" xml:space="preserve">
-    <value>Time Banking chat rooms</value>
+    <value>Use of Time Banking in the chat rooms</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>How does Time Banking work?</value>
@@ -211,7 +211,7 @@
     <value>Wallet introduction</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Wallet chat rooms and Wallet video calls</value>
+    <value>Wallet video calls</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Credit withdrawal</value>
@@ -229,10 +229,10 @@
     <value>If you don’t want to receive any calls, just set your state to busy</value>
   </data>
   <data name="HelpState4" xml:space="preserve">
-    <value>Time Banking rooms: these rooms have two states. With the first state, you can select if you want to receive calls from the Time Banking room of a specific language. The seconds state lets you switch on and off the automatic partner finder. If you disable the overall state of a language, the automatic partner finder will also be disabled.</value>
+    <value>Time Banking calls: If you want to use time banking calls, you can set 2 states. With the first state, you can select if you want to receive time banking calls in a specific language. The second state lets you switch on and off the automatic partner finder. If you disable the overall state of a language, the automatic partner finder will also be disabled.</value>
   </data>
   <data name="HelpState5" xml:space="preserve">
-    <value>Wallet rooms: Disable the rooms of the languages that you don’t want to receive calls.</value>
+    <value>Wallet calls: Disable the languages that you don’t want to receive Wallet calls.</value>
   </data>
   <data name="HelpState6" xml:space="preserve">
     <value>Automatic partner finder</value>
@@ -241,10 +241,10 @@
     <value>Langademy will find you an online partner that meets your preferences and that is available to speak with you. When a match is found, you will receive a notification asking if you want to start a call with the chosen partner.</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
-    <value>Language learners have two options if they want to practice a language: they can use either the Wallet rooms or the Time Banking rooms.</value>
+    <value>Language learners have two options if they want to practice a language: they can make either Wallet calls or  Time Banking calls.</value>
   </data>
   <data name="HelpStudentIntro2" xml:space="preserve">
-    <value>In the Wallet rooms, language learners pay in order to have a conversation with a native. In the Time Banking rooms, time is used as a trade. Check the {0} and the {1} sections for more information about these rooms.</value>
+    <value>In a Wallet call, language learners pay in order to have a conversation with a native. If a time banking call is made, time is used as a trade. Check the {0} and the {1} sections for more information about these type of calls.</value>
   </data>
   <data name="HelpStudentIntro3" xml:space="preserve">
     <value>When you meet new partners in a room, you can send them a connection request. Once you are connected, you will be able to make video calls without entering the rooms.</value>
@@ -253,10 +253,10 @@
     <value>Time Banking provides a way to learn languages without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account. Check the Time Banking rules ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>To practice a language, go to the Time Banking rooms, start chatting with people and make video calls with them. In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account.</value>
+    <value>To practice a language, go to the chat rooms, start chatting with people and make time banking video calls with them. In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account.</value>
   </data>
   <data name="HelpTBRooms1" xml:space="preserve">
-    <value>Time Banking rooms are the place where you can find language exchange partners. In these rooms you can chat for free or make Time Banking video calls (check {0}).</value>
+    <value>Chat rooms are the place where you can find language exchange partners. In these rooms you can chat for free or make Time Banking video calls (check {0}).</value>
   </data>
   <data name="HelpTBRooms2" xml:space="preserve">
     <value>You can see what users are online in the left user panel. If you click the user, you will see different options that each user provides: you can add them as partners, make video calls, and report or block them.</value>
@@ -271,7 +271,7 @@
     <value>On the other hand, if you are attending a meetup, you can propose new topics for the meetup or vote the topics that other users have proposed.</value>
   </data>
   <data name="HelpTBRooms6" xml:space="preserve">
-    <value>You can go to the Meetup Board from your Time Banking room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it.</value>
+    <value>You can go to the Meetup Board from your chat room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
     <value>Native speakers are charged the 13% of the amount (+ taxes) that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated.</value>
@@ -302,13 +302,13 @@
     <value>Credit Withdrawals are processed every 15 days. If you want, you can edit the amount of credits you have requested before the processing of the withdrawal has begun. Once the request has been done, you can’t make another request until the previous request has been processed.</value>
   </data>
   <data name="HelpWCR1" xml:space="preserve">
-    <value>Wallet chat rooms are the meeting point for native speakers and language learners. In these rooms, language learners can chat and make video calls with the native speakers. Each native speaker has an hourly rate, which will be applied when a video call is made. During a call, the cost of the call will be updated each minute, so language learners will only pay for the number of minutes they talk. In each call, there will be a 3-minutes-long trial so the language learners can decide if they want to continue with the call before they start to pay.</value>
+    <value>Chat rooms are the meeting point for native speakers and language learners. In these rooms, language learners can chat and make video calls with the native speakers. Each native speaker has an hourly rate, which will be applied when a video call is made. During a call, the cost of the call will be updated each minute, so language learners will only pay for the number of minutes they talk. In each call, there will be a 3-minutes-long trial so the language learners can decide if they want to continue with the call before they start to pay.</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
-    <value>Requirements to enter the Wallet Rooms</value>
+    <value>Requirements to make Wallet calls</value>
   </data>
   <data name="HelpWCR3" xml:space="preserve">
-    <value>Both native speakers and language learners have meet some requirements to enter each of the Wallet chat rooms.</value>
+    <value>Native speakers have to meet some requirements in order to start earning money with Wallet calls.</value>
   </data>
   <data name="HelpWCR4" xml:space="preserve">
     <value>Requirements for language learners:</value>
@@ -320,10 +320,10 @@
     <value>Requirements for native speakers:</value>
   </data>
   <data name="HelpWCR7" xml:space="preserve">
-    <value>Native speakers have to meet two requirements if they want to enter a Wallet room:</value>
+    <value>When natives join a room, they won't be able to set a Wallet rate, and therefore to earn money with the calls. Firstly, they need to meet the following requirements:</value>
   </data>
   <data name="HelpWCR8" xml:space="preserve">
-    <value>Each Wallet room requires to have a minimum number of positive votes. In order to gain positive votes, native speakers can go to the Time Banking room of the same language, make video calls with language learners and earn positive votes. If a native speaker wants to gather learners at a certain date and time, they can create meetups. More info at {0}</value>
+    <value>Each language requires having a minimum number of positive votes. In order to gain positive votes, native speakers have to make calls in that language with language learners. They can make free (a 0-credits rate) or time banking calls. If a native speaker wants to gather learners at a certain date and time, they can create meetups. More info at {0}</value>
   </data>
   <data name="HelpWCR9" xml:space="preserve">
     <value>Complete the billing address: Go to My Wallet and complete the billing address.</value>
@@ -332,10 +332,10 @@
     <value>My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>If you are at Langademy to learn languages, go to the Wallet chat rooms and look for native speakers and their rates.</value>
+    <value>If you are at Langademy to learn languages, go to the chat rooms and look for native speakers and check their rates.</value>
   </data>
   <data name="HelpWalletIntro3" xml:space="preserve">
-    <value>If you want to earn some money while you speak with languages learners, you will have to earn some reputation in the Time Banking rooms before you can enter the Wallet chat rooms ({0})</value>
+    <value>If you want to earn some money while you speak with languages learners, you will have to earn some reputation with time banking or free calls before you can set a rate for your Wallet calls</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Langademy Help</value>
@@ -347,7 +347,7 @@
     <value>Introduction to Wallet rooms and calls</value>
   </data>
   <data name="HelpNativesSent7" xml:space="preserve">
-    <value>When you enter a Wallet room for the first time, you will have to specify a rate for your calls (in case you haven’t defined it before). Once you are in a room, you can chat with the language learners while you wait someone to call you. If you have a good reputation and you make a good impression in the chat room, it will be easier to receive calls.</value>
+    <value>When you have the  minimum reputation required for a certaing language, you will have to specify a rate for your calls. Once you are in a room, you can chat with the language learners while you wait someone to call you. If you have a good reputation and you make a good impression in the chat room, it will be easier to receive calls.</value>
   </data>
   <data name="HelpNativesSent8" xml:space="preserve">
     <value>When you receive a video call, your rate will be applied to the call and your Wallet credit balance will be updated once the call is finished. Each call will have a fee ({0}) that will be charged to your account at the end of the month.</value>

@@ -169,7 +169,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you want to chat in your native language, you have to go the Wallet chat room of your native language, where you will find language learners to speak with..
+        ///   Looks up a localized string similar to If you want to chat in your native language, you have to go the chat room of your native language, where you will find language learners to speak with..
         /// </summary>
         public static string HelpNativesSent1 {
             get {
@@ -187,7 +187,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Each Wallet chat room requires a minimum number of up votes. So go to the Time Banking chat rooms, talk to other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to enter the Wallet chat room of that specific language..
+        ///   Looks up a localized string similar to You need to have a minimum number of up votes in a language if you want to set a rate for that language. Make free video calls or time banking calls with other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to set your rate for a specific language..
         /// </summary>
         public static string HelpNativesSent3 {
             get {
@@ -196,7 +196,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fill your billing data. Before entering any Wallet room, you need to fill your billing address in the MyWallet app -&gt; Billing data..
+        ///   Looks up a localized string similar to Fill your billing data. To be able to set a rate for Wallet calls, you need to fill your billing address in the MyWallet app -&gt; Billing info..
         /// </summary>
         public static string HelpNativesSent4 {
             get {
@@ -205,7 +205,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Once you meet these two requirements, you are ready to enter the Wallet rooms..
+        ///   Looks up a localized string similar to Once you meet these two requirements, you are ready to set a rate and earn money with Wallet calls..
         /// </summary>
         public static string HelpNativesSent5 {
             get {
@@ -223,7 +223,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you enter a Wallet room for the first time, you will have to specify a rate for your calls (in case you haven’t defined it before). Once you are in a room, you can chat with the language learners while you wait someone to call you. If you have a good reputation and you make a good impression in the chat room, it will be easier to receive calls..
+        ///   Looks up a localized string similar to When you have the  minimum reputation required for a certaing language, you will have to specify a rate for your calls. Once you are in a room, you can chat with the language learners while you wait someone to call you. If you have a good reputation and you make a good impression in the chat room, it will be easier to receive calls..
         /// </summary>
         public static string HelpNativesSent7 {
             get {
@@ -295,7 +295,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time Banking rooms: These rooms have two states. With the first state, you can select if you want to receive calls from the Time Banking room of a specific language. The seconds state lets you switch on and off the automatic partner finder. If you disable de overall state of a language, the automatic partner finder will also be disabled..
+        ///   Looks up a localized string similar to Time Banking calls: If you want to use time banking calls, you can set 2 states. With the first state, you can select if you want to receive time banking calls in a specific language. The second state lets you switch on and off the automatic partner finder. If you disable the overall state of a language, the automatic partner finder will also be disabled..
         /// </summary>
         public static string HelpState4 {
             get {
@@ -304,7 +304,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wallet rooms: Disable the rooms of the languages that you don’t want to receive calls..
+        ///   Looks up a localized string similar to Wallet calls: Disable the languages that you don’t want to receive Wallet calls..
         /// </summary>
         public static string HelpState5 {
             get {
@@ -340,7 +340,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language learners have two options if they want to practice a language: they can use either the Wallet rooms or the Time Banking rooms..
+        ///   Looks up a localized string similar to Language learners have two options if they want to practice a language: they can make either Wallet calls or  Time Banking calls..
         /// </summary>
         public static string HelpStudentIntro1 {
             get {
@@ -349,7 +349,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In the Wallet rooms, language learners pay in order to have a conversation with a native. In the Time Banking rooms, time is used as a trade. Check the {0} and the {1} sections for more information about these rooms..
+        ///   Looks up a localized string similar to In a Wallet call, language learners pay in order to have a conversation with a native. If a time banking call is made, time is used as a trade. Check the {0} and the {1} sections for more information about these type of calls..
         /// </summary>
         public static string HelpStudentIntro2 {
             get {
@@ -376,20 +376,11 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To practice a language, go to the Time Banking rooms, start chatting with people and make video calls with them. In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account..
+        ///   Looks up a localized string similar to To practice a language, go to the chat rooms, start chatting with people and make time banking video calls with them. In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account..
         /// </summary>
         public static string HelpTBIntro2 {
             get {
                 return ResourceManager.GetString("HelpTBIntro2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        public static string HelpTBIntro3 {
-            get {
-                return ResourceManager.GetString("HelpTBIntro3", resourceCulture);
             }
         }
         
@@ -403,7 +394,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time Banking rooms are the place where you can find language exchange partners. In these rooms you can chat for free or make Time Banking video calls (check {0})..
+        ///   Looks up a localized string similar to Chat rooms are the place where you can find language exchange partners. In these rooms you can chat for free or make Time Banking video calls (check {0})..
         /// </summary>
         public static string HelpTBRooms1 {
             get {
@@ -448,7 +439,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can go to the Meetup Board from your Time Banking room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it..
+        ///   Looks up a localized string similar to You can go to the Meetup Board from your chat room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it..
         /// </summary>
         public static string HelpTBRooms6 {
             get {
@@ -457,7 +448,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time Banking chat rooms.
+        ///   Looks up a localized string similar to Use of Time Banking in the chat rooms.
         /// </summary>
         public static string HelpTBRoomsTitle {
             get {
@@ -493,7 +484,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Total Balance: It shows the total amount of credits before the 13% fee is applied to it..
+        ///   Looks up a localized string similar to Total Balance: it shows the total amount of credits before the 13% fee is applied to it..
         /// </summary>
         public static string HelpWalletFees3 {
             get {
@@ -502,7 +493,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy fee: At the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either..
+        ///   Looks up a localized string similar to Langademy fee: at the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either..
         /// </summary>
         public static string HelpWalletFees4 {
             get {
@@ -548,7 +539,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you are at Langademy to learn languages, go to the Wallet chat rooms (link) and look for native speakers and their rates..
+        ///   Looks up a localized string similar to If you are at Langademy to learn languages, go to the chat rooms and look for native speakers and check their rates..
         /// </summary>
         public static string HelpWalletIntro2 {
             get {
@@ -557,7 +548,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you want to earn some money while you speak with languages learners, you will have to earn some reputation in the Time Banking rooms before you can enter the Wallet chat rooms ({0}).
+        ///   Looks up a localized string similar to If you want to earn some money while you speak with languages learners, you will have to earn some reputation with time banking or free calls before you can set a rate for your Wallet calls.
         /// </summary>
         public static string HelpWalletIntro3 {
             get {
@@ -575,7 +566,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wallet chat rooms and Wallet video calls.
+        ///   Looks up a localized string similar to Wallet video calls.
         /// </summary>
         public static string HelpWalletRoomsTitle {
             get {
@@ -584,7 +575,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Credit withdrawal can be requested in MyWallet -&gt; Withdrawals.
+        ///   Looks up a localized string similar to Credit withdrawal can be requested in My Wallet -&gt; Withdrawals.
         /// </summary>
         public static string HelpWalletWithdrawal1 {
             get {
@@ -602,7 +593,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wallet chat rooms are the meeting point for native speakers and language learners. In these rooms, language learners can chat and make video calls with the native speakers. Each native speaker has an hourly rate, which will be applied when a video call is made. During a call, this rate will be updated each minute, so language learners will only pay for the number of minutes they talk. In each call, there will be a 3-minutes-long trial so the language learners can decide if they want to continue with the cal [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to Chat rooms are the meeting point for native speakers and language learners. In these rooms, language learners can chat and make video calls with the native speakers. Each native speaker has an hourly rate, which will be applied when a video call is made. During a call, the cost of the call will be updated each minute, so language learners will only pay for the number of minutes they talk. In each call, there will be a 3-minutes-long trial so the language learners can decide if they want to continue with the [rest of string was truncated]&quot;;.
         /// </summary>
         public static string HelpWCR1 {
             get {
@@ -611,7 +602,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Requirements to enter the Wallet Rooms.
+        ///   Looks up a localized string similar to Requirements to make Wallet calls.
         /// </summary>
         public static string HelpWCR2 {
             get {
@@ -620,7 +611,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Both native speakers and language learners have meet some requirements to enter each of the Wallet chat rooms..
+        ///   Looks up a localized string similar to Native speakers have to meet some requirements in order to start earning money with Wallet calls..
         /// </summary>
         public static string HelpWCR3 {
             get {
@@ -656,7 +647,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Native speakers have to meet two requirements if they want to enter a Wallet room:.
+        ///   Looks up a localized string similar to When natives join a room, they won&apos;t be able to set a Wallet rate, and therefore to earn money with the calls. Firstly, they need to meet the following requirements:.
         /// </summary>
         public static string HelpWCR7 {
             get {
@@ -665,7 +656,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Each Wallet requires to have a minimum number of positive votes. In order to gain positive votes, native speakers can go to the Time Banking room of the same language, make video calls with language learners and earn positive votes. If a native speaker wants to gather learners at a certain date and time, they can create meetups. More info at ({0}).
+        ///   Looks up a localized string similar to Each language requires having a minimum number of positive votes. In order to gain positive votes, native speakers have to make calls in that language with language learners. They can make free (a 0-credits rate) or time banking calls. If a native speaker wants to gather learners at a certain date and time, they can create meetups. More info at {0}.
         /// </summary>
         public static string HelpWCR8 {
             get {
@@ -719,7 +710,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You will begin with 2 hours so you can practice the language you want..
+        ///   Looks up a localized string similar to You will begin with 30 minutes so you can practice the language you want..
         /// </summary>
         public static string TimeBankF1 {
             get {
@@ -737,7 +728,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Invite your friends and you will get 30 extra minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 60 minutes)..
+        ///   Looks up a localized string similar to Invite your friends and you will get 30 extra minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 30 minutes)..
         /// </summary>
         public static string TimeBankF3 {
             get {
