@@ -61,6 +61,15 @@ namespace Resources.Models.Section {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Conversations.
+        /// </summary>
+        public static string Conversations {
+            get {
+                return ResourceManager.GetString("Conversations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy Challenge.
         /// </summary>
         public static string LangademyChallenge {
@@ -84,15 +93,6 @@ namespace Resources.Models.Section {
         public static string SecConfiguration {
             get {
                 return ResourceManager.GetString("SecConfiguration", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Timebanking.
-        /// </summary>
-        public static string TimeBank {
-            get {
-                return ResourceManager.GetString("TimeBank", resourceCulture);
             }
         }
         

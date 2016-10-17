@@ -493,7 +493,9 @@
     <EmbeddedResource Include="Models\Tiles\Tiles.ca.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.cat.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.de.resx" />
-    <EmbeddedResource Include="Models\Tiles\Tiles.es.resx" />
+    <EmbeddedResource Include="Models\Tiles\Tiles.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Models\Tiles\Tiles.eu.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.fr.resx" />
     <EmbeddedResource Include="Models\Tiles\Tiles.it.resx" />
