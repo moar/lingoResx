@@ -255,9 +255,6 @@
   <data name="DeskStateNativeCallsInfo" xml:space="preserve">
     <value>Qui è possibile configurare, il ricevere chiamate nelle tue lingue madre.</value>
   </data>
-  <data name="DeskWalletRequirements" xml:space="preserve">
-    <value>Vedi i requisiti di accesso</value>
-  </data>
   <data name="WalletTileNativeMovement" xml:space="preserve">
     <value>Hai parlato con {0} in {1}</value>
   </data>

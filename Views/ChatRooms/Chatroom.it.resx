@@ -129,9 +129,6 @@
   <data name="CRBeginners" xml:space="preserve">
     <value>Principiante</value>
   </data>
-  <data name="CRCall" xml:space="preserve">
-    <value>Chiamare</value>
-  </data>
   <data name="CRHideFiltered" xml:space="preserve">
     <value>Nascondere filtrati</value>
   </data>
@@ -199,10 +196,10 @@
     <value>Aggiunge i tuoi dati di fatturazione:</value>
   </data>
   <data name="CRWalletConditionHeading" xml:space="preserve">
-    <value>Non si può accedere a questa wallet room</value>
+    <value>Non è possibile stabilire una tariffa per questa lingua</value>
   </data>
   <data name="CRWalletConditions" xml:space="preserve">
-    <value>Per accedere a questa wallet room è necessario soddisfare i seguenti requisiti:</value>
+    <value>Se vuoi stabilire una tariffa in questa lingua bisogni:</value>
   </data>
   <data name="CRVisitorSentence" xml:space="preserve">
     <value>Scrivere in questa chat room è gratuito, ma è necessario avere nel tuo conto crediti Wallet ({0}) 

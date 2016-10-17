@@ -129,9 +129,6 @@
   <data name="CRBeginners" xml:space="preserve">
     <value>Principiant</value>
   </data>
-  <data name="CRCall" xml:space="preserve">
-    <value>Trucar</value>
-  </data>
   <data name="CRHideFiltered" xml:space="preserve">
     <value>Ocultar filtrats</value>
   </data>
@@ -187,7 +184,7 @@
     <value>Participants</value>
   </data>
   <data name="CRWalletCondition1Content" xml:space="preserve">
-    <value>Necessites tenir almenys {0} vots positius en converses de {1}. Vés a les sala de Banc de Temps de {1}, fes videotrucades i aconsegueix vots positius!</value>
+    <value>Necessites tenir almenys {0} vots positius en converses de {1}. Vés a les sala de Banc de Temps de {1}, fes videotrucades Aconsegueix vots positius! I no t'oblidis de crear quedades i així et donaràs a conèixer a la comunitat de Langademy.</value>
   </data>
   <data name="CRWalletCondition1Title" xml:space="preserve">
     <value>Guanya reputació: </value>
@@ -199,10 +196,10 @@
     <value>Afegeix les teves dades de facturació:</value>
   </data>
   <data name="CRWalletConditionHeading" xml:space="preserve">
-    <value>No pots accedir a aquesta sala Wallet</value>
+    <value>No pots establir una tarifa per aquest idioma</value>
   </data>
   <data name="CRWalletConditions" xml:space="preserve">
-    <value>Per accedir a aquesta sala wallet necessites complir aquests requisits:</value>
+    <value>Per establir una tarifa en aquest idioma es necessita:</value>
   </data>
   <data name="CRVisitorSentence" xml:space="preserve">
     <value>Escriure en aquesta sala és gratis però necessites tenir crèdits al teu compte Wallet ({0})</value>

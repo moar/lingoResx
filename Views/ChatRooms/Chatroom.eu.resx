@@ -129,8 +129,8 @@
   <data name="CRBeginners" xml:space="preserve">
     <value>Sarrera maila</value>
   </data>
-  <data name="CRCall" xml:space="preserve">
-    <value>Deitu</value>
+  <data name="CRTBCall" xml:space="preserve">
+    <value>Denbora bankuko deia</value>
   </data>
   <data name="CRHideFiltered" xml:space="preserve">
     <value>Iragazi</value>
@@ -187,7 +187,7 @@
     <value>Partaideak</value>
   </data>
   <data name="CRWalletCondition1Content" xml:space="preserve">
-    <value>Gutxienez {0} boto positibo eduki behar dituzu {1}-(e)ko konbertsazioetan. Joan {1}-(e)ko Denbora Bankuko gelara, egin bideo deiak eta irabazi itzazu botu positiboak!</value>
+    <value>Gutxienez {0} boto positibo eduki behar dituzu {1}-(e)ko konbertsazioetan. Joan {1}-(e)ko gelara, egin bideo deiak eta irabazi itzazu botu positiboak! Eta ez ahaztu bilerak sortzeaz jendea zu ezagutzen joan dadin.</value>
   </data>
   <data name="CRWalletCondition1Title" xml:space="preserve">
     <value>Erreputazioa irabazi:</value>
@@ -199,7 +199,7 @@
     <value>Geitu itzazu zure fakturazio datuak:</value>
   </data>
   <data name="CRWalletConditionHeading" xml:space="preserve">
-    <value>Ezin zaitezeke Wallet gela honetara sartu</value>
+    <value>Ezin dezakezu hizkuntza honen tarifa definitu</value>
   </data>
   <data name="CRWalletConditions" xml:space="preserve">
     <value>Wallet gela honetara sartzeko baldintza hauek bete behar dituzu:</value>
@@ -233,5 +233,8 @@
   </data>
   <data name="CRMBTripTitle" xml:space="preserve">
     <value>Langademyko bilerak</value>
+  </data>
+  <data name="CRWalletCall" xml:space="preserve">
+    <value>Wallet deia</value>
   </data>
 </root>

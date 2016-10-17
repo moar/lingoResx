@@ -129,8 +129,8 @@
   <data name="CRBeginners" xml:space="preserve">
     <value>Principiante</value>
   </data>
-  <data name="CRCall" xml:space="preserve">
-    <value>Llamar</value>
+  <data name="CRTBCall" xml:space="preserve">
+    <value>Llamada Banco de Tiempo</value>
   </data>
   <data name="CRHideFiltered" xml:space="preserve">
     <value>Ocultar filtrados</value>
@@ -187,7 +187,7 @@
     <value>Participantes</value>
   </data>
   <data name="CRWalletCondition1Content" xml:space="preserve">
-    <value>Necesitas tener al menos {0} votos positivos en conversaciones de {1}. Ve a las sala de Banco de Tiempo de {1}, haz videollamadas y consigue votos positivos!</value>
+    <value>Necesitas tener al menos {0} voto(s) positivos en conversaciones de {1}. Ve a la sala de {1}, haz videollamadas y ¡consigue votos positivos! Y no te olvides de crear quedadas y así te darás a conocer a la comunidad de Langademy.</value>
   </data>
   <data name="CRWalletCondition1Title" xml:space="preserve">
     <value>Gana reputación:</value>
@@ -199,10 +199,10 @@
     <value>Añade tus datos de facturación:</value>
   </data>
   <data name="CRWalletConditionHeading" xml:space="preserve">
-    <value>No puedes acceder a esta sala Wallet</value>
+    <value>No puedes establecer una tarifa para este idioma</value>
   </data>
   <data name="CRWalletConditions" xml:space="preserve">
-    <value>Para acceder a esta sala wallet necesitas cumplir estos requisitos:</value>
+    <value>Si deseas establecer una tarifa en este idioma necesitas:</value>
   </data>
   <data name="CRVisitorSentence" xml:space="preserve">
     <value>Escribir en esta sala es gratis pero necesitas tener créditos en tu cuenta Wallet ({0})</value>
@@ -233,5 +233,8 @@
   </data>
   <data name="CRMBTripTitle" xml:space="preserve">
     <value>Quedadas de Langademy</value>
+  </data>
+  <data name="CRWalletCall" xml:space="preserve">
+    <value>Llamada Wallet</value>
   </data>
 </root>

@@ -255,9 +255,6 @@
   <data name="DeskStateNativeCallsInfo" xml:space="preserve">
     <value>Aquí pots configurar si vols rebre trucades en les teves llengües natives</value>
   </data>
-  <data name="DeskWalletRequirements" xml:space="preserve">
-    <value>Veure els requisits d'accés</value>
-  </data>
   <data name="WalletTileNativeMovement" xml:space="preserve">
     <value>Has parlat amb {0} en {1}</value>
   </data>
