@@ -121,10 +121,10 @@
     <value>Una vez consigas reputación suficiente, entra a la sala Wallet de tu idioma nativo y empieza a conocer gente que quiere aprender tu idioma</value>
   </data>
   <data name="INBlock2B1Title" xml:space="preserve">
-    <value>Entra a las salas de chat Wallet</value>
+    <value>Empieza a hablar con estudiates</value>
   </data>
   <data name="INBlock2B2Text" xml:space="preserve">
-    <value>Ve a las {0} y haz video llamadas con la gente. Gana votos positivos y tu reputación mejorará. ¡Cuanto mejor sea tu reputación más gente querrá hablar contigo! </value>
+    <value>Ve a las de chat de tu(s) idiomas nativos y haz video llamadas con la gente. Gana votos positivos y tu reputación mejorará. ¡Cuanta mejor sea tu reputación más gente querrá hablar contigo! </value>
   </data>
   <data name="INBlock2B2Title" xml:space="preserve">
     <value>Migliora la tua reputazione</value>

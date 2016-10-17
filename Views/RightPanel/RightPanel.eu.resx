@@ -219,9 +219,6 @@
   <data name="RPWalletCall" xml:space="preserve">
     <value>Walle deia</value>
   </data>
-  <data name="TimeBankingRooms" xml:space="preserve">
-    <value>Denbora banku gelak</value>
-  </data>
   <data name="WalletRooms" xml:space="preserve">
     <value>Wallet gelak</value>
   </data>

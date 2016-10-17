@@ -202,7 +202,7 @@
     <value>Time Banking introduction</value>
   </data>
   <data name="HelpTBRoomsTitle" xml:space="preserve">
-    <value>Use of Time Banking in the chat rooms</value>
+    <value>Use of Time Banking in the video calls</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>How does Time Banking work?</value>
@@ -241,7 +241,7 @@
     <value>Langademy will find you an online partner that meets your preferences and that is available to speak with you. When a match is found, you will receive a notification asking if you want to start a call with the chosen partner.</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
-    <value>Language learners have two options if they want to practice a language: they can make either Wallet calls or  Time Banking calls.</value>
+    <value>Language learners have two options if they want to practice a language: they can make either Wallet calls or Time Banking calls.</value>
   </data>
   <data name="HelpStudentIntro2" xml:space="preserve">
     <value>In a Wallet call, language learners pay in order to have a conversation with a native. If a time banking call is made, time is used as a trade. Check the {0} and the {1} sections for more information about these type of calls.</value>
@@ -320,7 +320,7 @@
     <value>Requirements for native speakers:</value>
   </data>
   <data name="HelpWCR7" xml:space="preserve">
-    <value>When natives join a room, they won't be able to set a Wallet rate, and therefore to earn money with the calls. Firstly, they need to meet the following requirements:</value>
+    <value>When native speakers join a room, they won't be able to set a Wallet rate, and therefore to earn money with the calls. Firstly, they need to meet the following requirements:</value>
   </data>
   <data name="HelpWCR8" xml:space="preserve">
     <value>Each language requires having a minimum number of positive votes. In order to gain positive votes, native speakers have to make calls in that language with language learners. They can make free (a 0-credits rate) or time banking calls. If a native speaker wants to gather learners at a certain date and time, they can create meetups. More info at {0}</value>
@@ -335,7 +335,7 @@
     <value>If you are at Langademy to learn languages, go to the chat rooms and look for native speakers and check their rates.</value>
   </data>
   <data name="HelpWalletIntro3" xml:space="preserve">
-    <value>If you want to earn some money while you speak with languages learners, you will have to earn some reputation with time banking or free calls before you can set a rate for your Wallet calls</value>
+    <value>If you want to earn some money while you speak with languages learners, you will have to earn some reputation with time banking or free calls before you can set a rate for your Wallet calls.</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Langademy Help</value>

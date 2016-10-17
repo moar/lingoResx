@@ -181,19 +181,19 @@
     <value>Comisión de los nativos</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Si quieres hablar en tu idioma nativo, debes ir a la sala de chat Wallet de tu idioma, donde encontrarás estudiantes con los que poder conversar</value>
+    <value>Si quieres hablar en tu idioma nativo, debes ir a la sala de chat de tu idioma, donde encontrarás estudiantes con los que poder conversar</value>
   </data>
   <data name="HelpNativesSent2" xml:space="preserve">
     <value>Pero primeramente debes cumplir unos requisitos:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
-    <value>Cada sala de chat de Wallet requiere un número mínimo de votos positivos. Para conseguirlos ve a las salas de Banco del Tiempo, habla con la gente que quiere aprender tu idioma y gana votos positivos. Una vez que hayas ganado el número de votos que se requieren para entrar a la sala de un idioma, podrás entrar a esa sala</value>
+    <value>Para poder establecer una tarifa en un idioma concreto, tienes que tener un número mínimo de votos positivos en el idioma. Para conseguirlos ve a las salas chat de ese idioma, habla con la gente que quiere aprender tu idioma y gana votos positivos. Una vez que hayas ganado el número de votos que se requieren, podrás establecer tu tarifa</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Rellena tus datos de facturación. Antes de entrar a una sala Wallet, tienes que rellenar tu dirección de facturación en My Wallet -&gt; Información de facturación</value>
+    <value>Rellena tus datos de facturación. Antes de realizar una llamada de Wallet, tienes que rellenar tu dirección de facturación en My Wallet -&gt; Información de facturación</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
-    <value>Una vez que cumplas estos dos requisitos, estarás preparado para entrar a las salas Wallet</value>
+    <value>Una vez que cumplas estos dos requisitos, estarás preparado para ganar dinero con las llamadas de Wallet</value>
   </data>
   <data name="HelpNativesTitle" xml:space="preserve">
     <value>Hablantes nativos: cómo empezar</value>
@@ -202,7 +202,7 @@
     <value>Introducción al Banco del Tiempo</value>
   </data>
   <data name="HelpTBRoomsTitle" xml:space="preserve">
-    <value>Salas de chat del Banco del Tiempo</value>
+    <value>Uso del Banco del Tiempo en las video llamadas</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>¿Cómo funciona el Banco del Tiempo?</value>
@@ -211,7 +211,7 @@
     <value>Introducción a Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Salas de chat Wallet y videollamadas Wallet</value>
+    <value>Video llamadas de Wallet</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Retirada de créditos</value>
@@ -229,10 +229,10 @@
     <value>Si no quieres recibir ninguna llamada, cambia tu estado a "ocupado"</value>
   </data>
   <data name="HelpState4" xml:space="preserve">
-    <value>Salas de Banco del Tiempo: estas salas tienen dos estados. Con el primer estado, puedes seleccionar si quieres recibir llamadas de Banco del Tiempo para un idioma específico. El segundo estado te permite activar y desactivar el buscador automático de compañeros. Si desactivas el estado general para la sala de un idioma, también se desactivará el buscador automático de compañeros</value>
+    <value>Llamadas de Banco de Tiempo: si quieres hacer llamadas usando tu banco de tiempo, tienes que tener en cuenta dos estados. Con el primer estado, puedes seleccionar si quieres recibir llamadas de Banco del Tiempo para un idioma específico. El segundo estado te permite activar y desactivar el buscador automático de compañeros. Si desactivas el estado general para la sala de un idioma, también se desactivará el buscador automático de compañeros</value>
   </data>
   <data name="HelpState5" xml:space="preserve">
-    <value>Salas de Wallet: deshabilita las salas de los idiomas en los que no quieres recibir llamadas</value>
+    <value>Llamadas de Wallet: deshabilita los idiomas en los que no quieres recibir llamadas</value>
   </data>
   <data name="HelpState6" xml:space="preserve">
     <value>Buscador de compañeros automático</value>
@@ -241,10 +241,10 @@
     <value>Langademy te buscará un compañero que cumpla tus preferencias y que esté disponible para conversar contigo. Cuanto se encuentré un compañero, te mostraremos una notificación preguntándote si quieres conversar con el compañero que te hemos encontrado</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
-    <value>Los estudiantes de un idioma tienen dos opciones a la hora de practicar el idioma: pueden usar las salas de chat de Wallet o las sala de chat de Banco del Tiempo</value>
+    <value>Los estudiantes de un idioma tienen dos opciones a la hora de practicar el idioma: pueden hacer video llamadas usando créditos de su cuenta Wallet o usando el banco de tiempo</value>
   </data>
   <data name="HelpStudentIntro2" xml:space="preserve">
-    <value>En las salas Wallet, los estudiantes pagan para mantener una conversación con un nativo. En las salas de Banco del Tiempo, el tiempo se usa como moneda de cambio. Mira las secciones {0} y {1} para más información sobre estos dos tipos de salas.</value>
+    <value>En las llamadas Wallet, los estudiantes pagan para mantener una conversación con un nativo. En las llamadas que usan el Banco de Tiempo, el tiempo se usa como moneda de cambio. Mira las secciones {0} y {1} para más información sobre estos dos tipos de salas.</value>
   </data>
   <data name="HelpStudentIntro3" xml:space="preserve">
     <value>Cuando conozcas algún compañero nuevo en una sala, puedes mandarle una solicitud de conexión. Cuando estéis conectados, podréis hacer videollamadas entre los dos sin tener que entrar a las sala.</value>
@@ -253,10 +253,10 @@
     <value>El Banco del Tiempo ofrece una manera para aprender idiomas sin que tengas que gastar tu dinero: el tiempo que utilices para hablar en tu idioma nativos con los estudiantes sera añadido a tu cuenta de Banco del Tiempo. Mira las reglas del Banco del Tiempo ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>Si quieres practicar un idioma, ve a las salas de Banco del Tiempo, empieza a hablar con la gente que encuentres allí y haz videollamadas con ellos. En tu página de inicio podrás ver el saldo de tu cuenta del Banco del Tiempo. Si accedes a la aplicación de tu Banco del Tiempo podrás consultar el histórico y los detalles de tus movimientos en el Banco del Tiempo</value>
+    <value>Si quieres practicar un idioma, ve a las salas de chat, empieza a hablar con la gente que encuentres allí y haz videollamadas con ellos. En tu página de inicio podrás ver el saldo de tu cuenta del Banco del Tiempo. Si accedes a la aplicación de tu Banco del Tiempo podrás consultar el histórico y los detalles de tus movimientos en el Banco del Tiempo</value>
   </data>
   <data name="HelpTBRooms1" xml:space="preserve">
-    <value>Las salas de Banco del Tiempo son el lugar donde encontrarás compañeros de intercambio de idiomas. En esas salas podrás chatear gratis y realizar llamadas de Banco del Tiempo (ver{0}).</value>
+    <value>Las salas de chat son el lugar donde encontrarás compañeros de intercambio de idiomas. En esas salas podrás chatear gratis y realizar llamadas de Banco del Tiempo (ver{0}).</value>
   </data>
   <data name="HelpTBRooms2" xml:space="preserve">
     <value>Puedes consultar que usuarios están en línea en el panel izquierdo. Si clicas en el usuario, verás las diferentes opciones de cada usuario: puedes agregarlos como compañeros, hacer videollamadas o reportar o bloquearlos si te han causado algún problema</value>
@@ -271,7 +271,7 @@
     <value>Ademas, si estás apuntado a una quedada puedes proponer nuevos temas para esa quedada o votar los temas que otros usuarios han propuesto</value>
   </data>
   <data name="HelpTBRooms6" xml:space="preserve">
-    <value>Puedes acceder al tablón de quedadas a través de tu página de inicio o desde las salas de Banco del Tiempo. Una vez que accedas al tablón, podrás ver las quedadas de los idiomas que tienes añadidos en tu perfil. Si quieres crear una quedada, selecciona un idioma, fecha y una hora para la quedada. Cuando hayas creado la quedada, puedes invitar a tus contactos de Langademy a que se unan a ella.</value>
+    <value>Puedes acceder al tablón de quedadas a través de tu página de inicio o desde las salas de chat. Una vez que accedas al tablón, podrás ver las quedadas de los idiomas que tienes añadidos en tu perfil. Si quieres crear una quedada, selecciona un idioma, fecha y una hora para la quedada. Cuando hayas creado la quedada, puedes invitar a tus contactos de Langademy a que se unan a ella.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
     <value>A los hablantes nativos se les retendrá el 13% (+ IVA) de la cantidad que se le haya cobrado al estudiante. El saldo será actualizado cuando la llamada haya finalizado.</value>
@@ -301,13 +301,13 @@
     <value>Los reintegros se procesan cada 15 días. Si lo deseas, puedes editar el número de créditos que hayas solicitado antes de que el reintegro haya sido procesado. Si ya has realizado una solicitud, no podrás hacer otra solicitud hasta que la anterior solicitud haya sido procesada</value>
   </data>
   <data name="HelpWCR1" xml:space="preserve">
-    <value>Las salas de chat Wallet son el punto de encuentro de los hablante nativos y los estudiantes. En estas salas los estudiantes pueden hacer llamadas con los hablantes nativos. Cada nativo tiene su tarifa, que será aplicada cuando se haga una videollamada. Durante la llamada, el coste de la llamada se irá actualizando cada minuto, por lo que los hablantes nativos solo pagarán por el número de minutos que hablen. En cada llamada, habrá un periodo de prueba de 3 minutos, en el que el estudiante podrá decidir si quiere continuar con la llamada antes de que comience a pagar.</value>
+    <value>Las salas de chat son el punto de encuentro de los hablante nativos y los estudiantes. En estas salas los estudiantes pueden hacer llamadas con los hablantes nativos. Cada nativo tiene su tarifa, que será aplicada cuando se haga una videollamada. Durante la llamada, el coste de la llamada se irá actualizando cada minuto, por lo que los hablantes nativos solo pagarán por el número de minutos que hablen. En cada llamada, habrá un periodo de prueba de 3 minutos, en el que el estudiante podrá decidir si quiere continuar con la llamada antes de que comience a pagar.</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
-    <value>Requisitos para entrar en las salas Wallet</value>
+    <value>Requisitos para realizar llamadas Wallet</value>
   </data>
   <data name="HelpWCR3" xml:space="preserve">
-    <value>Tanto los hablantes nativos como los estudiantes de idiomas tienen que cumplir unos requisitos para poder entrar a las salas de chat Wallet.</value>
+    <value>Los hablantes nativos tienen que cumplir varios requisitos para poder empezar a ganar dinero con las llamadas Wallet</value>
   </data>
   <data name="HelpWCR4" xml:space="preserve">
     <value>Requisitos para los estudiantes de idiomas:</value>
@@ -319,10 +319,10 @@
     <value>Requisitos para los hablantes nativos:</value>
   </data>
   <data name="HelpWCR7" xml:space="preserve">
-    <value>Los hablantes nativos tienen que cumplir dos requisitos para entrar en una sala Wallet:</value>
+    <value>Cuando un hablante nativo entre en una sala, de inicio no podrá establecer una tarifa, y por lo tanto no podrá ganar dinero con las llamadas. Para poder establecer una tarifa, el hablante nativo debe cumplir los siguientes requisitos:</value>
   </data>
   <data name="HelpWCR8" xml:space="preserve">
-    <value>Cada sala de Wallet requiere tener un número de votos positivos mínimo. Para ganar votos positivos, los hablantes nativos pueden ir a las salas de Banco del Tiempo del idioma en el que se quieren ganar votos y hacer videollamadas con los estudiantes para ganar votos positivos. Si un nativo quiere reunir a varios estudiantes a la misma hora, puede crear quedadas. Más información en {0}</value>
+    <value>Cada idioma requiere tener un número de votos positivos mínimo. Para ganar votos positivos, los hablantes nativos tienen que hacer videollamadas con los estudiantes y ganar votos positivos. Si un nativo quiere reunir a varios estudiantes a la misma hora, puede crear quedadas. Más información en {0}</value>
   </data>
   <data name="HelpWCR9" xml:space="preserve">
     <value>Rellenar la dirección de facturación: ve a My Wallet y rellena tu dirección de facturación</value>
@@ -331,10 +331,10 @@
     <value>My Wallet es la aplicación donde puedes gestionar tus finanzas de Langademy. En este app podrás consultas tus movimientos, tu histórico de facturas y añadir o editar tu información de facturación. Langademy también permite la compras  y reintegros de créditos.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>Si has entrado en Langademy para aprender idiomas, ve a las salas de chat Wallet y revisa sus tarifas y reputaciones</value>
+    <value>Si has entrado en Langademy para aprender idiomas, ve a las salas de chat y revisa las tarifas y reputaciones de los hablantes nativos</value>
   </data>
   <data name="HelpWalletIntro3" xml:space="preserve">
-    <value>Si quieres ganar dinero mientras hablas con estudiantes de tu idioma nativo, tendrás que mejorar tu reputación en las salas de Banco del Tiempo antes de poder entrar en las salas de chat Wallet ({0})</value>
+    <value>Si quieres ganar dinero mientras hablas con estudiantes de tu idioma nativo, tendrás que mejorar tu reputación. Para ello deberás realizar llamadas con una tarifa de 0 créditos o haciendo llamadas con del banco de tiempo.</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Ayuda de Langademy</value>
@@ -346,7 +346,7 @@
     <value>Introducción a las salas y llamadas de Wallet</value>
   </data>
   <data name="HelpNativesSent7" xml:space="preserve">
-    <value>Cuando accedas por primera vez a una sala de Wallet, tendrás que especificar una tarifa para tus llamadas de esa sala. Cuando estés en la sala, podrás chatear con los estudiantes que encuentres allí o esperar a que alguien te llame. Si tienes una buena reputación y si das una buena impresión en el chat tendrás más posibilidades de recibir llamadas.</value>
+    <value>Cuando tengas la reputación suficiente en un idioma, tendrás que especificar una tarifa para tus llamadas de ese idioma. Cuando estés en la sala, podrás chatear con los estudiantes que encuentres allí o esperar a que alguien te llame. Si tienes una buena reputación y si das una buena impresión en el chat tendrás más posibilidades de recibir llamadas.</value>
   </data>
   <data name="HelpNativesSent8" xml:space="preserve">
     <value>Cuando recibas una videollamada, se le aplicará la tarifa que hayas establecido y cuando acaba la llamada tu saldo será actualizado. Cada llamada tiene una comisión ({0}) que será cobrada de tu cuenta al final de mes</value>
