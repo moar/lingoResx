@@ -202,7 +202,7 @@
     <value>Ezin dezakezu hizkuntza honen tarifa definitu</value>
   </data>
   <data name="CRWalletConditions" xml:space="preserve">
-    <value>Wallet gela honetara sartzeko baldintza hauek bete behar dituzu:</value>
+    <value>Hizkuntza honetarako tarifa bat definitu nahi baduzu baldintza hauek bete behar dituzu:</value>
   </data>
   <data name="CRVisitorSentence" xml:space="preserve">
     <value>Txat honetan idaztea doan da baina zure Walletean kredituak eduki behar dituzu ({0})</value>

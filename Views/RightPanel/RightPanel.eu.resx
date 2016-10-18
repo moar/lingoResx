@@ -219,6 +219,9 @@
   <data name="RPWalletCall" xml:space="preserve">
     <value>Walle deia</value>
   </data>
+  <data name="ChatRooms" xml:space="preserve">
+    <value>Txak gelak</value>
+  </data>
   <data name="WalletRooms" xml:space="preserve">
     <value>Wallet gelak</value>
   </data>

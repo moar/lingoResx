@@ -181,19 +181,19 @@
     <value>Hiztun natiboen komisioa</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Zure hizkuntza natiboan hitz egin nahi baduzu, joan zure hizkuntza natiboko Wallet txat gelara eta bertan aurkituko dituzu zurekin hitz egin nahi duten mintzalagunak</value>
+    <value>Zure hizkuntza natiboan hitz egin nahi baduzu, joan zure hizkuntza natiboko txat gelara eta bertan aurkituko dituzu zurekin hitz egin nahi duten mintzalagunak</value>
   </data>
   <data name="HelpNativesSent2" xml:space="preserve">
     <value>Baina lehenik, baldintza batzuk bete behar dituzu:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
-    <value>Wallet txat gela bakoitzak boto positibo kopuru bat edukitzea eskatzen du. Botu hauek lortzeko, jo denbora bankuko txat geletara, hitz egin ezazu beste mintzalagun batzuekin zure hizkuntza natiboan eta irabaz itzazu boto positiboak. Hizkuntza batean botu positibo nahikoa dituzunean, hizkuntza horren txat gelara sartu ahal izango zara</value>
+    <value>Walleta erabili ahal izateko, hizkuntza bakoitzean boto positibo kopuru bat edukitzea eskatzen da. Botu hauek lortzeko, jo txat geletara, hitz egin ezazu beste mintzalagun batzuekin zure hizkuntza natiboan eta irabaz itzazu boto positiboak. Hizkuntza batean botu positibo nahikoa dituzunean, hizkuntza horretarako tarifa bat ezarri, Wallet deiak egin eta dirua irabazteko prest egongo zara</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Bete ezazu zure fakturazioari buruzko informazioa. Edozein txat gelatara sartu aurretik, zure fakturazio helbidea bete beharko duzu My Wallet -&gt; Fakturazio informazioa orrian.</value>
+    <value>Bete ezazu zure fakturazioari buruzko informazioa. Edozein hizkuntzatarako tarifa bat ezarri aurretik, zure fakturazio helbidea bete beharko duzu My Wallet -&gt; Fakturazio informazioa orrian.</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
-    <value>Bi baldintza hauek betetzen dituzunean, Wallet txat geletara sartzeko prest egongo zara</value>
+    <value>Bi baldintza hauek betetzen dituzunean, tarifa bat ezarri, eta Wallet deiak eginez dirua irabazteko prest egongo zara</value>
   </data>
   <data name="HelpNativesTitle" xml:space="preserve">
     <value>Hiztun natiboak: nola hasi</value>
@@ -211,7 +211,7 @@
     <value>Walleterako sarrera</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Walletako txat gelak eta bideo deiak</value>
+    <value>Wallet bideo deiak</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Kredituak ateratzea</value>
@@ -229,10 +229,10 @@
     <value>Deitik jasotzea nahi ez baduzu, ezarri ezazu "lanpetuta" egoera</value>
   </data>
   <data name="HelpState4" xml:space="preserve">
-    <value>Denbora bankuko gelak: bi egoera mota dituzte. Lehenengo egoerarekin gela hortatako deirik jaso nahi duzun adierazi dezakezu. Bigarren egoerak aldiz mintzalagun bilatzaile automatikoa gaitzeko edo desgaitzeko balio du. Gelako egoera orokorra desgaitzen baduzu, berarekin batera mintzalagun bilatzaile automatikoa ere desgaituko duzu</value>
+    <value>Denbora bankuko deiak: bi egoera mota dituzte. Lehenengo egoerarekin hizkuntza batean deirik jaso nahi duzun adierazi dezakezu. Bigarren egoerak aldiz mintzalagun bilatzaile automatikoa gaitzeko edo desgaitzeko balio du. Hizkuntzarako egoera orokorra desgaitzen baduzu, berarekin batera mintzalagun bilatzaile automatikoa ere desgaituko duzu</value>
   </data>
   <data name="HelpState5" xml:space="preserve">
-    <value>Wallet gelak: desgaitu itzazu deiri jasotzea nahi ez duzun hizkuntzetako gelak</value>
+    <value>Wallet deiak: desgaitu itzazu deirik jasotzea nahi ez duzun hizkuntzak</value>
   </data>
   <data name="HelpState6" xml:space="preserve">
     <value>Mintzalagun bilatzaile automatikoa</value>
@@ -241,10 +241,10 @@
     <value>Langademyk eskurakarri dagoen eta zure preferentziak betetzen dituen mintzalagunen bat topatuko dizu zurekin hitz egiteko. Mintzalagun bat aurkitzen denean, notifikazio bat jasoko duzu mintzalagun horrekin dei bat egitea nahi duzun irakodiz</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
-    <value>Ikasleek bi aukera dituzte hizkuntza bat praktikatzeko orduan: Wallet gelak edo denbora bankuko gelak erabili ditzakete.</value>
+    <value>Ikasleek bi aukera dituzte hizkuntza bat praktikatzeko orduan: Wallet deiak edo denbora bankuko deiak egin ditzakete.</value>
   </data>
   <data name="HelpStudentIntro2" xml:space="preserve">
-    <value>Wallet txat geletan, ikasleek natiboekin mintza saio bat izateko ordaindu egiten dute. Denbora bankuko geletan aldiz, denbora erabiltzen da trukerako txanpon bezala. Kontsulta itzazu {0} eta {1} atalak gela hauei buruzko informazio gehiago lortzeko</value>
+    <value>Wallet deietan, ikasleek natiboekin mintza saio bat izateko ordaindu egiten dute. Denbora bankuko deietan aldiz, denbora erabiltzen da trukerako txanpon bezala. Kontsulta itzazu {0} eta {1} atalak dei hauei buruzko informazio gehiago lortzeko</value>
   </data>
   <data name="HelpStudentIntro3" xml:space="preserve">
     <value>Gela batean mintzalagun berriak ezagutzen dituzunean, konexio eskaerak bidali diezazkiekezu. Konektatuta zaudetenean, geletan sartu gabe bideo deiak egin ahal izango dituzue.</value>
@@ -253,10 +253,10 @@
     <value>Denbora bankuak hizkuntzak dirurik gastatu gabe ikasteko aukera eskaintzen du: ikasle batekin zure hizkuntzan hitz egiten erabiltzen duzun denbora, zure denbora bankuko kontura gehituko zaizu zuk nahi dituzun hizkuntzak praktika ditzazun. Errepasa itzazu denbora bankuko erregelak ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>Hizkuntza bat praktikatzeko, joan denbora bankuko geletara, hasi zaitez jendearekin txateatzen eta egin itzazu bideo deiak beraiekin. Zure hasierako horrian zure denbora bankuko saldoa kontsultatu dezakezu, eta Denbora Bankuaren aplikazioan zure deien xehetasunak eta historikoa ikusi ahal izango dituzu</value>
+    <value>Hizkuntza bat praktikatzeko, joan txat geletara, hasi zaitez jendearekin txateatzen eta egin itzazu bideo deiak beraiekin. Zure hasierako orrialdean zure denbora bankuko saldoa kontsultatu dezakezu, eta Denbora Bankuaren aplikazioan zure deien xehetasunak eta historikoa ikusi ahal izango dituzu</value>
   </data>
   <data name="HelpTBRooms1" xml:space="preserve">
-    <value>Denbora bankuko geletan hizkuntza elkartrukerako mintzalagunak topatuko dituzu. Gela hauetan dohainik txateatu eta bideo deiak egiteko aukera izango duzu (ikusi {0})</value>
+    <value>Txat geletan hizkuntza elkartrukerako mintzalagunak topatuko dituzu. Gela hauetan dohainik txateatu eta bideo deiak egiteko aukera izango duzu (ikusi {0})</value>
   </data>
   <data name="HelpTBRooms2" xml:space="preserve">
     <value>Ezkerreko panelean eskuragarri dauden erabiltzaileak ikusi ditzakezu. Erabiltzaileen gainean klikazen baduzu aukera desberdinak ikusiko dituzu: konexio eskaerak bidaltzea, bideo deiak egitea edo erabiltzaileak erreportatu edota blokeatzea.</value>
@@ -271,7 +271,7 @@
     <value>Bestalde, bilera baten apuntzatzen bazara, bilararako gaiak proposatu eta beste erabiltzaile batzuek proposatu dituzten gaiak botatu ahal izango dituzu</value>
   </data>
   <data name="HelpTBRooms6" xml:space="preserve">
-    <value>Bilera taulara zure hasierako orritik edo Denbora bankuko edozein txat gelatatik sartu zaitezke. Bertan zaudenean beste erabiltzaile batzuek sortu dituzten bilerak ikusi ahal izango dituzu. Ez dituzu bilera guztiak ikusiko, zure profilean gehitu dituzun hizkuntzetako bilerak soilik izango dituzu eskuragarri. Bilera bat sortzea nahi baduzu, aukeratu bileraren hizkuntza, eguna eta ordua eta sortu ezazu bilera. Bilera sortzen duzunean, zure Langademyko kontaktuak bertara gonbidatu ditzakezu</value>
+    <value>Bilera taulara zure hasierako orritik edo edozein txat gelatatik sartu zaitezke. Bertan zaudenean beste erabiltzaile batzuek sortu dituzten bilerak ikusi ahal izango dituzu. Ez dituzu bilera guztiak ikusiko, zure profilean gehitu dituzun hizkuntzetako bilerak soilik izango dituzu eskuragarri. Bilera bat sortzea nahi baduzu, aukeratu bileraren hizkuntza, eguna eta ordua eta sortu ezazu bilera. Bilera sortzen duzunean, zure Langademyko kontaktuak bertara gonbidatu ditzakezu</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
     <value>Hiztun natiboei dei bakoitzean irabazi duten kredito kopuruaren %13ko komisio bat (+ beza) aplikatzen zaie. Bideo deia bukatzen denean, hiztun natiboei beraien saldoa eguneratuko zaie</value>
@@ -301,13 +301,13 @@
     <value>Kredituen eskariak 15 egunean behin prozesatzen dira. Nahi izanez gero, eskarian eginieko kreditu kopurua editatu egin daiteke. Eskari bat eginez gero, ezin da beste eskari bat egin lehenengo eskaria prozesatzen bukatu aurretik.</value>
   </data>
   <data name="HelpWCR1" xml:space="preserve">
-    <value>Walleteko txak gelak hiztun natiboen eta ikasleen arteko elkarlekua dira. Gela hauetan ikasleek hiztun natiboekin txateatu eta bideo deiak egin ditzakete. Hiztun natibo bakoitzak tarifa bat eskeintzen du, eta tarifa hori bideo deia egiterakoan aplikatuko da. Bideo deiean zaudenean, deiaren kostua minuturo eguneratuko da, beraz, hitz egiten duzun minutuengatik soilik ordainduko duzu. Dei bakoitzeko lehen 3 minutuak natiboa ezagutzeko izango dituzu, horrela, natibo horrekin deia egiten jarraitu nahi duzun ala ez pentsatu ahal izango duzu deia ordaintzen hasi aurretik</value>
+    <value>Txak gelak hiztun natiboen eta ikasleen arteko elkarlekua dira. Gela hauetan ikasleek hiztun natiboekin txateatu eta bideo deiak egin ditzakete. Hiztun natibo bakoitzak tarifa bat eskeintzen du, eta tarifa hori bideo deia egiterakoan aplikatuko da. Bideo deiean zaudenean, deiaren kostua minuturo eguneratuko da, beraz, hitz egiten duzun minutuengatik soilik ordainduko duzu. Dei bakoitzeko lehen 3 minutuak natiboa ezagutzeko izango dituzu, horrela, natibo horrekin deia egiten jarraitu nahi duzun ala ez pentsatu ahal izango duzu deia ordaintzen hasi aurretik</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
-    <value>Wallet geletara sartzeko baldintzak</value>
+    <value>Wallet deiak egin ahal izateko baldintzak</value>
   </data>
   <data name="HelpWCR3" xml:space="preserve">
-    <value>Hiztun natiboek eta ikasleek Wallet geletara sartzeko eskakizun batzuk bete behar dituzte</value>
+    <value>Hiztun natiboek eta ikasleek Wallet deiak egin eta dirua irabazten hasteko eskakizun batzuk bete behar dituzte</value>
   </data>
   <data name="HelpWCR4" xml:space="preserve">
     <value>Ikasleentzako baldintzak:</value>
@@ -319,10 +319,10 @@
     <value>Hiztun natiboentzako baldintzak:</value>
   </data>
   <data name="HelpWCR7" xml:space="preserve">
-    <value>Hiztun natiboek bi baldintza bete behar dituzte Wallet txat geletan sartzeko:</value>
+    <value>Hiztun natiboek bi baldintza bete behar dituzte Walleterako tarifa bat ezarri eta deiak egiten hasteko:</value>
   </data>
   <data name="HelpWCR8" xml:space="preserve">
-    <value>Wallet gela bakoitzak botu positibo kopuru minimo bat dauka definituta bertara sartu ahal izateko. Botu positiboak irabazteko, Denbora bankuko hizkuntza bereko txat gelara joan eta botu positiboak irabazi daitekez ikasleekin bideo deiak eginez. Hiztun natibo batek ordu berean ikasle ugari bildu nahi baditu, bilerak sortu ditzakete bilera taulan. Informazio gehiago hemen ({0})</value>
+    <value>Hizkunta bakoitzak botu positibo kopuru minimo bat eskatzen du Wallet deiak eginaz dirua irabazi ahal izateko. Botu positiboak irabazteko, Hizkuntza hortaok txat gelara joan eta botu positiboak irabazi daitezke ikasleekin bideo deiak eginez. Hiztun natibo batek ordu berean ikasle ugari bildu nahi baditu, bilerak sortu ditzakete bilera taulan. Informazio gehiago hemen ({0})</value>
   </data>
   <data name="HelpWCR9" xml:space="preserve">
     <value>Bete ezazu zure fakturazio helbidea: joan My Walletera eta bete ezazu bertan</value>
@@ -331,10 +331,10 @@
     <value>My Wallet aplikazioa Langademyk zure finantzak kudeatzeko eskeintzen dizun aplikazioa da. Bertan zure mugimenduak eta zure fakturen historikoa ikusi, kredituak erosi, zure fakturazio infomazioa editatu eta kredituak ateratzeko eskaerak egin ditzakezu.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>Langademyn hizkuntzak ikasteko bazaude, joan Wallet txat geletara eta bilatu itzazu hiztun natiboak eta ikusi beraien tarifak</value>
+    <value>Langademyn hizkuntzak ikasteko bazaude, joan txat geletara eta bilatu itzazu hiztun natiboak eta ikusi beraien tarifak</value>
   </data>
   <data name="HelpWalletIntro3" xml:space="preserve">
-    <value>Zure hizkuntza natiboan hitz eginaz dirua irabaztea nahi baduzu, lehenik zure erreputazioa hobetu beharko denbora bankuko geletan Wallet geletara sartu aurretik ({0})</value>
+    <value>Zure hizkuntza natiboan hitz eginaz dirua irabaztea nahi baduzu, lehenik zure erreputazioa hobetu beharko denbora bankuko deiak edo doako deiak eginaz.</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Langademyko laguntza</value>
@@ -346,7 +346,7 @@
     <value>Wallet gelak eta deietara sarrera </value>
   </data>
   <data name="HelpNativesSent7" xml:space="preserve">
-    <value>Wallet gela batera lehen aldiz sartzen zarenean, zure deientzako tarifa bat definitu beharko duzu. Gela barruan zaudenean, norbaitek deitzen zaituen bitartean gelako beste partaideekin txateatu ezazu. Erreputazio ona badaukazu eta txatean inpresio ona ematen baduzu errezagoa izango da deiak jasotzea</value>
+    <value>Hizkuntza batean Wallet deiak egiteko erreputazioa daukazunean, Wallet deietarako tarifa bat ezarri beharra daukazu. Hizkuntza hortako gela barruan zaudenean, norbaitek deitzen zaituen bitartean gelako beste partaideekin txateatu ezazu. Erreputazio ona badaukazu eta txatean inpresio ona ematen baduzu errezagoa izango da deiak jasotzea</value>
   </data>
   <data name="HelpNativesSent8" xml:space="preserve">
     <value>Bideo dei bat jasotzen duzunean, zuk ezarritako tarifa aplikatuko zaio deiari, eta zure saldoa deia bukatzen denean eguneratuko da. Dei bakoitzak komisio bat dauka ({0}), komisio hori hilaren bukaeran kobratuko zaizularik.</value>

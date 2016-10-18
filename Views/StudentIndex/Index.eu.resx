@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="IsBlock2B1Text" xml:space="preserve">
-    <value>Sartu Wallet txat geletara eta bilatu  ezazu zure beharretara egokitzen den hiztun natiboren bat. Begiratu itzazu natiboen esperientzia eta tarifak!</value>
+    <value>Sartu txat geletara eta bilatu  ezazu zure beharretara egokitzen den hiztun natiboren bat. Begiratu itzazu natiboen esperientzia eta tarifak!</value>
   </data>
   <data name="ISBlock2B1Title" xml:space="preserve">
-    <value>Sartu Wallet geletara</value>
+    <value>Bilatu mintzalagun natiboak</value>
   </data>
   <data name="ISBlock2B2Text" xml:space="preserve">
     <value>Egin itzazu online bideo dei pribatuak mundu osoko hiztun natiboekin. Probarako denbora tarte bat izango duzu natibo bakoitzarekin, deiarekin aurrera jarraitu eta ordaindu nahi diozun erabakitzeko.</value>
   </data>
   <data name="ISBlock2B2Title" xml:space="preserve">
-    <value>Egin bideo dei pribatuak</value>
+    <value>Egin Wallet bideo deiak</value>
   </data>
   <data name="ISBlock2B3Text" xml:space="preserve">
     <value>Paga ezazu soilik hitz egiten duzun denboragatik. Ezta zentimo bat gehiago ere.</value>
@@ -145,7 +145,7 @@
     <value>Erabil ezazu denbora trukerako txanpon bezala</value>
   </data>
   <data name="ISBlock3B2Text" xml:space="preserve">
-    <value>Sar zaitez Langademyko denbora bankuko geletara eta ikasi nahi duzun hizkuntzan mintzatzeko jendea aurkituko duzu. Web kamera bat baduzu bideo deiak egin ahal izango dituzu, bestela dei arruntak edota idatzizko mezuak bidal ditzakezu!</value>
+    <value>Sar zaitez Langademyko txat geletara eta ikasi nahi duzun hizkuntzan mintzatzeko jendea aurkituko duzu. Web kamera bat baduzu bideo deiak egin ahal izango dituzu, bestela dei arruntak edota idatzizko mezuak ere bidal ditzakezu!</value>
   </data>
   <data name="ISBlock3B2Title" xml:space="preserve">
     <value>Ezagutu ezazu jende berria</value>
