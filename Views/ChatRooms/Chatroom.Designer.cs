@@ -79,15 +79,6 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Available.
-        /// </summary>
-        public static string CRAvailable {
-            get {
-                return ResourceManager.GetString("CRAvailable", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Your credits.
         /// </summary>
         public static string CRBalance {
@@ -120,6 +111,15 @@ namespace Resources.Views.ChatRooms {
         public static string CRCreateMeetup {
             get {
                 return ResourceManager.GetString("CRCreateMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enable Wallet calls to start earning money.
+        /// </summary>
+        public static string CREnableWallet {
+            get {
+                return ResourceManager.GetString("CREnableWallet", resourceCulture);
             }
         }
         
@@ -286,6 +286,15 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Time bank calls.
+        /// </summary>
+        public static string CRTBAvailable {
+            get {
+                return ResourceManager.GetString("CRTBAvailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Timebank call.
         /// </summary>
         public static string CRTBCall {
@@ -336,6 +345,15 @@ namespace Resources.Views.ChatRooms {
         public static string CRVisitorSentence {
             get {
                 return ResourceManager.GetString("CRVisitorSentence", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet calls.
+        /// </summary>
+        public static string CRWalletAvailable {
+            get {
+                return ResourceManager.GetString("CRWalletAvailable", resourceCulture);
             }
         }
         
