@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="INBlock2B1Text" xml:space="preserve">
-    <value>Once you have enough reputation, enter your native language's Wallet chat room and meet new people that are willing to learn your language</value>
+    <value>Once you have enough reputation, enter your native language's chat room and meet new people that are willing to learn your language</value>
   </data>
   <data name="INBlock2B1Title" xml:space="preserve">
     <value>Start talking to students</value>

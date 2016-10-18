@@ -169,7 +169,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter the Wallet Chatroom of your language choice.
+        ///   Looks up a localized string similar to Enter the room of your language choice.
         /// </summary>
         public static string IndBlock3Step2 {
             get {

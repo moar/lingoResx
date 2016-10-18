@@ -61,7 +61,7 @@ namespace Resources.Views.IndexNatives {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Once you have enough reputation, enter your native language&apos;s Wallet chat room and meet new people that are willing to learn your language.
+        ///   Looks up a localized string similar to Once you have enough reputation, enter your native language&apos;s chat room and meet new people that are willing to learn your language.
         /// </summary>
         public static string INBlock2B1Text {
             get {

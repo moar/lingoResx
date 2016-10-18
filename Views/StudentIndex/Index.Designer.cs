@@ -70,7 +70,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Make Wallet video calls.
+        ///   Looks up a localized string similar to Find native speakers.
         /// </summary>
         public static string ISBlock2B1Title {
             get {
@@ -88,7 +88,7 @@ namespace Resources.Views.StudentIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Make private video calls.
+        ///   Looks up a localized string similar to Make Wallet video calls.
         /// </summary>
         public static string ISBlock2B2Title {
             get {

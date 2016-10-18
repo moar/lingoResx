@@ -70,7 +70,7 @@ namespace Resources.Views.ExchangeIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Become fluent in any language with online language exchanges. Go to Langademy´s chat rooms, find native speakers and practice your favourite languages. You can learn spanish, german, english, french or any other language!.
+        ///   Looks up a localized string similar to Become fluent in any language with online language exchanges. Go to Langademy&apos;s chat rooms, find native speakers and practice your favourite languages. You can learn spanish, german, english, french or any other language!.
         /// </summary>
         public static string EIBlock1Text {
             get {
