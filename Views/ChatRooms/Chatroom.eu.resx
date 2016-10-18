@@ -123,8 +123,8 @@
   <data name="CRAutomaticPartner" xml:space="preserve">
     <value>Mintzalagun bilatzaile automatikoa</value>
   </data>
-  <data name="CRAvailable" xml:space="preserve">
-    <value>Eskuragarri</value>
+  <data name="CRWalletAvailable" xml:space="preserve">
+    <value>Wallet deiak</value>
   </data>
   <data name="CRBeginners" xml:space="preserve">
     <value>Sarrera maila</value>
@@ -236,5 +236,11 @@
   </data>
   <data name="CRWalletCall" xml:space="preserve">
     <value>Wallet deia</value>
+  </data>
+  <data name="CREnableWallet" xml:space="preserve">
+    <value>Gaitu Wallet deiak dirua irabazten hasteko</value>
+  </data>
+  <data name="CRTBAvailable" xml:space="preserve">
+    <value>Denbora bankuko deiak</value>
   </data>
 </root>

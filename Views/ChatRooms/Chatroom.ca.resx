@@ -123,11 +123,11 @@
   <data name="CRAutomaticPartner" xml:space="preserve">
     <value>Cercador automàtic de companys</value>
   </data>
-  <data name="CRAvailable" xml:space="preserve">
-    <value>Disponible</value>
-  </data>
   <data name="CRBeginners" xml:space="preserve">
     <value>Principiant</value>
+  </data>
+  <data name="CRTBCall" xml:space="preserve">
+    <value>Trucada Banc de Temps</value>
   </data>
   <data name="CRHideFiltered" xml:space="preserve">
     <value>Ocultar filtrats</value>
@@ -230,5 +230,8 @@
   </data>
   <data name="CRMBTripTitle" xml:space="preserve">
     <value>Quedades Langademy</value>
+  </data>
+  <data name="CRWalletCall" xml:space="preserve">
+    <value>Trucada Wallet</value>
   </data>
 </root>

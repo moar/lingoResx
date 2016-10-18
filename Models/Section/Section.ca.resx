@@ -119,6 +119,9 @@
   </resheader>
   
   
+  <data name="Conversations" xml:space="preserve">
+    <value>Converses</value>
+  </data>
   <data name="LangademyChallenge" xml:space="preserve">
     <value>Repte Langademy</value>
   </data>

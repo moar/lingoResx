@@ -181,19 +181,19 @@
     <value>Tariffa dei madrelingua</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Se vuoi parlare nella tua lingua, devi andare alla Wallet chat room della tua  lingua dove si trovano gli studenti con chi conversare</value>
+    <value>Se vuoi parlare nella tua lingua, devi andare alla chat room della tua lingua dove si trovano gli studenti con chi conversare</value>
   </data>
   <data name="HelpNativesSent2" xml:space="preserve">
     <value>Ma prima dobbiamo rispondere a determinati requisiti:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
-    <value>Ogni Wallet chat room richiede un numero minimo di voti positivi. Per farli devi andare nelle stanze Banca del Tempo, parlare con le persone che vogliono imparare tua lingua e guadagnare un feedback positivo. Una volta che hai vinto il numero di voti necessari, è possibile entrare in quella stanza</value>
+    <value>Per stabilire una tassa in una lingua particolare, è necessario disporre di un numero minimo di voti positivi. Per farli devi andare nelle chat rooms, parlare con le persone che vogliono imparare tua lingua e guadagnare un feedback positivo. Una volta che hai vinto il numero di voti necessari, si stabilirà tua tariffa</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Riempi i dati di fatturazione. Prima di entrare in una stanza,Wallet room, è necessario riempire il vostro indirizzo di fatturazione nel My Wallet -&gt; Informazioni per la fatturazione</value>
+    <value>Riempi i dati di fatturazione. Prima di realizzare una chiamata Wallet, è necessario riempire il tuo indirizzo di fatturazione nel My Wallet -&gt; Informazioni per la fatturazione</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
-    <value>Una volta approvato queste due esigenze, sei pronto per entrare nelle stanze Wallet</value>
+    <value>Una volta approvato queste due esigenze, sarai pronto per guadagnare soldi nelle chiamate Wallet</value>
   </data>
   <data name="HelpNativesTitle" xml:space="preserve">
     <value>Madrelingua: Introduzione</value>
@@ -202,7 +202,7 @@
     <value>Introduzione alla Banca del Tempo</value>
   </data>
   <data name="HelpTBRoomsTitle" xml:space="preserve">
-    <value>Chat rooms dalla Banca del Tempo</value>
+    <value>Uso della Banca del Tempo nelle videochiamate</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>Come funziona la Banca del tempo?</value>
@@ -211,7 +211,7 @@
     <value>Introduzione a Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Stanze di chat Wallet e videochiamate Wallet</value>
+    <value>Videochiamate Wallet</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Ritiro di credito</value>
@@ -229,10 +229,10 @@
     <value>Se non vuoi ricevere chiamate, modifica il tuo stato a "occupato"</value>
   </data>
   <data name="HelpState4" xml:space="preserve">
-    <value>Stanze Banco del Tempo: Queste camere sono dotate di due stati. Con il primo stato, è possibile selezionare se si desidera ricevere le chiamate da Banca del Tempo per una lingua specifica. Il secondo stato permette di abilitare e disabilitare la ricerca automatica dei compagni. Se disabiliti lo stato generale anche verrà disabilitato il motore di ricerca automatico di compagni</value>
+    <value>Chiamate Banca del Tempo: se si vuole effettuare chiamate utilizzando la banca del tempo, devi prendere in considerazione questi due stati. Con il primo stato, è possibile selezionare se vuoi ricevere chiamate del Banca del Tempo per una lingua specifica. Il secondo stato, permette di abilitare e disabilitare la ricerca automatica dei compagni. Se disabiliti lo stato generale anche verrà disabilitato il motore di ricerca automatico di compagni</value>
   </data>
   <data name="HelpState5" xml:space="preserve">
-    <value>Wallet rooms: disabilita le stanze delle lingue che non desideri ricevere chiamate</value>
+    <value>Chiamate Wallet: disabilita le stanze delle lingue che non desideri ricevere chiamate</value>
   </data>
   <data name="HelpState6" xml:space="preserve">
     <value>Motore di ricerca automatica di compagni </value>
@@ -241,10 +241,10 @@
     <value>Langademy cercherà un partner che soddisfa le tue preferenze e sía disponibile a parlare con te. Quando viene trovato un partner visualizzeremo una notifica che chiede se si vuole parlare con il partner che ti abbiamo trovato</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
-    <value>Gli studenti di una lingua hanno due opzioni per quanto riguarda praticare la lingua: possono utilizzare il chat Wallet o le chatroom Banca del Tempo</value>
+    <value>Gli studenti di una lingua hanno due opzioni per quanto riguarda praticare la lingua: possono utilizzare le videochiamate Wallet o utilizzando la Banca del Tempo</value>
   </data>
   <data name="HelpStudentIntro2" xml:space="preserve">
-    <value>Nelle Wallet rooms, gli studenti pagano per avere una conversazione con un madrelingua. Nelle sale di Banca del Tempo, il tempo viene utilizzato come uno scambio. Guarda le sezioni {0} e {1} per ulteriori informazioni su questi due tipi di camere.</value>
+    <value>Nelle chiamate Wallet, gli studenti pagano per avere una conversazione con un madrelingua. Nelle sale di Banca del Tempo, il tempo viene utilizzato come uno scambio. Guarda le sezioni {0} e {1} per ulteriori informazioni su questi due tipi di camere/stanze.</value>
   </data>
   <data name="HelpStudentIntro3" xml:space="preserve">
     <value>Quando incontri un nuovo partner, puoi inviare una richiesta di connessione. Quando si è connessi, è possibile effettuare chiamate video tra i due, senza dover entrare nella stanza.</value>
@@ -253,10 +253,10 @@
     <value>La Banca del Tempo offre un modo per imparare le lingue senza dover spendere il tuo denaro: il tempo che si utilizza per parlare la tua lingua madre con gli studenti ti verrà aggiunto al tuo conto Banca del Tempo. Guarda le regole della Banca del Tempo ({0}). </value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>Se vuoi praticare una lingua, vai alle sale di Banca del Tempo, inizia a parlare con le persone che si trovano lì e effettua chiamate video con loro. Nella tua home page si vedrà il saldo del conto Banca del Tempo. Se si accede l'applicazione Banca del Tempo è possibile visualizzare la cronologia ei dettagli dei movimenti della Banca del Tempo</value>
+    <value>Se vuoi praticare una lingua, vai alle chat rooms, inizia a parlare con le persone che si trovano lì e effettua chiamate video con loro. Nella tua home page si vedrà il saldo del conto Banca del Tempo. Se si accede l'applicazione Banca del Tempo è possibile visualizzare la cronologia ei dettagli dei movimenti della Banca del Tempo</value>
   </data>
   <data name="HelpTBRooms1" xml:space="preserve">
-    <value>Le stanze della Banca del Tempo sono il luogo dove troverai partner per lo scambio di lingua. In queste camere è possibile chattare ed effettuare chiamate: Banca del Tempo (vedi {0}).</value>
+    <value>Le chat rooms sono il luogo dove troverai partner per lo scambio di lingua. In queste camere è possibile chattare ed effettuare chiamate: Banca del Tempo (vedi {0}).</value>
   </data>
   <data name="HelpTBRooms2" xml:space="preserve">
     <value>Puoi vedere che utenti sono online in questo riquadro di sinistra. Se fai clic sul utente, vedrete le diverse opzioni per ogni utente: è possibile aggiungere come compagni, effettuare chiamate video o per segnalare o bloccare se si è causato un problema</value>
@@ -271,7 +271,7 @@
     <value>Inoltre, se sei registrato ad un appuntamento è possibile proporre nuovi argomenti per questo appuntamento o votare i temi che altri hanno proposto</value>
   </data>
   <data name="HelpTBRooms6" xml:space="preserve">
-    <value>È possibile accedere alla Tabella di Appuntamenti attraverso la tua home page o delle stanze di Banca del Tempo. Una volta che si accede alla tabella, si vedrà gli appuntamenti dei linguaggi che sono stati aggiunti al tuo profilo. Se vuoi creare un appuntamento, seleziona una lingua, la data e l'ora per l'appuntamento. Dopo aver creato l'appuntamento, puoi invitare i tuoi contatti Langademy a partecipare.</value>
+    <value>È possibile accedere alla Tabella di Appuntamenti attraverso la tua home page o delle chat rooms. Una volta che si accede alla tabella, si vedrà gli appuntamenti dei linguaggi che sono stati aggiunti al tuo profilo. Se vuoi creare un appuntamento, seleziona una lingua, la data e l'ora per l'appuntamento. Dopo aver creato l'appuntamento, puoi invitare i tuoi contatti Langademy a partecipare.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
     <value> A i madrelingua li saranno trattenuti 13% (+ IVA)  dell'importo addebitato agli studenti. Il saldo verrà aggiornato quando la chiamata viene terminata.
@@ -302,7 +302,7 @@
     <value>I remborsi sono gestite ogni 15 giorni. Se desideri, è possibile modificare il numero di crediti che hai richiesto prima che il rimborso è stato elaborato. Se avete già fatto una richiesta, non è possibile effettuare una nuova richiesta fino a quando la domanda precedente è stata elaborata</value>
   </data>
   <data name="HelpWCR1" xml:space="preserve">
-    <value>Le stanze chat Wallet room sono il punto d'incontro per i madrelingua e gli studenti. In queste stanze gli studenti possono effettuare chiamate con madrelingua. Ogni madrelingua ha una tariffa che verrà applicata quando una chiamata video è fatta. Durante la chiamata, il costo della chiamata sarà aggiornata ogni minuto, in modo che i madrelingua pagheranno solo per il numero di minuti parlati. In ogni chiamata, ci sarà un periodo di prova di 3 minuti, in cui lo studente può decidere se continuare la chiamata prima che inizi a pagare.</value>
+    <value>Le chat room sono il punto d'incontro per i madrelingua e gli studenti. In queste stanze gli studenti possono effettuare chiamate con madrelingua. Ogni madrelingua ha una tariffa che verrà applicata quando una chiamata video è fatta. Durante la chiamata, il costo della chiamata sarà aggiornata ogni minuto, in modo che i madrelingua pagheranno solo per il numero di minuti parlati. In ogni chiamata, ci sarà un periodo di prova di 3 minuti, in cui lo studente può decidere se continuare la chiamata prima che inizi a pagare.</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
     <value>Requisiti per accedere alle Wallet Rooms</value>

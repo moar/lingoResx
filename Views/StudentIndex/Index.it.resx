@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="IsBlock2B1Text" xml:space="preserve">
-    <value>Vai nelle Wallet chat rooms e trova dei madrelingua che si adattano a le tue preferenze: controlla la loro esperienza e prezzi</value>
+    <value>Vai nelle chat rooms e trova dei madrelingua che si adattano a le tue preferenze: controlla la loro esperienza e prezzi</value>
   </data>
   <data name="ISBlock2B1Title" xml:space="preserve">
-    <value>Accedi alle Wallet Rooms</value>
+    <value>Fai videochiamate Wallet</value>
   </data>
   <data name="ISBlock2B2Text" xml:space="preserve">
     <value>Effettua chiamate video con madrelingua in tutto il mondo. Avrai un periodo di prova per decidere se continuare con la chiamata e pagare per conversare.</value>
@@ -145,7 +145,7 @@
     <value>Utilizza il tempo come merce di scambio</value>
   </data>
   <data name="ISBlock3B2Text" xml:space="preserve">
-    <value>Entra nelle (timebanking rooms) stanze della banca del tempo di Langademy e trova persone che parlano la lingua che vuoi mettere in pratica. Se hai una webcam è possibile mantenere videochiamate con i tuoi partner, e se non, è anche possibile effettuare chiamate voce o semplicemente scrivere.</value>
+    <value>Entra nelle chat rooms di Langademy e trova persone che parlano la lingua che vuoi mettere in pratica. Se hai una webcam, è possibile mantenere videochiamate con i tuoi partner, e se non, è anche possibile effettuare chiamate voce o semplicemente scrivere.</value>
   </data>
   <data name="ISBlock3B2Title" xml:space="preserve">
     <value>Incontra gente nuova</value>

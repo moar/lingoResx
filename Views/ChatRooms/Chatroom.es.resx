@@ -123,8 +123,8 @@
   <data name="CRAutomaticPartner" xml:space="preserve">
     <value>Buscador automático de compañeros</value>
   </data>
-  <data name="CRAvailable" xml:space="preserve">
-    <value>Disponible</value>
+  <data name="CRWalletAvailable" xml:space="preserve">
+    <value>Llamadas Wallet</value>
   </data>
   <data name="CRBeginners" xml:space="preserve">
     <value>Principiante</value>
@@ -236,5 +236,11 @@
   </data>
   <data name="CRWalletCall" xml:space="preserve">
     <value>Llamada Wallet</value>
+  </data>
+  <data name="CREnableWallet" xml:space="preserve">
+    <value>Activa las llamadas Wallet para empezar a ganar dinero</value>
+  </data>
+  <data name="CRTBAvailable" xml:space="preserve">
+    <value>Lllamadas Banco de Tiempo</value>
   </data>
 </root>

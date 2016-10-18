@@ -121,7 +121,7 @@
     <value>Beharrezko erreputazioa daukazunean sartu zaitez zure hizkuntza natiboaren Wallet txat gelara eta bilatu ezazu zure hizkuntza ikasi nahi duen jendea </value>
   </data>
   <data name="INBlock2B1Title" xml:space="preserve">
-    <value>Sartu Wallet txat gelatara</value>
+    <value>Hasi ikasleekin hizketan</value>
   </data>
   <data name="INBlock2B2Text" xml:space="preserve">
     <value>Joan {0} eta egin itzazu bideo deiak jende desberdinarekin. Irabazi boto positiboak eta zure erreputazioa hobetu egingo da. Horrela, jende gehiagok nahi izango du zurekin hitz egitea.</value>

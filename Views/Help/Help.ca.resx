@@ -182,19 +182,19 @@ Aquest es el seu funcionament:  </value>
     <value>Comissió dels natius</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Si vols parlar en la teva llengua materna, has d'anar a la sala de xat Wallet de la teva llengua, on trobaràs estudiants amb els quals poder conversar</value>
+    <value>Si vols parlar en la teva llengua materna, has d'anar a la sala de xat de la teva llengua, on trobaràs estudiants amb els quals poder conversar</value>
   </data>
   <data name="HelpNativesSent2" xml:space="preserve">
     <value>Però primerament hem de complir uns requisits:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
-    <value>Cada sala de xat de Wallet requereix un número mínim de vots positius. Per aconseguir ves a les sales de Banc del Temps, parla amb la gent que vol aprendre el teu idioma i guanya vots positius. Una vegada que hagis guanyat el nombre de vots que es requereixen per entrar a la sala d'un idioma, podràs entrar a aquesta sala</value>
+    <value>Per poder establir una tarifa en un idioma, has de tenir un nombre mínim de vots positius. Per aconseguir ves a les sales chat, parla amb la gent que vol aprendre el teu idioma i guanya vots positius. Una vegada que hagis guanyat el nombre de vots que es requereixen per entrar a la sala d'un idioma, podràs establir la tarifa</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Omple les teves dades de facturació. Abans d'entrar a una sala Wallet, has d'omplir la teva adreça de facturació a My Wallet -&gt; Informació de facturació</value>
+    <value>Omple les teves dades de facturació. Abans de fer una trucada Wallet, has d'omplir la teva adreça de facturació a My Wallet -&gt; Informació de facturació</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
-    <value>Una volta complit aquests dos requisits, estaràs preparat per entrar a les sales Wallet</value>
+    <value>Una volta complit aquests dos requisits, estaràs preparat per guanyar diners amb les trucades de Wallet</value>
   </data>
   <data name="HelpNativesTitle" xml:space="preserve">
     <value>Parlants natius: com començar</value>
@@ -203,7 +203,7 @@ Aquest es el seu funcionament:  </value>
     <value>Introducció al Banc del Temps</value>
   </data>
   <data name="HelpTBRoomsTitle" xml:space="preserve">
-    <value>Sales de xat del Banc del Temps</value>
+    <value>Ús del Banc del Temps a les vídeo trucades</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>Com funciona el Banc del Temps?</value>
@@ -212,7 +212,7 @@ Aquest es el seu funcionament:  </value>
     <value>Introducció a Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Sales de xat Wallet i videotrucades Wallet</value>
+    <value>Videotrucades Wallet</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Retirada de crèdits</value>
@@ -230,10 +230,10 @@ Aquest es el seu funcionament:  </value>
     <value>Si no vols rebre cap trucada, canvia el teu estat a "ocupat"</value>
   </data>
   <data name="HelpState4" xml:space="preserve">
-    <value>Sales de Banc del Temps: aquestes sales tenen dos estats. Amb el primer estat, pots seleccionar si vols rebre trucades de Banc del Temps per a un idioma específic. El segon estat et permet activar i desactivar el cercador automàtic de companys. Si desactives l'estat general per a la sala d'un idioma, també es desactivarà el cercador automàtic de companys</value>
+    <value>Trucades de Banc de Temps: si vols fer trucades utilitzant el teu banc de temps, has de tenir en compte dos estats. Amb el primer estat, pots seleccionar si vols rebre trucades de Banc del Temps per a un idioma específic. El segon estat et permet activar i desactivar el cercador automàtic de companys. Si desactives l'estat general per a la sala d'un idioma, també es desactivarà el cercador automàtic de companys</value>
   </data>
   <data name="HelpState5" xml:space="preserve">
-    <value>Sales de Wallet: desactiva les sales dels idiomes en què no vols rebre trucades</value>
+    <value>Trucades Wallet: desactiva les sales dels idiomes en què no vols rebre trucades</value>
   </data>
   <data name="HelpState6" xml:space="preserve">
     <value>Cercador de companys automàtic </value>
@@ -242,10 +242,10 @@ Aquest es el seu funcionament:  </value>
     <value>Langademy et buscarà un company que compleixi les teves preferències i que estigui disponible per conversar amb tu. Quan es trobi un company, et mostrarem una notificació preguntant si vols conversar amb el company que t'hem trobat</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
-    <value>Els estudiants d'un idioma tenen dues opcions a l'hora de practicar l'idioma: poden usar les sales de xat de Wallet o les sala de xat de Banc del Temps</value>
+    <value>Els estudiants d'un idioma tenen dues opcions a l'hora de practicar l'idioma: poden fer videotrucades utilitzan els crèdits del seu conter Wallet o utilitzar el Banc del Temps</value>
   </data>
   <data name="HelpStudentIntro2" xml:space="preserve">
-    <value>A les sales Wallet, els estudiants paguen per mantenir una conversa amb un nadiu. A les sales de Banc del Temps, el temps es fa servir com a moneda de canvi. Mira les seccions {0} i {1} per a més informació sobre aquests dos tipus de sales.</value>
+    <value>En les trucades Wallet, els estudiants paguen per mantenir una conversa amb un natiu. A les sales de Banc del Temps, el temps es fa servir com a moneda de canvi. Mira les seccions {0} i {1} per a més informació sobre aquests dos tipus de sales.</value>
   </data>
   <data name="HelpStudentIntro3" xml:space="preserve">
     <value>Quan coneixes algun company nou en una sala, pots enviar-li una sol·licitud de connexió. Quan estigueu connectats, podreu fer videotrucades entre els dos sense haver d'entrar a les sala.</value>
@@ -254,10 +254,10 @@ Aquest es el seu funcionament:  </value>
     <value>El Banc del Temps ofereix una manera per aprendre idiomes sense que hagis de gastar diners: el temps que utilitzis per parlar en el teu idioma natiu amb els estudiants serà afegit al teu compte de Banc del Temps. Mira les regles del Banc del Temps ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>Si vols practicar un idioma, ves a les sales de Banc del Temps, comença a parlar amb la gent que trobis allà i fes videotrucades amb ells. A la teva pàgina d'inici podràs veure el saldo del compte del Banc del Temps. Si accedeixes a l'aplicació de la teva Banc del Temps podràs consultar l'històric i els detalls dels teus moviments al Banc del Temps</value>
+    <value>Si vols practicar un idioma, ves a les sales de xat, comença a parlar amb la gent que trobis allà i fes videotrucades amb ells. A la teva pàgina d'inici podràs veure el saldo del compte del Banc del Temps. Si accedeixes a l'aplicació de la teva Banc del Temps podràs consultar l'històric i els detalls dels teus moviments al Banc del Temps</value>
   </data>
   <data name="HelpTBRooms1" xml:space="preserve">
-    <value>Les sales de Banc del Temps són el lloc on trobaràs companys d'intercanvi d'idiomes. En aquestes sales podràs xatejar i realitzar trucades de Banc del Temps (veure {0}).</value>
+    <value>Les sales de xat són el lloc on trobaràs companys d'intercanvi d'idiomes. En aquestes sales podràs xatejar i realitzar trucades de Banc del Temps (veure {0}).</value>
   </data>
   <data name="HelpTBRooms2" xml:space="preserve">
     <value>Pots consultar que usuaris estan en línia al panell esquerre. Si cliques en l'usuari, veuràs les diferents opcions de cada usuari: pots afegir com a companys, fer videotrucades o reportar o bloquejar si t'han causat algun problema</value>
@@ -272,7 +272,7 @@ Aquest es el seu funcionament:  </value>
     <value>A més, si estàs apuntat a una quedada pots proposar nous temes per a aquesta quedada o votar els temes que altres usuaris han proposat</value>
   </data>
   <data name="HelpTBRooms6" xml:space="preserve">
-    <value>Pots accedir al tauler de quedades a través de la pàgina d'inici o des de les sales de Banc del Temps. Un cop accedeixis al tauler, podràs veure les quedades dels idiomes que tens afegits en el teu perfil. Si vols crear una quedada, seleccioneu un idioma, data i una hora per a la trobada. Quan hagis creat la trobada, pots convidar als teus contactes de Langademy a que s'uneixin a aquesta.</value>
+    <value>Pots accedir al tauler de quedades a través de la pàgina d'inici o des de les sales de xat. Un cop accedeixis al tauler, podràs veure les quedades dels idiomes que tens afegits en el teu perfil. Si vols crear una quedada, seleccioneu un idioma, data i una hora per a la trobada. Quan hagis creat la trobada, pots convidar als teus contactes de Langademy a que s'uneixin a aquesta.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
     <value>Als parlants natius se'ls retindrà el 13% (+ IVA) de la quantitat que se li hagi cobrat l'estudiant. El saldo serà actualitzat quan la trucada hagi finalitzat.</value>
@@ -302,7 +302,7 @@ Aquest es el seu funcionament:  </value>
     <value>Els reintegraments es processen cada 15 dies. Si vols, pots editar el nombre de crèdits que hagis sol·licitat abans que el reintegrament hagi estat processat. Si ja has fet una sol·licitud, no podràs fer una altra sol·licitud fins que l'anterior sol·licitud hagi estat processada</value>
   </data>
   <data name="HelpWCR1" xml:space="preserve">
-    <value>Les sales de xat Wallet són el punt de trobada dels parlant natius i els estudiants. En aquestes sales els estudiants poden fer trucades amb els parlants natius. Cada natiu té la seva tarifa, que serà aplicada quan es faci una videotrucada. Durant la trucada, el cost de la trucada s'anirà actualitzant cada minut, de manera que els parlants natius només pagaran pel nombre de minuts que parlin. En cada trucada, hi haurà un període de prova de 3 minuts, en què l'estudiant podrà decidir si vol continuar amb la trucada abans que comenci a pagar.</value>
+    <value>Les sales de xat són el punt de trobada dels parlant natius i els estudiants. En aquestes sales els estudiants poden fer trucades amb els parlants natius. Cada natiu té la seva tarifa, que serà aplicada quan es faci una videotrucada. Durant la trucada, el cost de la trucada s'anirà actualitzant cada minut, de manera que els parlants natius només pagaran pel nombre de minuts que parlin. En cada trucada, hi haurà un període de prova de 3 minuts, en què l'estudiant podrà decidir si vol continuar amb la trucada abans que comenci a pagar.</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
     <value>Requisits per entrar a les sales Wallet</value>

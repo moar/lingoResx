@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="IsBlock2B1Text" xml:space="preserve">
-    <value>Entra a les sales de xat Wallet i troba natius que s'ajustin a les teves necessitats: revisa la seva experiència i tarifes</value>
+    <value>Entra a les sales de xat i troba natius que s'ajustin a les teves necessitats: revisa la seva experiència i tarifes</value>
   </data>
   <data name="ISBlock2B1Title" xml:space="preserve">
-    <value>Entra a les sales wallet</value>
+    <value>Fes videotrucades wallet</value>
   </data>
   <data name="ISBlock2B2Text" xml:space="preserve">
     <value>Fes videotrucades amb natius de tot el món. Tindràs un període de prova per decidir si desitges seguir amb la trucada i pagar per la conversa</value>
@@ -145,7 +145,7 @@
     <value>Utilitza el temps com a moneda de canvi</value>
   </data>
   <data name="ISBlock3B2Text" xml:space="preserve">
-    <value>Entra a les sales de banc del temps de Langademy i trobaràs a gent que parla l'idioma que vols practicar. Si tens una càmera web podràs mantenir videotrucades amb ells, i si no, també pots fer trucades de veu o simplement escriure't amb ells</value>
+    <value>Entra a les sales chat de Langademy i trobaràs a gent que parla l'idioma que vols practicar. Si tens una càmera web podràs mantenir videotrucades amb ells, i si no, també pots fer trucades de veu o simplement escriure't amb ells</value>
   </data>
   <data name="ISBlock3B2Title" xml:space="preserve">
     <value>Coneix gent nova</value>

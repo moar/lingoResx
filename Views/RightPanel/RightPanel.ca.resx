@@ -219,6 +219,9 @@
   <data name="RPWalletCall" xml:space="preserve">
     <value>Trucada Wallet</value>
   </data>
+  <data name="ChatRooms" xml:space="preserve">
+    <value>Sales de xat</value>
+  </data>
   <data name="WalletRooms" xml:space="preserve">
     <value>Sales Wallet</value>
   </data>
