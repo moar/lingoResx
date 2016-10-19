@@ -160,6 +160,15 @@ namespace Resources.Views.Blog {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Find articles related to {0} at Langademy. Read our blog and learn about different Languages..
+        /// </summary>
+        public static string RelatedPosts {
+            get {
+                return ResourceManager.GetString("RelatedPosts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Tags.
         /// </summary>
         public static string Tags {
