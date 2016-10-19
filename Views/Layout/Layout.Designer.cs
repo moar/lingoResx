@@ -250,6 +250,15 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Check Langdemy&apos;s pricing for native speakers and languager learners. Join today and start enjoying these features.
+        /// </summary>
+        public static string PricingDescription {
+            get {
+                return ResourceManager.GetString("PricingDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Search new Langademy users or people that you know from previous conversations. You can filter you searches by languages they know and their level.
         /// </summary>
         public static string SearchDescription {
