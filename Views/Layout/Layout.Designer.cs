@@ -142,7 +142,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you like conversating with people, now you can earn money if by having conversations in your native languages. Enter the chat rooms and meet people that want to learn your native language!.
+        ///   Looks up a localized string similar to If you like conversating with people, now you can earn money by having conversations in your native languages. Enter the chat rooms and meet people that want to learn your native language!.
         /// </summary>
         public static string IndexNativesDescription {
             get {
