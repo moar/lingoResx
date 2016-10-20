@@ -232,7 +232,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn languages online: language exchanges or paid conversations.
+        ///   Looks up a localized string similar to Learn Languages online with native speakers.
         /// </summary>
         public static string MainTitle {
             get {
