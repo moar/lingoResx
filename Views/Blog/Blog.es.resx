@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
-  
-  
   <data name="Articles" xml:space="preserve">
     <value>Artículos</value>
   </data>
@@ -152,6 +149,9 @@
   </data>
   <data name="GuestTitle" xml:space="preserve">
     <value>¿Quieres escribir un artículo en Langademy?</value>
+  </data>
+  <data name="RelatedPosts" xml:space="preserve">
+    <value>Busca artículos relacionados con "{0}". Lee nuestro blog y aprende cosas interesantes sobre los idiomas.</value>
   </data>
   <data name="Tags" xml:space="preserve">
     <value>Tags</value>

@@ -305,10 +305,10 @@ Aquest es el seu funcionament:  </value>
     <value>Les sales de xat són el punt de trobada dels parlant natius i els estudiants. En aquestes sales els estudiants poden fer trucades amb els parlants natius. Cada natiu té la seva tarifa, que serà aplicada quan es faci una videotrucada. Durant la trucada, el cost de la trucada s'anirà actualitzant cada minut, de manera que els parlants natius només pagaran pel nombre de minuts que parlin. En cada trucada, hi haurà un període de prova de 3 minuts, en què l'estudiant podrà decidir si vol continuar amb la trucada abans que comenci a pagar.</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
-    <value>Requisits per entrar a les sales Wallet</value>
+    <value>Requisits per fer trucades Wallet</value>
   </data>
   <data name="HelpWCR3" xml:space="preserve">
-    <value>Tant els parlants natius com els estudiants d'idiomes han de cumplir uns requisits per poder entrar a les sales de xat Wallet.</value>
+    <value>Els parlants natius han de cumplir diversos requisits per poder començar a guanyar diners amb les trucades Wallet.</value>
   </data>
   <data name="HelpWCR4" xml:space="preserve">
     <value>Requisits per als estudiants d'idiomes:</value>
@@ -320,10 +320,10 @@ Aquest es el seu funcionament:  </value>
     <value>Requisits per als parlants nadius:</value>
   </data>
   <data name="HelpWCR7" xml:space="preserve">
-    <value>Els parlants natius han de complir dos requisits per entrar en una sala Wallet:</value>
+    <value>Quan un parlant natiu entri en una sala, d'inici no pot establir una tarifa, i per tant no podrà guanyar diners amb les trucades. Per poder establir una tarifa, el parlant natiu ha de complir els requisits següents:</value>
   </data>
   <data name="HelpWCR8" xml:space="preserve">
-    <value>Cada sala de Wallet requereix tenir un nombre de vots positius mínim. Per guanyar vots positius, els parlants natius poden anar a les sales de Banc del Temps de l'idioma en què es volen guanyar vots i fer videotrucades amb els estudiants per guanyar vots positius. Si un natiu vol reunir a diversos estudiants a la mateixa hora, pot crear quedades. Més informació a {0}</value>
+    <value>Cada llengua requereix tenir un nombre de vots positius mínim. Per guanyar vots positius, els parlants natius tenen que fer videotrucades amb els estudiants per guanyar vots positius. Si un natiu vol reunir a diversos estudiants a la mateixa hora, pot crear quedades. Més informació a {0}</value>
   </data>
   <data name="HelpWCR9" xml:space="preserve">
     <value>Omplir l'adreça de facturació: ves a My Wallet i omple la teva adreça de facturació</value>
@@ -332,10 +332,10 @@ Aquest es el seu funcionament:  </value>
     <value>My Wallet és l'aplicació on pots gestionar les teves finances de Langademy. En aquest app podràs consultar els teus moviments, el teu històric de factures i afegir o editar la teva informació de facturació. Langademy també permet les compres i reintegraments de crèdits.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>Si has entrat en Langademy per aprendre idiomes, ves a les sales de xat Wallet i revisa les seves tarifes i reputacions</value>
+    <value>Si has entrat en Langademy per aprendre idiomes, ves a les sales de xat i revisa les seves tarifes i reputacions</value>
   </data>
   <data name="HelpWalletIntro3" xml:space="preserve">
-    <value>Si vols guanyar diners mentre parles amb estudiants de la teva llengua materna, hauràs de millorar la teva reputació a les sales de Banc del Temps abans de poder entrar a les sales de xat Wallet ({0})</value>
+    <value>Si vols guanyar diners mentre parles amb estudiants de la teva llengua materna, hauràs de millorar la teva reputació. Per a això hauràs de realitzar trucades amb una tarifa de 0 crèdits o fent trucades amb del banc de temps.</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Ajuda de Langademy</value>
@@ -347,10 +347,7 @@ Aquest es el seu funcionament:  </value>
     <value>Introducció a les sales i trucades de Wallet</value>
   </data>
   <data name="HelpNativesSent7" xml:space="preserve">
-    <value>Quan accedeixis per primera vegada a una sala Wallet, hauràs d'especificar una tarifa per les teves trucades d'aquesta sala. Quan estiguis a la sala, podràs xatejar amb els estudiants que trobis allà o esperar que algú et truqui. Si tens una bona reputació i si dones una bona impressió al xat tindràs més possibilitats de rebre trucades.
-
-
- </value>
+    <value>Quan tinguis la reputació suficient en un idioma, hauràs d'especificar una tarifa per les teves trucades d'aquest idioma. Quan estiguis a la sala, podràs xatejar amb els estudiants que trobis allà o esperar que algú et truqui. Si tens una bona reputació i si dones una bona impressió al xat tindràs més possibilitats de rebre trucades.</value>
   </data>
   <data name="HelpNativesSent8" xml:space="preserve">
     <value>Quan rebis una vídeotrucada,  s'aplicarà la tarifa que hagis establert i quan acabe la trucada el teu saldo serà actualitzat. Cada trucada té una comissió ({0}) que serà cobrada del teu compte a final de mes.</value>

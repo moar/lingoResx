@@ -198,4 +198,7 @@
   <data name="SearchLanguageDescription" xml:space="preserve">
     <value>Bilatu ezazu {0} dakien jende berria Langademyn edo zurekin aurretik mintzatu diren mintzalagunak. Zure bilaketak hiztunen mailaren arabera filtratu ditzakezu</value>
   </data>
+  <data name="PricingDescription" xml:space="preserve">
+    <value>Ikusi itzazu Langademyk hiztun natibo eta ikasleentzat eskaintzen dituen prezioak. Batu zaitez Langademyra eta hasi gure eskaintzez gozatzen.</value>
+  </data>
 </root>

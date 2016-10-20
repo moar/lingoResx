@@ -305,10 +305,10 @@
     <value>Le chat room sono il punto d'incontro per i madrelingua e gli studenti. In queste stanze gli studenti possono effettuare chiamate con madrelingua. Ogni madrelingua ha una tariffa che verrà applicata quando una chiamata video è fatta. Durante la chiamata, il costo della chiamata sarà aggiornata ogni minuto, in modo che i madrelingua pagheranno solo per il numero di minuti parlati. In ogni chiamata, ci sarà un periodo di prova di 3 minuti, in cui lo studente può decidere se continuare la chiamata prima che inizi a pagare.</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
-    <value>Requisiti per accedere alle Wallet Rooms</value>
+    <value>Requisiti per effettuare chiamate Wallet </value>
   </data>
   <data name="HelpWCR3" xml:space="preserve">
-    <value>Sia i madrelingua come gli studenti di lingue devono soddisfare determinati requisiti per poter entrare chat room Wallet.</value>
+    <value>I madrelingua devono soddisfare diversi requisiti per iniziare a fare soldi con le chiamate Wallet</value>
   </data>
   <data name="HelpWCR4" xml:space="preserve">
     <value>Requisiti per gli studenti di lingue:</value>
@@ -320,10 +320,10 @@
     <value>Requisiti per i madrelingua:</value>
   </data>
   <data name="HelpWCR7" xml:space="preserve">
-    <value>I madrelingua devono soddisfare due requisiti per entrare in una Wallet room:</value>
+    <value>Quando un madrelingua entra in una stanza,all'inizio,non è possibile impostare una tariffa,quindi non sarà possibile guadagnare soldi con le chiamate.Per potere stabilire un tasso, Il madrelingua, deve avere i seguenti requisiti:</value>
   </data>
   <data name="HelpWCR8" xml:space="preserve">
-    <value>Ogni stanza Wallet richiede un numero minimo di voti positivi. Per guadagnare voti positivi, i madrelingua possono andare alla Banca del Tempo nella lingua in cui si vuole vincere voti e effettuare chiamate video con gli studenti per guadagnare un feedback positivo. Se un madrelingua vuole riunire diversi studenti allo stesso tempo, è possibile creare degli appuntamenti. Maggiori informazioni sul {0}</value>
+    <value>Ogni lingua richiede un numero minimo di voti positivi. Per guadagnare voti positivi, i madrelingua possono effettuare chiamate video con gli studenti per guadagnare un feedback positivo. Se un madrelingua vuole riunire diversi studenti allo stesso tempo, è possibile creare degli appuntamenti. Maggiori informazioni sul {0}</value>
   </data>
   <data name="HelpWCR9" xml:space="preserve">
     <value>Riempi l'indirizzo di fatturazione: Vai a my Wallet e riempi il tuo indirizzo di fatturazione</value>
@@ -332,10 +332,10 @@
     <value>My Wallet è l'applicazione in cui è possibile gestire le tue finanze Langademy. Questa applicazione può controllare i tuoi movimenti, la tua cronologia di fatture e aggiungere o modificare le informazioni di fatturazione. Langademy permette anche gli acquisti di credito.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>Si sei su Langademy per imparare lingue, vai sulle Wallet rooms e controlla i loro prezzi e le reputazione</value>
+    <value>Si sei su Langademy per imparare lingue, vai sulle chat rooms e guarda le tariffe dei madrelingua,le loro reputazione ecc</value>
   </data>
   <data name="HelpWalletIntro3" xml:space="preserve">
-    <value>Se vuoi fare soldi mentre parli con gli studenti nella tua lingua madre,bisogna migliorare la tua reputazione nelle sale della Banca del Tempo prima di poter entrare nelle Wallet chat room ({0})</value>
+    <value>Se vuoi fare soldi mentre parli con gli studenti nella tua lingua madre,bisogna migliorare la tua reputazione. Per questo è necessario effettuare chiamate a un tasso di 0 crediti o effettuare chiamate con la banca del tempo.  </value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Centro assistenza di Langademy</value>
@@ -347,7 +347,7 @@
     <value>Introduzione alle stanze e chiamate Wallet</value>
   </data>
   <data name="HelpNativesSent7" xml:space="preserve">
-    <value>Al primo accesso a una  Wallet room, è necessario specificare un tasso per le chiamate da quella stanza. Quando sei nella stanza, è possibile chattare con gli studenti che lì trovarai o aspetti che qualcuno ti chiami. Se hai una buona reputazione e se dai una buona impressione nella chat, avrai più possibilità di ricevere chiamate.</value>
+    <value>Quando si dispone di sufficiente reputazione in una lingua, devi specificare una tasso per le chiamate da quella lingua. Quando sei nella chat room, è possibile chattare con gli studenti che lì troverai o aspetti che qualcuno ti chiami. Se hai una buona reputazione, avrai più possibilità di ricevere chiamate.</value>
   </data>
   <data name="HelpNativesSent8" xml:space="preserve">
     <value>Quando ricevi una chiamata video, si applicherà il tasso impostato e al termine della chiamata il saldo verrà aggiornato. Ogni chiamata ha una commissione ({0}) che verrà addebitato sul tuo conto, alla fine del mese.</value>

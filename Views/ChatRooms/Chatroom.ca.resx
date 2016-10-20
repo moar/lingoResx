@@ -123,6 +123,9 @@
   <data name="CRAutomaticPartner" xml:space="preserve">
     <value>Cercador automàtic de companys</value>
   </data>
+  <data name="CRWalletAvailable" xml:space="preserve">
+    <value>Trucades Wallet</value>
+  </data>
   <data name="CRBeginners" xml:space="preserve">
     <value>Principiant</value>
   </data>
@@ -233,5 +236,11 @@
   </data>
   <data name="CRWalletCall" xml:space="preserve">
     <value>Trucada Wallet</value>
+  </data>
+  <data name="CREnableWallet" xml:space="preserve">
+    <value>Activa les trucades Wallet per començar a guanyar diners</value>
+  </data>
+  <data name="CRTBAvailable" xml:space="preserve">
+    <value>Trucades Banc del Temps</value>
   </data>
 </root>
