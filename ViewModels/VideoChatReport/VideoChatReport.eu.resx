@@ -119,7 +119,7 @@
   </resheader>
   
   <data name="LikeSentence" xml:space="preserve">
-    <value>{0}(r)ekin hitz egitaa gustatu al zaizu?</value>
+    <value>{0}(r)ekin hitz egitea gustatu al zaizu?</value>
   </data>
   <data name="ConnectionError" xml:space="preserve">
     <value>Zure deia amaitu egin da konexio errore baten ondorioz</value>
