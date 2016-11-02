@@ -226,7 +226,7 @@
     <value>You can't chat with people right now? Is there little activity in the room? No problem! Go to the meetup board and create a meetup on the date an hour you want!</value>
   </data>
   <data name="CRMBSentence2" xml:space="preserve">
-    <value>If you create a meetup, other users will now when you will be available or joining this room again to chat or make videocalls.</value>
+    <value>If you create a meetup, other users will know when you will be available or joining this room again to chat or make videocalls.</value>
   </data>
   <data name="CRMBTripBodyTitle" xml:space="preserve">
     <value>Are you looking for someone?</value>

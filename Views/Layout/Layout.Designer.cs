@@ -133,7 +133,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy - Language exchange.
+        ///   Looks up a localized string similar to Language exchange - Langademy.
         /// </summary>
         public static string IndexExchangeTitle {
             get {

@@ -563,7 +563,9 @@
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.ca.resx" />
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.de.resx" />
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.es.resx" />
-    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.eu.resx" />
+    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.fr.resx" />
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.it.resx" />
     <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.resx">

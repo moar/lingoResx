@@ -160,7 +160,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you create a meetup, other users will now when you will be available or joining this room again to chat or make videocalls..
+        ///   Looks up a localized string similar to If you create a meetup, other users will know when you will be available or joining this room again to chat or make videocalls..
         /// </summary>
         public static string CRMBSentence2 {
             get {
