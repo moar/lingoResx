@@ -115,6 +115,15 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Blog posts.
+        /// </summary>
+        public static string BlogPosts {
+            get {
+                return ResourceManager.GetString("BlogPosts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You can&apos;t delete your native language.
         /// </summary>
         public static string CannotDeleteNative {
