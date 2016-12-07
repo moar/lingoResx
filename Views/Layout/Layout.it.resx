@@ -198,4 +198,7 @@
   <data name="SearchLanguageDescription" xml:space="preserve">
     <value>Trova nuovi amici in Langademy che parlano {0} o trova quelli con i quali si è già parlato. È possibile filtrare le ricerche in base al livello degli utenti</value>
   </data>
+  <data name="PricingDescription" xml:space="preserve">
+    <value>Controlla i prezzi di Langademy, di madrelingua e studenti. Iscriviti oggi e inizia a godere le nostre offerte.</value>
+  </data>
 </root>

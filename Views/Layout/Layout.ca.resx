@@ -198,4 +198,7 @@
   <data name="SearchLanguageDescription" xml:space="preserve">
     <value>Troba nous amics a Langademy que parlin {0} o troba a aquells amb els que ja has conversat. Podeu reduir les teves recerques pel nivell dels usuaris</value>
   </data>
+  <data name="PricingDescription" xml:space="preserve">
+    <value>Revisa els preus de Langademy per als parlants natius i els estudiants. Uneix-te avui i comença a gaudir de les nostres ofertes.</value>
+  </data>
 </root>
