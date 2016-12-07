@@ -147,6 +147,9 @@
   <data name="Next" xml:space="preserve">
     <value>Seguente</value>
   </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
   <data name="OK" xml:space="preserve">
     <value>OK</value>
   </data>
@@ -158,5 +161,8 @@
   </data>
   <data name="Submit" xml:space="preserve">
     <value>Inviare</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Sì</value>
   </data>
 </root>
