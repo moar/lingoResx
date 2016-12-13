@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<root>
+  <!--
+  Loco xml export: ResX - .NET resources
+  Project: Untitled project
+  Release: Working copy
+  Locale: en-US, English (USA)
+  Exported by: freiser
+  Exported at: Fri, 25 Nov 2016 16:41:08 +0000 
+  -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="locoLocaleCode" xml:space="preserve">
+    <value>en-US</value>
+  </metadata>
+  <metadata name="locoLocaleName" xml:space="preserve">
+    <value>English (USA)</value>
+  </metadata> 
+  <data name="authorizeresponse-wait" xml:space="preserve"> 
+    <value>Please wait...</value> 
+  </data> 
+  <data name="common-error" xml:space="preserve"> 
+    <value>Error</value> 
+  </data> 
+  <data name="login-username" xml:space="preserve"> 
+    <value>Username</value> 
+  </data> 
+  <data name="login-username-placeholder" xml:space="preserve"> 
+    <value>Username</value> 
+  </data> 
+  <data name="login-password" xml:space="preserve"> 
+    <value>Password</value> 
+  </data> 
+  <data name="login-password-placeholder" xml:space="preserve"> 
+    <value>Password</value> 
+  </data> 
+  <data name="login-rememberLogin" xml:space="preserve"> 
+    <value>Remember My Login</value> 
+  </data> 
+  <data name="login-local" xml:space="preserve"> 
+    <value>Local Login</value> 
+  </data> 
+  <data name="login-title" xml:space="preserve"> 
+    <value>Login</value> 
+  </data> 
+  <data name="login-action" xml:space="preserve"> 
+    <value>Login</value> 
+  </data> 
+  <data name="login-external" xml:space="preserve"> 
+    <value>External Login</value> 
+  </data> 
+  <data name="login-different" xml:space="preserve"> 
+    <value>Login With Different Account</value> 
+  </data> 
+  <data name="logout-title" xml:space="preserve"> 
+    <value>Logout</value> 
+  </data> 
+  <data name="logout-info" xml:space="preserve"> 
+    <value>You are now logged out</value> 
+  </data> 
+  <data name="logout-click" xml:space="preserve"> 
+    <value>Click </value> 
+  </data> 
+  <data name="logout-here" xml:space="preserve"> 
+    <value>here</value> 
+  </data> 
+  <data name="logout-return" xml:space="preserve"> 
+    <value> to return to the</value> 
+  </data> 
+  <data name="logout-application" xml:space="preserve"> 
+    <value> application</value> 
+  </data> 
+  <data name="logout-from" xml:space="preserve"> 
+    <value>Would you like to logout of </value> 
+  </data> 
+  <data name="logout-from2" xml:space="preserve"> 
+    <value>?</value> 
+  </data> 
+  <data name="logout-yes" xml:space="preserve"> 
+    <value>Yes</value> 
+  </data> 
+  <data name="consent-request" xml:space="preserve"> 
+    <value>is requesting your permission</value> 
+  </data> 
+  <data name="consent-uncheck" xml:space="preserve"> 
+    <value>Uncheck the permissions you do not wish to grant.</value> 
+  </data> 
+  <data name="consent-personalInformation" xml:space="preserve"> 
+    <value>Personal Information</value> 
+  </data> 
+  <data name="consent-applicationAccess" xml:space="preserve"> 
+    <value>Application Access</value> 
+  </data> 
+  <data name="consent-required" xml:space="preserve"> 
+    <value>(required)</value> 
+  </data> 
+  <data name="consent-rememberDecision" xml:space="preserve"> 
+    <value>Remember My Decision</value> 
+  </data> 
+  <data name="consent-allow" xml:space="preserve"> 
+    <value>Yes, Allow</value> 
+  </data> 
+  <data name="consent-disallow" xml:space="preserve"> 
+    <value>No, Do Not Allow</value> 
+  </data> 
+  <data name="permissions-client" xml:space="preserve"> 
+    <value>Client Application Permissions</value> 
+  </data> 
+  <data name="permissions-nonGranted" xml:space="preserve"> 
+    <value>You have not given permission to any applications</value> 
+  </data> 
+  <data name="permissions-identity" xml:space="preserve"> 
+    <value>Identity Permissions</value> 
+  </data> 
+  <data name="permissions-resource" xml:space="preserve"> 
+    <value>Resource Permissions</value> 
+  </data> 
+  <data name="permissions-revoke" xml:space="preserve"> 
+    <value>Revoke</value> 
+  </data> 
+  <data name="form-submit" xml:space="preserve"> 
+    <value>Submit this form</value> 
+  </data> 
+  <data name="signoutframe-signout" xml:space="preserve"> 
+    <value>SignOut</value> 
+  </data> 
+  <data name="welcome-title" xml:space="preserve"> 
+    <value>IdentityServer v3</value> 
+  </data> 
+  <data name="welcome-nav-title" xml:space="preserve"> 
+    <value>IdentityServer3</value> 
+  </data> 
+  <data name="welcome-header" xml:space="preserve"> 
+    <value>Welcome to IdentityServer3</value> 
+  </data> 
+  <data name="welcome-build" xml:space="preserve"> 
+    <value>(build {version})</value> 
+  </data> 
+  <data name="welcome-info1" xml:space="preserve"> 
+    <value>IdentityServer publishes a &lt;a href="{applicationPath}/.well-known/openid-configuration"&gt;discovery document&lt;/a&gt; where you can find metadata and links to all the endpoints, key material, etc.</value> 
+  </data> 
+  <data name="welcome-info2" xml:space="preserve"> 
+    <value>IdentityServer allows users to view and revoke &lt;a href="{applicationPath}/permissions"&gt;application permissions&lt;/a&gt; previously granted to client applications.</value> 
+  </data> 
+  <data name="welcome-info3" xml:space="preserve"> 
+    <value>Here are links to the &lt;a href="https://identityserver.github.io/Documentation"&gt;documentation&lt;/a&gt;, and &lt;a href="https://github.com/identityserver/IdentityServer3.Samples"&gt;ready to use samples&lt;/a&gt;.</value> 
+  </data> 
+</root>

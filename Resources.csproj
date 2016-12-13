@@ -137,6 +137,71 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MessagingHub.resx</DependentUpon>
     </Compile>
+    <Compile Include="IdentityServer\Events\Events.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Events.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Events\Events.es.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Events.es.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Events\Events.it.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Events.it.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\ISViews\Common\Common.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Common.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\ISViews\Login\Login.es.Designer.cs">
+      <DependentUpon>Login.es.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="IdentityServer\ISViews\Login\Login.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Login.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\ISViews\Logout\Logout.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Logout.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Messages\Messages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Messages\Messages.es.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.es.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Messages\Messages.it.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.it.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Scopes\Scopes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Scopes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Scopes\Scopes.es.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Scopes.es.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Scopes\Scopes.it.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Scopes.it.resx</DependentUpon>
+    </Compile>
     <Compile Include="Languages\LanguageLevels.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -440,6 +505,61 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>MessagingHub.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.resx" />
+    <EmbeddedResource Include="IdentityServer\Events\Events.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Events.es.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Events\Events.it.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Events.it.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Events\Events.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Events.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Common.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Login.es.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.resx">
+      <SubType>Designer</SubType>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Login.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Logout.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.es.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.it.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.it.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Scopes.es.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.it.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Scopes.it.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Scopes.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Languages\LanguageLevels.ca.resx" />
     <EmbeddedResource Include="Languages\LanguageLevels.de.resx" />

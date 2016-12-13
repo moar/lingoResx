@@ -117,40 +117,115 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FriendAccepted" xml:space="preserve">
-    <value>and you are connected now</value>
+  <data name="locoLocaleCode" xml:space="preserve">
+    <value>en-US</value>
   </data>
-  <data name="FriendJoined" xml:space="preserve">
-    <value>&lt;a href="{0}" class="link"&gt;{1}&lt;/a&gt; joined Langademy. You earned 30 minutes for your Time Bank account!</value>
+  <data name="locoLocaleName" xml:space="preserve">
+    <value>English (USA)</value>
   </data>
-  <data name="FriendRequest" xml:space="preserve">
-    <value>Connection request</value>
+  <data name="authorizeresponse-wait" xml:space="preserve">
+    <value>Please wait...</value>
   </data>
-  <data name="MeetupInvCancelled" xml:space="preserve">
-    <value>Meetup cancelled</value>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
   </data>
-  <data name="MeetupInvitation" xml:space="preserve">
-    <value>{0} invited you to attend a meetup</value>
+  <data name="login-username" xml:space="preserve">
+    <value>Username</value>
   </data>
-  <data name="NewMissedCall" xml:space="preserve">
-    <value>Missed call</value>
+  <data name="login-username-placeholder" xml:space="preserve">
+    <value>Username</value>
   </data>
-  <data name="PrivateConversationAccepted" xml:space="preserve">
-    <value>accepted your request for practicing {0}</value>
+  <data name="login-password" xml:space="preserve">
+    <value>Password</value>
   </data>
-  <data name="PrivateConversationRequest" xml:space="preserve">
-    <value>would like to practice {0} with you</value>
+  <data name="login-password-placeholder" xml:space="preserve">
+    <value>Password</value>
   </data>
-  <data name="PrivateConversationRequestRejected" xml:space="preserve">
-    <value>did not accept your conversation request</value>
+  <data name="login-rememberLogin" xml:space="preserve">
+    <value>Remember My Login</value>
   </data>
-  <data name="PrivateMeetupCancelled" xml:space="preserve">
-    <value>cancelled your private meetup</value>
+  <data name="login-local" xml:space="preserve">
+    <value>Local Login</value>
   </data>
-  <data name="PrivateRequestCancelled" xml:space="preserve">
-    <value>cancelled the request</value>
+  <data name="login-title" xml:space="preserve">
+    <value>Login</value>
   </data>
-  <data name="PrivateRequestMessage" xml:space="preserve">
-    <value>sent you a message</value>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="login-external" xml:space="preserve">
+    <value>External Login</value>
+  </data>
+  <data name="login-different" xml:space="preserve">
+    <value>Login With Different Account</value>
+  </data>
+  <data name="logout-title" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="logout-info" xml:space="preserve">
+    <value>You are now logged out</value>
+  </data>
+  <data name="logout-click" xml:space="preserve">
+    <value>Click </value>
+  </data>
+  <data name="logout-here" xml:space="preserve">
+    <value>here</value>
+  </data>
+  <data name="logout-return" xml:space="preserve">
+    <value> to return to the</value>
+  </data>
+  <data name="logout-application" xml:space="preserve">
+    <value> application</value>
+  </data>
+  <data name="logout-from" xml:space="preserve">
+    <value>Would you like to logout of </value>
+  </data>
+  <data name="logout-from2" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="logout-yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="permissions-client" xml:space="preserve">
+    <value>Client Application Permissions</value>
+  </data>
+  <data name="permissions-nonGranted" xml:space="preserve">
+    <value>You have not given permission to any applications</value>
+  </data>
+  <data name="permissions-identity" xml:space="preserve">
+    <value>Identity Permissions</value>
+  </data>
+  <data name="permissions-resource" xml:space="preserve">
+    <value>Resource Permissions</value>
+  </data>
+  <data name="permissions-revoke" xml:space="preserve">
+    <value>Revoke</value>
+  </data>
+  <data name="form-submit" xml:space="preserve">
+    <value>Submit this form</value>
+  </data>
+  <data name="signoutframe-signout" xml:space="preserve">
+    <value>SignOut</value>
+  </data>
+  <data name="welcome-title" xml:space="preserve">
+    <value>IdentityServer v3</value>
+  </data>
+  <data name="welcome-nav-title" xml:space="preserve">
+    <value>IdentityServer3</value>
+  </data>
+  <data name="welcome-header" xml:space="preserve">
+    <value>Welcome to IdentityServer3</value>
+  </data>
+  <data name="welcome-build" xml:space="preserve">
+    <value>(build {version})</value>
+  </data>
+  <data name="welcome-info1" xml:space="preserve">
+    <value>IdentityServer publishes a &lt;a href="{applicationPath}/.well-known/openid-configuration"&gt;discovery document&lt;/a&gt; where you can find metadata and links to all the endpoints, key material, etc.</value>
+  </data>
+  <data name="welcome-info2" xml:space="preserve">
+    <value>IdentityServer allows users to view and revoke &lt;a href="{applicationPath}/permissions"&gt;application permissions&lt;/a&gt; previously granted to client applications.</value>
+  </data>
+  <data name="welcome-info3" xml:space="preserve">
+    <value>Here are links to the &lt;a href="https://identityserver.github.io/Documentation"&gt;documentation&lt;/a&gt;, and &lt;a href="https://github.com/identityserver/IdentityServer3.Samples"&gt;ready to use samples&lt;/a&gt;.</value>
   </data>
 </root>
