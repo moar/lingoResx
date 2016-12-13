@@ -150,6 +150,9 @@
   <data name="GuestTitle" xml:space="preserve">
     <value>Vols escriure un article en Langademy?</value>
   </data>
+  <data name="RelatedPosts" xml:space="preserve">
+    <value>Busca articles relacionats amb "{0}". Llegeix el nostre blog i aprèn coses interessants sobre els idiomes.</value>
+  </data>
   <data name="Tags" xml:space="preserve">
     <value>Tags</value>
   </data>

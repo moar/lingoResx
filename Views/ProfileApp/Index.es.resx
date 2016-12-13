@@ -249,4 +249,7 @@
   <data name="CannotDeleteNativePendingRoom" xml:space="preserve">
     <value>Tienes que salir de la sala o salas de este idioma si quieres eliminar este idioma</value>
   </data>
+  <data name="BlogPosts" xml:space="preserve">
+    <value>Publicaciones del blog</value>
+  </data>
 </root>
