@@ -907,14 +907,20 @@
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\VideoChat\Videochat.ca.resx" />
+    <EmbeddedResource Include="Views\VideoChat\Videochat.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.de.resx" />
     <EmbeddedResource Include="Views\VideoChat\Videochat.es.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\VideoChat\Videochat.eu.resx" />
+    <EmbeddedResource Include="Views\VideoChat\Videochat.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.fr.resx" />
-    <EmbeddedResource Include="Views\VideoChat\Videochat.it.resx" />
+    <EmbeddedResource Include="Views\VideoChat\Videochat.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\VideoChat\Videochat.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Videochat.Designer.cs</LastGenOutput>
