@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,40 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FriendAccepted" xml:space="preserve">
-    <value>and you are connected now</value>
+  <data name="ClientPermissionsRevoked" xml:space="preserve">
+    <value>Permisos revocados</value>
   </data>
-  <data name="FriendJoined" xml:space="preserve">
-    <value>&lt;a href="{0}" class="link"&gt;{1}&lt;/a&gt; joined Langademy. You earned 30 minutes for your Time Bank account!</value>
+  <data name="CspReport" xml:space="preserve">
+    <value>Reporte de la política de seguridad del contenido (CSP)</value>
   </data>
-  <data name="FriendRequest" xml:space="preserve">
-    <value>Connection request</value>
+  <data name="ExternalLoginError" xml:space="preserve">
+    <value>Error de Inicio de Sesión Externo</value>
   </data>
-  <data name="MeetupInvCancelled" xml:space="preserve">
-    <value>Meetup cancelled</value>
+  <data name="ExternalLoginFailure" xml:space="preserve">
+    <value>Fallo en Inicio de Sesión externo</value>
   </data>
-  <data name="MeetupInvitation" xml:space="preserve">
-    <value>{0} invited you to attend a meetup</value>
+  <data name="ExternalLoginSuccess" xml:space="preserve">
+    <value>Inicio de Sesión Externo exitoso</value>
   </data>
-  <data name="NewMissedCall" xml:space="preserve">
-    <value>Missed call</value>
+  <data name="LocalLoginFailure" xml:space="preserve">
+    <value>Fallo en Inicio de Sesión Local</value>
   </data>
-  <data name="PrivateConversationAccepted" xml:space="preserve">
-    <value>accepted your request for practicing {0}</value>
+  <data name="LocalLoginSuccess" xml:space="preserve">
+    <value>Inicio de Sesión Local Exitoso</value>
   </data>
-  <data name="PrivateConversationRequest" xml:space="preserve">
-    <value>would like to practice {0} with you</value>
+  <data name="LogoutEvent" xml:space="preserve">
+    <value>Evento de Cierre de Sesión</value>
   </data>
-  <data name="PrivateConversationRequestRejected" xml:space="preserve">
-    <value>did not accept your conversation request</value>
+  <data name="PartialLogin" xml:space="preserve">
+    <value>Inicio Parcial de Sesión</value>
   </data>
-  <data name="PrivateMeetupCancelled" xml:space="preserve">
-    <value>cancelled your private meetup</value>
+  <data name="PartialLoginComplete" xml:space="preserve">
+    <value>Inicio Parcial de Sesión Completado </value>
   </data>
-  <data name="PrivateRequestCancelled" xml:space="preserve">
-    <value>cancelled the request</value>
+  <data name="PreLoginFailure" xml:space="preserve">
+    <value>Fallo en Pre-inicio de Sesión</value>
   </data>
-  <data name="PrivateRequestMessage" xml:space="preserve">
-    <value>sent you a message</value>
+  <data name="PreLoginSuccess" xml:space="preserve">
+    <value>Pre-inicio de Sesión Exitoso</value>
+  </data>
+  <data name="ResourceOwnerFlowLoginFailure" xml:space="preserve">
+    <value>Resource Owner Password Flow Login Fallido</value>
+  </data>
+  <data name="ResourceOwnerFlowLoginSuccess" xml:space="preserve">
+    <value>Resource Owner Password Flow Login Exitoso</value>
   </data>
 </root>

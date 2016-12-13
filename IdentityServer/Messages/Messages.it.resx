@@ -117,40 +117,61 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FriendAccepted" xml:space="preserve">
-    <value>and you are connected now</value>
+  <data name="ClientIdRequired" xml:space="preserve">
+    <value>È richiesto l'identificativo del client</value>
   </data>
-  <data name="FriendJoined" xml:space="preserve">
-    <value>&lt;a href="{0}" class="link"&gt;{1}&lt;/a&gt; joined Langademy. You earned 30 minutes for your Time Bank account!</value>
+  <data name="ExternalProviderError" xml:space="preserve">
+    <value>Si è verificato un errore durante il login tramite il fornitore esterno. Il messaggio di errore è: {0}</value>
   </data>
-  <data name="FriendRequest" xml:space="preserve">
-    <value>Connection request</value>
+  <data name="InvalidUsernameOrPassword" xml:space="preserve">
+    <value>Nome utente o password non corretti.</value>
   </data>
-  <data name="MeetupInvCancelled" xml:space="preserve">
-    <value>Meetup cancelled</value>
+  <data name="invalid_request" xml:space="preserve">
+    <value>L'applicazione client ha effettuato una richiesta non valida.</value>
   </data>
-  <data name="MeetupInvitation" xml:space="preserve">
-    <value>{0} invited you to attend a meetup</value>
+  <data name="invalid_scope" xml:space="preserve">
+    <value>L'applicazione client ha tentato di accedere ad una risorsa per la quale non possiede i permessi di accesso.</value>
   </data>
-  <data name="NewMissedCall" xml:space="preserve">
-    <value>Missed call</value>
+  <data name="MissingClientId" xml:space="preserve">
+    <value>client_id mancante</value>
   </data>
-  <data name="PrivateConversationAccepted" xml:space="preserve">
-    <value>accepted your request for practicing {0}</value>
+  <data name="MissingToken" xml:space="preserve">
+    <value>Token mancante</value>
   </data>
-  <data name="PrivateConversationRequest" xml:space="preserve">
-    <value>would like to practice {0} with you</value>
+  <data name="MustSelectAtLeastOnePermission" xml:space="preserve">
+    <value>È necessario selezionare almeno un permesso.</value>
   </data>
-  <data name="PrivateConversationRequestRejected" xml:space="preserve">
-    <value>did not accept your conversation request</value>
+  <data name="NoExternalProvider" xml:space="preserve">
+    <value>Non è stato fornito il fornitore del login esterno.</value>
   </data>
-  <data name="PrivateMeetupCancelled" xml:space="preserve">
-    <value>cancelled your private meetup</value>
+  <data name="NoMatchingExternalAccount" xml:space="preserve">
+    <value>Account Non Valido</value>
   </data>
-  <data name="PrivateRequestCancelled" xml:space="preserve">
-    <value>cancelled the request</value>
+  <data name="NoSignInCookie" xml:space="preserve">
+    <value>Si è verificato un errore durante la determinazione dell'applicazione per la quale si sta effettuando l'accesso. Fai ritorno all'applicazione e tenta di nuovo.</value>
   </data>
-  <data name="PrivateRequestMessage" xml:space="preserve">
-    <value>sent you a message</value>
+  <data name="NoSubjectFromExternalProvider" xml:space="preserve">
+    <value>Errore durante l'autenticazione tramite il fornitore esterno</value>
+  </data>
+  <data name="PasswordRequired" xml:space="preserve">
+    <value>La password è richiesta</value>
+  </data>
+  <data name="SslRequired" xml:space="preserve">
+    <value>È richiesto l'uso di SSL</value>
+  </data>
+  <data name="unauthorized_client" xml:space="preserve">
+    <value>L'applicazione client è sconosciuta o non è autorizzata.</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Si è verificato un errore inatteso.</value>
+  </data>
+  <data name="UnsupportedMediaType" xml:space="preserve">
+    <value>Media Type non supportato</value>
+  </data>
+  <data name="unsupported_response_type" xml:space="preserve">
+    <value>Il server di autorizzazione non supporta il tipo di risposta richiesta.</value>
+  </data>
+  <data name="UsernameRequired" xml:space="preserve">
+    <value>Il nome utente è richiesto</value>
   </data>
 </root>

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Resources.ViewModels.Notifications {
+namespace Resources.IdentityServer.Events {
     using System;
     
     
@@ -22,14 +22,14 @@ namespace Resources.ViewModels.Notifications {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class Notification {
+    public class Events {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Notification() {
+        internal Events() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace Resources.ViewModels.Notifications {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.ViewModels.Notifications.Notification", typeof(Notification).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.IdentityServer.Events.Events", typeof(Events).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,110 +61,128 @@ namespace Resources.ViewModels.Notifications {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to and you are connected now.
+        ///   Looks up a localized string similar to Client Permissions Revoked.
         /// </summary>
-        public static string FriendAccepted {
+        public static string ClientPermissionsRevoked {
             get {
-                return ResourceManager.GetString("FriendAccepted", resourceCulture);
+                return ResourceManager.GetString("ClientPermissionsRevoked", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a href=&quot;{0}&quot; class=&quot;link&quot;&gt;{1}&lt;/a&gt; joined Langademy. You earned 30 minutes for your Time Bank account!.
+        ///   Looks up a localized string similar to Content Security Policy (CSP) Report.
         /// </summary>
-        public static string FriendJoined {
+        public static string CspReport {
             get {
-                return ResourceManager.GetString("FriendJoined", resourceCulture);
+                return ResourceManager.GetString("CspReport", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Connection request.
+        ///   Looks up a localized string similar to External Login Error.
         /// </summary>
-        public static string FriendRequest {
+        public static string ExternalLoginError {
             get {
-                return ResourceManager.GetString("FriendRequest", resourceCulture);
+                return ResourceManager.GetString("ExternalLoginError", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Meetup cancelled.
+        ///   Looks up a localized string similar to External Login Failure.
         /// </summary>
-        public static string MeetupInvCancelled {
+        public static string ExternalLoginFailure {
             get {
-                return ResourceManager.GetString("MeetupInvCancelled", resourceCulture);
+                return ResourceManager.GetString("ExternalLoginFailure", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} invited you to attend a meetup.
+        ///   Looks up a localized string similar to External Login Success.
         /// </summary>
-        public static string MeetupInvitation {
+        public static string ExternalLoginSuccess {
             get {
-                return ResourceManager.GetString("MeetupInvitation", resourceCulture);
+                return ResourceManager.GetString("ExternalLoginSuccess", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Missed call.
+        ///   Looks up a localized string similar to Local Login Failure.
         /// </summary>
-        public static string NewMissedCall {
+        public static string LocalLoginFailure {
             get {
-                return ResourceManager.GetString("NewMissedCall", resourceCulture);
+                return ResourceManager.GetString("LocalLoginFailure", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to accepted your request for practicing {0}.
+        ///   Looks up a localized string similar to Local Login Success.
         /// </summary>
-        public static string PrivateConversationAccepted {
+        public static string LocalLoginSuccess {
             get {
-                return ResourceManager.GetString("PrivateConversationAccepted", resourceCulture);
+                return ResourceManager.GetString("LocalLoginSuccess", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to would like to practice {0} with you.
+        ///   Looks up a localized string similar to Logout Event.
         /// </summary>
-        public static string PrivateConversationRequest {
+        public static string LogoutEvent {
             get {
-                return ResourceManager.GetString("PrivateConversationRequest", resourceCulture);
+                return ResourceManager.GetString("LogoutEvent", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to did not accept your conversation request.
+        ///   Looks up a localized string similar to Partial Login.
         /// </summary>
-        public static string PrivateConversationRequestRejected {
+        public static string PartialLogin {
             get {
-                return ResourceManager.GetString("PrivateConversationRequestRejected", resourceCulture);
+                return ResourceManager.GetString("PartialLogin", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to cancelled your private meetup.
+        ///   Looks up a localized string similar to Partial Login Complete.
         /// </summary>
-        public static string PrivateMeetupCancelled {
+        public static string PartialLoginComplete {
             get {
-                return ResourceManager.GetString("PrivateMeetupCancelled", resourceCulture);
+                return ResourceManager.GetString("PartialLoginComplete", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to cancelled the request.
+        ///   Looks up a localized string similar to Pre-Login Failure.
         /// </summary>
-        public static string PrivateRequestCancelled {
+        public static string PreLoginFailure {
             get {
-                return ResourceManager.GetString("PrivateRequestCancelled", resourceCulture);
+                return ResourceManager.GetString("PreLoginFailure", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to sent you a message.
+        ///   Looks up a localized string similar to Pre-Login Success.
         /// </summary>
-        public static string PrivateRequestMessage {
+        public static string PreLoginSuccess {
             get {
-                return ResourceManager.GetString("PrivateRequestMessage", resourceCulture);
+                return ResourceManager.GetString("PreLoginSuccess", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Resource Owner Password Flow Login Failure.
+        /// </summary>
+        public static string ResourceOwnerFlowLoginFailure {
+            get {
+                return ResourceManager.GetString("ResourceOwnerFlowLoginFailure", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Resource Owner Password Flow Login Success.
+        /// </summary>
+        public static string ResourceOwnerFlowLoginSuccess {
+            get {
+                return ResourceManager.GetString("ResourceOwnerFlowLoginSuccess", resourceCulture);
             }
         }
     }
