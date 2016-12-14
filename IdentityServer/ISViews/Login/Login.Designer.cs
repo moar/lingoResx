@@ -133,7 +133,7 @@ namespace Resources.IdentityServer.ISViews.Login {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in.
+        ///   Looks up a localized string similar to Welcome to &lt;span class=&quot;fg-langademy&quot;&gt;Langademy&lt;/span&gt;.
         /// </summary>
         public static string Title {
             get {

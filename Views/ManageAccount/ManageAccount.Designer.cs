@@ -88,7 +88,7 @@ namespace Resources.Views.ManageAccount {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter your email.
+        ///   Looks up a localized string similar to Enter the email account you registered at Langademy and we will send you an email with instructions to recover your password.
         /// </summary>
         public static string EnterMail {
             get {
