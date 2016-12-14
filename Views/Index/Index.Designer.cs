@@ -133,7 +133,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn spanish, german, english, french or any language online with Langademy. In Langademy&apos;s chat rooms you can find native speakers to chat or make online videocalls in your favourite languages.
+        ///   Looks up a localized string similar to Learn Spanish, German, English, French or any language online with Langademy. In Langademy&apos;s chat rooms you can find native speakers to chat or make online videocalls in your favourite languages.
         /// </summary>
         public static string IndBlock2Subtitle {
             get {
