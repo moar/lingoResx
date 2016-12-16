@@ -495,7 +495,9 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ServerNotifications.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.ca.resx" />
+    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.de.resx" />
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.es.resx" />
     <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.eu.resx" />
