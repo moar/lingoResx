@@ -187,6 +187,15 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Go to Langademy.
+        /// </summary>
+        public static string GoHome {
+            get {
+                return ResourceManager.GetString("GoHome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Invalid e-mail or password.
         /// </summary>
         public static string InvalidEmailOrPwd {
@@ -210,6 +219,15 @@ namespace Resources.Views.LoginRegister {
         public static string LastNameLength {
             get {
                 return ResourceManager.GetString("LastNameLength", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to One last step.
+        /// </summary>
+        public static string LastStep {
+            get {
+                return ResourceManager.GetString("LastStep", resourceCulture);
             }
         }
         
@@ -385,11 +403,38 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If you already have a Langademy account you can &lt;a href=&quot;{0}&quot;&gt;sign in&lt;/a&gt; with the same e-mail account. Otherwise, register now.
+        /// </summary>
+        public static string RegIntro {
+            get {
+                return ResourceManager.GetString("RegIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Registration success!.
+        /// </summary>
+        public static string RegSuccess {
+            get {
+                return ResourceManager.GetString("RegSuccess", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Terms and Conditions.
         /// </summary>
         public static string RegTerms {
             get {
                 return ResourceManager.GetString("RegTerms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Create an account.
+        /// </summary>
+        public static string RegTitle {
+            get {
+                return ResourceManager.GetString("RegTitle", resourceCulture);
             }
         }
         

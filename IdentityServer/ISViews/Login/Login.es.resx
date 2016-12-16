@@ -136,7 +136,7 @@
     <value>Entra con tu cuenta de Langademy</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Iniciar sesión</value>
+    <value>Bienvenido a &lt;span class="fg-langademy"&gt;Langademy&lt;/span&gt;</value>
   </data>
   <data name="Action" xml:space="preserve">
     <value>Iniciar sesión</value>
