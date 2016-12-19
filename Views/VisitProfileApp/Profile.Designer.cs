@@ -241,15 +241,6 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Last week (minutes).
-        /// </summary>
-        public static string ProfLastWeekStats {
-            get {
-                return ResourceManager.GetString("ProfLastWeekStats", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to minutes.
         /// </summary>
         public static string ProfMinutes {

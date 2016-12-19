@@ -178,6 +178,15 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Leave call.
+        /// </summary>
+        public static string LeaveCall {
+            get {
+                return ResourceManager.GetString("LeaveCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Loading local video.
         /// </summary>
         public static string LoadingLocal {
