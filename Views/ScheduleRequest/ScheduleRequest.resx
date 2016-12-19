@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SchAddLang" xml:space="preserve">
+    <value>If you want to send a request for practicing {0} you have to include the language in your profile</value>
+  </data>
+  <data name="SchBothLegend" xml:space="preserve">
+    <value>available for timebanking and paid conversations</value>
+  </data>
+  <data name="SchCheckMail" xml:space="preserve">
+    <value>I want to receive an email if {0} accepts my request</value>
+  </data>
+  <data name="SchCondDurSummary" xml:space="preserve">
+    <value>Conversation duration</value>
+  </data>
+  <data name="SchConfirmReq" xml:space="preserve">
+    <value>Confirm your request</value>
+  </data>
+  <data name="SchConvDateSummary" xml:space="preserve">
+    <value>Conversation date</value>
+  </data>
+  <data name="SchConvLangSummary" xml:space="preserve">
+    <value>Conversation language</value>
+  </data>
+  <data name="SchConvTypeQuest" xml:space="preserve">
+    <value>Do you want a time banking conversation, or a paid conversation?</value>
+  </data>
+  <data name="SchConvTypeSummary" xml:space="preserve">
+    <value>Conversation type</value>
+  </data>
+  <data name="SchEmptyMess" xml:space="preserve">
+    <value>You cannot send empty messages</value>
+  </data>
+  <data name="SchLangQuest" xml:space="preserve">
+    <value>In what language do you want to speak with {0}?</value>
+  </data>
+  <data name="SchMessDesc" xml:space="preserve">
+    <value>For example, you could offer yourself to practice other languages, or request rates</value>
+  </data>
+  <data name="SchMessMaxLengh" xml:space="preserve">
+    <value>The message cannot be longer than {1} characters</value>
+  </data>
+  <data name="SchMessPH" xml:space="preserve">
+    <value>Max Length: 280 characters</value>
+  </data>
+  <data name="SchMessQuest" xml:space="preserve">
+    <value>Do you want to send a message to {0}?</value>
+  </data>
+  <data name="SchNoAvailable" xml:space="preserve">
+    <value>{{:NativeName}} is not available this week. You can look at other weeks</value>
+  </data>
+  <data name="SchPaidConv" xml:space="preserve">
+    <value>Paid conversation</value>
+  </data>
+  <data name="SchReqConv" xml:space="preserve">
+    <value>Request a conversation</value>
+  </data>
+  <data name="SchSelectDateVal" xml:space="preserve">
+    <value>Select the date and time of the conversation</value>
+  </data>
+  <data name="SchSelectLangVal" xml:space="preserve">
+    <value>Select the language of the conversation</value>
+  </data>
+  <data name="SchSimulConv" xml:space="preserve">
+    <value>You have another conversation at the same time</value>
+  </data>
+  <data name="SchSimulReqs" xml:space="preserve">
+    <value>You cannot make two conversation requests for the same time</value>
+  </data>
+  <data name="SchSimulReqsMax" xml:space="preserve">
+    <value>You cannot make more than {0} simultaneous requests</value>
+  </data>
+  <data name="SchStepsTitle" xml:space="preserve">
+    <value>Follow these steps for making your reservation</value>
+  </data>
+  <data name="SchSubmitReq" xml:space="preserve">
+    <value>Submit request</value>
+  </data>
+  <data name="SchTBConv" xml:space="preserve">
+    <value>Time banking</value>
+  </data>
+  <data name="SchTBLegend" xml:space="preserve">
+    <value>available for timebanking</value>
+  </data>
+  <data name="SchTodaysRate" xml:space="preserve">
+    <value>Today's rate</value>
+  </data>
+  <data name="SchUndefined" xml:space="preserve">
+    <value>Undefined</value>
+  </data>
+  <data name="SchUnselected" xml:space="preserve">
+    <value>Unselected</value>
+  </data>
+  <data name="SchWalletInfo1" xml:space="preserve">
+    <value>Today's rate is merely informative. Before starting the videocall with {0} you can decide to cancel it in case you do not agree with the final rate</value>
+  </data>
+  <data name="SchWalletInfo2" xml:space="preserve">
+    <value>You will only pay for the exact duration of the videocall, and if you cancel the videocall during the first three minutes you will not be charged</value>
+  </data>
+  <data name="SchWalletLegend" xml:space="preserve">
+    <value>available for paid conversations</value>
+  </data>
+  <data name="SchWantNotify" xml:space="preserve">
+    <value>Do you want to be notified when {{:NativeName}} is available?</value>
+  </data>
+  <data name="SchWhenDesc" xml:space="preserve">
+    <value>Select the date, time and duration of the conversation by clicking and dragging over any available slots at the agenda (Max time:2 hours)</value>
+  </data>
+  <data name="SchWhenQuest" xml:space="preserve">
+    <value>When do you want to have the conversation?</value>
+  </data>
+  <data name="SchWillNotify" xml:space="preserve">
+    <value>Anyway, you will be notified when {{:NativeName}} is available</value>
+  </data>
+</root>

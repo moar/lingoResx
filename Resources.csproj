@@ -393,6 +393,16 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>RightPanel.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\ScheduleRequest\ScheduleRequest.es.Designer.cs">
+      <DependentUpon>ScheduleRequest.es.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Views\ScheduleRequest\ScheduleRequest.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ScheduleRequest.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Search\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1006,6 +1016,14 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>RightPanel.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ScheduleRequest.es.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ScheduleRequest.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Search\Index.ca.resx" />
     <EmbeddedResource Include="Views\Search\Index.de.resx" />
