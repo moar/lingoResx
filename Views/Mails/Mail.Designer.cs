@@ -61,6 +61,33 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0}&apos;s calendar is updated.
+        /// </summary>
+        public static string AvailableRequest {
+            get {
+                return ResourceManager.GetString("AvailableRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} people have updated their calendars.
+        /// </summary>
+        public static string AvailableRequests {
+            get {
+                return ResourceManager.GetString("AvailableRequests", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has accepted your conversation request.
+        /// </summary>
+        public static string ConversationAccepted {
+            get {
+                return ResourceManager.GetString("ConversationAccepted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy Invitation.
         /// </summary>
         public static string InvitationSubject {
@@ -102,6 +129,15 @@ namespace Resources.Views.Mails {
         public static string MeetupAlerta {
             get {
                 return ResourceManager.GetString("MeetupAlerta", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Someone wants to have a conversation with you.
+        /// </summary>
+        public static string NewConversationRequests {
+            get {
+                return ResourceManager.GetString("NewConversationRequests", resourceCulture);
             }
         }
         

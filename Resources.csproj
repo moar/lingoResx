@@ -907,13 +907,16 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Mails\Mail.ca.resx" />
     <EmbeddedResource Include="Views\Mails\Mail.de.resx" />
-    <EmbeddedResource Include="Views\Mails\Mail.es.resx" />
+    <EmbeddedResource Include="Views\Mails\Mail.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Mails\Mail.eu.resx" />
     <EmbeddedResource Include="Views\Mails\Mail.fr.resx" />
     <EmbeddedResource Include="Views\Mails\Mail.it.resx" />
     <EmbeddedResource Include="Views\Mails\Mail.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Mail.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.ca.resx" />
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.de.resx" />
