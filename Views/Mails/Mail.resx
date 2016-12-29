@@ -126,6 +126,12 @@
   <data name="ConversationAccepted" xml:space="preserve">
     <value>{0} has accepted your conversation request</value>
   </data>
+  <data name="ConversationAlert" xml:space="preserve">
+    <value>You have a converstaion scheduled for today</value>
+  </data>
+  <data name="ConversationAlerts" xml:space="preserve">
+    <value>You have some conversations scheduled for today</value>
+  </data>
   <data name="InvitationSubject" xml:space="preserve">
     <value>Langademy Invitation</value>
   </data>
@@ -138,9 +144,6 @@
   <data name="MailNewMeetupParticipants" xml:space="preserve">
     <value>New meetup participants</value>
   </data>
-  <data name="MeetupAlerta" xml:space="preserve">
-    <value>Meetup alert</value>
-  </data>
   <data name="NewConversationRequests" xml:space="preserve">
     <value>Someone wants to have a conversation with you</value>
   </data>
@@ -152,6 +155,9 @@
   </data>
   <data name="PasswordRecovery" xml:space="preserve">
     <value>Recover your password</value>
+  </data>
+  <data name="PublicMeetupAlert" xml:space="preserve">
+    <value>You have a meetup scheduled for today</value>
   </data>
   <data name="VisitReminder" xml:space="preserve">
     <value>We miss you!</value>

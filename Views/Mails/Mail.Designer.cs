@@ -88,6 +88,24 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have a converstaion scheduled for today.
+        /// </summary>
+        public static string ConversationAlert {
+            get {
+                return ResourceManager.GetString("ConversationAlert", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have some conversations scheduled for today.
+        /// </summary>
+        public static string ConversationAlerts {
+            get {
+                return ResourceManager.GetString("ConversationAlerts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy Invitation.
         /// </summary>
         public static string InvitationSubject {
@@ -124,15 +142,6 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Meetup alert.
-        /// </summary>
-        public static string MeetupAlerta {
-            get {
-                return ResourceManager.GetString("MeetupAlerta", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Someone wants to have a conversation with you.
         /// </summary>
         public static string NewConversationRequests {
@@ -165,6 +174,15 @@ namespace Resources.Views.Mails {
         public static string PasswordRecovery {
             get {
                 return ResourceManager.GetString("PasswordRecovery", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have a meetup scheduled for today.
+        /// </summary>
+        public static string PublicMeetupAlert {
+            get {
+                return ResourceManager.GetString("PublicMeetupAlert", resourceCulture);
             }
         }
         

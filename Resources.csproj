@@ -915,8 +915,8 @@
     <EmbeddedResource Include="Views\Mails\Mail.it.resx" />
     <EmbeddedResource Include="Views\Mails\Mail.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Mail.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Mail1.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.ca.resx" />
     <EmbeddedResource Include="Views\ManageAccount\ManageAccount.de.resx" />
