@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -121,7 +121,7 @@
     <value>All meetups</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[The meetup hasn't begun yet, but you can go to the chat room and <b>practice {0}</b> when you want]]></value>
+    <value>The meetup hasn't begun yet, but you can go to the chat room and &lt;b&gt;practice {0}&lt;/b&gt; when you want</value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Attend</value>
@@ -235,7 +235,7 @@
     <value>The meetup has begun! Go to the chat room and start speaking in {0} now</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value><![CDATA[The meetup is over. But remember that you can go to the chat room and <b>practice {0}</b> when you want]]></value>
+    <value>The meetup is over. But remember that you can go to the chat room and &lt;b&gt;practice {0}&lt;/b&gt; when you want</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>You are about to share this meetup on Reddit. We suggest one of the following subreddits:</value>
@@ -359,5 +359,110 @@
   </data>
   <data name="MBNoMeetupsScheduled" xml:space="preserve">
     <value>No meetups scheduled</value>
+  </data>
+  <data name="CalendarEdit" xml:space="preserve">
+    <value>Edit Availability</value>
+  </data>
+  <data name="CalendarLoad" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="ConvReqs" xml:space="preserve">
+    <value>Conversation Requests</value>
+  </data>
+  <data name="EditAvFillCalendar" xml:space="preserve">
+    <value>Rellena en tu calendario las horas a las que estarás libre para hablar en tu idioma nativo</value>
+  </data>
+  <data name="EditAvSelectType" xml:space="preserve">
+    <value>Elige si quieres recibir solicitudes para llamadas Wallet, llamadas Time banking o para cualquiera y crea tantas franjas como quieras directamente sobre el calendario</value>
+  </data>
+  <data name="EditAvTB" xml:space="preserve">
+    <value>Time banking</value>
+  </data>
+  <data name="EditAvWallet" xml:space="preserve">
+    <value>Wallet</value>
+  </data>
+  <data name="EditCalendar" xml:space="preserve">
+    <value>Edit calendar</value>
+  </data>
+  <data name="EditSave" xml:space="preserve">
+    <value>Save and Exit</value>
+  </data>
+  <data name="IndexNoReq" xml:space="preserve">
+    <value>You haven't sent any conversation requests</value>
+  </data>
+  <data name="IndexReceived" xml:space="preserve">
+    <value>Received</value>
+  </data>
+  <data name="IndexSent" xml:space="preserve">
+    <value>Sent</value>
+  </data>
+  <data name="IndNoReq" xml:space="preserve">
+    <value>You haven't received any conversation requests</value>
+  </data>
+  <data name="NewConvSendReq" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="StudentReqAccepted" xml:space="preserve">
+    <value>Accepted</value>
+  </data>
+  <data name="StudentReqAcceptMeetup" xml:space="preserve">
+    <value>Accept meetup</value>
+  </data>
+  <data name="StudentReqCancelled" xml:space="preserve">
+    <value>Cancelled</value>
+  </data>
+  <data name="StudentReqCancelMeetup" xml:space="preserve">
+    <value>Cancel meetup</value>
+  </data>
+  <data name="StudentReqCancelRequest" xml:space="preserve">
+    <value>Cancel request</value>
+  </data>
+  <data name="StudentReqEnter" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="StudentReqFinallyCancelled" xml:space="preserve">
+    <value>Ooopss... it seems that you finally cancelled the meetup</value>
+  </data>
+  <data name="StudentReqFollowLink" xml:space="preserve">
+    <value>Follow this link to enter the conversation room</value>
+  </data>
+  <data name="StudentReqMeetupCancelled" xml:space="preserve">
+    <value>Meetup cancelled</value>
+  </data>
+  <data name="StudentReqMessages" xml:space="preserve">
+    <value>Messages</value>
+  </data>
+  <data name="StudentReqMissSentence" xml:space="preserve">
+    <value>It's a pity that you didn't confirm the request earlier. Stay tuned to Langademy and do not miss more requests ;-)</value>
+  </data>
+  <data name="StudentReqOtherReq" xml:space="preserve">
+    <value>You accepted another conversation request for the same time, so you cannot accept this one</value>
+  </data>
+  <data name="StudentReqPending" xml:space="preserve">
+    <value>Pending</value>
+  </data>
+  <data name="StudentReqProposal" xml:space="preserve">
+    <value>Proposal</value>
+  </data>
+  <data name="StudentReqRateOnRequest" xml:space="preserve">
+    <value>Rate on request date</value>
+  </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>Reject</value>
+  </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Rejected</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Request for</value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Time banking conversation</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Wallet conversation</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Write your message</value>
   </data>
 </root>
