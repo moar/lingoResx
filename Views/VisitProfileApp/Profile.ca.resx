@@ -185,10 +185,7 @@
   </data>
   <data name="ProfMinutes" xml:space="preserve">
     <value>minuts</value>
-  </data>
-  <data name="ProfLastWeekStats" xml:space="preserve">
-    <value>La setmana passada (minuts)</value>
-  </data>
+  </data> 
   <data name="ProfNextMeetups" xml:space="preserve">
     <value>Pròximes quedades </value>
   </data>

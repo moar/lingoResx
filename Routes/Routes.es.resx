@@ -117,112 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddPartner" xml:space="preserve">
-    <value>Konektatu</value>
+  <data name="conversation-exchange-meetups" xml:space="preserve">
+    <value>quedadas-intecambio-idiomas</value>
   </data>
-  <data name="AdditionalInfo" xml:space="preserve">
-    <value>Informazio osagarria</value>
+  <data name="desktop" xml:space="preserve">
+    <value>escritorio</value>
   </data>
-  <data name="AddLanguage" xml:space="preserve">
-    <value><![CDATA[<strong>{0}</strong> ({1}) gehi tu du]]></value>
+  <data name="earn-as-conversation-partner" xml:space="preserve">
+    <value>ganar-dinero-compañero-conversacion</value>
   </data>
-  <data name="Block" xml:space="preserve">
-    <value>Blokeatu</value>
+  <data name="help" xml:space="preserve">
+    <value>ayuda</value>
   </data>
-  <data name="DayAgo" xml:space="preserve">
-    <value>Atzo</value>
+  <data name="how-does-time-banking-work" xml:space="preserve">
+    <value>funcionamiento-banco-de-tiempo</value>
   </data>
-  <data name="DeleteFriend" xml:space="preserve">
-    <value>Deskonektatu</value>
+  <data name="language-exchange" xml:space="preserve">
+    <value>intercambio-de-idiomas</value>
   </data>
-  <data name="FriendRequested" xml:space="preserve">
-    <value>Eskaera zain</value>
+  <data name="language-exchange-partners" xml:space="preserve">
+    <value>compañeros-intercambio-idiomas</value>
   </data>
-  <data name="Partners" xml:space="preserve">
-    <value>Konektatua</value>
+  <data name="language-learners-how-to-start" xml:space="preserve">
+    <value>estudiantes-idiomas-como-empezar</value>
   </data>
-  <data name="LessThanHourAgo" xml:space="preserve">
-    <value>Duela ordu bat baino gutxiago</value>
+  <data name="learn-languages" xml:space="preserve">
+    <value>aprender-idiomas</value>
   </data>
-  <data name="NewFriendship" xml:space="preserve">
-    <value><![CDATA[<a class="link applnk" href="{2}">{0}</a> eta <a  class="link applnk" href="{3}">{1}</a> konektatuta daude orain]]></value>
+  <data name="natives-how-to-start" xml:space="preserve">
+    <value>nativos-como-empezar</value>
   </data>
-  <data name="NoFriends" xml:space="preserve">
-    <value>Oraindik ez dago kontakturik</value>
+  <data name="pricing" xml:space="preserve">
+    <value>precios</value>
   </data>
-  <data name="Report" xml:space="preserve">
-    <value>Erreportatu</value>
+  <data name="time-banking-indroduction" xml:space="preserve">
+    <value>introduccion-banco-tiempo</value>
   </data>
-  <data name="UpdateLanguage" xml:space="preserve">
-    <value><![CDATA[<strong>{0}</strong>-ko maila {1}-ra eguneratu du]]></value>
+  <data name="time-banking-language-chat-rooms" xml:space="preserve">
+    <value>salas-chat-banco-tiempo</value>
   </data>
-  <data name="XDaysAgo" xml:space="preserve">
-    <value>duela {0} egun</value>
+  <data name="wallet-introduction" xml:space="preserve">
+    <value>introduccion-wallet</value>
   </data>
-  <data name="XHoursAgo" xml:space="preserve">
-    <value>duela {0} ordu</value>
+  <data name="wallet-language-room" xml:space="preserve">
+    <value>salas-idiomas-wallet</value>
   </data>
-  <data name="NoActivity" xml:space="preserve">
-    <value>Ez dago jarduerarik oraindik</value>
+  <data name="wallet-native-fees" xml:space="preserve">
+    <value>comision-nativos-wallet</value>
   </data>
-  <data name="ConversationAct" xml:space="preserve">
-    <value><![CDATA[<a href="{0}" class="link">{1}</a>-(e)k  {2}-(e)z hitz egin du {3} minutuz]]></value>
-  </data>
-  <data name="CancelPartnerRequest" xml:space="preserve">
-    <value>Eskaera ezeztatu</value>
-  </data>
-  <data name="PrAbout" xml:space="preserve">
-    <value>Zuri buruz</value>
-  </data>
-  <data name="PHours" xml:space="preserve">
-    <value>ordu</value>
-  </data>
-  <data name="PMinutes" xml:space="preserve">
-    <value>minutu</value>
-  </data>
-  <data name="VPLanguages" xml:space="preserve">
-    <value>Hizkuntzak</value>
-  </data>
-  <data name="ProfMinutes" xml:space="preserve">
-    <value>minutu</value>
-  </data> 
-  <data name="ProfNextMeetups" xml:space="preserve">
-    <value>Hurrengo bilerak</value>
-  </data>
-  <data name="ProfRecentAct" xml:space="preserve">
-    <value>Azken jarduerak</value>
-  </data>
-  <data name="ProfTimePLang" xml:space="preserve">
-    <value>Denbora hizkuntzako</value>
-  </data>
-  <data name="VPVideoCall" xml:space="preserve">
-    <value>Deitu</value>
-  </data>
-  <data name="PartnersBlockTitle" xml:space="preserve">
-    <value>Kontaktuak</value>
-  </data>
-  <data name="ViewAllContacts" xml:space="preserve">
-    <value>Guztiak ikusi ({0})</value>
-  </data>
-  <data name="LangExStats" xml:space="preserve">
-    <value>Hizkuntza elkartrukeko estatistikak</value>
-  </data>
-  <data name="ProfUserReported" xml:space="preserve">
-    <value>Erabiltzaile hau erreportatua izan da dagoeneko</value>
-  </data>
-  <data name="ProfBlockSuccess" xml:space="preserve">
-    <value>Erabiltzailea blokeatua izan da</value>
-  </data>
-  <data name="VPAcceptReq" xml:space="preserve">
-    <value>Onartu</value>
-  </data>
-  <data name="VPDeclineReq" xml:space="preserve">
-    <value>Ukatu</value>
-  </data>
-  <data name="VPTBCall" xml:space="preserve">
-    <value>Denbora banku deia</value>
-  </data>
-  <data name="VPWalletCall" xml:space="preserve">
-    <value>Wallet deia</value>
+  <data name="wallet-withdrawals" xml:space="preserve">
+    <value>retirar-creditos-wallet</value>
   </data>
 </root>
