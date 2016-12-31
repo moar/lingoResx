@@ -61,20 +61,11 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to conversation-exchange-meetups.
+        ///   Looks up a localized string similar to meetupboard/conversation-exchange-meetups.
         /// </summary>
         public static string conversation_exchange_meetups {
             get {
                 return ResourceManager.GetString("conversation-exchange-meetups", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to desktop.
-        /// </summary>
-        public static string desktop {
-            get {
-                return ResourceManager.GetString("desktop", resourceCulture);
             }
         }
         
@@ -97,11 +88,20 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to how-does-time-banking-work.
+        ///   Looks up a localized string similar to help/how-does-time-banking-work.
         /// </summary>
         public static string how_does_time_banking_work {
             get {
                 return ResourceManager.GetString("how-does-time-banking-work", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/langademy-state.
+        /// </summary>
+        public static string langademy_state {
+            get {
+                return ResourceManager.GetString("langademy-state", resourceCulture);
             }
         }
         
@@ -124,7 +124,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to language-learners-how-to-start.
+        ///   Looks up a localized string similar to help/language-learners-how-to-start.
         /// </summary>
         public static string language_learners_how_to_start {
             get {
@@ -142,7 +142,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to natives-how-to-start.
+        ///   Looks up a localized string similar to help/natives-how-to-start.
         /// </summary>
         public static string natives_how_to_start {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to time-banking-indroduction.
+        ///   Looks up a localized string similar to help/time-banking-indroduction.
         /// </summary>
         public static string time_banking_indroduction {
             get {
@@ -169,7 +169,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to time-banking-language-chat-rooms.
+        ///   Looks up a localized string similar to help/time-banking-language-chat-rooms.
         /// </summary>
         public static string time_banking_language_chat_rooms {
             get {
@@ -178,7 +178,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to wallet-introduction.
+        ///   Looks up a localized string similar to help/wallet-introduction.
         /// </summary>
         public static string wallet_introduction {
             get {
@@ -187,7 +187,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to wallet-language-room.
+        ///   Looks up a localized string similar to help/wallet-language-room.
         /// </summary>
         public static string wallet_language_room {
             get {
@@ -196,7 +196,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to wallet-native-fees.
+        ///   Looks up a localized string similar to help/wallet-native-fees.
         /// </summary>
         public static string wallet_native_fees {
             get {
@@ -205,7 +205,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to wallet-withdrawals.
+        ///   Looks up a localized string similar to help/wallet-withdrawals.
         /// </summary>
         public static string wallet_withdrawals {
             get {
