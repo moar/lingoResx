@@ -118,10 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="conversation-exchange-meetups" xml:space="preserve">
-    <value>quedadas-intecambio-idiomas</value>
-  </data>
-  <data name="desktop" xml:space="preserve">
-    <value>escritorio</value>
+    <value>meetupboard/quedadas-intecambio-idiomas</value>
   </data>
   <data name="earn-as-conversation-partner" xml:space="preserve">
     <value>ganar-dinero-compañero-conversacion</value>
@@ -130,7 +127,7 @@
     <value>ayuda</value>
   </data>
   <data name="how-does-time-banking-work" xml:space="preserve">
-    <value>funcionamiento-banco-de-tiempo</value>
+    <value>ayuda/funcionamiento-banco-de-tiempo</value>
   </data>
   <data name="language-exchange" xml:space="preserve">
     <value>intercambio-de-idiomas</value>
@@ -139,33 +136,33 @@
     <value>compañeros-intercambio-idiomas</value>
   </data>
   <data name="language-learners-how-to-start" xml:space="preserve">
-    <value>estudiantes-idiomas-como-empezar</value>
+    <value>ayuda/estudiantes-idiomas-como-empezar</value>
   </data>
   <data name="learn-languages" xml:space="preserve">
     <value>aprender-idiomas</value>
   </data>
   <data name="natives-how-to-start" xml:space="preserve">
-    <value>nativos-como-empezar</value>
+    <value>ayuda/nativos-como-empezar</value>
   </data>
   <data name="pricing" xml:space="preserve">
     <value>precios</value>
   </data>
   <data name="time-banking-indroduction" xml:space="preserve">
-    <value>introduccion-banco-tiempo</value>
+    <value>ayuda/introduccion-banco-tiempo</value>
   </data>
   <data name="time-banking-language-chat-rooms" xml:space="preserve">
-    <value>salas-chat-banco-tiempo</value>
+    <value>ayuda/salas-chat-banco-tiempo</value>
   </data>
   <data name="wallet-introduction" xml:space="preserve">
-    <value>introduccion-wallet</value>
+    <value>ayuda/introduccion-wallet</value>
   </data>
   <data name="wallet-language-room" xml:space="preserve">
-    <value>salas-idiomas-wallet</value>
+    <value>ayuda/salas-idiomas-wallet</value>
   </data>
   <data name="wallet-native-fees" xml:space="preserve">
-    <value>comision-nativos-wallet</value>
+    <value>ayuda/comision-nativos-wallet</value>
   </data>
   <data name="wallet-withdrawals" xml:space="preserve">
-    <value>retirar-creditos-wallet</value>
+    <value>ayuda/retirar-creditos-wallet</value>
   </data>
 </root>
