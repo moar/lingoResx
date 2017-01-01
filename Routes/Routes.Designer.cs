@@ -61,7 +61,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to meetupboard/conversation-exchange-meetups.
+        ///   Looks up a localized string similar to conversation-exchange-meetups.
         /// </summary>
         public static string conversation_exchange_meetups {
             get {
