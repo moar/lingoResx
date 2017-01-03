@@ -360,4 +360,109 @@
   <data name="MBNoMeetupsScheduled" xml:space="preserve">
     <value>No meetups scheduled</value>
   </data>
+  <data name="CalendarEdit" xml:space="preserve">
+    <value>Edit Availability</value>
+  </data>
+  <data name="CalendarLoad" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="ConvReqs" xml:space="preserve">
+    <value>Conversation Requests</value>
+  </data>
+  <data name="EditAvFillCalendar" xml:space="preserve">
+    <value>Fill in your calendar the hours you will be free to speak in your native language</value>
+  </data>
+  <data name="EditAvSelectType" xml:space="preserve">
+    <value>Choose whether you want to receive requests for Wallet calls, Time banking calls or both and create as many stripes as you want directly on the calendar</value>
+  </data>
+  <data name="EditAvTB" xml:space="preserve">
+    <value>Time banking</value>
+  </data>
+  <data name="EditAvWallet" xml:space="preserve">
+    <value>Wallet</value>
+  </data>
+  <data name="EditCalendar" xml:space="preserve">
+    <value>Edit calendar</value>
+  </data>
+  <data name="EditSave" xml:space="preserve">
+    <value>Save and Exit</value>
+  </data>
+  <data name="IndexNoReq" xml:space="preserve">
+    <value>You haven't sent any conversation requests</value>
+  </data>
+  <data name="IndexReceived" xml:space="preserve">
+    <value>Received</value>
+  </data>
+  <data name="IndexSent" xml:space="preserve">
+    <value>Sent</value>
+  </data>
+  <data name="IndNoReq" xml:space="preserve">
+    <value>You haven't received any conversation requests</value>
+  </data>
+  <data name="NewConvSendReq" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="StudentReqAccepted" xml:space="preserve">
+    <value>Accepted</value>
+  </data>
+  <data name="StudentReqAcceptMeetup" xml:space="preserve">
+    <value>Accept meetup</value>
+  </data>
+  <data name="StudentReqCancelled" xml:space="preserve">
+    <value>Cancelled</value>
+  </data>
+  <data name="StudentReqCancelMeetup" xml:space="preserve">
+    <value>Cancel meetup</value>
+  </data>
+  <data name="StudentReqCancelRequest" xml:space="preserve">
+    <value>Cancel request</value>
+  </data>
+  <data name="StudentReqEnter" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="StudentReqFinallyCancelled" xml:space="preserve">
+    <value>Ooopss... it seems that you finally cancelled the meetup</value>
+  </data>
+  <data name="StudentReqFollowLink" xml:space="preserve">
+    <value>Follow this link to enter the conversation room</value>
+  </data>
+  <data name="StudentReqMeetupCancelled" xml:space="preserve">
+    <value>Meetup cancelled</value>
+  </data>
+  <data name="StudentReqMessages" xml:space="preserve">
+    <value>Messages</value>
+  </data>
+  <data name="StudentReqMissSentence" xml:space="preserve">
+    <value>It's a pity that you didn't confirm the request earlier. Stay tuned to Langademy and do not miss more requests ;-)</value>
+  </data>
+  <data name="StudentReqOtherReq" xml:space="preserve">
+    <value>You accepted another conversation request for the same time, so you cannot accept this one</value>
+  </data>
+  <data name="StudentReqPending" xml:space="preserve">
+    <value>Pending</value>
+  </data>
+  <data name="StudentReqProposal" xml:space="preserve">
+    <value>Proposal</value>
+  </data>
+  <data name="StudentReqRateOnRequest" xml:space="preserve">
+    <value>Rate on request date</value>
+  </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>Reject</value>
+  </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Rejected</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Request for</value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Time banking conversation</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Wallet conversation</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Write your message</value>
+  </data>
 </root>

@@ -117,112 +117,93 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddPartner" xml:space="preserve">
-    <value>Konektatu</value>
+  
+  
+  <data name="locoLocaleName" xml:space="preserve">
+    <value>Inglés (EEUU)</value>
   </data>
-  <data name="AdditionalInfo" xml:space="preserve">
-    <value>Informazio osagarria</value>
+  <data name="authorizeresponse-wait" xml:space="preserve">
+    <value>Espera por favor...</value>
   </data>
-  <data name="AddLanguage" xml:space="preserve">
-    <value><![CDATA[<strong>{0}</strong> ({1}) gehi tu du]]></value>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
   </data>
-  <data name="Block" xml:space="preserve">
-    <value>Blokeatu</value>
+  <data name="login-username" xml:space="preserve">
+    <value>Nombre de usuario</value>
   </data>
-  <data name="DayAgo" xml:space="preserve">
-    <value>Atzo</value>
+  <data name="login-username-placeholder" xml:space="preserve">
+    <value>Nombre de usuario</value>
   </data>
-  <data name="DeleteFriend" xml:space="preserve">
-    <value>Deskonektatu</value>
+  <data name="login-password" xml:space="preserve">
+    <value>Contraseña</value>
   </data>
-  <data name="FriendRequested" xml:space="preserve">
-    <value>Eskaera zain</value>
+  <data name="login-password-placeholder" xml:space="preserve">
+    <value>Contraseña</value>
   </data>
-  <data name="Partners" xml:space="preserve">
-    <value>Konektatua</value>
+  <data name="login-rememberLogin" xml:space="preserve">
+    <value>Recordar mi login</value>
   </data>
-  <data name="LessThanHourAgo" xml:space="preserve">
-    <value>Duela ordu bat baino gutxiago</value>
+  <data name="login-local" xml:space="preserve">
+    <value>Login local</value>
   </data>
-  <data name="NewFriendship" xml:space="preserve">
-    <value><![CDATA[<a class="link applnk" href="{2}">{0}</a> eta <a  class="link applnk" href="{3}">{1}</a> konektatuta daude orain]]></value>
+  <data name="login-title" xml:space="preserve">
+    <value>Login</value>
   </data>
-  <data name="NoFriends" xml:space="preserve">
-    <value>Oraindik ez dago kontakturik</value>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail</value>
   </data>
-  <data name="Report" xml:space="preserve">
-    <value>Erreportatu</value>
+  <data name="login-external" xml:space="preserve">
+    <value>Login externo</value>
   </data>
-  <data name="UpdateLanguage" xml:space="preserve">
-    <value><![CDATA[<strong>{0}</strong>-ko maila {1}-ra eguneratu du]]></value>
+  <data name="login-different" xml:space="preserve">
+    <value>Entra con otra cuenta diferente</value>
   </data>
-  <data name="XDaysAgo" xml:space="preserve">
-    <value>duela {0} egun</value>
+  <data name="logout-title" xml:space="preserve">
+    <value>Cerrar sesión</value>
   </data>
-  <data name="XHoursAgo" xml:space="preserve">
-    <value>duela {0} ordu</value>
+  <data name="logout-info" xml:space="preserve">
+    <value>Has cerrado tu sesión</value>
   </data>
-  <data name="NoActivity" xml:space="preserve">
-    <value>Ez dago jarduerarik oraindik</value>
+  <data name="logout-click" xml:space="preserve">
+    <value>Clic</value>
   </data>
-  <data name="ConversationAct" xml:space="preserve">
-    <value><![CDATA[<a href="{0}" class="link">{1}</a>-(e)k  {2}-(e)z hitz egin du {3} minutuz]]></value>
+  <data name="logout-here" xml:space="preserve">
+    <value>aquí</value>
   </data>
-  <data name="CancelPartnerRequest" xml:space="preserve">
-    <value>Eskaera ezeztatu</value>
+  <data name="logout-return" xml:space="preserve">
+    <value>para volver a la</value>
   </data>
-  <data name="PrAbout" xml:space="preserve">
-    <value>Zuri buruz</value>
+  <data name="logout-application" xml:space="preserve">
+    <value>aplicación</value>
   </data>
-  <data name="PHours" xml:space="preserve">
-    <value>ordu</value>
+  <data name="logout-from" xml:space="preserve">
+    <value>Te gustaría desloguearte de</value>
   </data>
-  <data name="PMinutes" xml:space="preserve">
-    <value>minutu</value>
+  <data name="logout-from2" xml:space="preserve">
+    <value>?</value>
   </data>
-  <data name="VPLanguages" xml:space="preserve">
-    <value>Hizkuntzak</value>
+  <data name="logout-yes" xml:space="preserve">
+    <value>Sí</value>
   </data>
-  <data name="ProfMinutes" xml:space="preserve">
-    <value>minutu</value>
-  </data> 
-  <data name="ProfNextMeetups" xml:space="preserve">
-    <value>Hurrengo bilerak</value>
+  <data name="permissions-client" xml:space="preserve">
+    <value>Permisos de aplicación de cliente</value>
   </data>
-  <data name="ProfRecentAct" xml:space="preserve">
-    <value>Azken jarduerak</value>
+  <data name="permissions-nonGranted" xml:space="preserve">
+    <value>No has dado permiso a ninguna aplicación</value>
   </data>
-  <data name="ProfTimePLang" xml:space="preserve">
-    <value>Denbora hizkuntzako</value>
+  <data name="permissions-identity" xml:space="preserve">
+    <value>Permisos de Identity</value>
   </data>
-  <data name="VPVideoCall" xml:space="preserve">
-    <value>Deitu</value>
+  <data name="permissions-resource" xml:space="preserve">
+    <value>Permisos de recursos</value>
   </data>
-  <data name="PartnersBlockTitle" xml:space="preserve">
-    <value>Kontaktuak</value>
+  <data name="permissions-revoke" xml:space="preserve">
+    <value>Revocar</value>
   </data>
-  <data name="ViewAllContacts" xml:space="preserve">
-    <value>Guztiak ikusi ({0})</value>
+  <data name="form-submit" xml:space="preserve">
+    <value>Enviar este formulario</value>
   </data>
-  <data name="LangExStats" xml:space="preserve">
-    <value>Hizkuntza elkartrukeko estatistikak</value>
-  </data>
-  <data name="ProfUserReported" xml:space="preserve">
-    <value>Erabiltzaile hau erreportatua izan da dagoeneko</value>
-  </data>
-  <data name="ProfBlockSuccess" xml:space="preserve">
-    <value>Erabiltzailea blokeatua izan da</value>
-  </data>
-  <data name="VPAcceptReq" xml:space="preserve">
-    <value>Onartu</value>
-  </data>
-  <data name="VPDeclineReq" xml:space="preserve">
-    <value>Ukatu</value>
-  </data>
-  <data name="VPTBCall" xml:space="preserve">
-    <value>Denbora banku deia</value>
-  </data>
-  <data name="VPWalletCall" xml:space="preserve">
-    <value>Wallet deia</value>
+  <data name="signoutframe-signout" xml:space="preserve">
+    <value>Desloguearse</value>
   </data>
 </root>

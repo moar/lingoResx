@@ -73,28 +73,28 @@
     <value>English (USA)</value>
   </metadata> 
   <data name="authorizeresponse-wait" xml:space="preserve">
-    <value>Please wait...</value>
+    <value>Espera por favor...</value>
   </data> 
   <data name="common-error" xml:space="preserve">
     <value>Error</value>
   </data> 
   <data name="login-username" xml:space="preserve">
-    <value>Username</value>
+    <value>Nombre de usuario</value>
   </data> 
   <data name="login-username-placeholder" xml:space="preserve">
-    <value>Username</value>
+    <value>Nombre de usuario</value>
   </data> 
   <data name="login-password" xml:space="preserve">
-    <value>Password</value>
+    <value>Contraseña</value>
   </data> 
   <data name="login-password-placeholder" xml:space="preserve">
-    <value>Password</value>
+    <value>Contraseña</value>
   </data> 
   <data name="login-rememberLogin" xml:space="preserve">
-    <value>Remember My Login</value>
+    <value>Recordar mi login</value>
   </data> 
   <data name="login-local" xml:space="preserve">
-    <value>Local Login</value>
+    <value>Login local</value>
   </data> 
   <data name="login-title" xml:space="preserve">
     <value>Login</value>
@@ -103,102 +103,78 @@
     <value>Login</value>
   </data> 
   <data name="login-external" xml:space="preserve">
-    <value>External Login</value>
+    <value>Login externo</value>
   </data> 
   <data name="login-different" xml:space="preserve">
-    <value>Login With Different Account</value>
+    <value>Entra con otra cuenta diferente</value>
   </data> 
   <data name="logout-title" xml:space="preserve">
-    <value>Logout</value>
+    <value>Cerrar sesión</value>
   </data> 
   <data name="logout-info" xml:space="preserve">
-    <value>You are now logged out</value>
+    <value>Has cerrado tu sesión</value>
   </data> 
   <data name="logout-click" xml:space="preserve">
-    <value>Click </value>
+    <value>Clica</value>
   </data> 
   <data name="logout-here" xml:space="preserve">
-    <value>here</value>
+    <value>aquí</value>
   </data> 
   <data name="logout-return" xml:space="preserve">
-    <value> to return to the</value>
+    <value>para volver a la</value>
   </data> 
   <data name="logout-application" xml:space="preserve">
-    <value> application</value>
+    <value>aplicación</value>
   </data> 
   <data name="logout-from" xml:space="preserve">
-    <value>Would you like to logout of </value>
+    <value>Quieres cerrar la sesión de</value>
   </data> 
   <data name="logout-from2" xml:space="preserve">
     <value>?</value>
   </data> 
   <data name="logout-yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sí</value>
   </data> 
   <data name="consent-request" xml:space="preserve">
-    <value>is requesting your permission</value>
+    <value>está solicitando tu permiso</value>
   </data> 
   <data name="consent-uncheck" xml:space="preserve">
-    <value>Uncheck the permissions you do not wish to grant.</value>
+    <value>Desactiva los permisos que no quieres conceder</value>
   </data> 
   <data name="consent-personalInformation" xml:space="preserve">
-    <value>Personal Information</value>
+    <value>Información personal</value>
   </data> 
   <data name="consent-applicationAccess" xml:space="preserve">
-    <value>Application Access</value>
+    <value>Acceso de aplicación</value>
   </data> 
   <data name="consent-required" xml:space="preserve">
-    <value>(required)</value>
+    <value>(requerido)</value>
   </data> 
   <data name="consent-rememberDecision" xml:space="preserve">
-    <value>Remember My Decision</value>
+    <value>Recordar mi decisión</value>
   </data> 
   <data name="consent-allow" xml:space="preserve">
-    <value>Yes, Allow</value>
+    <value>Si, Permitir</value>
   </data> 
   <data name="consent-disallow" xml:space="preserve">
-    <value>No, Do Not Allow</value>
+    <value>No permitir</value>
   </data> 
   <data name="permissions-client" xml:space="preserve">
-    <value>Client Application Permissions</value>
+    <value>Permisos de aplicación de cliente</value>
   </data> 
   <data name="permissions-nonGranted" xml:space="preserve">
-    <value>You have not given permission to any applications</value>
-  </data> 
-  <data name="permissions-identity" xml:space="preserve">
-    <value>Identity Permissions</value>
+    <value>No has dado permisos a ninguna aplicación</value>
   </data> 
   <data name="permissions-resource" xml:space="preserve">
-    <value>Resource Permissions</value>
+    <value>Permisos de recursos</value>
   </data> 
   <data name="permissions-revoke" xml:space="preserve">
-    <value>Revoke</value>
+    <value>Revocar</value>
   </data> 
   <data name="form-submit" xml:space="preserve">
-    <value>Submit this form</value>
+    <value>Enviar este formulario</value>
   </data> 
   <data name="signoutframe-signout" xml:space="preserve">
-    <value>SignOut</value>
-  </data> 
-  <data name="welcome-title" xml:space="preserve">
-    <value>IdentityServer v3</value>
-  </data> 
-  <data name="welcome-nav-title" xml:space="preserve">
-    <value>IdentityServer3</value>
-  </data> 
-  <data name="welcome-header" xml:space="preserve">
-    <value>Welcome to IdentityServer3</value>
-  </data> 
-  <data name="welcome-build" xml:space="preserve">
-    <value>(build {version})</value>
-  </data> 
-  <data name="welcome-info1" xml:space="preserve">
-    <value><![CDATA[IdentityServer publishes a <a href="{applicationPath}/.well-known/openid-configuration">discovery document</a> where you can find metadata and links to all the endpoints, key material, etc.]]></value>
-  </data> 
-  <data name="welcome-info2" xml:space="preserve">
-    <value><![CDATA[IdentityServer allows users to view and revoke <a href="{applicationPath}/permissions">application permissions</a> previously granted to client applications.]]></value>
-  </data> 
-  <data name="welcome-info3" xml:space="preserve">
-    <value><![CDATA[Here are links to the <a href="https://identityserver.github.io/Documentation">documentation</a>, and <a href="https://github.com/identityserver/IdentityServer3.Samples">ready to use samples</a>.]]></value>
+    <value>Cerrar sesión</value>
   </data>
 </root>

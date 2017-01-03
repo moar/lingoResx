@@ -360,4 +360,109 @@
   <data name="MBNoMeetupsScheduled" xml:space="preserve">
     <value>No se han organizado quedadas</value>
   </data>
+  <data name="CalendarEdit" xml:space="preserve">
+    <value>Editar Disponibilidad</value>
+  </data>
+  <data name="CalendarLoad" xml:space="preserve">
+    <value>Cargando...</value>
+  </data>
+  <data name="ConvReqs" xml:space="preserve">
+    <value>Solicitudes para conversar</value>
+  </data>
+  <data name="EditAvFillCalendar" xml:space="preserve">
+    <value>Rellena en tu calendario las horas a las que estarás libre para hablar en tu idioma nativo</value>
+  </data>
+  <data name="EditAvSelectType" xml:space="preserve">
+    <value>Elige si quieres recibir solicitudes para llamadas Wallet, llamadas Time banking o para cualquiera y crea tantas franjas como quieras directamente sobre el calendario</value>
+  </data>
+  <data name="EditAvTB" xml:space="preserve">
+    <value>Banco de Tiempo</value>
+  </data>
+  <data name="EditAvWallet" xml:space="preserve">
+    <value>Wallet</value>
+  </data>
+  <data name="EditCalendar" xml:space="preserve">
+    <value>Editar calendario</value>
+  </data>
+  <data name="EditSave" xml:space="preserve">
+    <value>Guardar y salir</value>
+  </data>
+  <data name="IndexNoReq" xml:space="preserve">
+    <value>No has mandado ninguna solicitud de conversación</value>
+  </data>
+  <data name="IndexReceived" xml:space="preserve">
+    <value>Recibidos</value>
+  </data>
+  <data name="IndexSent" xml:space="preserve">
+    <value>Enviados</value>
+  </data>
+  <data name="IndNoReq" xml:space="preserve">
+    <value>No has recibido ninguna solicitud de conversación</value>
+  </data>
+  <data name="NewConvSendReq" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="StudentReqAccepted" xml:space="preserve">
+    <value>Aceptado</value>
+  </data>
+  <data name="StudentReqAcceptMeetup" xml:space="preserve">
+    <value>Aceptar quedada</value>
+  </data>
+  <data name="StudentReqCancelled" xml:space="preserve">
+    <value>Cancelado</value>
+  </data>
+  <data name="StudentReqCancelMeetup" xml:space="preserve">
+    <value>Cancelar quedada</value>
+  </data>
+  <data name="StudentReqCancelRequest" xml:space="preserve">
+    <value>Cancelar solicitud</value>
+  </data>
+  <data name="StudentReqEnter" xml:space="preserve">
+    <value>Entrar</value>
+  </data>
+  <data name="StudentReqFinallyCancelled" xml:space="preserve">
+    <value>Ops...parece que al final cancelaste la conversación privada</value>
+  </data>
+  <data name="StudentReqFollowLink" xml:space="preserve">
+    <value>Sigue este link para entrar a la sala de la conversación</value>
+  </data>
+  <data name="StudentReqMeetupCancelled" xml:space="preserve">
+    <value>Conversación cancelada</value>
+  </data>
+  <data name="StudentReqMessages" xml:space="preserve">
+    <value>Mensajes</value>
+  </data>
+  <data name="StudentReqMissSentence" xml:space="preserve">
+    <value>Una pena que no confirmaras antes esta solicitud. Estate atento a Langademy y no pierdas más solicitudes ;-)</value>
+  </data>
+  <data name="StudentReqOtherReq" xml:space="preserve">
+    <value>No puedes aceptar esta conversación porque has aceptado otra conversación a la misma hora,</value>
+  </data>
+  <data name="StudentReqPending" xml:space="preserve">
+    <value>Pendiente</value>
+  </data>
+  <data name="StudentReqProposal" xml:space="preserve">
+    <value>Propuesta</value>
+  </data>
+  <data name="StudentReqRateOnRequest" xml:space="preserve">
+    <value>Tarifa en la fecha de solicitud</value>
+  </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>Rechazar</value>
+  </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Rechazado</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Solicitud para</value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Conversación de Banco de Tiempo</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Conversación Wallet</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Escribe tu mensaje</value>
+  </data>
 </root>

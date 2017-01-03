@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -117,28 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Title" xml:space="preserve">
-    <value>Sign out</value>
+  <data name="conversation-exchange-meetups" xml:space="preserve">
+    <value>quedadas-intecambio-idiomas</value>
   </data>
-  <data name="Info" xml:space="preserve">
-    <value>You are now logged out</value>
+  <data name="earn-as-conversation-partner" xml:space="preserve">
+    <value>ganar-dinero-companero-conversacion</value>
   </data>
-  <data name="Click" xml:space="preserve">
-    <value>Click </value>
+  <data name="help" xml:space="preserve">
+    <value>ayuda</value>
   </data>
-  <data name="Return" xml:space="preserve">
-    <value> to return to the</value>
+  <data name="how-does-time-banking-work" xml:space="preserve">
+    <value>ayuda/funcionamiento-banco-de-tiempo</value>
   </data>
-  <data name="Quest" xml:space="preserve">
-    <value>Would you like to sign out?</value>
+  <data name="langademy-state" xml:space="preserve">
+    <value>ayuda/estado-langademy</value>
   </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+  <data name="language-exchange" xml:space="preserve">
+    <value>intercambio-de-idiomas</value>
   </data>
-  <data name="Logoutlink" xml:space="preserve">
-    <value><![CDATA[Click <a href="{0}">here</a> to return to {1}.]]></value>
+  <data name="language-exchange-partners" xml:space="preserve">
+    <value>compañeros-intercambio-idiomas</value>
   </data>
-  <data name="NowLoggedOut" xml:space="preserve">
-    <value>You're signed out</value>
+  <data name="language-learners-how-to-start" xml:space="preserve">
+    <value>ayuda/estudiantes-idiomas-como-empezar</value>
+  </data>
+  <data name="learn-languages" xml:space="preserve">
+    <value>aprender-idiomas</value>
+  </data>
+  <data name="natives-how-to-start" xml:space="preserve">
+    <value>ayuda/nativos-como-empezar</value>
+  </data>
+  <data name="pricing" xml:space="preserve">
+    <value>precios</value>
+  </data>
+  <data name="time-banking-indroduction" xml:space="preserve">
+    <value>ayuda/introduccion-banco-tiempo</value>
+  </data>
+  <data name="time-banking-language-chat-rooms" xml:space="preserve">
+    <value>ayuda/salas-chat-banco-tiempo</value>
+  </data>
+  <data name="wallet-introduction" xml:space="preserve">
+    <value>ayuda/introduccion-wallet</value>
+  </data>
+  <data name="wallet-language-room" xml:space="preserve">
+    <value>ayuda/salas-idiomas-wallet</value>
+  </data>
+  <data name="wallet-native-fees" xml:space="preserve">
+    <value>ayuda/comision-nativos-wallet</value>
+  </data>
+  <data name="wallet-withdrawals" xml:space="preserve">
+    <value>ayuda/retirar-creditos-wallet</value>
   </data>
 </root>
