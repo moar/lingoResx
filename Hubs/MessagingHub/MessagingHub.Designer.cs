@@ -61,6 +61,15 @@ namespace Resources.Hubs.MessagingHub {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Call to &lt;span class=&quot;text-bold&quot;&gt;{0}&lt;/span&gt;, busy.
+        /// </summary>
+        public static string BusyCall {
+            get {
+                return ResourceManager.GetString("BusyCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to buy credits.
         /// </summary>
         public static string CallBuyWalletCredits {
@@ -115,6 +124,15 @@ namespace Resources.Hubs.MessagingHub {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Call ended, duration {0}.
+        /// </summary>
+        public static string CallEnd {
+            get {
+                return ResourceManager.GetString("CallEnd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your browser does not support videocalls. Try the latest versions of Chrome, Firefox or Opera..
         /// </summary>
         public static string CallerNoWebrtc {
@@ -129,6 +147,24 @@ namespace Resources.Hubs.MessagingHub {
         public static string CallingError {
             get {
                 return ResourceManager.GetString("CallingError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call from &lt;span class=&quot;text-bold&quot;&gt;{0}&lt;/span&gt;.
+        /// </summary>
+        public static string CallStartReceived {
+            get {
+                return ResourceManager.GetString("CallStartReceived", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call to &lt;span class=&quot;text-bold&quot;&gt;{0}&lt;/span&gt;.
+        /// </summary>
+        public static string CallStartSent {
+            get {
+                return ResourceManager.GetString("CallStartSent", resourceCulture);
             }
         }
         
@@ -165,6 +201,15 @@ namespace Resources.Hubs.MessagingHub {
         public static string LanguageNotInOwnList {
             get {
                 return ResourceManager.GetString("LanguageNotInOwnList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missed call from &lt;span class=&quot;text-bold&quot;&gt;{0}&lt;/span&gt;.
+        /// </summary>
+        public static string MissedCall {
+            get {
+                return ResourceManager.GetString("MissedCall", resourceCulture);
             }
         }
         
@@ -219,6 +264,24 @@ namespace Resources.Hubs.MessagingHub {
         public static string PriceUpdateError {
             get {
                 return ResourceManager.GetString("PriceUpdateError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call from &lt;span class=&quot;text-bold&quot;&gt;{0}&lt;/span&gt; declined.
+        /// </summary>
+        public static string RejectCall {
+            get {
+                return ResourceManager.GetString("RejectCall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call to &lt;span class=&quot;text-bold&quot;&gt;{0}&lt;/span&gt;, no answer.
+        /// </summary>
+        public static string UnansweredCall {
+            get {
+                return ResourceManager.GetString("UnansweredCall", resourceCulture);
             }
         }
     }
