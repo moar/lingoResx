@@ -70,7 +70,7 @@ namespace Resources.IdentityServer.ISViews.Login {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign inWith Different Account.
+        ///   Looks up a localized string similar to Sign in with different account.
         /// </summary>
         public static string Different {
             get {
@@ -93,6 +93,15 @@ namespace Resources.IdentityServer.ISViews.Login {
         public static string External {
             get {
                 return ResourceManager.GetString("External", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Forgot your password?.
+        /// </summary>
+        public static string ForgotPassword {
+            get {
+                return ResourceManager.GetString("ForgotPassword", resourceCulture);
             }
         }
         
@@ -120,6 +129,15 @@ namespace Resources.IdentityServer.ISViews.Login {
         public static string PasswordPlaceholder {
             get {
                 return ResourceManager.GetString("PasswordPlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Register.
+        /// </summary>
+        public static string Register {
+            get {
+                return ResourceManager.GetString("Register", resourceCulture);
             }
         }
         
