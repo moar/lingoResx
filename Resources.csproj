@@ -523,11 +523,21 @@
       <LastGenOutput>MessagingHub.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.de.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.es.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.it.resx" />
     <EmbeddedResource Include="IdentityServer\Assets\Assets.resx" />
+    <EmbeddedResource Include="IdentityServer\Events\Events.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\Events\Events.de.resx" />
     <EmbeddedResource Include="IdentityServer\Events\Events.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Events.es.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Events\Events.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\Events\Events.fr.resx" />
     <EmbeddedResource Include="IdentityServer\Events\Events.it.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Events.it.Designer.cs</LastGenOutput>
@@ -536,28 +546,49 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Events.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.de.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.es.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.it.resx" />
     <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Common.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.de.resx" />
     <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Login.es.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.it.resx" />
     <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.resx">
       <SubType>Designer</SubType>
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Login.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.de.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.es.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.it.resx" />
     <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Logout.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.de.resx" />
     <EmbeddedResource Include="IdentityServer\Messages\Messages.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Messages.es.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.fr.resx" />
     <EmbeddedResource Include="IdentityServer\Messages\Messages.it.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Messages.it.Designer.cs</LastGenOutput>
@@ -566,10 +597,14 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Messages.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.de.resx" />
     <EmbeddedResource Include="IdentityServer\Scopes\Scopes.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Scopes.es.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.fr.resx" />
     <EmbeddedResource Include="IdentityServer\Scopes\Scopes.it.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Scopes.it.Designer.cs</LastGenOutput>

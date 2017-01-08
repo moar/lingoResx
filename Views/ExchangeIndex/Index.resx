@@ -127,7 +127,7 @@
     <value>Conversation exchange</value>
   </data>
   <data name="EIBlock2B1Text" xml:space="preserve">
-    <value>What languages do you speak? Which is your level? Wheare are your from? What are your interests? Upload your avatar and cover photos and be ready to talk in english, spanish or the language you want</value>
+    <value>What languages do you speak? What is your level? Where are are you from? What are your interests? Upload your avatar and cover photos and be ready to talk in english, spanish or the language you want</value>
   </data>
   <data name="EIBlock2B1Title" xml:space="preserve">
     <value>Sign up and start learning languages for free</value>
@@ -139,7 +139,7 @@
     <value>Try conversation exchange in the chat rooms</value>
   </data>
   <data name="EIBlock2B3Text" xml:space="preserve">
-    <value>Vote him in his profile! Send him a contact request. When he accepts it you will be able to chat in private an make video calls without entering the language rooms</value>
+    <value>Vote for them in their profile! Send them a contact request. When they accept it, you will be able to chat in private an make video calls without entering the language rooms</value>
   </data>
   <data name="EIBlock2B3Title" xml:space="preserve">
     <value>Did you like chatting with your partner?</value>

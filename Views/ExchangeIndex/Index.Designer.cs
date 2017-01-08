@@ -88,7 +88,7 @@ namespace Resources.Views.ExchangeIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to What languages do you speak? Which is your level? Wheare are your from? What are your interests? Upload your avatar and cover photos and be ready to talk in english, spanish or the language you want.
+        ///   Looks up a localized string similar to What languages do you speak? What is your level? Where are are you from? What are your interests? Upload your avatar and cover photos and be ready to talk in english, spanish or the language you want.
         /// </summary>
         public static string EIBlock2B1Text {
             get {
@@ -124,7 +124,7 @@ namespace Resources.Views.ExchangeIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Vote him in his profile! Send him a contact request. When he accepts it you will be able to chat in private an make video calls without entering the language rooms.
+        ///   Looks up a localized string similar to Vote for them in their profile! Send them a contact request. When they accept it, you will be able to chat in private an make video calls without entering the language rooms.
         /// </summary>
         public static string EIBlock2B3Text {
             get {
