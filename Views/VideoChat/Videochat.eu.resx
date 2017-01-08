@@ -156,6 +156,9 @@
   <data name="IsBusy" xml:space="preserve">
     <value>{0} lanpetuta dago</value>
   </data>
+  <data name="LeaveCall" xml:space="preserve">
+    <value>Deia utzi</value>
+  </data>
   <data name="LoadingLocal" xml:space="preserve">
     <value>Bideo lokala kargatzen</value>
   </data>

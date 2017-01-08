@@ -369,6 +369,12 @@
   <data name="ConvReqs" xml:space="preserve">
     <value>Konbertsazio eskeriak</value>
   </data>
+  <data name="EditAvFillCalendar" xml:space="preserve">
+    <value>Bete ezazu zure egutegian zure hizkuntza natiboak hitz egiteko libre egongo zaren ordutegia</value>
+  </data>
+  <data name="EditAvSelectType" xml:space="preserve">
+    <value>Aukera ezazu Wallet deietarako, denbora bankuko deietarako edo bietarako eskaerak jasotzea nahi duzun. Sortu itzazu nahi beste zerrenda edo karratu</value>
+  </data>
   <data name="EditAvTB" xml:space="preserve">
     <value>Denbora bankua</value>
   </data>
@@ -380,6 +386,9 @@
   </data>
   <data name="EditSave" xml:space="preserve">
     <value>Gorde eta itxi</value>
+  </data>
+  <data name="IndexNoReq" xml:space="preserve">
+    <value>Ez duzu konbertsazio eskaerarik bidali oraindik</value>
   </data>
   <data name="IndexReceived" xml:space="preserve">
     <value>Jasotakoak</value>
@@ -422,6 +431,21 @@
   </data>
   <data name="StudentReqMessages" xml:space="preserve">
     <value>Mezuak</value>
+  </data>
+  <data name="StudentReqMissSentence" xml:space="preserve">
+    <value>Pena bat da eskaera hau lehenago konfirmatu ez izana. Adi egon Langademyko abisuei eta ez itzazu eskaera gehiago galdu!</value>
+  </data>
+  <data name="StudentReqOtherReq" xml:space="preserve">
+    <value>Ordu honetarako beste eskaera bat onartu duzu, beraz ezin dezakezu eskaera hau onartu</value>
+  </data>
+  <data name="StudentReqPending" xml:space="preserve">
+    <value>Onartzeke</value>
+  </data>
+  <data name="StudentReqProposal" xml:space="preserve">
+    <value>Proposamena</value>
+  </data>
+  <data name="StudentReqRateOnRequest" xml:space="preserve">
+    <value>Tarifa eskaeraren egunean</value>
   </data>
   <data name="StudentReqReject" xml:space="preserve">
     <value>Ukatu</value>

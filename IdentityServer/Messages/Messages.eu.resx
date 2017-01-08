@@ -147,7 +147,31 @@
   <data name="SslRequired" xml:space="preserve">
     <value>SSL beharrezkoa da</value>
   </data>
+  <data name="unauthorized_client" xml:space="preserve">
+    <value>Bezeroaren aplikazioa ezezaguna da edo ez dago autorizatuta</value>
+  </data>
   <data name="UnexpectedError" xml:space="preserve">
     <value>Ezusteko akats bat gertatu da</value>
+  </data>
+  <data name="UnsupportedMediaType" xml:space="preserve">
+    <value>Unsupported Media Type</value>
+  </data>
+  <data name="unsupported_response_type" xml:space="preserve">
+    <value>The authorization server does not support the requested response type.</value>
+  </data>
+  <data name="UsernameRequired" xml:space="preserve">
+    <value>Erabiltzaile izena beharrezkoa da</value>
+  </data>
+  <data name="NoSignInCookie" xml:space="preserve">
+    <value>Akats bat gertatu erabiltzen ari zaren aplikazioa zein den jakiteko. Itzuli aplikaziora eta saiatu berriro</value>
+  </data>
+  <data name="NoExternalProvider" xml:space="preserve">
+    <value>Kanpo login hornitzailea ez da zuzena</value>
+  </data>
+  <data name="ExternalProviderError" xml:space="preserve">
+    <value>Kanpo loginarekin akats bat gertatu da: {0}</value>
+  </data>
+  <data name="invalid_request" xml:space="preserve">
+    <value>The client application made an invalid request.</value>
   </data>
 </root>

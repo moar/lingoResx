@@ -258,6 +258,9 @@
   <data name="LastStep" xml:space="preserve">
     <value>Azken pausoa</value>
   </data>
+  <data name="RegIntro" xml:space="preserve">
+    <value><![CDATA[Dagoeneko Langademyn kontu bat badaukazu <a href="{0}">saioa hasi</a> dezakezu e-mail kontu berarekin. Bestela, erregistra zaitez orain]]></value>
+  </data>
   <data name="RegSuccess" xml:space="preserve">
     <value>Ondo erregistratu zara!</value>
   </data>

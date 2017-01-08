@@ -138,6 +138,9 @@
   <data name="SchConvLangSummary" xml:space="preserve">
     <value>Konbertsaziorako hizkuntza</value>
   </data>
+  <data name="SchConvTypeQuest" xml:space="preserve">
+    <value>Denbora bankuko edo ordaintzeko konbertsazio bat nahi al duzu?</value>
+  </data>
   <data name="SchConvTypeSummary" xml:space="preserve">
     <value>Konbertsazio mota</value>
   </data>
@@ -155,6 +158,33 @@
   </data>
   <data name="SchMessPH" xml:space="preserve">
     <value>Gehi. luzera: 280 karaktere</value>
+  </data>
+  <data name="SchMessQuest" xml:space="preserve">
+    <value>{0}-(r)i mezu bat bidaltzea nahi al duzu?</value>
+  </data>
+  <data name="SchNoAvailable" xml:space="preserve">
+    <value>{{:NativeName}}}} ez dago eskuragarri asten honetan. Beste aste batzuk kontsulta itzazu</value>
+  </data>
+  <data name="SchPaidConv" xml:space="preserve">
+    <value>Ordaindutako konbertsazioak</value>
+  </data>
+  <data name="SchReqConv" xml:space="preserve">
+    <value>Eskatu konbertsazio bat</value>
+  </data>
+  <data name="SchSelectDateVal" xml:space="preserve">
+    <value>Aukeratu konbertsaziorako egun eta ordua</value>
+  </data>
+  <data name="SchSelectLangVal" xml:space="preserve">
+    <value>Aukeratu konbertsazioaren hizkuntza</value>
+  </data>
+  <data name="SchSimulConv" xml:space="preserve">
+    <value>Beste konbertsazio bat daukazu ordu berean</value>
+  </data>
+  <data name="SchSimulReqs" xml:space="preserve">
+    <value>Ezin ditzakezu bi konbertsazio eskari egin aldi berean</value>
+  </data>
+  <data name="SchSimulReqsMax" xml:space="preserve">
+    <value>Ezin ditzakezu {0} baino eskaera gehiago egin</value>
   </data>
   <data name="SchStepsTitle" xml:space="preserve">
     <value>Jarraitu itzazu pauso hauek zure erreserba egiteko</value>
@@ -177,10 +207,25 @@
   <data name="SchUnselected" xml:space="preserve">
     <value>Aukeratu gabe</value>
   </data>
+  <data name="SchWalletInfo1" xml:space="preserve">
+    <value>Gaurko tarifa informatiboa da. {0}-(r)ekin dei bat hasi aurretik deia bertan behera utzi dezakezu momentu hortan daukan tarifarekin ados ez bazaude</value>
+  </data>
+  <data name="SchWalletInfo2" xml:space="preserve">
+    <value>Bideo deiaren iraupen zehatza ordainduko duzu, eta lehen 3 minutuetan deia bukatzen baduzu ez duzu ezer ordaindu beharko</value>
+  </data>
   <data name="SchWalletLegend" xml:space="preserve">
     <value>eskuragarri ordaindutako konbertsazioetarako</value>
   </data>
+  <data name="SchWantNotify" xml:space="preserve">
+    <value>{{:NativeName}} eskuragarri dagoenean notifikazio bat bidaltzea nahi al duzu?</value>
+  </data>
+  <data name="SchWhenDesc" xml:space="preserve">
+    <value>Aukeratu konbertsazioaren eguna, ordua eta iraupena libre dauden guneetan klik eginez eta ondoren gune hoiek arrastatuz (Gehienezko iraupena: 2 ordu)</value>
+  </data>
   <data name="SchWhenQuest" xml:space="preserve">
     <value>Saioa itxi</value>
+  </data>
+  <data name="SchWillNotify" xml:space="preserve">
+    <value>Edozein modutan, {{:NativeName}} eskuragarri dagoenean abixatuko zaitugu</value>
   </data>
 </root>

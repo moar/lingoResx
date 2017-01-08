@@ -119,6 +119,7 @@
   </resheader>
   
   
+  
   <data name="locoLocaleCode" xml:space="preserve">
     <value>en-US</value>
   </data>
@@ -158,8 +159,47 @@
   <data name="login-external" xml:space="preserve">
     <value>Kanpo logina</value>
   </data>
+  <data name="login-different" xml:space="preserve">
+    <value>Hasi saioa beste kontu batekin</value>
+  </data>
+  <data name="logout-title" xml:space="preserve">
+    <value>Saioa itxi</value>
+  </data>
+  <data name="logout-info" xml:space="preserve">
+    <value>Saioa amaitu duzu</value>
+  </data>
+  <data name="logout-click" xml:space="preserve">
+    <value>Klik</value>
+  </data>
+  <data name="logout-here" xml:space="preserve">
+    <value>hemen</value>
+  </data>
+  <data name="logout-return" xml:space="preserve">
+    <value>bueltatu </value>
+  </data>
+  <data name="logout-application" xml:space="preserve">
+    <value>aplikazioa</value>
+  </data>
+  <data name="logout-from" xml:space="preserve">
+    <value>Saioa istea nahi al duzu</value>
+  </data>
+  <data name="logout-from2" xml:space="preserve">
+    <value>?</value>
+  </data>
   <data name="logout-yes" xml:space="preserve">
     <value>Bai</value>
+  </data>
+  <data name="permissions-client" xml:space="preserve">
+    <value>Client Application Permissions</value>
+  </data>
+  <data name="permissions-nonGranted" xml:space="preserve">
+    <value>Ez diozu baimenik eman aplikazio bateri ere</value>
+  </data>
+  <data name="permissions-identity" xml:space="preserve">
+    <value>Identity Permissions</value>
+  </data>
+  <data name="permissions-resource" xml:space="preserve">
+    <value>Resource Permissions</value>
   </data>
   <data name="permissions-revoke" xml:space="preserve">
     <value>Ezeztatu</value>

@@ -72,6 +72,7 @@
   <metadata name="locoLocaleName" xml:space="preserve">
     <value>English (USA)</value>
   </metadata> 
+   
   <data name="authorizeresponse-wait" xml:space="preserve">
     <value>Itxaron mesedez...</value>
   </data> 
@@ -111,8 +112,41 @@
   <data name="logout-title" xml:space="preserve">
     <value>Saioa itxi</value>
   </data> 
+  <data name="logout-info" xml:space="preserve">
+    <value>Saioa itxi duzu</value>
+  </data> 
+  <data name="logout-click" xml:space="preserve">
+    <value>Klik</value>
+  </data> 
+  <data name="logout-here" xml:space="preserve">
+    <value>hemen</value>
+  </data> 
+  <data name="logout-return" xml:space="preserve">
+    <value>bueltatzeko</value>
+  </data> 
+  <data name="logout-application" xml:space="preserve">
+    <value>aplikazioa</value>
+  </data> 
+  <data name="logout-from" xml:space="preserve">
+    <value>Saioa istea nahi al duzu</value>
+  </data> 
+  <data name="logout-from2" xml:space="preserve">
+    <value>?</value>
+  </data> 
+  <data name="logout-yes" xml:space="preserve">
+    <value>Bai</value>
+  </data> 
+  <data name="consent-request" xml:space="preserve">
+    <value>zure baimena eskatzen ari da</value>
+  </data> 
+  <data name="consent-uncheck" xml:space="preserve">
+    <value>Desgaitu ematea nahi ez dituzun baimenak</value>
+  </data> 
   <data name="consent-personalInformation" xml:space="preserve">
     <value>Informazio pertsonala</value>
+  </data> 
+  <data name="consent-applicationAccess" xml:space="preserve">
+    <value>Aplikazioko sarrera</value>
   </data> 
   <data name="consent-required" xml:space="preserve">
     <value>(beharrezkoa)</value>
@@ -126,10 +160,22 @@
   <data name="consent-disallow" xml:space="preserve">
     <value>Ez, ez baimendu</value>
   </data> 
+  <data name="permissions-client" xml:space="preserve">
+    <value>Bezeroaren aplikaziorako baimenak</value>
+  </data> 
+  <data name="permissions-nonGranted" xml:space="preserve">
+    <value>Ez diozu baimenik eman aplikazio bateri ere</value>
+  </data> 
+  <data name="permissions-resource" xml:space="preserve">
+    <value>Resource permissions</value>
+  </data> 
   <data name="permissions-revoke" xml:space="preserve">
     <value>Ezeztatu</value>
   </data> 
   <data name="form-submit" xml:space="preserve">
     <value>Bidali formulario hau</value>
+  </data> 
+  <data name="signoutframe-signout" xml:space="preserve">
+    <value>Saioa itxi</value>
   </data>
 </root>

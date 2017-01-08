@@ -119,6 +119,7 @@
   </resheader>
   
   
+  
   <data name="AvailableRequest" xml:space="preserve">
     <value>{0}-(r)en egutegia eguneratua izan da</value>
   </data>
@@ -157,6 +158,9 @@
   </data>
   <data name="PasswordRecovery" xml:space="preserve">
     <value>Zure pasahitza berreskuratu</value>
+  </data>
+  <data name="PublicMeetupAlert" xml:space="preserve">
+    <value>Gaurko bilera bat antolaturik daukazu</value>
   </data>
   <data name="VisitReminder" xml:space="preserve">
     <value>Faltan botatzen zaitugu!</value>

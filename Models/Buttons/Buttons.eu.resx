@@ -162,4 +162,7 @@
   <data name="Submit" xml:space="preserve">
     <value>Bidali</value>
   </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Bai</value>
+  </data>
 </root>

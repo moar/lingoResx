@@ -117,7 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
+  <data name="ClientPermissionsRevoked" xml:space="preserve">
+    <value>Client Permissions Revoked</value>
+  </data>
   <data name="CspReport" xml:space="preserve">
     <value>Content Security Policy (CSP) Report</value>
   </data>
@@ -147,5 +149,11 @@
   </data>
   <data name="PreLoginSuccess" xml:space="preserve">
     <value>Aurre logina zuzen burutu da</value>
+  </data>
+  <data name="ResourceOwnerFlowLoginFailure" xml:space="preserve">
+    <value>Resource Owner Password Flow Login Failure</value>
+  </data>
+  <data name="ResourceOwnerFlowLoginSuccess" xml:space="preserve">
+    <value>Resource Owner Password Flow Login Success</value>
   </data>
 </root>

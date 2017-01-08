@@ -171,6 +171,18 @@
   <data name="PriceUpdateError" xml:space="preserve">
     <value>Arazoren bat egon da deiean</value>
   </data>
+  <data name="MissedCall" xml:space="preserve">
+    <value><![CDATA[<span class="text-bold">{0}</span>-(r)en dei galdua]]></value>
+  </data>
+  <data name="UnansweredCall" xml:space="preserve">
+    <value><![CDATA[<span class="text-bold">{0}</span>-(r)i deia, erantzunik ez]]></value>
+  </data>
+  <data name="BusyCall" xml:space="preserve">
+    <value><![CDATA[<span class="text-bold">{0}</span>-(r)i deia, okupatuta]]></value>
+  </data>
+  <data name="CallEnd" xml:space="preserve">
+    <value>Deia bukatu da, iraupena {0}</value>
+  </data>
   <data name="CallStartReceived" xml:space="preserve">
     <value><![CDATA[<span class="text-bold">{0}</span>-(r)en deia]]></value>
   </data>
