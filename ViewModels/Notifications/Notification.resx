@@ -145,7 +145,7 @@
     <value>did not accept your conversation request</value>
   </data>
   <data name="PrivateMeetupCancelled" xml:space="preserve">
-    <value>cancelled your private meetup</value>
+    <value>cancelled your private conversation</value>
   </data>
   <data name="PrivateRequestCancelled" xml:space="preserve">
     <value>cancelled the request</value>

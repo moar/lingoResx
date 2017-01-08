@@ -145,7 +145,7 @@
     <value>no ha aceptado tu solicitud de conversación</value>
   </data>
   <data name="PrivateMeetupCancelled" xml:space="preserve">
-    <value>ha cancelado tu quedada privada</value>
+    <value>ha cancelado tu conversación privada</value>
   </data>
   <data name="PrivateRequestCancelled" xml:space="preserve">
     <value>ha cancelado tu solicitud</value>

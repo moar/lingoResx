@@ -118,4 +118,56 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  </root>
+  
+  <data name="locoLocaleCode" xml:space="preserve">
+    <value>en-US</value>
+  </data>
+  <data name="locoLocaleName" xml:space="preserve">
+    <value>Ingelesa (AEB)</value>
+  </data>
+  <data name="authorizeresponse-wait" xml:space="preserve">
+    <value>Itxaron mesedez...</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Akatsa</value>
+  </data>
+  <data name="login-username" xml:space="preserve">
+    <value>Erabiltzaile izena</value>
+  </data>
+  <data name="login-username-placeholder" xml:space="preserve">
+    <value>Erabiltzaile izena</value>
+  </data>
+  <data name="login-password" xml:space="preserve">
+    <value>Pasahitza</value>
+  </data>
+  <data name="login-password-placeholder" xml:space="preserve">
+    <value>Pasahitza</value>
+  </data>
+  <data name="login-rememberLogin" xml:space="preserve">
+    <value>Gogoratu nire kontua</value>
+  </data>
+  <data name="login-local" xml:space="preserve">
+    <value>Login lokala</value>
+  </data>
+  <data name="login-title" xml:space="preserve">
+    <value>Saioa hasi</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-maila</value>
+  </data>
+  <data name="login-external" xml:space="preserve">
+    <value>Kanpo logina</value>
+  </data>
+  <data name="logout-yes" xml:space="preserve">
+    <value>Bai</value>
+  </data>
+  <data name="permissions-revoke" xml:space="preserve">
+    <value>Ezeztatu</value>
+  </data>
+  <data name="form-submit" xml:space="preserve">
+    <value>Bidali formulario hau</value>
+  </data>
+  <data name="signoutframe-signout" xml:space="preserve">
+    <value>Saioa itxi</value>
+  </data>
+</root>

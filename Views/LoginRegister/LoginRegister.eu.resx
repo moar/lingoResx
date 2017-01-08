@@ -252,4 +252,16 @@
   <data name="LRTooManySpecials" xml:space="preserve">
     <value>Karaktere berezi gehiegi dituzu zure erabiltzaile izenean</value>
   </data>
+  <data name="GoHome" xml:space="preserve">
+    <value>Joan Langademyra</value>
+  </data>
+  <data name="LastStep" xml:space="preserve">
+    <value>Azken pausoa</value>
+  </data>
+  <data name="RegSuccess" xml:space="preserve">
+    <value>Ondo erregistratu zara!</value>
+  </data>
+  <data name="RegTitle" xml:space="preserve">
+    <value>Sortu ezazu kontu berri bat</value>
+  </data>
 </root>

@@ -72,4 +72,64 @@
   <metadata name="locoLocaleName" xml:space="preserve">
     <value>English (USA)</value>
   </metadata> 
-  </root>
+  <data name="authorizeresponse-wait" xml:space="preserve">
+    <value>Itxaron mesedez...</value>
+  </data> 
+  <data name="common-error" xml:space="preserve">
+    <value>Akatsa</value>
+  </data> 
+  <data name="login-username" xml:space="preserve">
+    <value>Erabiltzaile izena</value>
+  </data> 
+  <data name="login-username-placeholder" xml:space="preserve">
+    <value>Erabiltzaile izena</value>
+  </data> 
+  <data name="login-password" xml:space="preserve">
+    <value>Pasahitza</value>
+  </data> 
+  <data name="login-password-placeholder" xml:space="preserve">
+    <value>Pasahitza</value>
+  </data> 
+  <data name="login-rememberLogin" xml:space="preserve">
+    <value>Gogoratu nire logina</value>
+  </data> 
+  <data name="login-local" xml:space="preserve">
+    <value>Login lokala</value>
+  </data> 
+  <data name="login-title" xml:space="preserve">
+    <value>Saioa hasi</value>
+  </data> 
+  <data name="login-action" xml:space="preserve">
+    <value>Saioa hasi</value>
+  </data> 
+  <data name="login-external" xml:space="preserve">
+    <value>Kanpo logina</value>
+  </data> 
+  <data name="login-different" xml:space="preserve">
+    <value>Hasi saioa beste kontu batekin</value>
+  </data> 
+  <data name="logout-title" xml:space="preserve">
+    <value>Saioa itxi</value>
+  </data> 
+  <data name="consent-personalInformation" xml:space="preserve">
+    <value>Informazio pertsonala</value>
+  </data> 
+  <data name="consent-required" xml:space="preserve">
+    <value>(beharrezkoa)</value>
+  </data> 
+  <data name="consent-rememberDecision" xml:space="preserve">
+    <value>Gogoratu nire erabakia</value>
+  </data> 
+  <data name="consent-allow" xml:space="preserve">
+    <value>Bai, baimendu</value>
+  </data> 
+  <data name="consent-disallow" xml:space="preserve">
+    <value>Ez, ez baimendu</value>
+  </data> 
+  <data name="permissions-revoke" xml:space="preserve">
+    <value>Ezeztatu</value>
+  </data> 
+  <data name="form-submit" xml:space="preserve">
+    <value>Bidali formulario hau</value>
+  </data>
+</root>

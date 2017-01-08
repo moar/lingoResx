@@ -117,4 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="conversation-exchange-meetups" xml:space="preserve">
+    <value>quedades-intercanvi-idiomes</value>
+  </data>
+  <data name="earn-as-conversation-partner" xml:space="preserve">
+    <value>guanyar-diners-company-conversa</value>
+  </data>
+  <data name="help" xml:space="preserve">
+    <value>ajuda</value>
+  </data>
+  <data name="how-does-time-banking-work" xml:space="preserve">
+    <value>ajuda/funcionament-banc-de-temps</value>
+  </data>
+  <data name="langademy-state" xml:space="preserve">
+    <value>ajuda/estat-langademy</value>
+  </data>
+  <data name="language-exchange" xml:space="preserve">
+    <value>intercanvi-idiomes</value>
+  </data>
+  <data name="language-exchange-partners" xml:space="preserve">
+    <value>companys-intercanvi-idiomes</value>
+  </data>
+  <data name="language-learners-how-to-start" xml:space="preserve">
+    <value>ajuda/estudiants-idiomes-com-començar</value>
+  </data>
+  <data name="learn-languages" xml:space="preserve">
+    <value>aprendre-idiomes-online</value>
+  </data>
+  <data name="natives-how-to-start" xml:space="preserve">
+    <value>ajuda/natius-com-començar</value>
+  </data>
+  <data name="pricing" xml:space="preserve">
+    <value>preus</value>
+  </data>
+  <data name="time-banking-indroduction" xml:space="preserve">
+    <value>ajuda/Introducció-banc-temps</value>
+  </data>
+  <data name="time-banking-language-chat-rooms" xml:space="preserve">
+    <value>ajuda/sales-xat-banc-temps</value>
+  </data>
+  <data name="wallet-introduction" xml:space="preserve">
+    <value>ajuda/introducció-wallet</value>
+  </data>
+  <data name="wallet-language-room" xml:space="preserve">
+    <value>ajuda/sales-idiomes-wallet</value>
+  </data>
+  <data name="wallet-native-fees" xml:space="preserve">
+    <value>ajuda/comissió-natius-wallet</value>
+  </data>
+  <data name="wallet-withdrawals" xml:space="preserve">
+    <value>ajuda/retirar-crèdits-wallet</value>
+  </data>
+</root>

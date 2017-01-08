@@ -204,4 +204,7 @@
   <data name="AMNoPwTitle" xml:space="preserve">
     <value>Ez duzu kontu honetarako pasahitzik sortu oraindik. Sortu ezazu pasahitz bat, zure kontuari segurtasuna gehituz.</value>
   </data>
+  <data name="ManageAccount" xml:space="preserve">
+    <value>Kudeatu zure Langademyko kontua</value>
+  </data>
 </root>

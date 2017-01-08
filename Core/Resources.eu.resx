@@ -117,14 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
-  <data name="Password" xml:space="preserve">
-    <value>Contrasenya</value>
+  <data name="AccountDeactivated" xml:space="preserve">
+    <value>Zure kontua desgaitu egin da. Bergaitzea nahi al duzu? Hasi ezazu saioa berriz</value>
   </data>
-  <data name="PasswordPlaceholder" xml:space="preserve">
-    <value>Contrasenya</value>
+  <data name="ConfirmAddress" xml:space="preserve">
+    <value>Zure email helbidea berretsi behar duzu. Bota begirada bat zure sarrera ontziari!</value>
   </data>
-  <data name="Email" xml:space="preserve">
-    <value>E-mail</value>
+  <data name="ReactivationUnsuccesful" xml:space="preserve">
+    <value>Beraktbazio okerra. Mesedez kontakta gaitzazu contact@langademy.com-era mezu bat bidaliz aktibatzea nahi duzun email helbidetik</value>
+  </data>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>Erabiltzailea ez da aurkitu</value>
   </data>
 </root>

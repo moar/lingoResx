@@ -360,4 +360,85 @@
   <data name="MBNoMeetupsScheduled" xml:space="preserve">
     <value>Ez da bilerarik antolatu oraindik</value>
   </data>
+  <data name="CalendarEdit" xml:space="preserve">
+    <value>Editatu zure ordu libreak</value>
+  </data>
+  <data name="CalendarLoad" xml:space="preserve">
+    <value>Kargatzen...</value>
+  </data>
+  <data name="ConvReqs" xml:space="preserve">
+    <value>Konbertsazio eskeriak</value>
+  </data>
+  <data name="EditAvTB" xml:space="preserve">
+    <value>Denbora bankua</value>
+  </data>
+  <data name="EditAvWallet" xml:space="preserve">
+    <value>Walleta</value>
+  </data>
+  <data name="EditCalendar" xml:space="preserve">
+    <value>Egutegia editatu</value>
+  </data>
+  <data name="EditSave" xml:space="preserve">
+    <value>Gorde eta itxi</value>
+  </data>
+  <data name="IndexReceived" xml:space="preserve">
+    <value>Jasotakoak</value>
+  </data>
+  <data name="IndexSent" xml:space="preserve">
+    <value>Bidalitakoak</value>
+  </data>
+  <data name="IndNoReq" xml:space="preserve">
+    <value>Ez duzu konbertsazio eskaririk jaso</value>
+  </data>
+  <data name="NewConvSendReq" xml:space="preserve">
+    <value>Bidali</value>
+  </data>
+  <data name="StudentReqAccepted" xml:space="preserve">
+    <value>Onartua</value>
+  </data>
+  <data name="StudentReqAcceptMeetup" xml:space="preserve">
+    <value>Onartu konbertsazioa</value>
+  </data>
+  <data name="StudentReqCancelled" xml:space="preserve">
+    <value>Kantzelatua</value>
+  </data>
+  <data name="StudentReqCancelMeetup" xml:space="preserve">
+    <value>Bilera bertan behera utzi</value>
+  </data>
+  <data name="StudentReqCancelRequest" xml:space="preserve">
+    <value>Kantzelatu eskaria</value>
+  </data>
+  <data name="StudentReqEnter" xml:space="preserve">
+    <value>Sartu</value>
+  </data>
+  <data name="StudentReqFinallyCancelled" xml:space="preserve">
+    <value>Badirudi azkenean konbertsazioa bertan behera utzi zenuela</value>
+  </data>
+  <data name="StudentReqFollowLink" xml:space="preserve">
+    <value>Klikatu link hau konbertsazio gelara sartzeko</value>
+  </data>
+  <data name="StudentReqMeetupCancelled" xml:space="preserve">
+    <value>Bilera bertan behera utzia</value>
+  </data>
+  <data name="StudentReqMessages" xml:space="preserve">
+    <value>Mezuak</value>
+  </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>Ukatu</value>
+  </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Ukatua</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Eskaria</value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Dennbora bankuko konbertsazioa</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Wallet konbertsazioa</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Idatzi zure mezua</value>
+  </data>
 </root>

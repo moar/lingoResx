@@ -117,4 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="conversation-exchange-meetups" xml:space="preserve">
+    <value>mintzatruke-bilerak</value>
+  </data>
+  <data name="earn-as-conversation-partner" xml:space="preserve">
+    <value>dirua-irabazi-mintzalagun-bezala</value>
+  </data>
+  <data name="help" xml:space="preserve">
+    <value>laguntza</value>
+  </data>
+  <data name="how-does-time-banking-work" xml:space="preserve">
+    <value>laguntza/denbora-bankua-funtzionamendua</value>
+  </data>
+  <data name="langademy-state" xml:space="preserve">
+    <value>laguntza/langademy-egoera</value>
+  </data>
+  <data name="language-exchange" xml:space="preserve">
+    <value>hizkuntza-elkartrukea</value>
+  </data>
+  <data name="language-exchange-partners" xml:space="preserve">
+    <value>mintzapratikarako-mintzalagunak</value>
+  </data>
+  <data name="language-learners-how-to-start" xml:space="preserve">
+    <value>langutza/hizkuntza-ikasleak-nola-hasi</value>
+  </data>
+  <data name="learn-languages" xml:space="preserve">
+    <value>hizkuntzak-ikasi-online</value>
+  </data>
+  <data name="natives-how-to-start" xml:space="preserve">
+    <value>laguntza/hiztun-natiboak-nola-hasi</value>
+  </data>
+  <data name="pricing" xml:space="preserve">
+    <value>prezioak</value>
+  </data>
+  <data name="time-banking-indroduction" xml:space="preserve">
+    <value>laguntza/denbora-bankuko-sarrera</value>
+  </data>
+  <data name="time-banking-language-chat-rooms" xml:space="preserve">
+    <value>laguntza/denbora-bankuko-txat-gelak</value>
+  </data>
+  <data name="wallet-introduction" xml:space="preserve">
+    <value>languntza/wallet-sarrera</value>
+  </data>
+</root>

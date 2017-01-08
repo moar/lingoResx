@@ -135,4 +135,22 @@
   <data name="NewMissedCall" xml:space="preserve">
     <value>Dei galdua</value>
   </data>
+  <data name="PrivateConversationAccepted" xml:space="preserve">
+    <value>{0} praktikatzeko zure eskaera onartu du</value>
+  </data>
+  <data name="PrivateConversationRequest" xml:space="preserve">
+    <value>zurekin {0} praktikatzea nahi du</value>
+  </data>
+  <data name="PrivateConversationRequestRejected" xml:space="preserve">
+    <value>ez du zure konbertsazio eskaera onartu</value>
+  </data>
+  <data name="PrivateMeetupCancelled" xml:space="preserve">
+    <value>zure konbertsazio pribatua bertan behera utzi du</value>
+  </data>
+  <data name="PrivateRequestCancelled" xml:space="preserve">
+    <value>eskaera bertan behera utzi du</value>
+  </data>
+  <data name="PrivateRequestMessage" xml:space="preserve">
+    <value>mezu bat bidali dizu</value>
+  </data>
 </root>

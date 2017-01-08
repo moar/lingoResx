@@ -119,6 +119,21 @@
   </resheader>
   
   
+  <data name="AvailableRequest" xml:space="preserve">
+    <value>{0}-(r)en egutegia eguneratua izan da</value>
+  </data>
+  <data name="AvailableRequests" xml:space="preserve">
+    <value>{0} pertsonek beraien egutegia eguneratu dute</value>
+  </data>
+  <data name="ConversationAccepted" xml:space="preserve">
+    <value>{0}-(e)k zure kontertsazio eskaera onartu du</value>
+  </data>
+  <data name="ConversationAlert" xml:space="preserve">
+    <value>Konbertsazio bat antolaturik daukazu gaurko</value>
+  </data>
+  <data name="ConversationAlerts" xml:space="preserve">
+    <value>Konbertsazio batzuk dituzu antolaturik gaurko</value>
+  </data>
   <data name="InvitationSubject" xml:space="preserve">
     <value>Langademyrako gonbidapena</value>
   </data>
@@ -130,6 +145,9 @@
   </data>
   <data name="MailNewMeetupParticipants" xml:space="preserve">
     <value>Bilerarako partehartzaile berriak</value>
+  </data>
+  <data name="NewConversationRequests" xml:space="preserve">
+    <value>Norbaitek zurekin hitz egitea nahi du</value>
   </data>
   <data name="NewMeetupMail" xml:space="preserve">
     <value>Bilera berria: {0}</value>

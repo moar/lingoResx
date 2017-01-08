@@ -117,4 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="SchAddLang" xml:space="preserve">
+    <value>{0} praktikatzeko eskaera bat bidaltzea nahi baduzu, hizkuntza hori zure profilean gehitu behar duzu</value>
+  </data>
+  <data name="SchBothLegend" xml:space="preserve">
+    <value>eskuragarri denbora bankuko eta ordaindutako konbertsazioetarako</value>
+  </data>
+  <data name="SchCheckMail" xml:space="preserve">
+    <value>Email bat jasotzea nahi dut {0}-(e)k nire eskaria onartzen badu</value>
+  </data>
+  <data name="SchCondDurSummary" xml:space="preserve">
+    <value>Konbertsazioaren iraupena</value>
+  </data>
+  <data name="SchConfirmReq" xml:space="preserve">
+    <value>Berretsi zure eskaera</value>
+  </data>
+  <data name="SchConvDateSummary" xml:space="preserve">
+    <value>Konbertsazio data</value>
+  </data>
+  <data name="SchConvLangSummary" xml:space="preserve">
+    <value>Konbertsaziorako hizkuntza</value>
+  </data>
+  <data name="SchConvTypeSummary" xml:space="preserve">
+    <value>Konbertsazio mota</value>
+  </data>
+  <data name="SchEmptyMess" xml:space="preserve">
+    <value>Ezin ditzakezu mezu hutsak bidali</value>
+  </data>
+  <data name="SchLangQuest" xml:space="preserve">
+    <value>Zein hizkuntzatan nahi duzu {0}-(r)ekin hitz egitea?</value>
+  </data>
+  <data name="SchMessDesc" xml:space="preserve">
+    <value>Adibidez, beste hizkuntza batzuetan hitz egiteko aurkeztu dezakezu zure burua, edo tarifen prezioak ere eskatu ditzakezu</value>
+  </data>
+  <data name="SchMessMaxLengh" xml:space="preserve">
+    <value>Mezuak ezin ditu {1} baino karaktere gehiago izan</value>
+  </data>
+  <data name="SchMessPH" xml:space="preserve">
+    <value>Gehi. luzera: 280 karaktere</value>
+  </data>
+  <data name="SchStepsTitle" xml:space="preserve">
+    <value>Jarraitu itzazu pauso hauek zure erreserba egiteko</value>
+  </data>
+  <data name="SchSubmitReq" xml:space="preserve">
+    <value>Bidali eskaera</value>
+  </data>
+  <data name="SchTBConv" xml:space="preserve">
+    <value>Denbora bankua</value>
+  </data>
+  <data name="SchTBLegend" xml:space="preserve">
+    <value>eskuragarri denbora bankurako</value>
+  </data>
+  <data name="SchTodaysRate" xml:space="preserve">
+    <value>Gaurko tarifa</value>
+  </data>
+  <data name="SchUndefined" xml:space="preserve">
+    <value>Definitu gabe</value>
+  </data>
+  <data name="SchUnselected" xml:space="preserve">
+    <value>Aukeratu gabe</value>
+  </data>
+  <data name="SchWalletLegend" xml:space="preserve">
+    <value>eskuragarri ordaindutako konbertsazioetarako</value>
+  </data>
+  <data name="SchWhenQuest" xml:space="preserve">
+    <value>Saioa itxi</value>
+  </data>
+</root>

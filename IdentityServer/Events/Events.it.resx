@@ -151,7 +151,7 @@
     <value>Fallimento Fase di Pre-Login</value>
   </data>
   <data name="PreLoginSuccess" xml:space="preserve">
-    <value>Successo Fase di Pre-Login</value>
+    <value> Pre-Login corretto</value>
   </data>
   <data name="ResourceOwnerFlowLoginFailure" xml:space="preserve">
     <value>Fallimento per il Flusso Resource Owner Password</value>

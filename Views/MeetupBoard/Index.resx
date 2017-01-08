@@ -406,7 +406,7 @@
     <value>Accepted</value>
   </data>
   <data name="StudentReqAcceptMeetup" xml:space="preserve">
-    <value>Accept meetup</value>
+    <value>Accept conversation</value>
   </data>
   <data name="StudentReqCancelled" xml:space="preserve">
     <value>Cancelled</value>
@@ -421,7 +421,7 @@
     <value>Enter</value>
   </data>
   <data name="StudentReqFinallyCancelled" xml:space="preserve">
-    <value>Ooopss... it seems that you finally cancelled the meetup</value>
+    <value>Ooopss... it seems that you finally cancelled the private conversation</value>
   </data>
   <data name="StudentReqFollowLink" xml:space="preserve">
     <value>Follow this link to enter the conversation room</value>

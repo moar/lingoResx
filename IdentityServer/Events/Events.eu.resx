@@ -117,4 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  
+  <data name="CspReport" xml:space="preserve">
+    <value>Content Security Policy (CSP) Report</value>
+  </data>
+  <data name="ExternalLoginError" xml:space="preserve">
+    <value>Kanpo login akatsa</value>
+  </data>
+  <data name="ExternalLoginFailure" xml:space="preserve">
+    <value>Kanpo login akatsa</value>
+  </data>
+  <data name="ExternalLoginSuccess" xml:space="preserve">
+    <value>Kanpo logina zuzen burutu da</value>
+  </data>
+  <data name="LocalLoginFailure" xml:space="preserve">
+    <value>Login lokalaren akatsa</value>
+  </data>
+  <data name="LocalLoginSuccess" xml:space="preserve">
+    <value>Login lokala zuzen burutu da</value>
+  </data>
+  <data name="LogoutEvent" xml:space="preserve">
+    <value>Logout evemt</value>
+  </data>
+  <data name="PartialLogin" xml:space="preserve">
+    <value>Login partziala</value>
+  </data>
+  <data name="PartialLoginComplete" xml:space="preserve">
+    <value>Login partziala bukatu da</value>
+  </data>
+  <data name="PreLoginSuccess" xml:space="preserve">
+    <value>Aurre logina zuzen burutu da</value>
+  </data>
+</root>

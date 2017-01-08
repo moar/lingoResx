@@ -117,14 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
-  <data name="Password" xml:space="preserve">
-    <value>Contrasenya</value>
+  <data name="AccountDeactivated" xml:space="preserve">
+    <value>Tu cuenta ha sido desactivada. ¿Quieres volver a activarla? Logueate otra vez</value>
   </data>
-  <data name="PasswordPlaceholder" xml:space="preserve">
-    <value>Contrasenya</value>
+  <data name="ConfirmAddress" xml:space="preserve">
+    <value>Tienes que confirmar tu dirección email. ¡Echa un vistazo a tu correo!</value>
   </data>
-  <data name="Email" xml:space="preserve">
-    <value>E-mail</value>
+  <data name="ReactivationUnsuccesful" xml:space="preserve">
+    <value>No se ha podido reactivar la cuenta. Por favor, contacta con el equipo de soporte de Langademy (contact@langademy.com) desde la cuenta de correo que estás intentando activar</value>
+  </data>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>Usuario no encontrado</value>
   </data>
 </root>

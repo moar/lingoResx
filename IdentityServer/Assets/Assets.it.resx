@@ -72,4 +72,29 @@
   <metadata name="locoLocaleName" xml:space="preserve">
     <value>English (USA)</value>
   </metadata> 
-  </root>
+   
+  <data name="common-error" xml:space="preserve">
+    <value>Errore</value>
+  </data> 
+  <data name="login-password" xml:space="preserve">
+    <value>Password</value>
+  </data> 
+  <data name="login-password-placeholder" xml:space="preserve">
+    <value>Password</value>
+  </data> 
+  <data name="login-external" xml:space="preserve">
+    <value>prezzi</value>
+  </data> 
+  <data name="logout-title" xml:space="preserve">
+    <value>Esci</value>
+  </data> 
+  <data name="logout-click" xml:space="preserve">
+    <value>Clicca</value>
+  </data> 
+  <data name="logout-from2" xml:space="preserve">
+    <value>?</value>
+  </data> 
+  <data name="logout-yes" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+</root>

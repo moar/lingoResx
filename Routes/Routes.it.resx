@@ -117,4 +117,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="conversation-exchange-meetups" xml:space="preserve">
+    <value>appuntamenti-scambio-lingue</value>
+  </data>
+  <data name="earn-as-conversation-partner" xml:space="preserve">
+    <value>guadagnare-soldi-partner-conversazione</value>
+  </data>
+  <data name="help" xml:space="preserve">
+    <value>aiuto</value>
+  </data>
+  <data name="how-does-time-banking-work" xml:space="preserve">
+    <value>aiuto/funzionamento-banca-del-tempo</value>
+  </data>
+  <data name="langademy-state" xml:space="preserve">
+    <value>aiuto/stato-langademy</value>
+  </data>
+  <data name="language-exchange" xml:space="preserve">
+    <value>scambio-di-lingue</value>
+  </data>
+  <data name="language-exchange-partners" xml:space="preserve">
+    <value>partners-scambio-lingue</value>
+  </data>
+  <data name="language-learners-how-to-start" xml:space="preserve">
+    <value>aiuto/studenti-lingue-iniziare</value>
+  </data>
+  <data name="learn-languages" xml:space="preserve">
+    <value>imparare-lingue-online</value>
+  </data>
+  <data name="natives-how-to-start" xml:space="preserve">
+    <value>aiuto/madrelingua-come-iniziare</value>
+  </data>
+  <data name="time-banking-indroduction" xml:space="preserve">
+    <value>aiuto/introduzione-banca-tempo</value>
+  </data>
+  <data name="time-banking-language-chat-rooms" xml:space="preserve">
+    <value>aiuto/chat-rooms-banca-tempo</value>
+  </data>
+  <data name="wallet-introduction" xml:space="preserve">
+    <value>aiuto/introduzione-wallet</value>
+  </data>
+  <data name="wallet-language-room" xml:space="preserve">
+    <value>aiuto/stanze-lingue-wallet</value>
+  </data>
+  <data name="wallet-native-fees" xml:space="preserve">
+    <value>aiuto/commissione-madrelingua-wallet</value>
+  </data>
+  <data name="wallet-withdrawals" xml:space="preserve">
+    <value>aiuto/ritirare-crediti-wallet</value>
+  </data>
+</root>

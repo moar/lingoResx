@@ -147,6 +147,9 @@
   <data name="Next" xml:space="preserve">
     <value>Hurrengoa</value>
   </data>
+  <data name="No" xml:space="preserve">
+    <value>Ez</value>
+  </data>
   <data name="OK" xml:space="preserve">
     <value>OK</value>
   </data>

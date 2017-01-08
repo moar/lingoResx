@@ -171,4 +171,13 @@
   <data name="PriceUpdateError" xml:space="preserve">
     <value>Arazoren bat egon da deiean</value>
   </data>
+  <data name="CallStartReceived" xml:space="preserve">
+    <value><![CDATA[<span class="text-bold">{0}</span>-(r)en deia]]></value>
+  </data>
+  <data name="CallStartSent" xml:space="preserve">
+    <value><![CDATA[<span class="text-bold">{0}</span>-(r)i deia]]></value>
+  </data>
+  <data name="RejectCall" xml:space="preserve">
+    <value><![CDATA[<span class="text-bold">{0}</span>-(r)en deiari uko]]></value>
+  </data>
 </root>

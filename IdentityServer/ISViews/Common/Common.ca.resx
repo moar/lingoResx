@@ -118,4 +118,36 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  </root>
+  
+  
+  <data name="locoLocaleName" xml:space="preserve">
+    <value>Anglès (EEUU)</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="login-password" xml:space="preserve">
+    <value>Contrasenya</value>
+  </data>
+  <data name="login-title" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="login-external" xml:space="preserve">
+    <value>Login extern</value>
+  </data>
+  <data name="logout-title" xml:space="preserve">
+    <value>Tancar sessió</value>
+  </data>
+  <data name="logout-click" xml:space="preserve">
+    <value>Clic</value>
+  </data>
+  <data name="logout-from2" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="logout-yes" xml:space="preserve">
+    <value>Si</value>
+  </data>
+</root>

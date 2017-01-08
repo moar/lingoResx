@@ -118,13 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  <data name="Password" xml:space="preserve">
-    <value>Contrasenya</value>
-  </data>
-  <data name="PasswordPlaceholder" xml:space="preserve">
-    <value>Contrasenya</value>
-  </data>
-  <data name="Email" xml:space="preserve">
-    <value>E-mail</value>
+  <data name="ReactivationUnsuccesful" xml:space="preserve">
+    <value>Impossibile riattivare l'account. Prega di contattarci il team di supporto Langademy (contact@langademy.com) dall'account di posta elettronica che si sta tentando di attivare</value>
   </data>
 </root>

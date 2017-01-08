@@ -117,4 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="address_DisplayName" xml:space="preserve">
+    <value>Zure posta kodea</value>
+  </data>
+  <data name="all_claims_DisplayName" xml:space="preserve">
+    <value>Erabiltzaile informazio guztia</value>
+  </data>
+  <data name="email_DisplayName" xml:space="preserve">
+    <value>Zure email helbidea</value>
+  </data>
+  <data name="offline_access_DisplayName" xml:space="preserve">
+    <value>Offline sarbidea</value>
+  </data>
+  <data name="openid_DisplayName" xml:space="preserve">
+    <value>Zure erabiltzaile identifikatzailea</value>
+  </data>
+  <data name="phone_DisplayName" xml:space="preserve">
+    <value>Zure telefono zenbakia</value>
+  </data>
+  <data name="profile_Description" xml:space="preserve">
+    <value>Zure profileko informazioa (izena, abizena etab.)</value>
+  </data>
+  <data name="profile_DisplayName" xml:space="preserve">
+    <value>Erabiltzaile profila</value>
+  </data>
+  <data name="roles_DisplayName" xml:space="preserve">
+    <value>Erabiltzaile rolak</value>
+  </data>
+</root>

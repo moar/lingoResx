@@ -406,7 +406,7 @@
     <value>Aceptado</value>
   </data>
   <data name="StudentReqAcceptMeetup" xml:space="preserve">
-    <value>Aceptar quedada</value>
+    <value>Aceptar conversación</value>
   </data>
   <data name="StudentReqCancelled" xml:space="preserve">
     <value>Cancelado</value>

@@ -127,7 +127,7 @@
     <value>Linka emailera bidali</value>
   </data>
   <data name="EnterMail" xml:space="preserve">
-    <value>Idatzi zure posta elektronikoa</value>
+    <value>Sartu erregistratu zineneko email helbidea eta pasahitza berreskuratzeko argibideak bidaliko dizkizugu helbide hortara</value>
   </data>
   <data name="ForgotPass" xml:space="preserve">
     <value>Pasahitza ahaztu al duzu?</value>

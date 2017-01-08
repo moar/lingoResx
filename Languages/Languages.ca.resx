@@ -570,4 +570,7 @@
   <data name="fr-FR" xml:space="preserve">
     <value>Francès</value>
   </data>
+  <data name="eo" xml:space="preserve">
+    <value>Esperanto</value>
+  </data>
 </root>

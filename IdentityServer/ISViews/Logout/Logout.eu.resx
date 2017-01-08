@@ -117,4 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="Title" xml:space="preserve">
+    <value>Saioa itxi</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Saioa itxi duzu</value>
+  </data>
+  <data name="Click" xml:space="preserve">
+    <value>Klik</value>
+  </data>
+  <data name="Return" xml:space="preserve">
+    <value>bueltatzeko</value>
+  </data>
+  <data name="Quest" xml:space="preserve">
+    <value>Saioa istea nahi al duzu?</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Bai</value>
+  </data>
+  <data name="Logoutlink" xml:space="preserve">
+    <value><![CDATA[Klikatu <a href="{0}">hemen</a> {1}era bueltatzeko]]></value>
+  </data>
+  <data name="NowLoggedOut" xml:space="preserve">
+    <value>Saioa itxi duzu</value>
+  </data>
+</root>
