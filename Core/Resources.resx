@@ -118,6 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  
   <data name="AccountDeactivated" xml:space="preserve">
     <value>Your account was deactivated.Do you want reactivate it? Sign in again</value>
   </data>
