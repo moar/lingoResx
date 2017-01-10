@@ -680,7 +680,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Routes\Routes.ca.resx" />
     <EmbeddedResource Include="Routes\Routes.de.resx" />
-    <EmbeddedResource Include="Routes\Routes.es.resx" />
+    <EmbeddedResource Include="Routes\Routes.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Routes\Routes.eu.resx" />
     <EmbeddedResource Include="Routes\Routes.fr.resx" />
     <EmbeddedResource Include="Routes\Routes.it.resx" />
