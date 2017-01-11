@@ -950,7 +950,9 @@
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.es.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.eu.resx" />
+    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.fr.resx" />
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.it.resx" />
     <EmbeddedResource Include="Views\LoginRegister\LoginRegister.resx">
@@ -1072,10 +1074,15 @@
       <LastGenOutput>RightPanel.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.ca.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.de.resx" />
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ScheduleRequest.es.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.eu.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.fr.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.it.resx" />
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ScheduleRequest.Designer.cs</LastGenOutput>

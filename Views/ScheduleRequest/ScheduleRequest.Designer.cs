@@ -61,6 +61,24 @@ namespace Resources.Views.ScheduleRequest {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Go to my request.
+        /// </summary>
+        public static string GoToRequest {
+            get {
+                return ResourceManager.GetString("GoToRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Request a conversation.
+        /// </summary>
+        public static string ReqConversation {
+            get {
+                return ResourceManager.GetString("ReqConversation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to If you want to send a request for practicing {0} you have to include the language in your profile.
         /// </summary>
         public static string SchAddLang {

@@ -214,6 +214,15 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Hora.
+        /// </summary>
+        public static string Hour {
+            get {
+                return ResourceManager.GetString("Hour", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Language is required.
         /// </summary>
         public static string LanguageRequired {
@@ -444,6 +453,15 @@ namespace Resources.Views.ProfileApp {
         public static string UploadCover {
             get {
                 return ResourceManager.GetString("UploadCover", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet conversation rate.
+        /// </summary>
+        public static string WalletRate {
+            get {
+                return ResourceManager.GetString("WalletRate", resourceCulture);
             }
         }
         
