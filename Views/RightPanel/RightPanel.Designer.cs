@@ -277,6 +277,33 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You haven&apos;t scheduled private conversations with anyone.
+        /// </summary>
+        public static string RPNoMeetupPartners {
+            get {
+                return ResourceManager.GetString("RPNoMeetupPartners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Non of your contacts is online right now.
+        /// </summary>
+        public static string RpNoOnlineContacts {
+            get {
+                return ResourceManager.GetString("RpNoOnlineContacts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call history is empty.
+        /// </summary>
+        public static string RPNoRecentCalls {
+            get {
+                return ResourceManager.GetString("RPNoRecentCalls", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Login to see your conversations.
         /// </summary>
         public static string RPRegForMessages {

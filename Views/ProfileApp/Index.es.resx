@@ -252,4 +252,10 @@
   <data name="BlogPosts" xml:space="preserve">
     <value>Publicaciones del blog</value>
   </data>
+  <data name="Hour" xml:space="preserve">
+    <value>Hora</value>
+  </data>
+  <data name="WalletRate" xml:space="preserve">
+    <value>Tarifa de conversación Wallet</value>
+  </data>
 </root>

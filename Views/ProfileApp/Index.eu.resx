@@ -252,4 +252,10 @@
   <data name="BlogPosts" xml:space="preserve">
     <value>Blog postak</value>
   </data>
+  <data name="Hour" xml:space="preserve">
+    <value>Orduko</value>
+  </data>
+  <data name="WalletRate" xml:space="preserve">
+    <value>Wallet konbertsaziorako tarifa</value>
+  </data>
 </root>
