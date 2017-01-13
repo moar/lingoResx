@@ -225,4 +225,13 @@
   <data name="WalletRooms" xml:space="preserve">
     <value>Wallet gelak</value>
   </data>
+  <data name="RPNoMeetupPartners" xml:space="preserve">
+    <value>Ez duzu inorekin konbertsazio pribaturik antolatu</value>
+  </data>
+  <data name="RpNoOnlineContacts" xml:space="preserve">
+    <value>Zure kontaktuetako bat ere ez dago online</value>
+  </data>
+  <data name="RPNoRecentCalls" xml:space="preserve">
+    <value>Deien historikoa hutsik dago</value>
+  </data>
 </root>

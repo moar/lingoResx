@@ -117,4 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ClientIdRequired" xml:space="preserve">
+    <value>L'identificador de l'usuari és obligatori</value>
+  </data>
+  <data name="InvalidUsernameOrPassword" xml:space="preserve">
+    <value>Usuari o contrasenya incorrecta.</value>
+  </data>
+  <data name="invalid_scope" xml:space="preserve">
+    <value>L'aplicació client ha intentat accedir a un recurs al qual no té accés.</value>
+  </data>
+  <data name="MissingClientId" xml:space="preserve">
+    <value>client_id no trobat</value>
+  </data>
+  <data name="MissingToken" xml:space="preserve">
+    <value>Token no trobat</value>
+  </data>
+  <data name="MustSelectAtLeastOnePermission" xml:space="preserve">
+    <value>Heu de seleccionar almenys un permís.</value>
+  </data>
+  <data name="NoMatchingExternalAccount" xml:space="preserve">
+    <value>Compte invàlida</value>
+  </data>
+  <data name="NoSubjectFromExternalProvider" xml:space="preserve">
+    <value>Error a l'intentar autenticar amb el proveïdor extern</value>
+  </data>
+  <data name="PasswordRequired" xml:space="preserve">
+    <value>La clau és obligatòria</value>
+  </data>
+  <data name="SslRequired" xml:space="preserve">
+    <value>És necessària SSL</value>
+  </data>
+  <data name="unauthorized_client" xml:space="preserve">
+    <value>L'aplicació client és desconeguda o no està autoritzada.</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Hi ha hagut un error inesperat</value>
+  </data>
+  <data name="UnsupportedMediaType" xml:space="preserve">
+    <value>Tipus de medi no suportat</value>
+  </data>
+  <data name="unsupported_response_type" xml:space="preserve">
+    <value>El servidor d'autorització no suporta el tipus de resposta sol·licitat.</value>
+  </data>
+</root>

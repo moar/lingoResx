@@ -252,4 +252,19 @@
   <data name="LRTooManySpecials" xml:space="preserve">
     <value>Tens massa caràcters especials en el teu nom d'usuari</value>
   </data>
+  <data name="GoHome" xml:space="preserve">
+    <value>Anar a Langacademy</value>
+  </data>
+  <data name="LastStep" xml:space="preserve">
+    <value>Un últim pas</value>
+  </data>
+  <data name="RegIntro" xml:space="preserve">
+    <value><![CDATA[Si ja tens un compte de correu registrat a Langademy pots <a0> iniciar sessió </ a0> amb aquesta mateixa compte. Altrament, registra't ara]]></value>
+  </data>
+  <data name="RegSuccess" xml:space="preserve">
+    <value>¡Registre correcte!</value>
+  </data>
+  <data name="RegTitle" xml:space="preserve">
+    <value>Crear un compte</value>
+  </data>
 </root>

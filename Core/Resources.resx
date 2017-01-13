@@ -120,6 +120,7 @@
   
   
   
+  
   <data name="AccountDeactivated" xml:space="preserve">
     <value>Your account was deactivated.Do you want reactivate it? Sign in again</value>
   </data>

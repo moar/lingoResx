@@ -361,4 +361,91 @@
   <data name="MBNoMeetupsScheduled" xml:space="preserve">
     <value>Non si sono organizzati appuntamenti</value>
   </data>
+  <data name="CalendarEdit" xml:space="preserve">
+    <value>Modifica disponibilità</value>
+  </data>
+  <data name="CalendarLoad" xml:space="preserve">
+    <value>Caricando..</value>
+  </data>
+  <data name="ConvReqs" xml:space="preserve">
+    <value>Richieste per conversare</value>
+  </data>
+  <data name="EditAvFillCalendar" xml:space="preserve">
+    <value>Inserisci nell tuo calendario, l'ora in cui sarai libero a parlare tua lingua madre</value>
+  </data>
+  <data name="EditAvSelectType" xml:space="preserve">
+    <value>Sceglie ricevere le richieste per le chiamate Wallet,o chiamate Banca del Tempo e crea numerose band (tante come vuoi) direttamente sul calendario</value>
+  </data>
+  <data name="EditAvTB" xml:space="preserve">
+    <value>Banca del Tempo</value>
+  </data>
+  <data name="EditAvWallet" xml:space="preserve">
+    <value>Wallet</value>
+  </data>
+  <data name="EditCalendar" xml:space="preserve">
+    <value>Modifica il calendario</value>
+  </data>
+  <data name="EditSave" xml:space="preserve">
+    <value>Salvare e uscire</value>
+  </data>
+  <data name="IndexNoReq" xml:space="preserve">
+    <value>Non hai inviato nessuna richiesta di conversazione</value>
+  </data>
+  <data name="IndexReceived" xml:space="preserve">
+    <value>Ricevuti</value>
+  </data>
+  <data name="IndexSent" xml:space="preserve">
+    <value>Inviati</value>
+  </data>
+  <data name="IndNoReq" xml:space="preserve">
+    <value>Non hai ricevuto nessuna richiesta per conversare</value>
+  </data>
+  <data name="NewConvSendReq" xml:space="preserve">
+    <value>Inviare</value>
+  </data>
+  <data name="StudentReqAccepted" xml:space="preserve">
+    <value>Accettato</value>
+  </data>
+  <data name="StudentReqAcceptMeetup" xml:space="preserve">
+    <value>Accetta conversazione</value>
+  </data>
+  <data name="StudentReqCancelled" xml:space="preserve">
+    <value>Cancellato</value>
+  </data>
+  <data name="StudentReqCancelMeetup" xml:space="preserve">
+    <value>Cancella appuntamento</value>
+  </data>
+  <data name="StudentReqCancelRequest" xml:space="preserve">
+    <value>Cancella richiesta</value>
+  </data>
+  <data name="StudentReqEnter" xml:space="preserve">
+    <value>Accedere</value>
+  </data>
+  <data name="StudentReqFinallyCancelled" xml:space="preserve">
+    <value>Ops ... sembra che alla fine hai cancellato la conversazione privata</value>
+  </data>
+  <data name="StudentReqFollowLink" xml:space="preserve">
+    <value>Segui questo link per entrare nella stanza della conversazione</value>
+  </data>
+  <data name="StudentReqMeetupCancelled" xml:space="preserve">
+    <value>Conversazione cancellata</value>
+  </data>
+  <data name="StudentReqMessages" xml:space="preserve">
+    <value>Messaggi</value>
+  </data>
+  <data name="StudentReqMissSentence" xml:space="preserve">
+    <value>Un vero peccato non avere confermato prima questa richiesta. Resta attento su Langademy e non perdere più richieste;-)</value>
+  </data>
+  <data name="StudentReqOtherReq" xml:space="preserve">
+    <value>Non si può accettare questa conversazione perché avete accettato un'altra conversazione, allo stesso tempo,</value>
+  </data>
+  <data name="StudentReqPending" xml:space="preserve">
+    <value>In attesa </value>
+  </data>
+  <data name="StudentReqProposal" xml:space="preserve">
+    <value>Proposta</value>
+  </data>
+  <data name="StudentReqRateOnRequest" xml:space="preserve">
+    <value>Tasso nella data di richiesta</value>
+  </data>
 </root>

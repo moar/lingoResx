@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClientPermissionsRevoked" xml:space="preserve">
-    <value>Permesso del Client Revocato</value>
+    <value>Permessi revocati</value>
   </data>
   <data name="CspReport" xml:space="preserve">
-    <value>Rapporto Content Security Policy (CSP)</value>
+    <value>Relazione contenuti della politica di sicurezza (CSP)</value>
   </data>
   <data name="ExternalLoginError" xml:space="preserve">
     <value>Errore di Login Esterno</value>
   </data>
   <data name="ExternalLoginFailure" xml:space="preserve">
-    <value>Fallimento del Login Esterno</value>
+    <value>Errore Login Esterno</value>
   </data>
   <data name="ExternalLoginSuccess" xml:space="preserve">
-    <value>Successo del Login Esterno</value>
+    <value>Inizio Login Esterno corretto</value>
   </data>
   <data name="LocalLoginFailure" xml:space="preserve">
-    <value>Fallimento del Login Locale</value>
+    <value>Errore di acceso</value>
   </data>
   <data name="LocalLoginSuccess" xml:space="preserve">
-    <value>Successo del Login Locale</value>
+    <value>Login locale corretto</value>
   </data>
   <data name="LogoutEvent" xml:space="preserve">
-    <value>Evento di Logout</value>
+    <value> Logout Event</value>
   </data>
   <data name="PartialLogin" xml:space="preserve">
-    <value>Login Parziale</value>
+    <value>Partial Login </value>
   </data>
   <data name="PartialLoginComplete" xml:space="preserve">
     <value>Login Parziale Completato</value>
   </data>
   <data name="PreLoginFailure" xml:space="preserve">
-    <value>Fallimento Fase di Pre-Login</value>
+    <value>Errore Fase Pre-Login</value>
   </data>
   <data name="PreLoginSuccess" xml:space="preserve">
-    <value> Pre-Login corretto</value>
+    <value> Pre-Login corretto </value>
   </data>
   <data name="ResourceOwnerFlowLoginFailure" xml:space="preserve">
-    <value>Fallimento per il Flusso Resource Owner Password</value>
+    <value> Resource Owner Password Flow Login non riuscito</value>
   </data>
   <data name="ResourceOwnerFlowLoginSuccess" xml:space="preserve">
     <value>Successo per il Flusso Resource Owner Password</value>

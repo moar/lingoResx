@@ -252,4 +252,19 @@
   <data name="LRTooManySpecials" xml:space="preserve">
     <value>Ci sono troppi caratteri speciali nel tuo username</value>
   </data>
+  <data name="GoHome" xml:space="preserve">
+    <value>Vai a Langademy</value>
+  </data>
+  <data name="LastStep" xml:space="preserve">
+    <value>Un ultimo passo</value>
+  </data>
+  <data name="RegIntro" xml:space="preserve">
+    <value><![CDATA[Se hai già un account e-mail registrato in Langademy puoi <a0> login </ a0> con lo stesso account. Altrimenti registrati ora]]></value>
+  </data>
+  <data name="RegSuccess" xml:space="preserve">
+    <value>Web log ottimo!</value>
+  </data>
+  <data name="RegTitle" xml:space="preserve">
+    <value>Crea un account</value>
+  </data>
 </root>

@@ -123,14 +123,35 @@
   
   
   
+  <data name="locoLocaleCode" xml:space="preserve">
+    <value>en-US</value>
+  </data>
   <data name="locoLocaleName" xml:space="preserve">
     <value>Inglese (USA)</value>
+  </data>
+  <data name="authorizeresponse-wait" xml:space="preserve">
+    <value>Aspetta prego...</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Errore</value>
   </data>
+  <data name="login-username" xml:space="preserve">
+    <value>Nome utente</value>
+  </data>
+  <data name="login-username-placeholder" xml:space="preserve">
+    <value>Nome utente</value>
+  </data>
   <data name="login-password" xml:space="preserve">
     <value>Password</value>
+  </data>
+  <data name="login-password-placeholder" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="login-rememberLogin" xml:space="preserve">
+    <value>Ricorda il mio login</value>
+  </data>
+  <data name="login-local" xml:space="preserve">
+    <value>Local Login</value>
   </data>
   <data name="login-title" xml:space="preserve">
     <value>Login</value>
@@ -140,6 +161,9 @@
   </data>
   <data name="login-external" xml:space="preserve">
     <value>External Login</value>
+  </data>
+  <data name="login-different" xml:space="preserve">
+    <value>Inserisci un altro account</value>
   </data>
   <data name="logout-title" xml:space="preserve">
     <value>Esci</value>
@@ -152,5 +176,8 @@
   </data>
   <data name="logout-yes" xml:space="preserve">
     <value>Sì</value>
+  </data>
+  <data name="signoutframe-signout" xml:space="preserve">
+    <value>Uscire</value>
   </data>
 </root>

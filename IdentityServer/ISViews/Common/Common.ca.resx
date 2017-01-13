@@ -123,14 +123,35 @@
   
   
   
+  <data name="locoLocaleCode" xml:space="preserve">
+    <value>en-US</value>
+  </data>
   <data name="locoLocaleName" xml:space="preserve">
     <value>Anglès (EEUU)</value>
+  </data>
+  <data name="authorizeresponse-wait" xml:space="preserve">
+    <value>Espera si us plau...</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
   </data>
+  <data name="login-username" xml:space="preserve">
+    <value>Nom d'usuari</value>
+  </data>
+  <data name="login-username-placeholder" xml:space="preserve">
+    <value>Nom d'usuari</value>
+  </data>
   <data name="login-password" xml:space="preserve">
     <value>Contrasenya</value>
+  </data>
+  <data name="login-password-placeholder" xml:space="preserve">
+    <value>Contrasenya</value>
+  </data>
+  <data name="login-rememberLogin" xml:space="preserve">
+    <value>Recordar el meu login</value>
+  </data>
+  <data name="login-local" xml:space="preserve">
+    <value>Login Local</value>
   </data>
   <data name="login-title" xml:space="preserve">
     <value>Login</value>
@@ -140,6 +161,9 @@
   </data>
   <data name="login-external" xml:space="preserve">
     <value>Login extern</value>
+  </data>
+  <data name="login-different" xml:space="preserve">
+    <value>Entra amb un altre compte diferent</value>
   </data>
   <data name="logout-title" xml:space="preserve">
     <value>Tancar sessió</value>
@@ -152,5 +176,8 @@
   </data>
   <data name="logout-yes" xml:space="preserve">
     <value>Si</value>
+  </data>
+  <data name="signoutframe-signout" xml:space="preserve">
+    <value>Sortir</value>
   </data>
 </root>

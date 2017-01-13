@@ -119,13 +119,43 @@
   </resheader>
   
   
+  <data name="Username" xml:space="preserve">
+    <value>Nome utente</value>
+  </data>
+  <data name="UsernamePlaceholder" xml:space="preserve">
+    <value>Nome utente</value>
+  </data>
   <data name="Password" xml:space="preserve">
     <value>Password</value>
   </data>
   <data name="PasswordPlaceholder" xml:space="preserve">
     <value>Password</value>
   </data>
+  <data name="RememberLogin" xml:space="preserve">
+    <value>Mantieni l'accesso collegato</value>
+  </data>
+  <data name="Local" xml:space="preserve">
+    <value>Inserisci il tuo account Langademy</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value><![CDATA[Benvenuti a <span0> Langademy </ span0>]]></value>
+  </data>
+  <data name="Action" xml:space="preserve">
+    <value>Accesso</value>
+  </data>
+  <data name="External" xml:space="preserve">
+    <value>Effettua il login con le reti sociali</value>
+  </data>
+  <data name="Different" xml:space="preserve">
+    <value>Accedi con un account diverso</value>
+  </data>
   <data name="Email" xml:space="preserve">
     <value>E-mail</value>
+  </data>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>Hai dimenticato la password?</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Iscriviti</value>
   </data>
 </root>
