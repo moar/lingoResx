@@ -76,8 +76,17 @@
    
    
    
+  <data name="authorizeresponse-wait" xml:space="preserve">
+    <value>Espera si us plau...</value>
+  </data> 
   <data name="common-error" xml:space="preserve">
     <value>Error</value>
+  </data> 
+  <data name="login-username" xml:space="preserve">
+    <value>Nom d'usuari</value>
+  </data> 
+  <data name="login-username-placeholder" xml:space="preserve">
+    <value>Nom d'usuari</value>
   </data> 
   <data name="login-password" xml:space="preserve">
     <value>Contrasenya</value>
@@ -85,16 +94,40 @@
   <data name="login-password-placeholder" xml:space="preserve">
     <value>Contrasenya</value>
   </data> 
+  <data name="login-rememberLogin" xml:space="preserve">
+    <value>Recordar el meu login</value>
+  </data> 
+  <data name="login-local" xml:space="preserve">
+    <value>Login local</value>
+  </data> 
+  <data name="login-title" xml:space="preserve">
+    <value>Login</value>
+  </data> 
+  <data name="login-action" xml:space="preserve">
+    <value>Login</value>
+  </data> 
+  <data name="login-external" xml:space="preserve">
+    <value>Login extern</value>
+  </data> 
+  <data name="login-different" xml:space="preserve">
+    <value>Entra amb un altre compte diferent</value>
+  </data> 
   <data name="logout-title" xml:space="preserve">
     <value>Tanca sessió</value>
   </data> 
   <data name="logout-click" xml:space="preserve">
     <value>Clica</value>
   </data> 
+  <data name="logout-here" xml:space="preserve">
+    <value>aquí</value>
+  </data> 
   <data name="logout-from2" xml:space="preserve">
     <value>?</value>
   </data> 
   <data name="logout-yes" xml:space="preserve">
     <value>Si</value>
+  </data> 
+  <data name="consent-personalInformation" xml:space="preserve">
+    <value>Informació personal</value>
   </data>
 </root>

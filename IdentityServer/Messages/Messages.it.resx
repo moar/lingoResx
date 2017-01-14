@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ClientIdRequired" xml:space="preserve">
-    <value>È richiesto l'identificativo del client</value>
+    <value>È necessario l'identificativo utente</value>
   </data>
   <data name="InvalidUsernameOrPassword" xml:space="preserve">
-    <value>Nome utente o password non corretti.</value>
+    <value>Utente o password non corretto.</value>
   </data>
   <data name="invalid_scope" xml:space="preserve">
-    <value>L'applicazione client ha tentato di accedere ad una risorsa per la quale non possiede i permessi di accesso.</value>
+    <value>L'applicazione client ha tentato di accedere a una risorsa che non ha accesso.</value>
   </data>
   <data name="MissingClientId" xml:space="preserve">
-    <value>client_id mancante</value>
+    <value>client_id not found</value>
   </data>
   <data name="MissingToken" xml:space="preserve">
-    <value>Token mancante</value>
+    <value>Token non trovato</value>
   </data>
   <data name="MustSelectAtLeastOnePermission" xml:space="preserve">
     <value>È necessario selezionare almeno un permesso.</value>
@@ -139,10 +139,10 @@
     <value>Account Non Valido</value>
   </data>
   <data name="NoSubjectFromExternalProvider" xml:space="preserve">
-    <value>Errore durante l'autenticazione tramite il fornitore esterno</value>
+    <value>Errore durante l'autenticazione con il committente</value>
   </data>
   <data name="PasswordRequired" xml:space="preserve">
-    <value>La password è richiesta</value>
+    <value>La password è obbligatoria</value>
   </data>
   <data name="SslRequired" xml:space="preserve">
     <value>È richiesto l'uso di SSL</value>
@@ -151,7 +151,7 @@
     <value>L'applicazione client è sconosciuta o non è autorizzata.</value>
   </data>
   <data name="UnexpectedError" xml:space="preserve">
-    <value>Si è verificato un errore inatteso.</value>
+    <value>Si è verificato un errore imprevisto</value>
   </data>
   <data name="UnsupportedMediaType" xml:space="preserve">
     <value>Media Type non supportato</value>

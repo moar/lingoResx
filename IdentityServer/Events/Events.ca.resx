@@ -117,4 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ClientPermissionsRevoked" xml:space="preserve">
+    <value>Permisos revocats</value>
+  </data>
+  <data name="CspReport" xml:space="preserve">
+    <value>Informe de la política de seguretat del contingut (CSP)</value>
+  </data>
+  <data name="ExternalLoginError" xml:space="preserve">
+    <value>Error d'inici de Sessió Extern</value>
+  </data>
+  <data name="ExternalLoginFailure" xml:space="preserve">
+    <value>Error en l'Inici de Sessió Extern</value>
+  </data>
+  <data name="ExternalLoginSuccess" xml:space="preserve">
+    <value>Inici de Sessió Extern exitós</value>
+  </data>
+  <data name="LocalLoginFailure" xml:space="preserve">
+    <value>Error en Inici de Sessió Local</value>
+  </data>
+  <data name="LocalLoginSuccess" xml:space="preserve">
+    <value>Inici de Sessió Local correcte</value>
+  </data>
+  <data name="LogoutEvent" xml:space="preserve">
+    <value>Logout Event</value>
+  </data>
+  <data name="PartialLogin" xml:space="preserve">
+    <value>Inici Parcial de Sessió</value>
+  </data>
+  <data name="PartialLoginComplete" xml:space="preserve">
+    <value>Inici Parcial de Sessió Completat</value>
+  </data>
+  <data name="PreLoginFailure" xml:space="preserve">
+    <value>Error en Pre-inici de sessió</value>
+  </data>
+  <data name="PreLoginSuccess" xml:space="preserve">
+    <value>Pre-inici de sessió correcte</value>
+  </data>
+  <data name="ResourceOwnerFlowLoginFailure" xml:space="preserve">
+    <value>Resource Owner Password Flow Login Fallit</value>
+  </data>
+</root>

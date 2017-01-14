@@ -135,4 +135,22 @@
   <data name="NewMissedCall" xml:space="preserve">
     <value>Trucada perduda </value>
   </data>
+  <data name="PrivateConversationAccepted" xml:space="preserve">
+    <value>ha acceptat la teva petició per practicar {0}</value>
+  </data>
+  <data name="PrivateConversationRequest" xml:space="preserve">
+    <value>vol practicar {0} amb tu</value>
+  </data>
+  <data name="PrivateConversationRequestRejected" xml:space="preserve">
+    <value>no ha acceptat la teva sol·licitud de conversa</value>
+  </data>
+  <data name="PrivateMeetupCancelled" xml:space="preserve">
+    <value>ha cancel·lat la teva conversa privada</value>
+  </data>
+  <data name="PrivateRequestCancelled" xml:space="preserve">
+    <value>ha cancel·lat la teva sol·licitud</value>
+  </data>
+  <data name="PrivateRequestMessage" xml:space="preserve">
+    <value>t'ha enviat un missatge</value>
+  </data>
 </root>

@@ -121,7 +121,7 @@
     <value>El identificador del usuario es obligatorio</value>
   </data>
   <data name="InvalidUsernameOrPassword" xml:space="preserve">
-    <value>Usuario o constraseña incorrecta.</value>
+    <value>Usuario o contraseña incorrecta.</value>
   </data>
   <data name="invalid_scope" xml:space="preserve">
     <value>La aplicación cliente intentó acceder a un recurso al que no tiene acceso.</value>
@@ -154,7 +154,7 @@
     <value>Ha ocurrido un error inesperado</value>
   </data>
   <data name="UnsupportedMediaType" xml:space="preserve">
-    <value>Tipo de medio no soportado.</value>
+    <value>Tipo de medio no soportado</value>
   </data>
   <data name="unsupported_response_type" xml:space="preserve">
     <value>El servidor de autorización no soporta el tipo de respuesta solicitado.</value>

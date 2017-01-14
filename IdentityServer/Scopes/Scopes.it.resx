@@ -121,25 +121,25 @@
     <value>Il tuo indirizzo postale</value>
   </data>
   <data name="all_claims_DisplayName" xml:space="preserve">
-    <value>Tutte le informazioni dell'utente</value>
+    <value>Tutta la informazione dell'utente</value>
   </data>
   <data name="email_DisplayName" xml:space="preserve">
-    <value>Il tuo indirizzo email</value>
+    <value>La tua email</value>
   </data>
   <data name="offline_access_DisplayName" xml:space="preserve">
-    <value>Accesso offline</value>
+    <value>Accesso offline </value>
   </data>
   <data name="openid_DisplayName" xml:space="preserve">
-    <value>Il tuo identificativo utente</value>
+    <value>Il tuo ID utente</value>
   </data>
   <data name="phone_DisplayName" xml:space="preserve">
     <value>Il tuo numero di telefono</value>
   </data>
   <data name="profile_Description" xml:space="preserve">
-    <value>Le informazioni del tuo profilo utente (nome, cognome, etc.)</value>
+    <value>Le informazioni del profilo (nome, cognome, etc.)</value>
   </data>
   <data name="profile_DisplayName" xml:space="preserve">
-    <value>Profilo utente</value>
+    <value>Profilo utente </value>
   </data>
   <data name="roles_DisplayName" xml:space="preserve">
     <value>Ruoli utente</value>

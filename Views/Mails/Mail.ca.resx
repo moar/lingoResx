@@ -123,6 +123,21 @@
   
   
   
+  <data name="AvailableRequest" xml:space="preserve">
+    <value>{0} ha actualitzat el seu calendari</value>
+  </data>
+  <data name="AvailableRequests" xml:space="preserve">
+    <value>{0} persones han actualitzat els seus calendaris</value>
+  </data>
+  <data name="ConversationAccepted" xml:space="preserve">
+    <value>{0} ha acceptat la teva sol·licitud de conversa</value>
+  </data>
+  <data name="ConversationAlert" xml:space="preserve">
+    <value>Recordatori: avui tens una conversa</value>
+  </data>
+  <data name="ConversationAlerts" xml:space="preserve">
+    <value>Recordatori: avui tens diverses converses</value>
+  </data>
   <data name="InvitationSubject" xml:space="preserve">
     <value>Invitació Langademy</value>
   </data>
@@ -134,6 +149,9 @@
   </data>
   <data name="MailNewMeetupParticipants" xml:space="preserve">
     <value>Nous participants a la quedada</value>
+  </data>
+  <data name="NewConversationRequests" xml:space="preserve">
+    <value>Algú vol conversar amb tu</value>
   </data>
   <data name="NewMeetupMail" xml:space="preserve">
     <value>Nova quedada de {0}</value>

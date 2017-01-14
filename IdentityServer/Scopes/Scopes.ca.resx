@@ -117,4 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="address_DisplayName" xml:space="preserve">
+    <value>El teu codi postal</value>
+  </data>
+  <data name="all_claims_DisplayName" xml:space="preserve">
+    <value>Tota la informació de l'usuari</value>
+  </data>
+  <data name="email_DisplayName" xml:space="preserve">
+    <value>El teu email</value>
+  </data>
+  <data name="offline_access_DisplayName" xml:space="preserve">
+    <value>Accés fora de línia</value>
+  </data>
+  <data name="openid_DisplayName" xml:space="preserve">
+    <value>El seu identificador d'usuari</value>
+  </data>
+  <data name="phone_DisplayName" xml:space="preserve">
+    <value>El teu número de telèfon</value>
+  </data>
+  <data name="profile_Description" xml:space="preserve">
+    <value>La teva informació de perfil (nom, cognom, etc.)</value>
+  </data>
+  <data name="profile_DisplayName" xml:space="preserve">
+    <value>Perfil d'usuari</value>
+  </data>
+  <data name="roles_DisplayName" xml:space="preserve">
+    <value>Rols d'usuari</value>
+  </data>
+</root>

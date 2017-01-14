@@ -119,13 +119,40 @@
   </resheader>
   
   
+  <data name="Username" xml:space="preserve">
+    <value>Nom d'usuari</value>
+  </data>
+  <data name="UsernamePlaceholder" xml:space="preserve">
+    <value>Nom d'usuari</value>
+  </data>
   <data name="Password" xml:space="preserve">
     <value>Contrasenya</value>
   </data>
   <data name="PasswordPlaceholder" xml:space="preserve">
     <value>Contrasenya</value>
   </data>
+  <data name="RememberLogin" xml:space="preserve">
+    <value>Mantenir la sessió iniciada</value>
+  </data>
+  <data name="Local" xml:space="preserve">
+    <value>Entra amb el teu compte de Langademy</value>
+  </data>
+  <data name="Action" xml:space="preserve">
+    <value>Iniciar sessió</value>
+  </data>
+  <data name="External" xml:space="preserve">
+    <value>Entrar amb xarxes socials</value>
+  </data>
+  <data name="Different" xml:space="preserve">
+    <value>Inicia sessió amb un compte diferent</value>
+  </data>
   <data name="Email" xml:space="preserve">
     <value>E-mail</value>
+  </data>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>Has oblidat la teva contrasenya?</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registra't</value>
   </data>
 </root>

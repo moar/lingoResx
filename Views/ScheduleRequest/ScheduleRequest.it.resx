@@ -117,4 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="GoToRequest" xml:space="preserve">
+    <value>Vai alla richiesta</value>
+  </data>
+  <data name="ReqConversation" xml:space="preserve">
+    <value>Richiedere una conversazione</value>
+  </data>
+  <data name="SchAddLang" xml:space="preserve">
+    <value>Se vuoi inviare una richiesta per praticare {0} è necessario includere la lingua nel tuo profilo</value>
+  </data>
+  <data name="SchBothLegend" xml:space="preserve">
+    <value>disponibile per conversazione di pagamento e banca del tempo</value>
+  </data>
+  <data name="SchCheckMail" xml:space="preserve">
+    <value>Voglio ricevere un'e-mail se {0} accetta mia richiesta</value>
+  </data>
+  <data name="SchCondDurSummary" xml:space="preserve">
+    <value>Durata della conversazione</value>
+  </data>
+  <data name="SchConfirmReq" xml:space="preserve">
+    <value>Conferma la tua richiesta</value>
+  </data>
+  <data name="SchConvDateSummary" xml:space="preserve">
+    <value>Data conversazione</value>
+  </data>
+  <data name="SchConvLangSummary" xml:space="preserve">
+    <value> lingua della conversazione</value>
+  </data>
+  <data name="SchConvTypeQuest" xml:space="preserve">
+    <value>Preferisci una conversazione di pagamento o di banca del tempo?</value>
+  </data>
+  <data name="SchConvTypeSummary" xml:space="preserve">
+    <value>Tipo di conversazione</value>
+  </data>
+  <data name="SchEmptyMess" xml:space="preserve">
+    <value>Non è possibile inviare messaggi vuoti</value>
+  </data>
+  <data name="SchLangQuest" xml:space="preserve">
+    <value>In quale lingua vuoi parlare con {0}?</value>
+  </data>
+  <data name="SchMessDesc" xml:space="preserve">
+    <value>Per esempio, ti puoi offrire a praticare altre lingue, o chiedere per il suo tasso di pagamento per i colloqui</value>
+  </data>
+  <data name="SchUndefined" xml:space="preserve">
+    <value>Senza definire </value>
+  </data>
+  <data name="SchWhenQuest" xml:space="preserve">
+    <value>Quando vuoi avere la conversazione?</value>
+  </data>
+  <data name="SchWillNotify" xml:space="preserve">
+    <value>In ogni caso, si riceverà una notifica quando {{:NativeName}} renda pubblica la loro disponibilità</value>
+  </data>
+</root>

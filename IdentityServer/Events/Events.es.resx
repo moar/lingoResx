@@ -127,7 +127,7 @@
     <value>Error de Inicio de Sesión Externo</value>
   </data>
   <data name="ExternalLoginFailure" xml:space="preserve">
-    <value>Fallo en Inicio de Sesión externo</value>
+    <value>Fallo en Inicio de Sesión Externo</value>
   </data>
   <data name="ExternalLoginSuccess" xml:space="preserve">
     <value>Inicio de Sesión Externo exitoso</value>

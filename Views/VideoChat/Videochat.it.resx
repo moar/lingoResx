@@ -156,6 +156,9 @@
   <data name="IsBusy" xml:space="preserve">
     <value>{0} è occupato</value>
   </data>
+  <data name="LeaveCall" xml:space="preserve">
+    <value>Appendere la telefonata</value>
+  </data>
   <data name="LoadingLocal" xml:space="preserve">
     <value>Caricamento video locale</value>
   </data>

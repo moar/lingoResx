@@ -121,7 +121,16 @@
   
   
   
+  <data name="AccountDeactivated" xml:space="preserve">
+    <value>El teu compte  ha estat desactivat. Vols activar-lo de nou?  Accedeix altre còp </value>
+  </data>
+  <data name="ConfirmAddress" xml:space="preserve">
+    <value>Has de confirmar la vostra adreça email. ¡Fes un cop d'ull al teu correu!</value>
+  </data>
   <data name="ReactivationUnsuccesful" xml:space="preserve">
     <value>No s'ha pogut reactivar el compte. Si us plau, contacta amb l'equip de suport de Langademy (contact@langademy.com) des del compte de correu que estàs intentant activar</value>
+  </data>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>Usuari no trobat</value>
   </data>
 </root>

@@ -117,4 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="GoToRequest" xml:space="preserve">
+    <value>Anar a la sol·licitud</value>
+  </data>
+  <data name="ReqConversation" xml:space="preserve">
+    <value>Demanar una conversa</value>
+  </data>
+  <data name="SchAddLang" xml:space="preserve">
+    <value>Si vols enviar una sol·licitud per practicar {0} has de incloure l'idioma en el teu perfil</value>
+  </data>
+  <data name="SchBothLegend" xml:space="preserve">
+    <value>disponible per conversa de pagament i de banc de temps</value>
+  </data>
+  <data name="SchCheckMail" xml:space="preserve">
+    <value>Vull rebre un correu electrònic si {0} accepta la meva sol·licitud</value>
+  </data>
+  <data name="SchCondDurSummary" xml:space="preserve">
+    <value>Durada de la conversa</value>
+  </data>
+  <data name="SchConfirmReq" xml:space="preserve">
+    <value>Confirma la teva sol·licitud</value>
+  </data>
+  <data name="SchConvDateSummary" xml:space="preserve">
+    <value>Data de la conversa</value>
+  </data>
+  <data name="SchConvLangSummary" xml:space="preserve">
+    <value>Idioma de la conversa</value>
+  </data>
+  <data name="SchConvTypeQuest" xml:space="preserve">
+    <value>Vols una conversa de pagament, o del banc de temps?</value>
+  </data>
+  <data name="SchConvTypeSummary" xml:space="preserve">
+    <value>Tipus de conversa</value>
+  </data>
+  <data name="SchEmptyMess" xml:space="preserve">
+    <value>No pots enviar missatges buits</value>
+  </data>
+  <data name="SchLangQuest" xml:space="preserve">
+    <value>En quin idioma vols parlar amb {0}?</value>
+  </data>
+  <data name="SchMessDesc" xml:space="preserve">
+    <value>Per exemple, podries oferir-te a practicar altres idiomes, o preguntar-li per la seva tarifa per converses de pagament</value>
+  </data>
+  <data name="SchUndefined" xml:space="preserve">
+    <value>Sense definir</value>
+  </data>
+  <data name="SchWhenQuest" xml:space="preserve">
+    <value>Per a quan vols tenir la conversa?</value>
+  </data>
+  <data name="SchWillNotify" xml:space="preserve">
+    <value>En qualsevol cas, rebràs una notificació quan {{: NativeName}} faci pública la seva disponibilitat</value>
+  </data>
+</root>

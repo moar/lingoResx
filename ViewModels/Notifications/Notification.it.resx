@@ -135,4 +135,22 @@
   <data name="NewMissedCall" xml:space="preserve">
     <value>Chiamata persa</value>
   </data>
+  <data name="PrivateConversationAccepted" xml:space="preserve">
+    <value>ha accettato la tua richiesta a praticare {0}</value>
+  </data>
+  <data name="PrivateConversationRequest" xml:space="preserve">
+    <value> vuole praticare {0} con te</value>
+  </data>
+  <data name="PrivateConversationRequestRejected" xml:space="preserve">
+    <value>Non ha accettato la richiesta per conversare</value>
+  </data>
+  <data name="PrivateMeetupCancelled" xml:space="preserve">
+    <value>ha cancellato la tua conversazione privata</value>
+  </data>
+  <data name="PrivateRequestCancelled" xml:space="preserve">
+    <value>ha cancellato la tua richiesta</value>
+  </data>
+  <data name="PrivateRequestMessage" xml:space="preserve">
+    <value>ti ha inviato un messaggio</value>
+  </data>
 </root>
