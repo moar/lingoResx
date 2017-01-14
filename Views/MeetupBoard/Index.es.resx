@@ -367,7 +367,7 @@
     <value>Cargando...</value>
   </data>
   <data name="ConvReqs" xml:space="preserve">
-    <value>Solicitudes para conversar</value>
+    <value>Solicitudes conversación</value>
   </data>
   <data name="EditAvFillCalendar" xml:space="preserve">
     <value>Rellena en tu calendario las horas a las que estarás libre para hablar en tu idioma nativo</value>
