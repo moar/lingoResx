@@ -589,8 +589,11 @@
     <EmbeddedResource Include="IdentityServer\Messages\Messages.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Messages.es.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="IdentityServer\Messages\Messages.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="IdentityServer\Messages\Messages.fr.resx" />
     <EmbeddedResource Include="IdentityServer\Messages\Messages.it.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -599,6 +602,7 @@
     <EmbeddedResource Include="IdentityServer\Messages\Messages.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Messages.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="IdentityServer\Scopes\Scopes.ca.resx" />
     <EmbeddedResource Include="IdentityServer\Scopes\Scopes.de.resx" />
