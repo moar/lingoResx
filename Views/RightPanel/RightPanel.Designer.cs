@@ -277,7 +277,7 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You haven&apos;t scheduled private conversations with anyone.
+        ///   Looks up a localized string similar to You haven&apos;t scheduled any private conversations.
         /// </summary>
         public static string RPNoMeetupPartners {
             get {

@@ -226,7 +226,7 @@
     <value>Wallet rooms</value>
   </data>
   <data name="RPNoMeetupPartners" xml:space="preserve">
-    <value>You haven't scheduled private conversations with anyone</value>
+    <value>You haven't scheduled any private conversations</value>
   </data>
   <data name="RpNoOnlineContacts" xml:space="preserve">
     <value>Non of your contacts is online right now</value>
