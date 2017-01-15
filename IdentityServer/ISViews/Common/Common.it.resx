@@ -168,8 +168,23 @@
   <data name="logout-title" xml:space="preserve">
     <value>Esci</value>
   </data>
+  <data name="logout-info" xml:space="preserve">
+    <value>Hai chiuso la sessione</value>
+  </data>
   <data name="logout-click" xml:space="preserve">
     <value>Click</value>
+  </data>
+  <data name="logout-here" xml:space="preserve">
+    <value>qui</value>
+  </data>
+  <data name="logout-return" xml:space="preserve">
+    <value>per tornare al</value>
+  </data>
+  <data name="logout-application" xml:space="preserve">
+    <value>applicazione</value>
+  </data>
+  <data name="logout-from" xml:space="preserve">
+    <value>Volete disconnettere da</value>
   </data>
   <data name="logout-from2" xml:space="preserve">
     <value>?</value>

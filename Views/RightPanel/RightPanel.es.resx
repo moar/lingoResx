@@ -226,7 +226,7 @@
     <value>Salas Wallet</value>
   </data>
   <data name="RPNoMeetupPartners" xml:space="preserve">
-    <value>No has organizado ninguna conversación privada con nadie</value>
+    <value>No has organizado ninguna conversación privada</value>
   </data>
   <data name="RpNoOnlineContacts" xml:space="preserve">
     <value>Ninguno de tus contactos está online ahora</value>

@@ -157,6 +157,6 @@
     <value> Resource Owner Password Flow Login non riuscito</value>
   </data>
   <data name="ResourceOwnerFlowLoginSuccess" xml:space="preserve">
-    <value>Successo per il Flusso Resource Owner Password</value>
+    <value>Resource Owner Password Flow Login Success</value>
   </data>
 </root>

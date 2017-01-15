@@ -160,7 +160,7 @@
     <value>El servidor de autorización no soporta el tipo de respuesta solicitado.</value>
   </data>
   <data name="UsernameRequired" xml:space="preserve">
-    <value>Tienes que introducir nu nombre de usuario</value>
+    <value>Tienes que introducir tu nombre de usuario</value>
   </data>
   <data name="NoSignInCookie" xml:space="preserve">
     <value>Ha ocurrido un error determinado en la aplicación que estás intentando iniciar sesión. Regresa a la aplicación e inténtalo nuevamente.</value>

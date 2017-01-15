@@ -159,8 +159,50 @@
   <data name="SchMessDesc" xml:space="preserve">
     <value>Per exemple, podries oferir-te a practicar altres idiomes, o preguntar-li per la seva tarifa per converses de pagament</value>
   </data>
+  <data name="SchMessMaxLengh" xml:space="preserve">
+    <value>El missatge no pot tenir més de {1} caràcters</value>
+  </data>
+  <data name="SchMessPH" xml:space="preserve">
+    <value>Longitud màxima: 280 caràcters</value>
+  </data>
+  <data name="SchMessQuest" xml:space="preserve">
+    <value>Vols enviar-li un missatge a {0}?</value>
+  </data>
+  <data name="SchNoAvailable" xml:space="preserve">
+    <value>{{: NativeName}} no està disponible aquesta setmana. Pots mirar altres setmanes</value>
+  </data>
+  <data name="SchPaidConv" xml:space="preserve">
+    <value>Conversa de pagament</value>
+  </data>
+  <data name="SchReqConv" xml:space="preserve">
+    <value>Demana una conversa</value>
+  </data>
+  <data name="SchSelectDateVal" xml:space="preserve">
+    <value>Selecciona la data i hora de la conversa en el calendari</value>
+  </data>
+  <data name="SchSelectLangVal" xml:space="preserve">
+    <value>Selecciona l'idioma de la conversa</value>
+  </data>
   <data name="SchUndefined" xml:space="preserve">
     <value>Sense definir</value>
+  </data>
+  <data name="SchUnselected" xml:space="preserve">
+    <value>Sense seleccionar</value>
+  </data>
+  <data name="SchWalletInfo1" xml:space="preserve">
+    <value>La tarifa d'avui és només informativa. Abans de començar la videotrucada amb {0} pots decidir cancel·lar-la en cas que no estiguis d'acord amb la seva tarifa final</value>
+  </data>
+  <data name="SchWalletInfo2" xml:space="preserve">
+    <value>Només pagaràs per la durada exacta de la videotrucada, i si la cancel·leu durant els primers 3 minuts no et cobrarà</value>
+  </data>
+  <data name="SchWalletLegend" xml:space="preserve">
+    <value>disponible per converses de pagament</value>
+  </data>
+  <data name="SchWantNotify" xml:space="preserve">
+    <value>Vols rebre una notificació quan {{: NativeName}} faci pública la seva disponibilitat?</value>
+  </data>
+  <data name="SchWhenDesc" xml:space="preserve">
+    <value>Selecciona la data, hora i durada de la conversa clicant i arrossegant sobre qualsevol de les franges disponibles al calendari (Temps màxim: 2 hores)</value>
   </data>
   <data name="SchWhenQuest" xml:space="preserve">
     <value>Per a quan vols tenir la conversa?</value>

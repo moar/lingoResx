@@ -162,6 +162,9 @@
   <data name="PasswordRecovery" xml:space="preserve">
     <value>Recupera la tua password</value>
   </data>
+  <data name="PublicMeetupAlert" xml:space="preserve">
+    <value>Preavviso: Oggi hai un appuntamento</value>
+  </data>
   <data name="VisitReminder" xml:space="preserve">
     <value>Ci manchi!</value>
   </data>

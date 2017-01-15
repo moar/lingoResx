@@ -115,11 +115,23 @@
   <data name="logout-title" xml:space="preserve">
     <value>Esci</value>
   </data> 
+  <data name="logout-info" xml:space="preserve">
+    <value>Ora sei disconnesso</value>
+  </data> 
   <data name="logout-click" xml:space="preserve">
     <value>Clicca</value>
   </data> 
   <data name="logout-here" xml:space="preserve">
     <value>qui</value>
+  </data> 
+  <data name="logout-return" xml:space="preserve">
+    <value>per tornare al</value>
+  </data> 
+  <data name="logout-application" xml:space="preserve">
+    <value>applicazione</value>
+  </data> 
+  <data name="logout-from" xml:space="preserve">
+    <value>Vuoi chiudere la sessione di</value>
   </data> 
   <data name="logout-from2" xml:space="preserve">
     <value>?</value>
@@ -127,7 +139,28 @@
   <data name="logout-yes" xml:space="preserve">
     <value>Sì</value>
   </data> 
+  <data name="consent-request" xml:space="preserve">
+    <value>sta chiedendo il tuo permesso</value>
+  </data> 
+  <data name="consent-uncheck" xml:space="preserve">
+    <value>Disabilitare i permessi che non vuuoi concedere</value>
+  </data> 
   <data name="consent-personalInformation" xml:space="preserve">
     <value>dati personali</value>
+  </data> 
+  <data name="permissions-nonGranted" xml:space="preserve">
+    <value>Non hai dato il permesso per qualsiasi applicazione.</value>
+  </data> 
+  <data name="permissions-resource" xml:space="preserve">
+    <value>Autorizzazioni per le risorse</value>
+  </data> 
+  <data name="permissions-revoke" xml:space="preserve">
+    <value>Revocare</value>
+  </data> 
+  <data name="form-submit" xml:space="preserve">
+    <value>Inviare questo modulo</value>
+  </data> 
+  <data name="signoutframe-signout" xml:space="preserve">
+    <value>Esci</value>
   </data>
 </root>

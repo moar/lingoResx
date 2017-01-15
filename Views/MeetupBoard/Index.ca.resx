@@ -447,4 +447,22 @@
   <data name="StudentReqRateOnRequest" xml:space="preserve">
     <value>Tarifa en la data de sol·licitud</value>
   </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>Rebutjar</value>
+  </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Rebutjat</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Sol·licitud per a</value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Converda de Banc de Temps</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Conversa Wallet</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Escriu el teu missatge</value>
+  </data>
 </root>

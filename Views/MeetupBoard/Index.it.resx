@@ -448,4 +448,19 @@
   <data name="StudentReqRateOnRequest" xml:space="preserve">
     <value>Tasso nella data di richiesta</value>
   </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>rifiutare</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Richiesta per </value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Conversazione Banca del Tempo</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Conversazione Wallet</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Scrivi il tuo messaggio</value>
+  </data>
 </root>

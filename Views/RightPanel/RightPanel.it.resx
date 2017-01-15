@@ -225,4 +225,13 @@
   <data name="WalletRooms" xml:space="preserve">
     <value>Wallet rooms</value>
   </data>
+  <data name="RPNoMeetupPartners" xml:space="preserve">
+    <value>Non hai organizzato nessuna conversazione privata con nessuno.</value>
+  </data>
+  <data name="RpNoOnlineContacts" xml:space="preserve">
+    <value>Nessuno dei tuoi contatti è in linea</value>
+  </data>
+  <data name="RPNoRecentCalls" xml:space="preserve">
+    <value>Non c'e cronologia di chiamate</value>
+  </data>
 </root>

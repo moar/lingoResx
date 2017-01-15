@@ -159,4 +159,19 @@
   <data name="unsupported_response_type" xml:space="preserve">
     <value>El servidor d'autorització no suporta el tipus de resposta sol·licitat.</value>
   </data>
+  <data name="UsernameRequired" xml:space="preserve">
+    <value>El nom d'usuari es obligatori</value>
+  </data>
+  <data name="NoSignInCookie" xml:space="preserve">
+    <value>Hi ha hagut un error determinat en l'aplicació que estàs intentant iniciar sessió. Torna a l'aplicació i intenta-ho de nou.</value>
+  </data>
+  <data name="NoExternalProvider" xml:space="preserve">
+    <value>El proveïdor extern no va ser proporcionat.</value>
+  </data>
+  <data name="ExternalProviderError" xml:space="preserve">
+    <value>Hi ha hagut un error a l'iniciar sessió al proveïdor extern. El missatge d'error és: {0}</value>
+  </data>
+  <data name="invalid_request" xml:space="preserve">
+    <value>L'aplicació client ha realitzat una sol·licitud invàlida</value>
+  </data>
 </root>

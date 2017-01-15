@@ -159,8 +159,50 @@
   <data name="SchMessDesc" xml:space="preserve">
     <value>Per esempio, ti puoi offrire a praticare altre lingue, o chiedere per il suo tasso di pagamento per i colloqui</value>
   </data>
+  <data name="SchMessMaxLengh" xml:space="preserve">
+    <value>Il messaggio non può superare {1} caratteri</value>
+  </data>
+  <data name="SchMessPH" xml:space="preserve">
+    <value>Lunghezza massima: 280 caratteri</value>
+  </data>
+  <data name="SchMessQuest" xml:space="preserve">
+    <value>Vuoi inviare un messaggio a {0}?</value>
+  </data>
+  <data name="SchNoAvailable" xml:space="preserve">
+    <value>{{: NativeName}} non è disponibile questa settimana. Potete guardare altre settimane</value>
+  </data>
+  <data name="SchPaidConv" xml:space="preserve">
+    <value>Conversazione pagamento</value>
+  </data>
+  <data name="SchReqConv" xml:space="preserve">
+    <value>Richiedi una conversazione</value>
+  </data>
+  <data name="SchSelectDateVal" xml:space="preserve">
+    <value>Seleziona la data e l'ora della conversazione sul calendario</value>
+  </data>
+  <data name="SchSelectLangVal" xml:space="preserve">
+    <value>Selezionare la lingua della conversazione</value>
+  </data>
   <data name="SchUndefined" xml:space="preserve">
     <value>Senza definire </value>
+  </data>
+  <data name="SchUnselected" xml:space="preserve">
+    <value>Non selezionato</value>
+  </data>
+  <data name="SchWalletInfo1" xml:space="preserve">
+    <value>Il tasso di oggi è solo informativo. Prima di iniziare la videochiamata con {0} si può decidere di annullare, se non sei d'accordo con il tasso finale</value>
+  </data>
+  <data name="SchWalletInfo2" xml:space="preserve">
+    <value>Si paga solo per la durata esatta della chiamata video, e in caso di cancellazione entro i primi 3 minuti non si caricherà</value>
+  </data>
+  <data name="SchWalletLegend" xml:space="preserve">
+    <value>disponibile per conversazioni a pagamento</value>
+  </data>
+  <data name="SchWantNotify" xml:space="preserve">
+    <value>Vuoi ricevere una notifica quando {{: NativeName}}  renda pubblica sua disponibilità?</value>
+  </data>
+  <data name="SchWhenDesc" xml:space="preserve">
+    <value>Seleziona la data, l'ora e la durata della conversazione cliccando e trascinando su uno qualsiasi dei posti disponibili nel calendario (Tempo massimo: 2 ore)</value>
   </data>
   <data name="SchWhenQuest" xml:space="preserve">
     <value>Quando vuoi avere la conversazione?</value>

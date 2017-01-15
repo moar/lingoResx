@@ -168,8 +168,23 @@
   <data name="logout-title" xml:space="preserve">
     <value>Tancar sessió</value>
   </data>
+  <data name="logout-info" xml:space="preserve">
+    <value>Has tancat la teva sessió</value>
+  </data>
   <data name="logout-click" xml:space="preserve">
     <value>Clic</value>
+  </data>
+  <data name="logout-here" xml:space="preserve">
+    <value>aquí</value>
+  </data>
+  <data name="logout-return" xml:space="preserve">
+    <value>per tornar a la</value>
+  </data>
+  <data name="logout-application" xml:space="preserve">
+    <value>aplicació</value>
+  </data>
+  <data name="logout-from" xml:space="preserve">
+    <value>T'agradaria desconnectar de</value>
   </data>
   <data name="logout-from2" xml:space="preserve">
     <value>?</value>

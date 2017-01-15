@@ -160,16 +160,16 @@
     <value>Il server di autorizzazione non supporta il tipo di risposta richiesta.</value>
   </data>
   <data name="UsernameRequired" xml:space="preserve">
-    <value>Il nome utente è richiesto</value>
+    <value>Nome Utente è obbligatorio</value>
   </data>
   <data name="NoSignInCookie" xml:space="preserve">
-    <value>Si è verificato un errore durante la determinazione dell'applicazione per la quale si sta effettuando l'accesso. Fai ritorno all'applicazione e tenta di nuovo.</value>
+    <value>Un certo errore si è verificato nell'applicazione che si sta tentando di accedere. Ritorna all'applicazione e riprova.</value>
   </data>
   <data name="NoExternalProvider" xml:space="preserve">
-    <value>Non è stato fornito il fornitore del login esterno.</value>
+    <value>Il login externo non è stato fornito.</value>
   </data>
   <data name="ExternalProviderError" xml:space="preserve">
-    <value>Si è verificato un errore durante il login tramite il fornitore esterno. Il messaggio di errore è: {0}</value>
+    <value>Si è verificato un errore durante il login esterno. Il messaggio di errore è: {0}</value>
   </data>
   <data name="invalid_request" xml:space="preserve">
     <value>L'applicazione client ha effettuato una richiesta non valida.</value>

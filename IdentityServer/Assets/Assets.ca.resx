@@ -115,11 +115,23 @@
   <data name="logout-title" xml:space="preserve">
     <value>Tanca sessió</value>
   </data> 
+  <data name="logout-info" xml:space="preserve">
+    <value>Has tancat la teva sessió</value>
+  </data> 
   <data name="logout-click" xml:space="preserve">
     <value>Clica</value>
   </data> 
   <data name="logout-here" xml:space="preserve">
     <value>aquí</value>
+  </data> 
+  <data name="logout-return" xml:space="preserve">
+    <value>per tornar a la</value>
+  </data> 
+  <data name="logout-application" xml:space="preserve">
+    <value>aplicació</value>
+  </data> 
+  <data name="logout-from" xml:space="preserve">
+    <value>Vols tancar la sessió de</value>
   </data> 
   <data name="logout-from2" xml:space="preserve">
     <value>?</value>
@@ -127,7 +139,28 @@
   <data name="logout-yes" xml:space="preserve">
     <value>Si</value>
   </data> 
+  <data name="consent-request" xml:space="preserve">
+    <value>està sol·licitant el teu permís</value>
+  </data> 
+  <data name="consent-uncheck" xml:space="preserve">
+    <value>Desactiva els permisos que no vols concedir</value>
+  </data> 
   <data name="consent-personalInformation" xml:space="preserve">
     <value>Informació personal</value>
+  </data> 
+  <data name="permissions-nonGranted" xml:space="preserve">
+    <value>No has donat permís a cap aplicació.</value>
+  </data> 
+  <data name="permissions-resource" xml:space="preserve">
+    <value>Permisos de recursos</value>
+  </data> 
+  <data name="permissions-revoke" xml:space="preserve">
+    <value>Revocar</value>
+  </data> 
+  <data name="form-submit" xml:space="preserve">
+    <value>Enviar aquest formulari</value>
+  </data> 
+  <data name="signoutframe-signout" xml:space="preserve">
+    <value>Tancar sessió</value>
   </data>
 </root>

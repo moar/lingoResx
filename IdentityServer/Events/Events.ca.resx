@@ -156,4 +156,7 @@
   <data name="ResourceOwnerFlowLoginFailure" xml:space="preserve">
     <value>Resource Owner Password Flow Login Fallit</value>
   </data>
+  <data name="ResourceOwnerFlowLoginSuccess" xml:space="preserve">
+    <value>Resource Owner Password Flow Login Exitós</value>
+  </data>
 </root>
