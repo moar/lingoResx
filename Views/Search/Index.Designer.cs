@@ -61,7 +61,7 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language filter.
+        ///   Looks up a localized string similar to Filter.
         /// </summary>
         public static string SearchFilter {
             get {
