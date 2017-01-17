@@ -148,8 +148,26 @@
   <data name="consent-personalInformation" xml:space="preserve">
     <value>dati personali</value>
   </data> 
+  <data name="consent-applicationAccess" xml:space="preserve">
+    <value>Accesso all'applicazione</value>
+  </data> 
+  <data name="consent-required" xml:space="preserve">
+    <value>(Obbligatorio)</value>
+  </data> 
+  <data name="consent-rememberDecision" xml:space="preserve">
+    <value>Ricorda la mia decisione</value>
+  </data> 
+  <data name="consent-allow" xml:space="preserve">
+    <value>Sì, Consenti</value>
+  </data> 
+  <data name="consent-disallow" xml:space="preserve">
+    <value>Rifiutare</value>
+  </data> 
+  <data name="permissions-client" xml:space="preserve">
+    <value>Autorizzazioni applicazione client</value>
+  </data> 
   <data name="permissions-nonGranted" xml:space="preserve">
-    <value>Non hai dato il permesso per qualsiasi applicazione.</value>
+    <value>Non hai dato permesso per nessuna applicazione</value>
   </data> 
   <data name="permissions-resource" xml:space="preserve">
     <value>Autorizzazioni per le risorse</value>

@@ -463,4 +463,31 @@
   <data name="StudentReqWriteMessage" xml:space="preserve">
     <value>Scrivi il tuo messaggio</value>
   </data>
+  <data name="AcceptToConfirm" xml:space="preserve">
+    <value>Se vuoi parlare di {0} fate clic su Accettare per confermare la partecipazione </value>
+  </data>
+  <data name="ConversationFinallyCanceled" xml:space="preserve">
+    <value>Oops ... sembra che {0} alla fine annullato questa richiesta di conversazione</value>
+  </data>
+  <data name="MeetupFinallyCanceled" xml:space="preserve">
+    <value>Oops ... sembra che {0} alla fine annullato appuntamento</value>
+  </data>
+  <data name="NoRequestMessages" xml:space="preserve">
+    <value>Non ci sono messaggi in questa richiesta di conversazione</value>
+  </data>
+  <data name="PracticeRequest" xml:space="preserve">
+    <value>{0} vuole praticare {1} con te</value>
+  </data>
+  <data name="PracticeRequested" xml:space="preserve">
+    <value>{0} ha voluto praticare {1} con te</value>
+  </data>
+  <data name="SameTimeRequests" xml:space="preserve">
+    <value>Hai ricevuto {0} richieste di conversazione per a parlare allo stesso tempo. Controlla le richieste di amicizia nella casella di posta</value>
+  </data>
+  <data name="VideoCallMessage" xml:space="preserve">
+    <value>Bene!Hai una conversazione con {0} .Resta attento a Langademy e non perdere la conversazione. Puntuale! :)</value>
+  </data>
+  <data name="YouConversationRejected" xml:space="preserve">
+    <value>Hai disattivato la conversazione con {0}</value>
+  </data>
 </root>

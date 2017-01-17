@@ -183,6 +183,30 @@
   <data name="SchSelectLangVal" xml:space="preserve">
     <value>Selecciona l'idioma de la conversa</value>
   </data>
+  <data name="SchSimulConv" xml:space="preserve">
+    <value>Tens una altra conversa a la mateixa hora</value>
+  </data>
+  <data name="SchSimulReqs" xml:space="preserve">
+    <value>Tens una altra sol·licitud pendent de contestació per a la mateixa hora</value>
+  </data>
+  <data name="SchSimulReqsMax" xml:space="preserve">
+    <value>No pots tenir més de {0} sol·licituds pendents de contestació</value>
+  </data>
+  <data name="SchStepsTitle" xml:space="preserve">
+    <value>Segueix aquests passos per fer la teva reserva</value>
+  </data>
+  <data name="SchSubmitReq" xml:space="preserve">
+    <value>Enviar sol·licitud</value>
+  </data>
+  <data name="SchTBConv" xml:space="preserve">
+    <value>Banc de Temps </value>
+  </data>
+  <data name="SchTBLegend" xml:space="preserve">
+    <value>disponible per banc de temps</value>
+  </data>
+  <data name="SchTodaysRate" xml:space="preserve">
+    <value>Tarifa d'avui</value>
+  </data>
   <data name="SchUndefined" xml:space="preserve">
     <value>Sense definir</value>
   </data>

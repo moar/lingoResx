@@ -183,6 +183,30 @@
   <data name="SchSelectLangVal" xml:space="preserve">
     <value>Selezionare la lingua della conversazione</value>
   </data>
+  <data name="SchSimulConv" xml:space="preserve">
+    <value>Hai un'altra conversazione allo stesso tempo</value>
+  </data>
+  <data name="SchSimulReqs" xml:space="preserve">
+    <value>Non si possono fare due richieste di conversazione per lo stesso tempo</value>
+  </data>
+  <data name="SchSimulReqsMax" xml:space="preserve">
+    <value>Non si può avere più di {0} richieste risposta in attesa</value>
+  </data>
+  <data name="SchStepsTitle" xml:space="preserve">
+    <value>Segue questi passi per fare la prenotazione</value>
+  </data>
+  <data name="SchSubmitReq" xml:space="preserve">
+    <value>Invia richiesta</value>
+  </data>
+  <data name="SchTBConv" xml:space="preserve">
+    <value>Banca del Tempo</value>
+  </data>
+  <data name="SchTBLegend" xml:space="preserve">
+    <value>disponibile per banca del tempo</value>
+  </data>
+  <data name="SchTodaysRate" xml:space="preserve">
+    <value>Tasso di oggi</value>
+  </data>
   <data name="SchUndefined" xml:space="preserve">
     <value>Senza definire </value>
   </data>
