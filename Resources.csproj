@@ -293,6 +293,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Contact.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\DesktopSummary\Summary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Summary.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Desktop\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -810,6 +815,10 @@
     <EmbeddedResource Include="Views\Contact\Contact.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Contact.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Summary.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.ca.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.de.resx" />
