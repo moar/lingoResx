@@ -192,6 +192,24 @@
   <data name="logout-yes" xml:space="preserve">
     <value>Si</value>
   </data>
+  <data name="permissions-client" xml:space="preserve">
+    <value>Permisos d'aplicació de client</value>
+  </data>
+  <data name="permissions-nonGranted" xml:space="preserve">
+    <value>No has donat permís a cap aplicació</value>
+  </data>
+  <data name="permissions-identity" xml:space="preserve">
+    <value>Permisos d' Identity</value>
+  </data>
+  <data name="permissions-resource" xml:space="preserve">
+    <value>Permisos de recursos</value>
+  </data>
+  <data name="permissions-revoke" xml:space="preserve">
+    <value>Revocar</value>
+  </data>
+  <data name="form-submit" xml:space="preserve">
+    <value>Enviar aquest formulari</value>
+  </data>
   <data name="signoutframe-signout" xml:space="preserve">
     <value>Sortir</value>
   </data>

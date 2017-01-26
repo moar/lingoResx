@@ -204,4 +204,7 @@
   <data name="AMNoPwTitle" xml:space="preserve">
     <value>Non hai ancora creato una password per l'account. Crea una password per l'account più sicuro</value>
   </data>
+  <data name="ManageAccount" xml:space="preserve">
+    <value>Gestire l'account Langademy</value>
+  </data>
 </root>

@@ -465,4 +465,31 @@
   <data name="StudentReqWriteMessage" xml:space="preserve">
     <value>Escriu el teu missatge</value>
   </data>
+  <data name="AcceptToConfirm" xml:space="preserve">
+    <value>Si vols parlar amb {0} clica Acceptar conversa per confirmar la teva assistència</value>
+  </data>
+  <data name="ConversationFinallyCanceled" xml:space="preserve">
+    <value>Ups ... sembla que {0} al final va cancel·lar aquesta sol·licitud de conversa</value>
+  </data>
+  <data name="MeetupFinallyCanceled" xml:space="preserve">
+    <value>Ups ... sembla que {0} al final va cancel·lar la quedada</value>
+  </data>
+  <data name="NoRequestMessages" xml:space="preserve">
+    <value>No hi ha missatges en aquesta sol·licitud de conversa</value>
+  </data>
+  <data name="PracticeRequest" xml:space="preserve">
+    <value>{0} vol practicar {1} amb tu</value>
+  </data>
+  <data name="PracticeRequested" xml:space="preserve">
+    <value>{0} volia practicar {1} amb tu</value>
+  </data>
+  <data name="SameTimeRequests" xml:space="preserve">
+    <value>Vas rebre {0} sol·licituds de conversa més per parlar a la mateixa hora. Revisa les teves sol·licituds d'amistat a la safata d'entrada</value>
+  </data>
+  <data name="VideoCallMessage" xml:space="preserve">
+    <value>Bé! {0} i tu aneu a tenir una conversa. Estigues atent a Langademy i no et perdis la conversa. ¡Es puntual!</value>
+  </data>
+  <data name="YouConversationRejected" xml:space="preserve">
+    <value>Refusar la conversa amb {0}</value>
+  </data>
 </root>
