@@ -88,6 +88,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add a new language.
+        /// </summary>
+        public static string AddLanguage {
+            get {
+                return ResourceManager.GetString("AddLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add one or more languages to your profile.
         /// </summary>
         public static string AddMoreLangs {
@@ -138,6 +147,24 @@ namespace Resources.Views.Desktop {
         public static string AutomatchExplananion {
             get {
                 return ResourceManager.GetString("AutomatchExplananion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to But credits.
+        /// </summary>
+        public static string BuyCredits {
+            get {
+                return ResourceManager.GetString("BuyCredits", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chage students.
+        /// </summary>
+        public static string ChargeStudents {
+            get {
+                return ResourceManager.GetString("ChargeStudents", resourceCulture);
             }
         }
         
@@ -439,6 +466,33 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Done.
+        /// </summary>
+        public static string Done {
+            get {
+                return ResourceManager.GetString("Done", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earn extra time.
+        /// </summary>
+        public static string EarnExtraTime {
+            get {
+                return ResourceManager.GetString("EarnExtraTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edit profile.
+        /// </summary>
+        public static string EditProfile {
+            get {
+                return ResourceManager.GetString("EditProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Edit Profile.
         /// </summary>
         public static string EditProfileDesk {
@@ -466,11 +520,65 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to I want to find conversation partners for free language exchanges. I will use my time as trade.
+        /// </summary>
+        public static string FindConvPartners {
+            get {
+                return ResourceManager.GetString("FindConvPartners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History.
+        /// </summary>
+        public static string History {
+            get {
+                return ResourceManager.GetString("History", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language partners.
+        /// </summary>
+        public static string LangPartners {
+            get {
+                return ResourceManager.GetString("LangPartners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language exchanges.
+        /// </summary>
+        public static string LanguageExchanges {
+            get {
+                return ResourceManager.GetString("LanguageExchanges", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Logout.
         /// </summary>
         public static string LogOut {
             get {
                 return ResourceManager.GetString("LogOut", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My next events.
+        /// </summary>
+        public static string MyNextEvents {
+            get {
+                return ResourceManager.GetString("MyNextEvents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There are no meetup proposals for the next days in any of your languages.
+        /// </summary>
+        public static string NoMeetupProposals {
+            get {
+                return ResourceManager.GetString("NoMeetupProposals", resourceCulture);
             }
         }
         
@@ -493,11 +601,101 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Pay to native speakers.
+        /// </summary>
+        public static string PayNatives {
+            get {
+                return ResourceManager.GetString("PayNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I want to pay forP conversations with native speakers. I don&apos;t have time for language exchanges.
+        /// </summary>
+        public static string PayNativesLong {
+            get {
+                return ResourceManager.GetString("PayNativesLong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do you plan to use Langademy?.
+        /// </summary>
+        public static string PlanningLangademy {
+            get {
+                return ResourceManager.GetString("PlanningLangademy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Propose a new one!.
+        /// </summary>
+        public static string ProposeMeetup {
+            get {
+                return ResourceManager.GetString("ProposeMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search.
+        /// </summary>
+        public static string Search {
+            get {
+                return ResourceManager.GetString("Search", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the languages you want to learn and/or you know.
+        /// </summary>
+        public static string SelectLanguages {
+            get {
+                return ResourceManager.GetString("SelectLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select one or more of these options and we will customize Langademy for you.
+        /// </summary>
+        public static string SelectOptions {
+            get {
+                return ResourceManager.GetString("SelectOptions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Settings.
         /// </summary>
         public static string Settings {
             get {
                 return ResourceManager.GetString("Settings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Show more.
+        /// </summary>
+        public static string ShowMore {
+            get {
+                return ResourceManager.GetString("ShowMore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Log in to see your agenda for today.
+        /// </summary>
+        public static string SignUpAgenda {
+            get {
+                return ResourceManager.GetString("SignUpAgenda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I want to speak with language students in my native language and earn money.
+        /// </summary>
+        public static string SpeakLangStudents {
+            get {
+                return ResourceManager.GetString("SpeakLangStudents", resourceCulture);
             }
         }
         
@@ -520,11 +718,47 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Time banking balance.
+        /// </summary>
+        public static string TimeBankingBalance {
+            get {
+                return ResourceManager.GetString("TimeBankingBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Today I&apos;ll speak in.
         /// </summary>
         public static string TodayLangs {
             get {
                 return ResourceManager.GetString("TodayLangs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upcoming meetups.
+        /// </summary>
+        public static string UpcomingMeetups {
+            get {
+                return ResourceManager.GetString("UpcomingMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update languages in your profile.
+        /// </summary>
+        public static string UpdateLanguages {
+            get {
+                return ResourceManager.GetString("UpdateLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vote your partners.
+        /// </summary>
+        public static string VotePartners {
+            get {
+                return ResourceManager.GetString("VotePartners", resourceCulture);
             }
         }
         
@@ -588,6 +822,15 @@ namespace Resources.Views.Desktop {
         public static string WalletTileStudentMovement {
             get {
                 return ResourceManager.GetString("WalletTileStudentMovement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Welcome to Langademy.
+        /// </summary>
+        public static string Welcome {
+            get {
+                return ResourceManager.GetString("Welcome", resourceCulture);
             }
         }
     }
