@@ -294,4 +294,61 @@
   <data name="DeskRoom" xml:space="preserve">
     <value>stanza</value>
   </data>
+  <data name="AddLanguage" xml:space="preserve">
+    <value>Aggiunge una nuova lingua</value>
+  </data>
+  <data name="BuyCredits" xml:space="preserve">
+    <value>Acquista crediti </value>
+  </data>
+  <data name="ChargeStudents" xml:space="preserve">
+    <value>Addebitare ai studenti</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>Fatto </value>
+  </data>
+  <data name="EarnExtraTime" xml:space="preserve">
+    <value>Guadagna tempo extra</value>
+  </data>
+  <data name="EditProfile" xml:space="preserve">
+    <value>Modifica profilo</value>
+  </data>
+  <data name="FindConvPartners" xml:space="preserve">
+    <value>Voglio trovare compagni per gli scambi linguistici. Userò il mio tempo come moneta di scambio</value>
+  </data>
+  <data name="History" xml:space="preserve">
+    <value>Cronologia</value>
+  </data>
+  <data name="LangPartners" xml:space="preserve">
+    <value>Compagni di scambio</value>
+  </data>
+  <data name="LanguageExchanges" xml:space="preserve">
+    <value>Scambi linguistici</value>
+  </data>
+  <data name="MyNextEvents" xml:space="preserve">
+    <value>Le mie prossime attività</value>
+  </data>
+  <data name="PayNatives" xml:space="preserve">
+    <value>Paga a i madrelingua</value>
+  </data>
+  <data name="PlanningLangademy" xml:space="preserve">
+    <value>Come vai a usare Langademy?</value>
+  </data>
+  <data name="ProposeMeetup" xml:space="preserve">
+    <value>Proponi uno nuovo!</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Cercare</value>
+  </data>
+  <data name="SelectLanguages" xml:space="preserve">
+    <value>Sceglie le lingue che conosci e / o vuoi imparare</value>
+  </data>
+  <data name="SelectOptions" xml:space="preserve">
+    <value>Sceglie una o più delle seguenti opzioni e adatteremo Langademy per te</value>
+  </data>
+  <data name="ShowMore" xml:space="preserve">
+    <value>Mostra più</value>
+  </data>
+  <data name="SignUpAgenda" xml:space="preserve">
+    <value>Accedi per vedere il tuo programma di oggi</value>
+  </data>
 </root>

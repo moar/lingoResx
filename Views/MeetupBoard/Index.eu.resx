@@ -465,4 +465,34 @@
   <data name="StudentReqWriteMessage" xml:space="preserve">
     <value>Idatzi zure mezua</value>
   </data>
+  <data name="AcceptToConfirm" xml:space="preserve">
+    <value>{0}-(r)ekin hitz egitea nahi baduzu Bilera onartun klika ezazu</value>
+  </data>
+  <data name="ConversationFinallyCanceled" xml:space="preserve">
+    <value>Ooopss...{0}-(e)k azkenean konbertsazio eskari hau bertan behera utzi zuela dirudi</value>
+  </data>
+  <data name="MeetupFinallyCanceled" xml:space="preserve">
+    <value>Ooopss...{0}-(e)k  bilera hau bertan behera utzi zuela dirudi</value>
+  </data>
+  <data name="NoRequestMessages" xml:space="preserve">
+    <value>Ez dago mezurik konbertsazio eskaera honetan</value>
+  </data>
+  <data name="PracticeRequest" xml:space="preserve">
+    <value>{0}-(e)k zurekin {1} praktikatzea nahi du</value>
+  </data>
+  <data name="PracticeRequested" xml:space="preserve">
+    <value>{0}-(e)k  zurekin {1} praktikatzea nahi zuen</value>
+  </data>
+  <data name="SameTimeRequests" xml:space="preserve">
+    <value>{0} konbertsazio eskaera gehiago jaso dituzu ordu berean hitz egiteko. Kontsulta itzazu zure konbertsazioak.</value>
+  </data>
+  <data name="VideoCallMessage" xml:space="preserve">
+    <value>Ederki! {0}-(e)k eta zuk bideo dei bat edukiko duzue. Adi egon eta ez ezazu konbertsazioa galdu. Orduan azaldu!</value>
+  </data>
+  <data name="YouConversationRejected" xml:space="preserve">
+    <value>Ez duzu {0}-(e)kin hitz egiteko eskaera onartu</value>
+  </data>
+  <data name="EditAvSelectTypeTouch" xml:space="preserve">
+    <value>Aukera ezazu Wallet deietarako, denbora bankuko deietarako edo bietarako eskaerak jasotzea nahi duzun. Sortu itzazu nahi beste zerrenda edo karratu, karratu bakoitzean klik luze bat eginez.</value>
+  </data>
 </root>

@@ -117,10 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Chat" xml:space="preserve">
-    <value>Chat</value>
+  <data name="DailySugs" xml:space="preserve">
+    <value>Sugerencias del día</value>
   </data>
-  <data name="My_evolution" xml:space="preserve">
-    <value>My evolution</value>
+  <data name="HelloUser" xml:space="preserve">
+    <value>Hola {0}, esta es tu agenda para hoy</value>
+  </data>
+  <data name="Meetups" xml:space="preserve">
+    <value>quedadas</value>
+  </data>
+  <data name="PrConvs" xml:space="preserve">
+    <value>conversaciones privadas</value>
+  </data>
+  <data name="ReqsRec" xml:space="preserve">
+    <value>solicitudes de conversación sin responder</value>
+  </data>
+  <data name="ReqsSent" xml:space="preserve">
+    <value>solicitudes de conversación respondidas</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Bienvenido a Langademy</value>
+  </data>
+  <data name="WithNatives" xml:space="preserve">
+    <value>Con hablantes nativos</value>
+  </data>
+  <data name="WithStudents" xml:space="preserve">
+    <value>Con estudiantes</value>
   </data>
 </root>

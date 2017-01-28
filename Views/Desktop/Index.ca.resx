@@ -294,4 +294,61 @@
   <data name="DeskRoom" xml:space="preserve">
     <value>sala</value>
   </data>
+  <data name="AddLanguage" xml:space="preserve">
+    <value>Afegeix un nou idioma</value>
+  </data>
+  <data name="BuyCredits" xml:space="preserve">
+    <value>Compra crèdits</value>
+  </data>
+  <data name="ChargeStudents" xml:space="preserve">
+    <value>Cobra als estudiants</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>Fet</value>
+  </data>
+  <data name="EarnExtraTime" xml:space="preserve">
+    <value>Guanya temps extra</value>
+  </data>
+  <data name="EditProfile" xml:space="preserve">
+    <value>Edita perfil</value>
+  </data>
+  <data name="FindConvPartners" xml:space="preserve">
+    <value>Vull cercar companys de conversa per a intercanvis lingüístics. Faré servir el meu temps com a moneda de canvi</value>
+  </data>
+  <data name="History" xml:space="preserve">
+    <value>Històric</value>
+  </data>
+  <data name="LangPartners" xml:space="preserve">
+    <value>Companys d'intercanvi</value>
+  </data>
+  <data name="LanguageExchanges" xml:space="preserve">
+    <value>Intercanvis d'idioma</value>
+  </data>
+  <data name="MyNextEvents" xml:space="preserve">
+    <value>Les meues properes activitats</value>
+  </data>
+  <data name="PayNatives" xml:space="preserve">
+    <value>Paga a parlants natius</value>
+  </data>
+  <data name="PlanningLangademy" xml:space="preserve">
+    <value>Com vas a utilitzar Langademy?</value>
+  </data>
+  <data name="ProposeMeetup" xml:space="preserve">
+    <value>Proposa una nova!</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Cercar</value>
+  </data>
+  <data name="SelectLanguages" xml:space="preserve">
+    <value>Selecciona els idiomes que saps i / o vols aprendre</value>
+  </data>
+  <data name="SelectOptions" xml:space="preserve">
+    <value>Selecciona una o més de les següents opcions i adaptarem Langademy per a tu</value>
+  </data>
+  <data name="ShowMore" xml:space="preserve">
+    <value>Mostra més</value>
+  </data>
+  <data name="SignUpAgenda" xml:space="preserve">
+    <value>Entra per veure la teva agenda d'avui</value>
+  </data>
 </root>
