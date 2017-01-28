@@ -259,6 +259,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Choose whether you want to receive requests for Wallet calls, Time banking calls or both and create as many stripes as you want directly on the calendar. Keep a slot pressed for a second when you want to create a new stripe..
+        /// </summary>
+        public static string EditAvSelectTypeTouch {
+            get {
+                return ResourceManager.GetString("EditAvSelectTypeTouch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Time banking.
         /// </summary>
         public static string EditAvTB {
@@ -1168,7 +1177,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cool! {0} and you are going to have a videocall. Stay tuned to Langademy and don&apos;t miss the meetup. Be on time!.
+        ///   Looks up a localized string similar to Cool! {0} and you are going to have a videocall. Stay tuned to Langademy and don&apos;t miss the conversation. Be on time!.
         /// </summary>
         public static string VideoCallMessage {
             get {

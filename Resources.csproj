@@ -1011,6 +1011,7 @@
     <EmbeddedResource Include="Views\MeetupBoard\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Messages\Inbox.ca.resx" />
     <EmbeddedResource Include="Views\Messages\Inbox.de.resx" />
@@ -1095,6 +1096,7 @@
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ScheduleRequest.es.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.eu.resx" />
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.fr.resx" />

@@ -394,6 +394,15 @@ namespace Resources.Views.ScheduleRequest {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select the date, time and duration of the conversation tapping (tap for a second) and dragging over any available slots at the agenda (Max time:2 hours).
+        /// </summary>
+        public static string SchWhenDescTouch {
+            get {
+                return ResourceManager.GetString("SchWhenDescTouch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to When do you want to have the conversation?.
         /// </summary>
         public static string SchWhenQuest {
