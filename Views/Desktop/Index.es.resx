@@ -319,13 +319,13 @@
     <value>Histórico</value>
   </data>
   <data name="LangPartners" xml:space="preserve">
-    <value>Compañeros de intercambio</value>
+    <value>Compañeros de conversación</value>
   </data>
   <data name="LanguageExchanges" xml:space="preserve">
     <value>Intercambios de idioma</value>
   </data>
   <data name="MyNextEvents" xml:space="preserve">
-    <value>Mis próximas actividades</value>
+    <value>Mis próximos eventos</value>
   </data>
   <data name="NoMeetupProposals" xml:space="preserve">
     <value>No se han organizado quedadas de tus idiomas para los próximos días</value>
