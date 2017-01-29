@@ -117,10 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Chat" xml:space="preserve">
-    <value>Chat</value>
+  <data name="DailySugs" xml:space="preserve">
+    <value>Eguneko iradokizunak</value>
   </data>
-  <data name="My_evolution" xml:space="preserve">
-    <value>My evolution</value>
+  <data name="HelloUser" xml:space="preserve">
+    <value>Kaixo {0}, hau da zuretzako gaurko agenda</value>
+  </data>
+  <data name="Meetups" xml:space="preserve">
+    <value>bilerak</value>
+  </data>
+  <data name="PrConvs" xml:space="preserve">
+    <value>konbertsazio pribatuak</value>
+  </data>
+  <data name="ReqsRec" xml:space="preserve">
+    <value>erantzun gabeko konbertsazio eskaerak</value>
+  </data>
+  <data name="ReqsSent" xml:space="preserve">
+    <value>erantzundako konbertsazio eskaerak</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Ongi etorri Langademyra</value>
+  </data>
+  <data name="WithNatives" xml:space="preserve">
+    <value>Mintzalagun natiboekin</value>
+  </data>
+  <data name="WithStudents" xml:space="preserve">
+    <value>Ikasleekin</value>
   </data>
 </root>

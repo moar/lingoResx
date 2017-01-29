@@ -492,4 +492,7 @@
   <data name="YouConversationRejected" xml:space="preserve">
     <value>Rechazaste la conversacion con {0}</value>
   </data>
+  <data name="EditAvSelectTypeTouch" xml:space="preserve">
+    <value>Elige si quieres recibir solicitudes para llamadas Wallet, llamadas Time banking o para cualquiera y crea tantas franjas como quieras directamente sobre el calendario. Pulsa durante un segundo en una franja vacia cuando quieras crear una nueva franja</value>
+  </data>
 </root>

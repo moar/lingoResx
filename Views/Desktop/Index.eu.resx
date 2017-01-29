@@ -294,4 +294,85 @@
   <data name="DeskRoom" xml:space="preserve">
     <value>gela</value>
   </data>
+  <data name="AddLanguage" xml:space="preserve">
+    <value>Gehitu</value>
+  </data>
+  <data name="BuyCredits" xml:space="preserve">
+    <value>Erosi kredituak</value>
+  </data>
+  <data name="ChargeStudents" xml:space="preserve">
+    <value>Ikasleei kobratu</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>Eginda</value>
+  </data>
+  <data name="EarnExtraTime" xml:space="preserve">
+    <value>Irabazi denbora gehiago</value>
+  </data>
+  <data name="EditProfile" xml:space="preserve">
+    <value>Profila editatu</value>
+  </data>
+  <data name="FindConvPartners" xml:space="preserve">
+    <value>Hizkuntza elkartrukeak egiteko mintzalagunak aurkitzea nahi dut. Nire denbora erabiliko dut ordaintzeko txanpon bezala</value>
+  </data>
+  <data name="History" xml:space="preserve">
+    <value>Historikoa</value>
+  </data>
+  <data name="LangPartners" xml:space="preserve">
+    <value>Mintzalagunak</value>
+  </data>
+  <data name="LanguageExchanges" xml:space="preserve">
+    <value>Hizkuntza elkartrukeak</value>
+  </data>
+  <data name="MyNextEvents" xml:space="preserve">
+    <value>Hurrengo gertaerak</value>
+  </data>
+  <data name="NoMeetupProposals" xml:space="preserve">
+    <value>Ez da bilerarik antolatu hurrengo egunetarako zure hizkuntzetan</value>
+  </data>
+  <data name="PayNatives" xml:space="preserve">
+    <value>Ordaindu hiztun natiboei</value>
+  </data>
+  <data name="PayNativesLong" xml:space="preserve">
+    <value>Hiztun natiboekin hitz egiteko ordaintzea nahi dut. Ez daukat hizkuntza elkartrukeetarako denborarik</value>
+  </data>
+  <data name="PlanningLangademy" xml:space="preserve">
+    <value>Nola nahi duzu Langademy erabiltzea?</value>
+  </data>
+  <data name="ProposeMeetup" xml:space="preserve">
+    <value>Proposatu beste bat!</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Bilatu</value>
+  </data>
+  <data name="SelectLanguages" xml:space="preserve">
+    <value>Aukeratu ikastea nahi dituzun edota dakizkizun hizkuntzak</value>
+  </data>
+  <data name="SelectOptions" xml:space="preserve">
+    <value>Aukera hauetako bat hautatu eta Langademy zuretzako prestatuko dugu</value>
+  </data>
+  <data name="ShowMore" xml:space="preserve">
+    <value>Erakutsi gehiago</value>
+  </data>
+  <data name="SignUpAgenda" xml:space="preserve">
+    <value>Hasi sesioa zure gaurko agenda ikusteko</value>
+  </data>
+  <data name="SpeakLangStudents" xml:space="preserve">
+    <value>Ikasleekin nire hizkuntza natiboekin hitz egin eta dirua irabaztea nahi dut</value>
+  </data>
+  <data name="TimeBankingBalance" xml:space="preserve">
+    <value>Denbora bankuko saldoa</value>
+  </data>
+  <data name="UpcomingMeetups" xml:space="preserve">
+    <value>Hurrengo bilerak</value>
+  </data>
+  <data name="UpdateLanguages" xml:space="preserve">
+    <value>Eguneratu zure profileko hizkuntzak</value>
+  </data>
+  <data name="VotePartners" xml:space="preserve">
+    <value>Eman botoa mintzalagunei</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Ongi etorri Langademyra</value>
+  </data>
 </root>

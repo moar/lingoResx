@@ -228,6 +228,9 @@
   <data name="SchWhenDesc" xml:space="preserve">
     <value>Aukeratu konbertsazioaren eguna, ordua eta iraupena libre dauden guneetan klik eginez eta ondoren gune hoiek arrastatuz (Gehienezko iraupena: 2 ordu)</value>
   </data>
+  <data name="SchWhenDescTouch" xml:space="preserve">
+    <value>Aukeratu konbertsazioaren eguna, ordua eta iraupena libre dauden guneetan klik luze bat eginez eta ondoren gune hoiek arrastatuz (Gehienezko iraupena: 2 ordu)</value>
+  </data>
   <data name="SchWhenQuest" xml:space="preserve">
     <value>Saioa itxi</value>
   </data>
