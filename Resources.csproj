@@ -1098,12 +1098,15 @@
       <LastGenOutput>ScheduleRequest.es.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.eu.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.fr.resx" />
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.it.resx" />
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ScheduleRequest.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Search\Index.ca.resx" />
     <EmbeddedResource Include="Views\Search\Index.de.resx" />

@@ -61,6 +61,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to language/{selectedCulture}/.
+        /// </summary>
+        public static string bloglanguage {
+            get {
+                return ResourceManager.GetString("bloglanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to conversation-exchange-meetups.
         /// </summary>
         public static string conversation_exchange_meetups {
@@ -133,7 +142,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to learn-languages.
+        ///   Looks up a localized string similar to learn-languages-online.
         /// </summary>
         public static string learn_languages {
             get {
