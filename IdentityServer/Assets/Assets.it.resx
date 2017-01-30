@@ -107,7 +107,7 @@
     <value>Login</value>
   </data> 
   <data name="login-external" xml:space="preserve">
-    <value>prezzi</value>
+    <value>External Login</value>
   </data> 
   <data name="login-different" xml:space="preserve">
     <value>Inserisci un account diverso</value>

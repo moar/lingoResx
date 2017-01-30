@@ -229,7 +229,7 @@
     <value>Selecciona la fecha, hora y duración de la conversación clicando y arrastrando sobre cualquiera de las franjas disponibles en el calendario (Tiempo máximo:2 horas)</value>
   </data>
   <data name="SchWhenDescTouch" xml:space="preserve">
-    <value>Elige la fecha, hora y duración de la conversación clicando (mantén el click durante un segundo) y arrasatrando sobre cualquier ranura disponible en la agenda (Tiempo máx: 2 horas)</value>
+    <value>Elige la fecha, hora y duración de la conversación clicando (mantén el click durante un segundo) y arrastrando sobre cualquier ranura disponible en la agenda (Tiempo máx: 2 horas)</value>
   </data>
   <data name="SchWhenQuest" xml:space="preserve">
     <value>¿Cuándo quieres tener la conversación?</value>

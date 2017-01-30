@@ -139,7 +139,7 @@
     <value>Conferma la tua richiesta</value>
   </data>
   <data name="SchConvDateSummary" xml:space="preserve">
-    <value>Data conversazione</value>
+    <value>Data della conversazione</value>
   </data>
   <data name="SchConvLangSummary" xml:space="preserve">
     <value> lingua della conversazione</value>
@@ -227,6 +227,9 @@
   </data>
   <data name="SchWhenDesc" xml:space="preserve">
     <value>Seleziona la data, l'ora e la durata della conversazione cliccando e trascinando su uno qualsiasi dei posti disponibili nel calendario (Tempo massimo: 2 ore)</value>
+  </data>
+  <data name="SchWhenDescTouch" xml:space="preserve">
+    <value>Seleziona la data, l'ora e la durata della conversazione facendo clic (tenere premuto il tasto per un secondo) e trascinando in qualsiasi slot disponibile nell'agenda (Max Tempo: 2 ore).</value>
   </data>
   <data name="SchWhenQuest" xml:space="preserve">
     <value>Quando vuoi avere la conversazione?</value>

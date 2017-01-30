@@ -492,4 +492,7 @@
   <data name="YouConversationRejected" xml:space="preserve">
     <value>Refusar la conversa amb {0}</value>
   </data>
+  <data name="EditAvSelectTypeTouch" xml:space="preserve">
+    <value>Tria si vols rebre sol·licituds per a trucades Wallet, trucades Banc del temps o per qualsevol i crea tantes franges com vulguis directament sobre el calendari. Prem durant un segon en una franja buida quan vulguis crear una nova franja</value>
+  </data>
 </root>
