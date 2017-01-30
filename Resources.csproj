@@ -820,14 +820,20 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Summary.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Desktop\Index.ca.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.de.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.es.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Desktop\Index.eu.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.fr.resx" />
-    <EmbeddedResource Include="Views\Desktop\Index.it.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
