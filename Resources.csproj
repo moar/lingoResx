@@ -820,14 +820,20 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Summary.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Desktop\Index.ca.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.de.resx" />
     <EmbeddedResource Include="Views\Desktop\Index.es.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Desktop\Index.eu.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.fr.resx" />
-    <EmbeddedResource Include="Views\Desktop\Index.it.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
@@ -1098,12 +1104,15 @@
       <LastGenOutput>ScheduleRequest.es.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.eu.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.fr.resx" />
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.it.resx" />
     <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ScheduleRequest.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Search\Index.ca.resx" />
     <EmbeddedResource Include="Views\Search\Index.de.resx" />

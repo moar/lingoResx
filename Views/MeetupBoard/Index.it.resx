@@ -451,6 +451,9 @@
   <data name="StudentReqReject" xml:space="preserve">
     <value>rifiutare</value>
   </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Rifiutato</value>
+  </data>
   <data name="StudentReqRequestFor" xml:space="preserve">
     <value>Richiesta per </value>
   </data>
@@ -489,5 +492,8 @@
   </data>
   <data name="YouConversationRejected" xml:space="preserve">
     <value>Hai disattivato la conversazione con {0}</value>
+  </data>
+  <data name="EditAvSelectTypeTouch" xml:space="preserve">
+    <value>Sceglie se vuoi ricevere le richieste per le chiamate Wallet, chiamate Banca del tempo e organizza tante celle come desideri sul calendario.Clicca per un secondo in una cella vuota quando desideri creare una nuova cella. </value>
   </data>
 </root>

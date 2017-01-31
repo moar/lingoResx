@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="bloglanguage" xml:space="preserve">
+    <value>lingua/{selectedCulture}/</value>
+  </data>
   <data name="conversation-exchange-meetups" xml:space="preserve">
     <value>appuntamenti-scambio-lingue</value>
   </data>
@@ -146,6 +149,9 @@
   </data>
   <data name="natives-how-to-start" xml:space="preserve">
     <value>aiuto/madrelingua-come-iniziare</value>
+  </data>
+  <data name="pricing" xml:space="preserve">
+    <value>prezzi</value>
   </data>
   <data name="time-banking-indroduction" xml:space="preserve">
     <value>aiuto/introduzione-banca-tempo</value>

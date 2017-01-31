@@ -319,7 +319,7 @@
     <value>Històric</value>
   </data>
   <data name="LangPartners" xml:space="preserve">
-    <value>Companys d'intercanvi</value>
+    <value>Companys de conversació</value>
   </data>
   <data name="LanguageExchanges" xml:space="preserve">
     <value>Intercanvis d'idioma</value>
@@ -327,8 +327,14 @@
   <data name="MyNextEvents" xml:space="preserve">
     <value>Les meues properes activitats</value>
   </data>
+  <data name="NoMeetupProposals" xml:space="preserve">
+    <value>No s'han organitzat quedades del teus idiomes per als pròxims dies</value>
+  </data>
   <data name="PayNatives" xml:space="preserve">
     <value>Paga a parlants natius</value>
+  </data>
+  <data name="PayNativesLong" xml:space="preserve">
+    <value>Vull pagar per converses amb parlants nadius. No tinc temps per a intercanvis d'idiomes</value>
   </data>
   <data name="PlanningLangademy" xml:space="preserve">
     <value>Com vas a utilitzar Langademy?</value>
@@ -350,5 +356,23 @@
   </data>
   <data name="SignUpAgenda" xml:space="preserve">
     <value>Entra per veure la teva agenda d'avui</value>
+  </data>
+  <data name="SpeakLangStudents" xml:space="preserve">
+    <value>Vull parlar amb estudiants en el meu idioma natiu i guanyar diners</value>
+  </data>
+  <data name="TimeBankingBalance" xml:space="preserve">
+    <value>Saldo al teu banc de temps</value>
+  </data>
+  <data name="UpcomingMeetups" xml:space="preserve">
+    <value>Pròximes quedades</value>
+  </data>
+  <data name="UpdateLanguages" xml:space="preserve">
+    <value>Actualitza els idiomes del teu perfil</value>
+  </data>
+  <data name="VotePartners" xml:space="preserve">
+    <value>Vota als teus companys</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Benvingut a Langademy</value>
   </data>
 </root>

@@ -319,7 +319,7 @@
     <value>Cronologia</value>
   </data>
   <data name="LangPartners" xml:space="preserve">
-    <value>Compagni di scambio</value>
+    <value>Compagni di converzazioni</value>
   </data>
   <data name="LanguageExchanges" xml:space="preserve">
     <value>Scambi linguistici</value>
@@ -327,8 +327,14 @@
   <data name="MyNextEvents" xml:space="preserve">
     <value>Le mie prossime attività</value>
   </data>
+  <data name="NoMeetupProposals" xml:space="preserve">
+    <value>Nos si è organizzato nessun appuntamento nelle tue lingue per i prossimi giorni </value>
+  </data>
   <data name="PayNatives" xml:space="preserve">
     <value>Paga a i madrelingua</value>
+  </data>
+  <data name="PayNativesLong" xml:space="preserve">
+    <value>Voglio pagare per conversazioni con madrelingua. Non ho tempo per scambi linguistici</value>
   </data>
   <data name="PlanningLangademy" xml:space="preserve">
     <value>Come vai a usare Langademy?</value>
@@ -350,5 +356,23 @@
   </data>
   <data name="SignUpAgenda" xml:space="preserve">
     <value>Accedi per vedere il tuo programma di oggi</value>
+  </data>
+  <data name="SpeakLangStudents" xml:space="preserve">
+    <value>Voglio parlare con gli studenti nella mia lingua madre e guadagnare soldi</value>
+  </data>
+  <data name="TimeBankingBalance" xml:space="preserve">
+    <value>Saldo banca del tempo</value>
+  </data>
+  <data name="UpcomingMeetups" xml:space="preserve">
+    <value>Prossimi appuntamento</value>
+  </data>
+  <data name="UpdateLanguages" xml:space="preserve">
+    <value>Aggiorna le tue lingue del tuo profilo</value>
+  </data>
+  <data name="VotePartners" xml:space="preserve">
+    <value>Vota i tuoi compagni</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Benvenuto a Langademy</value>
   </data>
 </root>

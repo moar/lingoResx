@@ -228,6 +228,9 @@
   <data name="SchWhenDesc" xml:space="preserve">
     <value>Selecciona la data, hora i durada de la conversa clicant i arrossegant sobre qualsevol de les franges disponibles al calendari (Temps màxim: 2 hores)</value>
   </data>
+  <data name="SchWhenDescTouch" xml:space="preserve">
+    <value>Tria la data, hora i durada de la conversa clicant (mantén el clic durant un segon) i arrossegant sobre qualsevol ranura disponible a l'agenda (Temps màx: 2 hores)</value>
+  </data>
   <data name="SchWhenQuest" xml:space="preserve">
     <value>Per a quan vols tenir la conversa?</value>
   </data>
