@@ -61,6 +61,15 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have to add at least one language you are learning.
+        /// </summary>
+        public static string AddStudLangError {
+            get {
+                return ResourceManager.GetString("AddStudLangError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Daily suggestions.
         /// </summary>
         public static string DailySugs {
@@ -111,6 +120,87 @@ namespace Resources.Views.DesktopSummary {
         public static string ReqsSent {
             get {
                 return ResourceManager.GetString("ReqsSent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You should complete your profile.
+        /// </summary>
+        public static string TipCompleteProf {
+            get {
+                return ResourceManager.GetString("TipCompleteProf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edit profile.
+        /// </summary>
+        public static string TipCompleteProfAux {
+            get {
+                return ResourceManager.GetString("TipCompleteProfAux", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Why?.
+        /// </summary>
+        public static string TipCompleteProfHelp {
+            get {
+                return ResourceManager.GetString("TipCompleteProfHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You need to set your availability for speaking in your native language. Otherwise students won&apos;t be able to request you private conversations.
+        /// </summary>
+        public static string TipEditAvailability {
+            get {
+                return ResourceManager.GetString("TipEditAvailability", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edit my availability.
+        /// </summary>
+        public static string TipEditAvailabilityAux {
+            get {
+                return ResourceManager.GetString("TipEditAvailabilityAux", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to set availability.
+        /// </summary>
+        public static string TipEditAvailabilityHelp {
+            get {
+                return ResourceManager.GetString("TipEditAvailabilityHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Before any student can pay you for private conversations you need to complete your billing address.
+        /// </summary>
+        public static string TipWalletNatBillingAddr {
+            get {
+                return ResourceManager.GetString("TipWalletNatBillingAddr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add billing address.
+        /// </summary>
+        public static string TipWalletNatBillingAddrAux {
+            get {
+                return ResourceManager.GetString("TipWalletNatBillingAddrAux", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check wallet conditions.
+        /// </summary>
+        public static string TipWalletNatBillingAddrHelp {
+            get {
+                return ResourceManager.GetString("TipWalletNatBillingAddrHelp", resourceCulture);
             }
         }
         

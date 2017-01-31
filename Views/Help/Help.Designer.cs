@@ -70,6 +70,15 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Langademy calendar.
+        /// </summary>
+        public static string HelpCalendarTitle {
+            get {
+                return ResourceManager.GetString("HelpCalendarTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Chat Rooms.
         /// </summary>
         public static string HelpChatRoom {
@@ -84,6 +93,42 @@ namespace Resources.Views.Help {
         public static string HelpCheckPrices {
             get {
                 return ResourceManager.GetString("HelpCheckPrices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The main reason to complete your profile is to help you contact with students easily and to ensure that you appear in search results. Completing your profile will attract more students&apos; attention and they will request you private conversations.
+        /// </summary>
+        public static string HelpCompleteProfile1 {
+            get {
+                return ResourceManager.GetString("HelpCompleteProfile1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can upload to your profile your photo and a cover photo. You should also include your gender, age and country, and a brief overview about you. .
+        /// </summary>
+        public static string HelpCompleteProfile2 {
+            get {
+                return ResourceManager.GetString("HelpCompleteProfile2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You must also add the languages you speak and/or learn. When you add a language you must set your level, meaning:.
+        /// </summary>
+        public static string HelpCompleteProfile3 {
+            get {
+                return ResourceManager.GetString("HelpCompleteProfile3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Why you should complete your profile.
+        /// </summary>
+        public static string HelpCompleteProfileTitle {
+            get {
+                return ResourceManager.GetString("HelpCompleteProfileTitle", resourceCulture);
             }
         }
         
@@ -250,11 +295,146 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Langademy profile.
+        /// </summary>
+        public static string HelpProfileTitle {
+            get {
+                return ResourceManager.GetString("HelpProfileTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Related articles.
         /// </summary>
         public static string HelpRelatedArticles {
             get {
                 return ResourceManager.GetString("HelpRelatedArticles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You set your availability in your calendar in order to restrict the dates and times in which you are gonna be available for private conversations with language students. They will only be able to send you requests for the dates and times you decide, and never for a conversation longer than 2 hours. Besides, you can also restrict the type of conversation you accept (timebanking conversations, paid conversations or any of those). .
+        /// </summary>
+        public static string HelpSetAvailability1 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do I change the start time of an available block?.
+        /// </summary>
+        public static string HelpSetAvailability10 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can drag and drop the blocks over other free slots. If you are using a touchable device, touch and hold before you start dragging.
+        /// </summary>
+        public static string HelpSetAvailability11 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do I remove an available block?.
+        /// </summary>
+        public static string HelpSetAvailability12 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Click on the block you want remove and a popover with the option Remove will appear. Click on Remove to confirm.
+        /// </summary>
+        public static string HelpSetAvailability13 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability13", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you&apos;re not looking for speaking with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms.
+        /// </summary>
+        public static string HelpSetAvailability2 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To set your availability go to &lt;a href=&quot;{0}&quot; class=&quot;link&quot;&gt;My calendar&lt;/a&gt; and click Edit Availability on the top side, or go directly to &lt;a href=&quot;{1}&quot; class=&quot;link&quot;&gt;Edit availability&lt;/a&gt; and follow these steps:.
+        /// </summary>
+        public static string HelpSetAvailability3 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the type of conversation you want to receive requests for by clicking Wallet, Time banking or Both.
+        /// </summary>
+        public static string HelpSetAvailability4 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to click and drag over any free time slots. (If you are using a touchable device, you will have to touch and hold before you start dragging) .
+        /// </summary>
+        public static string HelpSetAvailability5 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Repeat previous steps for creating as many blocks as you want.
+        /// </summary>
+        public static string HelpSetAvailability6 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do I change the duration of an available block?.
+        /// </summary>
+        public static string HelpSetAvailability7 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Place your mouse pointer on the block you want to change. Two small lines wil appear at the end. Click on those lines and drag for resizing the block until you it has the duration you want.  .
+        /// </summary>
+        public static string HelpSetAvailability8 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you are using a touchable device, touch and hold on the block until a small white dot appears at the end of the block. Then touch the dot and drag for resizing the block.
+        /// </summary>
+        public static string HelpSetAvailability9 {
+            get {
+                return ResourceManager.GetString("HelpSetAvailability9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Set your availability.
+        /// </summary>
+        public static string HelpSetAvailabilityTitle {
+            get {
+                return ResourceManager.GetString("HelpSetAvailabilityTitle", resourceCulture);
             }
         }
         
@@ -340,7 +520,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language learners have two options if they want to practice a language: they can make either Wallet calls or  Time Banking calls..
+        ///   Looks up a localized string similar to Language learners have two options if they want to practice a language: they can make either Wallet calls or Time Banking calls..
         /// </summary>
         public static string HelpStudentIntro1 {
             get {
@@ -448,7 +628,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use of Time Banking in the chat rooms.
+        ///   Looks up a localized string similar to Use of Time Banking in the video calls.
         /// </summary>
         public static string HelpTBRoomsTitle {
             get {
@@ -548,7 +728,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you want to earn some money while you speak with languages learners, you will have to earn some reputation with time banking or free calls before you can set a rate for your Wallet calls.
+        ///   Looks up a localized string similar to If you want to earn some money while you speak with languages learners, you will have to earn some reputation with time banking or free calls before you can set a rate for your Wallet calls..
         /// </summary>
         public static string HelpWalletIntro3 {
             get {
@@ -647,7 +827,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When natives join a room, they won&apos;t be able to set a Wallet rate, and therefore to earn money with the calls. Firstly, they need to meet the following requirements:.
+        ///   Looks up a localized string similar to When native speakers join a room, they won&apos;t be able to set a Wallet rate, and therefore to earn money with the calls. Firstly, they need to meet the following requirements:.
         /// </summary>
         public static string HelpWCR7 {
             get {

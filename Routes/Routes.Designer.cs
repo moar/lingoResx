@@ -97,6 +97,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/how-to-set-availability.
+        /// </summary>
+        public static string how_to_set_availability {
+            get {
+                return ResourceManager.GetString("how-to-set-availability", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/langademy-state.
         /// </summary>
         public static string langademy_state {
@@ -133,7 +142,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to learn-languages.
+        ///   Looks up a localized string similar to learn-languages-online.
         /// </summary>
         public static string learn_languages {
             get {
@@ -210,6 +219,15 @@ namespace Resources.Routes {
         public static string wallet_withdrawals {
             get {
                 return ResourceManager.GetString("wallet-withdrawals", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/why-complete-profile.
+        /// </summary>
+        public static string why_complete_profile {
+            get {
+                return ResourceManager.GetString("why-complete-profile", resourceCulture);
             }
         }
     }
