@@ -816,6 +816,12 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Contact.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.ca.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.de.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.es.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.eu.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.fr.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.it.resx" />
     <EmbeddedResource Include="Views\DesktopSummary\Summary.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Summary.Designer.cs</LastGenOutput>
