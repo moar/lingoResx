@@ -220,7 +220,7 @@
     <value>Related articles</value>
   </data>
   <data name="HelpState1" xml:space="preserve">
-    <value>You can change your state from your home screen. Click your avatar and the left panel will be opened.</value>
+    <value>You can change your state from your home screen. Click your avatar and the State Panel will be opened.</value>
   </data>
   <data name="HelpState2" xml:space="preserve">
     <value>Once there, you have different options regarding your state:</value>
@@ -414,5 +414,26 @@
   </data>
   <data name="HelpSetAvailabilityTitle" xml:space="preserve">
     <value>Set your availability</value>
+  </data>
+  <data name="HelpSetRate1" xml:space="preserve">
+    <value>Once you meet the &lt;a href="{0}&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:</value>
+  </data>
+  <data name="HelpSetRate2" xml:space="preserve">
+    <value>Open your State Panel by clicking on your photo  on the top right side of your Home screen</value>
+  </data>
+  <data name="HelpSetRate3" xml:space="preserve">
+    <value>Go to the Wallet section of the State Panel and look for the language you want to set a rate for</value>
+  </data>
+  <data name="HelpSetRate4" xml:space="preserve">
+    <value>Click on the &lt;span class="lg lg-cog"&gt;&lt;/span&gt; button and the dialog for updating the rate will be shown</value>
+  </data>
+  <data name="HelpSetRate5" xml:space="preserve">
+    <value>Set the amount of credits per hour that you want to charge students and click Save</value>
+  </data>
+  <data name="HelpSetRate6" xml:space="preserve">
+    <value>Take a moment for checking your state per language. Students will only be able to call you in those languages you set as available. Click on the switchs next to each language to set your state Available/Unavailable</value>
+  </data>
+  <data name="HelpSetRateTitle" xml:space="preserve">
+    <value>How do I set my rate?</value>
   </data>
 </root>

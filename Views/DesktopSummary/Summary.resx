@@ -165,6 +165,15 @@
   <data name="TipWalletNatBillingAddrHelp" xml:space="preserve">
     <value>Check wallet conditions</value>
   </data>
+  <data name="TipWalletNatSetRate" xml:space="preserve">
+    <value>You meet the requirements in order to set your rate for paid conversations in {0}</value>
+  </data>
+  <data name="TipWalletNatSetRateHelp" xml:space="preserve">
+    <value>How to set my rate</value>
+  </data>
+  <data name="TipWalletNatZeroRepu" xml:space="preserve">
+    <value>You need a minimum reputation for setting your rates as a native speaker. You can make timebanking videocalls or wallet videocalls (for free) and ask students for their votes</value>
+  </data>
   <data name="Welcome" xml:space="preserve">
     <value>Welcome to Langademy</value>
   </data>

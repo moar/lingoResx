@@ -439,6 +439,69 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Once you meet the &lt;a href=&quot;{0}&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:.
+        /// </summary>
+        public static string HelpSetRate1 {
+            get {
+                return ResourceManager.GetString("HelpSetRate1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Open your State Panel by clicking on your photo  on the top right side of your Home screen.
+        /// </summary>
+        public static string HelpSetRate2 {
+            get {
+                return ResourceManager.GetString("HelpSetRate2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to the Wallet section of the State Panel and look for the language you want to set a rate for.
+        /// </summary>
+        public static string HelpSetRate3 {
+            get {
+                return ResourceManager.GetString("HelpSetRate3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Click on the &lt;span class=&quot;lg lg-cog&quot;&gt;&lt;/span&gt; button and the dialog for updating the rate will be shown.
+        /// </summary>
+        public static string HelpSetRate4 {
+            get {
+                return ResourceManager.GetString("HelpSetRate4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Set the amount of credits per hour that you want to charge students and click Save.
+        /// </summary>
+        public static string HelpSetRate5 {
+            get {
+                return ResourceManager.GetString("HelpSetRate5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Take a moment for checking your state per language. Students will only be able to call you in those languages you set as available. Click on the switchs next to each language to set your state Available/Unavailable.
+        /// </summary>
+        public static string HelpSetRate6 {
+            get {
+                return ResourceManager.GetString("HelpSetRate6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do I set my rate?.
+        /// </summary>
+        public static string HelpSetRateTitle {
+            get {
+                return ResourceManager.GetString("HelpSetRateTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You can show this help at any time by clicking {0} at the foot of the page.
         /// </summary>
         public static string HelpShowhelpagain {
@@ -448,7 +511,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can change your state from your home screen. Click your avatar and the left panel will be opened..
+        ///   Looks up a localized string similar to You can change your state from your home screen. Click your avatar and the State Panel will be opened..
         /// </summary>
         public static string HelpState1 {
             get {

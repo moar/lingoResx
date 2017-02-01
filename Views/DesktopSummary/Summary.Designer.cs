@@ -205,6 +205,33 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You meet the requirements in order to set your rate for paid conversations in {0}.
+        /// </summary>
+        public static string TipWalletNatSetRate {
+            get {
+                return ResourceManager.GetString("TipWalletNatSetRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to set my rate.
+        /// </summary>
+        public static string TipWalletNatSetRateHelp {
+            get {
+                return ResourceManager.GetString("TipWalletNatSetRateHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You need a minimum reputation for setting your rates as a native speaker. You can make timebanking videocalls or wallet videocalls (for free) and ask students for their votes.
+        /// </summary>
+        public static string TipWalletNatZeroRepu {
+            get {
+                return ResourceManager.GetString("TipWalletNatZeroRepu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Welcome to Langademy.
         /// </summary>
         public static string Welcome {
