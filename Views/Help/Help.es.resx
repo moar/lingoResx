@@ -220,7 +220,7 @@
     <value>Artículos relacionados</value>
   </data>
   <data name="HelpState1" xml:space="preserve">
-    <value>Puedes cambiar tu estado desde tu página de inicio. Clica en tu avatar y se abrirá el panel izquierdo.</value>
+    <value>Puedes cambiar tu estado desde tu página de inicio. Clica en tu avatar y se abrirá tu panel de estado.</value>
   </data>
   <data name="HelpState2" xml:space="preserve">
     <value>Una vez ahi, tienes diferentes opciones para tu estado:</value>
@@ -353,5 +353,86 @@
   </data>
   <data name="HelpCheckPrices" xml:space="preserve">
     <value>consulta los precios</value>
+  </data>
+  <data name="HelpCalendarTitle" xml:space="preserve">
+    <value>Calendario Langademy</value>
+  </data>
+  <data name="HelpCompleteProfile1" xml:space="preserve">
+    <value>La razón principal para completar tu perfil es que te ayudará a contactar fácilmente con los estudiantes y a aparecer en los resultados de búsqueda. Si rellenas tu perfil y tu calendario llamarás la atención de los estudiantes y te harán mas solicitudes para conversaciones privadas</value>
+  </data>
+  <data name="HelpCompleteProfile2" xml:space="preserve">
+    <value>Puedes subir tu foto de perfil y una foto de portada. También deberías incluir tu edad, país, sexo y una breve descripción sobre ti.</value>
+  </data>
+  <data name="HelpCompleteProfile3" xml:space="preserve">
+    <value>También tienes que añadir los idiomas que quieres hablar y/o aprender. Cuando añades un idioma debes definir un nive, lo cual significa que: </value>
+  </data>
+  <data name="HelpCompleteProfileTitle" xml:space="preserve">
+    <value>Por qué deberías completar tu perfil</value>
+  </data>
+  <data name="HelpProfileTitle" xml:space="preserve">
+    <value>Perfil Langademy</value>
+  </data>
+  <data name="HelpSetAvailability1" xml:space="preserve">
+    <value>Establecer la disponibilidad en tu calendario sirve para restringir las fechas y horas en las que vas a estar disponible para mantener conversaciones privadas con estudiantes. Éstos solo te podrán mandar solicitudes en las franjas disponibles que has definido, y nunca por un periodo superior a las 2 horas. Además, también puedes restringir el tipo de conversación que vas a aceptar (banco de tiempo, conversaciones pagadas o cualquiera de las dos opciones)</value>
+  </data>
+  <data name="HelpSetAvailability10" xml:space="preserve">
+    <value>¿Cómo puedo cambiar la hora de inicio de una franja marcada como disponible?</value>
+  </data>
+  <data name="HelpSetAvailability11" xml:space="preserve">
+    <value>Puedes arrastrar los bloques sobre otros bloques libres. Si estás usando un dispositivo táctil, pulsa y mantén la pulsación antes de empezar a arrastrar un bloque</value>
+  </data>
+  <data name="HelpSetAvailability12" xml:space="preserve">
+    <value>¿Cómo puedo borrar una franja marcada como disponible?</value>
+  </data>
+  <data name="HelpSetAvailability13" xml:space="preserve">
+    <value>Clica en el bloque que quieres eliminar y verás una ventana flotante con la opción de borrarlo. Clica borrar para confirmar.</value>
+  </data>
+  <data name="HelpSetAvailability2" xml:space="preserve">
+    <value>Mantener tu disponibilidad actualizada te ayudará a organizar tu tiempo como hablante nativo y evitarás tener recibir solicitudes de contacto cuando no quieras hablar con estudiantes. Ten en cuenta que si no defines tu disponibilidad, solo podrás hacer videollamadas con tu lista de contactos o con los estudiantes que encuentres en las salas de chat.</value>
+  </data>
+  <data name="HelpSetAvailability3" xml:space="preserve">
+    <value><![CDATA[Para definir tu disponibilidad ve a <a href="{0}" class="link">Mi calendario</a> y clica Editar Disponibilidad en la parte superior, o ve directamente a <a href="{1}" class="link">Editar disponibilidad</a>  y sigue estos pasos:]]></value>
+  </data>
+  <data name="HelpSetAvailability4" xml:space="preserve">
+    <value>Elige el tipo de conversación en el quieres recibir las solicitudes clicando Wallet, Banco de Tiempo o los dos</value>
+  </data>
+  <data name="HelpSetAvailability5" xml:space="preserve">
+    <value>clica y arrastra sobre cualquier franja de tiempo disponible ( si estás usando un dispositivo táctil, tienes que pulsar y mantener la pulsación antes de empezar a arrastrar tu dedo)</value>
+  </data>
+  <data name="HelpSetAvailability6" xml:space="preserve">
+    <value>Repite los pasos anteriores para crear tantos bloques como quieras</value>
+  </data>
+  <data name="HelpSetAvailability7" xml:space="preserve">
+    <value>¿Cómo puedo cambiar la duración de un bloque disponible?</value>
+  </data>
+  <data name="HelpSetAvailability8" xml:space="preserve">
+    <value>Pon el puntero sobre el bloque que quieras cambiar. Verás dos pequeñas rayas al final del bloque. Clica sobre esas líneas y arrástralas para cambiar el tamaño de los bloques hasta que tengan la duración que deseas.</value>
+  </data>
+  <data name="HelpSetAvailability9" xml:space="preserve">
+    <value>Si estás usando un dispositivo táctil, mantén un bloque pulsado hasta que veas un pequeño punto blanco al final del bloque. Después pulsa sobre el punto y arrástralo para redimensionar el bloque.</value>
+  </data>
+  <data name="HelpSetAvailabilityTitle" xml:space="preserve">
+    <value>Edita tu disponibilidad</value>
+  </data>
+  <data name="HelpSetRate1" xml:space="preserve">
+    <value><![CDATA[Una vez que cumplas los <a href="{0}" class="help link">requisitos</a>, podrás definir una tarifa para cobrar a tus alunmos por mantener conversaciones. Para ello, sigue estos pasos:]]></value>
+  </data>
+  <data name="HelpSetRate2" xml:space="preserve">
+    <value>Abre tu panel estado clicando en tu foto de perfil en la parte superior derecha de tu página de inicio</value>
+  </data>
+  <data name="HelpSetRate3" xml:space="preserve">
+    <value>Ve a la sección Wallet de tu panel de estado y busca el idioma para el que quieres establecer una tarifa</value>
+  </data>
+  <data name="HelpSetRate4" xml:space="preserve">
+    <value><![CDATA[Clica en el botón <span class="lg lg-cog"></span> y se te mostrará una ventana para que actualices tu tarifa]]></value>
+  </data>
+  <data name="HelpSetRate5" xml:space="preserve">
+    <value>Establece el número de créditos por hora que quieres cobrar a tus estudiantes y guarda los cambios</value>
+  </data>
+  <data name="HelpSetRate6" xml:space="preserve">
+    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idiomas para poner tu estado Disponible / No disponible</value>
+  </data>
+  <data name="HelpSetRateTitle" xml:space="preserve">
+    <value>¿Cómo puedo establecer mi tarifa?</value>
   </data>
 </root>

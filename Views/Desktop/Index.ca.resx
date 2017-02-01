@@ -325,7 +325,7 @@
     <value>Intercanvis d'idioma</value>
   </data>
   <data name="MyNextEvents" xml:space="preserve">
-    <value>Les meues properes activitats</value>
+    <value>Les properes activitats</value>
   </data>
   <data name="NoMeetupProposals" xml:space="preserve">
     <value>No s'han organitzat quedades del teus idiomes per als pròxims dies</value>
@@ -359,9 +359,6 @@
   </data>
   <data name="SpeakLangStudents" xml:space="preserve">
     <value>Vull parlar amb estudiants en el meu idioma natiu i guanyar diners</value>
-  </data>
-  <data name="TimeBankingBalance" xml:space="preserve">
-    <value>Saldo al teu banc de temps</value>
   </data>
   <data name="UpcomingMeetups" xml:space="preserve">
     <value>Pròximes quedades</value>

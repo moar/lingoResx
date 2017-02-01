@@ -221,7 +221,7 @@ Aquest es el seu funcionament:  </value>
     <value>Articles relacionats</value>
   </data>
   <data name="HelpState1" xml:space="preserve">
-    <value>Pots canviar el teu estat des de la pàgina d'inici. Clica en el teu avatar i s'obrirà el panell esquerre.</value>
+    <value>Pots canviar el teu estat des de la pàgina d'inici. Clica en el teu avatar i s'obrirà el teu panell .</value>
   </data>
   <data name="HelpState2" xml:space="preserve">
     <value>Un cop ahi, tens diferents opcions per al teu estat:</value>
@@ -354,5 +354,41 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="HelpCheckPrices" xml:space="preserve">
     <value>consulta els preus</value>
+  </data>
+  <data name="HelpCalendarTitle" xml:space="preserve">
+    <value>Calendari Langademy</value>
+  </data>
+  <data name="HelpCompleteProfile1" xml:space="preserve">
+    <value>La raó principal per completar el teu perfil és que t'ajudarà a contactar fàcilment amb els estudiants i a aparèixer en els resultats de cerca. Si omples el teu perfil i el teu calendari cridaràs l'atenció dels estudiants i et faran més sol·licituds per a converses privades</value>
+  </data>
+  <data name="HelpCompleteProfile3" xml:space="preserve">
+    <value>També has d'afegir els idiomes que vols parlar i / o aprendre. Quan afegeixes un idioma has de definir un nivells, la qual cosa vol dir que:</value>
+  </data>
+  <data name="HelpCompleteProfileTitle" xml:space="preserve">
+    <value>Per què hauries complear teu perfil</value>
+  </data>
+  <data name="HelpProfileTitle" xml:space="preserve">
+    <value>Perfil Langademy</value>
+  </data>
+  <data name="HelpSetAvailability10" xml:space="preserve">
+    <value>Com puc canviar l'hora d'inici d'una franja marcada com a disponible?</value>
+  </data>
+  <data name="HelpSetAvailability12" xml:space="preserve">
+    <value>Com puc esborrar una franja marcada com a disponible?</value>
+  </data>
+  <data name="HelpSetAvailability4" xml:space="preserve">
+    <value>Tria el tipus de conversa que vols rebre, clicant Wallet, Banc de Temps o totes dos</value>
+  </data>
+  <data name="HelpSetAvailability5" xml:space="preserve">
+    <value>clica i arrossega sobre qualsevol franja de temps disponible (si estàs fent servir un dispositiu tàctil, has de prémer i mantenir la pulsació abans de començar a arrossegar el dit)</value>
+  </data>
+  <data name="HelpSetAvailability6" xml:space="preserve">
+    <value>Repeteix els passos anteriors per crear tants blocs com vulguis</value>
+  </data>
+  <data name="HelpSetAvailability7" xml:space="preserve">
+    <value>Com puc canviar la durada d'un bloc disponible?</value>
+  </data>
+  <data name="HelpSetAvailabilityTitle" xml:space="preserve">
+    <value>Edita la teva disponibilitat</value>
   </data>
 </root>

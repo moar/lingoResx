@@ -360,9 +360,6 @@
   <data name="SpeakLangStudents" xml:space="preserve">
     <value>Voglio parlare con gli studenti nella mia lingua madre e guadagnare soldi</value>
   </data>
-  <data name="TimeBankingBalance" xml:space="preserve">
-    <value>Saldo banca del tempo</value>
-  </data>
   <data name="UpcomingMeetups" xml:space="preserve">
     <value>Prossimi appuntamento</value>
   </data>

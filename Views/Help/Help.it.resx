@@ -220,7 +220,7 @@
     <value>Articoli correlati</value>
   </data>
   <data name="HelpState1" xml:space="preserve">
-    <value>È possibile modificare il tuo stato,dalla tua home page. Clicca sul tuo avatar e il pannello di sinistra si aprirà.</value>
+    <value>È possibile modificare il tuo stato,dalla tua home page. Clicca sul tuo avatar e il tuo pannello si aprirà.</value>
   </data>
   <data name="HelpState2" xml:space="preserve">
     <value>Una volta lì, hai diverse opzioni di stato:</value>
@@ -354,5 +354,38 @@
   </data>
   <data name="HelpCheckPrices" xml:space="preserve">
     <value>controlla i prezzi</value>
+  </data>
+  <data name="HelpCalendarTitle" xml:space="preserve">
+    <value>Calendario Langademy</value>
+  </data>
+  <data name="HelpCompleteProfile3" xml:space="preserve">
+    <value>Devi anche aggiungere le lingue che si vuole parlare e / o imparare. Quando si aggiunge una lingua deve definire un livello, questo significa che:</value>
+  </data>
+  <data name="HelpCompleteProfileTitle" xml:space="preserve">
+    <value>Perché si dovrebbe complear tuo profilo</value>
+  </data>
+  <data name="HelpProfileTitle" xml:space="preserve">
+    <value>Profilo Langademy</value>
+  </data>
+  <data name="HelpSetAvailability10" xml:space="preserve">
+    <value>Come posso cambiare l'orario di inizio di una cella marcata come disponibile?</value>
+  </data>
+  <data name="HelpSetAvailability12" xml:space="preserve">
+    <value>Come posso cancellare una striscia marcata come disponibile?</value>
+  </data>
+  <data name="HelpSetAvailability4" xml:space="preserve">
+    <value>Sceglie il tipo di conversazione che vuoi ricevere, cliccando Wallet, Banca del Tempo o entrambi</value>
+  </data>
+  <data name="HelpSetAvailability5" xml:space="preserve">
+    <value>clicca e trascina su qualsiasi cella di tempo disponibile (se si utilizza un dispositivo touch, è necessario premere e tenere premuto prima d'iniziare a trascinare il dito)</value>
+  </data>
+  <data name="HelpSetAvailability6" xml:space="preserve">
+    <value>Ripete i passi precedenti per creare il maggior numero di blocchi che vuoi</value>
+  </data>
+  <data name="HelpSetAvailability7" xml:space="preserve">
+    <value>Come posso modificare la durata di un blocco disponibile?</value>
+  </data>
+  <data name="HelpSetAvailabilityTitle" xml:space="preserve">
+    <value>Modifica la tua disponibilità</value>
   </data>
 </root>
