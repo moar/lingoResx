@@ -151,7 +151,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to But credits.
+        ///   Looks up a localized string similar to Buy credits.
         /// </summary>
         public static string BuyCredits {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chage students.
+        ///   Looks up a localized string similar to Charge students.
         /// </summary>
         public static string ChargeStudents {
             get {
@@ -610,7 +610,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I want to pay forP conversations with native speakers. I don&apos;t have time for language exchanges.
+        ///   Looks up a localized string similar to I want to pay for conversations with native speakers. I don&apos;t have time for language exchanges.
         /// </summary>
         public static string PayNativesLong {
             get {
@@ -714,15 +714,6 @@ namespace Resources.Views.Desktop {
         public static string TimeBank {
             get {
                 return ResourceManager.GetString("TimeBank", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Time banking balance.
-        /// </summary>
-        public static string TimeBankingBalance {
-            get {
-                return ResourceManager.GetString("TimeBankingBalance", resourceCulture);
             }
         }
         

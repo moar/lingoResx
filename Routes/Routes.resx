@@ -135,6 +135,9 @@
   <data name="how-to-set-availability" xml:space="preserve">
     <value>help/how-to-set-availability</value>
   </data>
+  <data name="how-to-set-rate" xml:space="preserve">
+    <value>help/how-to-set-rate</value>
+  </data>
   <data name="langademy-state" xml:space="preserve">
     <value>help/langademy-state</value>
   </data>

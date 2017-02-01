@@ -416,7 +416,7 @@
     <value>Set your availability</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value>Once you meet the &lt;a href="{0}&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:</value>
+    <value>Once you meet the &lt;a href="{0}" class="help link"&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Open your State Panel by clicking on your photo  on the top right side of your Home screen</value>

@@ -115,6 +115,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/how-to-set-rate.
+        /// </summary>
+        public static string how_to_set_rate {
+            get {
+                return ResourceManager.GetString("how-to-set-rate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/langademy-state.
         /// </summary>
         public static string langademy_state {

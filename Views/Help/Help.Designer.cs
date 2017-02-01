@@ -439,7 +439,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Once you meet the &lt;a href=&quot;{0}&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:.
+        ///   Looks up a localized string similar to Once you meet the &lt;a href=&quot;{0}&quot; class=&quot;help link&quot;&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:.
         /// </summary>
         public static string HelpSetRate1 {
             get {
