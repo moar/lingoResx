@@ -147,6 +147,15 @@
   <data name="TipCompleteProfHelp" xml:space="preserve">
     <value>Why?</value>
   </data>
+  <data name="TipCreateMeetup" xml:space="preserve">
+    <value>Make yourself known and meet students scheduling a new meetup</value>
+  </data>
+  <data name="TipCreateMeetupAux" xml:space="preserve">
+    <value>Schedule a meetup</value>
+  </data>
+  <data name="TipCreateMeetupHelp" xml:space="preserve">
+    <value>How can I meet students?</value>
+  </data>
   <data name="TipEditAvailability" xml:space="preserve">
     <value>You need to set your availability for speaking in your native language. Otherwise students won't be able to request you private conversations</value>
   </data>
@@ -155,6 +164,15 @@
   </data>
   <data name="TipEditAvailabilityHelp" xml:space="preserve">
     <value>How to set availability</value>
+  </data>
+  <data name="TipSearchAndRequest" xml:space="preserve">
+    <value>Search a native partner and request a private conversation</value>
+  </data>
+  <data name="TipSearchAndRequestAux" xml:space="preserve">
+    <value>Search partners</value>
+  </data>
+  <data name="TipSearchAndRequestHelp" xml:space="preserve">
+    <value>How do I request a private conversation?</value>
   </data>
   <data name="TipWalletNatBillingAddr" xml:space="preserve">
     <value>Before any student can pay you for private conversations you need to complete your billing address</value>

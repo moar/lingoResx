@@ -132,6 +132,12 @@
   <data name="how-does-time-banking-work" xml:space="preserve">
     <value>help/how-does-time-banking-work</value>
   </data>
+  <data name="how-to-meet-students" xml:space="preserve">
+    <value>help/how-to-meet-students</value>
+  </data>
+  <data name="how-to-request-private-conversation" xml:space="preserve">
+    <value>help/how-to-request-private-conversation</value>
+  </data>
   <data name="how-to-set-availability" xml:space="preserve">
     <value>help/how-to-set-availability</value>
   </data>

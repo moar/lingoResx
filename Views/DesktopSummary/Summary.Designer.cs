@@ -151,6 +151,33 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Make yourself known and meet students scheduling a new meetup.
+        /// </summary>
+        public static string TipCreateMeetup {
+            get {
+                return ResourceManager.GetString("TipCreateMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Schedule a meetup.
+        /// </summary>
+        public static string TipCreateMeetupAux {
+            get {
+                return ResourceManager.GetString("TipCreateMeetupAux", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How can I meet students?.
+        /// </summary>
+        public static string TipCreateMeetupHelp {
+            get {
+                return ResourceManager.GetString("TipCreateMeetupHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You need to set your availability for speaking in your native language. Otherwise students won&apos;t be able to request you private conversations.
         /// </summary>
         public static string TipEditAvailability {
@@ -174,6 +201,33 @@ namespace Resources.Views.DesktopSummary {
         public static string TipEditAvailabilityHelp {
             get {
                 return ResourceManager.GetString("TipEditAvailabilityHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search a native partner and request a private conversation.
+        /// </summary>
+        public static string TipSearchAndRequest {
+            get {
+                return ResourceManager.GetString("TipSearchAndRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search partners.
+        /// </summary>
+        public static string TipSearchAndRequestAux {
+            get {
+                return ResourceManager.GetString("TipSearchAndRequestAux", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do I request a private conversation?.
+        /// </summary>
+        public static string TipSearchAndRequestHelp {
+            get {
+                return ResourceManager.GetString("TipSearchAndRequestHelp", resourceCulture);
             }
         }
         

@@ -106,6 +106,24 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/how-to-meet-students.
+        /// </summary>
+        public static string how_to_meet_students {
+            get {
+                return ResourceManager.GetString("how-to-meet-students", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/how-to-request-private-conversation.
+        /// </summary>
+        public static string how_to_request_private_conversation {
+            get {
+                return ResourceManager.GetString("how-to-request-private-conversation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/how-to-set-availability.
         /// </summary>
         public static string how_to_set_availability {

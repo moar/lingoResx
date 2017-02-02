@@ -169,6 +169,204 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If you&apos;re looking for conversation partners (either for timebanking or paid conversations), you should take advantage of Langademy meetups..
+        /// </summary>
+        public static string HelpHowMeetPartners1 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do I join a meet up?.
+        /// </summary>
+        public static string HelpHowMeetPartners10 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Just enter the meetup page and click on the Attend button. Take into account that you can only attend  meetups of languages that you have in your profile..
+        /// </summary>
+        public static string HelpHowMeetPartners11 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Meetups are the way you can let everybody know in advance when you will be online in a chat room.  This way, students and other native speakers can join you at the same time. Indeed, you can enter a chat room whenever you want but, let&apos;s be honest. It&apos;s easier to bring together a larger group of people if you schedule an event in advance. .
+        /// </summary>
+        public static string HelpHowMeetPartners2 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check your &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;Calendar&lt;/a&gt; to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one..
+        /// </summary>
+        public static string HelpHowMeetPartners3 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When you join a meet up, the event will be added to your calendar and you will be able to write on the message board and propose conversation topics. .
+        /// </summary>
+        public static string HelpHowMeetPartners4 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do I schedule a new meet up?.
+        /// </summary>
+        public static string HelpHowMeetPartners5 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To schedule a new meetup go to &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;My calendar&lt;/a&gt; and click New Meetup on the top side, or go directly to &lt;a href=&quot;{1}&quot; class=&quot;link applnk&quot;&gt;New meetup&lt;/a&gt; and follow these steps:.
+        /// </summary>
+        public static string HelpHowMeetPartners6 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the language of the meetup. Participants will attend the meetup at the chat room of that language..
+        /// </summary>
+        public static string HelpHowMeetPartners7 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the date and time of the meetup. (in your local timezone).
+        /// </summary>
+        public static string HelpHowMeetPartners8 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Click Save..
+        /// </summary>
+        public static string HelpHowMeetPartners9 {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartners9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How can I meet partners?.
+        /// </summary>
+        public static string HelpHowMeetPartnersTitle {
+            get {
+                return ResourceManager.GetString("HelpHowMeetPartnersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When you visit the profile of any user that wants to make language exchanges or just help students practice in exchange of credits, you will see their availability calendars..
+        /// </summary>
+        public static string HelpHowRequestConversation1 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you want to request a private conversation, click on Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select the conversation language you want (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available time range. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yell [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string HelpHowRequestConversation2 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If the user hasn&apos;t available hours you will have the option to be notified when he/she is available. A warning on top of the calendar will appear including the button to request that. .
+        /// </summary>
+        public static string HelpHowRequestConversation3 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How do I know if a native accepts my request?.
+        /// </summary>
+        public static string HelpHowRequestConversation4 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can track the status of your requests in your &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;Calendar&lt;/a&gt;. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. .
+        /// </summary>
+        public static string HelpHowRequestConversation5 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Besides, when the native accepts your request you will be notified and a new event will be added to your calendar..
+        /// </summary>
+        public static string HelpHowRequestConversation6 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to What do I have to do at the time of the conversation?.
+        /// </summary>
+        public static string HelpHowRequestConversation7 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to the call panel &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt; and select the Private Conversations Tab &lt;span class=&quot;lg lg-calendar&quot;&gt;&lt;/span&gt;. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. .
+        /// </summary>
+        public static string HelpHowRequestConversation8 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When you already are in the videoapp you will see when your partner is online, and in the meantime you can write in your private chat to make your partner aware of you being there..
+        /// </summary>
+        public static string HelpHowRequestConversation9 {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversation9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to request a private conversation.
+        /// </summary>
+        public static string HelpHowRequestConversationTitle {
+            get {
+                return ResourceManager.GetString("HelpHowRequestConversationTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Index.
         /// </summary>
         public static string HelpIndex {
@@ -201,6 +399,15 @@ namespace Resources.Views.Help {
         public static string HelpLearnersTitle {
             get {
                 return ResourceManager.GetString("HelpLearnersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Meetups.
+        /// </summary>
+        public static string HelpMeetupsTitle {
+            get {
+                return ResourceManager.GetString("HelpMeetupsTitle", resourceCulture);
             }
         }
         
