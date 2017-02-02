@@ -556,6 +556,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Learning.
+        /// </summary>
+        public static string Learning {
+            get {
+                return ResourceManager.GetString("Learning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Logout.
         /// </summary>
         public static string LogOut {
@@ -687,6 +696,15 @@ namespace Resources.Views.Desktop {
         public static string SignUpAgenda {
             get {
                 return ResourceManager.GetString("SignUpAgenda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Speaking.
+        /// </summary>
+        public static string Speaking {
+            get {
+                return ResourceManager.GetString("Speaking", resourceCulture);
             }
         }
         
