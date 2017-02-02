@@ -358,6 +358,12 @@
   <data name="HelpCalendarTitle" xml:space="preserve">
     <value>Calendario Langademy</value>
   </data>
+  <data name="HelpCompleteProfile1" xml:space="preserve">
+    <value>Il motivo principale per completare il tuo profilo è che ti aiuterà a metterti in contatto con gli studenti e di apparire nei risultati di ricerca. Se si compila il tuo profilo e il calendario, richiamerai l'attenzione degli studenti e ti arriveranno più richieste di conversazioni private</value>
+  </data>
+  <data name="HelpCompleteProfile2" xml:space="preserve">
+    <value>Puoi caricare la tua immagine del profilo e foto di copertina. Dovresti anche includere la tua età, il paese, e una breve descrizione di te.</value>
+  </data>
   <data name="HelpCompleteProfile3" xml:space="preserve">
     <value>Devi anche aggiungere le lingue che si vuole parlare e / o imparare. Quando si aggiunge una lingua deve definire un livello, questo significa che:</value>
   </data>
@@ -367,11 +373,26 @@
   <data name="HelpProfileTitle" xml:space="preserve">
     <value>Profilo Langademy</value>
   </data>
+  <data name="HelpSetAvailability1" xml:space="preserve">
+    <value>Stabilire la disponibilità sul calendario serve per limitare le date e gli orari in cui sarete a disposizione per tenere conversazioni private con gli studenti. Qui è possibile inviare solo le richieste nelle celle disponibile che hai definito, e mai per periodo di più di 2 ore. Inoltre, si può anche limitare il tipo di conversazione che accetterai (banca del tempo, le conversazioni a pagamento o una delle due opzioni)</value>
+  </data>
   <data name="HelpSetAvailability10" xml:space="preserve">
     <value>Come posso cambiare l'orario di inizio di una cella marcata come disponibile?</value>
   </data>
+  <data name="HelpSetAvailability11" xml:space="preserve">
+    <value>È possibile trascinare i blocchi su altri blocchi liberi. Se si utilizza un dispositivo touch, tenere premuto il dito prima di iniziare a trascinare un blocco</value>
+  </data>
   <data name="HelpSetAvailability12" xml:space="preserve">
     <value>Come posso cancellare una striscia marcata come disponibile?</value>
+  </data>
+  <data name="HelpSetAvailability13" xml:space="preserve">
+    <value>Clicca sul blocco che vuoi eliminare e vedrai una finestra flottante con la possibilità di cancellare. Clicca cancella per confermare.</value>
+  </data>
+  <data name="HelpSetAvailability2" xml:space="preserve">
+    <value>Mantenere la tua disponibilità attuale ti aiuterà a organizzare il tuo tempo come un madrelingua e evitare di dover ricevere le richieste di contatto, quando non si vuole parlare con gli studenti. Se non si definisce la propria disponibilità, è possibile effettuare solo chiamate video con i tuoi contatti o studenti che troverai nelle chat room.</value>
+  </data>
+  <data name="HelpSetAvailability3" xml:space="preserve">
+    <value><![CDATA[Per impostare la tua disponibilità vai a <a0> Il mio calendario </ a0> e clicca su Modifica Disponibilità, in alto, o vai direttamente a <a1> Modifica Disponibilità </ a1> e segui questi passi:]]></value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Sceglie il tipo di conversazione che vuoi ricevere, cliccando Wallet, Banca del Tempo o entrambi</value>
@@ -385,7 +406,34 @@
   <data name="HelpSetAvailability7" xml:space="preserve">
     <value>Come posso modificare la durata di un blocco disponibile?</value>
   </data>
+  <data name="HelpSetAvailability8" xml:space="preserve">
+    <value>Posiziona il cursore sul blocco che vuoi modificare. Vedrai due piccole strisce alla fine del blocco. Clicca su queste linee e trascina le per modificare la dimensione dei blocchi fino a quando hanno la lunghezza desiderata.</value>
+  </data>
+  <data name="HelpSetAvailability9" xml:space="preserve">
+    <value>Se si utilizza un dispositivo touch, mantenere premuto un blocco fino a vedere un piccolo punto bianco alla fine del blocco. Quindi clicca sul punto e trascina per ridimensionare il blocco.</value>
+  </data>
   <data name="HelpSetAvailabilityTitle" xml:space="preserve">
     <value>Modifica la tua disponibilità</value>
+  </data>
+  <data name="HelpSetRate1" xml:space="preserve">
+    <value><![CDATA[Una volta soddisfatti i <a0> requisiti </ a0>, è possibile stabilire una tassa per far pagare ai tuoi studenti per mantenere conversazioni. Puoi seguire questi passi:]]></value>
+  </data>
+  <data name="HelpSetRate2" xml:space="preserve">
+    <value>Apri il tuo pannello di stato cliccando sulla foto del tuo profilo in alto a destra della home page</value>
+  </data>
+  <data name="HelpSetRate3" xml:space="preserve">
+    <value>Vai alla sezione Wallet del tuo pannello di stato e trova la lingua per la quale vuoi stabilire una tassa</value>
+  </data>
+  <data name="HelpSetRate4" xml:space="preserve">
+    <value><![CDATA[Clicca sul pulsante <span0> </ span0> e ti mostrerà una finestra per aggiornare il tuo tasso]]></value>
+  </data>
+  <data name="HelpSetRate5" xml:space="preserve">
+    <value>Stabilisce il numero di crediti l'ora che vuoi guadagnare dei tuoi studenti e salva le modifiche</value>
+  </data>
+  <data name="HelpSetRate6" xml:space="preserve">
+    <value>Prendi un momento per verificare lo stato di ciascuna delle tue lingue. Gli studenti potranno solo in quelle lingue in cui è stabilito il proprio stato come disponibili. Clicca sui pulsantiche ci sono accanto a ciascuna lingua per mettere il proprio stato Disponibile / Non disponibile</value>
+  </data>
+  <data name="HelpSetRateTitle" xml:space="preserve">
+    <value>Come posso stabilire il mio tasso?</value>
   </data>
 </root>
