@@ -132,6 +132,12 @@
   <data name="how-does-time-banking-work" xml:space="preserve">
     <value>aiuto/funzionamento-banca-del-tempo</value>
   </data>
+  <data name="how-to-set-availability" xml:space="preserve">
+    <value>aiuto/come-modificare-disponibilita</value>
+  </data>
+  <data name="how-to-set-rate" xml:space="preserve">
+    <value>aiuto/come-definire-tasso</value>
+  </data>
   <data name="langademy-state" xml:space="preserve">
     <value>aiuto/stato-langademy</value>
   </data>
@@ -170,5 +176,8 @@
   </data>
   <data name="wallet-withdrawals" xml:space="preserve">
     <value>aiuto/ritirare-crediti-wallet</value>
+  </data>
+  <data name="why-complete-profile" xml:space="preserve">
+    <value>Aiuto/per-che-completare-profilo</value>
   </data>
 </root>

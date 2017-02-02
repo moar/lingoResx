@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -374,7 +374,7 @@
     <value>Langademy profile</value>
   </data>
   <data name="HelpSetAvailability1" xml:space="preserve">
-    <value>You set your availability in your calendar in order to restrict the dates and times in which you are gonna be available for private conversations with language students. They will only be able to send you requests for the dates and times you decide, and never for a conversation longer than 2 hours. Besides, you can also restrict the type of conversation you accept (timebanking conversations, paid conversations or any of those). </value>
+    <value>You set your availability in your calendar in order to restrict the dates and times in which you are gonna be available for private conversations with language students. They will only be able to send you requests for the dates and times you decide, and never for a conversation longer than 2 hours. What is more, you can also restrict the type of conversation you accept (time banking conversations, paid conversations or any of those). </value>
   </data>
   <data name="HelpSetAvailability10" xml:space="preserve">
     <value>How do I change the start time of an available block?</value>
@@ -392,7 +392,7 @@
     <value>Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you're not looking for speaking with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value>To set your availability go to &lt;a href="{0}" class="link"&gt;My calendar&lt;/a&gt; and click Edit Availability on the top side, or go directly to &lt;a href="{1}" class="link"&gt;Edit availability&lt;/a&gt; and follow these steps:</value>
+    <value><![CDATA[To set your availability go to <a href="{0}" class="link">My calendar</a> and click Edit Availability at the top, or go directly to <a href="{1}" class="link">Edit availability</a> and follow these steps:]]></value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Select the type of conversation you want to receive requests for by clicking Wallet, Time banking or Both</value>
@@ -407,7 +407,7 @@
     <value>How do I change the duration of an available block?</value>
   </data>
   <data name="HelpSetAvailability8" xml:space="preserve">
-    <value>Place your mouse pointer on the block you want to change. Two small lines wil appear at the end. Click on those lines and drag for resizing the block until you it has the duration you want.  </value>
+    <value>Place your mouse pointer on the block you want to change. Two small lines will appear at the end. Click those lines and drag for resizing the block until you it has the duration you want.  </value>
   </data>
   <data name="HelpSetAvailability9" xml:space="preserve">
     <value>If you are using a touchable device, touch and hold on the block until a small white dot appears at the end of the block. Then touch the dot and drag for resizing the block</value>
@@ -416,16 +416,16 @@
     <value>Set your availability</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value>Once you meet the &lt;a href="{0}" class="help link"&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:</value>
+    <value><![CDATA[Once you meet the <a href="{0}" class="help link">requirements</a>, you can set your rate for charging students for private conversations. To do so, follow the next steps:]]></value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
-    <value>Open your State Panel by clicking on your photo  on the top right side of your Home screen</value>
+    <value>Open your state panel by clicking on your photo  on the top right side of your home screen</value>
   </data>
   <data name="HelpSetRate3" xml:space="preserve">
     <value>Go to the Wallet section of the State Panel and look for the language you want to set a rate for</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value>Click on the &lt;span class="lg lg-cog"&gt;&lt;/span&gt; button and the dialog for updating the rate will be shown</value>
+    <value><![CDATA[Click on the <span class="lg lg-cog"></span> button and the dialog for updating the rate will be shown]]></value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Set the amount of credits per hour that you want to charge students and click Save</value>

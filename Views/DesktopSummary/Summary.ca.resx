@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AddStudLangError" xml:space="preserve">
+    <value>Has de afegir un idioma que estiguis aprenent</value>
+  </data>
   <data name="DailySugs" xml:space="preserve">
     <value>Suggeriments del dia</value>
   </data>
@@ -134,6 +137,42 @@
   </data>
   <data name="ReqsSent" xml:space="preserve">
     <value>sol·licituds de conversa respostes</value>
+  </data>
+  <data name="TipCompleteProf" xml:space="preserve">
+    <value>Deuries de completar el teu perfil</value>
+  </data>
+  <data name="TipCompleteProfAux" xml:space="preserve">
+    <value>Editar perfil</value>
+  </data>
+  <data name="TipCompleteProfHelp" xml:space="preserve">
+    <value>Per què?</value>
+  </data>
+  <data name="TipEditAvailability" xml:space="preserve">
+    <value>Has de definir la teva disponibilitat al teu calendari per parlar en la teva llengua materna. Si no, els estudiants no podran sol·licitar-te converses privades</value>
+  </data>
+  <data name="TipEditAvailabilityAux" xml:space="preserve">
+    <value>Editar la meva disponibilita</value>
+  </data>
+  <data name="TipEditAvailabilityHelp" xml:space="preserve">
+    <value>Com editar la teva disponibilitat</value>
+  </data>
+  <data name="TipWalletNatBillingAddr" xml:space="preserve">
+    <value>Perquè un estudiant pugui pagar-te per conversar amb tu, primer has de completar la teva adreça de facturació</value>
+  </data>
+  <data name="TipWalletNatBillingAddrAux" xml:space="preserve">
+    <value>Afegir adreça de facturació</value>
+  </data>
+  <data name="TipWalletNatBillingAddrHelp" xml:space="preserve">
+    <value>Veure les condicions de Wallet</value>
+  </data>
+  <data name="TipWalletNatSetRate" xml:space="preserve">
+    <value>Compleixes els requisits per establir la teva tarifa en les converses de pagament de {0}</value>
+  </data>
+  <data name="TipWalletNatSetRateHelp" xml:space="preserve">
+    <value>Com establir la meva tarifa</value>
+  </data>
+  <data name="TipWalletNatZeroRepu" xml:space="preserve">
+    <value>Necessites una reputació mínima per establir una tarifa com a parlant natiu. Pots fer trucades de banc de temps o videotrucades gratuïtes i demanar el vot als teus estudiants</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>Benvingut a Langademy</value>

@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AddStudLangError" xml:space="preserve">
+    <value>Tienes que añadir por lo menos un idioma que estés aprendiendo</value>
+  </data>
   <data name="DailySugs" xml:space="preserve">
     <value>Sugerencias del día</value>
   </data>
@@ -134,6 +137,42 @@
   </data>
   <data name="ReqsSent" xml:space="preserve">
     <value>solicitudes de conversación respondidas</value>
+  </data>
+  <data name="TipCompleteProf" xml:space="preserve">
+    <value>Deberías completar tu perfil</value>
+  </data>
+  <data name="TipCompleteProfAux" xml:space="preserve">
+    <value>Editar perfil</value>
+  </data>
+  <data name="TipCompleteProfHelp" xml:space="preserve">
+    <value>¿Por qué?</value>
+  </data>
+  <data name="TipEditAvailability" xml:space="preserve">
+    <value>Tienes que definir tu disponibilidad en tu calendario para hablar en tu idioma nativo. Si no, los estudiantes no podrán solicitarte conversaciones privadas</value>
+  </data>
+  <data name="TipEditAvailabilityAux" xml:space="preserve">
+    <value>Editar mi disponibilidad</value>
+  </data>
+  <data name="TipEditAvailabilityHelp" xml:space="preserve">
+    <value>Cómo editar tu disponibilidad</value>
+  </data>
+  <data name="TipWalletNatBillingAddr" xml:space="preserve">
+    <value>Para que un estudiante pueda pagarte por conversar contigo, primero debes completar tu dirección de facturación</value>
+  </data>
+  <data name="TipWalletNatBillingAddrAux" xml:space="preserve">
+    <value>Añadir dirección de facturación</value>
+  </data>
+  <data name="TipWalletNatBillingAddrHelp" xml:space="preserve">
+    <value>Ver las condiciones de Wallet</value>
+  </data>
+  <data name="TipWalletNatSetRate" xml:space="preserve">
+    <value>Cumples los requisitos para establecer tu tarifa en las conversaciones de pago de {0} </value>
+  </data>
+  <data name="TipWalletNatSetRateHelp" xml:space="preserve">
+    <value>Cómo establecer mi tarifa</value>
+  </data>
+  <data name="TipWalletNatZeroRepu" xml:space="preserve">
+    <value>Necesitas una reputación mínima para establecer una tarifa como hablante nativo. Puedes hacer llamadas de banco de tiempo o videollamadas gratuitas y pedir el voto a tus estudiantes</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>Bienvenido a Langademy</value>
