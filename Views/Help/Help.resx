@@ -449,7 +449,7 @@
     <value>Meetups are the way you can let everybody know in advance when you will be online in a chat room.  This way, students and other native speakers can join you at the same time. Indeed, you can enter a chat room whenever you want but, let's be honest. It's easier to bring together a larger group of people if you schedule an event in advance. </value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value>Check your &lt;a href="{0}" class="link applnk"&gt;Calendar&lt;/a&gt; to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one.</value>
+    <value><![CDATA[Check your <a href="{0}" class="link applnk">Calendar</a> to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one.]]></value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>When you join a meet up, the event will be added to your calendar and you will be able to write on the message board and propose conversation topics. </value>
@@ -458,7 +458,7 @@
     <value>How do I schedule a new meet up?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value>To schedule a new meetup go to &lt;a href="{0}" class="link applnk"&gt;My calendar&lt;/a&gt; and click New Meetup on the top side, or go directly to &lt;a href="{1}" class="link applnk"&gt;New meetup&lt;/a&gt; and follow these steps:</value>
+    <value><![CDATA[To schedule a new meetup go to <a href="{0}" class="link applnk">My calendar</a> and click New Meetup on the top side, or go directly to <a href="{1}" class="link applnk">New meetup</a> and follow these steps:]]></value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Select the language of the meetup. Participants will attend the meetup at the chat room of that language.</value>
@@ -485,7 +485,7 @@
     <value>How do I know if a native accepts my request?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value>You can track the status of your requests in your &lt;a href="{0}" class="link applnk"&gt;Calendar&lt;/a&gt;. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. </value>
+    <value><![CDATA[You can track the status of your requests in your <a href="{0}" class="link applnk">Calendar</a>. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. ]]></value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Besides, when the native accepts your request you will be notified and a new event will be added to your calendar.</value>
@@ -494,7 +494,7 @@
     <value>What do I have to do at the time of the conversation?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value>Go to the call panel &lt;span class="lg lg-call"&gt;&lt;/span&gt; and select the Private Conversations Tab &lt;span class="lg lg-calendar"&gt;&lt;/span&gt;. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. </value>
+    <value><![CDATA[Go to the call panel <span class="lg lg-call"></span> and select the Private Conversations Tab <span class="lg lg-calendar"></span>. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. ]]></value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>When you already are in the videoapp you will see when your partner is online, and in the meantime you can write in your private chat to make your partner aware of you being there.</value>

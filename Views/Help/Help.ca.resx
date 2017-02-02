@@ -361,6 +361,9 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpCompleteProfile1" xml:space="preserve">
     <value>La raó principal per completar el teu perfil és que t'ajudarà a contactar fàcilment amb els estudiants i a aparèixer en els resultats de cerca. Si omples el teu perfil i el teu calendari cridaràs l'atenció dels estudiants i et faran més sol·licituds per a converses privades</value>
   </data>
+  <data name="HelpCompleteProfile2" xml:space="preserve">
+    <value>Pots pujar la teva foto de perfil i una foto de portada. També hauries incloure la teva edat, país, sexe i una breu descripció sobre tu.</value>
+  </data>
   <data name="HelpCompleteProfile3" xml:space="preserve">
     <value>També has d'afegir els idiomes que vols parlar i / o aprendre. Quan afegeixes un idioma has de definir un nivells, la qual cosa vol dir que:</value>
   </data>
@@ -370,11 +373,26 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpProfileTitle" xml:space="preserve">
     <value>Perfil Langademy</value>
   </data>
+  <data name="HelpSetAvailability1" xml:space="preserve">
+    <value>Establir la disponibilitat en el teu calendari serveix per restringir les dates i hores en les que vas a estar disponible per mantenir converses privades amb estudiants. Aquests només et podran enviar sol·licituds a les franges disponibles que has definit, i mai per un període superior a les 2 hores. A més, també pots restringir el tipus de conversa que vas a acceptar (banc de temps, converses pagades o qualsevol de les dues opcions)</value>
+  </data>
   <data name="HelpSetAvailability10" xml:space="preserve">
     <value>Com puc canviar l'hora d'inici d'una franja marcada com a disponible?</value>
   </data>
+  <data name="HelpSetAvailability11" xml:space="preserve">
+    <value>Pots arrossegar els blocs sobre altres blocs lliures. Si utilitzeu un dispositiu tàctil, prem i mantin la pulsació abans de començar a arrossegar un bloc</value>
+  </data>
   <data name="HelpSetAvailability12" xml:space="preserve">
     <value>Com puc esborrar una franja marcada com a disponible?</value>
+  </data>
+  <data name="HelpSetAvailability13" xml:space="preserve">
+    <value>Fes clic en el bloc que vols eliminar i veuràs una finestra flotant amb l'opció d'esborrar. Fes clic esborrar per confirmar.</value>
+  </data>
+  <data name="HelpSetAvailability2" xml:space="preserve">
+    <value>Mantenir la teva disponibilitat actualitzada t'ajudarà a organitzar el teu temps com a parlant natiu i evitaràs haver de rebre sol·licituds de contacte quan no vulguis parlar amb estudiants. Tingues en compte que si no defineixes la teva disponibilitat, només podràs fer videotrucades amb la teva llista de contactes o amb els estudiants que trobis a les sales de xat.</value>
+  </data>
+  <data name="HelpSetAvailability3" xml:space="preserve">
+    <value><![CDATA[Per definir la teva disponibilitat ves a <a0> El meu calendari </ a0> i clica Edita Disponibilitat a la part superior, o ves directament a <a1> Edita disponibilitat </ a1> i segueix aquests passos:]]></value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Tria el tipus de conversa que vols rebre, clicant Wallet, Banc de Temps o totes dos</value>
@@ -388,7 +406,34 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpSetAvailability7" xml:space="preserve">
     <value>Com puc canviar la durada d'un bloc disponible?</value>
   </data>
+  <data name="HelpSetAvailability8" xml:space="preserve">
+    <value>Posa el punter sobre el bloc que vulguis canviar. Veuràs dues petites ratlles al final del bloc. Clica sobre aquestes línies i arrossega-les per canviar la mida dels blocs fins que tinguin la durada que desitja.</value>
+  </data>
+  <data name="HelpSetAvailability9" xml:space="preserve">
+    <value>Si utilitzeu un dispositiu tàctil, mantingues un bloc premut fins que vegis un petit punt blanc al final del bloc. Després prem sobre el punt i arrossega per redimensionar el bloc.</value>
+  </data>
   <data name="HelpSetAvailabilityTitle" xml:space="preserve">
     <value>Edita la teva disponibilitat</value>
+  </data>
+  <data name="HelpSetRate1" xml:space="preserve">
+    <value><![CDATA[Una vegada que compleixis els <a0> requisits </ a0>, podràs definir una tarifa per cobrar als teus alumnes per mantenir converses. Per a això, segueix aquests passos:]]></value>
+  </data>
+  <data name="HelpSetRate2" xml:space="preserve">
+    <value>Obre el teu panell d'estat clicant a la teva foto de perfil a la part superior dreta de la pàgina d'inici</value>
+  </data>
+  <data name="HelpSetRate3" xml:space="preserve">
+    <value>Aneu a la secció Wallet del teu tauler d'estat i busca l'idioma per al qual vols establir una tarifa</value>
+  </data>
+  <data name="HelpSetRate4" xml:space="preserve">
+    <value><![CDATA[Fes clic al botó <span0> </ span0> i se't mostrarà una finestra perquè actualitzis la teva tarifa]]></value>
+  </data>
+  <data name="HelpSetRate5" xml:space="preserve">
+    <value>Estableix el nombre de crèdits per hora que vols cobrar als teus estudiants i guarda els canvis</value>
+  </data>
+  <data name="HelpSetRate6" xml:space="preserve">
+    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idiomas para poner tu estado Disponible / No disponible</value>
+  </data>
+  <data name="HelpSetRateTitle" xml:space="preserve">
+    <value>Com puc establir la meva tarifa?</value>
   </data>
 </root>
