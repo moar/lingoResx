@@ -178,6 +178,24 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Meet conversation partners scheduling a new meetup.
+        /// </summary>
+        public static string TipCreateMeetupStud {
+            get {
+                return ResourceManager.GetString("TipCreateMeetupStud", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How can I meet new partners?.
+        /// </summary>
+        public static string TipCreateMeetupStudHelp {
+            get {
+                return ResourceManager.GetString("TipCreateMeetupStudHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You need to set your availability for speaking in your native language. Otherwise students won&apos;t be able to request you private conversations.
         /// </summary>
         public static string TipEditAvailability {
@@ -232,6 +250,24 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have scheduled a paid conversation but you don&apos;t have enough credits in your wallet account. Please, purchase credits before the scheduled time or you won&apos;t be able to call.
+        /// </summary>
+        public static string TipWalletBalanceRunout {
+            get {
+                return ResourceManager.GetString("TipWalletBalanceRunout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Buy credits.
+        /// </summary>
+        public static string TipWalletBalanceRunoutAux {
+            get {
+                return ResourceManager.GetString("TipWalletBalanceRunoutAux", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Before any student can pay you for private conversations you need to complete your billing address.
         /// </summary>
         public static string TipWalletNatBillingAddr {
@@ -250,7 +286,7 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Check wallet conditions.
+        ///   Looks up a localized string similar to Check Wallet conditions.
         /// </summary>
         public static string TipWalletNatBillingAddrHelp {
             get {
@@ -259,7 +295,7 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You meet the requirements in order to set your rate for paid conversations in {0}.
+        ///   Looks up a localized string similar to You already meet the requirements to set your rate for paid conversations in {0}.
         /// </summary>
         public static string TipWalletNatSetRate {
             get {
@@ -277,7 +313,7 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You need a minimum reputation for setting your rates as a native speaker. You can make timebanking videocalls or wallet videocalls (for free) and ask students for their votes.
+        ///   Looks up a localized string similar to You need a minimum reputation for setting your rates as a native speaker. You can make timebanking video calls or wallet videocalls (for free) and ask students for their votes.
         /// </summary>
         public static string TipWalletNatZeroRepu {
             get {

@@ -106,11 +106,11 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to help/how-to-meet-students.
+        ///   Looks up a localized string similar to help/how-to-meet-partners.
         /// </summary>
-        public static string how_to_meet_students {
+        public static string how_to_meet_partners {
             get {
-                return ResourceManager.GetString("how-to-meet-students", resourceCulture);
+                return ResourceManager.GetString("how-to-meet-partners", resourceCulture);
             }
         }
         
