@@ -196,6 +196,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to other-language-resources.
+        /// </summary>
+        public static string OtherLangResources {
+            get {
+                return ResourceManager.GetString("OtherLangResources", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to pricing.
         /// </summary>
         public static string pricing {

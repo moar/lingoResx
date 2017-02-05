@@ -435,4 +435,73 @@
   <data name="HelpSetRateTitle" xml:space="preserve">
     <value>¿Cómo puedo establecer mi tarifa?</value>
   </data>
+  <data name="HelpHowMeetPartners1" xml:space="preserve">
+    <value>Si estás buscando compañeros de conversación (tanto de pago como de banco de tiempo), puedes sacar provecho de las quedadas de Langademy</value>
+  </data>
+  <data name="HelpHowMeetPartners10" xml:space="preserve">
+    <value>¿Cómo puedo unirme a una quedada?</value>
+  </data>
+  <data name="HelpHowMeetPartners11" xml:space="preserve">
+    <value>Entra en la página de la quedada y clica en Asistir. Ten en cuenta que solo puedes apuntarte a las quedadas de los idiomas que tienes en tu perfil</value>
+  </data>
+  <data name="HelpHowMeetPartners2" xml:space="preserve">
+    <value>Las quedadas son la manera para que otros compañeros sepan de antemano cuando vas a estar en una sala de chat. De esta manera, los estudiantes y otros hablantes nativos podrán unirse a ti a la misma hora. De hecho, puedes entrar a las salas de chat cuando quieras, pero seamos honestos, es más fácil juntar a gente si un evento se organiza con anterioridad.</value>
+  </data>
+  <data name="HelpHowMeetPartners3" xml:space="preserve">
+    <value><![CDATA[Revisa tu <a href="{0}" class="link applnk">Calendario</a> para ver las quedadas que se han organizado. Si hay alguna quedada que te interese, no dudes en apuntarte. Si no, crea una nueva.]]></value>
+  </data>
+  <data name="HelpHowMeetPartners4" xml:space="preserve">
+    <value>Cuando te apuntas a una quedada, se añadira un evento en tu calendario. Accede y podrás escribir en el tablero de la quedada y además podrás proponer temas de conversación para la misma.</value>
+  </data>
+  <data name="HelpHowMeetPartners5" xml:space="preserve">
+    <value>¿Cómo puedo organizar una nueva quedada?</value>
+  </data>
+  <data name="HelpHowMeetPartners6" xml:space="preserve">
+    <value><![CDATA[Para organizar una nueva queada entra a <a href="{0}" class="link applnk"> My calendario</a> y clica Nueva Quedada en la parte superior. También puedeshacer directamaente una <a href="{1}" class="link applnk">Nueva Quedada</a> y seguir los siguientes pasos:]]></value>
+  </data>
+  <data name="HelpHowMeetPartners7" xml:space="preserve">
+    <value>Selecciona el idioma de la quedada. Los participantes que asistan a la quedada entrarán a la sala de chat del idioma de la quedada.</value>
+  </data>
+  <data name="HelpHowMeetPartners8" xml:space="preserve">
+    <value>Selecciona la fecha y la hora de la quedada (en tu zona horaria).</value>
+  </data>
+  <data name="HelpHowMeetPartners9" xml:space="preserve">
+    <value>Clica Guardar</value>
+  </data>
+  <data name="HelpHowMeetPartnersTitle" xml:space="preserve">
+    <value>¿Cómo puedo conocer nuevos compañeros?</value>
+  </data>
+  <data name="HelpHowRequestConversation1" xml:space="preserve">
+    <value>Cuando visitas el perfil de cualquier usuario que quiera hacer intercambios lingüisticos o ayudar a practicar un idioma a cambio de créditos, podrás ver su calendario de disponibilidad.</value>
+  </data>
+  <data name="HelpHowRequestConversation2" xml:space="preserve">
+    <value>Si quieres solicitar una conversación privada, clica en Solicitar una Conversación (encima del calendario) y sigue los pasos que verás en pantalla. Solo tienes que elegir el idioma (de los idiomas que tienes en tu perfil) que quieres practicar, el tipo de conversación que quieres mantener (de pago o de banco de tiempo) y reserva el día y la hora de la conversación clicando encima de una franja disponible. Los bloques verdes indican que puedes solicitar una conversación de banco de tiempo, los grises significan que puedes solicitar una conversación de pago, y los amarillos que el nativo acepta los dos tipos de conversaciónes. Ten en cuenta que no puedes hacer una solicitud de una duración mayor de 2 horas. </value>
+  </data>
+  <data name="HelpHowRequestConversation3" xml:space="preserve">
+    <value>Si el nativo no tiene horas disponibles tendrás la opción de ser notificado cuando esta persona esté disponible. Pulsa el signo de interrogación que verás en la parte superior del calendario si quieres recibir la notificación.</value>
+  </data>
+  <data name="HelpHowRequestConversation4" xml:space="preserve">
+    <value>¿Cómo puedo saber si un nativo acepta mi solicitud?</value>
+  </data>
+  <data name="HelpHowRequestConversation5" xml:space="preserve">
+    <value><![CDATA[Puedes hacer el seguimiento de tus solicitudes en tu <a href="{0}" class="link applnk">Calendario</a>. Revisa el panel de solicitudes enviadas. Elige la solicitud que quieres y verás los detalles de esa solicitud. En la pantalla de detalles podrás ver si el nativo ha aceptado o ha rechazado tu solicitud y también podrás cancelar la solicitud o mandar mensajes al nativo en caso de que necesites información adicional.]]></value>
+  </data>
+  <data name="HelpHowRequestConversation6" xml:space="preserve">
+    <value>Además, cuando el nativo acepte tu solicitud serás notificado y se te añadira un nuevo evento a tu calendario</value>
+  </data>
+  <data name="HelpHowRequestConversation7" xml:space="preserve">
+    <value>¿Qué tengo que hacer cuando sea la hora de la conversación?</value>
+  </data>
+  <data name="HelpHowRequestConversation8" xml:space="preserve">
+    <value><![CDATA[Ve al panel de llamada <span class="lg lg-call"></span> y selecciona la pestaña de Conversaciones Privadas <span class="lg lg-calendar"></span>. Clica en un usuario y podrás abrir la aplicación de videollamadas. Asimismo, puedes abrir la aplicación de video desde los detalles de conversación de tu Calendario.]]></value>
+  </data>
+  <data name="HelpHowRequestConversation9" xml:space="preserve">
+    <value>Cuando te encuentres en la aplicación de video, podrás ver cuando se ha conectado tu compañero. Mientras tanto, podrás mandarle mensajes por vuestro chat privado para que tu compañero sepa que le estas esperando.</value>
+  </data>
+  <data name="HelpHowRequestConversationTitle" xml:space="preserve">
+    <value>¿Cómo puedo solicitar una conversación privada?</value>
+  </data>
+  <data name="HelpMeetupsTitle" xml:space="preserve">
+    <value>Quedadas</value>
+  </data>
 </root>

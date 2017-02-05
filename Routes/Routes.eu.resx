@@ -150,6 +150,9 @@
   <data name="natives-how-to-start" xml:space="preserve">
     <value>laguntza/hiztun-natiboak-nola-hasi</value>
   </data>
+  <data name="OtherLangResources" xml:space="preserve">
+    <value>hizkuntza-errekurtso-gehiago</value>
+  </data>
   <data name="pricing" xml:space="preserve">
     <value>prezioak</value>
   </data>
