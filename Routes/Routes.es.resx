@@ -121,7 +121,7 @@
     <value>idioma/{selectedCulture}/</value>
   </data>
   <data name="conversation-exchange-meetups" xml:space="preserve">
-    <value>quedadas-intecambio-idiomas</value>
+    <value>quedadas-intercambio-idiomas</value>
   </data>
   <data name="earn-as-conversation-partner" xml:space="preserve">
     <value>ganar-dinero-companero-conversacion</value>
@@ -161,6 +161,9 @@
   </data>
   <data name="natives-how-to-start" xml:space="preserve">
     <value>ayuda/nativos-como-empezar</value>
+  </data>
+  <data name="OtherLangResources" xml:space="preserve">
+    <value>otros-recursos-linguisticos</value>
   </data>
   <data name="pricing" xml:space="preserve">
     <value>precios</value>

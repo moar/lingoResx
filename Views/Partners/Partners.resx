@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,76 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="bloglanguage" xml:space="preserve">
-    <value>language/{selectedCulture}/</value>
+  <data name="HackingChinese" xml:space="preserve">
+    <value>Hacking Chinese is the perfect site to learn Mandarin. They have resources for listening, speaking, reading, writing and vocabulary learning. They also cover other aspects as study hacks, self-studying, immersion, mentality and planning.&lt;br /&gt;
+                        To sum up, everything you need to learn a perfect Mandarin. All the resources they provide are free and they are classified depending on your level (beginner, intermediate, advanced)</value>
   </data>
-  <data name="conversation-exchange-meetups" xml:space="preserve">
-    <value>conversation-exchange-meetups</value>
+  <data name="Russificate" xml:space="preserve">
+    <value>Russificate is one of the leading Online Russian language schools with students from more than 45 countries, founded in 2013 by a Russian language teacher. We offer one-on-one Russian classes via Skype with native speakers and professional certified tutors from Russia. You can choose among a great variety of courses or choose your own personalized program. The first 30-minute lesson is free.</value>
   </data>
-  <data name="earn-as-conversation-partner" xml:space="preserve">
-    <value>earn-as-conversation-partner</value>
+  <data name="Section" xml:space="preserve">
+    <value>Other resources</value>
   </data>
-  <data name="help" xml:space="preserve">
-    <value>help</value>
+  <data name="Subtitle" xml:space="preserve">
+    <value>You want more? Check this webpages and skyrocket your language learning process!</value>
   </data>
-  <data name="how-does-time-banking-work" xml:space="preserve">
-    <value>help/how-does-time-banking-work</value>
-  </data>
-  <data name="how-to-meet-partners" xml:space="preserve">
-    <value>help/how-to-meet-partners</value>
-  </data>
-  <data name="how-to-request-private-conversation" xml:space="preserve">
-    <value>help/how-to-request-private-conversation</value>
-  </data>
-  <data name="how-to-set-availability" xml:space="preserve">
-    <value>help/how-to-set-availability</value>
-  </data>
-  <data name="how-to-set-rate" xml:space="preserve">
-    <value>help/how-to-set-rate</value>
-  </data>
-  <data name="langademy-state" xml:space="preserve">
-    <value>help/langademy-state</value>
-  </data>
-  <data name="language-exchange" xml:space="preserve">
-    <value>language-exchange</value>
-  </data>
-  <data name="language-exchange-partners" xml:space="preserve">
-    <value>language-exchange-partners</value>
-  </data>
-  <data name="language-learners-how-to-start" xml:space="preserve">
-    <value>help/language-learners-how-to-start</value>
-  </data>
-  <data name="learn-languages" xml:space="preserve">
-    <value>learn-languages-online</value>
-  </data>
-  <data name="natives-how-to-start" xml:space="preserve">
-    <value>help/natives-how-to-start</value>
-  </data>
-  <data name="OtherLangResources" xml:space="preserve">
-    <value>other-language-resources</value>
-  </data>
-  <data name="pricing" xml:space="preserve">
-    <value>pricing</value>
-  </data>
-  <data name="time-banking-indroduction" xml:space="preserve">
-    <value>help/time-banking-indroduction</value>
-  </data>
-  <data name="time-banking-language-chat-rooms" xml:space="preserve">
-    <value>help/time-banking-language-chat-rooms</value>
-  </data>
-  <data name="wallet-introduction" xml:space="preserve">
-    <value>help/wallet-introduction</value>
-  </data>
-  <data name="wallet-language-room" xml:space="preserve">
-    <value>help/wallet-language-room</value>
-  </data>
-  <data name="wallet-native-fees" xml:space="preserve">
-    <value>help/wallet-native-fees</value>
-  </data>
-  <data name="wallet-withdrawals" xml:space="preserve">
-    <value>help/wallet-withdrawals</value>
-  </data>
-  <data name="why-complete-profile" xml:space="preserve">
-    <value>help/why-complete-profile</value>
+  <data name="Title" xml:space="preserve">
+    <value>Other language resources</value>
   </data>
 </root>
