@@ -117,97 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddStudLangError" xml:space="preserve">
-    <value>Tienes que añadir por lo menos un idioma que estés aprendiendo</value>
+  <data name="HackingChinese" xml:space="preserve">
+    <value><![CDATA[Hacking Chinese es el sitio perfecto para aprender Mandarín. Esta web ofrece recursos para mejorar tu oido, habla, escritura, lectura y vocabulario. También se cubren otros aspectos del proceso de aprendizaje de idiomas:  la mentalidad, planificación o el auto-aprendizaje de idiomas. <br/> En resumen, encontrarás todo lo que necesitas para aprender un perfecto Mandarín. Todos los recursos que se ofrecen son gratuitos  y están clasificados por niveles (principiante, intermedio, avanzado).]]></value>
   </data>
-  <data name="DailySugs" xml:space="preserve">
-    <value>Sugerencias del día</value>
+  <data name="Russificate" xml:space="preserve">
+    <value>Russificate es una de las principales páginas de aprendizaje del idioma ruso. Cuenta con estudiantes de más de 45 paises y fue fundada en 2013 por una profesora de Ruso.  Ofrecen clases personalizadas por Skype con hablantes nativos rusos y tutores certificados. Tienen una gran variedad de cursos y además también ofrecen cursos personalizados. Los 30 minutos de la primera clase son gratuitos.</value>
   </data>
-  <data name="HelloUser" xml:space="preserve">
-    <value>Hola {0}, esta es tu agenda para hoy</value>
+  <data name="Section" xml:space="preserve">
+    <value>Otros recursos</value>
   </data>
-  <data name="Meetups" xml:space="preserve">
-    <value>quedadas</value>
+  <data name="Subtitle" xml:space="preserve">
+    <value>¿Quieres más aun? Visita estas páginas y ¡lanza tu proceso de aprendizaje de idioma!</value>
   </data>
-  <data name="PrConvs" xml:space="preserve">
-    <value>conversaciones privadas</value>
-  </data>
-  <data name="ReqsRec" xml:space="preserve">
-    <value>solicitudes de conversación sin responder</value>
-  </data>
-  <data name="ReqsSent" xml:space="preserve">
-    <value>solicitudes de conversación respondidas</value>
-  </data>
-  <data name="TipCompleteProf" xml:space="preserve">
-    <value>Deberías completar tu perfil</value>
-  </data>
-  <data name="TipCompleteProfAux" xml:space="preserve">
-    <value>Editar perfil</value>
-  </data>
-  <data name="TipCompleteProfHelp" xml:space="preserve">
-    <value>¿Por qué?</value>
-  </data>
-  <data name="TipCreateMeetup" xml:space="preserve">
-    <value>Haz que te conozcan y conoce a estudiantes creando una nueva quedada</value>
-  </data>
-  <data name="TipCreateMeetupAux" xml:space="preserve">
-    <value>Organiza una quedada</value>
-  </data>
-  <data name="TipCreateMeetupHelp" xml:space="preserve">
-    <value>¿Cómo puedo conocer y hablar con estudiantes?</value>
-  </data>
-  <data name="TipCreateMeetupStud" xml:space="preserve">
-    <value>Conoce a nuevos compañeros organizando una quedada</value>
-  </data>
-  <data name="TipCreateMeetupStudHelp" xml:space="preserve">
-    <value>¿Cómo puede conocer nuevos compañeros de intercambio?</value>
-  </data>
-  <data name="TipEditAvailability" xml:space="preserve">
-    <value>Tienes que definir tu disponibilidad en tu calendario para hablar en tu idioma nativo. Si no, los estudiantes no podrán solicitarte conversaciones privadas</value>
-  </data>
-  <data name="TipEditAvailabilityAux" xml:space="preserve">
-    <value>Editar mi disponibilidad</value>
-  </data>
-  <data name="TipEditAvailabilityHelp" xml:space="preserve">
-    <value>Cómo editar tu disponibilidad</value>
-  </data>
-  <data name="TipSearchAndRequest" xml:space="preserve">
-    <value>Busca un hablante nativo y solicitale una conversación privada</value>
-  </data>
-  <data name="TipSearchAndRequestAux" xml:space="preserve">
-    <value>Busca compañeros</value>
-  </data>
-  <data name="TipSearchAndRequestHelp" xml:space="preserve">
-    <value>¿Cómo puedo solicitar una conversación privada?</value>
-  </data>
-  <data name="TipWalletBalanceRunoutAux" xml:space="preserve">
-    <value>Comprar créditos</value>
-  </data>
-  <data name="TipWalletNatBillingAddr" xml:space="preserve">
-    <value>Para que un estudiante pueda pagarte por conversar contigo, primero debes completar tu dirección de facturación</value>
-  </data>
-  <data name="TipWalletNatBillingAddrAux" xml:space="preserve">
-    <value>Añadir dirección de facturación</value>
-  </data>
-  <data name="TipWalletNatBillingAddrHelp" xml:space="preserve">
-    <value>Ver las condiciones de Wallet</value>
-  </data>
-  <data name="TipWalletNatSetRate" xml:space="preserve">
-    <value>Cumples los requisitos para establecer tu tarifa en las conversaciones de pago de {0} </value>
-  </data>
-  <data name="TipWalletNatSetRateHelp" xml:space="preserve">
-    <value>Cómo establecer mi tarifa</value>
-  </data>
-  <data name="TipWalletNatZeroRepu" xml:space="preserve">
-    <value>Necesitas una reputación mínima para establecer una tarifa como hablante nativo. Puedes hacer llamadas de banco de tiempo o videollamadas gratuitas y pedir el voto a tus estudiantes</value>
-  </data>
-  <data name="Welcome" xml:space="preserve">
-    <value>Bienvenido a Langademy</value>
-  </data>
-  <data name="WithNatives" xml:space="preserve">
-    <value>Con hablantes nativos</value>
-  </data>
-  <data name="WithStudents" xml:space="preserve">
-    <value>Con estudiantes</value>
+  <data name="Title" xml:space="preserve">
+    <value>Otros recursos lingüísticos</value>
   </data>
 </root>
