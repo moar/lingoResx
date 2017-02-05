@@ -1193,5 +1193,23 @@ namespace Resources.Views.MeetupBoard {
                 return ResourceManager.GetString("YouConversationRejected", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You haven&apos;t received any conversation requests.
+        /// </summary>
+        public static string ZeroConversationRequestsRec {
+            get {
+                return ResourceManager.GetString("ZeroConversationRequestsRec", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You haven&apos;t sent any conversation requests.
+        /// </summary>
+        public static string ZeroConversationRequestsSent {
+            get {
+                return ResourceManager.GetString("ZeroConversationRequestsSent", resourceCulture);
+            }
+        }
     }
 }
