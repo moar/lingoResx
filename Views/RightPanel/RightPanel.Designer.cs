@@ -223,6 +223,15 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to All.
+        /// </summary>
+        public static string RPFilterAllRoles {
+            get {
+                return ResourceManager.GetString("RPFilterAllRoles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cancel.
         /// </summary>
         public static string RPFilterCancel {
@@ -273,6 +282,24 @@ namespace Resources.Views.RightPanel {
         public static string RPFilterTalkedTo {
             get {
                 return ResourceManager.GetString("RPFilterTalkedTo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Natives for timebanking.
+        /// </summary>
+        public static string RPFilterTimeBankingNatives {
+            get {
+                return ResourceManager.GetString("RPFilterTimeBankingNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Natives for paid conversations.
+        /// </summary>
+        public static string RPFilterWalletNatives {
+            get {
+                return ResourceManager.GetString("RPFilterWalletNatives", resourceCulture);
             }
         }
         

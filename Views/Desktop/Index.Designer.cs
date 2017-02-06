@@ -403,6 +403,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to I&apos;m a professional language teacher.
+        /// </summary>
+        public static string DeskTeacher {
+            get {
+                return ResourceManager.GetString("DeskTeacher", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Terms.
         /// </summary>
         public static string DeskTerms {
@@ -646,6 +655,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have to select at least one option.
+        /// </summary>
+        public static string RequireRole {
+            get {
+                return ResourceManager.GetString("RequireRole", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Search.
         /// </summary>
         public static string Search {
@@ -714,6 +732,24 @@ namespace Resources.Views.Desktop {
         public static string SpeakLangStudents {
             get {
                 return ResourceManager.GetString("SpeakLangStudents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I want to create a professional profile, find new students and teach languages . (Professional profiles an tools will be available soon).
+        /// </summary>
+        public static string TeacherComingSoon {
+            get {
+                return ResourceManager.GetString("TeacherComingSoon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At this moment you have to select one more option besides using Langademy as a professional teacher.
+        /// </summary>
+        public static string TeacherValidate {
+            get {
+                return ResourceManager.GetString("TeacherValidate", resourceCulture);
             }
         }
         
