@@ -495,4 +495,10 @@
   <data name="EditAvSelectTypeTouch" xml:space="preserve">
     <value>Tria si vols rebre sol·licituds per a trucades Wallet, trucades Banc del temps o per qualsevol i crea tantes franges com vulguis directament sobre el calendari. Prem durant un segon en una franja buida quan vulguis crear una nova franja</value>
   </data>
+  <data name="ZeroConversationRequestsRec" xml:space="preserve">
+    <value>No has rebut cap sol·licitud de conversa</value>
+  </data>
+  <data name="ZeroConversationRequestsSent" xml:space="preserve">
+    <value>No has enviat cap sol·licitud de conversa</value>
+  </data>
 </root>

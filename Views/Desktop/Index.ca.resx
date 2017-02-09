@@ -372,4 +372,22 @@
   <data name="Welcome" xml:space="preserve">
     <value>Benvingut a Langademy</value>
   </data>
+  <data name="Learning" xml:space="preserve">
+    <value>Aprèn</value>
+  </data>
+  <data name="Speaking" xml:space="preserve">
+    <value>Parla</value>
+  </data>
+  <data name="DeskTeacher" xml:space="preserve">
+    <value>Sóc un professor d'idiomes</value>
+  </data>
+  <data name="RequireRole" xml:space="preserve">
+    <value>Has de seleccionar almenys una opció</value>
+  </data>
+  <data name="TeacherComingSoon" xml:space="preserve">
+    <value>Vull crear un perfil professional, buscar nous estudiants i aprendre idiomes (aviat estaran disponibles els perfils professionals).</value>
+  </data>
+  <data name="TeacherValidate" xml:space="preserve">
+    <value>En aquest moment has de triar una opció més a part d'usar Langademy com a professor professional.</value>
+  </data>
 </root>

@@ -117,4 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="HackingChinese" xml:space="preserve">
+    <value><![CDATA[Hacking cinese è il luogo ideale per imparare il mandarino. Questo sito fornisce risorse per migliorare il vostro ascolto, conversazione, scrittura, lettura e del vocabolario.Altri aspetti del processo di apprendimento delle lingue sono anche coperti, la mentalità, la pianificazione o auto-apprendimento lingue <Br0 /> In definitiva, troverai tutto il necessario per imparare un perfetto mandarino. Tutte le risorse offerte sono libere e sono classificati per livelli (principiante, intermedio, avanzato).]]></value>
+  </data>
+  <data name="Russificate" xml:space="preserve">
+    <value>Russificate è una delle principali pagine di apprendimento della lingua russa. Ha studenti provenienti da più di 45 paesi ed è stata fondata nel 2013 da un professore di russo. Offerta lezioni Skype con di madrelingua russi e tutor certificati. Hanno una varietà di corsi e anche offrono anche corsi personalizzati. I 30 minuti della prima classe sono gratuiti.</value>
+  </data>
+  <data name="Section" xml:space="preserve">
+    <value>Altre risorse</value>
+  </data>
+  <data name="Subtitle" xml:space="preserve">
+    <value>Vuoi ancora di più? Visita queste pagine e lancia il tuo processo di apprendimento della lingua!</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Altre risorse linguistiche</value>
+  </data>
+</root>

@@ -147,6 +147,21 @@
   <data name="TipCompleteProfHelp" xml:space="preserve">
     <value>Perché?</value>
   </data>
+  <data name="TipCreateMeetup" xml:space="preserve">
+    <value>Cerca di farti conoscere e conosce studenti creando un nuovo appuntamento</value>
+  </data>
+  <data name="TipCreateMeetupAux" xml:space="preserve">
+    <value>Organizza un appuntamento</value>
+  </data>
+  <data name="TipCreateMeetupHelp" xml:space="preserve">
+    <value>Come posso incontrare e parlare con gli studenti?</value>
+  </data>
+  <data name="TipCreateMeetupStud" xml:space="preserve">
+    <value>Incontra nuovi compagni organizzando un nuovo appuntamento</value>
+  </data>
+  <data name="TipCreateMeetupStudHelp" xml:space="preserve">
+    <value>Come si può incontrare nuovi compagni di scambio?</value>
+  </data>
   <data name="TipEditAvailability" xml:space="preserve">
     <value>È necessario definire la tua disponibilità sul calendario per parlare nella tua lingua madre. In caso contrario, gli studenti non ti chiederanno per conversazioni private</value>
   </data>
@@ -155,6 +170,18 @@
   </data>
   <data name="TipEditAvailabilityHelp" xml:space="preserve">
     <value>Come modificare la tua disponibilità</value>
+  </data>
+  <data name="TipSearchAndRequest" xml:space="preserve">
+    <value>Cerca un madrelingua e richiede una conversazione privata</value>
+  </data>
+  <data name="TipSearchAndRequestAux" xml:space="preserve">
+    <value>Cerca compagni</value>
+  </data>
+  <data name="TipSearchAndRequestHelp" xml:space="preserve">
+    <value>Come posso richiedere una conversazione privata?</value>
+  </data>
+  <data name="TipWalletBalanceRunoutAux" xml:space="preserve">
+    <value>Acquista crediti</value>
   </data>
   <data name="TipWalletNatBillingAddr" xml:space="preserve">
     <value>Si uno studente ti devi pagare per parlare con te, è necessario prima, completare il tuo indirizzo di fatturazione.</value>

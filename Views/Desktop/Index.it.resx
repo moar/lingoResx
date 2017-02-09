@@ -372,4 +372,22 @@
   <data name="Welcome" xml:space="preserve">
     <value>Benvenuto a Langademy</value>
   </data>
+  <data name="Learning" xml:space="preserve">
+    <value>Impara</value>
+  </data>
+  <data name="Speaking" xml:space="preserve">
+    <value>Parla</value>
+  </data>
+  <data name="DeskTeacher" xml:space="preserve">
+    <value>Sono un insegnante di lingua </value>
+  </data>
+  <data name="RequireRole" xml:space="preserve">
+    <value>È necessario selezionare almeno un'opzione</value>
+  </data>
+  <data name="TeacherComingSoon" xml:space="preserve">
+    <value>Voglio creare un profilo professionale, cercare nuovi studenti e imparare le lingue (presto saranno disponibili i profili professionali).</value>
+  </data>
+  <data name="TeacherValidate" xml:space="preserve">
+    <value>In questo momento devi scegliere un'altra opzione oltre ad utilizzare Langademy come insegnante professionale.</value>
+  </data>
 </root>

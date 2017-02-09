@@ -430,7 +430,7 @@
     <value>Establece el número de créditos por hora que quieres cobrar a tus estudiantes y guarda los cambios</value>
   </data>
   <data name="HelpSetRate6" xml:space="preserve">
-    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idiomas para poner tu estado Disponible / No disponible</value>
+    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán llamar en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idiomas para poner tu estado Disponible / No disponible</value>
   </data>
   <data name="HelpSetRateTitle" xml:space="preserve">
     <value>¿Cómo puedo establecer mi tarifa?</value>
@@ -457,7 +457,7 @@
     <value>¿Cómo puedo organizar una nueva quedada?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[Para organizar una nueva queada entra a <a href="{0}" class="link applnk"> My calendario</a> y clica Nueva Quedada en la parte superior. También puedeshacer directamaente una <a href="{1}" class="link applnk">Nueva Quedada</a> y seguir los siguientes pasos:]]></value>
+    <value><![CDATA[Para organizar una nueva quedada entra a <a href="{0}" class="link applnk"> My calendario</a> y clica Nueva Quedada en la parte superior. También puedes hacer directamente una <a href="{1}" class="link applnk">Nueva Quedada</a> y seguir los siguientes pasos:]]></value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Selecciona el idioma de la quedada. Los participantes que asistan a la quedada entrarán a la sala de chat del idioma de la quedada.</value>
@@ -475,7 +475,7 @@
     <value>Cuando visitas el perfil de cualquier usuario que quiera hacer intercambios lingüisticos o ayudar a practicar un idioma a cambio de créditos, podrás ver su calendario de disponibilidad.</value>
   </data>
   <data name="HelpHowRequestConversation2" xml:space="preserve">
-    <value>Si quieres solicitar una conversación privada, clica en Solicitar una Conversación (encima del calendario) y sigue los pasos que verás en pantalla. Solo tienes que elegir el idioma (de los idiomas que tienes en tu perfil) que quieres practicar, el tipo de conversación que quieres mantener (de pago o de banco de tiempo) y reserva el día y la hora de la conversación clicando encima de una franja disponible. Los bloques verdes indican que puedes solicitar una conversación de banco de tiempo, los grises significan que puedes solicitar una conversación de pago, y los amarillos que el nativo acepta los dos tipos de conversaciónes. Ten en cuenta que no puedes hacer una solicitud de una duración mayor de 2 horas. </value>
+    <value>Si quieres solicitar una conversación privada, clica en Solicitar una Conversación (encima del calendario) y sigue los pasos que verás en pantalla. Solo tienes que elegir el idioma (de los idiomas que tienes en tu perfil) que quieres practicar, el tipo de conversación que quieres mantener (de pago o de banco de tiempo) y reserva el día y la hora de la conversación clicando encima de una franja disponible. Los bloques verdes indican que puedes solicitar una conversación de banco de tiempo, los grises significan que puedes solicitar una conversación de pago, y los amarillos que el nativo acepta los dos tipos de conversaciones. Ten en cuenta que no puedes hacer una solicitud de una duración mayor de 2 horas. </value>
   </data>
   <data name="HelpHowRequestConversation3" xml:space="preserve">
     <value>Si el nativo no tiene horas disponibles tendrás la opción de ser notificado cuando esta persona esté disponible. Pulsa el signo de interrogación que verás en la parte superior del calendario si quieres recibir la notificación.</value>

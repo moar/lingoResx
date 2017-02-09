@@ -147,6 +147,21 @@
   <data name="TipCompleteProfHelp" xml:space="preserve">
     <value>Per què?</value>
   </data>
+  <data name="TipCreateMeetup" xml:space="preserve">
+    <value>Fes que et coneguin i coneix a estudiants creant una nova quedada</value>
+  </data>
+  <data name="TipCreateMeetupAux" xml:space="preserve">
+    <value>Organitza una quedada</value>
+  </data>
+  <data name="TipCreateMeetupHelp" xml:space="preserve">
+    <value>Com puc conèixer i parlar amb estudiants?</value>
+  </data>
+  <data name="TipCreateMeetupStud" xml:space="preserve">
+    <value>Coneix a nous companys organitzant una quedada</value>
+  </data>
+  <data name="TipCreateMeetupStudHelp" xml:space="preserve">
+    <value>Com pots conèixer nous companys d'intercanvi?</value>
+  </data>
   <data name="TipEditAvailability" xml:space="preserve">
     <value>Has de definir la teva disponibilitat al teu calendari per parlar en la teva llengua materna. Si no, els estudiants no podran sol·licitar-te converses privades</value>
   </data>
@@ -155,6 +170,18 @@
   </data>
   <data name="TipEditAvailabilityHelp" xml:space="preserve">
     <value>Com editar la teva disponibilitat</value>
+  </data>
+  <data name="TipSearchAndRequest" xml:space="preserve">
+    <value>Busca un parlant natiu i sol·licita una conversa privada</value>
+  </data>
+  <data name="TipSearchAndRequestAux" xml:space="preserve">
+    <value>Cerca companys</value>
+  </data>
+  <data name="TipSearchAndRequestHelp" xml:space="preserve">
+    <value>Com puc sol·licitar una conversa privada?</value>
+  </data>
+  <data name="TipWalletBalanceRunoutAux" xml:space="preserve">
+    <value>Comprar crèdits</value>
   </data>
   <data name="TipWalletNatBillingAddr" xml:space="preserve">
     <value>Perquè un estudiant pugui pagar-te per conversar amb tu, primer has de completar la teva adreça de facturació</value>

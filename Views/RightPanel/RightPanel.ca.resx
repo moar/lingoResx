@@ -234,4 +234,13 @@
   <data name="RPNoRecentCalls" xml:space="preserve">
     <value>No hi ha històric de trucades</value>
   </data>
+  <data name="RPFilterAllRoles" xml:space="preserve">
+    <value>Tots</value>
+  </data>
+  <data name="RPFilterTimeBankingNatives" xml:space="preserve">
+    <value>Natius per a intercanvi</value>
+  </data>
+  <data name="RPFilterWalletNatives" xml:space="preserve">
+    <value>Natius per converses de pagament</value>
+  </data>
 </root>

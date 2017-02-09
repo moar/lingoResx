@@ -378,4 +378,16 @@
   <data name="Speaking" xml:space="preserve">
     <value>Habla</value>
   </data>
+  <data name="DeskTeacher" xml:space="preserve">
+    <value>Soy un profesor de idiomas profesional</value>
+  </data>
+  <data name="RequireRole" xml:space="preserve">
+    <value>Tienes que seleccionar al menos una opción</value>
+  </data>
+  <data name="TeacherComingSoon" xml:space="preserve">
+    <value>Quiero crear un perfil profesional, buscar nuevos estudiantes y aprender idiomas (pronto estarán disponibles los perfiles profesionales).</value>
+  </data>
+  <data name="TeacherValidate" xml:space="preserve">
+    <value>En estos momentos tienes que elegir una opción más además de usar Langademy como profesor profesional.</value>
+  </data>
 </root>
