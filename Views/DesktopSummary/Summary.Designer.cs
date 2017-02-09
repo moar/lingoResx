@@ -124,6 +124,33 @@ namespace Resources.Views.DesktopSummary {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Search students.
+        /// </summary>
+        public static string SearchStudents {
+            get {
+                return ResourceManager.GetString("SearchStudents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search natives for timebanking conversations.
+        /// </summary>
+        public static string SearchTBNatives {
+            get {
+                return ResourceManager.GetString("SearchTBNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search natives for paid conversations.
+        /// </summary>
+        public static string SearchWalletNatives {
+            get {
+                return ResourceManager.GetString("SearchWalletNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You should complete your profile.
         /// </summary>
         public static string TipCompleteProf {
