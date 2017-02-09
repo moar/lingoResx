@@ -71,7 +71,7 @@ namespace Resources.Views.Partners {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Russificate is one of the leading Online Russian language schools with students from more than 45 countries, founded in 2013 by a Russian language teacher. We offer one-on-one Russian classes via Skype with native speakers and professional certified tutors from Russia. You can choose among a great variety of courses or choose your own personalized program. The first 30-minute lesson is free..
+        ///   Looks up a localized string similar to Russificate is one of the leading Online Russian language schools with students from more than 45 countries, founded in 2013 by a Russian language teacher. They offer one-on-one Russian classes via Skype with native speakers and professional certified tutors from Russia. You can choose among a great variety of courses or choose your own personalized program. The first 30-minute lesson is free..
         /// </summary>
         public static string Russificate {
             get {
