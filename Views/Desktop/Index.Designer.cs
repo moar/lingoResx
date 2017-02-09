@@ -736,7 +736,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I want to create a professional profile, find new students and teach languages . (Professional profiles an tools will be available soon).
+        ///   Looks up a localized string similar to I want to create a professional profile, find new students and teach languages . (Professional profiles and tools will be available soon).
         /// </summary>
         public static string TeacherComingSoon {
             get {
