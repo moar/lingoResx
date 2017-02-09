@@ -122,7 +122,7 @@
   
   
   <data name="AccountDeactivated" xml:space="preserve">
-    <value>Your account was deactivated.Do you want reactivate it? Sign in again</value>
+    <value>Your account was deactivated .Do you want reactivate it? Sign in again</value>
   </data>
   <data name="ConfirmAddress" xml:space="preserve">
     <value>You need to confirm your email address.Please check your inbox!</value>
