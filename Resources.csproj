@@ -1067,17 +1067,16 @@
       <LastGenOutput>MyWallet.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Partners\Partners.ca.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.de.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.es.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.eu.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.fr.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.it.resx" />
     <EmbeddedResource Include="Views\Partners\Partners.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Partners.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Partners\Resources.ca.resx" />
-    <EmbeddedResource Include="Views\Partners\Resources.de.resx" />
-    <EmbeddedResource Include="Views\Partners\Resources.es.resx" />
-    <EmbeddedResource Include="Views\Partners\Resources.eu.resx" />
-    <EmbeddedResource Include="Views\Partners\Resources.fr.resx" />
-    <EmbeddedResource Include="Views\Partners\Resources.it.resx" />
-    <EmbeddedResource Include="Views\Partners\Resources.resx" />
     <EmbeddedResource Include="Views\Pricing\Index.ca.resx" />
     <EmbeddedResource Include="Views\Pricing\Index.de.resx" />
     <EmbeddedResource Include="Views\Pricing\Index.es.resx" />
