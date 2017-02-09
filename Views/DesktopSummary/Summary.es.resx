@@ -138,6 +138,15 @@
   <data name="ReqsSent" xml:space="preserve">
     <value>solicitudes de conversación respondidas</value>
   </data>
+  <data name="SearchStudents" xml:space="preserve">
+    <value>Buscar estudiantes</value>
+  </data>
+  <data name="SearchTBNatives" xml:space="preserve">
+    <value>Buscar nativos para conversaciones de banco de tiempo</value>
+  </data>
+  <data name="SearchWalletNatives" xml:space="preserve">
+    <value>Buscar nativos para conversaciones de pago</value>
+  </data>
   <data name="TipCompleteProf" xml:space="preserve">
     <value>Deberías completar tu perfil</value>
   </data>
@@ -160,7 +169,7 @@
     <value>Conoce a nuevos compañeros organizando una quedada</value>
   </data>
   <data name="TipCreateMeetupStudHelp" xml:space="preserve">
-    <value>¿Cómo puede conocer nuevos compañeros de intercambio?</value>
+    <value>¿Cómo puedes conocer nuevos compañeros de intercambio?</value>
   </data>
   <data name="TipEditAvailability" xml:space="preserve">
     <value>Tienes que definir tu disponibilidad en tu calendario para hablar en tu idioma nativo. Si no, los estudiantes no podrán solicitarte conversaciones privadas</value>
@@ -178,7 +187,7 @@
     <value>Busca compañeros</value>
   </data>
   <data name="TipSearchAndRequestHelp" xml:space="preserve">
-    <value>¿Cómo puedo solicitar una conversación privada?</value>
+    <value>Com puc sol·licitar una conversa privada?</value>
   </data>
   <data name="TipWalletBalanceRunoutAux" xml:space="preserve">
     <value>Comprar créditos</value>

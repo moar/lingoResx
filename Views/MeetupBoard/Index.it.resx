@@ -496,4 +496,10 @@
   <data name="EditAvSelectTypeTouch" xml:space="preserve">
     <value>Sceglie se vuoi ricevere le richieste per le chiamate Wallet, chiamate Banca del tempo e organizza tante celle come desideri sul calendario.Clicca per un secondo in una cella vuota quando desideri creare una nuova cella. </value>
   </data>
+  <data name="ZeroConversationRequestsRec" xml:space="preserve">
+    <value>Non hai ricevuto nessuna richiesta di conversazione</value>
+  </data>
+  <data name="ZeroConversationRequestsSent" xml:space="preserve">
+    <value>Non hai inviato nessuna richiesta di conversazione</value>
+  </data>
 </root>

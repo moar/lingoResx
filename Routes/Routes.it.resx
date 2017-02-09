@@ -132,6 +132,12 @@
   <data name="how-does-time-banking-work" xml:space="preserve">
     <value>aiuto/funzionamento-banca-del-tempo</value>
   </data>
+  <data name="how-to-meet-partners" xml:space="preserve">
+    <value>Aiuto/come-conoscere-commpagni-conversazione</value>
+  </data>
+  <data name="how-to-request-private-conversation" xml:space="preserve">
+    <value>Aiuto/come-richiedere-conversazione-privata</value>
+  </data>
   <data name="how-to-set-availability" xml:space="preserve">
     <value>aiuto/come-modificare-disponibilita</value>
   </data>
@@ -155,6 +161,9 @@
   </data>
   <data name="natives-how-to-start" xml:space="preserve">
     <value>aiuto/madrelingua-come-iniziare</value>
+  </data>
+  <data name="OtherLangResources" xml:space="preserve">
+    <value>altre-risorse-linguistiche</value>
   </data>
   <data name="pricing" xml:space="preserve">
     <value>prezzi</value>

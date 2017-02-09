@@ -431,9 +431,78 @@ Aquest es el seu funcionament:  </value>
     <value>Estableix el nombre de crèdits per hora que vols cobrar als teus estudiants i guarda els canvis</value>
   </data>
   <data name="HelpSetRate6" xml:space="preserve">
-    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idiomas para poner tu estado Disponible / No disponible</value>
+    <value>Pren-te un moment per revisar l'estat de cada un dels teus idiomes. Els estudiants només et podran trucar en aquells idiomes en què hagis establert el teu estat com a disponible. Fes clic en els polsadors que tens al costat de cada idiomes per posar el teu estat disponible / No disponible</value>
   </data>
   <data name="HelpSetRateTitle" xml:space="preserve">
     <value>Com puc establir la meva tarifa?</value>
+  </data>
+  <data name="HelpHowMeetPartners1" xml:space="preserve">
+    <value>Si estàs buscant companys de conversa (tant de pagament com de banc de temps), pots treure profit de les quedades de Langademy</value>
+  </data>
+  <data name="HelpHowMeetPartners10" xml:space="preserve">
+    <value>Com puc unir-me a una quedada?</value>
+  </data>
+  <data name="HelpHowMeetPartners11" xml:space="preserve">
+    <value>Entra a la pàgina de la quedada i clica a Assistir. Tingues en compte que només pots apuntar-te a les quedades dels idiomes que tens al teu perfil</value>
+  </data>
+  <data name="HelpHowMeetPartners2" xml:space="preserve">
+    <value>Les quedades són la manera perquè altres companys sàpiguen amb temps quan vas a estar en una sala de xat. D'aquesta manera, els estudiants i altres parlants natius podran unir-se a tu a la mateixa hora. De fet, pots entrar a les sales de xat quan vulguis, però siguem honestos, és més fàcil ajuntar a gent si un esdeveniment s'organitza amb anterioritat.</value>
+  </data>
+  <data name="HelpHowMeetPartners3" xml:space="preserve">
+    <value><![CDATA[Revisa el teu <a href="{0}" class="link applnk"> Calendari</a> per veure les quedades que s'han organitzat. Si hi ha alguna quedada que t'interessi, no dubtis a apuntar-te. Si no, crea una de nova.]]></value>
+  </data>
+  <data name="HelpHowMeetPartners4" xml:space="preserve">
+    <value>Quan t'apuntes a una quedada, s'afegirà un esdeveniment en el calendari. Accedeix i podràs escriure en el tauler de la quedada, també podràs proposar temes de conversa per la quedada.</value>
+  </data>
+  <data name="HelpHowMeetPartners5" xml:space="preserve">
+    <value>Com puc organitzar una nova quedada?</value>
+  </data>
+  <data name="HelpHowMeetPartners6" xml:space="preserve">
+    <value><![CDATA[Per organitzar una nova quedada entra a <a0> El meu calendari </ a0> i clica Nova Quedada a la part superior. També pots fer directament una  <a1> Nova Quedada </ a1> i seguir els següents passos:]]></value>
+  </data>
+  <data name="HelpHowMeetPartners7" xml:space="preserve">
+    <value>Selecciona l'idioma de la quedada. Els participants que assisteixin a la quedada, entraran a la sala de xat de l'idioma de la quedada.</value>
+  </data>
+  <data name="HelpHowMeetPartners8" xml:space="preserve">
+    <value>Selecciona la data i hora de la quedada (la teva zona horària).</value>
+  </data>
+  <data name="HelpHowMeetPartners9" xml:space="preserve">
+    <value>Clica Guardar</value>
+  </data>
+  <data name="HelpHowMeetPartnersTitle" xml:space="preserve">
+    <value>Com puc conèixer nous companys?</value>
+  </data>
+  <data name="HelpHowRequestConversation1" xml:space="preserve">
+    <value>Quan visites el perfil de qualsevol usuari que vulgui fer intercanvis lingüístics o ajudar a practicar una llengua a canvi de crèdits, podràs veure el seu calendari de disponibilitat.</value>
+  </data>
+  <data name="HelpHowRequestConversation2" xml:space="preserve">
+    <value>Si vols sol·licitar una conversa privada, clica a sol·licitar una Conversa (sobre el calendari) i segueix els passos que veuràs en pantalla. Només has de triar l'idioma (dels idiomes que tens al teu perfil) que vols practicar, el tipus de conversa que vols mantenir (de pagament o de banc de temps) i reserva el dia i l'hora de la conversa clicant a sobre d'una franja disponible. Els blocs verds indiquen que pots sol·licitar una conversa de banc de temps, els grisos signifiquen que pots sol·licitar una conversa de pagament, i els grocs que el natiu accepta els dos tipus de converses. Tingues en compte que no pots fer una sol·licitud d'una durada major de 2 hores.</value>
+  </data>
+  <data name="HelpHowRequestConversation3" xml:space="preserve">
+    <value>Si el natiu no té hores disponibles tindràs l'opció de ser notificat quan aquesta persona estigui disponible. Prem el signe d'interrogació que veuràs a la part superior del calendari si vols rebre la notificació.</value>
+  </data>
+  <data name="HelpHowRequestConversation4" xml:space="preserve">
+    <value>Com puc saber si un natiu accepta la meva sol·licitud?</value>
+  </data>
+  <data name="HelpHowRequestConversation5" xml:space="preserve">
+    <value><![CDATA[Pots fer el seguiment de les teves sol·licituds al teu <a0> Calendari </ a0>. Revisa el panell de sol·licituds enviades. Tria la sol·licitud que vols i veuràs els detalls d'aquesta sol·licitud. A la pantalla de detalls podràs veure si el natiu ha acceptat o ha rebutjat la teva sol·licitud i també podràs cancel·lar la sol·licitud o enviar missatges al natiu en cas que necessitis informació addicional.]]></value>
+  </data>
+  <data name="HelpHowRequestConversation6" xml:space="preserve">
+    <value>A més, quan el natiu accepti la teva sol·licitud seràs notificat i se't afegirà un nou esdeveniment al teu calendari.</value>
+  </data>
+  <data name="HelpHowRequestConversation7" xml:space="preserve">
+    <value>Què he de fer quan sigui l'hora de la conversa?</value>
+  </data>
+  <data name="HelpHowRequestConversation8" xml:space="preserve">
+    <value><![CDATA[Ves al panell de trucada <span0> </ span0> i selecciona la pestanya de Converses Privades <span1> </ span1>. Fes clic en un usuari i podràs obrir l'aplicació de videotrucades. Així mateix, pots obrir l'aplicació de vídeo des dels detalls de conversa del teu Calendari.]]></value>
+  </data>
+  <data name="HelpHowRequestConversation9" xml:space="preserve">
+    <value>Quan et trobis en l'aplicació de vídeo, podràs veure quan s'ha connectat teu company. Mentrestant, podràs enviar-li missatges pel vostre xat privat perquè el teu company sàpiga que li estàs esperant.</value>
+  </data>
+  <data name="HelpHowRequestConversationTitle" xml:space="preserve">
+    <value>Com puc sol·licitar una conversa privada?</value>
+  </data>
+  <data name="HelpMeetupsTitle" xml:space="preserve">
+    <value>Quedades</value>
   </data>
 </root>

@@ -431,9 +431,79 @@
     <value>Stabilisce il numero di crediti l'ora che vuoi guadagnare dei tuoi studenti e salva le modifiche</value>
   </data>
   <data name="HelpSetRate6" xml:space="preserve">
-    <value>Prendi un momento per verificare lo stato di ciascuna delle tue lingue. Gli studenti potranno solo in quelle lingue in cui è stabilito il proprio stato come disponibili. Clicca sui pulsantiche ci sono accanto a ciascuna lingua per mettere il proprio stato Disponibile / Non disponibile</value>
+    <value>Prendi un momento per verificare lo stato di ciascuna delle tue lingue. Gli studenti potranno solo chiamarti in quelle lingue in cui è stabilito il proprio stato come disponibili. Clicca sui pulsantiche ci sono accanto a ciascuna lingua per mettere il proprio stato Disponibile / Non disponibile</value>
   </data>
   <data name="HelpSetRateTitle" xml:space="preserve">
     <value>Come posso stabilire il mio tasso?</value>
+  </data>
+  <data name="HelpHowMeetPartners1" xml:space="preserve">
+    <value>Se cerchi compagni di conversazione (sia a pagamento o banca del tempo), può approfittare gli appuntamenti di Langademy</value>
+  </data>
+  <data name="HelpHowMeetPartners10" xml:space="preserve">
+    <value>Come posso partecipare a un appuntamento?</value>
+  </data>
+  <data name="HelpHowMeetPartners11" xml:space="preserve">
+    <value>Entra nella pagina dell'appuntamento e clicca Assistere. Solo accederai agli appuntamenti delle lingue che hai scelto nel tuo profilo</value>
+  </data>
+  <data name="HelpHowMeetPartners2" xml:space="preserve">
+    <value>Gli appuntamenti sono la via più facile per fare sapere in anticipo a gli studenti quando sarai in una chat room. In questo modo, gli studenti e gli altri madrelingua possono unirsi a te allo stesso tempo. In realtà, è possibile accedere nella chat room quando si vuole, ma cerchiamo di essere onesti, è più facile di riunire persone se un evento è organizzato prima.</value>
+  </data>
+  <data name="HelpHowMeetPartners3" xml:space="preserve">
+    <value><![CDATA[Controlla il tuo <a href="{0}" class="link applnk">Calendario</a>  per vedere gli appuntamenti che sono stati organizzati. Se c'è qualche appuntamento interessante, ti può registrare. Altrimenti, crea uno nuovo.]]></value>
+  </data>
+  <data name="HelpHowMeetPartners4" xml:space="preserve">
+    <value>Quando ti iscrivi a un appuntamento, un evento viene aggiunto al calendario.Accede, e ti sarà possibile scrivere sul tabellone del appuntamento, si può anche suggerire argomenti di conversazione</value>
+  </data>
+  <data name="HelpHowMeetPartners5" xml:space="preserve">
+    <value>Come posso organizzare un nuovo appuntamento?</value>
+  </data>
+  <data name="HelpHowMeetPartners6" xml:space="preserve">
+    <value><![CDATA[Per organizzare un nuovo appuntamento entra <a0> Il mio calendario </ a0> e fai clic su Nuovo Appuntamento nella parte superiore. È possibile anche creare direttamente un <a1> Nuovo Appuntamento </ a1> e seguire questi passi:]]></value>
+  </data>
+  <data name="HelpHowMeetPartners7" xml:space="preserve">
+    <value>Seleziona la lingua dell'appuntamento. I partecipanti che assistano all'appuntamento, entreranno nella chat room della lingua dell'appuntamento.
+</value>
+  </data>
+  <data name="HelpHowMeetPartners8" xml:space="preserve">
+    <value>Seleziona la data e l'ora dell'appuntamento (nel tuo fuso orario).</value>
+  </data>
+  <data name="HelpHowMeetPartners9" xml:space="preserve">
+    <value>Clicca Salvare</value>
+  </data>
+  <data name="HelpHowMeetPartnersTitle" xml:space="preserve">
+    <value>Come posso conoscere nuovi compagni?</value>
+  </data>
+  <data name="HelpHowRequestConversation1" xml:space="preserve">
+    <value>Quando si visita il profilo di qualsiasi utente che vuole aiutarea fare scambi linguistici o praticare una lingua in cambio di crediti, si vedrà il suo calendario di disponibilità.</value>
+  </data>
+  <data name="HelpHowRequestConversation2" xml:space="preserve">
+    <value>Se vuoi richiedere una conversazione privata, clicca su Richiesta di una Conversazione (sopra il calendario) e segue le istruzioni visualizzate sullo schermo. Basta scegliere la lingua (delle lingue che hai nel tuo profilo) che si vuole praticare, il tipo di conversazione che si desidera mantenere a (pagamento o banca del tempo) e prenota il giorno e l'ora della conversazione facendo clic su un striscia disponibili. I blocchi verdi indicano che è possibile richiedere una conversazione banca del tempo, grigio significa che si può richiedere un colloquio di pagamento e gialli che il madrelingua accetta i due tipi di conversazioni. Da notare che non si può fare una richiesta per una durata più lunga di 2 ore.</value>
+  </data>
+  <data name="HelpHowRequestConversation3" xml:space="preserve">
+    <value>Se il madrelingua non ha ore disponibili, avrai la possibilità di essere avvisato appena questa persona sia disponibile. Fai clic sul punto interrogativo sulla parte superiore del calendario, se vuoi ricevere la notifica.</value>
+  </data>
+  <data name="HelpHowRequestConversation4" xml:space="preserve">
+    <value>Come posso sapere se un madrelingua accetta la mia richiesta?</value>
+  </data>
+  <data name="HelpHowRequestConversation5" xml:space="preserve">
+    <value><![CDATA[ Puoi verificare lo stato delle tue richieste nel tuo <a0> Calendario </ a0>. Controlla il pannello di richieste inviate. Seleziona la richiesta che vuoi e potrai vedere i dettagli di quella richiesta. Nella schermata dei dettagl si vedrà se il madrelingua ha accettato o rifiutato la richiesta e anche si potrà annullare la richiesta o inviare messaggi al madrelingua se hai bisogno di ulteriori informazioni.]]></value>
+  </data>
+  <data name="HelpHowRequestConversation6" xml:space="preserve">
+    <value>Inoltre, quando il nativo accetta la tua richiesta ti verrà notificato e si aggiungerà un nuovo evento al tuo calendario.</value>
+  </data>
+  <data name="HelpHowRequestConversation7" xml:space="preserve">
+    <value>Cosa devo fare quando è il momento di la conversazione?</value>
+  </data>
+  <data name="HelpHowRequestConversation8" xml:space="preserve">
+    <value><![CDATA[Vai al pannello di chiamata <span0> </ span0> e seleziona la scheda conversazioni private <SPAN1> </ SPAN1>. Clicca su un utente, può aprire l'applicazione di videochiamate. È anche possibile aprire l'applicazione video da i dettagli della conversazione nel tuo Calendario.]]></value>
+  </data>
+  <data name="HelpHowRequestConversation9" xml:space="preserve">
+    <value>Quando sei nella applicazione di videochiamate, potrai vedere quando è collegato il tuo compagno. Nel frattempo, è possibile inviare messaggi di chat privato a tuo compagno.</value>
+  </data>
+  <data name="HelpHowRequestConversationTitle" xml:space="preserve">
+    <value>Come posso richiedere una conversazione privata?</value>
+  </data>
+  <data name="HelpMeetupsTitle" xml:space="preserve">
+    <value>Appuntamenti</value>
   </data>
 </root>

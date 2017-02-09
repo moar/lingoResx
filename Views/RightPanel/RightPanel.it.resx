@@ -234,4 +234,13 @@
   <data name="RPNoRecentCalls" xml:space="preserve">
     <value>Non c'e cronologia di chiamate</value>
   </data>
+  <data name="RPFilterAllRoles" xml:space="preserve">
+    <value>Tutti</value>
+  </data>
+  <data name="RPFilterTimeBankingNatives" xml:space="preserve">
+    <value>Madrelingua per scambio</value>
+  </data>
+  <data name="RPFilterWalletNatives" xml:space="preserve">
+    <value>Madrelingu per conversazioni a pagamento</value>
+  </data>
 </root>
