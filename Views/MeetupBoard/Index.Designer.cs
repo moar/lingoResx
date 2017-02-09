@@ -799,6 +799,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to My Calendar.
+        /// </summary>
+        public static string MyCalendar {
+            get {
+                return ResourceManager.GetString("MyCalendar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to My meetups.
         /// </summary>
         public static string MyMeetups {
