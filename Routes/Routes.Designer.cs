@@ -187,6 +187,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to native-partners-language-exchange.
+        /// </summary>
+        public static string native_partners_exchange {
+            get {
+                return ResourceManager.GetString("native-partners-exchange", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/natives-how-to-start.
         /// </summary>
         public static string natives_how_to_start {
@@ -205,11 +214,38 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to paid-converstions-with-natives.
+        /// </summary>
+        public static string paid_converstions_with_natives {
+            get {
+                return ResourceManager.GetString("paid-converstions-with-natives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to pricing.
         /// </summary>
         public static string pricing {
             get {
                 return ResourceManager.GetString("pricing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to search.
+        /// </summary>
+        public static string search {
+            get {
+                return ResourceManager.GetString("search", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to search-language-students.
+        /// </summary>
+        public static string search_language_students {
+            get {
+                return ResourceManager.GetString("search-language-students", resourceCulture);
             }
         }
         

@@ -277,6 +277,15 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Students.
+        /// </summary>
+        public static string RPFilterStudents {
+            get {
+                return ResourceManager.GetString("RPFilterStudents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to People you have chatted with.
         /// </summary>
         public static string RPFilterTalkedTo {
