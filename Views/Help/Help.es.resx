@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -178,7 +178,7 @@
     <value>Estudiantes: cómo empezar</value>
   </data>
   <data name="HelpNativesFeeTitle" xml:space="preserve">
-    <value>Comisión de los nativos</value>
+    <value>Tarifa de Langademy. Cómo funciona</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
     <value>Si quieres hablar en tu idioma nativo, debes ir a la sala de chat de tu idioma, donde encontrarás estudiantes con los que poder conversar</value>
@@ -199,19 +199,19 @@
     <value>Hablantes nativos: cómo empezar</value>
   </data>
   <data name="HelpTBIntroTitle" xml:space="preserve">
-    <value>Introducción al Banco del Tiempo</value>
+    <value>Introducción al Banco de Tiempo</value>
   </data>
   <data name="HelpTBRoomsTitle" xml:space="preserve">
     <value>Uso del Banco de Tiempo en las video llamadas</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
-    <value>¿Cómo funciona el Banco del Tiempo?</value>
+    <value>¿Cómo funciona el Banco de Tiempo?</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
     <value>Introducción a Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Video llamadas de Wallet</value>
+    <value>Introducción a las llamadas Wallet</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Retirada de créditos</value>
@@ -250,19 +250,19 @@
     <value>Cuando conozcas algún compañero nuevo en una sala, puedes mandarle una solicitud de conexión. Cuando estéis conectados, podréis hacer videollamadas entre los dos sin tener que entrar a las sala.</value>
   </data>
   <data name="HelpTBIntro1" xml:space="preserve">
-    <value>El Banco del Tiempo ofrece una manera para aprender idiomas sin que tengas que gastar tu dinero: el tiempo que utilices para hablar en tu idioma nativos con los estudiantes sera añadido a tu cuenta de Banco del Tiempo. Mira las reglas del Banco del Tiempo ({0}).</value>
+    <value>El Banco de Tiempo ofrece una manera para aprender idiomas sin que tengas que gastar tu dinero: el tiempo que utilices para hablar en tu idioma nativo con los estudiantes se añadirá a tu cuenta de Banco de Tiempo. Mira las reglas del Banco de Tiempo ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>Si quieres practicar un idioma, ve a las salas de chat, empieza a hablar con la gente que encuentres allí y haz videollamadas con ellos. En tu página de inicio podrás ver el saldo de tu cuenta del Banco del Tiempo. Si accedes a la aplicación de tu Banco del Tiempo podrás consultar el histórico y los detalles de tus movimientos en el Banco del Tiempo</value>
+    <value>Si quieres practicar un idioma, ve a las salas de chat, empieza a hablar con la gente que encuentres allí y haz videollamadas con ellos. En tu página de inicio podrás ver el saldo de tu cuenta del Banco de Tiempo. Si accedes a la aplicación de tu Banco de Tiempo podrás consultar el histórico y los detalles de tus movimientos</value>
   </data>
   <data name="HelpTBRooms1" xml:space="preserve">
-    <value>Las salas de chat son el lugar donde encontrarás compañeros de intercambio de idiomas. En esas salas podrás chatear gratis y realizar llamadas de Banco del Tiempo (ver{0}).</value>
+    <value>Las salas de chat son el lugar donde encontrarás compañeros de intercambio de idiomas. En esas salas podrás chatear gratis y realizar llamadas de Banco de Tiempo (ver{0}).</value>
   </data>
   <data name="HelpTBRooms2" xml:space="preserve">
-    <value>Puedes consultar que usuarios están en línea en el panel izquierdo. Si clicas en el usuario, verás las diferentes opciones de cada usuario: puedes agregarlos como compañeros, hacer videollamadas o reportar o bloquearlos si te han causado algún problema</value>
+    <value>Puedes consultar que usuarios están en línea en el panel izquierdo. Si clicas en el usuario, verás las diferentes opciones de cada usuario: puedes agregarlos como contactos, hacer videollamadas o reportar o bloquearlos si te han causado algún problema</value>
   </data>
   <data name="HelpTBRooms3" xml:space="preserve">
-    <value>Si la habitación está vacia o no hay ninguna actividad en ese momento, puedes crear quedadas para que el resto de usuarios vean cuándo estarás disponible para chatear o hacer videollamadas. También puedes unirte a las quedadas que otros usuarios han creado. </value>
+    <value>Si la sala está vacia o no hay ninguna actividad en ese momento, puedes crear quedadas para que el resto de usuarios vean cuándo estarás disponible para chatear o hacer videollamadas. También puedes unirte a las quedadas que otros usuarios han creado. </value>
   </data>
   <data name="HelpTBRooms4" xml:space="preserve">
     <value>Crear quedadas en el Tablón de quedadas</value>
@@ -274,7 +274,7 @@
     <value>Puedes acceder al tablón de quedadas a través de tu página de inicio o desde las salas de chat. Una vez que accedas al tablón, podrás ver las quedadas de los idiomas que tienes añadidos en tu perfil. Si quieres crear una quedada, selecciona un idioma, fecha y una hora para la quedada. Cuando hayas creado la quedada, puedes invitar a tus contactos de Langademy a que se unan a ella.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
-    <value>A los hablantes nativos se les retendrá el 13% (+ IVA) de la cantidad que se le haya cobrado al estudiante. El saldo será actualizado cuando la llamada haya finalizado.</value>
+    <value>A los hablantes nativos se les retendrá el 13% (+ IVA) de la cantidad que cobren a los estudiantes en cada videollamada Wallet. El saldo de la cuenta se actualizará al finalizar cada llamada.</value>
   </data>
   <data name="HelpWalletFees2" xml:space="preserve">
     <value>Para entender como se calcula el saldo disponible, hay que tener en cuenta los siguientes términos:</value>
@@ -358,13 +358,13 @@
     <value>Calendario Langademy</value>
   </data>
   <data name="HelpCompleteProfile1" xml:space="preserve">
-    <value>La razón principal para completar tu perfil es que te ayudará a contactar fácilmente con los estudiantes y a aparecer en los resultados de búsqueda. Si rellenas tu perfil y tu calendario llamarás la atención de los estudiantes y te harán mas solicitudes para conversaciones privadas</value>
+    <value>La razón principal para completar tu perfil es que te ayudará a contactar más fácilmente con estudiantes y además te aseguras de aparecer en los resultados de búsqueda. Si rellenas tu perfil y tu calendario llamarás la atención de los estudiantes y te llegarán más solicitudes para tener conversaciones privadas.</value>
   </data>
   <data name="HelpCompleteProfile2" xml:space="preserve">
     <value>Puedes subir tu foto de perfil y una foto de portada. También deberías incluir tu edad, país, sexo y una breve descripción sobre ti.</value>
   </data>
   <data name="HelpCompleteProfile3" xml:space="preserve">
-    <value>También tienes que añadir los idiomas que quieres hablar y/o aprender. Cuando añades un idioma debes definir un nive, lo cual significa que: </value>
+    <value>También tienes que añadir los idiomas que quieres hablar y/o aprender. Cuando añades un idioma debes indicar tu nivel. Los códigos de nivel significan: </value>
   </data>
   <data name="HelpCompleteProfileTitle" xml:space="preserve">
     <value>Por qué deberías completar tu perfil</value>
@@ -391,7 +391,7 @@
     <value>Mantener tu disponibilidad actualizada te ayudará a organizar tu tiempo como hablante nativo y evitarás tener recibir solicitudes de contacto cuando no quieras hablar con estudiantes. Ten en cuenta que si no defines tu disponibilidad, solo podrás hacer videollamadas con tu lista de contactos o con los estudiantes que encuentres en las salas de chat.</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value><![CDATA[Para definir tu disponibilidad ve a <a href="{0}" class="link">Mi calendario</a> y clica Editar Disponibilidad en la parte superior, o ve directamente a <a href="{1}" class="link">Editar disponibilidad</a>  y sigue estos pasos:]]></value>
+    <value>Para definir tu disponibilidad ve a &lt;a href="{0}" class="link"&gt;Mi calendario&lt;/a&gt; y clica Editar Disponibilidad en la parte superior, o ve directamente a &lt;a href="{1}" class="link"&gt;Editar disponibilidad&lt;/a&gt;  y sigue estos pasos:</value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Elige el tipo de conversación en el quieres recibir las solicitudes clicando Wallet, Banco de Tiempo o los dos</value>
@@ -415,7 +415,7 @@
     <value>Edita tu disponibilidad</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value><![CDATA[Una vez que cumplas los <a href="{0}" class="help link">requisitos</a>, podrás definir una tarifa para cobrar a tus alunmos por mantener conversaciones. Para ello, sigue estos pasos:]]></value>
+    <value>Una vez que cumplas los &lt;a href="{0}" class="help link"&gt;requisitos&lt;/a&gt;, podrás definir una tarifa para cobrar a tus alunmos por mantener conversaciones. Para ello, sigue estos pasos:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Abre tu panel estado clicando en tu foto de perfil en la parte superior derecha de tu página de inicio</value>
@@ -424,7 +424,7 @@
     <value>Ve a la sección Wallet de tu panel de estado y busca el idioma para el que quieres establecer una tarifa</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Clica en el botón <span class="lg lg-cog"></span> y se te mostrará una ventana para que actualices tu tarifa]]></value>
+    <value>Clica en el botón &lt;span class="lg lg-cog"&gt;&lt;/span&gt; y se te mostrará una ventana para que actualices tu tarifa</value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Establece el número de créditos por hora que quieres cobrar a tus estudiantes y guarda los cambios</value>
@@ -436,7 +436,7 @@
     <value>¿Cómo puedo establecer mi tarifa?</value>
   </data>
   <data name="HelpHowMeetPartners1" xml:space="preserve">
-    <value>Si estás buscando compañeros de conversación (tanto de pago como de banco de tiempo), puedes sacar provecho de las quedadas de Langademy</value>
+    <value>Si estás buscando compañeros de conversación (tanto de pago como de banco de tiempo), puedes aprovechar las quedadas de Langademy.</value>
   </data>
   <data name="HelpHowMeetPartners10" xml:space="preserve">
     <value>¿Cómo puedo unirme a una quedada?</value>
@@ -445,19 +445,19 @@
     <value>Entra en la página de la quedada y clica en Asistir. Ten en cuenta que solo puedes apuntarte a las quedadas de los idiomas que tienes en tu perfil</value>
   </data>
   <data name="HelpHowMeetPartners2" xml:space="preserve">
-    <value>Las quedadas son la manera para que otros compañeros sepan de antemano cuando vas a estar en una sala de chat. De esta manera, los estudiantes y otros hablantes nativos podrán unirse a ti a la misma hora. De hecho, puedes entrar a las salas de chat cuando quieras, pero seamos honestos, es más fácil juntar a gente si un evento se organiza con anterioridad.</value>
+    <value>Las quedadas son la manera de que otros compañeros sepan de antemano cuando vas a estar en una sala de chat. De esta forma, estudiantes y otros hablantes nativos podrán entrar contigo a la misma hora. Ciertamente, puedes entrar a las salas de chat cuando quieras, pero seamos honestos, es más fácil juntar a más gente si se organiza el evento con anterioridad.</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value><![CDATA[Revisa tu <a href="{0}" class="link applnk">Calendario</a> para ver las quedadas que se han organizado. Si hay alguna quedada que te interese, no dudes en apuntarte. Si no, crea una nueva.]]></value>
+    <value>Revisa tu &lt;a href="{0}" class="link applnk"&gt;Calendario&lt;/a&gt; para ver las quedadas que se han organizado. Si hay alguna quedada que te interese, no dudes en apuntarte. Si no, crea una nueva.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
-    <value>Cuando te apuntas a una quedada, se añadira un evento en tu calendario. Accede y podrás escribir en el tablero de la quedada y además podrás proponer temas de conversación para la misma.</value>
+    <value>Cuando te apuntas a una quedada, se añadira un evento en tu calendario. Accede desde tu calendario a los detalles del evento y podrás escribir en el tablón de mensajes de la quedada, por ejemplo para proponer temas de conversación para el día de la quedada.</value>
   </data>
   <data name="HelpHowMeetPartners5" xml:space="preserve">
     <value>¿Cómo puedo organizar una nueva quedada?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[Para organizar una nueva quedada entra a <a href="{0}" class="link applnk"> My calendario</a> y clica Nueva Quedada en la parte superior. También puedes hacer directamente una <a href="{1}" class="link applnk">Nueva Quedada</a> y seguir los siguientes pasos:]]></value>
+    <value>Para organizar una nueva quedada entra a &lt;a href="{0}" class="link applnk"&gt; Mi calendario&lt;/a&gt; y clica Nueva Quedada en la parte superior. También puedes entrar directamente  a &lt;a href="{1}" class="link applnk"&gt;Nueva Quedada&lt;/a&gt; y seguir los siguientes pasos:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Selecciona el idioma de la quedada. Los participantes que asistan a la quedada entrarán a la sala de chat del idioma de la quedada.</value>
@@ -484,7 +484,7 @@
     <value>¿Cómo puedo saber si un nativo acepta mi solicitud?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value><![CDATA[Puedes hacer el seguimiento de tus solicitudes en tu <a href="{0}" class="link applnk">Calendario</a>. Revisa el panel de solicitudes enviadas. Elige la solicitud que quieres y verás los detalles de esa solicitud. En la pantalla de detalles podrás ver si el nativo ha aceptado o ha rechazado tu solicitud y también podrás cancelar la solicitud o mandar mensajes al nativo en caso de que necesites información adicional.]]></value>
+    <value>Puedes hacer el seguimiento de tus solicitudes en tu &lt;a href="{0}" class="link applnk"&gt;Calendario&lt;/a&gt;. Revisa el panel de solicitudes enviadas. Elige la solicitud que quieres y verás los detalles de esa solicitud. En la pantalla de detalles podrás ver si el nativo ha aceptado o ha rechazado tu solicitud y también podrás cancelar la solicitud o mandar mensajes al nativo en caso de que necesites información adicional.</value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Además, cuando el nativo acepte tu solicitud serás notificado y se te añadira un nuevo evento a tu calendario</value>
@@ -493,7 +493,7 @@
     <value>¿Qué tengo que hacer cuando sea la hora de la conversación?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value><![CDATA[Ve al panel de llamada <span class="lg lg-call"></span> y selecciona la pestaña de Conversaciones Privadas <span class="lg lg-calendar"></span>. Clica en un usuario y podrás abrir la aplicación de videollamadas. Asimismo, puedes abrir la aplicación de video desde los detalles de conversación de tu Calendario.]]></value>
+    <value>Ve al panel de llamada &lt;span class="lg lg-call"&gt;&lt;/span&gt; y selecciona la pestaña de Conversaciones Privadas &lt;span class="lg lg-calendar"&gt;&lt;/span&gt;. Clica en un usuario y podrás abrir la aplicación de videollamadas. Asimismo, puedes abrir la aplicación de video desde los detalles de conversación de tu Calendario.</value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Cuando te encuentres en la aplicación de video, podrás ver cuando se ha conectado tu compañero. Mientras tanto, podrás mandarle mensajes por vuestro chat privado para que tu compañero sepa que le estas esperando.</value>
@@ -503,5 +503,29 @@
   </data>
   <data name="HelpMeetupsTitle" xml:space="preserve">
     <value>Quedadas</value>
+  </data>
+  <data name="CompleteProfile" xml:space="preserve">
+    <value>Completa tu perfil</value>
+  </data>
+  <data name="HelpWhatYouCanDoTitle" xml:space="preserve">
+    <value>¿Qué puedo hacer en Langademy?</value>
+  </data>
+  <data name="HelpHowToBegin" xml:space="preserve">
+    <value>Cómo empezar</value>
+  </data>
+  <data name="HelpNativeSpeakers" xml:space="preserve">
+    <value>Nativos</value>
+  </data>
+  <data name="HelpNativeWalletRequirementsTitle" xml:space="preserve">
+    <value>Requisitos para los nativos</value>
+  </data>
+  <data name="HelpStudents" xml:space="preserve">
+    <value>Estudiantes</value>
+  </data>
+  <data name="HelpWhatYouCanDo1" xml:space="preserve">
+    <value>Langademy es una red social en la que estudiantes de idiomas y hablantes nativos pueden practicar idiomas online a través de videoconferencia. Se pueden elegir dos tipos de videollamadas: Llamadas Wallet o Llamadas de Banco de tiempo.</value>
+  </data>
+  <data name="HelpWhatYouCanDo2" xml:space="preserve">
+    <value>En una llamada Wallet, los estudiantes pagan a los nativos por tener conversaciones privadas. En cambio en las llamadas de Banco de Tiempo, la moneda de cambio es el tiempo que dedicas a otros usuarios. Puedes ver las secciones {0} y {1} para ver más información sobre estos tipos de llamada.</value>
   </data>
 </root>

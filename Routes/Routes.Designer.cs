@@ -268,20 +268,11 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to help/wallet-introduction.
+        ///   Looks up a localized string similar to help/my-wallet-introduction.
         /// </summary>
         public static string wallet_introduction {
             get {
                 return ResourceManager.GetString("wallet-introduction", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to help/wallet-language-room.
-        /// </summary>
-        public static string wallet_language_room {
-            get {
-                return ResourceManager.GetString("wallet-language-room", resourceCulture);
             }
         }
         
@@ -295,11 +286,29 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/wallet-video-calls-introduction.
+        /// </summary>
+        public static string wallet_video_calls_intro {
+            get {
+                return ResourceManager.GetString("wallet-video-calls-intro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/wallet-withdrawals.
         /// </summary>
         public static string wallet_withdrawals {
             get {
                 return ResourceManager.GetString("wallet-withdrawals", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/what-you-can-do-in-langademy.
+        /// </summary>
+        public static string what_you_can_do_in_langademy {
+            get {
+                return ResourceManager.GetString("what-you-can-do-in-langademy", resourceCulture);
             }
         }
         

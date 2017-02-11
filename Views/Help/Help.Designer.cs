@@ -70,6 +70,15 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Complete your profile.
+        /// </summary>
+        public static string CompleteProfile {
+            get {
+                return ResourceManager.GetString("CompleteProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy calendar.
         /// </summary>
         public static string HelpCalendarTitle {
@@ -223,7 +232,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to How do I schedule a new meet up?.
+        ///   Looks up a localized string similar to How do I schedule a new meetup?.
         /// </summary>
         public static string HelpHowMeetPartners5 {
             get {
@@ -250,7 +259,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Select the date and time of the meetup. (in your local timezone).
+        ///   Looks up a localized string similar to Select the date and time of the meetup (in your local timezone)..
         /// </summary>
         public static string HelpHowMeetPartners8 {
             get {
@@ -295,7 +304,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If the user hasn&apos;t available hours you will have the option to be notified when he/she is available. A warning on top of the calendar will appear including the button to request that. .
+        ///   Looks up a localized string similar to If the user hasn&apos;t available hours you will have the option to be notified when he/she is available. Just click the warning button on top of the calendar if you want to receive it. .
         /// </summary>
         public static string HelpHowRequestConversation3 {
             get {
@@ -322,7 +331,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Besides, when the native accepts your request you will be notified and a new event will be added to your calendar..
+        ///   Looks up a localized string similar to Furthermore, when the native accepts your request you will be notified and a new event will be added to your calendar..
         /// </summary>
         public static string HelpHowRequestConversation6 {
             get {
@@ -363,6 +372,15 @@ namespace Resources.Views.Help {
         public static string HelpHowRequestConversationTitle {
             get {
                 return ResourceManager.GetString("HelpHowRequestConversationTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to begin.
+        /// </summary>
+        public static string HelpHowToBegin {
+            get {
+                return ResourceManager.GetString("HelpHowToBegin", resourceCulture);
             }
         }
         
@@ -412,11 +430,20 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Native speakers fee.
+        ///   Looks up a localized string similar to Langademy fee. How it works.
         /// </summary>
         public static string HelpNativesFeeTitle {
             get {
                 return ResourceManager.GetString("HelpNativesFeeTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Native speakers.
+        /// </summary>
+        public static string HelpNativeSpeakers {
+            get {
+                return ResourceManager.GetString("HelpNativeSpeakers", resourceCulture);
             }
         }
         
@@ -502,6 +529,15 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Requirements for natives.
+        /// </summary>
+        public static string HelpNativeWalletRequirementsTitle {
+            get {
+                return ResourceManager.GetString("HelpNativeWalletRequirementsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy profile.
         /// </summary>
         public static string HelpProfileTitle {
@@ -520,7 +556,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You set your availability in your calendar in order to restrict the dates and times in which you are gonna be available for private conversations with language students. They will only be able to send you requests for the dates and times you decide, and never for a conversation longer than 2 hours. Besides, you can also restrict the type of conversation you accept (timebanking conversations, paid conversations or any of those). .
+        ///   Looks up a localized string similar to You set your availability in your calendar in order to restrict the dates and times in which you are gonna be available for private conversations with language students. They will only be able to send you requests for the dates and times you decide, and never for a conversation longer than 2 hours. What is more, you can also restrict the type of conversation you accept (time banking conversations, paid conversations or any of those). .
         /// </summary>
         public static string HelpSetAvailability1 {
             get {
@@ -574,7 +610,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To set your availability go to &lt;a href=&quot;{0}&quot; class=&quot;link&quot;&gt;My calendar&lt;/a&gt; and click Edit Availability on the top side, or go directly to &lt;a href=&quot;{1}&quot; class=&quot;link&quot;&gt;Edit availability&lt;/a&gt; and follow these steps:.
+        ///   Looks up a localized string similar to To set your availability go to &lt;a href=&quot;{0}&quot; class=&quot;link&quot;&gt;My calendar&lt;/a&gt; and click Edit Availability at the top, or go directly to &lt;a href=&quot;{1}&quot; class=&quot;link&quot;&gt;Edit availability&lt;/a&gt; and follow these steps:.
         /// </summary>
         public static string HelpSetAvailability3 {
             get {
@@ -619,7 +655,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Place your mouse pointer on the block you want to change. Two small lines wil appear at the end. Click on those lines and drag for resizing the block until you it has the duration you want.  .
+        ///   Looks up a localized string similar to Place your mouse pointer on the block you want to change. Two small lines will appear at the end. Click those lines and drag for resizing the block until you it has the duration you want.  .
         /// </summary>
         public static string HelpSetAvailability8 {
             get {
@@ -655,7 +691,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open your State Panel by clicking on your photo  on the top right side of your Home screen.
+        ///   Looks up a localized string similar to Open your state panel by clicking on your photo  on the top right side of your home screen.
         /// </summary>
         public static string HelpSetRate2 {
             get {
@@ -813,6 +849,15 @@ namespace Resources.Views.Help {
         public static string HelpStudentIntro3 {
             get {
                 return ResourceManager.GetString("HelpStudentIntro3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Students.
+        /// </summary>
+        public static string HelpStudents {
+            get {
+                return ResourceManager.GetString("HelpStudents", resourceCulture);
             }
         }
         
@@ -1007,7 +1052,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wallet introduction.
+        ///   Looks up a localized string similar to My Wallet introduction.
         /// </summary>
         public static string HelpWalletIntroTitle {
             get {
@@ -1016,7 +1061,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wallet video calls.
+        ///   Looks up a localized string similar to Wallet video calls introduction.
         /// </summary>
         public static string HelpWalletRoomsTitle {
             get {
@@ -1129,6 +1174,33 @@ namespace Resources.Views.Help {
         public static string HelpWelcome {
             get {
                 return ResourceManager.GetString("HelpWelcome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy is a social network where students and native speakers can practica languages using video calls. There are two video call modalities you can choose : Wallet calls or Time Banking calls..
+        /// </summary>
+        public static string HelpWhatYouCanDo1 {
+            get {
+                return ResourceManager.GetString("HelpWhatYouCanDo1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In a Wallet call, language students pay natives to have private conversations. If a time banking call is made, time is used as a trade. Check the {0} and the {1} sections for more information about these type of calls..
+        /// </summary>
+        public static string HelpWhatYouCanDo2 {
+            get {
+                return ResourceManager.GetString("HelpWhatYouCanDo2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to What can I do in Langademy?.
+        /// </summary>
+        public static string HelpWhatYouCanDoTitle {
+            get {
+                return ResourceManager.GetString("HelpWhatYouCanDoTitle", resourceCulture);
             }
         }
         

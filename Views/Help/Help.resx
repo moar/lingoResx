@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -178,7 +178,7 @@
     <value>Learners: how to start</value>
   </data>
   <data name="HelpNativesFeeTitle" xml:space="preserve">
-    <value>Native speakers fee</value>
+    <value>Langademy fee. How it works</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
     <value>If you want to chat in your native language, you have to go the chat room of your native language, where you will find language learners to speak with.</value>
@@ -208,10 +208,10 @@
     <value>How does Time Banking work?</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
-    <value>Wallet introduction</value>
+    <value>My Wallet introduction</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Wallet video calls</value>
+    <value>Wallet video calls introduction</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Credit withdrawal</value>
@@ -392,7 +392,7 @@
     <value>Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you're not looking for speaking with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value><![CDATA[To set your availability go to <a href="{0}" class="link">My calendar</a> and click Edit Availability at the top, or go directly to <a href="{1}" class="link">Edit availability</a> and follow these steps:]]></value>
+    <value>To set your availability go to &lt;a href="{0}" class="link"&gt;My calendar&lt;/a&gt; and click Edit Availability at the top, or go directly to &lt;a href="{1}" class="link"&gt;Edit availability&lt;/a&gt; and follow these steps:</value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Select the type of conversation you want to receive requests for by clicking Wallet, Time banking or Both</value>
@@ -416,7 +416,7 @@
     <value>Set your availability</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value><![CDATA[Once you meet the <a href="{0}" class="help link">requirements</a>, you can set your rate for charging students for private conversations. To do so, follow the next steps:]]></value>
+    <value>Once you meet the &lt;a href="{0}" class="help link"&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Open your state panel by clicking on your photo  on the top right side of your home screen</value>
@@ -425,7 +425,7 @@
     <value>Go to the Wallet section of the State Panel and look for the language you want to set a rate for</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Click on the <span class="lg lg-cog"></span> button and the dialog for updating the rate will be shown]]></value>
+    <value>Click on the &lt;span class="lg lg-cog"&gt;&lt;/span&gt; button and the dialog for updating the rate will be shown</value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Set the amount of credits per hour that you want to charge students and click Save</value>
@@ -449,7 +449,7 @@
     <value>Meetups are the way you can let everybody know in advance when you will be online in a chat room.  This way, students and other native speakers can join you at the same time. Indeed, you can enter a chat room whenever you want but, let's be honest. It's easier to bring together a larger group of people if you schedule an event in advance. </value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value><![CDATA[Check your <a href="{0}" class="link applnk">Calendar</a> to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one.]]></value>
+    <value>Check your &lt;a href="{0}" class="link applnk"&gt;Calendar&lt;/a&gt; to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>When you join a meet up, the event will be added to your calendar and you will be able to write on the message board and propose conversation topics. </value>
@@ -458,7 +458,7 @@
     <value>How do I schedule a new meetup?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[To schedule a new meetup go to <a href="{0}" class="link applnk">My calendar</a> and click New Meetup on the top side, or go directly to <a href="{1}" class="link applnk">New meetup</a> and follow these steps:]]></value>
+    <value>To schedule a new meetup go to &lt;a href="{0}" class="link applnk"&gt;My calendar&lt;/a&gt; and click New Meetup on the top side, or go directly to &lt;a href="{1}" class="link applnk"&gt;New meetup&lt;/a&gt; and follow these steps:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Select the language of the meetup. Participants will attend the meetup at the chat room of that language.</value>
@@ -485,7 +485,7 @@
     <value>How do I know if a native accepts my request?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value><![CDATA[You can track the status of your requests in your <a href="{0}" class="link applnk">Calendar</a>. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. ]]></value>
+    <value>You can track the status of your requests in your &lt;a href="{0}" class="link applnk"&gt;Calendar&lt;/a&gt;. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. </value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Furthermore, when the native accepts your request you will be notified and a new event will be added to your calendar.</value>
@@ -494,7 +494,7 @@
     <value>What do I have to do at the time of the conversation?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value><![CDATA[Go to the call panel <span class="lg lg-call"></span> and select the Private Conversations Tab <span class="lg lg-calendar"></span>. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. ]]></value>
+    <value>Go to the call panel &lt;span class="lg lg-call"&gt;&lt;/span&gt; and select the Private Conversations Tab &lt;span class="lg lg-calendar"&gt;&lt;/span&gt;. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. </value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>When you already are in the videoapp you will see when your partner is online, and in the meantime you can write in your private chat to make your partner aware of you being there.</value>
@@ -504,5 +504,29 @@
   </data>
   <data name="HelpMeetupsTitle" xml:space="preserve">
     <value>Meetups</value>
+  </data>
+  <data name="CompleteProfile" xml:space="preserve">
+    <value>Complete your profile</value>
+  </data>
+  <data name="HelpWhatYouCanDoTitle" xml:space="preserve">
+    <value>What can I do in Langademy?</value>
+  </data>
+  <data name="HelpHowToBegin" xml:space="preserve">
+    <value>How to begin</value>
+  </data>
+  <data name="HelpNativeSpeakers" xml:space="preserve">
+    <value>Native speakers</value>
+  </data>
+  <data name="HelpNativeWalletRequirementsTitle" xml:space="preserve">
+    <value>Requirements for natives</value>
+  </data>
+  <data name="HelpStudents" xml:space="preserve">
+    <value>Students</value>
+  </data>
+  <data name="HelpWhatYouCanDo1" xml:space="preserve">
+    <value>Langademy is a social network where students and native speakers can practica languages using video calls. There are two video call modalities you can choose : Wallet calls or Time Banking calls.</value>
+  </data>
+  <data name="HelpWhatYouCanDo2" xml:space="preserve">
+    <value>In a Wallet call, language students pay natives to have private conversations. If a time banking call is made, time is used as a trade. Check the {0} and the {1} sections for more information about these type of calls.</value>
   </data>
 </root>

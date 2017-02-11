@@ -175,10 +175,10 @@
     <value>ayuda/salas-chat-banco-tiempo</value>
   </data>
   <data name="wallet-introduction" xml:space="preserve">
-    <value>ayuda/introduccion-wallet</value>
+    <value>ayuda/introduccion-mi-wallet</value>
   </data>
-  <data name="wallet-language-room" xml:space="preserve">
-    <value>ayuda/salas-idiomas-wallet</value>
+  <data name="wallet-video-calls-intro" xml:space="preserve">
+    <value>ayuda/introduccion-videollamadas-wallet</value>
   </data>
   <data name="wallet-native-fees" xml:space="preserve">
     <value>ayuda/comision-nativos-wallet</value>
@@ -200,5 +200,8 @@
   </data>
   <data name="search-language-students" xml:space="preserve">
     <value>buscar-estudiantes-de-idiomas</value>
+  </data>
+  <data name="what-you-can-do-in-langademy" xml:space="preserve">
+    <value>ayuda/que-puedes-hacer-en-langademy</value>
   </data>
 </root>
