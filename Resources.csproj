@@ -835,7 +835,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\DesktopSummary\Summary.ca.resx" />
     <EmbeddedResource Include="Views\DesktopSummary\Summary.de.resx" />
-    <EmbeddedResource Include="Views\DesktopSummary\Summary.es.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\DesktopSummary\Summary.eu.resx" />
     <EmbeddedResource Include="Views\DesktopSummary\Summary.fr.resx" />
     <EmbeddedResource Include="Views\DesktopSummary\Summary.it.resx" />
