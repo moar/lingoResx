@@ -208,10 +208,10 @@
     <value>Nola funtzionatzen du denbora bankuak?</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
-    <value>Walleterako sarrera</value>
+    <value>My Walletera sarrera</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Wallet bideo deiak</value>
+    <value>Wallet bideo deietara sarrera</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Kredituak ateratzea</value>
