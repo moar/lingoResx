@@ -177,8 +177,8 @@
   <data name="wallet-introduction" xml:space="preserve">
     <value>ajuda/introducció-wallet</value>
   </data>
-  <data name="wallet-language-room" xml:space="preserve">
-    <value>ajuda/sales-idiomes-wallet</value>
+  <data name="wallet-video-calls-intro" xml:space="preserve">
+    <value>ajuda/introduccio-videotrucadas-wallet</value>
   </data>
   <data name="wallet-native-fees" xml:space="preserve">
     <value>ajuda/comissió-natius-wallet</value>
@@ -188,5 +188,20 @@
   </data>
   <data name="why-complete-profile" xml:space="preserve">
     <value>ajuda/per-que-completar-perfil</value>
+  </data>
+  <data name="native-partners-exchange" xml:space="preserve">
+    <value>natius-per-intercanvi-idiomes</value>
+  </data>
+  <data name="paid-converstions-with-natives" xml:space="preserve">
+    <value>converses-de-pagament-amb-natius</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>Cercar</value>
+  </data>
+  <data name="search-language-students" xml:space="preserve">
+    <value>buscar-estudiants-de-idiomes</value>
+  </data>
+  <data name="what-you-can-do-in-langademy" xml:space="preserve">
+    <value>ajuda/que-pots-fer-en-langademy</value>
   </data>
 </root>

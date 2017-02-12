@@ -132,6 +132,18 @@
   <data name="how-does-time-banking-work" xml:space="preserve">
     <value>laguntza/denbora-bankua-funtzionamendua</value>
   </data>
+  <data name="how-to-meet-partners" xml:space="preserve">
+    <value>laguntza/nola-bilatu-mintzalagunak</value>
+  </data>
+  <data name="how-to-request-private-conversation" xml:space="preserve">
+    <value>laguntza/nola-konbertsazio-pribatu-eskeriak-mintzalagunei</value>
+  </data>
+  <data name="how-to-set-availability" xml:space="preserve">
+    <value>laguntza/nola-ezarri-eskuragarritasuna</value>
+  </data>
+  <data name="how-to-set-rate" xml:space="preserve">
+    <value>laguntza/nola-ezarri-tarifak</value>
+  </data>
   <data name="langademy-state" xml:space="preserve">
     <value>laguntza/langademy-egoera</value>
   </data>
@@ -163,15 +175,33 @@
     <value>laguntza/denbora-bankuko-txat-gelak</value>
   </data>
   <data name="wallet-introduction" xml:space="preserve">
-    <value>languntza/wallet-sarrera</value>
+    <value>languntza/nire-wallet-sarrera</value>
   </data>
-  <data name="wallet-language-room" xml:space="preserve">
-    <value>laguntza/wallet-hizkuntza-gela</value>
+  <data name="wallet-video-calls-intro" xml:space="preserve">
+    <value>laguntza/sarrera-wallet-deiak</value>
   </data>
   <data name="wallet-native-fees" xml:space="preserve">
     <value>laguntza/wallet-natiboak-komisioak</value>
   </data>
   <data name="wallet-withdrawals" xml:space="preserve">
     <value>laguntza/wallet-kredituak-atera</value>
+  </data>
+  <data name="why-complete-profile" xml:space="preserve">
+    <value>laguntza/nola-bete-profila</value>
+  </data>
+  <data name="native-partners-exchange" xml:space="preserve">
+    <value>mintzalagun-natiboak-hizkuntza-elkartrukea</value>
+  </data>
+  <data name="paid-converstions-with-natives" xml:space="preserve">
+    <value>ordaindutako-konbertsazioak-mintzalagun-natiboak</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>bilatu</value>
+  </data>
+  <data name="search-language-students" xml:space="preserve">
+    <value>bilatu-hizkuntza-ikasleak</value>
+  </data>
+  <data name="what-you-can-do-in-langademy" xml:space="preserve">
+    <value>laguntza/zer-egin-Langademy</value>
   </data>
 </root>

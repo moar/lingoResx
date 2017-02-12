@@ -117,4 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  
+  <data name="Section" xml:space="preserve">
+    <value>Errekurtso gehiago</value>
+  </data>
+  <data name="Subtitle" xml:space="preserve">
+    <value>Gehiago ikasi nahi? Bisitatu web orri hauek eta azkartu zure hizkuntza ikaste prozesua!</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Beste hizkuntza errekurtso batzuk</value>
+  </data>
+</root>

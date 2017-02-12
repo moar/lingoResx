@@ -243,4 +243,7 @@
   <data name="RPFilterWalletNatives" xml:space="preserve">
     <value>Madrelingu per conversazioni a pagamento</value>
   </data>
+  <data name="RPFilterStudents" xml:space="preserve">
+    <value>Studenti</value>
+  </data>
 </root>

@@ -117,91 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="bloglanguage" xml:space="preserve">
-    <value>idioma/{selectedCulture}/</value>
+  
+  
+  
+  
+  <data name="AccountDeactivated" xml:space="preserve">
+    <value>Your account was deactivated .Do you want reactivate it? Sign in again</value>
   </data>
-  <data name="conversation-exchange-meetups" xml:space="preserve">
-    <value>quedadas-intercambio-idiomas</value>
+  <data name="ConfirmAddress" xml:space="preserve">
+    <value>You need to confirm your email address.Please check your inbox!</value>
   </data>
-  <data name="earn-as-conversation-partner" xml:space="preserve">
-    <value>ganar-dinero-companero-conversacion</value>
+  <data name="ReactivationUnsuccesful" xml:space="preserve">
+    <value>Reactivation unsuccesful. Please, contact Langademy support team (contact@langademy.com) from the same e-mail you are trying to reactivate</value>
   </data>
-  <data name="help" xml:space="preserve">
-    <value>ayuda</value>
-  </data>
-  <data name="how-does-time-banking-work" xml:space="preserve">
-    <value>ayuda/funcionamiento-banco-de-tiempo</value>
-  </data>
-  <data name="how-to-meet-partners" xml:space="preserve">
-    <value>ayuda/como-conocer-companeros-conversacion</value>
-  </data>
-  <data name="how-to-request-private-conversation" xml:space="preserve">
-    <value>ayuda/como-solicitar-conversacion-privada</value>
-  </data>
-  <data name="how-to-set-availability" xml:space="preserve">
-    <value>ayuda/como-editar-disponibilidad</value>
-  </data>
-  <data name="how-to-set-rate" xml:space="preserve">
-    <value>ayuda/como-definir-tarifa</value>
-  </data>
-  <data name="langademy-state" xml:space="preserve">
-    <value>ayuda/estado-langademy</value>
-  </data>
-  <data name="language-exchange" xml:space="preserve">
-    <value>intercambio-de-idiomas</value>
-  </data>
-  <data name="language-exchange-partners" xml:space="preserve">
-    <value>companeros-intercambio-idiomas</value>
-  </data>
-  <data name="language-learners-how-to-start" xml:space="preserve">
-    <value>ayuda/estudiantes-idiomas-como-empezar</value>
-  </data>
-  <data name="learn-languages" xml:space="preserve">
-    <value>aprender-idiomas-online</value>
-  </data>
-  <data name="natives-how-to-start" xml:space="preserve">
-    <value>ayuda/nativos-como-empezar</value>
-  </data>
-  <data name="OtherLangResources" xml:space="preserve">
-    <value>otros-recursos-linguisticos</value>
-  </data>
-  <data name="pricing" xml:space="preserve">
-    <value>precios</value>
-  </data>
-  <data name="time-banking-indroduction" xml:space="preserve">
-    <value>ayuda/introduccion-banco-tiempo</value>
-  </data>
-  <data name="time-banking-language-chat-rooms" xml:space="preserve">
-    <value>ayuda/salas-chat-banco-tiempo</value>
-  </data>
-  <data name="wallet-introduction" xml:space="preserve">
-    <value>ayuda/introduccion-mi-wallet</value>
-  </data>
-  <data name="wallet-video-calls-intro" xml:space="preserve">
-    <value>ayuda/introduccion-videollamadas-wallet</value>
-  </data>
-  <data name="wallet-native-fees" xml:space="preserve">
-    <value>ayuda/comision-nativos-wallet</value>
-  </data>
-  <data name="wallet-withdrawals" xml:space="preserve">
-    <value>ayuda/retirar-creditos-wallet</value>
-  </data>
-  <data name="why-complete-profile" xml:space="preserve">
-    <value>ayuda/por-que-completar-perfil</value>
-  </data>
-  <data name="native-partners-exchange" xml:space="preserve">
-    <value>nativos-para-intercambio-idiomas</value>
-  </data>
-  <data name="paid-converstions-with-natives" xml:space="preserve">
-    <value>conversaciones-de-pago-con-nativos</value>
-  </data>
-  <data name="search" xml:space="preserve">
-    <value>buscar</value>
-  </data>
-  <data name="search-language-students" xml:space="preserve">
-    <value>buscar-estudiantes-de-idiomas</value>
-  </data>
-  <data name="what-you-can-do-in-langademy" xml:space="preserve">
-    <value>ayuda/que-puedes-hacer-en-langademy</value>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>User not found</value>
   </data>
 </root>
