@@ -201,8 +201,8 @@
   <data name="HelpTBIntroTitle" xml:space="preserve">
     <value>Time Banking introduction</value>
   </data>
-  <data name="HelpTBRoomsTitle" xml:space="preserve">
-    <value>Use of Time Banking in the video calls</value>
+  <data name="HelpChatRoomsTitle" xml:space="preserve">
+    <value>Chat rooms</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>How does Time Banking work?</value>

@@ -171,8 +171,8 @@
   <data name="time-banking-indroduction" xml:space="preserve">
     <value>ayuda/introduccion-banco-tiempo</value>
   </data>
-  <data name="time-banking-language-chat-rooms" xml:space="preserve">
-    <value>ayuda/salas-chat-banco-tiempo</value>
+  <data name="chat-rooms" xml:space="preserve">
+    <value>ayuda/salas-chat</value>
   </data>
   <data name="wallet-introduction" xml:space="preserve">
     <value>ayuda/introduccion-mi-wallet</value>

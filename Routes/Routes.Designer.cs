@@ -70,6 +70,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/chat-rooms.
+        /// </summary>
+        public static string chat_rooms {
+            get {
+                return ResourceManager.GetString("chat-rooms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to conversation-exchange-meetups.
         /// </summary>
         public static string conversation_exchange_meetups {
@@ -255,15 +264,6 @@ namespace Resources.Routes {
         public static string time_banking_indroduction {
             get {
                 return ResourceManager.GetString("time-banking-indroduction", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to help/time-banking-language-chat-rooms.
-        /// </summary>
-        public static string time_banking_language_chat_rooms {
-            get {
-                return ResourceManager.GetString("time-banking-language-chat-rooms", resourceCulture);
             }
         }
         

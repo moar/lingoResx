@@ -97,6 +97,15 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Chat rooms.
+        /// </summary>
+        public static string HelpChatRoomsTitle {
+            get {
+                return ResourceManager.GetString("HelpChatRoomsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to check prices.
         /// </summary>
         public static string HelpCheckPrices {
@@ -939,15 +948,6 @@ namespace Resources.Views.Help {
         public static string HelpTBRooms6 {
             get {
                 return ResourceManager.GetString("HelpTBRooms6", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Use of Time Banking in the video calls.
-        /// </summary>
-        public static string HelpTBRoomsTitle {
-            get {
-                return ResourceManager.GetString("HelpTBRoomsTitle", resourceCulture);
             }
         }
         
