@@ -501,4 +501,7 @@
   <data name="ZeroConversationRequestsSent" xml:space="preserve">
     <value>No has enviat cap sol·licitud de conversa</value>
   </data>
+  <data name="MyCalendar" xml:space="preserve">
+    <value>El meu calendari</value>
+  </data>
 </root>

@@ -117,7 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
+  <data name="AddStudLangError" xml:space="preserve">
+    <value>Ikasten ari zaren hizkuntza bat geitu behar duzu gutxienez</value>
+  </data>
   <data name="DailySugs" xml:space="preserve">
     <value>Eguneko iradokizunak</value>
   </data>
@@ -135,6 +137,81 @@
   </data>
   <data name="ReqsSent" xml:space="preserve">
     <value>erantzundako konbertsazio eskaerak</value>
+  </data>
+  <data name="SearchStudents" xml:space="preserve">
+    <value>Bilatu ikasleak</value>
+  </data>
+  <data name="SearchTBNatives" xml:space="preserve">
+    <value>Bilatu mintzalagun natiboak denbora bankuko konbertsazioetarako</value>
+  </data>
+  <data name="SearchWalletNatives" xml:space="preserve">
+    <value>Bilatu ordainpeko mintzalagun natiboak</value>
+  </data>
+  <data name="TipCompleteProf" xml:space="preserve">
+    <value>Zure profila osatu beharko zenuke</value>
+  </data>
+  <data name="TipCompleteProfAux" xml:space="preserve">
+    <value>Editatu profila</value>
+  </data>
+  <data name="TipCompleteProfHelp" xml:space="preserve">
+    <value>Zergatik?</value>
+  </data>
+  <data name="TipCreateMeetup" xml:space="preserve">
+    <value>Egin zaitez ezagun ikasleen artean bilera bat antolatuz</value>
+  </data>
+  <data name="TipCreateMeetupAux" xml:space="preserve">
+    <value>Antolatu bilera berri bat</value>
+  </data>
+  <data name="TipCreateMeetupHelp" xml:space="preserve">
+    <value>Nola ezagutu ditzaket ikasle gehiago?</value>
+  </data>
+  <data name="TipCreateMeetupStud" xml:space="preserve">
+    <value>Ezagutu mintzalagunak bilera berri bat antolatuz</value>
+  </data>
+  <data name="TipCreateMeetupStudHelp" xml:space="preserve">
+    <value>Nola ezagutu ditzaket mintzalagun berriak?</value>
+  </data>
+  <data name="TipEditAvailability" xml:space="preserve">
+    <value>Zure eskuragarritasuna definitu behar duzu zure hizkuntza natiboan ikasleekin hitz egitea nahi baduzu. Ez baduzu hau egiten, ikasleek ez dute jakingo noiz zauden libre eta ezin izango dizute eskaerarik egin.</value>
+  </data>
+  <data name="TipEditAvailabilityAux" xml:space="preserve">
+    <value>Editatu nire eskuragarritasuna</value>
+  </data>
+  <data name="TipEditAvailabilityHelp" xml:space="preserve">
+    <value>Nola ezarri nire eskuragarritasuna</value>
+  </data>
+  <data name="TipSearchAndRequest" xml:space="preserve">
+    <value>Bilatu mintzalagun natibo bat eta egin konbertsazio pribatu baterako eskaria</value>
+  </data>
+  <data name="TipSearchAndRequestAux" xml:space="preserve">
+    <value>Bilatu mintzalagunak</value>
+  </data>
+  <data name="TipSearchAndRequestHelp" xml:space="preserve">
+    <value>Nola eskatu dezaket konbertsazio pribatu bat?</value>
+  </data>
+  <data name="TipWalletBalanceRunout" xml:space="preserve">
+    <value>Ordainpeko konbertsazio bat hitzartu duzu baina ez duzu hau ordaintzeko diru nahikoa zure Wallet kontuan. Erosi itzazu kredituak hitzartutako egun eta ordua baino lehen edo ezin izango duzu deia burutu</value>
+  </data>
+  <data name="TipWalletBalanceRunoutAux" xml:space="preserve">
+    <value>Erosi kredituak</value>
+  </data>
+  <data name="TipWalletNatBillingAddr" xml:space="preserve">
+    <value>Ikasle batek zure konbertsazioengatik ordaindu dezan, lehenik zure fakturazio helbidea bete behar duzu</value>
+  </data>
+  <data name="TipWalletNatBillingAddrAux" xml:space="preserve">
+    <value>gehitu zure fakturazio helbidea</value>
+  </data>
+  <data name="TipWalletNatBillingAddrHelp" xml:space="preserve">
+    <value>Ikusi Walleteko baldintzak</value>
+  </data>
+  <data name="TipWalletNatSetRate" xml:space="preserve">
+    <value>{0}-(e)ko ordainpeko konbertsazioak izateko eta zure tarifa ezartzeko kondizioak betetzen dituzu dagoeneko</value>
+  </data>
+  <data name="TipWalletNatSetRateHelp" xml:space="preserve">
+    <value>Nola ezarri nire tarifa</value>
+  </data>
+  <data name="TipWalletNatZeroRepu" xml:space="preserve">
+    <value>Gutxieneko erreputazio bat behar duzu tarifak ezarri eta hiztun natibo moduan dirua irabazteko. Denbora bankuko deiak edo doako Wallet deiak egin ditzakezu ikasleekin. Ez ahaztu hauei beraien botoa eskatzeaz.</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>Ongi etorri Langademyra</value>

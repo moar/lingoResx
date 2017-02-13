@@ -138,4 +138,25 @@
   <data name="SearchSubTitleLanguage" xml:space="preserve">
     <value>Learn {0} online, it’s free! Pssst, don’t forget to be collaborative. Speak in your native language and we will give you the same amount of time to practice other languages with natives</value>
   </data>
+  <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
+    <value>Find natives speakers that suit you. Check their expertise and upvotes and make requests for private conversations.</value>
+  </data>
+  <data name="SearchConversationPartnersTitle" xml:space="preserve">
+    <value>Find conversation partners</value>
+  </data>
+  <data name="SearchLanguageStudentsSubtitle" xml:space="preserve">
+    <value>Find students that want to learn the languages you know. Don't forget to set your availability in your profile so students can request you conversations.</value>
+  </data>
+  <data name="SearchLanguageStudentsTitle" xml:space="preserve">
+    <value>Find language students</value>
+  </data>
+  <data name="SearchPaidConversationPartnersSubtitle" xml:space="preserve">
+    <value>Find natives speakers that suit you. Check their expertise, upvotes and rates and make requests for private conversations.</value>
+  </data>
+  <data name="SearchCustomUsersTitle" xml:space="preserve">
+    <value>Find conversation partners</value>
+  </data>
+  <data name="SearchCustomUserSubtitle" xml:space="preserve">
+    <value>Find conversations partners and filter your searches using the filter in your right panel</value>
+  </data>
 </root>

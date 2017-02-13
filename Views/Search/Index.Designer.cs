@@ -61,11 +61,65 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Find natives speakers that suit you. Check their expertise and upvotes and make requests for private conversations..
+        /// </summary>
+        public static string SearchConversationPartnersSubtitle {
+            get {
+                return ResourceManager.GetString("SearchConversationPartnersSubtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find conversation partners.
+        /// </summary>
+        public static string SearchConversationPartnersTitle {
+            get {
+                return ResourceManager.GetString("SearchConversationPartnersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find conversation partners.
+        /// </summary>
+        public static string SearchCustomUsersTitle {
+            get {
+                return ResourceManager.GetString("SearchCustomUsersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find conversations partners and filter your searches using the filter in your right panel.
+        /// </summary>
+        public static string SearchCustomUserSubtitle {
+            get {
+                return ResourceManager.GetString("SearchCustomUserSubtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Filter.
         /// </summary>
         public static string SearchFilter {
             get {
                 return ResourceManager.GetString("SearchFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find students that want to learn the languages you know. Don&apos;t forget to set your availability in your profile so students can request you conversations..
+        /// </summary>
+        public static string SearchLanguageStudentsSubtitle {
+            get {
+                return ResourceManager.GetString("SearchLanguageStudentsSubtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find language students.
+        /// </summary>
+        public static string SearchLanguageStudentsTitle {
+            get {
+                return ResourceManager.GetString("SearchLanguageStudentsTitle", resourceCulture);
             }
         }
         
@@ -84,6 +138,15 @@ namespace Resources.Views.Search {
         public static string SearchMainTitleLanguage {
             get {
                 return ResourceManager.GetString("SearchMainTitleLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find natives speakers that suit you. Check their expertise, upvotes and rates and make requests for private conversations..
+        /// </summary>
+        public static string SearchPaidConversationPartnersSubtitle {
+            get {
+                return ResourceManager.GetString("SearchPaidConversationPartnersSubtitle", resourceCulture);
             }
         }
         

@@ -138,4 +138,25 @@
   <data name="SearchSubTitleLanguage" xml:space="preserve">
     <value>Aprende {0} online, ¡es gratis! No olvides ser colaborativo. Habla en tu idioma nativo y te daremos la misma cantidad de tiempo para que practiques otros idiomas con nativos</value>
   </data>
+  <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
+    <value>Busca hablantes nativos que se adapten a tus preferencias. Revisa su experiencia y votos positivos y solicita conversaciones privadas con ellos</value>
+  </data>
+  <data name="SearchConversationPartnersTitle" xml:space="preserve">
+    <value>Busca compañeros de conversación</value>
+  </data>
+  <data name="SearchLanguageStudentsSubtitle" xml:space="preserve">
+    <value>Busca estudiantes que quieran aprender idiomas en los que tú eres nativo. No te olvides de definir tu disponibilidad en tu perfil para que los estudiantes te puedan hacer solicitudes</value>
+  </data>
+  <data name="SearchLanguageStudentsTitle" xml:space="preserve">
+    <value>Busca estudiantes de idiomas</value>
+  </data>
+  <data name="SearchPaidConversationPartnersSubtitle" xml:space="preserve">
+    <value>Busca hablantes nativos que se adapten a tus preferencias. Revisa su experiencia, votos positivos  y tarifas y solicita conversaciones privadas con ellos</value>
+  </data>
+  <data name="SearchCustomUsersTitle" xml:space="preserve">
+    <value>Busca compañeros de conversación</value>
+  </data>
+  <data name="SearchCustomUserSubtitle" xml:space="preserve">
+    <value>Busca compañeros de conversación y fíltralos usando el filtro de tu panel derecho</value>
+  </data>
 </root>

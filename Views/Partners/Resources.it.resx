@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
-  <data name="HackingChinese" xml:space="preserve">
-    <value><![CDATA[Hacking Chinese és el lloc perfecte per aprendre Mandarín. Aquest web ofereix recursos per millorar la teva oïda, parla, escriptura, lectura i vocabulari. També es cobreixen altres aspectes del procés d'aprenentatge d'idiomes: la mentalitat, planificació o l'auto-aprenentatge d'idiomes. <Br0 /> En resum, trobava tot el que necessites per aprendre un perfecte Mandarín. Tots els recursos que s'ofereixen són gratuïts i estan classificats per nivells (principiant, intermedi, avançat).]]></value>
+  
+  
+  
+  <data name="AccountDeactivated" xml:space="preserve">
+    <value>Il tuo account è stato disattivato. Vuoi riattivare l'account? Accedi di nuovo</value>
   </data>
-  <data name="Russificate" xml:space="preserve">
-    <value>Russificate és una de les principals pàgines d'aprenentatge de l'idioma rus. Compta amb estudiants de més de 45 països i va ser fundada el 2013 per una professora de Rus. Ofereixen classes personalitzades per Skype amb parlants natius russos i tutors certificats. Tenen una gran varietat de cursos i més també ofereixen cursos personalitzats. Els 30 minuts de la primera classe són gratuïts.</value>
+  <data name="ConfirmAddress" xml:space="preserve">
+    <value>È necessario confermare il tuo indirizzo e-mail. Controlla la tua casella di posta</value>
   </data>
-  <data name="Section" xml:space="preserve">
-    <value>Altres recursos</value>
+  <data name="ReactivationUnsuccesful" xml:space="preserve">
+    <value>Impossibile riattivare l'account. Prego, contatta con il team di supporto Langademy (contact@langademy.com) dall'account di posta elettronica che si sta tentando di attivare</value>
   </data>
-  <data name="Subtitle" xml:space="preserve">
-    <value>Vols més encara? Visita aquestes pàgines i llança el teu procés d'aprenentatge d'idiomes!</value>
-  </data>
-  <data name="Title" xml:space="preserve">
-    <value>Altres recursos lingüístics</value>
+  <data name="UserNotFoundException" xml:space="preserve">
+    <value>Utente non trovato</value>
   </data>
 </root>

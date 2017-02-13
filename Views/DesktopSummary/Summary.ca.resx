@@ -138,6 +138,15 @@
   <data name="ReqsSent" xml:space="preserve">
     <value>sol·licituds de conversa respostes</value>
   </data>
+  <data name="SearchStudents" xml:space="preserve">
+    <value>Buscar estudiants</value>
+  </data>
+  <data name="SearchTBNatives" xml:space="preserve">
+    <value>Buscar natius per a converses de banc de temps</value>
+  </data>
+  <data name="SearchWalletNatives" xml:space="preserve">
+    <value>Buscar natius per converses de pagament</value>
+  </data>
   <data name="TipCompleteProf" xml:space="preserve">
     <value>Deuries de completar el teu perfil</value>
   </data>

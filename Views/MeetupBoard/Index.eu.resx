@@ -495,4 +495,13 @@
   <data name="EditAvSelectTypeTouch" xml:space="preserve">
     <value>Aukera ezazu Wallet deietarako, denbora bankuko deietarako edo bietarako eskaerak jasotzea nahi duzun. Sortu itzazu nahi beste zerrenda edo karratu, karratu bakoitzean klik luze bat eginez.</value>
   </data>
+  <data name="ZeroConversationRequestsRec" xml:space="preserve">
+    <value>Ez duzu konbertsazio eskaerarik jaso </value>
+  </data>
+  <data name="ZeroConversationRequestsSent" xml:space="preserve">
+    <value>Ez duzu konbertsazio eskaerarik egin</value>
+  </data>
+  <data name="MyCalendar" xml:space="preserve">
+    <value>Nire egutegia</value>
+  </data>
 </root>

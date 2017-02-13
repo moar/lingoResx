@@ -268,6 +268,24 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Search native language exchange partners.
+        /// </summary>
+        public static string SearchExchangeNatives {
+            get {
+                return ResourceManager.GetString("SearchExchangeNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find native speakers for your language exchanges and use your time as a trade..
+        /// </summary>
+        public static string SearchExchangeNativesDesc {
+            get {
+                return ResourceManager.GetString("SearchExchangeNativesDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} language exchange partners - Langademy.
         /// </summary>
         public static string SearchLangTitle {
@@ -282,6 +300,60 @@ namespace Resources.Views.Layout {
         public static string SearchLanguageDescription {
             get {
                 return ResourceManager.GetString("SearchLanguageDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find native speakers.
+        /// </summary>
+        public static string SearchPaidNatives {
+            get {
+                return ResourceManager.GetString("SearchPaidNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find native speakers that suit your preferences. Check their expertise, upvotes and rates and make conversation requests.
+        /// </summary>
+        public static string SearchPaidNativesDesc {
+            get {
+                return ResourceManager.GetString("SearchPaidNativesDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find conversation partners - Langademy.
+        /// </summary>
+        public static string SearchPartners {
+            get {
+                return ResourceManager.GetString("SearchPartners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search native speakers or students at Langademy. You can use your time or Langademy credits as a trade..
+        /// </summary>
+        public static string SearchPartnersDesc {
+            get {
+                return ResourceManager.GetString("SearchPartnersDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search language students.
+        /// </summary>
+        public static string SearchStudents {
+            get {
+                return ResourceManager.GetString("SearchStudents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search language students. Edit your availability in your calendar to receive requests or create language meetups to meet new students..
+        /// </summary>
+        public static string SearchStudentsDescription {
+            get {
+                return ResourceManager.GetString("SearchStudentsDescription", resourceCulture);
             }
         }
         

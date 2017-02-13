@@ -234,4 +234,16 @@
   <data name="RPNoRecentCalls" xml:space="preserve">
     <value>Deien historikoa hutsik dago</value>
   </data>
+  <data name="RPFilterAllRoles" xml:space="preserve">
+    <value>Guztiak</value>
+  </data>
+  <data name="RPFilterTimeBankingNatives" xml:space="preserve">
+    <value>Denbora bankuko natiboak</value>
+  </data>
+  <data name="RPFilterWalletNatives" xml:space="preserve">
+    <value>Ordaindutako konbertsazioetarako mintzalagun natiboak</value>
+  </data>
+  <data name="RPFilterStudents" xml:space="preserve">
+    <value>Ikasleak</value>
+  </data>
 </root>

@@ -208,10 +208,10 @@
     <value>Nola funtzionatzen du denbora bankuak?</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
-    <value>Walleterako sarrera</value>
+    <value>My Walletera sarrera</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Wallet bideo deiak</value>
+    <value>Wallet bideo deietara sarrera</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Kredituak ateratzea</value>
@@ -220,7 +220,7 @@
     <value>Erlazionatutako artikuluak</value>
   </data>
   <data name="HelpState1" xml:space="preserve">
-    <value>Zure hasierako orritik aldatu dezakezu zure egoera. Sakatu zure abatarraren gainean eta ezkerreko panela irekiko zaizu</value>
+    <value>Zure hasierako orritik aldatu dezakezu zure egoera. Sakatu zure abatarraren gainean eta ezkerrean egoera panela irekiko zaizu</value>
   </data>
   <data name="HelpState2" xml:space="preserve">
     <value>Bertan egonik, aukera desberdinak dituzu zure egoeraren inguruan:</value>
@@ -353,5 +353,65 @@
   </data>
   <data name="HelpCheckPrices" xml:space="preserve">
     <value>ikusi prezioak</value>
+  </data>
+  <data name="HelpCalendarTitle" xml:space="preserve">
+    <value>Langademy egutegia</value>
+  </data>
+  <data name="HelpCompleteProfile1" xml:space="preserve">
+    <value>Zure profila osatzeko arrazoi nagusia, ikasleen arreta deitu eta bilaketa emaitzetan egoera hobetzea da. Profila beterik badaukazu, ikasle gehiagok egingo dizkizute konbertsazio eskaerak.</value>
+  </data>
+  <data name="HelpCompleteProfileTitle" xml:space="preserve">
+    <value>Zergatik bete behar duzun zure profila</value>
+  </data>
+  <data name="HelpProfileTitle" xml:space="preserve">
+    <value>Langademyko profila</value>
+  </data>
+  <data name="HelpSetAvailability10" xml:space="preserve">
+    <value>Nola aldatu dezaket eskuragarritasun bloke baten hasierako ordua?</value>
+  </data>
+  <data name="HelpSetAvailability12" xml:space="preserve">
+    <value>Nola ezabatu dezaket bloke eskuragarri bat?</value>
+  </data>
+  <data name="HelpSetAvailability4" xml:space="preserve">
+    <value>Aukeartu zein kobertsazio motako eskariak jaso nahi dituzun, Wallet, denbora bankua edo biak aukeratuz</value>
+  </data>
+  <data name="HelpSetAvailability6" xml:space="preserve">
+    <value>Errepikatu aurreko pausoak nahi dituzun adina bloke sortzeko</value>
+  </data>
+  <data name="HelpSetAvailability7" xml:space="preserve">
+    <value>Nola aldatu dezaket bloke eskuragarri baten iraupena?</value>
+  </data>
+  <data name="HelpSetAvailabilityTitle" xml:space="preserve">
+    <value>Ezarri zure eskuragarritasuna</value>
+  </data>
+  <data name="HelpSetRate2" xml:space="preserve">
+    <value>Zabaladu zure egoera panela zure profileko irudian klik eginaz (zure pantailako goi eskuin partean)</value>
+  </data>
+  <data name="HelpSetRate3" xml:space="preserve">
+    <value>Zure egoera paneleko Wallet atalean, joan tarifa ezartzea nahi duzun hizkuntzara</value>
+  </data>
+  <data name="HelpSetRate4" xml:space="preserve">
+    <value><![CDATA[Klikatu <span class="lg lg-cog"></span> botoian eta zure tarifa editatzeko leiho bat irekiko zaizu]]></value>
+  </data>
+  <data name="HelpSetRateTitle" xml:space="preserve">
+    <value>Nola definitu dezaket nire tarifa?</value>
+  </data>
+  <data name="HelpHowMeetPartners10" xml:space="preserve">
+    <value>Nola apuntatu naiteke bilera batean?</value>
+  </data>
+  <data name="HelpHowMeetPartners5" xml:space="preserve">
+    <value>Nola antolatu dezaket bilera berri bat?</value>
+  </data>
+  <data name="HelpHowMeetPartners9" xml:space="preserve">
+    <value>Klik egin Gorde-n</value>
+  </data>
+  <data name="HelpHowMeetPartnersTitle" xml:space="preserve">
+    <value>Nola ezagutu ditzaket mintzalagun berriak?</value>
+  </data>
+  <data name="HelpHowRequestConversationTitle" xml:space="preserve">
+    <value>Nola egin konbertsazio pribatu baterako eskaera bat</value>
+  </data>
+  <data name="HelpMeetupsTitle" xml:space="preserve">
+    <value>Bilerak</value>
   </data>
 </root>

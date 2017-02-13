@@ -243,4 +243,7 @@
   <data name="RPFilterWalletNatives" xml:space="preserve">
     <value>Natius per converses de pagament</value>
   </data>
+  <data name="RPFilterStudents" xml:space="preserve">
+    <value>Estudiants</value>
+  </data>
 </root>

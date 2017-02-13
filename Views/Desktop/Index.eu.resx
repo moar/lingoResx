@@ -372,4 +372,16 @@
   <data name="Welcome" xml:space="preserve">
     <value>Ongi etorri Langademyra</value>
   </data>
+  <data name="Learning" xml:space="preserve">
+    <value>Ikasten</value>
+  </data>
+  <data name="Speaking" xml:space="preserve">
+    <value>Mintzatu</value>
+  </data>
+  <data name="DeskTeacher" xml:space="preserve">
+    <value>Hizkuntza irakasle profesionala naiz</value>
+  </data>
+  <data name="RequireRole" xml:space="preserve">
+    <value>Gutxienez aukera bat hartu behar duzu</value>
+  </data>
 </root>

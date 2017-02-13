@@ -117,6 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  
   <data name="HackingChinese" xml:space="preserve">
     <value><![CDATA[Hacking Chinese is the perfect site to learn Mandarin. They have resources for listening, speaking, reading, writing and vocabulary learning. They also cover other aspects as study hacks, self-studying, immersion, mentality and planning.<br />
                         To sum up, everything you need to learn a perfect Mandarin. All the resources they provide are free and they are classified depending on your level (beginner, intermediate, advanced)]]></value>
