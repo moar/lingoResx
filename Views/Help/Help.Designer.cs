@@ -97,6 +97,69 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Chat rooms are the place where you can meet groups of conversation partners, both natives and students. First of all you have to add in your profile the languages you are interested on. Otherwise you will not have access to the chat room. Once done, go to the control panel, click &lt;span class=&quot;lg lg-chatrooms&quot;&gt;&lt;/span&gt; and select the language chat room to open it..
+        /// </summary>
+        public static string HelpChatRooms1 {
+            get {
+                return ResourceManager.GetString("HelpChatRooms1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can see several areas in the chat room:.
+        /// </summary>
+        public static string HelpChatRooms2 {
+            get {
+                return ResourceManager.GetString("HelpChatRooms2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chat area: Write on te text area at the bottom and press enter to send a message .
+        /// </summary>
+        public static string HelpChatRooms3 {
+            get {
+                return ResourceManager.GetString("HelpChatRooms3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Users: It contains the list of users online. Click the users on the list to open a menu with these options: send a contact request, start a video call, and report or block the user..
+        /// </summary>
+        public static string HelpChatRooms4 {
+            get {
+                return ResourceManager.GetString("HelpChatRooms4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next meetups: Next meetups scheduled to practice a language in the chat room. See {0} for more info about meetups.
+        /// </summary>
+        public static string HelpChatRooms5 {
+            get {
+                return ResourceManager.GetString("HelpChatRooms5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Meetup topics: During a meetup it will contain the list of conversation topics proposed by the participants.
+        /// </summary>
+        public static string HelpChatRooms6 {
+            get {
+                return ResourceManager.GetString("HelpChatRooms6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If the room is empty or there is no activity at the moment, you can create Meetups to tell the others when you will be free to have a chat or a video call. You can also join the existing meetups..
+        /// </summary>
+        public static string HelpChatRooms7 {
+            get {
+                return ResourceManager.GetString("HelpChatRooms7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Chat rooms.
         /// </summary>
         public static string HelpChatRoomsTitle {
@@ -124,7 +187,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can upload to your profile your photo and a cover photo. You should also include your gender, age and country, and a brief overview about you. .
+        ///   Looks up a localized string similar to You can upload  your profile photo and a cover photo. You should also include your gender, age and country, and a brief overview about you. .
         /// </summary>
         public static string HelpCompleteProfile2 {
             get {
@@ -390,6 +453,132 @@ namespace Resources.Views.Help {
         public static string HelpHowToBegin {
             get {
                 return ResourceManager.GetString("HelpHowToBegin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Starting a call in Langademy is easy. You can call a user where you see the symbol &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt;. Click it to show the call menu for choosing the language of the conversation, and the call type (&lt;span class=&quot;lg lg-time-bag&quot;&gt;&lt;/span&gt; time banking or &lt;span class=&quot;lg lg-creditsolid&quot;&gt;&lt;/span&gt; wallet). In case of wallet calls, you will see the rate you will be charged next to the language. .
+        /// </summary>
+        public static string HelpHowToCall1 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Note that the language that you choose when you call determines whether you are acting as a native speaker or as a student, and whether the call is paid with time or credits. Therefore, your time or wallet balance will be updated consequently, so pay attention when you make a call. .
+        /// </summary>
+        public static string HelpHowToCall2 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can start a video call from different places:.
+        /// </summary>
+        public static string HelpHowToCall3 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call from the control panel.
+        /// </summary>
+        public static string HelpHowToCall4 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Click the &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt; tab of the Control Panel to open the Call panel. There, you can select any of the following tabs:  .
+        /// </summary>
+        public static string HelpHowToCall41 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall41", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Online contacts: List of contacts currently online.
+        /// </summary>
+        public static string HelpHowToCall42 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall42", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call history: Users you have recently spoken with .
+        /// </summary>
+        public static string HelpHowToCall43 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall43", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All contacts: List of your contacts alphabetically ordered.
+        /// </summary>
+        public static string HelpHowToCall44 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall44", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next scheduled conversations: List of users you have a private conversation with.
+        /// </summary>
+        public static string HelpHowToCall45 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall45", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call from a chat room.
+        /// </summary>
+        public static string HelpHowToCall5 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to the Users panel and click on the user you want to call to open the Call menu.
+        /// </summary>
+        public static string HelpHowToCall51 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall51", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Call from a user profile.
+        /// </summary>
+        public static string HelpHowToCall6 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can only call users from their profiles in case you are contacts. If that is the case, you will have the call button at the bottom right side of the users&apos;s cover photo.
+        /// </summary>
+        public static string HelpHowToCall61 {
+            get {
+                return ResourceManager.GetString("HelpHowToCall61", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to make a video call.
+        /// </summary>
+        public static string HelpHowToCallTitle {
+            get {
+                return ResourceManager.GetString("HelpHowToCallTitle", resourceCulture);
             }
         }
         
@@ -880,7 +1069,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To practice a language, go to the chat rooms, start chatting with people and make time banking video calls with them. In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account..
+        ///   Looks up a localized string similar to In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account..
         /// </summary>
         public static string HelpTBIntro2 {
             get {
@@ -894,33 +1083,6 @@ namespace Resources.Views.Help {
         public static string HelpTBIntroTitle {
             get {
                 return ResourceManager.GetString("HelpTBIntroTitle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Chat rooms are the place where you can find language exchange partners. In these rooms you can chat for free or make Time Banking video calls (check {0})..
-        /// </summary>
-        public static string HelpTBRooms1 {
-            get {
-                return ResourceManager.GetString("HelpTBRooms1", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to You can see what users are online in the left user panel. If you click the user, you will see different options that each user provides: you can add them as partners, make video calls, and report or block them..
-        /// </summary>
-        public static string HelpTBRooms2 {
-            get {
-                return ResourceManager.GetString("HelpTBRooms2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to If the room is empty or there is no activity at the moment, you can create Meetups to tell the others when you will be free to have a chat or a video call. You can also join the existing meetups..
-        /// </summary>
-        public static string HelpTBRooms3 {
-            get {
-                return ResourceManager.GetString("HelpTBRooms3", resourceCulture);
             }
         }
         
@@ -1052,7 +1214,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to My Wallet introduction.
+        ///   Looks up a localized string similar to My Wallet.
         /// </summary>
         public static string HelpWalletIntroTitle {
             get {
@@ -1088,11 +1250,47 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chat rooms are the meeting point for native speakers and language learners. In these rooms, language learners can chat and make video calls with the native speakers. Each native speaker has an hourly rate, which will be applied when a video call is made. During a call, the cost of the call will be updated each minute, so language learners will only pay for the number of minutes they talk. In each call, there will be a 3-minutes-long trial so the language learners can decide if they want to continue with the [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to Wallet video calls are for those who do not have time for time banking and want to practice languages with native speakers. .
         /// </summary>
-        public static string HelpWCR1 {
+        public static string HelpWCIntro1 {
             get {
-                return ResourceManager.GetString("HelpWCR1", resourceCulture);
+                return ResourceManager.GetString("HelpWCIntro1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to As a student, you purchase Langademy credits that are stored in your Wallet account. You spend your credits when you call a native speaker (Level C2 or Native) and you pay for the exact amount of time that you talk. When the call begins, you have 3 minutes to decide if you want to go on with the conversation. In case you hang up, you won&apos;t be charged.
+        /// </summary>
+        public static string HelpWCIntro2 {
+            get {
+                return ResourceManager.GetString("HelpWCIntro2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to As a native, you set your rate per hour of conversation and you earn credits after each video call. You can set different rates per language. .
+        /// </summary>
+        public static string HelpWCIntro3 {
+            get {
+                return ResourceManager.GetString("HelpWCIntro3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Note that native speakers cannot start a Wallet call. Since students pay, only they are allowed to make the call.
+        /// </summary>
+        public static string HelpWCIntro4 {
+            get {
+                return ResourceManager.GetString("HelpWCIntro4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can manage your wallet account from {0} app.
+        /// </summary>
+        public static string HelpWCIntro5 {
+            get {
+                return ResourceManager.GetString("HelpWCIntro5", resourceCulture);
             }
         }
         
@@ -1178,7 +1376,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is a social network where students and native speakers can practica languages using video calls. There are two video call modalities you can choose : Wallet calls or Time Banking calls..
+        ///   Looks up a localized string similar to Langademy is a social network where students and native speakers can practice languages making video calls. There are two video call modalities you can choose : Wallet calls or Time Banking calls..
         /// </summary>
         public static string HelpWhatYouCanDo1 {
             get {

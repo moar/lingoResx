@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -253,7 +253,7 @@
     <value>La Banca del Tempo offre un modo per imparare le lingue senza dover spendere il tuo denaro: il tempo che si utilizza per parlare la tua lingua madre con gli studenti ti verrà aggiunto al tuo conto Banca del Tempo. Guarda le regole della Banca del Tempo ({0}). </value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>Se vuoi praticare una lingua, vai alle chat rooms, inizia a parlare con le persone che si trovano lì e effettua chiamate video con loro. Nella tua home page si vedrà il saldo del conto Banca del Tempo. Se si accede l'applicazione Banca del Tempo è possibile visualizzare la cronologia ei dettagli dei movimenti della Banca del Tempo</value>
+    <value>Nella tua home page si vedrà il saldo del conto Banca del Tempo. Se si accede l'applicazione Banca del Tempo è possibile visualizzare la cronologia ei dettagli dei movimenti della Banca del Tempo</value>
   </data>
   <data name="HelpTBRooms1" xml:space="preserve">
     <value>Le chat rooms sono il luogo dove troverai partner per lo scambio di lingua. In queste camere è possibile chattare ed effettuare chiamate: Banca del Tempo (vedi {0}).</value>
@@ -392,7 +392,7 @@
     <value>Mantenere la tua disponibilità attuale ti aiuterà a organizzare il tuo tempo come un madrelingua e evitare di dover ricevere le richieste di contatto, quando non si vuole parlare con gli studenti. Se non si definisce la propria disponibilità, è possibile effettuare solo chiamate video con i tuoi contatti o studenti che troverai nelle chat room.</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value><![CDATA[Per impostare la tua disponibilità vai a <a0> Il mio calendario </ a0> e clicca su Modifica Disponibilità, in alto, o vai direttamente a <a1> Modifica Disponibilità </ a1> e segui questi passi:]]></value>
+    <value>Per impostare la tua disponibilità vai a &lt;a0&gt; Il mio calendario &lt;/ a0&gt; e clicca su Modifica Disponibilità, in alto, o vai direttamente a &lt;a1&gt; Modifica Disponibilità &lt;/ a1&gt; e segui questi passi:</value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Sceglie il tipo di conversazione che vuoi ricevere, cliccando Wallet, Banca del Tempo o entrambi</value>
@@ -416,7 +416,7 @@
     <value>Modifica la tua disponibilità</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value><![CDATA[Una volta soddisfatti i <a0> requisiti </ a0>, è possibile stabilire una tassa per far pagare ai tuoi studenti per mantenere conversazioni. Puoi seguire questi passi:]]></value>
+    <value>Una volta soddisfatti i &lt;a0&gt; requisiti &lt;/ a0&gt;, è possibile stabilire una tassa per far pagare ai tuoi studenti per mantenere conversazioni. Puoi seguire questi passi:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Apri il tuo pannello di stato cliccando sulla foto del tuo profilo in alto a destra della home page</value>
@@ -425,7 +425,7 @@
     <value>Vai alla sezione Wallet del tuo pannello di stato e trova la lingua per la quale vuoi stabilire una tassa</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Clicca sul pulsante <span0> </ span0> e ti mostrerà una finestra per aggiornare il tuo tasso]]></value>
+    <value>Clicca sul pulsante &lt;span0&gt; &lt;/ span0&gt; e ti mostrerà una finestra per aggiornare il tuo tasso</value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Stabilisce il numero di crediti l'ora che vuoi guadagnare dei tuoi studenti e salva le modifiche</value>
@@ -449,7 +449,7 @@
     <value>Gli appuntamenti sono la via più facile per fare sapere in anticipo a gli studenti quando sarai in una chat room. In questo modo, gli studenti e gli altri madrelingua possono unirsi a te allo stesso tempo. In realtà, è possibile accedere nella chat room quando si vuole, ma cerchiamo di essere onesti, è più facile di riunire persone se un evento è organizzato prima.</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value><![CDATA[Controlla il tuo <a href="{0}" class="link applnk">Calendario</a>  per vedere gli appuntamenti che sono stati organizzati. Se c'è qualche appuntamento interessante, ti può registrare. Altrimenti, crea uno nuovo.]]></value>
+    <value>Controlla il tuo &lt;a href="{0}" class="link applnk"&gt;Calendario&lt;/a&gt;  per vedere gli appuntamenti che sono stati organizzati. Se c'è qualche appuntamento interessante, ti può registrare. Altrimenti, crea uno nuovo.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>Quando ti iscrivi a un appuntamento, un evento viene aggiunto al calendario.Accede, e ti sarà possibile scrivere sul tabellone del appuntamento, si può anche suggerire argomenti di conversazione</value>
@@ -458,7 +458,7 @@
     <value>Come posso organizzare un nuovo appuntamento?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[Per organizzare un nuovo appuntamento entra <a0> Il mio calendario </ a0> e fai clic su Nuovo Appuntamento nella parte superiore. È possibile anche creare direttamente un <a1> Nuovo Appuntamento </ a1> e seguire questi passi:]]></value>
+    <value>Per organizzare un nuovo appuntamento entra &lt;a0&gt; Il mio calendario &lt;/ a0&gt; e fai clic su Nuovo Appuntamento nella parte superiore. È possibile anche creare direttamente un &lt;a1&gt; Nuovo Appuntamento &lt;/ a1&gt; e seguire questi passi:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Seleziona la lingua dell'appuntamento. I partecipanti che assistano all'appuntamento, entreranno nella chat room della lingua dell'appuntamento.
@@ -486,7 +486,7 @@
     <value>Come posso sapere se un madrelingua accetta la mia richiesta?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value><![CDATA[ Puoi verificare lo stato delle tue richieste nel tuo <a0> Calendario </ a0>. Controlla il pannello di richieste inviate. Seleziona la richiesta che vuoi e potrai vedere i dettagli di quella richiesta. Nella schermata dei dettagl si vedrà se il madrelingua ha accettato o rifiutato la richiesta e anche si potrà annullare la richiesta o inviare messaggi al madrelingua se hai bisogno di ulteriori informazioni.]]></value>
+    <value> Puoi verificare lo stato delle tue richieste nel tuo &lt;a0&gt; Calendario &lt;/ a0&gt;. Controlla il pannello di richieste inviate. Seleziona la richiesta che vuoi e potrai vedere i dettagli di quella richiesta. Nella schermata dei dettagl si vedrà se il madrelingua ha accettato o rifiutato la richiesta e anche si potrà annullare la richiesta o inviare messaggi al madrelingua se hai bisogno di ulteriori informazioni.</value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Inoltre, quando il nativo accetta la tua richiesta ti verrà notificato e si aggiungerà un nuovo evento al tuo calendario.</value>
@@ -495,7 +495,7 @@
     <value>Cosa devo fare quando è il momento di la conversazione?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value><![CDATA[Vai al pannello di chiamata <span0> </ span0> e seleziona la scheda conversazioni private <SPAN1> </ SPAN1>. Clicca su un utente, può aprire l'applicazione di videochiamate. È anche possibile aprire l'applicazione video da i dettagli della conversazione nel tuo Calendario.]]></value>
+    <value>Vai al pannello di chiamata &lt;span0&gt; &lt;/ span0&gt; e seleziona la scheda conversazioni private &lt;SPAN1&gt; &lt;/ SPAN1&gt;. Clicca su un utente, può aprire l'applicazione di videochiamate. È anche possibile aprire l'applicazione video da i dettagli della conversazione nel tuo Calendario.</value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Quando sei nella applicazione di videochiamate, potrai vedere quando è collegato il tuo compagno. Nel frattempo, è possibile inviare messaggi di chat privato a tuo compagno.</value>

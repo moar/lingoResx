@@ -171,7 +171,7 @@
   <data name="time-banking-indroduction" xml:space="preserve">
     <value>laguntza/denbora-bankuko-sarrera</value>
   </data>
-  <data name="time-banking-language-chat-rooms" xml:space="preserve">
+  <data name="chat-rooms" xml:space="preserve">
     <value>laguntza/txat-gelak</value>
   </data>
   <data name="wallet-introduction" xml:space="preserve">
@@ -203,5 +203,8 @@
   </data>
   <data name="what-you-can-do-in-langademy" xml:space="preserve">
     <value>laguntza/zer-egin-Langademy</value>
+  </data>
+  <data name="how-to-make-video-call" xml:space="preserve">
+    <value>help/how-to-make-video-call</value>
   </data>
 </root>

@@ -204,4 +204,7 @@
   <data name="what-you-can-do-in-langademy" xml:space="preserve">
     <value>ajuda/que-pots-fer-en-langademy</value>
   </data>
+  <data name="how-to-make-video-call" xml:space="preserve">
+    <value>help/how-to-make-video-call</value>
+  </data>
 </root>

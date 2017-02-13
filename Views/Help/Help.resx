@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -208,7 +208,7 @@
     <value>How does Time Banking work?</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
-    <value>My Wallet introduction</value>
+    <value>My Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
     <value>Wallet video calls introduction</value>
@@ -253,15 +253,15 @@
     <value>Time Banking provides a way to learn languages without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account. Check the Time Banking rules ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>To practice a language, go to the chat rooms, start chatting with people and make time banking video calls with them. In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account.</value>
+    <value>In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account.</value>
   </data>
-  <data name="HelpTBRooms1" xml:space="preserve">
-    <value>Chat rooms are the place where you can find language exchange partners. In these rooms you can chat for free or make Time Banking video calls (check {0}).</value>
+  <data name="HelpChatRooms1" xml:space="preserve">
+    <value>Chat rooms are the place where you can meet groups of conversation partners, both natives and students. First of all you have to add in your profile the languages you are interested on. Otherwise you will not have access to the chat room. Once done, go to the control panel, click &lt;span class="lg lg-chatrooms"&gt;&lt;/span&gt; and select the language chat room to open it.</value>
   </data>
-  <data name="HelpTBRooms2" xml:space="preserve">
-    <value>You can see what users are online in the left user panel. If you click the user, you will see different options that each user provides: you can add them as partners, make video calls, and report or block them.</value>
+  <data name="HelpChatRooms4" xml:space="preserve">
+    <value>Users: It contains the list of users online. Click the users on the list to open a menu with these options: send a contact request, start a video call, and report or block the user.</value>
   </data>
-  <data name="HelpTBRooms3" xml:space="preserve">
+  <data name="HelpChatRooms7" xml:space="preserve">
     <value>If the room is empty or there is no activity at the moment, you can create Meetups to tell the others when you will be free to have a chat or a video call. You can also join the existing meetups.</value>
   </data>
   <data name="HelpTBRooms4" xml:space="preserve">
@@ -301,8 +301,8 @@
   <data name="HelpWalletWithdrawal2" xml:space="preserve">
     <value>Credit Withdrawals are processed every 15 days. If you want, you can edit the amount of credits you have requested before the processing of the withdrawal has begun. Once the request has been done, you can’t make another request until the previous request has been processed.</value>
   </data>
-  <data name="HelpWCR1" xml:space="preserve">
-    <value>Chat rooms are the meeting point for native speakers and language learners. In these rooms, language learners can chat and make video calls with the native speakers. Each native speaker has an hourly rate, which will be applied when a video call is made. During a call, the cost of the call will be updated each minute, so language learners will only pay for the number of minutes they talk. In each call, there will be a 3-minutes-long trial so the language learners can decide if they want to continue with the call before they start to pay.</value>
+  <data name="HelpWCIntro1" xml:space="preserve">
+    <value>Wallet video calls are for those who do not have time for time banking and want to practice languages with native speakers. </value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
     <value>Requirements to make Wallet calls</value>
@@ -392,7 +392,7 @@
     <value>Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you're not looking for speaking with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value><![CDATA[To set your availability go to <a href="{0}" class="link">My calendar</a> and click Edit Availability at the top, or go directly to <a href="{1}" class="link">Edit availability</a> and follow these steps:]]></value>
+    <value>To set your availability go to &lt;a href="{0}" class="link"&gt;My calendar&lt;/a&gt; and click Edit Availability at the top, or go directly to &lt;a href="{1}" class="link"&gt;Edit availability&lt;/a&gt; and follow these steps:</value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Select the type of conversation you want to receive requests for by clicking Wallet, Time banking or Both</value>
@@ -416,7 +416,7 @@
     <value>Set your availability</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value><![CDATA[Once you meet the <a href="{0}" class="help link">requirements</a>, you can set your rate for charging students for private conversations. To do so, follow the next steps:]]></value>
+    <value>Once you meet the &lt;a href="{0}" class="help link"&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Open your state panel by clicking on your photo  on the top right side of your home screen</value>
@@ -425,7 +425,7 @@
     <value>Go to the Wallet section of the State Panel and look for the language you want to set a rate for</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Click on the <span class="lg lg-cog"></span> button and the dialog for updating the rate will be shown]]></value>
+    <value>Click on the &lt;span class="lg lg-cog"&gt;&lt;/span&gt; button and the dialog for updating the rate will be shown</value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Set the amount of credits per hour that you want to charge students and click Save</value>
@@ -449,7 +449,7 @@
     <value>Meetups are the way you can let everybody know in advance when you will be online in a chat room.  This way, students and other native speakers can join you at the same time. Indeed, you can enter a chat room whenever you want but, let's be honest. It's easier to bring together a larger group of people if you schedule an event in advance. </value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value><![CDATA[Check your <a href="{0}" class="link applnk">Calendar</a> to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one.]]></value>
+    <value>Check your &lt;a href="{0}" class="link applnk"&gt;Calendar&lt;/a&gt; to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>When you join a meet up, the event will be added to your calendar and you will be able to write on the message board and propose conversation topics. </value>
@@ -458,7 +458,7 @@
     <value>How do I schedule a new meetup?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[To schedule a new meetup go to <a href="{0}" class="link applnk">My calendar</a> and click New Meetup on the top side, or go directly to <a href="{1}" class="link applnk">New meetup</a> and follow these steps:]]></value>
+    <value>To schedule a new meetup go to &lt;a href="{0}" class="link applnk"&gt;My calendar&lt;/a&gt; and click New Meetup on the top side, or go directly to &lt;a href="{1}" class="link applnk"&gt;New meetup&lt;/a&gt; and follow these steps:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Select the language of the meetup. Participants will attend the meetup at the chat room of that language.</value>
@@ -485,7 +485,7 @@
     <value>How do I know if a native accepts my request?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value><![CDATA[You can track the status of your requests in your <a href="{0}" class="link applnk">Calendar</a>. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. ]]></value>
+    <value>You can track the status of your requests in your &lt;a href="{0}" class="link applnk"&gt;Calendar&lt;/a&gt;. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. </value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Furthermore, when the native accepts your request you will be notified and a new event will be added to your calendar.</value>
@@ -494,7 +494,7 @@
     <value>What do I have to do at the time of the conversation?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value><![CDATA[Go to the call panel <span class="lg lg-call"></span> and select the Private Conversations Tab <span class="lg lg-calendar"></span>. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. ]]></value>
+    <value>Go to the call panel &lt;span class="lg lg-call"&gt;&lt;/span&gt; and select the Private Conversations Tab &lt;span class="lg lg-calendar"&gt;&lt;/span&gt;. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. </value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>When you already are in the videoapp you will see when your partner is online, and in the meantime you can write in your private chat to make your partner aware of you being there.</value>
@@ -524,9 +524,75 @@
     <value>Students</value>
   </data>
   <data name="HelpWhatYouCanDo1" xml:space="preserve">
-    <value>Langademy is a social network where students and native speakers can practica languages using video calls. There are two video call modalities you can choose : Wallet calls or Time Banking calls.</value>
+    <value>Langademy is a social network where students and native speakers can practice languages making video calls. There are two video call modalities you can choose : Wallet calls or Time Banking calls.</value>
   </data>
   <data name="HelpWhatYouCanDo2" xml:space="preserve">
     <value>In a Wallet call, language students pay natives to have private conversations. If a time banking call is made, time is used as a trade. Check the {0} and the {1} sections for more information about these type of calls.</value>
+  </data>
+  <data name="HelpChatRooms2" xml:space="preserve">
+    <value>You can see several areas in the chat room:</value>
+  </data>
+  <data name="HelpChatRooms3" xml:space="preserve">
+    <value>Chat area: Write on te text area at the bottom and press enter to send a message </value>
+  </data>
+  <data name="HelpChatRooms5" xml:space="preserve">
+    <value>Next meetups: Next meetups scheduled to practice a language in the chat room. See {0} for more info about meetups</value>
+  </data>
+  <data name="HelpChatRooms6" xml:space="preserve">
+    <value>Meetup topics: During a meetup it will contain the list of conversation topics proposed by the participants</value>
+  </data>
+  <data name="HelpHowToCall1" xml:space="preserve">
+    <value>Starting a call in Langademy is easy. You can call a user where you see the symbol &lt;span class="lg lg-call"&gt;&lt;/span&gt;. Click it to show the call menu for choosing the language of the conversation, and the call type (&lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; time banking or &lt;span class="lg lg-creditsolid"&gt;&lt;/span&gt; wallet). In case of wallet calls, you will see the rate you will be charged next to the language. </value>
+  </data>
+  <data name="HelpHowToCall2" xml:space="preserve">
+    <value>Note that the language that you choose when you call determines whether you are acting as a native speaker or as a student, and whether the call is paid with time or credits. Therefore, your time or wallet balance will be updated consequently, so pay attention when you make a call. </value>
+  </data>
+  <data name="HelpHowToCall3" xml:space="preserve">
+    <value>You can start a video call from different places:</value>
+  </data>
+  <data name="HelpHowToCall4" xml:space="preserve">
+    <value>Call from the control panel</value>
+  </data>
+  <data name="HelpHowToCall41" xml:space="preserve">
+    <value>Click the &lt;span class="lg lg-call"&gt;&lt;/span&gt; tab of the Control Panel to open the Call panel. There, you can select any of the following tabs:  </value>
+  </data>
+  <data name="HelpHowToCall42" xml:space="preserve">
+    <value>Online contacts: List of contacts currently online</value>
+  </data>
+  <data name="HelpHowToCall43" xml:space="preserve">
+    <value>Call history: Users you have recently spoken with </value>
+  </data>
+  <data name="HelpHowToCall44" xml:space="preserve">
+    <value>All contacts: List of your contacts alphabetically ordered</value>
+  </data>
+  <data name="HelpHowToCall45" xml:space="preserve">
+    <value>Next scheduled conversations: List of users you have a private conversation with</value>
+  </data>
+  <data name="HelpHowToCall5" xml:space="preserve">
+    <value>Call from a chat room</value>
+  </data>
+  <data name="HelpHowToCall51" xml:space="preserve">
+    <value>Go to the Users panel and click on the user you want to call to open the Call menu</value>
+  </data>
+  <data name="HelpHowToCall6" xml:space="preserve">
+    <value>Call from a user profile</value>
+  </data>
+  <data name="HelpHowToCall61" xml:space="preserve">
+    <value>You can only call users from their profiles in case you are contacts. If that is the case, you will have the call button at the bottom right side of the users's cover photo</value>
+  </data>
+  <data name="HelpHowToCallTitle" xml:space="preserve">
+    <value>How to make a video call</value>
+  </data>
+  <data name="HelpWCIntro2" xml:space="preserve">
+    <value>As a student, you purchase Langademy credits that are stored in your Wallet account. You spend your credits when you call a native speaker (Level C2 or Native) and you pay for the exact amount of time that you talk. When the call begins, you have 3 minutes to decide if you want to go on with the conversation. In case you hang up, you won't be charged</value>
+  </data>
+  <data name="HelpWCIntro3" xml:space="preserve">
+    <value>As a native, you set your rate per hour of conversation and you earn credits after each video call. You can set different rates per language. </value>
+  </data>
+  <data name="HelpWCIntro4" xml:space="preserve">
+    <value>Note that native speakers cannot start a Wallet call. Since students pay, only they are allowed to make the call</value>
+  </data>
+  <data name="HelpWCIntro5" xml:space="preserve">
+    <value>You can manage your wallet account from {0} app</value>
   </data>
 </root>
