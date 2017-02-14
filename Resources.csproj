@@ -319,8 +319,8 @@
       <DependentUpon>Feedback.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Help\Help.Designer.cs">
-      <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
       <DependentUpon>Help.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\HoursBag\HoursBag.Designer.cs">
@@ -916,8 +916,8 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Help\Help.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Help.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Help.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\HoursBag\HoursBag.ca.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.de.resx" />

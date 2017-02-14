@@ -259,7 +259,7 @@
     <value>Chat rooms are the place where you can meet groups of conversation partners, both natives and students. First of all you have to add in your profile the languages you are interested on. Otherwise you will not have access to the chat room. Once done, go to the control panel, click &lt;span class="lg lg-chatrooms"&gt;&lt;/span&gt; and select the language chat room to open it.</value>
   </data>
   <data name="HelpChatRooms4" xml:space="preserve">
-    <value>Users: It contains the list of users online. Click the users on the list to open a menu with these options: send a contact request, start a video call, and report or block the user.</value>
+    <value>Users: It contains the list of online users. Click the users on the list to open a menu with these options: send a contact request, start a video call, and report or block the user.</value>
   </data>
   <data name="HelpChatRooms7" xml:space="preserve">
     <value>If the room is empty or there is no activity at the moment, you can create Meetups to tell the others when you will be free to have a chat or a video call. You can also join the existing meetups.</value>
@@ -359,7 +359,7 @@
     <value>Langademy calendar</value>
   </data>
   <data name="HelpCompleteProfile1" xml:space="preserve">
-    <value>The main reason to complete your profile is to help you contact with students easily and to ensure that you appear in search results. Completing your profile will attract more students' attention and they will request you private conversations</value>
+    <value>The main reason to complete your profile is to help you contact with students easily and to ensure that you appear in search results. Completing your profile will attract more students' attention and you will have more conversation requests.</value>
   </data>
   <data name="HelpCompleteProfile2" xml:space="preserve">
     <value>You can upload  your profile photo and a cover photo. You should also include your gender, age and country, and a brief overview about you. </value>
@@ -386,10 +386,10 @@
     <value>How do I remove an available block?</value>
   </data>
   <data name="HelpSetAvailability13" xml:space="preserve">
-    <value>Click on the block you want remove and a popover with the option Remove will appear. Click on Remove to confirm</value>
+    <value>Click the block you want  to remove and a popover with the option Remove will appear. Click Remove to confirm</value>
   </data>
   <data name="HelpSetAvailability2" xml:space="preserve">
-    <value>Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you're not looking for speaking with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms</value>
+    <value>Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you're not looking to speak with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
     <value>To set your availability go to &lt;a href="{0}" class="link"&gt;My calendar&lt;/a&gt; and click Edit Availability at the top, or go directly to &lt;a href="{1}" class="link"&gt;Edit availability&lt;/a&gt; and follow these steps:</value>
@@ -398,7 +398,7 @@
     <value>Select the type of conversation you want to receive requests for by clicking Wallet, Time banking or Both</value>
   </data>
   <data name="HelpSetAvailability5" xml:space="preserve">
-    <value>click and drag over any free time slots. (If you are using a touchable device, you will have to touch and hold before you start dragging) </value>
+    <value>Click and drag over any free time slots. (If you are using a touchable device, you will have to touch and hold before you start dragging) </value>
   </data>
   <data name="HelpSetAvailability6" xml:space="preserve">
     <value>Repeat previous steps for creating as many blocks as you want</value>
@@ -476,7 +476,7 @@
     <value>When you visit the profile of any user that wants to make language exchanges or just help students practice in exchange of credits, you will see their availability calendars.</value>
   </data>
   <data name="HelpHowRequestConversation2" xml:space="preserve">
-    <value>If you want to request a private conversation, click on Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select the conversation language you want (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available time range. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yellow blocks mean that the user accepts both. Take into account that you cannot make a reservation longer than 2 hours. </value>
+    <value>If you want to request a private conversation, click Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select a conversation language (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available time range. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yellow blocks mean that the user accepts both. Note that you cannot make a reservation longer than 2 hours. </value>
   </data>
   <data name="HelpHowRequestConversation3" xml:space="preserve">
     <value>If the user hasn't available hours you will have the option to be notified when he/she is available. Just click the warning button on top of the calendar if you want to receive it. </value>
@@ -524,7 +524,7 @@
     <value>Students</value>
   </data>
   <data name="HelpWhatYouCanDo1" xml:space="preserve">
-    <value>Langademy is a social network where students and native speakers can practice languages making video calls. There are two video call modalities you can choose : Wallet calls or Time Banking calls.</value>
+    <value>Langademy is a social network where students and native speakers can practice languages making video calls. You can choose between two video call modalities: Wallet calls or Time Banking calls.</value>
   </data>
   <data name="HelpWhatYouCanDo2" xml:space="preserve">
     <value>In a Wallet call, language students pay natives to have private conversations. If a time banking call is made, time is used as a trade. Check the {0} and the {1} sections for more information about these type of calls.</value>
@@ -533,7 +533,7 @@
     <value>You can see several areas in the chat room:</value>
   </data>
   <data name="HelpChatRooms3" xml:space="preserve">
-    <value>Chat area: Write on te text area at the bottom and press enter to send a message </value>
+    <value>Chat area: Write on the text box at the bottom and press enter to send a message </value>
   </data>
   <data name="HelpChatRooms5" xml:space="preserve">
     <value>Next meetups: Next meetups scheduled to practice a language in the chat room. See {0} for more info about meetups</value>
@@ -542,7 +542,7 @@
     <value>Meetup topics: During a meetup it will contain the list of conversation topics proposed by the participants</value>
   </data>
   <data name="HelpHowToCall1" xml:space="preserve">
-    <value>Starting a call in Langademy is easy. You can call a user where you see the symbol &lt;span class="lg lg-call"&gt;&lt;/span&gt;. Click it to show the call menu for choosing the language of the conversation, and the call type (&lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; time banking or &lt;span class="lg lg-creditsolid"&gt;&lt;/span&gt; wallet). In case of wallet calls, you will see the rate you will be charged next to the language. </value>
+    <value>Starting a call in Langademy is easy. Just find the  &lt;span class="lg lg-call"&gt;&lt;/span&gt; symbol when you want to make  call. Click it to show the call menu to choose the language of the conversation and the call type (&lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; time banking or &lt;span class="lg lg-creditsolid"&gt;&lt;/span&gt; wallet). In case of wallet calls, the rate you will be charged is showed next to the language. </value>
   </data>
   <data name="HelpHowToCall2" xml:space="preserve">
     <value>Note that the language that you choose when you call determines whether you are acting as a native speaker or as a student, and whether the call is paid with time or credits. Therefore, your time or wallet balance will be updated consequently, so pay attention when you make a call. </value>
@@ -563,16 +563,16 @@
     <value>Call history: Users you have recently spoken with </value>
   </data>
   <data name="HelpHowToCall44" xml:space="preserve">
-    <value>All contacts: List of your contacts alphabetically ordered</value>
+    <value>All contacts: The list of your contacts ordered alphabetically</value>
   </data>
   <data name="HelpHowToCall45" xml:space="preserve">
-    <value>Next scheduled conversations: List of users you have a private conversation with</value>
+    <value>Next scheduled conversations: The list of users you have scheduled a private conversation with</value>
   </data>
   <data name="HelpHowToCall5" xml:space="preserve">
     <value>Call from a chat room</value>
   </data>
   <data name="HelpHowToCall51" xml:space="preserve">
-    <value>Go to the Users panel and click on the user you want to call to open the Call menu</value>
+    <value>Go to the Users panel and click the user you want to call to open the Call menu</value>
   </data>
   <data name="HelpHowToCall6" xml:space="preserve">
     <value>Call from a user profile</value>
@@ -590,7 +590,7 @@
     <value>As a native, you set your rate per hour of conversation and you earn credits after each video call. You can set different rates per language. </value>
   </data>
   <data name="HelpWCIntro4" xml:space="preserve">
-    <value>Note that native speakers cannot start a Wallet call. Since students pay, only they are allowed to make the call</value>
+    <value>Note that native speakers cannot start a Wallet call. As students pay for the conversations, they are the ones that are allowed to make calls</value>
   </data>
   <data name="HelpWCIntro5" xml:space="preserve">
     <value>You can manage your wallet account from {0} app</value>

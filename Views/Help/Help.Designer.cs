@@ -115,7 +115,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chat area: Write on te text area at the bottom and press enter to send a message .
+        ///   Looks up a localized string similar to Chat area: Write on the text box at the bottom and press enter to send a message .
         /// </summary>
         public static string HelpChatRooms3 {
             get {
@@ -124,7 +124,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Users: It contains the list of users online. Click the users on the list to open a menu with these options: send a contact request, start a video call, and report or block the user..
+        ///   Looks up a localized string similar to Users: It contains the list of online users. Click the users on the list to open a menu with these options: send a contact request, start a video call, and report or block the user..
         /// </summary>
         public static string HelpChatRooms4 {
             get {
@@ -178,7 +178,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The main reason to complete your profile is to help you contact with students easily and to ensure that you appear in search results. Completing your profile will attract more students&apos; attention and they will request you private conversations.
+        ///   Looks up a localized string similar to The main reason to complete your profile is to help you contact with students easily and to ensure that you appear in search results. Completing your profile will attract more students&apos; attention and you will have more conversation requests..
         /// </summary>
         public static string HelpCompleteProfile1 {
             get {
@@ -367,7 +367,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you want to request a private conversation, click on Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select the conversation language you want (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available time range. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yell [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to If you want to request a private conversation, click Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select a conversation language (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available time range. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yellow blocks mean [rest of string was truncated]&quot;;.
         /// </summary>
         public static string HelpHowRequestConversation2 {
             get {
@@ -457,7 +457,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Starting a call in Langademy is easy. You can call a user where you see the symbol &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt;. Click it to show the call menu for choosing the language of the conversation, and the call type (&lt;span class=&quot;lg lg-time-bag&quot;&gt;&lt;/span&gt; time banking or &lt;span class=&quot;lg lg-creditsolid&quot;&gt;&lt;/span&gt; wallet). In case of wallet calls, you will see the rate you will be charged next to the language. .
+        ///   Looks up a localized string similar to Starting a call in Langademy is easy. Just find the  &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt; symbol when you want to make  call. Click it to show the call menu to choose the language of the conversation and the call type (&lt;span class=&quot;lg lg-time-bag&quot;&gt;&lt;/span&gt; time banking or &lt;span class=&quot;lg lg-creditsolid&quot;&gt;&lt;/span&gt; wallet). In case of wallet calls, the rate you will be charged is showed next to the language. .
         /// </summary>
         public static string HelpHowToCall1 {
             get {
@@ -520,7 +520,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All contacts: List of your contacts alphabetically ordered.
+        ///   Looks up a localized string similar to All contacts: The list of your contacts ordered alphabetically.
         /// </summary>
         public static string HelpHowToCall44 {
             get {
@@ -529,7 +529,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next scheduled conversations: List of users you have a private conversation with.
+        ///   Looks up a localized string similar to Next scheduled conversations: The list of users you have scheduled a private conversation with.
         /// </summary>
         public static string HelpHowToCall45 {
             get {
@@ -547,7 +547,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to the Users panel and click on the user you want to call to open the Call menu.
+        ///   Looks up a localized string similar to Go to the Users panel and click the user you want to call to open the Call menu.
         /// </summary>
         public static string HelpHowToCall51 {
             get {
@@ -790,7 +790,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Click on the block you want remove and a popover with the option Remove will appear. Click on Remove to confirm.
+        ///   Looks up a localized string similar to Click the block you want  to remove and a popover with the option Remove will appear. Click Remove to confirm.
         /// </summary>
         public static string HelpSetAvailability13 {
             get {
@@ -799,7 +799,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you&apos;re not looking for speaking with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms.
+        ///   Looks up a localized string similar to Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you&apos;re not looking to speak with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms.
         /// </summary>
         public static string HelpSetAvailability2 {
             get {
@@ -826,7 +826,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to click and drag over any free time slots. (If you are using a touchable device, you will have to touch and hold before you start dragging) .
+        ///   Looks up a localized string similar to Click and drag over any free time slots. (If you are using a touchable device, you will have to touch and hold before you start dragging) .
         /// </summary>
         public static string HelpSetAvailability5 {
             get {
@@ -1277,7 +1277,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Note that native speakers cannot start a Wallet call. Since students pay, only they are allowed to make the call.
+        ///   Looks up a localized string similar to Note that native speakers cannot start a Wallet call. As students pay for the conversations, they are the ones that are allowed to make calls.
         /// </summary>
         public static string HelpWCIntro4 {
             get {
@@ -1376,7 +1376,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is a social network where students and native speakers can practice languages making video calls. There are two video call modalities you can choose : Wallet calls or Time Banking calls..
+        ///   Looks up a localized string similar to Langademy is a social network where students and native speakers can practice languages making video calls. You can choose between two video call modalities: Wallet calls or Time Banking calls..
         /// </summary>
         public static string HelpWhatYouCanDo1 {
             get {
