@@ -181,10 +181,7 @@
     <value>Tariffa dei madrelingua</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Se vuoi parlare nella tua lingua, devi andare alla chat room della tua lingua dove si trovano gli studenti con chi conversare</value>
-  </data>
-  <data name="HelpNativesSent2" xml:space="preserve">
-    <value>Ma prima dobbiamo rispondere a determinati requisiti:</value>
+    <value>Se vuoi parlare nella tua lingua, devi andare alla chat room della tua lingua dove si trovano gli studenti con chi conversare, prima dobbiamo rispondere a determinati requisiti:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
     <value>Per stabilire una tassa in una lingua particolare, è necessario disporre di un numero minimo di voti positivi. Per farli devi andare nelle chat rooms, parlare con le persone che vogliono imparare tua lingua e guadagnare un feedback positivo. Una volta che hai vinto il numero di voti necessari, si stabilirà tua tariffa</value>

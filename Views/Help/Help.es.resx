@@ -181,10 +181,7 @@
     <value>Tarifa de Langademy. Cómo funciona</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Si quieres hablar en tu idioma nativo, debes ir a la sala de chat de tu idioma, donde encontrarás estudiantes con los que poder conversar</value>
-  </data>
-  <data name="HelpNativesSent2" xml:space="preserve">
-    <value>Pero primeramente debes cumplir unos requisitos:</value>
+    <value>Si quieres ganar dinero haciendo videollamadas en tu idioma nativo, en primer lugar debes cumplir varios requisitos: </value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
     <value>Para poder establecer una tarifa en un idioma concreto, tienes que tener un número mínimo de votos positivos en el idioma. Para conseguirlos ve a las salas chat de ese idioma, habla con la gente que quiere aprender tu idioma y gana votos positivos. Una vez que hayas ganado el número de votos que se requieren, podrás establecer tu tarifa</value>

@@ -159,8 +159,8 @@
   <data name="learn-languages" xml:space="preserve">
     <value>aprender-idiomas-online</value>
   </data>
-  <data name="natives-how-to-start" xml:space="preserve">
-    <value>ayuda/nativos-como-empezar</value>
+  <data name="natives-wallet-requirements" xml:space="preserve">
+    <value>ayuda/requisitos-wallet-nativos</value>
   </data>
   <data name="OtherLangResources" xml:space="preserve">
     <value>otros-recursos-linguisticos</value>
@@ -180,8 +180,8 @@
   <data name="wallet-video-calls-intro" xml:space="preserve">
     <value>ayuda/introduccion-videollamadas-wallet</value>
   </data>
-  <data name="wallet-native-fees" xml:space="preserve">
-    <value>ayuda/comision-nativos-wallet</value>
+  <data name="wallet-langademy-fee" xml:space="preserve">
+    <value>ayuda/comision-langademy-wallet</value>
   </data>
   <data name="wallet-withdrawals" xml:space="preserve">
     <value>ayuda/retirar-creditos-wallet</value>
@@ -206,5 +206,14 @@
   </data>
   <data name="how-to-make-video-call" xml:space="preserve">
     <value>ayuda/como-hacer-videollamada</value>
+  </data>
+  <data name="my-wallet-transactions" xml:space="preserve">
+    <value>ayuda/transacciones-mi-wallet</value>
+  </data>
+  <data name="purchase-credits" xml:space="preserve">
+    <value>ayuda/comprar-creditos</value>
+  </data>
+  <data name="help-invoices" xml:space="preserve">
+    <value>ayuda/facturas</value>
   </data>
 </root>

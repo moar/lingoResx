@@ -177,20 +177,20 @@
   <data name="HelpLearnersTitle" xml:space="preserve">
     <value>Learners: how to start</value>
   </data>
-  <data name="HelpNativesFeeTitle" xml:space="preserve">
+  <data name="HelpLangademyFeeTitle" xml:space="preserve">
     <value>Langademy fee. How it works</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>If you want to chat in your native language, you have to go the chat room of your native language, where you will find language learners to speak with.</value>
+    <value>If you want to earn money making wallet video calls in your native language, you have to meet some requirements.</value>
   </data>
   <data name="HelpNativesSent2" xml:space="preserve">
-    <value>But firstly, you have to meet some requirements:</value>
+    <value />
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
-    <value>You need to have a minimum number of up votes in a language if you want to set a rate for that language. Make free video calls or time banking calls with other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to set your rate for a specific language.</value>
+    <value>You need to have a minimum number of up votes in a language if you want to set a rate for that language. Make free wallet video calls or time banking calls with other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to set your rate for that language.</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Fill your billing data. To be able to set a rate for Wallet calls, you need to fill your billing address in the MyWallet app -&gt; Billing info.</value>
+    <value>Fill your {0}.</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
     <value>Once you meet these two requirements, you are ready to set a rate and earn money with Wallet calls.</value>
@@ -274,26 +274,26 @@
     <value>You can go to the Meetup Board from your chat room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
-    <value>Native speakers are charged the 13% of the amount (+ taxes) that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated.</value>
+    <value>Langademy charges native speakers 13% (+ taxes) of the amount that they charge students per videocall. Once a wallet video call is finished,  users' available credit balance is updated. (You can watch your available balance at {0}) ( {1})</value>
   </data>
   <data name="HelpWalletFees2" xml:space="preserve">
-    <value>In order to understand how the available balance is calculated, several terms need to be explained:</value>
+    <value>The Available Credits Balance represents the current amount of credits that you can spend. In order to understand how it is calculated, several terms need to be explained:</value>
   </data>
   <data name="HelpWalletFees3" xml:space="preserve">
     <value>Total Balance: it shows the total amount of credits before the 13% fee is applied to it.</value>
   </data>
   <data name="HelpWalletFees4" xml:space="preserve">
-    <value>Langademy fee: at the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either.</value>
+    <value>Langademy fee: at the end of the month, Langademy collects a 13% fee to the conversations of the native speakers. This fee is reflected on the next invoice ({0}). The fee is not taken from the native’s account until the invoice is issued, however you cannot spend this amount either.</value>
   </data>
   <data name="HelpWalletFees5" xml:space="preserve">
-    <value>Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that have been requested won't be available to use.</value>
+    <value>Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that has been requested won't be available to spend it.</value>
   </data>
   <data name="HelpWalletFees6" xml:space="preserve">
     <value>Available balance: In the view of the abovementioned terms, this is how available balance is calculated
 </value>
   </data>
   <data name="HelpWalletFees7" xml:space="preserve">
-    <value>Available balance = total balance – Langademy fee – amount of credits requested for withdrawal</value>
+    <value>Available balance = Total balance – Langademy fee – Amount of credits requested for withdrawal</value>
   </data>
   <data name="HelpWalletWithdrawal1" xml:space="preserve">
     <value>Credit withdrawal can be requested in My Wallet -&gt; Withdrawals</value>
@@ -329,13 +329,13 @@
     <value>Complete the billing address: Go to My Wallet and complete the billing address.</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
-    <value>My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests.</value>
+    <value>&lt;span class="lg lg-wallet"&gt;&lt;/span&gt; My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>If you are at Langademy to learn languages, go to the chat rooms and look for native speakers and check their rates.</value>
+    <value>You can open My Wallet app clicking the apps button &lt;span class="lg lg-apps"&gt;&lt;/span&gt; at the Control Panel and selecteing the My Wallet tile &lt;span class="lg lg-wallet"&gt;&lt;/span&gt; </value>
   </data>
   <data name="HelpWalletIntro3" xml:space="preserve">
-    <value>If you want to earn some money while you speak with languages learners, you will have to earn some reputation with time banking or free calls before you can set a rate for your Wallet calls.</value>
+    <value />
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Langademy Help</value>
@@ -407,7 +407,7 @@
     <value>How do I change the duration of an available block?</value>
   </data>
   <data name="HelpSetAvailability8" xml:space="preserve">
-    <value>Place your mouse pointer on the block you want to change. Two small lines will appear at the end. Click those lines and drag for resizing the block until you it has the duration you want.  </value>
+    <value>Place your mouse pointer on the block you want to change. Two small lines will appear at the end. Click those lines and drag for resizing the block until it has the duration you want.  </value>
   </data>
   <data name="HelpSetAvailability9" xml:space="preserve">
     <value>If you are using a touchable device, touch and hold on the block until a small white dot appears at the end of the block. Then touch the dot and drag for resizing the block</value>
@@ -517,8 +517,8 @@
   <data name="HelpNativeSpeakers" xml:space="preserve">
     <value>Native speakers</value>
   </data>
-  <data name="HelpNativeWalletRequirementsTitle" xml:space="preserve">
-    <value>Requirements for natives</value>
+  <data name="HelpNativesWalletRequirementsTitle" xml:space="preserve">
+    <value>Requirements for natives to earn money</value>
   </data>
   <data name="HelpStudents" xml:space="preserve">
     <value>Students</value>
@@ -542,7 +542,7 @@
     <value>Meetup topics: During a meetup it will contain the list of conversation topics proposed by the participants</value>
   </data>
   <data name="HelpHowToCall1" xml:space="preserve">
-    <value>Starting a call in Langademy is easy. Just find the  &lt;span class="lg lg-call"&gt;&lt;/span&gt; symbol when you want to make  call. Click it to show the call menu to choose the language of the conversation and the call type (&lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; time banking or &lt;span class="lg lg-creditsolid"&gt;&lt;/span&gt; wallet). In case of wallet calls, the rate you will be charged is showed next to the language. </value>
+    <value>Starting a call in Langademy is easy. Just find the  &lt;span class="lg lg-call"&gt;&lt;/span&gt; symbol when you want to make  call. Click it to show the call menu to choose the language of the conversation and the call type (&lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; time banking or &lt;span class="lg lg-wallet"&gt;&lt;/span&gt; wallet). In case of wallet calls, the rate you will be charged is showed next to the language. </value>
   </data>
   <data name="HelpHowToCall2" xml:space="preserve">
     <value>Note that the language that you choose when you call determines whether you are acting as a native speaker or as a student, and whether the call is paid with time or credits. Therefore, your time or wallet balance will be updated consequently, so pay attention when you make a call. </value>
@@ -566,7 +566,7 @@
     <value>All contacts: The list of your contacts ordered alphabetically</value>
   </data>
   <data name="HelpHowToCall45" xml:space="preserve">
-    <value>Next scheduled conversations: The list of users you have scheduled a private conversation with</value>
+    <value>Private conversations: The list of users you have scheduled a private conversation with</value>
   </data>
   <data name="HelpHowToCall5" xml:space="preserve">
     <value>Call from a chat room</value>
@@ -594,5 +594,59 @@
   </data>
   <data name="HelpWCIntro5" xml:space="preserve">
     <value>You can manage your wallet account from {0} app</value>
+  </data>
+  <data name="HelpMWTTitle" xml:space="preserve">
+    <value>My Wallet transactions</value>
+  </data>
+  <data name="HelpInvoicesTitle" xml:space="preserve">
+    <value>Langademy invoices</value>
+  </data>
+  <data name="HelpInvoicingData1" xml:space="preserve">
+    <value>Select Invoicing Data at My Wallet's main menu to open it. At this page you can:</value>
+  </data>
+  <data name="HelpInvoicingData2" xml:space="preserve">
+    <value>Enter your personal data for the invoices issued by Langademy. You must complete this form if you want to earn money at Langademy ({0}). Additionally, your browser will prompt you to allow sharing your location when you fill the form. The country of your invoicing address must be the same as your location.</value>
+  </data>
+  <data name="HelpInvoicingData3" xml:space="preserve">
+    <value>Enter the paypal account you want to use for credit withdrawals. Be careful when you complete it! You do not want that Langademy transfers your money to another person!!</value>
+  </data>
+  <data name="HelpInvoicingDataTitle" xml:space="preserve">
+    <value>Invoicing data</value>
+  </data>
+  <data name="HelpMWT1" xml:space="preserve">
+    <value>Select Transactions at My Wallet's main menu to open your credit transaction history. At this page you can: </value>
+  </data>
+  <data name="HelpMWT2" xml:space="preserve">
+    <value>Watch your Available balance</value>
+  </data>
+  <data name="HelpMWT3" xml:space="preserve">
+    <value>This is the current amount of credits you can spend at Langademy. Visit {0} for more details</value>
+  </data>
+  <data name="HelpMWT4" xml:space="preserve">
+    <value>Watch your transaction history</value>
+  </data>
+  <data name="HelpMWT5" xml:space="preserve">
+    <value>Every operation that modifies your credits balance will be included here (e.g. Credit purchases, credits earned and spent making wallet video calls, invoice collections and credit withdrawals)</value>
+  </data>
+  <data name="HelpPurchaseCredits1" xml:space="preserve">
+    <value>Select Credit shop at My Wallet's main menu to open the credit purchase page. The purchasing process involves a few simple steps: </value>
+  </data>
+  <data name="HelpPurchaseCredits2" xml:space="preserve">
+    <value>Enter the amount of credits you want to purchase.</value>
+  </data>
+  <data name="HelpPurchaseCredits3" xml:space="preserve">
+    <value>1 Langademy credit &lt;span class="credit"&gt;€&lt;/span&gt; = 1 EURO €</value>
+  </data>
+  <data name="HelpPurchaseCredits4" xml:space="preserve">
+    <value>Check the minimum credits purchase, which depends on the payment method you select. If your localization is available and your country's local currency is not Euro, you may see the estimated conversion to your currency. Note that this conversion is only informative since the final exchange rate is applied by the banking entities.</value>
+  </data>
+  <data name="HelpPurchaseCredits5" xml:space="preserve">
+    <value>Select the payment method and follow the steps on screen. You will be redirected to the secure payment gateway to complete the payment</value>
+  </data>
+  <data name="HelpPurchaseCredits6" xml:space="preserve">
+    <value>Once you confirm the payment, your wallet balance will be updated and you will be able to use your credits in Langademy</value>
+  </data>
+  <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
+    <value>Purchase credits</value>
   </data>
 </root>

@@ -61,6 +61,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/billing-info.
+        /// </summary>
+        public static string billing_info {
+            get {
+                return ResourceManager.GetString("billing-info", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to language/{selectedCulture}/.
         /// </summary>
         public static string bloglanguage {
@@ -102,6 +111,15 @@ namespace Resources.Routes {
         public static string help {
             get {
                 return ResourceManager.GetString("help", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/invoices.
+        /// </summary>
+        public static string help_invoices {
+            get {
+                return ResourceManager.GetString("help-invoices", resourceCulture);
             }
         }
         
@@ -205,6 +223,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/my-wallet-transactions.
+        /// </summary>
+        public static string my_wallet_transactions {
+            get {
+                return ResourceManager.GetString("my-wallet-transactions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to native-partners-language-exchange.
         /// </summary>
         public static string native_partners_exchange {
@@ -214,11 +241,11 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to help/natives-how-to-start.
+        ///   Looks up a localized string similar to help/natives-wallet-requirements.
         /// </summary>
-        public static string natives_how_to_start {
+        public static string natives_wallet_requirements {
             get {
-                return ResourceManager.GetString("natives-how-to-start", resourceCulture);
+                return ResourceManager.GetString("natives-wallet-requirements", resourceCulture);
             }
         }
         
@@ -246,6 +273,15 @@ namespace Resources.Routes {
         public static string pricing {
             get {
                 return ResourceManager.GetString("pricing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/purchase-credits.
+        /// </summary>
+        public static string purchase_credits {
+            get {
+                return ResourceManager.GetString("purchase-credits", resourceCulture);
             }
         }
         
@@ -286,11 +322,11 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to help/wallet-native-fees.
+        ///   Looks up a localized string similar to help/wallet-langademy-fee.
         /// </summary>
-        public static string wallet_native_fees {
+        public static string wallet_langademy_fee {
             get {
-                return ResourceManager.GetString("wallet-native-fees", resourceCulture);
+                return ResourceManager.GetString("wallet-langademy-fee", resourceCulture);
             }
         }
         

@@ -181,10 +181,7 @@
     <value>Hiztun natiboen komisioa</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Zure hizkuntza natiboan hitz egin nahi baduzu, joan zure hizkuntza natiboko txat gelara eta bertan aurkituko dituzu zurekin hitz egin nahi duten mintzalagunak</value>
-  </data>
-  <data name="HelpNativesSent2" xml:space="preserve">
-    <value>Baina lehenik, baldintza batzuk bete behar dituzu:</value>
+    <value>Zure hizkuntza natiboan hitz egin nahi baduzu, joan zure hizkuntza natiboko txat gelara eta bertan aurkituko dituzu zurekin hitz egin nahi duten mintzalagunak, lehenik, baldintza batzuk bete behar dituzu:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
     <value>Walleta erabili ahal izateko, hizkuntza bakoitzean boto positibo kopuru bat edukitzea eskatzen da. Botu hauek lortzeko, jo txat geletara, hitz egin ezazu beste mintzalagun batzuekin zure hizkuntza natiboan eta irabaz itzazu boto positiboak. Hizkuntza batean botu positibo nahikoa dituzunean, hizkuntza horretarako tarifa bat ezarri, Wallet deiak egin eta dirua irabazteko prest egongo zara</value>
