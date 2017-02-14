@@ -228,4 +228,10 @@
   <data name="SearchStudentsDescription" xml:space="preserve">
     <value>Search language students. Edit your availability in your calendar to receive requests or create language meetups to meet new students.</value>
   </data>
+  <data name="OtherLangResources" xml:space="preserve">
+    <value>Other language resources</value>
+  </data>
+  <data name="OtherLanguResourcesDesc" xml:space="preserve">
+    <value>Want some extra language resources? Visit Langademy's friend pages and you won't regret it</value>
+  </data>
 </root>

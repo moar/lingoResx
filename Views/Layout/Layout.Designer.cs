@@ -250,6 +250,24 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Other language resources.
+        /// </summary>
+        public static string OtherLangResources {
+            get {
+                return ResourceManager.GetString("OtherLangResources", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Want some extra language resources? Visit Langademy&apos;s friend pages and you won&apos;t regret it.
+        /// </summary>
+        public static string OtherLanguResourcesDesc {
+            get {
+                return ResourceManager.GetString("OtherLanguResourcesDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Check Langdemy&apos;s pricing for native speakers and languager learners. Join today and start enjoying these features.
         /// </summary>
         public static string PricingDescription {
