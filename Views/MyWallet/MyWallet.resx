@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -169,7 +169,7 @@
     <value>Address (line 2)</value>
   </data>
   <data name="MWCantSaveAddress" xml:space="preserve">
-    <value>We can't save your address because your location's taxes and your billing address's taxes differ</value>
+    <value>We can't save your address because your location's taxes and your invoicing address's taxes differ</value>
   </data>
   <data name="MWCity" xml:space="preserve">
     <value>City</value>
@@ -274,10 +274,10 @@
     <value>Cash out information</value>
   </data>
   <data name="BillDataTitle" xml:space="preserve">
-    <value>Billing data</value>
+    <value>Invoicing data</value>
   </data>
   <data name="BillDataUpdBillInfo" xml:space="preserve">
-    <value>Enter or update your billing information</value>
+    <value>Enter or update your invoicing data</value>
   </data>
   <data name="BillsPanelBillNo" xml:space="preserve">
     <value>No.</value>
@@ -289,16 +289,16 @@
     <value>Download</value>
   </data>
   <data name="BillsPanelLastBills" xml:space="preserve">
-    <value>Last bills</value>
+    <value>Last invoices</value>
   </data>
   <data name="BillsPanelPeriod" xml:space="preserve">
-    <value>Billing period</value>
+    <value>Invoicing period</value>
   </data>
   <data name="BillsPanelStatus" xml:space="preserve">
     <value>Status</value>
   </data>
   <data name="BillsPanelTitle" xml:space="preserve">
-    <value>Bills</value>
+    <value>Invoices</value>
   </data>
   <data name="BuyAddCrds" xml:space="preserve">
     <value>Add credits</value>
@@ -352,19 +352,19 @@
     <value>Congratulations! Your purchase has been processed succesfully</value>
   </data>
   <data name="COutPanelTitle" xml:space="preserve">
-    <value>Cash out</value>
+    <value>Withdrawal</value>
   </data>
   <data name="COutRO" xml:space="preserve">
     <value>PayPal account</value>
   </data>
   <data name="CShopBillInfo" xml:space="preserve">
-    <value>Billing info</value>
+    <value>Invoicing data</value>
   </data>
   <data name="CShopBills" xml:space="preserve">
-    <value>Bills</value>
+    <value>Invoices</value>
   </data>
   <data name="CShopCashout" xml:space="preserve">
-    <value>Cash out</value>
+    <value>Withdrawal</value>
   </data>
   <data name="CShopCreditShop" xml:space="preserve">
     <value>Credit Shop</value>
@@ -406,19 +406,19 @@
     <value>I confirm the above information is true</value>
   </data>
   <data name="ReqCashoutCredits" xml:space="preserve">
-    <value>Cash out Langademy Credits</value>
+    <value>Withdrawal of Langademy Credits</value>
   </data>
   <data name="ReqCashoutEnterAmmount" xml:space="preserve">
-    <value>Enter the amount of credits to cash out</value>
+    <value>Enter the withdrawal amount</value>
   </data>
   <data name="ReqCashoutMethodConfirm" xml:space="preserve">
-    <value>Confirm the cash out method or</value>
+    <value>Confirm the withdrawal method or</value>
   </data>
   <data name="ReqCashoutNewBal" xml:space="preserve">
     <value>New balance</value>
   </data>
   <data name="ReqCashoutNote" xml:space="preserve">
-    <value>Note: Cash out requests are processed once a week. You can follow the status of your request at the Cash out -&gt; History section</value>
+    <value>Note: Withdrawal requests are processed twice a month. You can follow the status of your request at the Withdrawal -&gt; History section</value>
   </data>
   <data name="ReqCashoutPaypalAccount" xml:space="preserve">
     <value>Paypal account</value>
@@ -427,7 +427,7 @@
     <value>Amount requested</value>
   </data>
   <data name="ReqCashoutTitle" xml:space="preserve">
-    <value>Cash out request submitted successfully</value>
+    <value>Withdrawal request submitted successfully</value>
   </data>
   <data name="ReqCashoutUpdate" xml:space="preserve">
     <value>Update</value>
@@ -445,13 +445,13 @@
     <value>TOTAL BALANCE</value>
   </data>
   <data name="MWMovementInfo" xml:space="preserve">
-    <value>At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. The fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a cashout, the amount of credits that you have requested won't be available to use.</value>
+    <value>At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. The fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a withdrawal, the amount of credits that you have requested won't be available to use.</value>
   </data>
   <data name="CashoutCreatePW" xml:space="preserve">
     <value>Create</value>
   </data>
   <data name="CashoutCreatePWSent" xml:space="preserve">
-    <value>You don't have a local account. You need to create a password for your account if you want to edit your billing data.</value>
+    <value>You don't have a local account. You need to create a password for your account if you want to edit your invoicing data.</value>
   </data>
   <data name="CashOutPanAmount" xml:space="preserve">
     <value>Amount</value>
@@ -518,10 +518,10 @@
     <value>Maximum withdrawal amount</value>
   </data>
   <data name="WalletMaxWithdrawal" xml:space="preserve">
-    <value>The maximum amount you can cash out is {0}</value>
+    <value>The maximum amount you can withdraw is {0}</value>
   </data>
   <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
-    <value>Requesting withdrawals during ongoing videcalls is not allowed</value>
+    <value>Requesting withdrawals during ongoing videocalls is not allowed</value>
   </data>
   <data name="MWAddress" xml:space="preserve">
     <value>Address</value>

@@ -159,7 +159,7 @@
   <data name="learn-languages" xml:space="preserve">
     <value>hizkuntzak-ikasi-online</value>
   </data>
-  <data name="natives-how-to-start" xml:space="preserve">
+  <data name="natives-wallet-requirements" xml:space="preserve">
     <value>laguntza/hiztun-natiboak-nola-hasi</value>
   </data>
   <data name="OtherLangResources" xml:space="preserve">
@@ -206,5 +206,8 @@
   </data>
   <data name="how-to-make-video-call" xml:space="preserve">
     <value>help/how-to-make-video-call</value>
+  </data>
+  <data name="help-invoices" xml:space="preserve">
+    <value>help/invoices</value>
   </data>
 </root>

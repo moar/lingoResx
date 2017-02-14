@@ -205,7 +205,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Billing data.
+        ///   Looks up a localized string similar to Invoicing data.
         /// </summary>
         public static string BillDataTitle {
             get {
@@ -214,7 +214,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter or update your billing information.
+        ///   Looks up a localized string similar to Enter or update your invoicing data.
         /// </summary>
         public static string BillDataUpdBillInfo {
             get {
@@ -259,7 +259,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Last bills.
+        ///   Looks up a localized string similar to Last invoices.
         /// </summary>
         public static string BillsPanelLastBills {
             get {
@@ -268,7 +268,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Billing period.
+        ///   Looks up a localized string similar to Invoicing period.
         /// </summary>
         public static string BillsPanelPeriod {
             get {
@@ -286,7 +286,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bills.
+        ///   Looks up a localized string similar to Invoices.
         /// </summary>
         public static string BillsPanelTitle {
             get {
@@ -349,7 +349,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You don&apos;t have a local account. You need to create a password for your account if you want to edit your billing data..
+        ///   Looks up a localized string similar to You don&apos;t have a local account. You need to create a password for your account if you want to edit your invoicing data..
         /// </summary>
         public static string CashoutCreatePWSent {
             get {
@@ -556,7 +556,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cash out.
+        ///   Looks up a localized string similar to Withdrawal.
         /// </summary>
         public static string COutPanelTitle {
             get {
@@ -574,7 +574,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Billing info.
+        ///   Looks up a localized string similar to Invoicing data.
         /// </summary>
         public static string CShopBillInfo {
             get {
@@ -583,7 +583,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bills.
+        ///   Looks up a localized string similar to Invoices.
         /// </summary>
         public static string CShopBills {
             get {
@@ -592,7 +592,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cash out.
+        ///   Looks up a localized string similar to Withdrawal.
         /// </summary>
         public static string CShopCashout {
             get {
@@ -790,7 +790,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We can&apos;t save your address because your location&apos;s taxes and your billing address&apos;s taxes differ.
+        ///   Looks up a localized string similar to We can&apos;t save your address because your location&apos;s taxes and your invoicing address&apos;s taxes differ.
         /// </summary>
         public static string MWCantSaveAddress {
             get {
@@ -853,7 +853,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. The fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a cashout, the amount of credits that you have requested won&apos;t be available to use..
+        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. The fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a withdrawal, the amount of credits that you have requested won&apos;t be available to use..
         /// </summary>
         public static string MWMovementInfo {
             get {
@@ -1177,7 +1177,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cash out Langademy Credits.
+        ///   Looks up a localized string similar to Withdrawal of Langademy Credits.
         /// </summary>
         public static string ReqCashoutCredits {
             get {
@@ -1186,7 +1186,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter the amount of credits to cash out.
+        ///   Looks up a localized string similar to Enter the withdrawal amount.
         /// </summary>
         public static string ReqCashoutEnterAmmount {
             get {
@@ -1204,7 +1204,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm the cash out method or.
+        ///   Looks up a localized string similar to Confirm the withdrawal method or.
         /// </summary>
         public static string ReqCashoutMethodConfirm {
             get {
@@ -1231,7 +1231,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Note: Cash out requests are processed once a week. You can follow the status of your request at the Cash out -&gt; History section.
+        ///   Looks up a localized string similar to Note: Withdrawal requests are processed twice a month. You can follow the status of your request at the Withdrawal -&gt; History section.
         /// </summary>
         public static string ReqCashoutNote {
             get {
@@ -1258,7 +1258,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cash out request submitted successfully.
+        ///   Looks up a localized string similar to Withdrawal request submitted successfully.
         /// </summary>
         public static string ReqCashoutTitle {
             get {
@@ -1394,7 +1394,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The maximum amount you can cash out is {0}.
+        ///   Looks up a localized string similar to The maximum amount you can withdraw is {0}.
         /// </summary>
         public static string WalletMaxWithdrawal {
             get {
@@ -1430,7 +1430,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Requesting withdrawals during ongoing videcalls is not allowed.
+        ///   Looks up a localized string similar to Requesting withdrawals during ongoing videocalls is not allowed.
         /// </summary>
         public static string WalletVideoWithDrawalNotAllowed {
             get {

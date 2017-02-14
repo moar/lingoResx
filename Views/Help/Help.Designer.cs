@@ -457,7 +457,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Starting a call in Langademy is easy. Just find the  &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt; symbol when you want to make  call. Click it to show the call menu to choose the language of the conversation and the call type (&lt;span class=&quot;lg lg-time-bag&quot;&gt;&lt;/span&gt; time banking or &lt;span class=&quot;lg lg-creditsolid&quot;&gt;&lt;/span&gt; wallet). In case of wallet calls, the rate you will be charged is showed next to the language. .
+        ///   Looks up a localized string similar to Starting a call in Langademy is easy. Just find the  &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt; symbol when you want to make  call. Click it to show the call menu to choose the language of the conversation and the call type (&lt;span class=&quot;lg lg-time-bag&quot;&gt;&lt;/span&gt; time banking or &lt;span class=&quot;lg lg-wallet&quot;&gt;&lt;/span&gt; wallet). In case of wallet calls, the rate you will be charged is showed next to the language. .
         /// </summary>
         public static string HelpHowToCall1 {
             get {
@@ -529,7 +529,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next scheduled conversations: The list of users you have scheduled a private conversation with.
+        ///   Looks up a localized string similar to Private conversations: The list of users you have scheduled a private conversation with.
         /// </summary>
         public static string HelpHowToCall45 {
             get {
@@ -601,6 +601,60 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Langademy invoices.
+        /// </summary>
+        public static string HelpInvoicesTitle {
+            get {
+                return ResourceManager.GetString("HelpInvoicesTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select Invoicing Data at My Wallet&apos;s main menu to open it. At this page you can:.
+        /// </summary>
+        public static string HelpInvoicingData1 {
+            get {
+                return ResourceManager.GetString("HelpInvoicingData1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter your personal data for the invoices issued by Langademy. You must complete this form if you want to earn money at Langademy ({0}). Additionally, your browser will prompt you to allow sharing your location when you fill the form. The country of your invoicing address must be the same as your location..
+        /// </summary>
+        public static string HelpInvoicingData2 {
+            get {
+                return ResourceManager.GetString("HelpInvoicingData2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter the paypal account you want to use for credit withdrawals. Be careful when you complete it! You do not want that Langademy transfers your money to another person!!.
+        /// </summary>
+        public static string HelpInvoicingData3 {
+            get {
+                return ResourceManager.GetString("HelpInvoicingData3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Invoicing data.
+        /// </summary>
+        public static string HelpInvoicingDataTitle {
+            get {
+                return ResourceManager.GetString("HelpInvoicingDataTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy fee. How it works.
+        /// </summary>
+        public static string HelpLangademyFeeTitle {
+            get {
+                return ResourceManager.GetString("HelpLangademyFeeTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy state.
         /// </summary>
         public static string HelpLangademyStateTitle {
@@ -628,11 +682,56 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy fee. How it works.
+        ///   Looks up a localized string similar to Select Transactions at My Wallet&apos;s main menu to open your credit transaction history. At this page you can: .
         /// </summary>
-        public static string HelpNativesFeeTitle {
+        public static string HelpMWT1 {
             get {
-                return ResourceManager.GetString("HelpNativesFeeTitle", resourceCulture);
+                return ResourceManager.GetString("HelpMWT1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Watch your Available balance.
+        /// </summary>
+        public static string HelpMWT2 {
+            get {
+                return ResourceManager.GetString("HelpMWT2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This is the current amount of credits you can spend at Langademy. Visit {0} for more details.
+        /// </summary>
+        public static string HelpMWT3 {
+            get {
+                return ResourceManager.GetString("HelpMWT3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Watch your transaction history.
+        /// </summary>
+        public static string HelpMWT4 {
+            get {
+                return ResourceManager.GetString("HelpMWT4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Every operation that modifies your credits balance will be included here (e.g. Credit purchases, credits earned and spent making wallet video calls, invoice collections and credit withdrawals).
+        /// </summary>
+        public static string HelpMWT5 {
+            get {
+                return ResourceManager.GetString("HelpMWT5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My Wallet transactions.
+        /// </summary>
+        public static string HelpMWTTitle {
+            get {
+                return ResourceManager.GetString("HelpMWTTitle", resourceCulture);
             }
         }
         
@@ -646,7 +745,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you want to chat in your native language, you have to go the chat room of your native language, where you will find language learners to speak with..
+        ///   Looks up a localized string similar to If you want to earn money making wallet video calls in your native language, you have to meet some requirements..
         /// </summary>
         public static string HelpNativesSent1 {
             get {
@@ -655,7 +754,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to But firstly, you have to meet some requirements:.
+        ///   Looks up a localized string similar to .
         /// </summary>
         public static string HelpNativesSent2 {
             get {
@@ -664,7 +763,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You need to have a minimum number of up votes in a language if you want to set a rate for that language. Make free video calls or time banking calls with other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to set your rate for a specific language..
+        ///   Looks up a localized string similar to You need to have a minimum number of up votes in a language if you want to set a rate for that language. Make free wallet video calls or time banking calls with other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to set your rate for that language..
         /// </summary>
         public static string HelpNativesSent3 {
             get {
@@ -673,7 +772,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fill your billing data. To be able to set a rate for Wallet calls, you need to fill your billing address in the MyWallet app -&gt; Billing info..
+        ///   Looks up a localized string similar to Fill your {0}..
         /// </summary>
         public static string HelpNativesSent4 {
             get {
@@ -727,11 +826,11 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Requirements for natives.
+        ///   Looks up a localized string similar to Requirements for natives to earn money.
         /// </summary>
-        public static string HelpNativeWalletRequirementsTitle {
+        public static string HelpNativesWalletRequirementsTitle {
             get {
-                return ResourceManager.GetString("HelpNativeWalletRequirementsTitle", resourceCulture);
+                return ResourceManager.GetString("HelpNativesWalletRequirementsTitle", resourceCulture);
             }
         }
         
@@ -741,6 +840,69 @@ namespace Resources.Views.Help {
         public static string HelpProfileTitle {
             get {
                 return ResourceManager.GetString("HelpProfileTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select Credit shop at My Wallet&apos;s main menu to open the credit purchase page. The purchasing process involves a few simple steps: .
+        /// </summary>
+        public static string HelpPurchaseCredits1 {
+            get {
+                return ResourceManager.GetString("HelpPurchaseCredits1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter the amount of credits you want to purchase..
+        /// </summary>
+        public static string HelpPurchaseCredits2 {
+            get {
+                return ResourceManager.GetString("HelpPurchaseCredits2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1 Langademy credit &lt;span class=&quot;credit&quot;&gt;€&lt;/span&gt; = 1 EURO €.
+        /// </summary>
+        public static string HelpPurchaseCredits3 {
+            get {
+                return ResourceManager.GetString("HelpPurchaseCredits3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check the minimum credits purchase, which depends on the payment method you select. If your localization is available and your country&apos;s local currency is not Euro, you may see the estimated conversion to your currency. Note that this conversion is only informative since the final exchange rate is applied by the banking entities..
+        /// </summary>
+        public static string HelpPurchaseCredits4 {
+            get {
+                return ResourceManager.GetString("HelpPurchaseCredits4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the payment method and follow the steps on screen. You will be redirected to the secure payment gateway to complete the payment.
+        /// </summary>
+        public static string HelpPurchaseCredits5 {
+            get {
+                return ResourceManager.GetString("HelpPurchaseCredits5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Once you confirm the payment, your wallet balance will be updated and you will be able to use your credits in Langademy.
+        /// </summary>
+        public static string HelpPurchaseCredits6 {
+            get {
+                return ResourceManager.GetString("HelpPurchaseCredits6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchase credits.
+        /// </summary>
+        public static string HelpPurchaseCreditsTitle {
+            get {
+                return ResourceManager.GetString("HelpPurchaseCreditsTitle", resourceCulture);
             }
         }
         
@@ -853,7 +1015,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Place your mouse pointer on the block you want to change. Two small lines will appear at the end. Click those lines and drag for resizing the block until you it has the duration you want.  .
+        ///   Looks up a localized string similar to Place your mouse pointer on the block you want to change. Two small lines will appear at the end. Click those lines and drag for resizing the block until it has the duration you want.  .
         /// </summary>
         public static string HelpSetAvailability8 {
             get {
@@ -1123,7 +1285,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Native speakers are charged the 13% of the amount (+ taxes) that have been charged to the language learner. Once a video call is finished, native speakers will have their available credit balance updated..
+        ///   Looks up a localized string similar to Langademy charges native speakers 13% (+ taxes) of the amount that they charge students per videocall. Once a wallet video call is finished,  users&apos; available credit balance is updated. (You can watch your available balance at {0}) ( {1}).
         /// </summary>
         public static string HelpWalletFees1 {
             get {
@@ -1132,7 +1294,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In order to understand how the available balance is calculated, several terms need to be explained:.
+        ///   Looks up a localized string similar to The Available Credits Balance represents the current amount of credits that you can spend. In order to understand how it is calculated, several terms need to be explained:.
         /// </summary>
         public static string HelpWalletFees2 {
             get {
@@ -1150,7 +1312,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy fee: at the end of the month, Langademy will charge a 13% fee to the conversations of the native speakers. This fee will be reflected on the next invoice. The fee is not taken from the native’s account until the next invoice is emitted, however it cannot be used to make other purchases either..
+        ///   Looks up a localized string similar to Langademy fee: at the end of the month, Langademy collects a 13% fee to the conversations of the native speakers. This fee is reflected on the next invoice ({0}). The fee is not taken from the native’s account until the invoice is issued, however you cannot spend this amount either..
         /// </summary>
         public static string HelpWalletFees4 {
             get {
@@ -1159,7 +1321,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that have been requested won&apos;t be available to use..
+        ///   Looks up a localized string similar to Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that has been requested won&apos;t be available to spend it..
         /// </summary>
         public static string HelpWalletFees5 {
             get {
@@ -1178,7 +1340,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Available balance = total balance – Langademy fee – amount of credits requested for withdrawal.
+        ///   Looks up a localized string similar to Available balance = Total balance – Langademy fee – Amount of credits requested for withdrawal.
         /// </summary>
         public static string HelpWalletFees7 {
             get {
@@ -1187,7 +1349,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests..
+        ///   Looks up a localized string similar to &lt;span class=&quot;lg lg-wallet&quot;&gt;&lt;/span&gt; My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests..
         /// </summary>
         public static string HelpWalletIntro1 {
             get {
@@ -1196,7 +1358,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you are at Langademy to learn languages, go to the chat rooms and look for native speakers and check their rates..
+        ///   Looks up a localized string similar to You can open My Wallet app clicking the apps button &lt;span class=&quot;lg lg-apps&quot;&gt;&lt;/span&gt; at the Control Panel and selecteing the My Wallet tile &lt;span class=&quot;lg lg-wallet&quot;&gt;&lt;/span&gt; .
         /// </summary>
         public static string HelpWalletIntro2 {
             get {
@@ -1205,7 +1367,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you want to earn some money while you speak with languages learners, you will have to earn some reputation with time banking or free calls before you can set a rate for your Wallet calls..
+        ///   Looks up a localized string similar to .
         /// </summary>
         public static string HelpWalletIntro3 {
             get {

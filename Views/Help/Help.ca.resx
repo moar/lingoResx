@@ -182,10 +182,7 @@ Aquest es el seu funcionament:  </value>
     <value>Comissió dels natius</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Si vols parlar en la teva llengua materna, has d'anar a la sala de xat de la teva llengua, on trobaràs estudiants amb els quals poder conversar</value>
-  </data>
-  <data name="HelpNativesSent2" xml:space="preserve">
-    <value>Però primerament hem de complir uns requisits:</value>
+    <value>Si vols parlar en la teva llengua materna, has d'anar a la sala de xat de la teva llengua, on trobaràs estudiants amb els quals poder conversar, primerament hem de complir uns requisits:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
     <value>Per poder establir una tarifa en un idioma, has de tenir un nombre mínim de vots positius. Per aconseguir ves a les sales chat, parla amb la gent que vol aprendre el teu idioma i guanya vots positius. Una vegada que hagis guanyat el nombre de vots que es requereixen per entrar a la sala d'un idioma, podràs establir la tarifa</value>

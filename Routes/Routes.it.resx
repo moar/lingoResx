@@ -159,7 +159,7 @@
   <data name="learn-languages" xml:space="preserve">
     <value>imparare-lingue-online</value>
   </data>
-  <data name="natives-how-to-start" xml:space="preserve">
+  <data name="natives-wallet-requirements" xml:space="preserve">
     <value>aiuto/madrelingua-come-iniziare</value>
   </data>
   <data name="OtherLangResources" xml:space="preserve">
@@ -196,7 +196,7 @@
     <value>conversazioni-di-pagamento-con-madrelingua</value>
   </data>
   <data name="search" xml:space="preserve">
-    <value>Cercare</value>
+    <value>cercare</value>
   </data>
   <data name="search-language-students" xml:space="preserve">
     <value>cercare-studenti-di-lingue</value>
@@ -206,5 +206,8 @@
   </data>
   <data name="how-to-make-video-call" xml:space="preserve">
     <value>help/how-to-make-video-call</value>
+  </data>
+  <data name="help-invoices" xml:space="preserve">
+    <value>help/invoices</value>
   </data>
 </root>
