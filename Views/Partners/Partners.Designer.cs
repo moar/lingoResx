@@ -61,7 +61,7 @@ namespace Resources.Views.Partners {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a class=&quot;link&quot; href=&quot;&quot;&gt;bab.la&lt;/a&gt; is an interactive language portal and an online magazine for expats offering bilingual dictionaries, blog articles about life abroad, language quizzes and language games to all users for free. Originally founded as a multilingual dictionary, bab.la has recently evolved into an online space for global citizens passionate about not only languages but also life abroad. More and more people every day are choosing to experience life in a foreign country. However, moving abroad  [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a class=&quot;link&quot; href=&quot;http://bab.la&quot;&gt;bab.la&lt;/a&gt; is an interactive language portal and an online magazine for expats offering bilingual dictionaries, blog articles about life abroad, language quizzes and language games to all users for free. Originally founded as a multilingual dictionary, bab.la has recently evolved into an online space for global citizens passionate about not only languages but also life abroad. More and more people every day are choosing to experience life in a foreign country. However, m [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Babla {
             get {
