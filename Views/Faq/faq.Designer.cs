@@ -70,7 +70,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The main way to get time for your account, is by talking to others in your native languages. You can go to the chat room of one of your native languages, or you can make private calls in your native languages with your contacts.&lt;br /&gt;
+        ///   Looks up a localized string similar to The main way to get time for your account, is by talking to others in your native languages. You can go to the chat room of one of your native languages, or you can make private calls in your native languages with your contacts or with students that request you private conversations.&lt;br /&gt;
         ///                                You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook..
         /// </summary>
         public static string Answer2 {
@@ -80,7 +80,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you go to a chat room and there it&apos;s empty, you can check if there are any meetups in the meetup board. If there aren’t any, you can create your own meetups. You just have to select the language and the date/time of the meetup..
+        ///   Looks up a localized string similar to You should create your own meetups. You just have to select the language and the date/time of the meetup. Go to your Calendar and click the New Meetup button on the main page.
         /// </summary>
         public static string Answer3 {
             get {
@@ -98,7 +98,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All the meetups take place inside a chat room. You can whether go to your right panel app and select the room you want to enter, or select the meetup from the meetup board and enter directly to the room when the time comes..
+        ///   Looks up a localized string similar to All the meetups take place inside a chat room. You can either go to your right panel app and select the room you want to enter, or select the meetup from your Calendar and enter directly to the room when the time comes..
         /// </summary>
         public static string Answer5 {
             get {
@@ -116,7 +116,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is free of any charge. We use a time banking policy. The time you devote speaking to others in your native languages will be added to your account so you can use it to learn other languages..
+        ///   Looks up a localized string similar to Langademy is free if you decide to make time banking video calls. The time you devote speaking to others in your native languages will be added to your account so you can use it to learn other languages. If you don&apos;t have time for time banking, you can pay natives for private conversations. Go to the Wallet section in Langademy&apos;s help page for more information..
         /// </summary>
         public static string Answer7 {
             get {
@@ -125,7 +125,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you are inside a chat room, you have the option to send a connection request to your partners. Remember that you can check your call history in your Time Bank app. Once you are connected, you can send private messages and also make private videocalls..
+        ///   Looks up a localized string similar to When you are inside a chat room, you have the option to send a connection request to your partners. Remember that you can check your call history in the Control Panel. Once you are connected, you can send private messages and also make private videocalls..
         /// </summary>
         public static string Answer8 {
             get {
@@ -143,7 +143,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Why are only some rooms available in the room list of my right panel?.
+        ///   Looks up a localized string similar to Why are there only some rooms available in the chat rooms panel?.
         /// </summary>
         public static string Question1 {
             get {
