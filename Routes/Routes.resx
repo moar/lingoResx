@@ -129,8 +129,8 @@
   <data name="help" xml:space="preserve">
     <value>help</value>
   </data>
-  <data name="how-does-time-banking-work" xml:space="preserve">
-    <value>help/how-does-time-banking-work</value>
+  <data name="time-banking-rules" xml:space="preserve">
+    <value>help/time-banking-rules</value>
   </data>
   <data name="how-to-meet-partners" xml:space="preserve">
     <value>help/how-to-meet-partners</value>
@@ -218,5 +218,8 @@
   </data>
   <data name="help-invoices" xml:space="preserve">
     <value>help/invoices</value>
+  </data>
+  <data name="help-time-bank" xml:space="preserve">
+    <value>help/time-bank</value>
   </data>
 </root>

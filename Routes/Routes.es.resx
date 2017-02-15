@@ -129,8 +129,8 @@
   <data name="help" xml:space="preserve">
     <value>ayuda</value>
   </data>
-  <data name="how-does-time-banking-work" xml:space="preserve">
-    <value>ayuda/funcionamiento-banco-de-tiempo</value>
+  <data name="time-banking-rules" xml:space="preserve">
+    <value>ayuda/reglas-banco-de-tiempo</value>
   </data>
   <data name="how-to-meet-partners" xml:space="preserve">
     <value>ayuda/como-conocer-companeros-conversacion</value>
@@ -215,5 +215,8 @@
   </data>
   <data name="help-invoices" xml:space="preserve">
     <value>ayuda/facturas</value>
+  </data>
+  <data name="help-time-bank" xml:space="preserve">
+    <value>ayuda/banco-de-tiempo</value>
   </data>
 </root>

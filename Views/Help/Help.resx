@@ -136,22 +136,22 @@
     <value>The chat rooms are the place where you can go to exchange languages with a native. Select a room in your right panel and start practicing your favourite language! Remember that you can check the meetup board to know when the chat room meetups take place.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
-    <value>The Time Bank is a way to make language exchange fair for everyone at Langademy. This is how it works:</value>
+    <value>Time banking is a way to make language exchange fair for everyone at Langademy. It means that if you make a timebanking video call with a native speaker, you must contribute the same time speaking in your native language, with the same or other students. Langademy records video call durations so you don't have to worry about the math. Just watch your time balance ({0}) to decide if you need to schedule video calls in your native language and increase your time balance. This is how timebanking works:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>You will begin with 30 minutes so you can practice the language you want.</value>
+    <value>When you sign up at Langademy you begin with 30 minutes in your Time Bank account so you can practice the language you want.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>By default, you will not be able to accumulate more than 10 hours in your Time Bank account.</value>
   </data>
   <data name="TimeBankF3" xml:space="preserve">
-    <value>Invite your friends and you will get 30 extra minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 30 minutes).</value>
+    <value>Invite your friends and you will get 30 extra minutes for each friend that signs up with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 30 minutes).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>When you practice a language that is not your native language, you spend time from your Time Bank account. If you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time in your account.</value>
+    <value>When you make a timebanking video call ({0}) in a language that is not your native language, you spend time from your Time Bank account. If you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time in your account.</value>
   </data>
   <data name="TimeBankF5" xml:space="preserve">
-    <value>Calls that are shorter than a minute have no cost</value>
+    <value>Calls that are shorter than a minute will neither add or subtract time from your account</value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Time Bank</value>
@@ -205,7 +205,7 @@
     <value>Chat rooms</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
-    <value>How does Time Banking work?</value>
+    <value>Time banking rules</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
     <value>My Wallet</value>
@@ -253,7 +253,7 @@
     <value>Time Banking provides a way to learn languages without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account. Check the Time Banking rules ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account.</value>
+    <value>In your home page, you can check your Time Banking account balance, and if you go to the {0} app you will see the history and details of your Time Banking account.</value>
   </data>
   <data name="HelpChatRooms1" xml:space="preserve">
     <value>Chat rooms are the place where you can meet groups of conversation partners, both natives and students. First of all you have to add in your profile the languages you are interested on. Otherwise you will not have access to the chat room. Once done, go to the control panel, click &lt;span class="lg lg-chatrooms"&gt;&lt;/span&gt; and select the language chat room to open it.</value>
@@ -289,7 +289,7 @@
     <value>Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that has been requested won't be available to spend it.</value>
   </data>
   <data name="HelpWalletFees6" xml:space="preserve">
-    <value>Available balance: In the view of the abovementioned terms, this is how available balance is calculated
+    <value>Available balance: In the view of the abovementioned terms, this is how the available balance is calculated
 </value>
   </data>
   <data name="HelpWalletFees7" xml:space="preserve">
@@ -329,13 +329,10 @@
     <value>Complete the billing address: Go to My Wallet and complete the billing address.</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
-    <value>&lt;span class="lg lg-wallet"&gt;&lt;/span&gt; My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests.</value>
+    <value>&lt;span class="lg lg-wallet"&gt;&lt;/span&gt; My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, invoicing history and add or edit your invoicing data. You can also purchase credits an request credit withdrawals from My Wallet.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>You can open My Wallet app clicking the apps button &lt;span class="lg lg-apps"&gt;&lt;/span&gt; at the Control Panel and selecteing the My Wallet tile &lt;span class="lg lg-wallet"&gt;&lt;/span&gt; </value>
-  </data>
-  <data name="HelpWalletIntro3" xml:space="preserve">
-    <value />
+    <value>You can open My Wallet app clicking the Apps button &lt;span class="lg lg-apps"&gt;&lt;/span&gt; at the Control Panel and selecting the My Wallet button &lt;span class="lg lg-wallet"&gt;&lt;/span&gt; </value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Langademy Help</value>
@@ -648,5 +645,32 @@
   </data>
   <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
     <value>Purchase credits</value>
+  </data>
+  <data name="HelpInvoices1" xml:space="preserve">
+    <value>Select Invoices at My Wallet's main menu to open the Langademy invoices page.</value>
+  </data>
+  <data name="HelpInvoices2" xml:space="preserve">
+    <value>At this page you can find the invoices issued by Langademy monthly. Note that Langademy only issues an invoice if you have chargeable transactions for the period ({0}). Also note that these invoices only include the Langademy fees for our service, but not student transactions charged by native speakers or teachers. </value>
+  </data>
+  <data name="HelpInvoices3" xml:space="preserve">
+    <value>Before the monthly invoice is issued you can track your monthly expenses going to {0} and checking the Langademy fee.</value>
+  </data>
+  <data name="HelpInvoices4" xml:space="preserve">
+    <value>After a monthly invoice is issued, it will be collected from your wallet account, but never from your credit card or Paypal account.</value>
+  </data>
+  <data name="HelpInvoices5" xml:space="preserve">
+    <value>When a monthly invoice is collected you will have a new transaction in your wallet transaction history and the partial Langademy fee will be updated.</value>
+  </data>
+  <data name="HelpTimeBankApp1" xml:space="preserve">
+    <value>The Time Bank is the app where you can track your timebanking video call history and watch your time balance.</value>
+  </data>
+  <data name="HelpTimeBankApp2" xml:space="preserve">
+    <value>You can open the Time Bank clicking the Apps button &lt;span class="lg lg-apps"&gt;&lt;/span&gt; at the Control Panel and selecting the Time Bank button &lt;span class="lg lg-time-bag"&gt;&lt;/span&gt;</value>
+  </data>
+  <data name="HelpTimeBankApp3" xml:space="preserve">
+    <value>Each timebanking call will add or subtract time to your time balance according to {0}</value>
+  </data>
+  <data name="HelpTimeBankAppTitle" xml:space="preserve">
+    <value>Time Bank</value>
   </data>
 </root>

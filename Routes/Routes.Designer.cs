@@ -124,11 +124,11 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to help/how-does-time-banking-work.
+        ///   Looks up a localized string similar to help/time-bank.
         /// </summary>
-        public static string how_does_time_banking_work {
+        public static string help_time_bank {
             get {
-                return ResourceManager.GetString("how-does-time-banking-work", resourceCulture);
+                return ResourceManager.GetString("help-time-bank", resourceCulture);
             }
         }
         
@@ -309,6 +309,15 @@ namespace Resources.Routes {
         public static string time_banking_indroduction {
             get {
                 return ResourceManager.GetString("time-banking-indroduction", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/time-banking-rules.
+        /// </summary>
+        public static string time_banking_rules {
+            get {
+                return ResourceManager.GetString("time-banking-rules", resourceCulture);
             }
         }
         

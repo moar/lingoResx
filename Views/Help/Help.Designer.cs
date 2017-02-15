@@ -601,6 +601,51 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select Invoices at My Wallet&apos;s main menu to open the Langademy invoices page..
+        /// </summary>
+        public static string HelpInvoices1 {
+            get {
+                return ResourceManager.GetString("HelpInvoices1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At this page you can find the invoices issued by Langademy monthly. Note that Langademy only issues an invoice if you have chargeable transactions for the period ({0}). Also note that these invoices only include the Langademy fees for our service, but not student transactions charged by native speakers or teachers. .
+        /// </summary>
+        public static string HelpInvoices2 {
+            get {
+                return ResourceManager.GetString("HelpInvoices2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Before the monthly invoice is issued you can track your monthly expenses going to {0} and checking the Langademy fee..
+        /// </summary>
+        public static string HelpInvoices3 {
+            get {
+                return ResourceManager.GetString("HelpInvoices3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to After a monthly invoice is issued, it will be collected from your wallet account, but never from your credit card or Paypal account..
+        /// </summary>
+        public static string HelpInvoices4 {
+            get {
+                return ResourceManager.GetString("HelpInvoices4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When a monthly invoice is collected you will have a new transaction in your wallet transaction history and the partial Langademy fee will be updated..
+        /// </summary>
+        public static string HelpInvoices5 {
+            get {
+                return ResourceManager.GetString("HelpInvoices5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy invoices.
         /// </summary>
         public static string HelpInvoicesTitle {
@@ -1231,7 +1276,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In your home page, you can check your Time Banking account balance, and if you go to the Time Banking app you will see the history and details of your Time Banking account..
+        ///   Looks up a localized string similar to In your home page, you can check your Time Banking account balance, and if you go to the {0} app you will see the history and details of your Time Banking account..
         /// </summary>
         public static string HelpTBIntro2 {
             get {
@@ -1276,11 +1321,47 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to How does Time Banking work?.
+        ///   Looks up a localized string similar to Time banking rules.
         /// </summary>
         public static string HelpTBWorkTitle {
             get {
                 return ResourceManager.GetString("HelpTBWorkTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The Time Bank is the app where you can track your timebanking video call history and watch your time balance..
+        /// </summary>
+        public static string HelpTimeBankApp1 {
+            get {
+                return ResourceManager.GetString("HelpTimeBankApp1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can open the Time Bank clicking the Apps button &lt;span class=&quot;lg lg-apps&quot;&gt;&lt;/span&gt; at the Control Panel and selecting the Time Bank button &lt;span class=&quot;lg lg-time-bag&quot;&gt;&lt;/span&gt;.
+        /// </summary>
+        public static string HelpTimeBankApp2 {
+            get {
+                return ResourceManager.GetString("HelpTimeBankApp2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Each timebanking call will add or subtract time to your time balance according to {0}.
+        /// </summary>
+        public static string HelpTimeBankApp3 {
+            get {
+                return ResourceManager.GetString("HelpTimeBankApp3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time Bank.
+        /// </summary>
+        public static string HelpTimeBankAppTitle {
+            get {
+                return ResourceManager.GetString("HelpTimeBankAppTitle", resourceCulture);
             }
         }
         
@@ -1330,7 +1411,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Available balance: In the view of the abovementioned terms, this is how available balance is calculated
+        ///   Looks up a localized string similar to Available balance: In the view of the abovementioned terms, this is how the available balance is calculated
         ///.
         /// </summary>
         public static string HelpWalletFees6 {
@@ -1349,7 +1430,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;span class=&quot;lg lg-wallet&quot;&gt;&lt;/span&gt; My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, billing history and add or edit your billing information. Wallet also provides credit purchase and credit withdrawal requests..
+        ///   Looks up a localized string similar to &lt;span class=&quot;lg lg-wallet&quot;&gt;&lt;/span&gt; My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, invoicing history and add or edit your invoicing data. You can also purchase credits an request credit withdrawals from My Wallet..
         /// </summary>
         public static string HelpWalletIntro1 {
             get {
@@ -1358,20 +1439,11 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can open My Wallet app clicking the apps button &lt;span class=&quot;lg lg-apps&quot;&gt;&lt;/span&gt; at the Control Panel and selecteing the My Wallet tile &lt;span class=&quot;lg lg-wallet&quot;&gt;&lt;/span&gt; .
+        ///   Looks up a localized string similar to You can open My Wallet app clicking the Apps button &lt;span class=&quot;lg lg-apps&quot;&gt;&lt;/span&gt; at the Control Panel and selecting the My Wallet button &lt;span class=&quot;lg lg-wallet&quot;&gt;&lt;/span&gt; .
         /// </summary>
         public static string HelpWalletIntro2 {
             get {
                 return ResourceManager.GetString("HelpWalletIntro2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        public static string HelpWalletIntro3 {
-            get {
-                return ResourceManager.GetString("HelpWalletIntro3", resourceCulture);
             }
         }
         
@@ -1583,7 +1655,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Time Bank is a way to make language exchange fair for everyone at Langademy. This is how it works:.
+        ///   Looks up a localized string similar to Time banking is a way to make language exchange fair for everyone at Langademy. It means that if you make a timebanking video call with a native speaker, you must contribute the same time speaking in your native language, with the same or other students. Langademy records video call durations so you don&apos;t have to worry about the math. Just watch your time balance ({0}) to decide if you need to schedule video calls in your native language and increase your time balance. This is how timebanking works:.
         /// </summary>
         public static string TimeBankDescription {
             get {
@@ -1592,7 +1664,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You will begin with 30 minutes so you can practice the language you want..
+        ///   Looks up a localized string similar to When you sign up at Langademy you begin with 30 minutes in your Time Bank account so you can practice the language you want..
         /// </summary>
         public static string TimeBankF1 {
             get {
@@ -1610,7 +1682,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Invite your friends and you will get 30 extra minutes for each friend that is registered with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 30 minutes)..
+        ///   Looks up a localized string similar to Invite your friends and you will get 30 extra minutes for each friend that signs up with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 30 minutes)..
         /// </summary>
         public static string TimeBankF3 {
             get {
@@ -1619,7 +1691,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you practice a language that is not your native language, you spend time from your Time Bank account. If you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time in your account..
+        ///   Looks up a localized string similar to When you make a timebanking video call ({0}) in a language that is not your native language, you spend time from your Time Bank account. If you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time in your account..
         /// </summary>
         public static string TimeBankF4 {
             get {
@@ -1628,7 +1700,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Calls that are shorter than a minute have no cost.
+        ///   Looks up a localized string similar to Calls that are shorter than a minute will neither add or subtract time from your account.
         /// </summary>
         public static string TimeBankF5 {
             get {
