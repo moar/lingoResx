@@ -201,4 +201,7 @@
   <data name="PricingDescription" xml:space="preserve">
     <value>Revisa els preus de Langademy per als parlants natius i els estudiants. Uneix-te avui i comença a gaudir de les nostres ofertes.</value>
   </data>
+  <data name="SearchPartners" xml:space="preserve">
+    <value>Busca companys de conversa - Langademy</value>
+  </data>
 </root>

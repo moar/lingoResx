@@ -201,4 +201,7 @@
   <data name="PricingDescription" xml:space="preserve">
     <value>Controlla i prezzi di Langademy, di madrelingua e studenti. Iscriviti oggi e inizia a godere le nostre offerte.</value>
   </data>
+  <data name="SearchPartners" xml:space="preserve">
+    <value>Cerca compagni di conversazioni - Langademy</value>
+  </data>
 </root>
