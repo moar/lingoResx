@@ -138,4 +138,25 @@
   <data name="SearchSubTitleLanguage" xml:space="preserve">
     <value>Ikasi ezazu {0} internet bidez, doakoa da! Psst, ez zaitez ahaztu gainontzekoekin zure ama hizkuntza elkarbanatzeaz. Hitz egin zazu zure ama hizkuntzan eta irakasteko erabili duzun denbora hori beste hizkuntza batzuk ikasteko erabili ahal izango duzu</value>
   </data>
+  <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
+    <value>Bilatu zure premietara egokitzen diren mintzalagun natiboak. Ikusi beraien esperientzia, botu kopurua eta egin konbertsazio pribatuetarako eskaerak</value>
+  </data>
+  <data name="SearchConversationPartnersTitle" xml:space="preserve">
+    <value>Bilatu mintzalagunak</value>
+  </data>
+  <data name="SearchLanguageStudentsSubtitle" xml:space="preserve">
+    <value>Bilatu zure hizkuntza ikastea nahi duten ikasleak. Ez ahaztu zure egutegian zure ordu libreak editatzeaz ikasleek eskaerak egin diezazkizuten</value>
+  </data>
+  <data name="SearchLanguageStudentsTitle" xml:space="preserve">
+    <value>Bilatu hizkuntza ikasleak</value>
+  </data>
+  <data name="SearchPaidConversationPartnersSubtitle" xml:space="preserve">
+    <value>Bilatu zure premietara egokitzen diren mintzalagun natiboak. Ikusi beraien esperientzia, botu kopurua, eskeintzen dituzten tarifak eta egin konbertsazio pribatuetarako eskaerak</value>
+  </data>
+  <data name="SearchCustomUsersTitle" xml:space="preserve">
+    <value>Bilatu mintzalagunak</value>
+  </data>
+  <data name="SearchCustomUserSubtitle" xml:space="preserve">
+    <value>Bilatu mintzalagun natiboak eta filtratu zure bilaketak zure kontrol paneleko filtroa erabiliz</value>
+  </data>
 </root>

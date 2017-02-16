@@ -201,4 +201,34 @@
   <data name="PricingDescription" xml:space="preserve">
     <value>Ikusi itzazu Langademyk hiztun natibo eta ikasleentzat eskaintzen dituen prezioak. Batu zaitez Langademyra eta hasi gure eskaintzez gozatzen.</value>
   </data>
+  <data name="SearchExchangeNatives" xml:space="preserve">
+    <value>Bilatu hizkuntza elkartrukerako mintzalagun natiboak</value>
+  </data>
+  <data name="SearchExchangeNativesDesc" xml:space="preserve">
+    <value>Bilatu hizkuntza elkartrukerako mintzalagun natiboak eta erabili ezazu zure denbora trukerako txanpon moduan</value>
+  </data>
+  <data name="SearchPaidNatives" xml:space="preserve">
+    <value>Bilatu mintzalagun natiboak</value>
+  </data>
+  <data name="SearchPaidNativesDesc" xml:space="preserve">
+    <value>Bilatu zure premietara egokitzen diren mintzalagun natiboak. Ikusi beraien esperientzia, botu kopurua, eskeintzen dituzten tarifak eta egin konbertsazio pribatuetarako eskaerak</value>
+  </data>
+  <data name="SearchPartners" xml:space="preserve">
+    <value>Bilatu mintzalagunak - Langademy</value>
+  </data>
+  <data name="SearchPartnersDesc" xml:space="preserve">
+    <value>Bilatu mintzalagun natiboak edo ikasleak Langademyn. Zure denbora edo kredituak erabili ditzakezu trukerako txanpon bezala</value>
+  </data>
+  <data name="SearchStudents" xml:space="preserve">
+    <value>Bilatu hizkuntza ikasleak</value>
+  </data>
+  <data name="SearchStudentsDescription" xml:space="preserve">
+    <value>Bilatu hizkuntza ikasleak. Editatu zure ordu libreak zure egutegian konbertsazio eskaerak jaso ditzazun edo bestela bilera berriak sortu itzazu ikasle berriak ezagutu ahal izateko</value>
+  </data>
+  <data name="OtherLangResources" xml:space="preserve">
+    <value>Hizkuntzak ikasteko beste errekurtso batzuk</value>
+  </data>
+  <data name="OtherLanguResourcesDesc" xml:space="preserve">
+    <value>Hizkuntzak ikasteko errekurtso gehiagoren bila? Bisita itzazu Langademyren lagun diren web orrian eta ez zara damutuko</value>
+  </data>
 </root>

@@ -119,6 +119,9 @@
   </resheader>
   
   
+  <data name="Dictionary" xml:space="preserve">
+    <value>Hiztegia</value>
+  </data>
   <data name="Section" xml:space="preserve">
     <value>Errekurtso gehiago</value>
   </data>

@@ -198,6 +198,9 @@
   <data name="HelpTBIntroTitle" xml:space="preserve">
     <value>Denbora bankua: sarrera</value>
   </data>
+  <data name="HelpChatRoomsTitle" xml:space="preserve">
+    <value>Txat gelak</value>
+  </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>Nola funtzionatzen du denbora bankuak?</value>
   </data>
@@ -249,6 +252,12 @@
   <data name="HelpTBIntro2" xml:space="preserve">
     <value>Zure hasierako orrialdean zure denbora bankuko saldoa kontsultatu dezakezu, eta Denbora Bankuaren aplikazioan zure deien xehetasunak eta historikoa ikusi ahal izango dituzu.</value>
   </data>
+  <data name="HelpChatRooms1" xml:space="preserve">
+    <value><![CDATA[Txat gelak mintzalagun berriak ezagutzeko leku perfektua dira, bai natiboak eta baita ikasleak ere. Geletara sartu ahal izateko, lehenik eta behin ikasi eta irakatsi nahi dituzun hizkuntzak sartu behar dituzu zure profilean. Hori egiten duzunean, jo zure kontrol panelera, <span class="lg lg-chatrooms"></span> klikatu  eta aukeratu ireki nahi duzun hizkuntzaren gela.]]></value>
+  </data>
+  <data name="HelpChatRooms4" xml:space="preserve">
+    <value>Erabiltzaileak: online dauden erabiltzaileen zerrenda erakusten du. Klatu erabiltzaile batetan eta menu bat irekiko zaizu: bertatik kontaktu eskariak bidali, bideo deiak hasi edo erabiltzailea erreportatu edo blokeatu ahal izango duzu</value>
+  </data>
   <data name="HelpChatRooms7" xml:space="preserve">
     <value>Gela hutsik badago edo momentu horretan aktibitaterik ez badago, bilerak sortu ditzakezu gainerako erabiltzaileei zu bideo deiak egin edo txateatzeko noiz libre egongo zaren adierazteko. Beste erabiltzaileek sortutako bileretara ere batu zaitezke.</value>
   </data>
@@ -287,6 +296,9 @@
   </data>
   <data name="HelpWalletWithdrawal2" xml:space="preserve">
     <value>Kredituen eskariak 15 egunean behin prozesatzen dira. Nahi izanez gero, eskarian eginieko kreditu kopurua editatu egin daiteke. Eskari bat eginez gero, ezin da beste eskari bat egin lehenengo eskaria prozesatzen bukatu aurretik.</value>
+  </data>
+  <data name="HelpWCIntro1" xml:space="preserve">
+    <value>Wallet deiak, hizkuntza elkartrukerako denborarik ez eta mintzalagun natiboekin hitz egin nahi duten jendearendako egokiak dira</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
     <value>Wallet deiak egin ahal izateko baldintzak</value>
@@ -342,6 +354,12 @@
   <data name="HelpCompleteProfile1" xml:space="preserve">
     <value>Zure profila osatzeko arrazoi nagusia, ikasleen arreta deitu eta bilaketa emaitzetan egoera hobetzea da. Profila beterik badaukazu, ikasle gehiagok egingo dizkizute konbertsazio eskaerak.</value>
   </data>
+  <data name="HelpCompleteProfile2" xml:space="preserve">
+    <value>Zure profileko eta azaleko argazkia igo ditzakezu. Zure adina, bizilekua, sexua eta zutaz hitz egiten duten hitz batzuk era sartu beharko zenituzke.</value>
+  </data>
+  <data name="HelpCompleteProfile3" xml:space="preserve">
+    <value>Ikasi eta irakatsi nahi dituzun hizkuntzak ere sartu beharra daukazu. Hizkuntza bat geitzen duzunean, zure maila zein den aukeratu behar duzu:</value>
+  </data>
   <data name="HelpCompleteProfileTitle" xml:space="preserve">
     <value>Zergatik bete behar duzun zure profila</value>
   </data>
@@ -353,6 +371,12 @@
   </data>
   <data name="HelpSetAvailability12" xml:space="preserve">
     <value>Nola ezabatu dezaket bloke eskuragarri bat?</value>
+  </data>
+  <data name="HelpSetAvailability13" xml:space="preserve">
+    <value>Aukeratu ezabatzea nahi duzun blokea eta leiho bat irekiko zaizu blokea ezabatzeko aukerarekin.</value>
+  </data>
+  <data name="HelpSetAvailability3" xml:space="preserve">
+    <value><![CDATA[Zure ordu libreak editatzeko joan <a href="{0}" class="link"> Nire egutegia</a>-ra eta klikatu Editatu Eskuragarritasuna botoian edo joan <a href="{1}" class="link"> Editatu eskuragarritasun</a>-era eta jarritu pauso hauek:]]></value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Aukeartu zein kobertsazio motako eskariak jaso nahi dituzun, Wallet, denbora bankua edo biak aukeratuz</value>
@@ -375,14 +399,26 @@
   <data name="HelpSetRate4" xml:space="preserve">
     <value><![CDATA[Klikatu <span class="lg lg-cog"></span> botoian eta zure tarifa editatzeko leiho bat irekiko zaizu]]></value>
   </data>
+  <data name="HelpSetRate5" xml:space="preserve">
+    <value>Sartu zure ikasleei kobratzea nahi duzun orduko kreditu kopurua eta Gorde klikatu</value>
+  </data>
   <data name="HelpSetRateTitle" xml:space="preserve">
     <value>Nola definitu dezaket nire tarifa?</value>
   </data>
   <data name="HelpHowMeetPartners10" xml:space="preserve">
     <value>Nola apuntatu naiteke bilera batean?</value>
   </data>
+  <data name="HelpHowMeetPartners3" xml:space="preserve">
+    <value><![CDATA[Errebisatu zure <a href="{0}" class="link applnk"> Egutegia</a> antolatu diren bilerak ikusteko. Bileraren batera joateko libre bazaude, apuntatu zaitez. Bestela, nahi duzun egun eta orduan bat sortu dezakezu]]></value>
+  </data>
+  <data name="HelpHowMeetPartners4" xml:space="preserve">
+    <value>Bilera bateta apuntatzen zerenean, gertakari hori zure egutegira geituko da</value>
+  </data>
   <data name="HelpHowMeetPartners5" xml:space="preserve">
     <value>Nola antolatu dezaket bilera berri bat?</value>
+  </data>
+  <data name="HelpHowMeetPartners6" xml:space="preserve">
+    <value><![CDATA[Bilera bat antolatzeko joan <a href="{0}" class="link applnk"> Nire egutegira</a> eta klikatu Bilera Berria-n, edo joan zuzenean <a href="{1}" class="link applnk">Bilera Berria</a>-ra eta jarraitu hurrengo pausoak:]]></value>
   </data>
   <data name="HelpHowMeetPartners9" xml:space="preserve">
     <value>Klik egin Gorde-n</value>
@@ -395,5 +431,35 @@
   </data>
   <data name="HelpMeetupsTitle" xml:space="preserve">
     <value>Bilerak</value>
+  </data>
+  <data name="HelpHowToCallTitle" xml:space="preserve">
+    <value>Nola egin bideo dei bat</value>
+  </data>
+  <data name="HelpWCIntro5" xml:space="preserve">
+    <value>Zure wallet kontua kudeatu dezakezu {0} aplikaziotik</value>
+  </data>
+  <data name="HelpMWTTitle" xml:space="preserve">
+    <value>Nire Walleteko trantsakzioak</value>
+  </data>
+  <data name="HelpInvoicesTitle" xml:space="preserve">
+    <value>Langademyko fakturak</value>
+  </data>
+  <data name="HelpPurchaseCredits6" xml:space="preserve">
+    <value>Erosketa berresten duzunean, zure walleteko saldoa eguneratuko da Langademyuko kredituak erabili ahal izango dituzu</value>
+  </data>
+  <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
+    <value>Erosi kredituak</value>
+  </data>
+  <data name="HelpInvoices1" xml:space="preserve">
+    <value>Aukeratu Fakturak Nire Walleteko menu nagusian zure Langademyko fakturak kontsultatzeko</value>
+  </data>
+  <data name="HelpInvoices4" xml:space="preserve">
+    <value>Hileko faktura bat emititzen denean, zure Wallet kontutik kobratuko zaizu, eta inoiz ez zure PayPal edo kreditu txarteletik.</value>
+  </data>
+  <data name="HelpTimeBankApp3" xml:space="preserve">
+    <value>Denbora bankuko dei bakoitzak saldoa geitu edo kenduko dizu {0}-en arabera</value>
+  </data>
+  <data name="HelpTimeBankAppTitle" xml:space="preserve">
+    <value>Denbora Bankua</value>
   </data>
 </root>
