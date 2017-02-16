@@ -61,15 +61,6 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to help/billing-info.
-        /// </summary>
-        public static string billing_info {
-            get {
-                return ResourceManager.GetString("billing-info", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to language/{selectedCulture}/.
         /// </summary>
         public static string bloglanguage {
@@ -120,6 +111,15 @@ namespace Resources.Routes {
         public static string help_invoices {
             get {
                 return ResourceManager.GetString("help-invoices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/invoicing-data.
+        /// </summary>
+        public static string help_invoicing_data {
+            get {
+                return ResourceManager.GetString("help-invoicing-data", resourceCulture);
             }
         }
         
