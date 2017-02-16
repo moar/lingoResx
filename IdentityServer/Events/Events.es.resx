@@ -121,7 +121,7 @@
     <value>Permisos revocados</value>
   </data>
   <data name="CspReport" xml:space="preserve">
-    <value>Reporte de la política de seguridad del contenido (CSP)</value>
+    <value>Informe de política de seguridad de contenido (CSP)</value>
   </data>
   <data name="ExternalLoginError" xml:space="preserve">
     <value>Error de Inicio de Sesión Externo</value>

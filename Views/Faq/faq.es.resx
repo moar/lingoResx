@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <!--Microsoft ResX Schema 
+  <!-- 
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -56,26 +57,8 @@
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element msdata:IsDataSet="true" name="root">
@@ -138,31 +121,31 @@
     <value>La lista de salas solo muestra los idiomas que has añadido en tu perfil. Si quieres aprender otros idiomas o acceder a salas de otros idiomas, tienes que añadir esos idiomas a tu perfil</value>
   </data>
   <data name="Answer2" xml:space="preserve">
-    <value><![CDATA[La principal manera de conseguir tiempo para tu cuenta es enseñando tu idioma nativo a otros usuarios. Puedes ir a la sala de uno de tus idiomas nativos o puedes realizar videollamadas privadas con tus contactos. <br/> También puedes conseguir tiempo si invitas a tus amigos a Langademy o si nos sigues en Twitter y Facebook  ]]></value>
+    <value><![CDATA[La forma principal de conseguir tiempo para tu cuenta es hablando en tu idioma nativo con otros estudiantes. Puedes hacer videollamadas privadas con tus contactos, o con estudiantes que te soliciten conversaciones privadas, o conocer gente en la sala de chat de alguno de tus idiomas nativos. <br/> También puedes conseguir tiempo si invitas a tus amigos a Langademy o si nos sigues en Twitter y Facebook  ]]></value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>Si accedes a una sala de chat y está vacía, puedes ver si existe alguna quedada en el tablón de quedadas. Si no hay ninguna quedada, puedes crear tus propias quedadas. Solo tienes que seleccionar el idioma, la fecha y la hora de tu quedada</value>
+    <value>Deberías organizar tus propias quedadas. Sólo tienes que seleccionar el idioma y la fecha y hora de la quedada. Ve a tu Calendario y haz clic en Nueva Quedada en la página principal</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Sí. Accede a  Configuración =&gt; Privacidad, y habilita la opción "Permitir solo las solicitudes de contacto de la gente con la que has hablado"</value>
   </data>
   <data name="Answer5" xml:space="preserve">
-    <value>Todas las quedadas tienen lugar en las salas de chat. Para acceder a una quedada, puedes ir al panel derecho y seleccionar la sala de la quedada. También puedes entrar en el tablón de quedadas, seleccionar la quedada y acceder directamente a la sala cuando se acerque la hora de la quedada</value>
+    <value>Todas las quedadas tienen lugar en las salas de chat. Para acceder a una quedada, puedes ir al Panel de control -&gt; salas de chat y seleccionar la sala de la quedada. También puedes entrar en tu Calendario, seleccionar la quedada y acceder directamente a la sala cuando se acerque la hora de la quedada</value>
   </data>
   <data name="Answer6" xml:space="preserve">
     <value>No, y no tienes que instalar ningún complemento adicional para hacer videollamadas en Langademy</value>
   </data>
   <data name="Answer7" xml:space="preserve">
-    <value>No tienes que pagar nada para usar Langademy. Usamos una política de banco de tiempo. El tiempo que utilices para hablar en tus idiomas nativos será añadido a tu cuenta para que lo utilices para aprender los idiomas que quieras.</value>
+    <value>Langademy es gratis si decides hacer videollamadas de banco de tiempo. El tiempo que dediques a hablar en tus idiomas nativos se suma a tu cuenta para que lo utilices para aprender otros idiomas. Si no tienes tiempo para hacerlo así, puedes pagar a los nativos por tener conversaciones privadas. Ve a la sección Wallet en la página de ayuda de Langademy para más información. </value>
   </data>
   <data name="Answer8" xml:space="preserve">
-    <value>Cuando estés dentro de una sala, tienes la opción de mandar una solicitud de conexión a tus compañeros, y recuerda que puedes consultar tu histórico de llamadas en tu app de Banco del Tiempo. Una vez que estéis conectados, podréis enviaros mensajes privados y realizar videollamadas privadas entre vosotros</value>
+    <value>Cuando estás en una sala de chat, tienes la opción de mandar una solicitud de contacto a tus compañeros. Recuerda que puedes consultar tu histórico de llamadas en el Panel de Control. Una vez que seais contactos, podréis enviaros mensajes privados y hacer videollamadas privadas entre vosotros</value>
   </data>
   <data name="Answer9" xml:space="preserve">
     <value>Langademy ofrece salas de casi todos los idiomas del mundo. No dudes en contactarnos si echas de menos algún idioma</value>
   </data>
   <data name="Question1" xml:space="preserve">
-    <value>¿Por qué puedo acceder solo a algunas salas de idiomas?</value>
+    <value>¿Por qué aparecen sólo algunos idiomas en la lista de salas de chat?</value>
   </data>
   <data name="Question2" xml:space="preserve">
     <value>¿Cómo puedo conseguir más tiempo para mi cuenta?</value>

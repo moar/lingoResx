@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -136,7 +136,7 @@
     <value>The chat rooms are the place where you can go to exchange languages with a native. Select a room in your right panel and start practicing your favourite language! Remember that you can check the meetup board to know when the chat room meetups take place.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
-    <value>Time banking is a way to make language exchange fair for everyone at Langademy. It means that if you make a timebanking video call with a native speaker, you must contribute the same time speaking in your native language, with the same or other students. Langademy records video call durations so you don't have to worry about the math. Just watch your time balance ({0}) to decide if you need to schedule video calls in your native language and increase your time balance. This is how timebanking works:</value>
+    <value>Time banking founds the mechanics that assures that language exchanges are fair for everyone at Langademy. It means that if you make a timebanking video call with a native speaker, you must contribute the same time speaking in your native language, with the same or other students. Langademy records video call durations so you don't have to worry about the math. Just watch your time balance ({0}) to decide if you need to schedule video calls in your native language and increase your time balance. This is how timebanking works:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
     <value>When you sign up at Langademy you begin with 30 minutes in your Time Bank account so you can practice the language you want.</value>
@@ -148,7 +148,7 @@
     <value>Invite your friends and you will get 30 extra minutes for each friend that signs up with your invitation. You can also earn hours for your Time Bank account  by following Langademy on Twitter and Facebook (+ 30 minutes).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>When you make a timebanking video call ({0}) in a language that is not your native language, you spend time from your Time Bank account. If you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time in your account.</value>
+    <value>When you make a timebanking video call ({0}) in a language that is not your native language, you spend time from your Time Bank account. However, if you make a video call to a non-native in your native language (minimum level: C2), the call time will be added to your account.</value>
   </data>
   <data name="TimeBankF5" xml:space="preserve">
     <value>Calls that are shorter than a minute will neither add or subtract time from your account</value>
@@ -182,9 +182,6 @@
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
     <value>If you want to earn money making wallet video calls in your native language, you have to meet some requirements.</value>
-  </data>
-  <data name="HelpNativesSent2" xml:space="preserve">
-    <value />
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
     <value>You need to have a minimum number of up votes in a language if you want to set a rate for that language. Make free wallet video calls or time banking calls with other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to set your rate for that language.</value>
@@ -250,13 +247,13 @@
     <value>When you meet new partners in a room, you can send them a connection request. Once you are connected, you will be able to make video calls without entering the rooms.</value>
   </data>
   <data name="HelpTBIntro1" xml:space="preserve">
-    <value>Time Banking provides a way to learn languages without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account. Check the Time Banking rules ({0}).</value>
+    <value>Time Banking allows yo to learn languages in Langademy without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account so you can use it making video calls in other languages. Check the Time Banking rules ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
     <value>In your home page, you can check your Time Banking account balance, and if you go to the {0} app you will see the history and details of your Time Banking account.</value>
   </data>
   <data name="HelpChatRooms1" xml:space="preserve">
-    <value>Chat rooms are the place where you can meet groups of conversation partners, both natives and students. First of all you have to add in your profile the languages you are interested on. Otherwise you will not have access to the chat room. Once done, go to the control panel, click &lt;span class="lg lg-chatrooms"&gt;&lt;/span&gt; and select the language chat room to open it.</value>
+    <value><![CDATA[Chat rooms are the place where you can meet groups of conversation partners, both natives and students. First of all you have to add in your profile the languages you are interested on. Otherwise you will not have access to the chat room. Once done, go to the control panel, click <span class="lg lg-chatrooms"></span> and select the language chat room to open it.]]></value>
   </data>
   <data name="HelpChatRooms4" xml:space="preserve">
     <value>Users: It contains the list of online users. Click the users on the list to open a menu with these options: send a contact request, start a video call, and report or block the user.</value>
@@ -274,7 +271,7 @@
     <value>You can go to the Meetup Board from your chat room or from your home page. Once there, you will see all the meetups that are scheduled in the languages that you have in your profile. If you want to create a new meetup, select a language, day and time of the meetup and create the meetup. Once a meetup is created, you can invite your Langademy contacts to it.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
-    <value>Langademy charges native speakers 13% (+ taxes) of the amount that they charge students per videocall. Once a wallet video call is finished,  users' available credit balance is updated. (You can watch your available balance at {0}) ( {1})</value>
+    <value>Langademy charges native speakers 13% (+ taxes) of the amount that they charge students per Wallet video call. Once the video call is finished,  users' available credit balance is updated. (You can watch your available balance at {0}) ( {1})</value>
   </data>
   <data name="HelpWalletFees2" xml:space="preserve">
     <value>The Available Credits Balance represents the current amount of credits that you can spend. In order to understand how it is calculated, several terms need to be explained:</value>
@@ -283,7 +280,7 @@
     <value>Total Balance: it shows the total amount of credits before the 13% fee is applied to it.</value>
   </data>
   <data name="HelpWalletFees4" xml:space="preserve">
-    <value>Langademy fee: at the end of the month, Langademy collects a 13% fee to the conversations of the native speakers. This fee is reflected on the next invoice ({0}). The fee is not taken from the native’s account until the invoice is issued, however you cannot spend this amount either.</value>
+    <value>Langademy fee: at the end of the month, Langademy collects a 13% fee to the conversations of the native speakers. This fee is reflected on the next invoice ({0}). Although the fee is not taken from the native’s account until the invoice is issued, this amount is withheld and you cannot spend it either.</value>
   </data>
   <data name="HelpWalletFees5" xml:space="preserve">
     <value>Pending withdrawal requests: If a credit withdrawal is requested, the amount of credits that has been requested won't be available to spend it.</value>
@@ -329,10 +326,10 @@
     <value>Complete the billing address: Go to My Wallet and complete the billing address.</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
-    <value>&lt;span class="lg lg-wallet"&gt;&lt;/span&gt; My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, invoicing history and add or edit your invoicing data. You can also purchase credits an request credit withdrawals from My Wallet.</value>
+    <value><![CDATA[<span class="lg lg-wallet"></span> My Wallet is the app where you can manage your finances at Langademy. In this app you can check your transactions, invoicing history and add or edit your invoicing data. You can also purchase credits an request credit withdrawals from My Wallet.]]></value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>You can open My Wallet app clicking the Apps button &lt;span class="lg lg-apps"&gt;&lt;/span&gt; at the Control Panel and selecting the My Wallet button &lt;span class="lg lg-wallet"&gt;&lt;/span&gt; </value>
+    <value><![CDATA[You can open My Wallet app clicking the Apps button <span class="lg lg-apps"></span> at the Control Panel and selecting the My Wallet button <span class="lg lg-wallet"></span> ]]></value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Langademy Help</value>
@@ -389,7 +386,7 @@
     <value>Keeping your availability updated will help you to organize your time as a native speaker and you will avoid the frustration of dealing with contact requests when you're not looking to speak with students. Take into account that if you do not set your availability, you will only be able to make videocalls with your contact list or with other students at the chat rooms</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value>To set your availability go to &lt;a href="{0}" class="link"&gt;My calendar&lt;/a&gt; and click Edit Availability at the top, or go directly to &lt;a href="{1}" class="link"&gt;Edit availability&lt;/a&gt; and follow these steps:</value>
+    <value><![CDATA[To set your availability go to <a href="{0}" class="link">My calendar</a> and click Edit Availability at the top, or go directly to <a href="{1}" class="link">Edit availability</a> and follow these steps:]]></value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Select the type of conversation you want to receive requests for by clicking Wallet, Time banking or Both</value>
@@ -413,7 +410,7 @@
     <value>Set your availability</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value>Once you meet the &lt;a href="{0}" class="help link"&gt;requirements&lt;/a&gt;, you can set your rate for charging students for private conversations. To do so, follow the next steps:</value>
+    <value><![CDATA[Once you meet the <a href="{0}" class="help link">requirements</a>, you can set your rate for charging students for private conversations. To do so, follow the next steps:]]></value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Open your state panel by clicking on your photo  on the top right side of your home screen</value>
@@ -422,7 +419,7 @@
     <value>Go to the Wallet section of the State Panel and look for the language you want to set a rate for</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value>Click on the &lt;span class="lg lg-cog"&gt;&lt;/span&gt; button and the dialog for updating the rate will be shown</value>
+    <value><![CDATA[Click on the <span class="lg lg-cog"></span> button and the dialog for updating the rate will be shown]]></value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Set the amount of credits per hour that you want to charge students and click Save</value>
@@ -446,7 +443,7 @@
     <value>Meetups are the way you can let everybody know in advance when you will be online in a chat room.  This way, students and other native speakers can join you at the same time. Indeed, you can enter a chat room whenever you want but, let's be honest. It's easier to bring together a larger group of people if you schedule an event in advance. </value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value>Check your &lt;a href="{0}" class="link applnk"&gt;Calendar&lt;/a&gt; to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one.</value>
+    <value><![CDATA[Check your <a href="{0}" class="link applnk">Calendar</a> to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one.]]></value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>When you join a meet up, the event will be added to your calendar and you will be able to write on the message board and propose conversation topics. </value>
@@ -455,7 +452,7 @@
     <value>How do I schedule a new meetup?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value>To schedule a new meetup go to &lt;a href="{0}" class="link applnk"&gt;My calendar&lt;/a&gt; and click New Meetup on the top side, or go directly to &lt;a href="{1}" class="link applnk"&gt;New meetup&lt;/a&gt; and follow these steps:</value>
+    <value><![CDATA[To schedule a new meetup go to <a href="{0}" class="link applnk">My calendar</a> and click New Meetup on the top side, or go directly to <a href="{1}" class="link applnk">New meetup</a> and follow these steps:]]></value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Select the language of the meetup. Participants will attend the meetup at the chat room of that language.</value>
@@ -473,7 +470,7 @@
     <value>When you visit the profile of any user that wants to make language exchanges or just help students practice in exchange of credits, you will see their availability calendars.</value>
   </data>
   <data name="HelpHowRequestConversation2" xml:space="preserve">
-    <value>If you want to request a private conversation, click Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select a conversation language (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available time range. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yellow blocks mean that the user accepts both. Note that you cannot make a reservation longer than 2 hours. </value>
+    <value>If you want to request a private conversation, click Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select a conversation language (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available block. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yellow blocks mean that the user accepts both. Note that you cannot make a reservation longer than 2 hours. </value>
   </data>
   <data name="HelpHowRequestConversation3" xml:space="preserve">
     <value>If the user hasn't available hours you will have the option to be notified when he/she is available. Just click the warning button on top of the calendar if you want to receive it. </value>
@@ -482,7 +479,7 @@
     <value>How do I know if a native accepts my request?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value>You can track the status of your requests in your &lt;a href="{0}" class="link applnk"&gt;Calendar&lt;/a&gt;. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. </value>
+    <value><![CDATA[You can track the status of your requests in your <a href="{0}" class="link applnk">Calendar</a>. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. ]]></value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Furthermore, when the native accepts your request you will be notified and a new event will be added to your calendar.</value>
@@ -491,7 +488,7 @@
     <value>What do I have to do at the time of the conversation?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value>Go to the call panel &lt;span class="lg lg-call"&gt;&lt;/span&gt; and select the Private Conversations Tab &lt;span class="lg lg-calendar"&gt;&lt;/span&gt;. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. </value>
+    <value><![CDATA[Go to the call panel <span class="lg lg-call"></span> and select the Private Conversations Tab <span class="lg lg-calendar"></span>. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. ]]></value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>When you already are in the videoapp you will see when your partner is online, and in the meantime you can write in your private chat to make your partner aware of you being there.</value>
@@ -539,7 +536,7 @@
     <value>Meetup topics: During a meetup it will contain the list of conversation topics proposed by the participants</value>
   </data>
   <data name="HelpHowToCall1" xml:space="preserve">
-    <value>Starting a call in Langademy is easy. Just find the  &lt;span class="lg lg-call"&gt;&lt;/span&gt; symbol when you want to make  call. Click it to show the call menu to choose the language of the conversation and the call type (&lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; time banking or &lt;span class="lg lg-wallet"&gt;&lt;/span&gt; wallet). In case of wallet calls, the rate you will be charged is showed next to the language. </value>
+    <value><![CDATA[Starting a call in Langademy is easy. Just find the  <span class="lg lg-call"></span> symbol when you want to make  call. Click it to show the call menu to choose the language of the conversation and the call type (<span class="lg lg-time-bag"></span> time banking or <span class="lg lg-wallet"></span> wallet). In case of wallet calls, the rate you will be charged is showed next to the language. ]]></value>
   </data>
   <data name="HelpHowToCall2" xml:space="preserve">
     <value>Note that the language that you choose when you call determines whether you are acting as a native speaker or as a student, and whether the call is paid with time or credits. Therefore, your time or wallet balance will be updated consequently, so pay attention when you make a call. </value>
@@ -551,7 +548,7 @@
     <value>Call from the control panel</value>
   </data>
   <data name="HelpHowToCall41" xml:space="preserve">
-    <value>Click the &lt;span class="lg lg-call"&gt;&lt;/span&gt; tab of the Control Panel to open the Call panel. There, you can select any of the following tabs:  </value>
+    <value><![CDATA[Click the <span class="lg lg-call"></span> tab of the Control Panel to open the Call panel. There, you can select any of the following tabs:  ]]></value>
   </data>
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Online contacts: List of contacts currently online</value>
@@ -632,10 +629,10 @@
     <value>Enter the amount of credits you want to purchase.</value>
   </data>
   <data name="HelpPurchaseCredits3" xml:space="preserve">
-    <value>1 Langademy credit &lt;span class="credit"&gt;€&lt;/span&gt; = 1 EURO €</value>
+    <value><![CDATA[1 Langademy credit <span class="credit">€</span> = 1 EURO €]]></value>
   </data>
   <data name="HelpPurchaseCredits4" xml:space="preserve">
-    <value>Check the minimum credits purchase, which depends on the payment method you select. If your localization is available and your country's local currency is not Euro, you may see the estimated conversion to your currency. Note that this conversion is only informative since the final exchange rate is applied by the banking entities.</value>
+    <value>Check the minimum credits purchase, which depends on the payment method you select. If your location is available and your country's local currency is not Euro, you may see the estimated conversion to your currency. Note that this conversion is only informative since the final exchange rate is applied by the banking entities.</value>
   </data>
   <data name="HelpPurchaseCredits5" xml:space="preserve">
     <value>Select the payment method and follow the steps on screen. You will be redirected to the secure payment gateway to complete the payment</value>
@@ -650,7 +647,7 @@
     <value>Select Invoices at My Wallet's main menu to open the Langademy invoices page.</value>
   </data>
   <data name="HelpInvoices2" xml:space="preserve">
-    <value>At this page you can find the invoices issued by Langademy monthly. Note that Langademy only issues an invoice if you have chargeable transactions for the period ({0}). Also note that these invoices only include the Langademy fees for our service, but not student transactions charged by native speakers or teachers. </value>
+    <value>At this page you can find the invoices issued by Langademy monthly. Note that Langademy only issues an invoice if you have chargeable transactions for the period ({0}). Also note that these invoices only include the Langademy fees for our service, but not payments as a student to native speakers or teachers. </value>
   </data>
   <data name="HelpInvoices3" xml:space="preserve">
     <value>Before the monthly invoice is issued you can track your monthly expenses going to {0} and checking the Langademy fee.</value>
@@ -659,13 +656,13 @@
     <value>After a monthly invoice is issued, it will be collected from your wallet account, but never from your credit card or Paypal account.</value>
   </data>
   <data name="HelpInvoices5" xml:space="preserve">
-    <value>When a monthly invoice is collected you will have a new transaction in your wallet transaction history and the partial Langademy fee will be updated.</value>
+    <value>When a monthly invoice is collected you will have a new transaction in your Wallet transaction history and the monthly Langademy fee will be updated.</value>
   </data>
   <data name="HelpTimeBankApp1" xml:space="preserve">
     <value>The Time Bank is the app where you can track your timebanking video call history and watch your time balance.</value>
   </data>
   <data name="HelpTimeBankApp2" xml:space="preserve">
-    <value>You can open the Time Bank clicking the Apps button &lt;span class="lg lg-apps"&gt;&lt;/span&gt; at the Control Panel and selecting the Time Bank button &lt;span class="lg lg-time-bag"&gt;&lt;/span&gt;</value>
+    <value><![CDATA[You can open the Time Bank clicking the Apps button <span class="lg lg-apps"></span> at the Control Panel and selecting the Time Bank button <span class="lg lg-time-bag"></span>]]></value>
   </data>
   <data name="HelpTimeBankApp3" xml:space="preserve">
     <value>Each timebanking call will add or subtract time to your time balance according to {0}</value>

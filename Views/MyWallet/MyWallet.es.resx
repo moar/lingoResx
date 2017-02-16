@@ -169,7 +169,7 @@
     <value>Dirección (línea 2)</value>
   </data>
   <data name="MWCantSaveAddress" xml:space="preserve">
-    <value>No podemos guardar tu dirección porque los impuestos de el lugar donde te encuentras y los impuestos de tu dirección de facturación no coinciden</value>
+    <value>No podemos guardar tu dirección porque los impuestos del lugar donde te encuentras y los impuestos de tu dirección de facturación no coinciden</value>
   </data>
   <data name="MWCity" xml:space="preserve">
     <value>Ciudad</value>
@@ -358,7 +358,7 @@
     <value>Cuenta PayPal</value>
   </data>
   <data name="CShopBillInfo" xml:space="preserve">
-    <value>Información de facturación</value>
+    <value>Datos de facturación</value>
   </data>
   <data name="CShopBills" xml:space="preserve">
     <value>Facturas</value>
@@ -412,13 +412,13 @@
     <value>Introduce la cantidad del reintegro</value>
   </data>
   <data name="ReqCashoutMethodConfirm" xml:space="preserve">
-    <value>Confirma el método para el reintegro o</value>
+    <value>Confirma el método de reintegro o</value>
   </data>
   <data name="ReqCashoutNewBal" xml:space="preserve">
     <value>Nuevo saldo</value>
   </data>
   <data name="ReqCashoutNote" xml:space="preserve">
-    <value>Nota: Las peticiones de reintegros se procesan una vez a la semana. Puedes seguir el estado de tus peticiones en la sección Reintegros -&gt; Histórico</value>
+    <value>Nota: Las solicitudes de reintegros se procesan dos veces al mes. Puedes seguir el estado de tu solicitud en la sección Reintegros -&gt; Histórico</value>
   </data>
   <data name="ReqCashoutPaypalAccount" xml:space="preserve">
     <value>Cuenta Paypal</value>
@@ -445,13 +445,13 @@
     <value>TOTAL SALDO</value>
   </data>
   <data name="MWMovementInfo" xml:space="preserve">
-    <value>Al final de mes Langademy te cobrará una comisión por las conversaciones que has mantenido como nativo. Verás reflejada está comisión en la siguiente factura. No se te quitará la comisión de tu cuenta hasta que emitamos la siguiente factura, pero tampoco podrás usar ese saldo retenido para realizar otras compras. Además, si has solicitado un reintegro, la cantidad solicitada tampoco podrá ser utilizada para realizar compras. </value>
+    <value>A fin de mes Langademy te cobrará una comisión por las videollamadas Wallet que hayas mantenido como nativo. No se cobrará la comisión de tu cuenta hasta que emitamos la siguiente factura, pero esa cantidad quedará retenida y no la podrás gastar. Además, si has solicitado un reintegro, tampoco podrás gastar la cantidad solicitada. </value>
   </data>
   <data name="CashoutCreatePW" xml:space="preserve">
     <value>Crear</value>
   </data>
   <data name="CashoutCreatePWSent" xml:space="preserve">
-    <value>No tienes una cuenta local. Necesitas crear una contraseña para tu cuenta si quieres editar tus datos de facturación</value>
+    <value>No tienes una cuenta local de Langademy. Necesitas crear una contraseña para tu cuenta si quieres editar tus datos de facturación</value>
   </data>
   <data name="CashOutPanAmount" xml:space="preserve">
     <value>Cantidad</value>
@@ -517,7 +517,7 @@
     <value>Cantidad máxima de retirada</value>
   </data>
   <data name="WalletMaxWithdrawal" xml:space="preserve">
-    <value>La cantidad máxima para una retirada son {0} créditos</value>
+    <value>La cantidad máxima para una solicitud de reintegro son {0} créditos</value>
   </data>
   <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
     <value>Las solicitudes de retirada de créditos no están permitidas durante una videollamada</value>

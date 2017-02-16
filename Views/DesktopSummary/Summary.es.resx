@@ -189,6 +189,9 @@
   <data name="TipSearchAndRequestHelp" xml:space="preserve">
     <value>¿Cómo puedo solicitar una conversación privada?</value>
   </data>
+  <data name="TipWalletBalanceRunout" xml:space="preserve">
+    <value>Has planificado una conversación de pago pero no tienes créditos suficientes en tu cuenta Wallet. Por favor, compra créditos antes de la hora de la conversación o no podrás llamar</value>
+  </data>
   <data name="TipWalletBalanceRunoutAux" xml:space="preserve">
     <value>Comprar créditos</value>
   </data>

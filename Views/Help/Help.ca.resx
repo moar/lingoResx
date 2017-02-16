@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -178,7 +178,7 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpLearnersTitle" xml:space="preserve">
     <value>Estudiants: com començar</value>
   </data>
-  <data name="HelpNativesFeeTitle" xml:space="preserve">
+  <data name="HelpLangademyFeeTitle" xml:space="preserve">
     <value>Comissió dels natius</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
@@ -188,7 +188,7 @@ Aquest es el seu funcionament:  </value>
     <value>Per poder establir una tarifa en un idioma, has de tenir un nombre mínim de vots positius. Per aconseguir ves a les sales chat, parla amb la gent que vol aprendre el teu idioma i guanya vots positius. Una vegada que hagis guanyat el nombre de vots que es requereixen per entrar a la sala d'un idioma, podràs establir la tarifa</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Omple les teves dades de facturació. Abans de fer una trucada Wallet, has d'omplir la teva adreça de facturació a My Wallet -&gt; Informació de facturació</value>
+    <value>Omple les teves </value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
     <value>Una volta complit aquests dos requisits, estaràs preparat per guanyar diners amb les trucades de Wallet</value>
@@ -198,9 +198,6 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="HelpTBIntroTitle" xml:space="preserve">
     <value>Introducció al Banc del Temps</value>
-  </data>
-  <data name="HelpTBRoomsTitle" xml:space="preserve">
-    <value>Ús del Banc del Temps a les vídeo trucades</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>Com funciona el Banc del Temps?</value>
@@ -251,15 +248,9 @@ Aquest es el seu funcionament:  </value>
     <value>El Banc del Temps ofereix una manera per aprendre idiomes sense que hagis de gastar diners: el temps que utilitzis per parlar en el teu idioma natiu amb els estudiants serà afegit al teu compte de Banc del Temps. Mira les regles del Banc del Temps ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>A la teva pàgina d'inici podràs veure el saldo del compte del Banc del Temps. Si accedeixes a l'aplicació de la teva Banc del Temps podràs consultar l'històric i els detalls dels teus moviments al Banc del Temps</value>
+    <value>A la teva pàgina d'inici podràs veure el saldo del compte del Banc del Temps. Si accedeixes a l'aplicació de la teva Banc del Temps podràs consultar l'històric i els detalls dels teus moviments al Banc del Temps.</value>
   </data>
-  <data name="HelpTBRooms1" xml:space="preserve">
-    <value>Les sales de xat són el lloc on trobaràs companys d'intercanvi d'idiomes. En aquestes sales podràs xatejar i realitzar trucades de Banc del Temps (veure {0}).</value>
-  </data>
-  <data name="HelpTBRooms2" xml:space="preserve">
-    <value>Pots consultar que usuaris estan en línia al panell esquerre. Si cliques en l'usuari, veuràs les diferents opcions de cada usuari: pots afegir com a companys, fer videotrucades o reportar o bloquejar si t'han causat algun problema</value>
-  </data>
-  <data name="HelpTBRooms3" xml:space="preserve">
+  <data name="HelpChatRooms7" xml:space="preserve">
     <value>Si l'habitació és buida o no hi ha cap activitat en aquest moment, pots crear quedades perquè la resta d'usuaris vegin quan estaràs disponible per xatejar o fer videotrucades. També pots unir-te a les quedades que altres usuaris han creat.</value>
   </data>
   <data name="HelpTBRooms4" xml:space="preserve">
@@ -298,9 +289,6 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpWalletWithdrawal2" xml:space="preserve">
     <value>Els reintegraments es processen cada 15 dies. Si vols, pots editar el nombre de crèdits que hagis sol·licitat abans que el reintegrament hagi estat processat. Si ja has fet una sol·licitud, no podràs fer una altra sol·licitud fins que l'anterior sol·licitud hagi estat processada</value>
   </data>
-  <data name="HelpWCR1" xml:space="preserve">
-    <value>Les sales de xat són el punt de trobada dels parlant natius i els estudiants. En aquestes sales els estudiants poden fer trucades amb els parlants natius. Cada natiu té la seva tarifa, que serà aplicada quan es faci una videotrucada. Durant la trucada, el cost de la trucada s'anirà actualitzant cada minut, de manera que els parlants natius només pagaran pel nombre de minuts que parlin. En cada trucada, hi haurà un període de prova de 3 minuts, en què l'estudiant podrà decidir si vol continuar amb la trucada abans que comenci a pagar.</value>
-  </data>
   <data name="HelpWCR2" xml:space="preserve">
     <value>Requisits per fer trucades Wallet</value>
   </data>
@@ -330,9 +318,6 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
     <value>Si has entrat en Langademy per aprendre idiomes, ves a les sales de xat i revisa les seves tarifes i reputacions</value>
-  </data>
-  <data name="HelpWalletIntro3" xml:space="preserve">
-    <value>Si vols guanyar diners mentre parles amb estudiants de la teva llengua materna, hauràs de millorar la teva reputació. Per a això hauràs de realitzar trucades amb una tarifa de 0 crèdits o fent trucades amb del banc de temps.</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Ajuda de Langademy</value>
@@ -389,7 +374,7 @@ Aquest es el seu funcionament:  </value>
     <value>Mantenir la teva disponibilitat actualitzada t'ajudarà a organitzar el teu temps com a parlant natiu i evitaràs haver de rebre sol·licituds de contacte quan no vulguis parlar amb estudiants. Tingues en compte que si no defineixes la teva disponibilitat, només podràs fer videotrucades amb la teva llista de contactes o amb els estudiants que trobis a les sales de xat.</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value>Per definir la teva disponibilitat ves a &lt;a0&gt; El meu calendari &lt;/ a0&gt; i clica Edita Disponibilitat a la part superior, o ves directament a &lt;a1&gt; Edita disponibilitat &lt;/ a1&gt; i segueix aquests passos:</value>
+    <value><![CDATA[Per definir la teva disponibilitat ves a <a0> El meu calendari </ a0> i clica Edita Disponibilitat a la part superior, o ves directament a <a1> Edita disponibilitat </ a1> i segueix aquests passos:]]></value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Tria el tipus de conversa que vols rebre, clicant Wallet, Banc de Temps o totes dos</value>
@@ -413,7 +398,7 @@ Aquest es el seu funcionament:  </value>
     <value>Edita la teva disponibilitat</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value>Una vegada que compleixis els &lt;a0&gt; requisits &lt;/ a0&gt;, podràs definir una tarifa per cobrar als teus alumnes per mantenir converses. Per a això, segueix aquests passos:</value>
+    <value><![CDATA[Una vegada que compleixis els <a0> requisits </ a0>, podràs definir una tarifa per cobrar als teus alumnes per mantenir converses. Per a això, segueix aquests passos:]]></value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Obre el teu panell d'estat clicant a la teva foto de perfil a la part superior dreta de la pàgina d'inici</value>
@@ -422,7 +407,7 @@ Aquest es el seu funcionament:  </value>
     <value>Aneu a la secció Wallet del teu tauler d'estat i busca l'idioma per al qual vols establir una tarifa</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value>Fes clic al botó &lt;span0&gt; &lt;/ span0&gt; i se't mostrarà una finestra perquè actualitzis la teva tarifa</value>
+    <value><![CDATA[Fes clic al botó <span0> </ span0> i se't mostrarà una finestra perquè actualitzis la teva tarifa]]></value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Estableix el nombre de crèdits per hora que vols cobrar als teus estudiants i guarda els canvis</value>
@@ -446,7 +431,7 @@ Aquest es el seu funcionament:  </value>
     <value>Les quedades són la manera perquè altres companys sàpiguen amb temps quan vas a estar en una sala de xat. D'aquesta manera, els estudiants i altres parlants natius podran unir-se a tu a la mateixa hora. De fet, pots entrar a les sales de xat quan vulguis, però siguem honestos, és més fàcil ajuntar a gent si un esdeveniment s'organitza amb anterioritat.</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value>Revisa el teu &lt;a href="{0}" class="link applnk"&gt; Calendari&lt;/a&gt; per veure les quedades que s'han organitzat. Si hi ha alguna quedada que t'interessi, no dubtis a apuntar-te. Si no, crea una de nova.</value>
+    <value><![CDATA[Revisa el teu <a href="{0}" class="link applnk"> Calendari</a> per veure les quedades que s'han organitzat. Si hi ha alguna quedada que t'interessi, no dubtis a apuntar-te. Si no, crea una de nova.]]></value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>Quan t'apuntes a una quedada, s'afegirà un esdeveniment en el calendari. Accedeix i podràs escriure en el tauler de la quedada, també podràs proposar temes de conversa per la quedada.</value>
@@ -455,7 +440,7 @@ Aquest es el seu funcionament:  </value>
     <value>Com puc organitzar una nova quedada?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value>Per organitzar una nova quedada entra a &lt;a0&gt; El meu calendari &lt;/ a0&gt; i clica Nova Quedada a la part superior. També pots fer directament una  &lt;a1&gt; Nova Quedada &lt;/ a1&gt; i seguir els següents passos:</value>
+    <value><![CDATA[Per organitzar una nova quedada entra a <a0> El meu calendari </ a0> i clica Nova Quedada a la part superior. També pots fer directament una  <a1> Nova Quedada </ a1> i seguir els següents passos:]]></value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Selecciona l'idioma de la quedada. Els participants que assisteixin a la quedada, entraran a la sala de xat de l'idioma de la quedada.</value>
@@ -482,7 +467,7 @@ Aquest es el seu funcionament:  </value>
     <value>Com puc saber si un natiu accepta la meva sol·licitud?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value>Pots fer el seguiment de les teves sol·licituds al teu &lt;a0&gt; Calendari &lt;/ a0&gt;. Revisa el panell de sol·licituds enviades. Tria la sol·licitud que vols i veuràs els detalls d'aquesta sol·licitud. A la pantalla de detalls podràs veure si el natiu ha acceptat o ha rebutjat la teva sol·licitud i també podràs cancel·lar la sol·licitud o enviar missatges al natiu en cas que necessitis informació addicional.</value>
+    <value><![CDATA[Pots fer el seguiment de les teves sol·licituds al teu <a0> Calendari </ a0>. Revisa el panell de sol·licituds enviades. Tria la sol·licitud que vols i veuràs els detalls d'aquesta sol·licitud. A la pantalla de detalls podràs veure si el natiu ha acceptat o ha rebutjat la teva sol·licitud i també podràs cancel·lar la sol·licitud o enviar missatges al natiu en cas que necessitis informació addicional.]]></value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>A més, quan el natiu accepti la teva sol·licitud seràs notificat i se't afegirà un nou esdeveniment al teu calendari.</value>
@@ -491,7 +476,7 @@ Aquest es el seu funcionament:  </value>
     <value>Què he de fer quan sigui l'hora de la conversa?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value>Ves al panell de trucada &lt;span0&gt; &lt;/ span0&gt; i selecciona la pestanya de Converses Privades &lt;span1&gt; &lt;/ span1&gt;. Fes clic en un usuari i podràs obrir l'aplicació de videotrucades. Així mateix, pots obrir l'aplicació de vídeo des dels detalls de conversa del teu Calendari.</value>
+    <value><![CDATA[Ves al panell de trucada <span0> </ span0> i selecciona la pestanya de Converses Privades <span1> </ span1>. Fes clic en un usuari i podràs obrir l'aplicació de videotrucades. Així mateix, pots obrir l'aplicació de vídeo des dels detalls de conversa del teu Calendari.]]></value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Quan et trobis en l'aplicació de vídeo, podràs veure quan s'ha connectat teu company. Mentrestant, podràs enviar-li missatges pel vostre xat privat perquè el teu company sàpiga que li estàs esperant.</value>

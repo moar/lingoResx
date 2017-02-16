@@ -133,7 +133,7 @@
     <value>{0} ha aceptado tu solicitud de conversación</value>
   </data>
   <data name="ConversationAlert" xml:space="preserve">
-    <value>Recordatorio: hoy tienes una conversación </value>
+    <value>Recordatorio: hoy tienes planificada una conversación </value>
   </data>
   <data name="ConversationAlerts" xml:space="preserve">
     <value>Recordatorio: hoy tienes varias conversaciones</value>

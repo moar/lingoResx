@@ -201,4 +201,34 @@
   <data name="PricingDescription" xml:space="preserve">
     <value>Revisa los precios de Langademy para los hablantes nativos y los estudiantes. Únete hoy y empieza a disfrutar de nuestras ofertas.</value>
   </data>
+  <data name="SearchExchangeNatives" xml:space="preserve">
+    <value>Busca compañeros nativos para intercambios de idioma</value>
+  </data>
+  <data name="SearchExchangeNativesDesc" xml:space="preserve">
+    <value>Busca hablantes nativos para tus intercambios de idiomas y usa tu tiempo como moneda de cambio</value>
+  </data>
+  <data name="SearchPaidNatives" xml:space="preserve">
+    <value>Busca hablantes nativos</value>
+  </data>
+  <data name="SearchPaidNativesDesc" xml:space="preserve">
+    <value>Busca hablantes nativos que se adapten a tus preferencias. Revisa su experiencia, votos positivos y tarifas y solicita conversaciones privadas con ellos</value>
+  </data>
+  <data name="SearchPartners" xml:space="preserve">
+    <value>Busca compañeros de conversación - Langademy</value>
+  </data>
+  <data name="SearchPartnersDesc" xml:space="preserve">
+    <value>Busca hablantes nativos o estudiantes de idiomas en Langademy. Puedes usar tu tiempo o créditos de Langademy como moneda de cambio</value>
+  </data>
+  <data name="SearchStudents" xml:space="preserve">
+    <value>Busca estudiantes de idiomas</value>
+  </data>
+  <data name="SearchStudentsDescription" xml:space="preserve">
+    <value>Busca a tus alumnos potenciales. Edita tu disponibilidad en tu calendario para recibir solicitudes de conversaciones o crea quedadas para conocer a nuevos estudiantes.</value>
+  </data>
+  <data name="OtherLangResources" xml:space="preserve">
+    <value>Otros recursos lingüísticos</value>
+  </data>
+  <data name="OtherLanguResourcesDesc" xml:space="preserve">
+    <value>¿Quieres más aun? Visita las páginas amigas de Langademy y disfruta de más recursos que te ayudarán en tu proceso de aprendizaje del idioma</value>
+  </data>
 </root>

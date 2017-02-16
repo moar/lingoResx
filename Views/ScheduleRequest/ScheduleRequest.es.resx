@@ -127,7 +127,7 @@
     <value>Si quieres enviar una solicitud para practicar {0} tienes que incluir el idioma en tu perfil</value>
   </data>
   <data name="SchBothLegend" xml:space="preserve">
-    <value>disponible para conversación de pago y de banco de tiempo</value>
+    <value>disponible para conversaciones de pago y de banco de tiempo</value>
   </data>
   <data name="SchCheckMail" xml:space="preserve">
     <value>Quiero recibir un correo electrónico si {0} acepta mi solicitud</value>
