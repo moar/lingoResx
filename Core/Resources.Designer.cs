@@ -70,6 +70,15 @@ namespace Resources.Core {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You tried your password too many times. You have to wait a few minutes before trying again.
+        /// </summary>
+        public static string AccountLockedOut {
+            get {
+                return ResourceManager.GetString("AccountLockedOut", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You need to confirm your email address.Please check your inbox!.
         /// </summary>
         public static string ConfirmAddress {
