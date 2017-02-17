@@ -180,6 +180,9 @@
   <data name="wallet-video-calls-intro" xml:space="preserve">
     <value>laguntza/sarrera-wallet-deiak</value>
   </data>
+  <data name="wallet-langademy-fee" xml:space="preserve">
+    <value>laguntza/langademy-wallet-komisioak</value>
+  </data>
   <data name="wallet-withdrawals" xml:space="preserve">
     <value>laguntza/wallet-kredituak-atera</value>
   </data>
@@ -207,7 +210,16 @@
   <data name="help-invoicing-data" xml:space="preserve">
     <value>laguntza/datos-de-facturacion</value>
   </data>
+  <data name="my-wallet-transactions" xml:space="preserve">
+    <value>laguntza/nire-walleta-trantsakzioak</value>
+  </data>
+  <data name="purchase-credits" xml:space="preserve">
+    <value>laguntza/kreditu-erosketa</value>
+  </data>
   <data name="help-invoices" xml:space="preserve">
     <value>help/invoices</value>
+  </data>
+  <data name="help-time-bank" xml:space="preserve">
+    <value>laguntza/denbora-bankua</value>
   </data>
 </root>

@@ -211,7 +211,7 @@
     <value>Introducción a las llamadas Wallet</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
-    <value>Reintegro de créditos</value>
+    <value>Retirada de créditos</value>
   </data>
   <data name="HelpRelatedArticles" xml:space="preserve">
     <value>Artículos relacionados</value>
@@ -235,7 +235,7 @@
     <value>Buscador de compañeros automático</value>
   </data>
   <data name="HelpState7" xml:space="preserve">
-    <value>Langademy te buscará un compañero que cumpla tus preferencias y que esté disponible para conversar contigo. Cuanto se encuentre un compañero, te mostraremos una notificación preguntándote si quieres conversar con él</value>
+    <value>Langademy te buscará un compañero que cumpla tus preferencias y que esté disponible para conversar contigo. Cuanto se encuentré un compañero, te mostraremos una notificación preguntándote si quieres conversar con el compañero que te hemos encontrado</value>
   </data>
   <data name="HelpStudentIntro1" xml:space="preserve">
     <value>Los estudiantes de un idioma tienen dos opciones a la hora de practicar el idioma: pueden hacer video llamadas usando créditos de su cuenta Wallet o usando el banco de tiempo</value>
@@ -292,13 +292,13 @@
     <value>Saldo disponible = Saldo total - Comisión de Langademy - Créditos solicitados para reintegro</value>
   </data>
   <data name="HelpWalletWithdrawal1" xml:space="preserve">
-    <value>Los reintegros de créditos se pueden solicitar en My Wallet -&gt; Reintegros</value>
+    <value>La retirada de créditos se puede solicitar en My Wallet -&gt; Reintegros</value>
   </data>
   <data name="HelpWalletWithdrawal2" xml:space="preserve">
-    <value>Los reintegros se procesan cada 15 días. Si lo deseas, puedes modificar el número de créditos que hayas solicitado antes de que el reintegro haya sido procesado. Si ya has realizado una solicitud, no podrás hacer otra hasta que la anterior haya sido procesada</value>
+    <value>Los reintegros se procesan cada 15 días. Si lo deseas, puedes editar el número de créditos que hayas solicitado antes de que el reintegro haya sido procesado. Si ya has realizado una solicitud, no podrás hacer otra solicitud hasta que la anterior solicitud haya sido procesada</value>
   </data>
   <data name="HelpWCIntro1" xml:space="preserve">
-    <value>Las llamadas Wallet son para aquellos que no tienen tiempo para hacer intercambios mediante el banco de tiempo y quieren practicar idiomas con hablantes nativos</value>
+    <value>Las llamadas Wallet son para aquellos que no tienen tiempo para hacer usar su tiempo como moneda de cambio y quieren practicar idiomas con hablantes nativos</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
     <value>Requisitos para realizar llamadas Wallet</value>
@@ -367,22 +367,22 @@
     <value>Perfil Langademy</value>
   </data>
   <data name="HelpSetAvailability1" xml:space="preserve">
-    <value>Establecer la disponibilidad en tu calendario sirve para restringir las fechas y horas en las que vas a estar disponible para mantener conversaciones privadas con estudiantes. Sólo te podrán mandar solicitudes para hablar durante los bloques que marques que estarás disponible, y nunca por un periodo superior a las 2 horas. Además, también puedes restringir el tipo de conversación que vas a aceptar (banco de tiempo, conversaciones pagadas o cualquiera de las dos opciones)</value>
+    <value>Establecer la disponibilidad en tu calendario sirve para restringir las fechas y horas en las que vas a estar disponible para mantener conversaciones privadas con estudiantes. Éstos solo te podrán mandar solicitudes en las franjas disponibles que has definido, y nunca por un periodo superior a las 2 horas. Además, también puedes restringir el tipo de conversación que vas a aceptar (banco de tiempo, conversaciones pagadas o cualquiera de las dos opciones)</value>
   </data>
   <data name="HelpSetAvailability10" xml:space="preserve">
-    <value>¿Cómo puedo cambiar la hora de inicio de un bloque?</value>
+    <value>¿Cómo puedo cambiar la hora de inicio de una franja marcada como disponible?</value>
   </data>
   <data name="HelpSetAvailability11" xml:space="preserve">
-    <value>Puedes arrastrar los bloques sobre otras franjas libres. Si estás usando un dispositivo táctil, pulsa y mantén la pulsación antes de empezar a arrastrar un bloque</value>
+    <value>Puedes arrastrar los bloques sobre otros bloques libres. Si estás usando un dispositivo táctil, pulsa y mantén la pulsación antes de empezar a arrastrar un bloque</value>
   </data>
   <data name="HelpSetAvailability12" xml:space="preserve">
-    <value>¿Cómo puedo borrar un bloque?</value>
+    <value>¿Cómo puedo borrar una franja marcada como disponible?</value>
   </data>
   <data name="HelpSetAvailability13" xml:space="preserve">
     <value>Clica en el bloque que quieres eliminar y aparecerá un menú con la opción para borrarlo. Clica borrar para confirmar.</value>
   </data>
   <data name="HelpSetAvailability2" xml:space="preserve">
-    <value>Mantener tu disponibilidad actualizada te ayudará a organizar tu tiempo como nativo y evitarás recibir muchas solicitudes de contacto cuando no quieras hablar con estudiantes. Ten en cuenta que si no defines tu disponibilidad, sólo podrás hacer videollamadas con tu lista de contactos o con los estudiantes que encuentres en las salas de chat.</value>
+    <value>Mantener tu disponibilidad actualizada te ayudará a organizar tu tiempo como nativo y evitarás recibir muchas solicitudes de contacto cuando no quieras hablar con estudiantes. Ten en cuenta que si no defines tu disponibilidad, solo podrás hacer videollamadas con tu lista de contactos o con los estudiantes que encuentres en las salas de chat.</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
     <value><![CDATA[Para definir tu disponibilidad ve a <a href="{0}" class="link">Mi calendario</a> y clica Editar Disponibilidad en la parte superior, o ve directamente a <a href="{1}" class="link">Editar disponibilidad</a>  y sigue estos pasos:]]></value>
@@ -397,7 +397,7 @@
     <value>Repite los pasos anteriores para crear tantos bloques como quieras</value>
   </data>
   <data name="HelpSetAvailability7" xml:space="preserve">
-    <value>¿Cómo puedo cambiar la duración de un bloque?</value>
+    <value>¿Cómo puedo cambiar la duración de un bloque disponible?</value>
   </data>
   <data name="HelpSetAvailability8" xml:space="preserve">
     <value>Pon el puntero sobre el bloque que quieras cambiar. Verás dos pequeñas líneas al final del bloque. Clica sobre esas líneas y arrástralas para cambiar el tamaño del bloque hasta que tenga la duración que quieres.</value>
@@ -412,19 +412,19 @@
     <value><![CDATA[Una vez que cumplas los <a href="{0}" class="help link">requisitos</a>, podrás definir una tarifa para cobrar a tus alumnos por mantener conversaciones. Para ello, sigue estos pasos:]]></value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
-    <value>Abre tu panel de estado clicando en tu foto de perfil en la parte superior derecha de tu página de inicio</value>
+    <value>Abre tu panel estado clicando en tu foto de perfil en la parte superior derecha de tu página de inicio</value>
   </data>
   <data name="HelpSetRate3" xml:space="preserve">
-    <value>Ve a la sección Wallet de tu panel de estado y busca el idioma para el que quieres establecer tu tarifa</value>
+    <value>Ve a la sección Wallet de tu panel de estado y busca el idioma para el que quieres establecer una tarifa</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Clica en el botón <span class="lg lg-cog"></span> y se mostrará una ventana para que actualices tu tarifa]]></value>
+    <value><![CDATA[Clica en el botón <span class="lg lg-cog"></span> y se te mostrará una ventana para que actualices tu tarifa]]></value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Establece el número de créditos por hora que quieres cobrar a tus estudiantes y guarda los cambios</value>
   </data>
   <data name="HelpSetRate6" xml:space="preserve">
-    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán llamar en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idioma para poner tu estado Disponible / No disponible</value>
+    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán llamar en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idiomas para poner tu estado Disponible / No disponible</value>
   </data>
   <data name="HelpSetRateTitle" xml:space="preserve">
     <value>¿Cómo puedo establecer mi tarifa?</value>
@@ -472,7 +472,7 @@
     <value>Si quieres solicitar una conversación privada, clica en Solicitar una Conversación (encima del calendario) y sigue los pasos que verás en pantalla. Sólo tienes que elegir el idioma que quieres practicar (de entre los idiomas nativos del perfil), el tipo de conversación que quieres mantener (de pago o de banco de tiempo) y reservar el día y la hora de la conversación clicando encima de un bloque disponible. Los bloques verdes indican que puedes solicitar una conversación de banco de tiempo, los grises significan que puedes solicitar una conversación de pago, y los amarillos que el nativo acepta los dos tipos de conversaciones. Ten en cuenta que no puedes hacer una solicitud de una duración mayor de 2 horas. </value>
   </data>
   <data name="HelpHowRequestConversation3" xml:space="preserve">
-    <value>Si el nativo no tiene horas disponibles tendrás la opción de que te notifiquemos cuando esta persona esté disponible. Pulsa el botón que está junto al aviso que verás en la parte superior del calendario si quieres recibir la notificación.</value>
+    <value>Si el nativo no tiene horas disponibles tendrás la opción de ser notificado cuando esta persona esté disponible. Pulsa el signo de interrogación que verás en la parte superior del calendario si quieres recibir la notificación.</value>
   </data>
   <data name="HelpHowRequestConversation4" xml:space="preserve">
     <value>¿Cómo puedo saber si un nativo acepta mi solicitud?</value>
@@ -481,7 +481,7 @@
     <value><![CDATA[Puedes hacer el seguimiento de tus solicitudes en tu <a href="{0}" class="link applnk">Calendario</a>. Revisa el panel de solicitudes enviadas. Elige la solicitud que quieres y verás los detalles de esa solicitud. En la pantalla de detalles podrás ver si el nativo ha aceptado o ha rechazado tu solicitud y también podrás cancelar la solicitud o mandar mensajes al nativo en caso de que necesites información adicional.]]></value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
-    <value>Además, cuando el nativo acepte tu solicitud serás notificado y se añadirá un nuevo evento a tu calendario</value>
+    <value>Además, cuando el nativo acepte tu solicitud serás notificado y se te añadira un nuevo evento a tu calendario</value>
   </data>
   <data name="HelpHowRequestConversation7" xml:space="preserve">
     <value>¿Qué tengo que hacer cuando sea la hora de la conversación?</value>
@@ -490,7 +490,7 @@
     <value><![CDATA[Ve al panel de llamada <span class="lg lg-call"></span> y selecciona la pestaña de Conversaciones Privadas <span class="lg lg-calendar"></span>. Clica en un usuario y podrás abrir la aplicación de videollamadas. Asimismo, puedes abrir la aplicación de video desde los detalles de conversación de tu Calendario.]]></value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
-    <value>Cuando te encuentres en la aplicación de video, podrás ver cuándo se ha conectado tu compañero. Mientras tanto, podrás mandarle mensajes por vuestro chat privado para que tu compañero sepa que le estas esperando.</value>
+    <value>Cuando te encuentres en la aplicación de video, podrás ver cuando se ha conectado tu compañero. Mientras tanto, podrás mandarle mensajes por vuestro chat privado para que tu compañero sepa que le estas esperando.</value>
   </data>
   <data name="HelpHowRequestConversationTitle" xml:space="preserve">
     <value>¿Cómo puedo solicitar una conversación privada?</value>
@@ -577,25 +577,25 @@
     <value>Cómo hacer una videollamada</value>
   </data>
   <data name="HelpWCIntro2" xml:space="preserve">
-    <value>Como estudiante, empiezas comprando créditos que se registran en tu cuenta Wallet. Cuando hagas una llamada a un hablante nativo (nivel C2 o nativo) estarás gastando créditos de tu cuenta. Pagarás por el tiempo exacto que hables, pero, como excepción, cuando comience una llamada, tendrás 3 minutos para decidir si quieres seguir con la conversación. Si cuelgas en ese periodo, no se descontarán créditos de tu cuenta.</value>
+    <value>Como estudiante, puedes comprar créditos que se guardan en tu cuenta Wallet. Cuando haces una llamada con un hablante nativo (nivel C2 o nativo) estáras gastando créditos de tu cuenta y pagarás por el tiempo exacto que hayas hablado. Cuando comience una llamada, tendrás 3 minutos para decidir si quieres seguir con la conversación. Si cuelgas en ese periodo, no se te descontarán créditos de tu cuenta.</value>
   </data>
   <data name="HelpWCIntro3" xml:space="preserve">
-    <value>Como nativo, tienes que establecer tu tarifa por 1 hora de conversación. Ganarás créditos con cada videollamada de acuerdo a su duración. Puedes establecer diferentes tarifas para cada idioma.</value>
+    <value>Como nativo, puedes establecer una tarifa / hora para la conversación y ganar créditos después de cada llamada. Puedes establecer diferentes tarifas por cada idioma.</value>
   </data>
   <data name="HelpWCIntro4" xml:space="preserve">
-    <value>Ten en cuenta que los hablantes nativos no pueden iniciar una videollamada wallet. Como son los estudiantes los que pagan por las conversaciones, son sólo ellos los que pueden comenzar las llamadas</value>
+    <value>Ten en cuenta que los hablantes nativos no pueden iniciar una videollamada. Como los estudiantes son los que pagan por las conversaciones, son ellos lo que pueden hacer y comenzar una llamada</value>
   </data>
   <data name="HelpWCIntro5" xml:space="preserve">
     <value>Puedes gestionar tu cuenta de wallet desde el app {0}</value>
   </data>
   <data name="HelpMWTTitle" xml:space="preserve">
-    <value>Transacciones Mi Wallet</value>
+    <value>Transacciones My Wallet</value>
   </data>
   <data name="HelpInvoicesTitle" xml:space="preserve">
     <value>Facturas de Langademy</value>
   </data>
   <data name="HelpInvoicingData1" xml:space="preserve">
-    <value>Selecciona Datos de facturación en el menú principal de Mi Wallet para abrirlo. En esta página podrás:</value>
+    <value>Selecciona Información de facturación en el menú principal para abrirlo. En esta página podrás:</value>
   </data>
   <data name="HelpInvoicingData2" xml:space="preserve">
     <value>Introducir tus datos personales para que figuren en las facturas emitidas por Langademy. Si quieres ganar dinero en Langademy debes completar este formulario ({0}). Además tu navegador te pedirá permisos para compartir tu ubicación cuando rellenes el formulario. El país de tu dirección de facturación tiene que coincidir con el de tu ubicación.</value>
@@ -604,19 +604,19 @@
     <value>Introducir la cuenta Paypal que quieres usar para los reintegros de créditos. ¡Ten cuidado cuando la introduzcas! ¡No quieres que Langademy envíe tu dinero a otra persona!!</value>
   </data>
   <data name="HelpInvoicingDataTitle" xml:space="preserve">
-    <value>Datos de facturación</value>
+    <value>Información de facturación</value>
   </data>
   <data name="HelpMWT1" xml:space="preserve">
     <value>Selecciona Transacciones en el menú principal de Mi Wallet para abrir tu historial de transacciones de créditos. En esta página puedes:</value>
   </data>
   <data name="HelpMWT2" xml:space="preserve">
-    <value>Consultar tu saldo disponible</value>
+    <value>Consulta tu saldo disponible</value>
   </data>
   <data name="HelpMWT3" xml:space="preserve">
     <value>Este es el número de créditos que puedes gastar en Langademy. Visita {0} para más detalles.</value>
   </data>
   <data name="HelpMWT4" xml:space="preserve">
-    <value>Consultar tu historial de transacciones</value>
+    <value>Consulta tu historial de transacciones</value>
   </data>
   <data name="HelpMWT5" xml:space="preserve">
     <value>Todas las operaciones que modifiquen tu saldo de créditos estarán incluidas aquí. (ej: compras de créditos, créditos ganados y gastados  haciendo videollamadas Wallet, cobros de facturas y reintegros de créditos)</value>
@@ -637,34 +637,34 @@
     <value>Selecciona el método de pago y sigue los pasos en pantalla. El navegador te redireccionará a la pasarela de pago segura para completar el pago.</value>
   </data>
   <data name="HelpPurchaseCredits6" xml:space="preserve">
-    <value>Una vez que confirmes el pago, se actualizará tu saldo de Wallet y podrás utilizar tus créditos en Langademy</value>
+    <value>Una vez que confirmes el pago, se actualizará tu saldo de allet y podrás utilizar tus créditos en Langademy</value>
   </data>
   <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
     <value>Compra de créditos</value>
   </data>
   <data name="HelpInvoices1" xml:space="preserve">
-    <value>Elige Facturas en el menú principal de Mi Wallet para abrir la página de facturas de Langademy</value>
+    <value>Elige Facturas en el menú principal de My Wallet para abrir la página de facturas de Langademy</value>
   </data>
   <data name="HelpInvoices2" xml:space="preserve">
-    <value>En esta página puedes buscar las facturas que Langademy emite mensualmente. Ten en cuenta que sólo se emite la factura si durante el periodo de facturación tienes transacciones por las que Langademy cobre ({0}). Ten también en cuenta que estas facturas únicamente incluyen las comisiones de Langademy por nuestro servicio, pero no los pagos como estudiante a nativos o profesores</value>
+    <value>En esta página puedes buscar las facturas que Langademy emite mensualmente. Ten en cuenta que solo se emite la factura si durante el periodo de facturación tienes transacciones por las que Langademy cobre ({0}). Ten también en cuenta que estas facturas únicamente incluyen las comisiones de Langademy por nuestro servicio, pero no los pagos como estudiante a nativos o profesores</value>
   </data>
   <data name="HelpInvoices3" xml:space="preserve">
-    <value>Antes de que se emita la factura mensual puedes hacer el seguimiento de tus gastos en {0} y consultar las comisiones de Langademy.</value>
+    <value>Antes de que se emita tu factura mensual puedes hacer el seguimiento de tus gastos en {0} y también puedes consultar las comisiones de Langademy.</value>
   </data>
   <data name="HelpInvoices4" xml:space="preserve">
-    <value>Cuando se emita una factura mensual, se cobrará de tu cuenta de wallet, y nunca se hará de tu tarjeta de crédito o de tu cuenta PayPal</value>
+    <value>Cuando se haya emitido una factura mensual, se hará el cobro de tu cuenta de wallet, y nunca se hará de tu tarjeta de crédito o de tu cuenta PayPal</value>
   </data>
   <data name="HelpInvoices5" xml:space="preserve">
     <value>Cuando se cobra una factura mensual tendrás una nueva transacción en el historial de transacciones de tu Wallet y la comisión mensual de Langademy se actualizará.</value>
   </data>
   <data name="HelpTimeBankApp1" xml:space="preserve">
-    <value>El Banco de Tiempo es el app donde podrás hacer el seguimiento de tus llamadas de Banco del tiempo y podrás ver tu saldo de tiempo.</value>
+    <value>El Banco de Tiempo es el app donde podrás hacer el seguimiento de tus llamada de Banco del tiempo y podrás ver tu saldo de tiempo.</value>
   </data>
   <data name="HelpTimeBankApp2" xml:space="preserve">
     <value><![CDATA[Puedes abrir el Banco de Tiempo haciendo clic en el botón Apps <span class="lg lg-apps"></span> del Panel de Control y seleccionando el botón Banco de Tiempo <span class="lg lg-time-bag"></span>]]></value>
   </data>
   <data name="HelpTimeBankApp3" xml:space="preserve">
-    <value>Cada llamada de banco de tiempo añadirá o restará tiempo de tu saldo de tiempo de acuerdo a {0}</value>
+    <value>Cada llamada de banco de tiempo te añadirá o restará tiempo de tu saldo de tiempo de acuerdo a {0}</value>
   </data>
   <data name="HelpTimeBankAppTitle" xml:space="preserve">
     <value>Banco de Tiempo</value>

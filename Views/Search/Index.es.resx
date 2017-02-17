@@ -157,6 +157,6 @@
     <value>Busca compañeros de conversación</value>
   </data>
   <data name="SearchCustomUserSubtitle" xml:space="preserve">
-    <value>Busca compañeros de conversación y fíltralos usando el filtro de tu panel derecho</value>
+    <value>Busca compañeros de conversación y fíltralos usando el filtro de tu panel de control</value>
   </data>
 </root>

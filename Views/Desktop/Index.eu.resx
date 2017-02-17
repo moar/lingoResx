@@ -384,6 +384,12 @@
   <data name="RequireRole" xml:space="preserve">
     <value>Gutxienez aukera bat hartu behar duzu</value>
   </data>
+  <data name="TeacherComingSoon" xml:space="preserve">
+    <value>Profil profesional bat sortzea nahi, ikasleak bilatu eta hizkuntzak irakasteko (profil profesionalak eta hauentzako herramintak laister egongo dira eskuragarri)</value>
+  </data>
+  <data name="TeacherValidate" xml:space="preserve">
+    <value>Langademy irakasle moduan erabiltzeaz gain, beste aukera bat ere hautatu beharra daukazu</value>
+  </data>
   <data name="FollowUs" xml:space="preserve">
     <value>Jarrai gaitzazu</value>
   </data>

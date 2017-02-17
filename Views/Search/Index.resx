@@ -157,6 +157,6 @@
     <value>Find conversation partners</value>
   </data>
   <data name="SearchCustomUserSubtitle" xml:space="preserve">
-    <value>Find conversations partners and filter your searches using the filter in your right panel</value>
+    <value>Find conversations partners and filter your searches using the filter in your control panel</value>
   </data>
 </root>
