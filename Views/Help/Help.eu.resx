@@ -390,6 +390,9 @@
   <data name="HelpSetAvailabilityTitle" xml:space="preserve">
     <value>Ezarri zure eskuragarritasuna</value>
   </data>
+  <data name="HelpSetRate1" xml:space="preserve">
+    <value><![CDATA[<a href="{0}" class="help link">Eskakizunak</a> betetzen dituzunean,  konbertsazioengatik kobratzeko zure tarifa ezarri dezakezu. Horretarako, pauso hauek jarraitu behar dituzu:]]></value>
+  </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Zabaladu zure egoera panela zure profileko irudian klik eginaz (zure pantailako goi eskuin partean)</value>
   </data>
@@ -420,17 +423,53 @@
   <data name="HelpHowMeetPartners6" xml:space="preserve">
     <value><![CDATA[Bilera bat antolatzeko joan <a href="{0}" class="link applnk"> Nire egutegira</a> eta klikatu Bilera Berria-n, edo joan zuzenean <a href="{1}" class="link applnk">Bilera Berria</a>-ra eta jarraitu hurrengo pausoak:]]></value>
   </data>
+  <data name="HelpHowMeetPartners8" xml:space="preserve">
+    <value>Aukeratu bilerarako egun eta ordu bat ( zure zonaldeko orduan)</value>
+  </data>
   <data name="HelpHowMeetPartners9" xml:space="preserve">
     <value>Klik egin Gorde-n</value>
   </data>
   <data name="HelpHowMeetPartnersTitle" xml:space="preserve">
     <value>Nola ezagutu ditzaket mintzalagun berriak?</value>
   </data>
+  <data name="HelpHowRequestConversation4" xml:space="preserve">
+    <value>Nola dakit hiztun natibo batek nire eskaera onartu duen?</value>
+  </data>
   <data name="HelpHowRequestConversationTitle" xml:space="preserve">
     <value>Nola egin konbertsazio pribatu baterako eskaera bat</value>
   </data>
   <data name="HelpMeetupsTitle" xml:space="preserve">
     <value>Bilerak</value>
+  </data>
+  <data name="CompleteProfile" xml:space="preserve">
+    <value>Osatu zure profila</value>
+  </data>
+  <data name="HelpWhatYouCanDoTitle" xml:space="preserve">
+    <value>Zer egin dezaket Langademyn?</value>
+  </data>
+  <data name="HelpHowToBegin" xml:space="preserve">
+    <value>Nola hasi</value>
+  </data>
+  <data name="HelpNativeSpeakers" xml:space="preserve">
+    <value>Hiztun natiboak</value>
+  </data>
+  <data name="HelpNativesWalletRequirementsTitle" xml:space="preserve">
+    <value>Hiztun natiboek dirua irabazteko bete behar dituzten eskakizunak</value>
+  </data>
+  <data name="HelpStudents" xml:space="preserve">
+    <value>Ikasleak</value>
+  </data>
+  <data name="HelpChatRooms2" xml:space="preserve">
+    <value>Txat gelan area desberdinak aurkitu ditzakezu:</value>
+  </data>
+  <data name="HelpHowToCall4" xml:space="preserve">
+    <value>Kontrol paneletik deitu</value>
+  </data>
+  <data name="HelpHowToCall5" xml:space="preserve">
+    <value>Txat gela batetik deitu</value>
+  </data>
+  <data name="HelpHowToCall6" xml:space="preserve">
+    <value>Erabiltzailearen profiletik deitu</value>
   </data>
   <data name="HelpHowToCallTitle" xml:space="preserve">
     <value>Nola egin bideo dei bat</value>
