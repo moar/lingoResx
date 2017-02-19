@@ -169,7 +169,7 @@
     <value>Helbidea (2. lerroa)</value>
   </data>
   <data name="MWCantSaveAddress" xml:space="preserve">
-    <value>Ezin dugu zure helbidea gorde zu aurkitzen zaren tokiko zergak eta zure helbidean sartu dituzun tokiko zergak bat ez datozelako</value>
+    <value>Ezin dugu zure helbidea gorde zu aurkitzen zaren tokiko zergak eta zure fakturazio helbidean sartu dituzun tokiko zergak bat ez datozelako</value>
   </data>
   <data name="MWCity" xml:space="preserve">
     <value>Hiria</value>
@@ -418,7 +418,7 @@
     <value>Saldo berria</value>
   </data>
   <data name="ReqCashoutNote" xml:space="preserve">
-    <value>Oharra: Kredituak ateratzeko eskaerak astean behin prozesatzen dira. Eskeaeren egoerak Kreditu ateratzea -&gt; Historiala sezkioan jarrai ditzakezu</value>
+    <value>Oharra: Kredituak ateratzeko eskaerak hilean bi aldiz prozesatzen dira. Eskeaeren egoerak Kreditu ateratzea -&gt; Historiala sezkioan jarrai ditzakezu</value>
   </data>
   <data name="ReqCashoutPaypalAccount" xml:space="preserve">
     <value>PayPal kontua</value>

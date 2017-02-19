@@ -117,12 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
-  
-  
-  
   <data name="AccountDeactivated" xml:space="preserve">
     <value>Zure kontua desgaitu egin da. Bergaitzea nahi al duzu? Hasi ezazu saioa berriz</value>
+  </data>
+  <data name="AccountLockedOut" xml:space="preserve">
+    <value>Gehiegitan sartu duzu pasahitz okerra. Itxaron ezazu minutu batzuk berriro ahalegindu aurretik</value>
   </data>
   <data name="ConfirmAddress" xml:space="preserve">
     <value>Zure email helbidea berretsi behar duzu. Bota begirada bat zure sarrera ontziari!</value>

@@ -139,19 +139,19 @@
     <value>Denbora bankua hizkuntza trukea guztiontzat errentagarria izateko modu bat da. Hau da bere funtzionamendua:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>30 minuturekin hasiko zara nahi duzun hizkuntzan hitz egin dezazun</value>
+    <value>Langademyn izena ematen duzunean 30 minuturekin hasiko zara nahi duzun hizkuntzan hitz egin dezazun.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Ezin izango dituzu 10 ordu baino gehiago pilatu zure denbora bankuan </value>
   </data>
   <data name="TimeBankF3" xml:space="preserve">
-    <value>Zure lagunak gonbidatu eta 30 minutu oparituko dizkizugu Langademyn izena ematen duen lagun bakoitzeko. Facebook eta Twitterren gure jarraitzeila eginaz ere denbora oparituko dizugu zure denbora bankurako (+60 minutu)</value>
+    <value>Zure lagunak gonbidatu eta 30 minutu oparituko dizkizugu Langademyn izena ematen duen lagun bakoitzeko. Facebook eta Twitterren gure jarraitzeila egiten bazara ere denbora oparituko dizugu zure denbora bankurako (+30 minutu)</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>Zure ama hizkuntza ez den hizkuntza batean hitz egiten baduzu, zure denbora poltsatik kenduko dizugu denbora hori. Aldiz, ikasle edo hizkuntza bat ama hizkuntza ez duen pertsona batekin zure ama hizkuntzan (gutxieneko maila C2) hitz egiten baduzu, zure denbora bankurako denbora pilatuko duzu.</value>
+    <value>Zure ama hizkuntza ez den hizkuntza batean bideo dei ({0}) bat egiten baduzu, zure denbora poltsatik kenduko dizugu denbora hori. Aldiz, ikasle edo hizkuntza bat ama hizkuntza ez duen pertsona batekin zure ama hizkuntzan (gutxieneko maila C2) hitz egiten baduzu, zure denbora bankurako denbora pilatuko duzu.</value>
   </data>
   <data name="TimeBankF5" xml:space="preserve">
-    <value>Minutu bat baino gutxiago irauten duten deiek ez dute kosturik</value>
+    <value>Minutu bat baino gutxiago irauten duten deiek ez dute krediturik gehituko edo kenduko zure kontutik</value>
   </data>
   <data name="TimeBankTitle" xml:space="preserve">
     <value>Denbora bankua</value>
@@ -181,13 +181,13 @@
     <value>Hiztun natiboen komisioa</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Zure hizkuntza natiboan hitz egin nahi baduzu, joan zure hizkuntza natiboko txat gelara eta bertan aurkituko dituzu zurekin hitz egin nahi duten mintzalagunak, lehenik, baldintza batzuk bete behar dituzu:</value>
+    <value>Zure hizkuntza natiboan hitz eginez dirua irabaztea nahi baduzu baldintza batzuk bete behar dituzu:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
     <value>Walleta erabili ahal izateko, hizkuntza bakoitzean boto positibo kopuru bat edukitzea eskatzen da. Botu hauek lortzeko, jo txat geletara, hitz egin ezazu beste mintzalagun batzuekin zure hizkuntza natiboan eta irabaz itzazu boto positiboak. Hizkuntza batean botu positibo nahikoa dituzunean, hizkuntza horretarako tarifa bat ezarri, Wallet deiak egin eta dirua irabazteko prest egongo zara</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Bete ezazu zure</value>
+    <value>Bete ezazu {0}.</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
     <value>Bi baldintza hauek betetzen dituzunean, tarifa bat ezarri, eta Wallet deiak eginez dirua irabazteko prest egongo zara</value>
@@ -202,10 +202,10 @@
     <value>Txat gelak</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
-    <value>Nola funtzionatzen du denbora bankuak?</value>
+    <value>Denbora bankuko erregelak</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
-    <value>My Walletera sarrera</value>
+    <value>My Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
     <value>Wallet bideo deietara sarrera</value>
@@ -250,7 +250,7 @@
     <value>Denbora bankuak hizkuntzak dirurik gastatu gabe ikasteko aukera eskaintzen du: ikasle batekin zure hizkuntzan hitz egiten erabiltzen duzun denbora, zure denbora bankuko kontura gehituko zaizu zuk nahi dituzun hizkuntzak praktika ditzazun. Errepasa itzazu denbora bankuko erregelak ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>Zure hasierako orrialdean zure denbora bankuko saldoa kontsultatu dezakezu, eta Denbora Bankuaren aplikazioan zure deien xehetasunak eta historikoa ikusi ahal izango dituzu.</value>
+    <value>Zure hasierako orrialdean zure denbora bankuko saldoa kontsultatu dezakezu, eta {0} app-era joaten bazara zure deien xehetasunak eta historikoa ikusi ahal izango dituzu.</value>
   </data>
   <data name="HelpChatRooms1" xml:space="preserve">
     <value><![CDATA[Txat gelak mintzalagun berriak ezagutzeko leku perfektua dira, bai natiboak eta baita ikasleak ere. Geletara sartu ahal izateko, lehenik eta behin ikasi eta irakatsi nahi dituzun hizkuntzak sartu behar dituzu zure profilean. Hori egiten duzunean, jo zure kontrol panelera, <span class="lg lg-chatrooms"></span> klikatu  eta aukeratu ireki nahi duzun hizkuntzaren gela.]]></value>
@@ -271,10 +271,10 @@
     <value>Bilera taulara zure hasierako orritik edo edozein txat gelatatik sartu zaitezke. Bertan zaudenean beste erabiltzaile batzuek sortu dituzten bilerak ikusi ahal izango dituzu. Ez dituzu bilera guztiak ikusiko, zure profilean gehitu dituzun hizkuntzetako bilerak soilik izango dituzu eskuragarri. Bilera bat sortzea nahi baduzu, aukeratu bileraren hizkuntza, eguna eta ordua eta sortu ezazu bilera. Bilera sortzen duzunean, zure Langademyko kontaktuak bertara gonbidatu ditzakezu</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
-    <value>Hiztun natiboei dei bakoitzean irabazi duten kredito kopuruaren %13ko komisio bat (+ beza) aplikatzen zaie. Bideo deia bukatzen denean, hiztun natiboei beraien saldoa eguneratuko zaie</value>
+    <value>Hiztun natiboei Wallet dei bakoitzean irabazi duten kredito kopuruaren %13ko komisio bat (+ beza) aplikatzen zaie. Bideo deia bukatzen denean, hiztun natiboei beraien saldoa eguneratuko zaie. Zure saldo eskuragarria {0}-n ikusi dezakezu ({1})</value>
   </data>
   <data name="HelpWalletFees2" xml:space="preserve">
-    <value>Eskuragarri duzun saldoa nondik datorren jakiteko, termino batzuk ulertu behar dituzu lehenik</value>
+    <value>Eskuragarri duzun saldoak, Langademyn gastatu dezakezun kreditua adierazten du. Saldo hau nola kalkulatzen den jakiteko, termino batzuk ulertu behar dituzu lehenik:</value>
   </data>
   <data name="HelpWalletFees3" xml:space="preserve">
     <value>Saldo totala: komisiorik aplikatu gabe izango zenukeen saldoa adierazten du</value>
@@ -286,7 +286,7 @@
     <value>Kredituak ateratzeko eskariak: kredituak ateratzeko eskari bat egiten bada, eskariko kreditu kopurua ez da erabilgarri egongo beste erosketa batzuk egiteko</value>
   </data>
   <data name="HelpWalletFees6" xml:space="preserve">
-    <value>Saldo eskuragarria: azaldu diren terminoak ikusirik, horrela egiten da kalkulua:</value>
+    <value>Saldo eskuragarria: azaldu diren terminoak ikusirik, horrela egiten da kalkulua</value>
   </data>
   <data name="HelpWalletFees7" xml:space="preserve">
     <value>Saldo eskuragarria = Saldo totala - Langademyren komisioa - Ateratzeko eskatu diren kreditu kopurua</value>
@@ -366,8 +366,14 @@
   <data name="HelpProfileTitle" xml:space="preserve">
     <value>Langademyko profila</value>
   </data>
+  <data name="HelpSetAvailability1" xml:space="preserve">
+    <value>Zure ordu libreak egutegian sartu behar dituzu, ikasleek libre noiz zauden jakin eta eskaerak egin diezazkizuten. Ordu hoietan soilik egin ahal izango dizkizute eskaerak, eta inoiz ez dira izango 2 ordu baino gehiagokoak. Gainera, izan nahi dituzun konbertsazio motak ere aukeratu ditzakezu (denbora bankuko konbertsazioak, ordainpekoak edo bi motetakoak)</value>
+  </data>
   <data name="HelpSetAvailability10" xml:space="preserve">
     <value>Nola aldatu dezaket eskuragarritasun bloke baten hasierako ordua?</value>
+  </data>
+  <data name="HelpSetAvailability11" xml:space="preserve">
+    <value>Blokeak arrastatu eta askatu egin ditzakezu libre dauden zirrikituetan. Ukimen gailu batekin bazabiltza, ukitu eta mantendu ukiketa blokea arrastatzen hasi aurretik</value>
   </data>
   <data name="HelpSetAvailability12" xml:space="preserve">
     <value>Nola ezabatu dezaket bloke eskuragarri bat?</value>
@@ -375,17 +381,29 @@
   <data name="HelpSetAvailability13" xml:space="preserve">
     <value>Aukeratu ezabatzea nahi duzun blokea eta leiho bat irekiko zaizu blokea ezabatzeko aukerarekin.</value>
   </data>
+  <data name="HelpSetAvailability2" xml:space="preserve">
+    <value>Zure eskuragarritasun egutegia eguneratua mantentzea gomendagarria da. Ez baduzu egiten, zure kontaktu zerrendako pertsonekin edo txat geletan dauden pertsonekin soilik egin ahal izango dituzu deiak</value>
+  </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
     <value><![CDATA[Zure ordu libreak editatzeko joan <a href="{0}" class="link"> Nire egutegia</a>-ra eta klikatu Editatu Eskuragarritasuna botoian edo joan <a href="{1}" class="link"> Editatu eskuragarritasun</a>-era eta jarritu pauso hauek:]]></value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Aukeartu zein kobertsazio motako eskariak jaso nahi dituzun, Wallet, denbora bankua edo biak aukeratuz</value>
   </data>
+  <data name="HelpSetAvailability5" xml:space="preserve">
+    <value>Klikatu eta arrastatu blokeak ordu libreen gainean (ukimen gailu bat erabiltzen bazabiltza, ukitu eta ukiketa hori mantendu egin beharko duzu arrastatzen hasi aurretik).</value>
+  </data>
   <data name="HelpSetAvailability6" xml:space="preserve">
     <value>Errepikatu aurreko pausoak nahi dituzun adina bloke sortzeko</value>
   </data>
   <data name="HelpSetAvailability7" xml:space="preserve">
     <value>Nola aldatu dezaket bloke eskuragarri baten iraupena?</value>
+  </data>
+  <data name="HelpSetAvailability8" xml:space="preserve">
+    <value>Jarri saguaren erakuslea aldatu nahi duzun blokearen gainean. Bi marra txiki agertuko zaizkizun blokearen behekaldean. Klikatu hauen gainean eta berdimentsiona ezazu blokea nahi duzun luzera lortu arte</value>
+  </data>
+  <data name="HelpSetAvailability9" xml:space="preserve">
+    <value>Ukimen gailu bat erabiltzen bazabiltza, ukitu eta mantendu ezazu ukiketa blokean puntu bat azaltzen den arte. Orduan blokea berdimentsionatu eta arrastatu ahal izango duzu</value>
   </data>
   <data name="HelpSetAvailabilityTitle" xml:space="preserve">
     <value>Ezarri zure eskuragarritasuna</value>
@@ -405,11 +423,23 @@
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Sartu zure ikasleei kobratzea nahi duzun orduko kreditu kopurua eta Gorde klikatu</value>
   </data>
+  <data name="HelpSetRate6" xml:space="preserve">
+    <value>Hartu momentu bat zure hizkuntzen egoera errepasatzeko. Ikasleek eskuragarri zauden hizkuntzetan soilik deitu ahal izango zaituzte. Klikatu hizkuntzaren ondoan dauden switchetan zure egoera Eskuragarri / Okupatuta jartzeko</value>
+  </data>
   <data name="HelpSetRateTitle" xml:space="preserve">
     <value>Nola definitu dezaket nire tarifa?</value>
   </data>
+  <data name="HelpHowMeetPartners1" xml:space="preserve">
+    <value>Mintzalagunen bila bazabiltza (denbora bankuko edota ordainpekoak), Langademyko bilerei etekina atera behar zenieke</value>
+  </data>
   <data name="HelpHowMeetPartners10" xml:space="preserve">
     <value>Nola apuntatu naiteke bilera batean?</value>
+  </data>
+  <data name="HelpHowMeetPartners11" xml:space="preserve">
+    <value>Sartu bileraren orrira eta klikatu Joango naiz botoiean. Kontuan izan profilean dituzun hizkuntzetarako bileretan soilik apunta zaitezkeela</value>
+  </data>
+  <data name="HelpHowMeetPartners2" xml:space="preserve">
+    <value>Bileren bitartez gainontzeko erabiltzaileek txat gela baten noiz egongo zaren jakingo dute. Modu honetan, ikasleak eta gainontzeko erabiltzaileak zure ordu berdinean sartu ahal izango dira gela batera. Berez, nahi duzunean sartu zaitezke gela batetara, baina beti izango da errezagoa bertan jendea aurkitzea aurretiaz bilera bat antolatzen baduzu</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
     <value><![CDATA[Errebisatu zure <a href="{0}" class="link applnk"> Egutegia</a> antolatu diren bilerak ikusteko. Bileraren batera joateko libre bazaude, apuntatu zaitez. Bestela, nahi duzun egun eta orduan bat sortu dezakezu]]></value>
@@ -423,6 +453,9 @@
   <data name="HelpHowMeetPartners6" xml:space="preserve">
     <value><![CDATA[Bilera bat antolatzeko joan <a href="{0}" class="link applnk"> Nire egutegira</a> eta klikatu Bilera Berria-n, edo joan zuzenean <a href="{1}" class="link applnk">Bilera Berria</a>-ra eta jarraitu hurrengo pausoak:]]></value>
   </data>
+  <data name="HelpHowMeetPartners7" xml:space="preserve">
+    <value>Aukeratu bileraren hizkuntza. Partehartzaileak txat gelara joango dira bilera orduan</value>
+  </data>
   <data name="HelpHowMeetPartners8" xml:space="preserve">
     <value>Aukeratu bilerarako egun eta ordu bat ( zure zonaldeko orduan)</value>
   </data>
@@ -432,8 +465,32 @@
   <data name="HelpHowMeetPartnersTitle" xml:space="preserve">
     <value>Nola ezagutu ditzaket mintzalagun berriak?</value>
   </data>
+  <data name="HelpHowRequestConversation1" xml:space="preserve">
+    <value>Mintzalagun baten profila bisitatzen duzunean, bertan bere egutegia ikusiko duzu honen ordu libreak kontsultatzeko.</value>
+  </data>
+  <data name="HelpHowRequestConversation2" xml:space="preserve">
+    <value>Konbertsazio pribatu bat antolatzea nahi baduzu, klikatu Konbertsazio eskaria egin-en (egutegiaren goikaldean) eta jarraitu pantailan agertuko zaizkizun pausoak. Konbertsazioaren hizkuntza (natiboaren hizkuntzen artean), izatea nahi duzun konbertsazio mota (denbora banku edo ordainpekoa) eta erreserbatu data eta ordu bat libre dagoen zirrikituren batean. Bloke berdeek denbora bankuko konbertsazio bat erreserbatu dezakezula esan nahi du, bloke grisek ordainpeko konbertsazioak errepresentatzen dituzte eta oriek berriz bi motatako eskariak egin ditzakezula. Kontuan izan eskariaren iraupen maximoa bi ordutakoa dela.</value>
+  </data>
+  <data name="HelpHowRequestConversation3" xml:space="preserve">
+    <value>Erabiltzaileak ez badu ordu librerik deifnitu, definitzen dituenean notifikazio bat jasotzea aukeratu dezakezu. Klikatu egutegiaren gainean ikusiko duzun esaldiaren ondorengo botoia notifikazioa jasotzea nahi baduzu</value>
+  </data>
   <data name="HelpHowRequestConversation4" xml:space="preserve">
     <value>Nola dakit hiztun natibo batek nire eskaera onartu duen?</value>
+  </data>
+  <data name="HelpHowRequestConversation5" xml:space="preserve">
+    <value><![CDATA[Zure eskaeren jarraipena egin dezakezu zure <a href="{0}" class="link applnk"> Egutegian</a>. Ikusi konbertsazio eskaeren panela (bidalitakoak). Aukeratu egitea nahi duzun eskaera eta honen xehetasunak ikusi ahal izango dituzu. Bertan natiboak zure eskaera onartu duen ala ez ikusiko duzu, berau kantzelatu edo natiboari mezuak ere bidali diezazkiokezu infomazio gehigarria nahi baduzu]]></value>
+  </data>
+  <data name="HelpHowRequestConversation6" xml:space="preserve">
+    <value>Gainera, natibo batek zure eskaria onartzen duenean notifikazio bat bidaliko dizugu eta zure egutekian gertaera edo ekitaldi berri bat geituko zaizu</value>
+  </data>
+  <data name="HelpHowRequestConversation7" xml:space="preserve">
+    <value>Zer egin behar dut konbertsazioaren ordua iristen denean?</value>
+  </data>
+  <data name="HelpHowRequestConversation8" xml:space="preserve">
+    <value><![CDATA[Joan deien panelera <span class="lg lg-call"></span> eta aukeratu Konbertsazio Pribatuak zutabea <span class="lg lg-calendar"></span>. Aukeratu erabiltzailea eta konbertsazioen bideo appa irekiko da. Zure egutegira joan eta konbertsazioen xehetasun orritik  ere bideo appera sartu zaitezke]]></value>
+  </data>
+  <data name="HelpHowRequestConversation9" xml:space="preserve">
+    <value>Bideo app-aren barruan zaudenean zure mintzalaguna online dagoen ikusi dezekezu. Bitartean, berari mezuak bidali deizazkiokezu zure mintzalagunari bertan zaudela jakinarazteko</value>
   </data>
   <data name="HelpHowRequestConversationTitle" xml:space="preserve">
     <value>Nola egin konbertsazio pribatu baterako eskaera bat</value>
@@ -459,20 +516,74 @@
   <data name="HelpStudents" xml:space="preserve">
     <value>Ikasleak</value>
   </data>
+  <data name="HelpWhatYouCanDo1" xml:space="preserve">
+    <value>Langademy ikasleek hiztun natiboekin hizkuntzak bideo deien bitartez pratkikatzeko sare sozial bat da. Bi bideo dei mota egin daitezke: Wallet deiak edo Denbora bankuko deiak</value>
+  </data>
+  <data name="HelpWhatYouCanDo2" xml:space="preserve">
+    <value>Wallet dei batean, ikasleek hiztun natiboei ordaindu egiten diete konbertsazio pribatuak edukitzeagatik. Denbora bankuko dei bat egiten bada, aldiz, denbora erabiltzen da trukerako txanpon bezala. Ikusi {0} eta {1} atalak dei hauei buruzko informazio gehiagorako</value>
+  </data>
   <data name="HelpChatRooms2" xml:space="preserve">
     <value>Txat gelan area desberdinak aurkitu ditzakezu:</value>
+  </data>
+  <data name="HelpChatRooms3" xml:space="preserve">
+    <value>Txat gunea: idatzi beheko testu koadroan eta sakatu enter mezua bidaltzeko</value>
+  </data>
+  <data name="HelpChatRooms5" xml:space="preserve">
+    <value>Hurrengo bilerak: Hizkuntza txat gelatan praktikatzeko hurrengo bilera. Ikusi {0} bilerei buruzko informazio gehiagorako.</value>
+  </data>
+  <data name="HelpChatRooms6" xml:space="preserve">
+    <value>Bilerako gaiak: bileran zehar hitz egiteko paratehartzaileek proposatutako gaien zerrenda</value>
+  </data>
+  <data name="HelpHowToCall1" xml:space="preserve">
+    <value><![CDATA[Langademyn dei bat hastea erreza da. Bilatu <span class="lg lg-call"></span> ikurra dei bat egitea nahi duzunean. Hau klikatu eta deiaren menua agertuko da. Berta deiko hizkuntza eta konbertsazio mota aukeratu behar duzu (<span class="lg lg-time-bag"></span> denbora bankuko deia edo <span class="lg lg-wallet"></span> walletekoa). Wallet deien kasuan, kobratuko zaizun tarifa hizkuntzaren ondoan ikusi ahal izango duzu]]></value>
+  </data>
+  <data name="HelpHowToCall2" xml:space="preserve">
+    <value>Gogoratu deia egiteko hizkuntza aukeratzen duzunean, natibo edo ikasle moduan hitz egingo duzun aukeratzen ari zarela, eta baita denborarekin edo kredituekin pagatuko duzun. Beraz, arreta izan egiten duzun dei motarekin, deiak zure denbora edo kredituen saldoan eragina izango baitu.</value>
+  </data>
+  <data name="HelpHowToCall3" xml:space="preserve">
+    <value>Toki desberdinetatik hasi ditzakezu bideo deiak:</value>
   </data>
   <data name="HelpHowToCall4" xml:space="preserve">
     <value>Kontrol paneletik deitu</value>
   </data>
+  <data name="HelpHowToCall41" xml:space="preserve">
+    <value><![CDATA[Klikatu <span class="lg lg-call"></span> zutabea kontrol panelean Dei panela irekitzeko. Bertan, ondorengo zutabeak aukeratu ahal izango dituzu:]]></value>
+  </data>
+  <data name="HelpHowToCall42" xml:space="preserve">
+    <value>Online kontaktuak: online dauden kontaktuen zerrenda</value>
+  </data>
+  <data name="HelpHowToCall43" xml:space="preserve">
+    <value>Deien historikoa: azkenaldian egindako deien erabiltzaileak</value>
+  </data>
+  <data name="HelpHowToCall44" xml:space="preserve">
+    <value>Kontaktu guztiak: zure kontaktu guztien zerrenda alfabetikoki ordenaturik</value>
+  </data>
+  <data name="HelpHowToCall45" xml:space="preserve">
+    <value>Konbertsazio pribatuak: Hitzartutako konbertsazio pribatuetako erabiltzaileen zerrenda</value>
+  </data>
   <data name="HelpHowToCall5" xml:space="preserve">
     <value>Txat gela batetik deitu</value>
+  </data>
+  <data name="HelpHowToCall51" xml:space="preserve">
+    <value>Joan erabiltzaileen panelera eta klikatu erabiltzaile bat deia egiteko menua zabaldu dadin</value>
   </data>
   <data name="HelpHowToCall6" xml:space="preserve">
     <value>Erabiltzailearen profiletik deitu</value>
   </data>
+  <data name="HelpHowToCall61" xml:space="preserve">
+    <value>Erabiltzaile bati bere profiletik deitzeko, kontaktuak izan behar zarete. Kasu horretan,  erabiltzailearen azaleko argazkiaren eskuin behekaldean izango duzun deitzeko botoia</value>
+  </data>
   <data name="HelpHowToCallTitle" xml:space="preserve">
     <value>Nola egin bideo dei bat</value>
+  </data>
+  <data name="HelpWCIntro2" xml:space="preserve">
+    <value>Ikasle moduan,  hasteko zure Wallet konturako kredituak erosi behar dituzu. Hiztun natibo bati deitzen diozunean (C2 maila edo natiboa) zure kredituak gastatuko dituzu. Hitz egiten duzun minutu kopuru zehatzagatik ordainduko duzu, baina salbuespen kasu bezala, deia astean 3 minutu izango dituzu deiaren jarraitu nahi duzun ala ez erabakitzeko. Lehen 3 minutu horietan deia uzten baduzu, ez zaizu ezer kobratuko</value>
+  </data>
+  <data name="HelpWCIntro3" xml:space="preserve">
+    <value>Hiztun natibo moduan, konbertsazioetarako zure orduko tarifa ezarri behar duzu. Kredituak irabaziko dituzu deiaren iraupenaren eta zure tarifaren arabera. Gainera, tarifa desberdina ezerri ahal izango duzu hizkuntza bakoitzeko.</value>
+  </data>
+  <data name="HelpWCIntro4" xml:space="preserve">
+    <value>Kontuan izan hiztun natibo batek ezin dezakeela Wallet dei bat hasi. Ikasleak direnez deiagatik ordaintzen dutenak, beraiek dira deia egitearen erantzule.</value>
   </data>
   <data name="HelpWCIntro5" xml:space="preserve">
     <value>Zure wallet kontua kudeatu dezakezu {0} aplikaziotik</value>
@@ -483,6 +594,48 @@
   <data name="HelpInvoicesTitle" xml:space="preserve">
     <value>Langademyko fakturak</value>
   </data>
+  <data name="HelpInvoicingData1" xml:space="preserve">
+    <value>Aukeartu fakturazio datuak My Walleteko menu nagusian orria zabaltzeko. Bertan honako hauek egin ahal izango dituzu:</value>
+  </data>
+  <data name="HelpInvoicingData2" xml:space="preserve">
+    <value>Sartu zure datu pertsonalak Langademyk egingo dizkizun fakturetarako. Formulario hau bete beharra daukazu Langademyn dirua irabazi nahi baduzu ({0}). Bestalde, zure nabigatzaileak zure lokalizazioa elkarbanatzea nahi duzun galdetuko dizu formulario hau betetzen duzunean. Formularioan betetzen duzun herrialdea momentu hortan aurkitzen zren herrialdearen berdina izan behar da.</value>
+  </data>
+  <data name="HelpInvoicingData3" xml:space="preserve">
+    <value>Aukeratu kredituak ateratzeko erabili nahi duzun PayPal kontua. Kontu izan hau betezen duzunean, ez duzu nahiko Langademyk beste pertsona bati transferentzia egiterik eta!</value>
+  </data>
+  <data name="HelpInvoicingDataTitle" xml:space="preserve">
+    <value>Fakturazio datuak</value>
+  </data>
+  <data name="HelpMWT1" xml:space="preserve">
+    <value>Aukeratu Trantsakzioak My Walleteko menu nagusian trantsakzioen historikoa ikusteko. Orri hontan hau egin ahal izango duzu:</value>
+  </data>
+  <data name="HelpMWT2" xml:space="preserve">
+    <value>Ikusi zure saldo eskuragarria</value>
+  </data>
+  <data name="HelpMWT3" xml:space="preserve">
+    <value>Hau da momentu honetan Langademyn gastatu dezakezun kreditu kopurua. Bisitatu {0} xehetasun gehiagorako</value>
+  </data>
+  <data name="HelpMWT4" xml:space="preserve">
+    <value>Ikusi zure trantsakzioen historia</value>
+  </data>
+  <data name="HelpMWT5" xml:space="preserve">
+    <value>Zure kredituen saldoa modifikatzen duen edozein operazio hemen islatuko da (kreditu erosketak, irabazi edo gastatu dituzun kredituak, fakturen kobroak etab.)</value>
+  </data>
+  <data name="HelpPurchaseCredits1" xml:space="preserve">
+    <value>Aukeratu Kreditu denda My Walleteko menu nagusian kredituak erosteko orrialdea zabaltzeko. Kredituen erosketa prozesuak honako pauso hauek jarraitzen ditu:</value>
+  </data>
+  <data name="HelpPurchaseCredits2" xml:space="preserve">
+    <value>Sartu erostea nahi duzun kreditu kopurua</value>
+  </data>
+  <data name="HelpPurchaseCredits3" xml:space="preserve">
+    <value><![CDATA[Langademy kreditu 1 <span class="credit">€</span> = 1 EURO €]]></value>
+  </data>
+  <data name="HelpPurchaseCredits4" xml:space="preserve">
+    <value>Kontsultatu kreditu erosketa minimoa zein den. Hau aukeratzen duzun ordaintzeko metodoaren araberakoa da. Zure lokalizazioa eskuragarri badugu eta ordaintzeko txanpona Euroa ez bada, zure txanponaren trukerako estimazio bat ateratzen saiatuko gara. Kontuan izan konbertsio hori informatiboa dela eta konbertsioa bankuak berak egingo duela.</value>
+  </data>
+  <data name="HelpPurchaseCredits5" xml:space="preserve">
+    <value>Aukeratu ordaintzeko metodoa eta jarraitu pantailan ikusiko dituzun pausoak. Ordainketa egiteko pasabide seguru batera bidaliko zaitugu ordainketa  burutu dezazun</value>
+  </data>
   <data name="HelpPurchaseCredits6" xml:space="preserve">
     <value>Erosketa berresten duzunean, zure walleteko saldoa eguneratuko da Langademyuko kredituak erabili ahal izango dituzu</value>
   </data>
@@ -492,8 +645,23 @@
   <data name="HelpInvoices1" xml:space="preserve">
     <value>Aukeratu Fakturak Nire Walleteko menu nagusian zure Langademyko fakturak kontsultatzeko</value>
   </data>
+  <data name="HelpInvoices2" xml:space="preserve">
+    <value>Orrialde honetan Langademyk hilero emititzen dituen fakturak kontsultatu ahal izango dituzu.  Kontuan izan periodo batetan transtsakzioak izan badituzu soilik emitituko dizula faktura ({0}). Gainera, faktura hauek gure zerbitzuaren komisioak soilik erakutsiko dizkizu, eta ez ikasle moduan egindako ordainketak.</value>
+  </data>
+  <data name="HelpInvoices3" xml:space="preserve">
+    <value>Hileroko faktura bat emititu aurretik, zure mugimenduak eta Langademyko komisionakkontsulta ditzakezu {0}-ra joaten bazara.</value>
+  </data>
   <data name="HelpInvoices4" xml:space="preserve">
     <value>Hileko faktura bat emititzen denean, zure Wallet kontutik kobratuko zaizu, eta inoiz ez zure PayPal edo kreditu txarteletik.</value>
+  </data>
+  <data name="HelpInvoices5" xml:space="preserve">
+    <value>Hileroko faktura bat kobratzen zaizunean, trantsakzio berri bat geituko zaizu zure Walleteko trantsakzio historian eta hileroko Langademyko komisioaren kopurua eguneratu egingo da.</value>
+  </data>
+  <data name="HelpTimeBankApp1" xml:space="preserve">
+    <value>Denbora banku aplikazioan denbora bankuarekin egindako deien historikoa eta zure denbora saldoa kontsultatu ahal izango dituzu</value>
+  </data>
+  <data name="HelpTimeBankApp2" xml:space="preserve">
+    <value><![CDATA[Denbora Bankuaren aplikaziora sartzeko joan zure kontrol panelera <span class="lg lg-apps"></span> eta bertan denbora bankuko botoia <span class="lg lg-time-bag"></span> sakatu]]></value>
   </data>
   <data name="HelpTimeBankApp3" xml:space="preserve">
     <value>Denbora bankuko dei bakoitzak saldoa geitu edo kenduko dizu {0}-en arabera</value>
