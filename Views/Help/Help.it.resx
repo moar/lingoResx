@@ -178,7 +178,7 @@
     <value>Studenti: Introduzione</value>
   </data>
   <data name="HelpLangademyFeeTitle" xml:space="preserve">
-    <value>Tariffa dei madrelingua</value>
+    <value>Tasso Langademy. Come funziona</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
     <value>Se vuoi parlare nella tua lingua, devi andare alla chat room della tua lingua dove si trovano gli studenti con chi conversare, prima dobbiamo rispondere a determinati requisiti:</value>
@@ -187,7 +187,7 @@
     <value>Per stabilire una tassa in una lingua particolare, è necessario disporre di un numero minimo di voti positivi. Per farli devi andare nelle chat rooms, parlare con le persone che vogliono imparare tua lingua e guadagnare un feedback positivo. Una volta che hai vinto il numero di voti necessari, si stabilirà tua tariffa</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Riempi i </value>
+    <value>Riempi i {0}</value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
     <value>Una volta approvato queste due esigenze, sarai pronto per guadagnare soldi nelle chiamate Wallet</value>
@@ -198,14 +198,17 @@
   <data name="HelpTBIntroTitle" xml:space="preserve">
     <value>Introduzione alla Banca del Tempo</value>
   </data>
+  <data name="HelpChatRoomsTitle" xml:space="preserve">
+    <value>Chat rooms</value>
+  </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>Come funziona la Banca del tempo?</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
-    <value>Introduzione a Wallet</value>
+    <value>My  Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Videochiamate Wallet</value>
+    <value>Introduzione alle videochiamate Wallet</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Ritiro di credito</value>
@@ -248,6 +251,9 @@
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
     <value>Nella tua home page si vedrà il saldo del conto Banca del Tempo. Se si accede l'applicazione Banca del Tempo è possibile visualizzare la cronologia ei dettagli dei movimenti della Banca del Tempo.</value>
+  </data>
+  <data name="HelpChatRooms4" xml:space="preserve">
+    <value>Utenti: contiene l'elenco di utenti. Clicca sugli utenti per aprire un menu con le seguenti opzioni: invia una richiesta di contatto, avviare una chiamata video, o il blocco e segnalare se ti hanno causato alcun problema.</value>
   </data>
   <data name="HelpChatRooms7" xml:space="preserve">
     <value>Se la stanza è vuota o non ce attività in quel momento, è possibile creare appuntamenti, così gli altri utenti sapranno quando sei disponibile per chattare o effettuare chiamate video. Anche c'e la possibilità di partecipare a gli appuntamenti che gli altri utenti hanno creato.</value>
@@ -487,5 +493,38 @@
   </data>
   <data name="HelpMeetupsTitle" xml:space="preserve">
     <value>Appuntamenti</value>
+  </data>
+  <data name="CompleteProfile" xml:space="preserve">
+    <value>Completa il tuo profilo</value>
+  </data>
+  <data name="HelpWhatYouCanDoTitle" xml:space="preserve">
+    <value>Cosa posso fare in Langademy?</value>
+  </data>
+  <data name="HelpHowToBegin" xml:space="preserve">
+    <value>Come iniziare</value>
+  </data>
+  <data name="HelpNativeSpeakers" xml:space="preserve">
+    <value>Madrelingua</value>
+  </data>
+  <data name="HelpStudents" xml:space="preserve">
+    <value>Studenti</value>
+  </data>
+  <data name="HelpHowToCall4" xml:space="preserve">
+    <value>Chiamata dal pannello di controllo.</value>
+  </data>
+  <data name="HelpHowToCall42" xml:space="preserve">
+    <value>Contatti online: lista dei contatti In linea</value>
+  </data>
+  <data name="HelpHowToCall5" xml:space="preserve">
+    <value>Chiamare da una chat room</value>
+  </data>
+  <data name="HelpHowToCall6" xml:space="preserve">
+    <value>Chiamare da un profilo utente</value>
+  </data>
+  <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
+    <value>Acquistare crediti</value>
+  </data>
+  <data name="HelpTimeBankAppTitle" xml:space="preserve">
+    <value>Banca del Tempo</value>
   </data>
 </root>

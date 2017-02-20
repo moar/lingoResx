@@ -201,7 +201,19 @@
   <data name="PricingDescription" xml:space="preserve">
     <value>Controlla i prezzi di Langademy, di madrelingua e studenti. Iscriviti oggi e inizia a godere le nostre offerte.</value>
   </data>
+  <data name="SearchPaidNatives" xml:space="preserve">
+    <value>Ricerca madrelingua</value>
+  </data>
   <data name="SearchPartners" xml:space="preserve">
     <value>Cerca compagni di conversazioni - Langademy</value>
+  </data>
+  <data name="SearchStudents" xml:space="preserve">
+    <value>Ricerca studenti di lingue</value>
+  </data>
+  <data name="OtherLangResources" xml:space="preserve">
+    <value>Altre risorse linguistiche</value>
+  </data>
+  <data name="OtherLanguResourcesDesc" xml:space="preserve">
+    <value>Vuoi ancora più? Visita le pagine amiche di Langademy e gode di più risorse per aiutare nel tuo processo di apprendimento della lingua</value>
   </data>
 </root>

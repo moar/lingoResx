@@ -120,6 +120,9 @@
   <data name="AccountDeactivated" xml:space="preserve">
     <value>El teu compte  ha estat desactivat. Vols activar-lo de nou?  Accedeix altre còp </value>
   </data>
+  <data name="AccountLockedOut" xml:space="preserve">
+    <value>Has introduït la contrasenya incorrecta massa vegades. Intenta-ho de nou després d'uns minuts.</value>
+  </data>
   <data name="ConfirmAddress" xml:space="preserve">
     <value>Has de confirmar la vostra adreça email. ¡Fes un cop d'ull al teu correu!</value>
   </data>

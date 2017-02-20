@@ -179,7 +179,7 @@ Aquest es el seu funcionament:  </value>
     <value>Estudiants: com començar</value>
   </data>
   <data name="HelpLangademyFeeTitle" xml:space="preserve">
-    <value>Comissió dels natius</value>
+    <value>Tarifa de Langademy. Com funciona</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
     <value>Si vols parlar en la teva llengua materna, has d'anar a la sala de xat de la teva llengua, on trobaràs estudiants amb els quals poder conversar, primerament hem de complir uns requisits:</value>
@@ -188,7 +188,7 @@ Aquest es el seu funcionament:  </value>
     <value>Per poder establir una tarifa en un idioma, has de tenir un nombre mínim de vots positius. Per aconseguir ves a les sales chat, parla amb la gent que vol aprendre el teu idioma i guanya vots positius. Una vegada que hagis guanyat el nombre de vots que es requereixen per entrar a la sala d'un idioma, podràs establir la tarifa</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
-    <value>Omple les teves </value>
+    <value>Omple les teves {0} </value>
   </data>
   <data name="HelpNativesSent5" xml:space="preserve">
     <value>Una volta complit aquests dos requisits, estaràs preparat per guanyar diners amb les trucades de Wallet</value>
@@ -199,14 +199,17 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpTBIntroTitle" xml:space="preserve">
     <value>Introducció al Banc del Temps</value>
   </data>
+  <data name="HelpChatRoomsTitle" xml:space="preserve">
+    <value>Sales de xat</value>
+  </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
     <value>Com funciona el Banc del Temps?</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
-    <value>Introducció a Wallet</value>
+    <value>My Wallet</value>
   </data>
   <data name="HelpWalletRoomsTitle" xml:space="preserve">
-    <value>Videotrucades Wallet</value>
+    <value>Introducció a les videotrucades Wallet</value>
   </data>
   <data name="HelpWithdrawalTitle" xml:space="preserve">
     <value>Retirada de crèdits</value>
@@ -249,6 +252,9 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
     <value>A la teva pàgina d'inici podràs veure el saldo del compte del Banc del Temps. Si accedeixes a l'aplicació de la teva Banc del Temps podràs consultar l'històric i els detalls dels teus moviments al Banc del Temps.</value>
+  </data>
+  <data name="HelpChatRooms4" xml:space="preserve">
+    <value>Usuaris: Conté la llista d'usuaris connectats. Fes clic en els usuaris de la llista per obrir un menú amb les següents opcions: enviar sol·licitud de contacte, començar una trucada de vídeo, i denunciar-los o bloquejar-si t'han causat algun problema</value>
   </data>
   <data name="HelpChatRooms7" xml:space="preserve">
     <value>Si l'habitació és buida o no hi ha cap activitat en aquest moment, pots crear quedades perquè la resta d'usuaris vegin quan estaràs disponible per xatejar o fer videotrucades. També pots unir-te a les quedades que altres usuaris han creat.</value>
@@ -486,5 +492,38 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="HelpMeetupsTitle" xml:space="preserve">
     <value>Quedades</value>
+  </data>
+  <data name="CompleteProfile" xml:space="preserve">
+    <value>Completa el teu perfil</value>
+  </data>
+  <data name="HelpWhatYouCanDoTitle" xml:space="preserve">
+    <value>Què puc fer en Langademy?</value>
+  </data>
+  <data name="HelpHowToBegin" xml:space="preserve">
+    <value>Com començar</value>
+  </data>
+  <data name="HelpNativeSpeakers" xml:space="preserve">
+    <value>Natius</value>
+  </data>
+  <data name="HelpStudents" xml:space="preserve">
+    <value>Estudiants</value>
+  </data>
+  <data name="HelpHowToCall4" xml:space="preserve">
+    <value>Trucar des del Panell de Control</value>
+  </data>
+  <data name="HelpHowToCall42" xml:space="preserve">
+    <value>Contactes Online: Llista de contactes online actualment</value>
+  </data>
+  <data name="HelpHowToCall5" xml:space="preserve">
+    <value>Trucar des d'una sala xat</value>
+  </data>
+  <data name="HelpHowToCall6" xml:space="preserve">
+    <value>Trucar des d'un perfil d'usuari</value>
+  </data>
+  <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
+    <value>Comprar crèdits</value>
+  </data>
+  <data name="HelpTimeBankAppTitle" xml:space="preserve">
+    <value>Banc del Temps</value>
   </data>
 </root>

@@ -138,4 +138,16 @@
   <data name="SearchSubTitleLanguage" xml:space="preserve">
     <value>Impara {0} on-line, è gratis! Non dimentichi di essere collaborativo. Parla nella tua lingua madre e riceverai la stessa quantità di tempo per praticare altre lingue con i madrelingua</value>
   </data>
+  <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
+    <value>Ricerca di madrelingua in base alle proprie preferenze. Controlla la loro esperienza e le risposte positive e chiede conversazioni private con loro</value>
+  </data>
+  <data name="SearchConversationPartnersTitle" xml:space="preserve">
+    <value>Ricerca compagni di conversazione</value>
+  </data>
+  <data name="SearchLanguageStudentsTitle" xml:space="preserve">
+    <value>Ricerca studenti di lingue</value>
+  </data>
+  <data name="SearchCustomUsersTitle" xml:space="preserve">
+    <value>Ricerca compagni di conversazione</value>
+  </data>
 </root>

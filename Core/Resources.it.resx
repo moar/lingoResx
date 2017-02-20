@@ -120,6 +120,9 @@
   <data name="AccountDeactivated" xml:space="preserve">
     <value>Il tuo account è stato disattivato. Vuoi riattivare l'account? Accedi di nuovo</value>
   </data>
+  <data name="AccountLockedOut" xml:space="preserve">
+    <value>Hai inserito la password sbagliata troppe volte. Riprova dopo qualche minuto.</value>
+  </data>
   <data name="ConfirmAddress" xml:space="preserve">
     <value>È necessario confermare il tuo indirizzo e-mail. Controlla la tua casella di posta</value>
   </data>

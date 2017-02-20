@@ -138,4 +138,16 @@
   <data name="SearchSubTitleLanguage" xml:space="preserve">
     <value>Aprèn {0} online, ¡és gratis! No oblidis ser col·laboratiu. Parla la teva llengua materna i et donarem la mateixa quantitat de temps perquè practiquis altres idiomes amb natius</value>
   </data>
+  <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
+    <value>Busca parlants natius que s'adaptin a les teves preferències. Revisa la seva experiència i vots positius i sol·licita converses privades amb ells</value>
+  </data>
+  <data name="SearchConversationPartnersTitle" xml:space="preserve">
+    <value>Busca companys de conversa</value>
+  </data>
+  <data name="SearchLanguageStudentsTitle" xml:space="preserve">
+    <value>Busca estudiants d'idiomes</value>
+  </data>
+  <data name="SearchCustomUsersTitle" xml:space="preserve">
+    <value>Busca companys de conversa</value>
+  </data>
 </root>

@@ -136,7 +136,7 @@
     <value>Txat geletan aurki ditzakezu hizkuntza trukerako mintzalagunak. Aukeratu gela bat eskuin panelean eta has zaitez zure hizkuntza gogokoenetan hitz egiten! Gogoratu bilera taula kontsulta dezakezula bilerak noiz izango diren ikusteko.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
-    <value>Denbora bankua hizkuntza trukea guztiontzat errentagarria izateko modu bat da. Hau da bere funtzionamendua:</value>
+    <value>Denbora bankuak hizkuntza elkartrukeak Langademyko komunitatearen onura bermatzeko mekanismo bat eskaintzen du. Hots, denbora bankuko dei bat egiten baduzu hiztun natibo batekin, zuk ere beste ikasle batzuekin zure hizkuntza natiboan hitz egin beharko duzu. Langademyko dei guztien iraupenak gordetzen ditu, beraz ez zaitez kalkuluez arduratu. Zure saldoa kontsultatu ({0}) eta zeuk eta saldoa ikusiz, zeuk erabaki zure hizkuntza natiboan konbertsazio gehiago behar dituzun. Hau da denbora bankuaren funtzionamendu zehatza:</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
     <value>Langademyn izena ematen duzunean 30 minuturekin hasiko zara nahi duzun hizkuntzan hitz egin dezazun.</value>
@@ -184,7 +184,7 @@
     <value>Zure hizkuntza natiboan hitz eginez dirua irabaztea nahi baduzu baldintza batzuk bete behar dituzu:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
-    <value>Walleta erabili ahal izateko, hizkuntza bakoitzean boto positibo kopuru bat edukitzea eskatzen da. Botu hauek lortzeko, jo txat geletara, hitz egin ezazu beste mintzalagun batzuekin zure hizkuntza natiboan eta irabaz itzazu boto positiboak. Hizkuntza batean botu positibo nahikoa dituzunean, hizkuntza horretarako tarifa bat ezarri, Wallet deiak egin eta dirua irabazteko prest egongo zara</value>
+    <value>Walleta erabili ahal izateko, hizkuntza bakoitzean boto positibo kopuru bat edukitzea eskatzen da. Botu hauek lortzeko, egin doako bideo deiak edo denbora bankuko deiak zure hizkuntza natiboan  beste ikasle batzuekin eta irabaz itzazu boto positiboak. Hizkuntza batean botu positibo nahikoa dituzunean, hizkuntza horretarako tarifa bat ezarri, Wallet deiak egin eta dirua irabazteko prest egongo zara</value>
   </data>
   <data name="HelpNativesSent4" xml:space="preserve">
     <value>Bete ezazu {0}.</value>
@@ -280,10 +280,10 @@
     <value>Saldo totala: komisiorik aplikatu gabe izango zenukeen saldoa adierazten du</value>
   </data>
   <data name="HelpWalletFees4" xml:space="preserve">
-    <value>Langademyko komisioa: hilaren bukaeran, Langademyk %13ko komisio bat kobratzen du natiboen konbertsazioengatik. Komisio hau hurrengo hileko fakturan aplikatuko da. Komisio hau ez da natiboaren kontutik kobratuko hurrengo faktura emititu arte, hala ere, komisioaren kreditu kopuru hori ezin izango da beste erosketa batzuk egiteko erabili.</value>
+    <value>Langademyko komisioa: hilaren bukaeran, Langademyk %13ko komisio bat kobratzen du natiboen konbertsazioengatik. Komisio hau hurrengo hileko fakturan aplikatuko da {0}. Komisio hau ez da natiboaren kontutik kobratuko hurrengo faktura emititu arte, hala ere, komisioaren kreditu kopuru hori ezin izango da beste gastu batzuk egiteko erabili.</value>
   </data>
   <data name="HelpWalletFees5" xml:space="preserve">
-    <value>Kredituak ateratzeko eskariak: kredituak ateratzeko eskari bat egiten bada, eskariko kreditu kopurua ez da erabilgarri egongo beste erosketa batzuk egiteko</value>
+    <value>Kredituak ateratzeko eskariak: kredituak ateratzeko eskari bat egiten bada, eskariko kreditu kopurua ez da erabilgarri egongo beste gastu batzuk egiteko.</value>
   </data>
   <data name="HelpWalletFees6" xml:space="preserve">
     <value>Saldo eskuragarria: azaldu diren terminoak ikusirik, horrela egiten da kalkulua</value>
@@ -325,10 +325,10 @@
     <value>Bete ezazu zure fakturazio helbidea: joan My Walletera eta bete ezazu bertan</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
-    <value>My Wallet aplikazioa Langademyk zure finantzak kudeatzeko eskeintzen dizun aplikazioa da. Bertan zure mugimenduak eta zure fakturen historikoa ikusi, kredituak erosi, zure fakturazio infomazioa editatu eta kredituak ateratzeko eskaerak egin ditzakezu.</value>
+    <value><![CDATA[<span class="lg lg-wallet"></span>My Wallet aplikazioa Langademyk zure finantzak kudeatzeko eskeintzen dizun aplikazioa da. Bertan zure mugimenduak eta zure fakturen historikoa ikusi, kredituak erosi, zure fakturazio infomazioa editatu eta kredituak ateratzeko eskaerak egin ditzakezu.]]></value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>Langademyn hizkuntzak ikasteko bazaude, joan txat geletara eta bilatu itzazu hiztun natiboak eta ikusi beraien tarifak</value>
+    <value><![CDATA[My Wallet aplikazioa zure kontrol panelean App-en botoia <span class="lg lg-apps"></span> sakatuz eta bertan Walleteko botoia <span class="lg lg-wallet"></span> aukeratuz zabaldu dezakezu]]></value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Langademyko laguntza</value>

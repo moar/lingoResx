@@ -180,6 +180,9 @@
   <data name="wallet-video-calls-intro" xml:space="preserve">
     <value>ajuda/introduccio-videotrucadas-wallet</value>
   </data>
+  <data name="wallet-langademy-fee" xml:space="preserve">
+    <value>ajuda/comissio-langademy-wallet</value>
+  </data>
   <data name="wallet-withdrawals" xml:space="preserve">
     <value>ajuda/retirar-credits-wallet</value>
   </data>
@@ -193,7 +196,7 @@
     <value>converses-de-pagament-amb-natius</value>
   </data>
   <data name="search" xml:space="preserve">
-    <value>cercar</value>
+    <value>Buscar</value>
   </data>
   <data name="search-language-students" xml:space="preserve">
     <value>buscar-estudiants-de-idiomes</value>
@@ -202,10 +205,10 @@
     <value>ajuda/que-pots-fer-en-langademy</value>
   </data>
   <data name="how-to-make-video-call" xml:space="preserve">
-    <value>help/how-to-make-video-call</value>
+    <value>ajuda/com-fer-videotrucades</value>
   </data>
   <data name="help-invoicing-data" xml:space="preserve">
-    <value>ajuda/help-invoicing-data</value>
+    <value>ajuda/dades-de-facturacio</value>
   </data>
   <data name="my-wallet-transactions" xml:space="preserve">
     <value>ajuda/transaccio-meu-wallet</value>
@@ -214,7 +217,7 @@
     <value>ajuda/comprar-credits</value>
   </data>
   <data name="help-invoices" xml:space="preserve">
-    <value>help/invoices</value>
+    <value>ajuda/factures</value>
   </data>
   <data name="help-time-bank" xml:space="preserve">
     <value>ajuda/banc-de-temps</value>

@@ -201,7 +201,19 @@
   <data name="PricingDescription" xml:space="preserve">
     <value>Revisa els preus de Langademy per als parlants natius i els estudiants. Uneix-te avui i comença a gaudir de les nostres ofertes.</value>
   </data>
+  <data name="SearchPaidNatives" xml:space="preserve">
+    <value>Busca parlants natius</value>
+  </data>
   <data name="SearchPartners" xml:space="preserve">
     <value>Busca companys de conversa - Langademy</value>
+  </data>
+  <data name="SearchStudents" xml:space="preserve">
+    <value>Busca estudiants d'idiomes</value>
+  </data>
+  <data name="OtherLangResources" xml:space="preserve">
+    <value>Altres recursos lingüístics</value>
+  </data>
+  <data name="OtherLanguResourcesDesc" xml:space="preserve">
+    <value>Vols més encara? Visita les pàgines amigues de Langademy i gaudeix de més recursos que t'ajudaran en el teu procés d'aprenentatge de l'idioma</value>
   </data>
 </root>
