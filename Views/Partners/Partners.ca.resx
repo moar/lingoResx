@@ -122,6 +122,9 @@
   
   
   
+  <data name="Babla" xml:space="preserve">
+    <value><![CDATA[<a0> bab.la </a0> és un portal d'idiomes interactiu i una revista online per gent que viu fora del seu país. Ofereix gratuïtament a tots els seus usuaris diccionaris bilingües, un bloc amb articles sobre la vida a l'estranger, proves i jocs d'idiomes. Fundada en els seus orígens com un diccionari multilingüe, bab.la ha evolucionat recentment per esdevenir un espai online per a ciutadans del món apassionats no només pels idiomes, sinó també per la vida a l'estranger. No obstant això, mudar-se a l'estranger pot comportar algunes dificultats que l'equip de bab.la també coneix bé. Per això estem determinats a construir ponts entre els expatriats i els seus destins d'acollida per tot el món, i fer possible la comunicació independentment de l'idioma i les diferències culturals.]]></value>
+  </data>
   <data name="Dictionary" xml:space="preserve">
     <value>Diccionari</value>
   </data>

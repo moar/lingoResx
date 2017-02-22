@@ -147,7 +147,13 @@
   <data name="SearchLanguageStudentsTitle" xml:space="preserve">
     <value>Busca estudiants d'idiomes</value>
   </data>
+  <data name="SearchPaidConversationPartnersSubtitle" xml:space="preserve">
+    <value>Busca parlants natius que s'adaptin a les teves preferències. Revisa la seva experiència, vots positius i tarifes i sol·licita converses privades amb ells</value>
+  </data>
   <data name="SearchCustomUsersTitle" xml:space="preserve">
     <value>Busca companys de conversa</value>
+  </data>
+  <data name="SearchCustomUserSubtitle" xml:space="preserve">
+    <value>Busca companys de conversa i filtra'ls usant el filtre del teu tauler de control</value>
   </data>
 </root>

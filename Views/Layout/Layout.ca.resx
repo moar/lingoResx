@@ -201,14 +201,29 @@
   <data name="PricingDescription" xml:space="preserve">
     <value>Revisa els preus de Langademy per als parlants natius i els estudiants. Uneix-te avui i comença a gaudir de les nostres ofertes.</value>
   </data>
+  <data name="SearchExchangeNatives" xml:space="preserve">
+    <value>Busca companys natius per a intercanvis d'idioma</value>
+  </data>
+  <data name="SearchExchangeNativesDesc" xml:space="preserve">
+    <value>Busca parlants natius per als teus intercanvis d'idiomes i utilitza el teu temps com a moneda de canvi</value>
+  </data>
   <data name="SearchPaidNatives" xml:space="preserve">
     <value>Busca parlants natius</value>
+  </data>
+  <data name="SearchPaidNativesDesc" xml:space="preserve">
+    <value>Busca parlants natius que s'adaptin a les teves preferències. Revisa la seva experiència, vots positius i tarifes i sol·licita converses privades amb ells</value>
   </data>
   <data name="SearchPartners" xml:space="preserve">
     <value>Busca companys de conversa - Langademy</value>
   </data>
+  <data name="SearchPartnersDesc" xml:space="preserve">
+    <value>Busca parlants nadius o estudiants d'idiomes a Langademy. Pots utilitzar el teu temps o crèdits de Langademy com a moneda de canvi</value>
+  </data>
   <data name="SearchStudents" xml:space="preserve">
     <value>Busca estudiants d'idiomes</value>
+  </data>
+  <data name="SearchStudentsDescription" xml:space="preserve">
+    <value>Busca als teus alumnes potencials. Edita el teu disponibilitat al teu calendari per rebre sol·licituds de converses o crea quedades per conèixer a nous estudiants.</value>
   </data>
   <data name="OtherLangResources" xml:space="preserve">
     <value>Altres recursos lingüístics</value>

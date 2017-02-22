@@ -147,7 +147,13 @@
   <data name="SearchLanguageStudentsTitle" xml:space="preserve">
     <value>Ricerca studenti di lingue</value>
   </data>
+  <data name="SearchPaidConversationPartnersSubtitle" xml:space="preserve">
+    <value>Cerca madrelingua in base alle tue preferenze. Controlla la sua esperienza, i tassi, i feedback positivi e richiede conversazioni private con loro</value>
+  </data>
   <data name="SearchCustomUsersTitle" xml:space="preserve">
     <value>Ricerca compagni di conversazione</value>
+  </data>
+  <data name="SearchCustomUserSubtitle" xml:space="preserve">
+    <value>Cerca compagni di conversazione e filtrarli usando il filtro del pannello di controllo</value>
   </data>
 </root>
