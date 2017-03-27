@@ -201,14 +201,29 @@
   <data name="PricingDescription" xml:space="preserve">
     <value>Controlla i prezzi di Langademy, di madrelingua e studenti. Iscriviti oggi e inizia a godere le nostre offerte.</value>
   </data>
+  <data name="SearchExchangeNatives" xml:space="preserve">
+    <value>Cerca compagni madrelingua per scambi linguistici</value>
+  </data>
+  <data name="SearchExchangeNativesDesc" xml:space="preserve">
+    <value>Cerca madrelingua per i tuoi scambi linguistici e utilizza il tuo tempo come moneta di scambio</value>
+  </data>
   <data name="SearchPaidNatives" xml:space="preserve">
     <value>Ricerca madrelingua</value>
+  </data>
+  <data name="SearchPaidNativesDesc" xml:space="preserve">
+    <value>Cerca madrelingua in base alle tue preferenze. Controlla la sua esperienza, i tassi, i feedback positivi e richiede conversazioni private con loro</value>
   </data>
   <data name="SearchPartners" xml:space="preserve">
     <value>Cerca compagni di conversazioni - Langademy</value>
   </data>
+  <data name="SearchPartnersDesc" xml:space="preserve">
+    <value>Cerca madrelingua o studenti di lingua in Langademy. Puoi usare il tuo tempo o crediti di Langademy come moneta di scambio</value>
+  </data>
   <data name="SearchStudents" xml:space="preserve">
     <value>Ricerca studenti di lingue</value>
+  </data>
+  <data name="SearchStudentsDescription" xml:space="preserve">
+    <value>Cerca studenti potenziali. Modifica la tua disponibilità sul calendario per ricevere le richieste per i colloqui o crea appuntamenti per incontrare nuovi studenti.</value>
   </data>
   <data name="OtherLangResources" xml:space="preserve">
     <value>Altre risorse linguistiche</value>

@@ -253,6 +253,9 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpTBIntro2" xml:space="preserve">
     <value>A la teva pàgina d'inici podràs veure el saldo del compte del Banc del Temps. Si accedeixes a l'aplicació de la teva Banc del Temps podràs consultar l'històric i els detalls dels teus moviments al Banc del Temps.</value>
   </data>
+  <data name="HelpChatRooms1" xml:space="preserve">
+    <value><![CDATA[Les sales de xat són el lloc on pots conèixer grups de companys de conversa, tant natius com a estudiants. En primer lloc has d'afegir al teu perfil els idiomes que t'interessen. En cas contrari no podràs entrar a les sales de xat d'aquests idiomes. Un cop fet, veu al panell de control, clica <span0> </span0> i selecciona l'idioma de la sala de xat per obrir-la.]]></value>
+  </data>
   <data name="HelpChatRooms4" xml:space="preserve">
     <value>Usuaris: Conté la llista d'usuaris connectats. Fes clic en els usuaris de la llista per obrir un menú amb les següents opcions: enviar sol·licitud de contacte, començar una trucada de vídeo, i denunciar-los o bloquejar-si t'han causat algun problema</value>
   </data>
@@ -294,6 +297,9 @@ Aquest es el seu funcionament:  </value>
   </data>
   <data name="HelpWalletWithdrawal2" xml:space="preserve">
     <value>Els reintegraments es processen cada 15 dies. Si vols, pots editar el nombre de crèdits que hagis sol·licitat abans que el reintegrament hagi estat processat. Si ja has fet una sol·licitud, no podràs fer una altra sol·licitud fins que l'anterior sol·licitud hagi estat processada</value>
+  </data>
+  <data name="HelpWCIntro1" xml:space="preserve">
+    <value>Les trucades Wallet són per a aquells que no tenen temps per fer servir el seu temps com a moneda de canvi i volen practicar idiomes amb parlants natius</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
     <value>Requisits per fer trucades Wallet</value>
@@ -505,8 +511,32 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpNativeSpeakers" xml:space="preserve">
     <value>Natius</value>
   </data>
+  <data name="HelpNativesWalletRequirementsTitle" xml:space="preserve">
+    <value>Requisits dels natius per guanyar diners</value>
+  </data>
   <data name="HelpStudents" xml:space="preserve">
     <value>Estudiants</value>
+  </data>
+  <data name="HelpWhatYouCanDo1" xml:space="preserve">
+    <value>Langademy és una xarxa social en la qual estudiants d'idiomes i parlants natius poden practicar idiomes en línia a través de videoconferència. Es poden triar dos tipus de trucades de vídeo: Trucades Wallet o Trucades de Banc de temps.</value>
+  </data>
+  <data name="HelpWhatYouCanDo2" xml:space="preserve">
+    <value>En una trucada Wallet, els estudiants paguen als natius per tenir converses privades. En canvi en les trucades de Banc de Temps, la moneda de canvi és el temps que dediques a altres usuaris. Pots veure les seccions {0} i {1} per veure més informació sobre aquests tipus de trucada.</value>
+  </data>
+  <data name="HelpChatRooms2" xml:space="preserve">
+    <value>Pots veure diverses zones a la sala de xat:</value>
+  </data>
+  <data name="HelpChatRooms3" xml:space="preserve">
+    <value>Zona de xat: Escriu en el quadre de text de la part inferior i prem Intro per enviar un missatge al grup</value>
+  </data>
+  <data name="HelpChatRooms5" xml:space="preserve">
+    <value>Pròximes quedades: pròximes quedades organitzades per practicar l'idioma de la sala de xat. Per a més informació sobre les quedades visita {0}</value>
+  </data>
+  <data name="HelpChatRooms6" xml:space="preserve">
+    <value>Temes de la trobada: Durant les quedades veuràs la llista de temes de conversa proposats pels participants</value>
+  </data>
+  <data name="HelpHowToCall3" xml:space="preserve">
+    <value>Pots començar una vídeotrucada des de llocs diferents:</value>
   </data>
   <data name="HelpHowToCall4" xml:space="preserve">
     <value>Trucar des del Panell de Control</value>
@@ -514,11 +544,20 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Contactes Online: Llista de contactes online actualment</value>
   </data>
+  <data name="HelpHowToCall45" xml:space="preserve">
+    <value>Converses privades: Llista d'usuaris amb els que tens alguna conversa privada planificada</value>
+  </data>
   <data name="HelpHowToCall5" xml:space="preserve">
     <value>Trucar des d'una sala xat</value>
   </data>
   <data name="HelpHowToCall6" xml:space="preserve">
     <value>Trucar des d'un perfil d'usuari</value>
+  </data>
+  <data name="HelpMWTTitle" xml:space="preserve">
+    <value>Transaccions My Wallet</value>
+  </data>
+  <data name="HelpInvoicesTitle" xml:space="preserve">
+    <value>Factures de Langademy</value>
   </data>
   <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
     <value>Comprar crèdits</value>

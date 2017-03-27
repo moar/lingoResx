@@ -252,6 +252,9 @@
   <data name="HelpTBIntro2" xml:space="preserve">
     <value>Nella tua home page si vedrà il saldo del conto Banca del Tempo. Se si accede l'applicazione Banca del Tempo è possibile visualizzare la cronologia ei dettagli dei movimenti della Banca del Tempo.</value>
   </data>
+  <data name="HelpChatRooms1" xml:space="preserve">
+    <value><![CDATA[Le chat room è il posto dove puoi incontrare compagni di  conversazione, siano essi madrelingua o studenti. Per prima devi aggiungere nel tuo profilo le lingue che ti interessano. In caso contrario non ti sarà possibile entrare nelle chat room di queste lingue. Una volta fatto, vai al Pannello di controllo, clicca <span0> </span0> e seleziona la lingua della chat room per aprirlo.]]></value>
+  </data>
   <data name="HelpChatRooms4" xml:space="preserve">
     <value>Utenti: contiene l'elenco di utenti. Clicca sugli utenti per aprire un menu con le seguenti opzioni: invia una richiesta di contatto, avviare una chiamata video, o il blocco e segnalare se ti hanno causato alcun problema.</value>
   </data>
@@ -294,6 +297,9 @@
   </data>
   <data name="HelpWalletWithdrawal2" xml:space="preserve">
     <value>I remborsi sono gestite ogni 15 giorni. Se desideri, è possibile modificare il numero di crediti che hai richiesto prima che il rimborso è stato elaborato. Se avete già fatto una richiesta, non è possibile effettuare una nuova richiesta fino a quando la domanda precedente è stata elaborata</value>
+  </data>
+  <data name="HelpWCIntro1" xml:space="preserve">
+    <value>Le chiamate Wallet sono per coloro che non hanno il tempo di usare il loro tempo come moneta e vogliono praticare le lingue con madrelingua</value>
   </data>
   <data name="HelpWCR2" xml:space="preserve">
     <value>Requisiti per effettuare chiamate Wallet </value>
@@ -506,8 +512,32 @@
   <data name="HelpNativeSpeakers" xml:space="preserve">
     <value>Madrelingua</value>
   </data>
+  <data name="HelpNativesWalletRequirementsTitle" xml:space="preserve">
+    <value>Requisiti dei madrelingua per guadagnare soldi.</value>
+  </data>
   <data name="HelpStudents" xml:space="preserve">
     <value>Studenti</value>
+  </data>
+  <data name="HelpWhatYouCanDo1" xml:space="preserve">
+    <value>Langademy è una rete sociale in cui gli studenti di lingua e madrelingua possono praticare le lingue online tramite videoconferenza. È possibile scegliere tra due tipi di chiamate video: le chiamate  Wallet o le chiamate Banca del Tempo.</value>
+  </data>
+  <data name="HelpWhatYouCanDo2" xml:space="preserve">
+    <value>In una chiamata Wallet, gli studenti pagano i madrelingua per avere conversazioni private. Invece sulle chiamate Banca del Tempo, la moneta è il tempo da dedicare ad altri utenti. È possibile consultare le sezioni {0} e{1} per una maggiore informazioni su questi tipi di chiamate.</value>
+  </data>
+  <data name="HelpChatRooms2" xml:space="preserve">
+    <value>Puoi vedere diverse aree nella chat room:</value>
+  </data>
+  <data name="HelpChatRooms3" xml:space="preserve">
+    <value>Zona di chat: Scrive nella casella di testo nella parte inferiore e clicca invio per inviare un messaggio al gruppo</value>
+  </data>
+  <data name="HelpChatRooms5" xml:space="preserve">
+    <value>Prossimi appuntamenti: Prossimi appuntamenti organizzati per praticare la lingua della chat room. Per maggiori informazioni sui appuntamenti visita {0}</value>
+  </data>
+  <data name="HelpChatRooms6" xml:space="preserve">
+    <value>Tematica degli appuntamenti: Durante gli appuntamenti si vedrà visualizzato un elenco di argomenti di conversazione proposto dai partecipanti</value>
+  </data>
+  <data name="HelpHowToCall3" xml:space="preserve">
+    <value>Si può iniziare una videochiamata da diversi siti:</value>
   </data>
   <data name="HelpHowToCall4" xml:space="preserve">
     <value>Chiamata dal pannello di controllo.</value>
@@ -515,11 +545,20 @@
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Contatti online: lista dei contatti In linea</value>
   </data>
+  <data name="HelpHowToCall45" xml:space="preserve">
+    <value>Conversazioni private: Lista di utenti che hanno alcuna conversazione privata pianificata</value>
+  </data>
   <data name="HelpHowToCall5" xml:space="preserve">
     <value>Chiamare da una chat room</value>
   </data>
   <data name="HelpHowToCall6" xml:space="preserve">
     <value>Chiamare da un profilo utente</value>
+  </data>
+  <data name="HelpMWTTitle" xml:space="preserve">
+    <value>Transazioni My Wallet</value>
+  </data>
+  <data name="HelpInvoicesTitle" xml:space="preserve">
+    <value>Fatture Langademy</value>
   </data>
   <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
     <value>Acquistare crediti</value>
