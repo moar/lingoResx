@@ -144,6 +144,9 @@
   <data name="SearchConversationPartnersTitle" xml:space="preserve">
     <value>Busca companys de conversa</value>
   </data>
+  <data name="SearchLanguageStudentsSubtitle" xml:space="preserve">
+    <value>Busca estudiants que vulguin aprendre idiomes en què tu ets natiu. No t'oblidis de definir la teva disponibilitat al teu perfil perquè els estudiants et puguin fer sol·licituds</value>
+  </data>
   <data name="SearchLanguageStudentsTitle" xml:space="preserve">
     <value>Busca estudiants d'idiomes</value>
   </data>

@@ -136,8 +136,8 @@
     <value>Les sales de xat són l'espai on es troba la gent que vol intercanviar idiomes. Selecciona una sala i comença a practicar el teu idioma favorit! Recorda que pots consultar el tauler d'quedades per saber quan tindran lloc les quedades.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
-    <value>El Banc de Temps es un concepte per a que amb l'intercanvi d'idiomes tots surtin guanyant. 
-Aquest es el seu funcionament:  </value>
+    <value>El Banc de Temps es un concepte per a que amb l'intercanvi d'idiomes tots surtin guanyant. Si fas una trucada vídeo de banc de temps amb un nadiu has de contribuir amb la mateixa quantitat de temps parlant en el teu idioma natiu, amb el mateix (com un tàndem) o amb altres estudiants. Langademy registra la durada de les trucades de vídeo perquè no t'hagis de preocupar de fer els comptes. Simplement controla el teu saldo de temps ( {0} ) per veure si necessites planificar videotrucades en el teu idioma natiu i augmentar el teu saldo. Aquest és el funcionament del Banc de Temps:
+</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
     <value>Començaràs amb 30 minuts per a que puguis parlar amb l'idioma que vulguis.</value>
@@ -182,7 +182,7 @@ Aquest es el seu funcionament:  </value>
     <value>Tarifa de Langademy. Com funciona</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Si vols parlar en la teva llengua materna, has d'anar a la sala de xat de la teva llengua, on trobaràs estudiants amb els quals poder conversar, primerament hem de complir uns requisits:</value>
+    <value>Si vols guanyar diners fent vídeotrucades wallet en el teu idioma natiu, primerament hem de complir uns requisits:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
     <value>Per poder establir una tarifa en un idioma, has de tenir un nombre mínim de vots positius. Per aconseguir ves a les sales chat, parla amb la gent que vol aprendre el teu idioma i guanya vots positius. Una vegada que hagis guanyat el nombre de vots que es requereixen per entrar a la sala d'un idioma, podràs establir la tarifa</value>
@@ -535,14 +535,30 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpChatRooms6" xml:space="preserve">
     <value>Temes de la trobada: Durant les quedades veuràs la llista de temes de conversa proposats pels participants</value>
   </data>
+  <data name="HelpHowToCall1" xml:space="preserve">
+    <value><![CDATA[Fer trucades de vídeo en Langademy és fàcil. Pots trucar a un usuari des d'on vegis el símbol <span0></span0> . Fent clic sobre ell apareixerà el menú de trucada per triar l'idioma de conversa i el tipus de trucada (<span1></span1> de banc de temps o <span3></span3> de wallet). En el cas de les trucades wallet veuràs la tarifa que et cobrarà per la trucada junt a l'idioma.
+]]></value>
+  </data>
+  <data name="HelpHowToCall2" xml:space="preserve">
+    <value>Tingues en compte que l'idioma que tries en cridar determina si estàs actuant com natiu o com a estudiant, i si la trucada es paga amb temps o amb crèdits. Per tant, el saldo del compte de Wallet o del Banc de temps s'actualitzarà en conseqüència, així que presta atenció quan facis una trucada.</value>
+  </data>
   <data name="HelpHowToCall3" xml:space="preserve">
     <value>Pots començar una vídeotrucada des de llocs diferents:</value>
   </data>
   <data name="HelpHowToCall4" xml:space="preserve">
     <value>Trucar des del Panell de Control</value>
   </data>
+  <data name="HelpHowToCall41" xml:space="preserve">
+    <value><![CDATA[Clica en la pestanya <span0></span0> del panell de Control per obrir el panell de trucada. Aquí pots triar qualsevol de les següents pestanyes de trucada:]]></value>
+  </data>
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Contactes Online: Llista de contactes online actualment</value>
+  </data>
+  <data name="HelpHowToCall43" xml:space="preserve">
+    <value>Registre de trucades: Usuaris amb què has parlat recentment</value>
+  </data>
+  <data name="HelpHowToCall44" xml:space="preserve">
+    <value>Tots els contactes: La llista de tots els teus contactes ordenada alfabèticament</value>
   </data>
   <data name="HelpHowToCall45" xml:space="preserve">
     <value>Converses privades: Llista d'usuaris amb els que tens alguna conversa privada planificada</value>
@@ -550,8 +566,29 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpHowToCall5" xml:space="preserve">
     <value>Trucar des d'una sala xat</value>
   </data>
+  <data name="HelpHowToCall51" xml:space="preserve">
+    <value>Ves  al Panell d'Usuaris i clica sobre l'usuari al qual vols trucar per obrir el menú de trucada.</value>
+  </data>
   <data name="HelpHowToCall6" xml:space="preserve">
     <value>Trucar des d'un perfil d'usuari</value>
+  </data>
+  <data name="HelpHowToCall61" xml:space="preserve">
+    <value>Només pots trucar a altres usuaris des dels seus perfils si sou contactes. Si és aquest el cas, tindràs el botó de trucada a la part inferior dreta de la foto de portada de l'usuari</value>
+  </data>
+  <data name="HelpHowToCallTitle" xml:space="preserve">
+    <value>Com fer videotrucades</value>
+  </data>
+  <data name="HelpWCIntro2" xml:space="preserve">
+    <value>Com a estudiant, pots comprar crèdits que es guarden en el teu compte Wallet. Quan fas una trucada amb un parlant nadiu (nivell C2 o natiu) tu estaràs gastant crèdits del teu compte i pagaràs pel temps exacte que hagis parlat. Quan comenci una trucada, tindràs 3 minuts per decidir si vols seguir amb la conversa. Si penges en aquest període, no se't descomptaran crèdits del teu compte.</value>
+  </data>
+  <data name="HelpWCIntro3" xml:space="preserve">
+    <value>Com natiu, pots establir una tarifa / hora per a la conversa i guanyar crèdits després de cada trucada. Pots establir diferents tarifes per cada idioma.</value>
+  </data>
+  <data name="HelpWCIntro4" xml:space="preserve">
+    <value>Tingues en compte que els parlants natius no poden iniciar una videotrucada. Com els estudiants són els que paguen per les converses, són ells el que poden fer i començar una trucada</value>
+  </data>
+  <data name="HelpWCIntro5" xml:space="preserve">
+    <value>Pots gestionar el teu compte wallet des de l app {0}</value>
   </data>
   <data name="HelpMWTTitle" xml:space="preserve">
     <value>Transaccions My Wallet</value>
@@ -559,8 +596,77 @@ Aquest es el seu funcionament:  </value>
   <data name="HelpInvoicesTitle" xml:space="preserve">
     <value>Factures de Langademy</value>
   </data>
+  <data name="HelpInvoicingData1" xml:space="preserve">
+    <value>Selecciona Informació de facturació al menú principal per obrir-lo. En aquesta pàgina podràs:</value>
+  </data>
+  <data name="HelpInvoicingData2" xml:space="preserve">
+    <value>Introduir les teves dades personals perquè figuren en les factures emeses per Langademy. Si vols guanyar diners en Langademy has de completar aquest formulari ( {0} ). A més el teu navegador et demanarà permisos per compartir la ubicació quan omplis el formulari. El país de la teva adreça de facturació ha de coincidir amb el de la teva ubicació.</value>
+  </data>
+  <data name="HelpInvoicingData3" xml:space="preserve">
+    <value>Introduir el compte Paypal que vols fer servir per als reintegraments de crèdits. Aneu amb compte quan la introdueixis! No vols que Langademy enviï els teus diners a una altra persona !!</value>
+  </data>
+  <data name="HelpInvoicingDataTitle" xml:space="preserve">
+    <value>Informació de facturació</value>
+  </data>
+  <data name="HelpMWT1" xml:space="preserve">
+    <value>Selecciona Transaccions al menú principal de My Wallet per obrir l'historial de transaccions de crèdits. En aquesta pàgina pots:</value>
+  </data>
+  <data name="HelpMWT2" xml:space="preserve">
+    <value>Consulta el teu saldo disponible</value>
+  </data>
+  <data name="HelpMWT3" xml:space="preserve">
+    <value>Aquest és el número de crèdits que pots gastar en Langademy. Visita {0} per més detalls.</value>
+  </data>
+  <data name="HelpMWT4" xml:space="preserve">
+    <value>Consulta l'historial de transaccions</value>
+  </data>
+  <data name="HelpMWT5" xml:space="preserve">
+    <value>Totes les operacions que modifiquin el teu saldo de crèdits d'estar incloses aquí. (Ex: compres de crèdits, crèdits guanyats i gastats fent videotrucades Wallet, cobraments de factures i reintegraments de crèdits)</value>
+  </data>
+  <data name="HelpPurchaseCredits1" xml:space="preserve">
+    <value>Selecciona Botiga de crèdits en el menú principal de My Wallet per obrir la pàgina de compra de crèdits. El procés de compra es completa en uns pocs passos molt senzills:</value>
+  </data>
+  <data name="HelpPurchaseCredits2" xml:space="preserve">
+    <value>Introdueix el nombre de crèdits que vols comprar</value>
+  </data>
+  <data name="HelpPurchaseCredits3" xml:space="preserve">
+    <value><![CDATA[1 crèdit Langademy <span0>€</span0> = 1EURO€]]></value>
+  </data>
+  <data name="HelpPurchaseCredits4" xml:space="preserve">
+    <value>Comprova la compra mínima de crèdits, que depèn del mètode de pagament que seleccions. Si la teva ubicació està disponible i la moneda local del teu país no és l'Euro, pots veure una conversió estimat a la teva moneda. Tingues en compte que aquesta conversió és només informativa, ja que la taxa de canvi final l'apliquen les entitats bancàries.</value>
+  </data>
+  <data name="HelpPurchaseCredits5" xml:space="preserve">
+    <value>Selecciona el mètode de pagament i segueix els passos en pantalla. El navegador et redireccionarà a la passarel·la de pagament segura per completar el pagament.</value>
+  </data>
+  <data name="HelpPurchaseCredits6" xml:space="preserve">
+    <value>Una vegada que confirmis el pagament, s'actualitzarà el teu saldo de My Wallet i podràs utilitzar els teus crèdits en Langademy</value>
+  </data>
   <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
     <value>Comprar crèdits</value>
+  </data>
+  <data name="HelpInvoices1" xml:space="preserve">
+    <value>Tria Factures al menú principal de My Wallet per obrir la pàgina de factures de Langademy</value>
+  </data>
+  <data name="HelpInvoices2" xml:space="preserve">
+    <value>En aquesta pàgina pots buscar les factures que Langademy emet mensualment. Tingues en compte que només s'emet la factura si durant el període de facturació tens transaccions per què Langademy cobri ({0}). Tingues també en compte que aquestes factures únicament inclouen les comissions de Langademy pel nostre servei, però no els pagaments com a estudiant a natius o professors</value>
+  </data>
+  <data name="HelpInvoices3" xml:space="preserve">
+    <value>Abans que s'emeti la factura mensual pots fer el seguiment de les teves despeses en {0} i també pots consultar les comissions de Langademy.</value>
+  </data>
+  <data name="HelpInvoices4" xml:space="preserve">
+    <value>Quan s'hagi emès una factura mensual, es farà el cobrament del teu compte de wallet, i mai es farà de la targeta de crèdit o del teu compte PayPal</value>
+  </data>
+  <data name="HelpInvoices5" xml:space="preserve">
+    <value>Quan es cobra una factura mensual tindràs una nova transacció en l'historial de transaccions de My Wallet i la comissió mensual de Langademy s'actualitzarà.</value>
+  </data>
+  <data name="HelpTimeBankApp1" xml:space="preserve">
+    <value>El Banc de Temps és l'app on podràs fer el seguiment de les teves trucada de Banc del temps i podràs veure el teu saldo de temps.</value>
+  </data>
+  <data name="HelpTimeBankApp2" xml:space="preserve">
+    <value><![CDATA[Pots obrir el Banc de Temps fent clic al botó Apps <span0></span0> del Panell de Control i seleccionant el botó Banc de Temps <span1></span1>]]></value>
+  </data>
+  <data name="HelpTimeBankApp3" xml:space="preserve">
+    <value>Cada trucada de banc de temps t'afegirà o restarà temps del teu saldo de temps d'acord a {0}</value>
   </data>
   <data name="HelpTimeBankAppTitle" xml:space="preserve">
     <value>Banc del Temps</value>

@@ -185,7 +185,7 @@
   </data>
   <data name="ProfMinutes" xml:space="preserve">
     <value>minuts</value>
-  </data> 
+  </data>
   <data name="ProfNextMeetups" xml:space="preserve">
     <value>Pròximes quedades </value>
   </data>
@@ -224,5 +224,14 @@
   </data>
   <data name="VPWalletCall" xml:space="preserve">
     <value>Trucada Wallet</value>
+  </data>
+  <data name="AvDropGoCal" xml:space="preserve">
+    <value>Completar el meu calendari</value>
+  </data>
+  <data name="AvDropText" xml:space="preserve">
+    <value>No has definit hores en el teu calendari en què vagis a estar disponible per xatejar, amb el que els altres no poden posar-se en contacte amb tu. Completa almenys dues hores lliures durant les pròximes dues setmanes si vols seguir endavant!</value>
+  </data>
+  <data name="AvDropTitle" xml:space="preserve">
+    <value>Vols veure el perfil de {0}?</value>
   </data>
 </root>

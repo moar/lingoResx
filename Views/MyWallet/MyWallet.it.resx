@@ -418,7 +418,7 @@
     <value>Saldo attuale</value>
   </data>
   <data name="ReqCashoutNote" xml:space="preserve">
-    <value>Nota: le richieste di rimborsis vengono elaborate una volta alla settimana. È possibile seguie lo stato della tua richiesta al Cash Out -&gt; registro attività</value>
+    <value>Nota: le richieste di rimborsis vengono elaborate due volte al mese. È possibile seguie lo stato della tua richiesta al Cash Out -&gt; registro attività</value>
   </data>
   <data name="ReqCashoutPaypalAccount" xml:space="preserve">
     <value>Conto PayPal</value>

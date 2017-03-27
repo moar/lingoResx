@@ -358,7 +358,7 @@
     <value>Compte PayPal</value>
   </data>
   <data name="CShopBillInfo" xml:space="preserve">
-    <value>Informació de facturació</value>
+    <value>Dades de facturació</value>
   </data>
   <data name="CShopBills" xml:space="preserve">
     <value>Factures</value>
@@ -418,7 +418,7 @@
     <value>Nou saldo</value>
   </data>
   <data name="ReqCashoutNote" xml:space="preserve">
-    <value>Nota: Les peticions de reintegraments es processen un cop a la setmana. Pots seguir l'estat de les teves peticions en la secció Reintegraments -&gt; Històric</value>
+    <value>Nota: Les peticions de reintegraments es processen dues vegades al mes. Pots seguir l'estat de les teves peticions en la secció Reintegraments -&gt; Històric</value>
   </data>
   <data name="ReqCashoutPaypalAccount" xml:space="preserve">
     <value>Compte PayPal</value>

@@ -504,4 +504,7 @@
   <data name="MyCalendar" xml:space="preserve">
     <value>Nire egutegia</value>
   </data>
+  <data name="EditAvBoth" xml:space="preserve">
+    <value>Biak</value>
+  </data>
 </root>

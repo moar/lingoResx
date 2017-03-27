@@ -181,7 +181,7 @@
     <value>Tasso Langademy. Come funziona</value>
   </data>
   <data name="HelpNativesSent1" xml:space="preserve">
-    <value>Se vuoi parlare nella tua lingua, devi andare alla chat room della tua lingua dove si trovano gli studenti con chi conversare, prima dobbiamo rispondere a determinati requisiti:</value>
+    <value>Si vuoi guadagnare soldi facendo videochiamate wallet nella tua lingua, è necessario soddisfare diversi requisiti:</value>
   </data>
   <data name="HelpNativesSent3" xml:space="preserve">
     <value>Per stabilire una tassa in una lingua particolare, è necessario disporre di un numero minimo di voti positivi. Per farli devi andare nelle chat rooms, parlare con le persone che vogliono imparare tua lingua e guadagnare un feedback positivo. Una volta che hai vinto il numero di voti necessari, si stabilirà tua tariffa</value>
@@ -536,14 +536,29 @@
   <data name="HelpChatRooms6" xml:space="preserve">
     <value>Tematica degli appuntamenti: Durante gli appuntamenti si vedrà visualizzato un elenco di argomenti di conversazione proposto dai partecipanti</value>
   </data>
+  <data name="HelpHowToCall1" xml:space="preserve">
+    <value><![CDATA[Effettuare una chiamata videoLangademy è facile. È possibile chiamare un utente da dove si vede il simbolo <span0></span0>. Cliccando su di esso, il menu chiamata appare per selezionare la lingua della conversazione e del tipo di chiamata (<span1></span1> banca del tempo o <span3></span3> Wallet). Nel caso di chiamate Wallet,  vedrài il tasso addebitato per la chiamata accanto alla lingua.]]></value>
+  </data>
+  <data name="HelpHowToCall2" xml:space="preserve">
+    <value>Considera che la lingua scelta per effettuare la chiamata, determina se si agisce come un madrelingua o come studente, e se la chiamata viene pagato tempo o crediti. Pertanto, il saldo del vostro portafoglio o della Banca del tempo verrà aggiornato di conseguenza, quindi fate attenzione quando si effettua una chiamata.</value>
+  </data>
   <data name="HelpHowToCall3" xml:space="preserve">
     <value>Si può iniziare una videochiamata da diversi siti:</value>
   </data>
   <data name="HelpHowToCall4" xml:space="preserve">
     <value>Chiamata dal pannello di controllo.</value>
   </data>
+  <data name="HelpHowToCall41" xml:space="preserve">
+    <value><![CDATA[Clicca sulla scheda <span0></span0> del Pannello di controllo per aprire il pannello  chiamata. È possibile scegliere qualsiasi delle seguenti  schede di chiamata:]]></value>
+  </data>
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Contatti online: lista dei contatti In linea</value>
+  </data>
+  <data name="HelpHowToCall43" xml:space="preserve">
+    <value>Registro chiamate: gli utenti con cui hai parlato recentemente</value>
+  </data>
+  <data name="HelpHowToCall44" xml:space="preserve">
+    <value>Tutti i contatti: La lista di tutti i contatti in ordine alfabetico</value>
   </data>
   <data name="HelpHowToCall45" xml:space="preserve">
     <value>Conversazioni private: Lista di utenti che hanno alcuna conversazione privata pianificata</value>
@@ -551,8 +566,29 @@
   <data name="HelpHowToCall5" xml:space="preserve">
     <value>Chiamare da una chat room</value>
   </data>
+  <data name="HelpHowToCall51" xml:space="preserve">
+    <value>Vai a Pannello degli Utenti e clicca sull'utente che vuoi chiamare per aprire il menu di chiamata.</value>
+  </data>
   <data name="HelpHowToCall6" xml:space="preserve">
     <value>Chiamare da un profilo utente</value>
+  </data>
+  <data name="HelpHowToCall61" xml:space="preserve">
+    <value>È possibile chiamare solo altri utenti per i loro profili, se siete contatti. Se questo è il caso, avrai il pulsante di chiamata in basso a destra della foto di copertina dell'utente</value>
+  </data>
+  <data name="HelpHowToCallTitle" xml:space="preserve">
+    <value>Come effetuare videochiamate</value>
+  </data>
+  <data name="HelpWCIntro2" xml:space="preserve">
+    <value>Come studente, è possibile acquistare i crediti che vengono salvati nel tuo account Wallet. Quando si effettua una chiamata con un madrelingua (livello C2 o nativi) stai spendendo i tuoi crediti dal tuo conto e paghi per il tempo esatto che hai parlato. Quando una chiamata inizia, avrete 3 minuti per decidere se si vuole continuare la conversazione. Se appendete in quel periodo, non verrà detratto dal tuo account crediti.</value>
+  </data>
+  <data name="HelpWCIntro3" xml:space="preserve">
+    <value>Come madrelingua, è possibile impostare una tassa / ora per la conversazione e guadagnare crediti dopo ogni chiamata. È possibile impostare tariffe diverse per ogni lingua.</value>
+  </data>
+  <data name="HelpWCIntro4" xml:space="preserve">
+    <value>Ricorda, i madrelingua non possono avviare una videochiamata. Perché gli studenti stanno pagando per i colloqui, che sono loro quelli che possono fare e avviare una chiamata</value>
+  </data>
+  <data name="HelpWCIntro5" xml:space="preserve">
+    <value>Puoi gestire il account wallet dalla app {0}</value>
   </data>
   <data name="HelpMWTTitle" xml:space="preserve">
     <value>Transazioni My Wallet</value>
@@ -560,8 +596,77 @@
   <data name="HelpInvoicesTitle" xml:space="preserve">
     <value>Fatture Langademy</value>
   </data>
+  <data name="HelpInvoicingData1" xml:space="preserve">
+    <value>Seleziona Informazioni di fatturazione nel menu principale per aprirlo. In questa pagina è possibile:</value>
+  </data>
+  <data name="HelpInvoicingData2" xml:space="preserve">
+    <value>Inserisci i tuoi dati personali per apparire sulle fatture emesse da Langademy. Se vuoi fare soldi a Langademy è necessario compilare questo modulo ( {0} ). In più il browser ti chiederà il permesso di comunicare la tua posizione quando si compila il modulo. Il Paese del tuo indirizzo di fatturazione deve corrispondere a quello della tua posizione.</value>
+  </data>
+  <data name="HelpInvoicingData3" xml:space="preserve">
+    <value>Inserire il conto Paypal che si desidera utilizzare per i rimborsi di credito. Fate attenzione quando la inserite! Se non vuoi che Langademy invii il denaro a qualcun altro !!</value>
+  </data>
+  <data name="HelpInvoicingDataTitle" xml:space="preserve">
+    <value>Informazioni di fatturazione</value>
+  </data>
+  <data name="HelpMWT1" xml:space="preserve">
+    <value>Seleziona le operazioni nel menu principale My Wallet per aprire la cronologia delle transazioni di credito. In questa pagina è possibile:</value>
+  </data>
+  <data name="HelpMWT2" xml:space="preserve">
+    <value>Controlla il tuo saldo disponibile</value>
+  </data>
+  <data name="HelpMWT3" xml:space="preserve">
+    <value>Questo è il numero di crediti  che puoi spendere a Langademy. Visita {0} per maggiori dettagli</value>
+  </data>
+  <data name="HelpMWT4" xml:space="preserve">
+    <value>Controlla la cronologia delle transazioni</value>
+  </data>
+  <data name="HelpMWT5" xml:space="preserve">
+    <value>Tutte le operazioni che modificano il saldo del prestito saranno incluse qui. (Ad esempio gli acquisti di credito, crediti spesi e guadagnato facendo videochiamate Wallet,  fatture e rimborsi di credito ecc)</value>
+  </data>
+  <data name="HelpPurchaseCredits1" xml:space="preserve">
+    <value>Seleziona la bottega di crediti nel menu principale My Wallet per aprire l'acquisto di crediti. Il processo di acquisto è completato in pochi semplici passi:</value>
+  </data>
+  <data name="HelpPurchaseCredits2" xml:space="preserve">
+    <value>Inserisci il numero di crediti che vuoi acquistare</value>
+  </data>
+  <data name="HelpPurchaseCredits3" xml:space="preserve">
+    <value><![CDATA[1 credito Langademy <span0>€</span0> = 1EURO€]]></value>
+  </data>
+  <data name="HelpPurchaseCredits4" xml:space="preserve">
+    <value>Controlla l'acquisto minimo di crediti, in base al metodo di pagamento selezionato. Se la posizione è disponibile e la valuta locale del tuo paese non è l'Euro, puoi vedere una conversione stimato per la valuta. Da notare che questa conversione è solo informativa, mentre che il tasso di cambio finale sono le banche ad applicarlo.</value>
+  </data>
+  <data name="HelpPurchaseCredits5" xml:space="preserve">
+    <value>Seleziona il metodo di pagamento e segue le istruzioni sullo schermo. Il browser ti invia al gateway di pagamento sicuro per completare il pagamento.</value>
+  </data>
+  <data name="HelpPurchaseCredits6" xml:space="preserve">
+    <value>Una volta confermata il pagamento, il tuo saldo verrà aggiornato a My Wallet ed è possibile utilizzare i tuoi crediti in Langademy</value>
+  </data>
   <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
     <value>Acquistare crediti</value>
+  </data>
+  <data name="HelpInvoices1" xml:space="preserve">
+    <value>Seleziona Fatture dal menu principale del My Wallet per aprire le fatture Langademy</value>
+  </data>
+  <data name="HelpInvoices2" xml:space="preserve">
+    <value>In questa pagina puoi trovare le fatture emesse mensile di Langademy. Ricorda che la fattura viene emessa solo se nel corso del periodo di fatturazione hanno transazioni per cui Langademy incassi ({0}). Si noti inoltre che questi disegni di legge comprendono solo le commissioni Langademy per il nostro servizio, ma non come i pagamenti studente madrelingua o insegnanti.</value>
+  </data>
+  <data name="HelpInvoices3" xml:space="preserve">
+    <value>Prima di emettere la fattura mensili puoi controllare le tue spese a {0} e anche puoi controllare le commissione di Langademy. </value>
+  </data>
+  <data name="HelpInvoices4" xml:space="preserve">
+    <value>Quando si emessa una fattura mensile, sarà caricato nel tuo account My Wallet, e non sarà mai caricato dalla tua carta di credito o il tuo conto PayPal</value>
+  </data>
+  <data name="HelpInvoices5" xml:space="preserve">
+    <value>Quando si carica una fattura mensile avrà una nuova transazione nella cronologia delle transazioni My Wallet e il canone mensile di Langademy verrà aggiornato.</value>
+  </data>
+  <data name="HelpTimeBankApp1" xml:space="preserve">
+    <value>La Banca del Tempo è l'applicazione in cui è possibile tenere traccia del tuo tempo di chiamata banca e vedrete il tuo saldo di tempo.</value>
+  </data>
+  <data name="HelpTimeBankApp2" xml:space="preserve">
+    <value><![CDATA[Puoi aprire la Banca del Tempo cliccando sul pulsante Apps <span0></span0> del Pannello di Controllo e selezionando il pulsante Banca del Tempo <span1></span1>]]></value>
+  </data>
+  <data name="HelpTimeBankApp3" xml:space="preserve">
+    <value>Ogni chiamata di banca del tempo ti aggiungerà o sottrrà tempo di  tuo saldo di tempo {0}</value>
   </data>
   <data name="HelpTimeBankAppTitle" xml:space="preserve">
     <value>Banca del Tempo</value>

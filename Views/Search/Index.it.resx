@@ -144,6 +144,9 @@
   <data name="SearchConversationPartnersTitle" xml:space="preserve">
     <value>Ricerca compagni di conversazione</value>
   </data>
+  <data name="SearchLanguageStudentsSubtitle" xml:space="preserve">
+    <value>Cerca studenti che vogliono imparare le lingue in cui ci sei madrelingua. Non dimenticarti di impostare la disponibilità nel tuo profilo in modo da poter realizzare le ricchieste degli studenti</value>
+  </data>
   <data name="SearchLanguageStudentsTitle" xml:space="preserve">
     <value>Ricerca studenti di lingue</value>
   </data>

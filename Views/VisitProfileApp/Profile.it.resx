@@ -185,7 +185,7 @@
   </data>
   <data name="ProfMinutes" xml:space="preserve">
     <value>minuti</value>
-  </data> 
+  </data>
   <data name="ProfNextMeetups" xml:space="preserve">
     <value>Prossimi appuntamenti</value>
   </data>
@@ -224,5 +224,14 @@
   </data>
   <data name="VPWalletCall" xml:space="preserve">
     <value>Chiamata Wallet</value>
+  </data>
+  <data name="AvDropGoCal" xml:space="preserve">
+    <value>Completare il mio calendario</value>
+  </data>
+  <data name="AvDropText" xml:space="preserve">
+    <value>Non hai definito le ore sul calendario in cui vai ad essere disponibili per la chat, in modo che gli altri non possono contattarti. Completa almeno due ore libere durante le prossime due settimane si vuoi continuare!</value>
+  </data>
+  <data name="AvDropTitle" xml:space="preserve">
+    <value>Vuoi vedere il profilo di {0}?</value>
   </data>
 </root>

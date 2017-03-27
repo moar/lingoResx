@@ -505,4 +505,7 @@
   <data name="MyCalendar" xml:space="preserve">
     <value>Il mio calendario</value>
   </data>
+  <data name="EditAvBoth" xml:space="preserve">
+    <value>Entrambi</value>
+  </data>
 </root>

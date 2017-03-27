@@ -556,7 +556,7 @@
     <value>Historial de llamadas: Usuarios con los que has hablado recientemente </value>
   </data>
   <data name="HelpHowToCall44" xml:space="preserve">
-    <value>Todos los contactos: La lista de todos tus contatos ordenada alfabéticamente</value>
+    <value>Todos los contactos: La lista de todos tus contactos ordenada alfabéticamente</value>
   </data>
   <data name="HelpHowToCall45" xml:space="preserve">
     <value>Conversaciones privadas: Lista de usuarios con los que tienes alguna conversación privada planificada</value>
@@ -607,7 +607,7 @@
     <value>Información de facturación</value>
   </data>
   <data name="HelpMWT1" xml:space="preserve">
-    <value>Selecciona Transacciones en el menú principal de Mi Wallet para abrir tu historial de transacciones de créditos. En esta página puedes:</value>
+    <value>Selecciona Transacciones en el menú principal de My Wallet para abrir tu historial de transacciones de créditos. En esta página puedes:</value>
   </data>
   <data name="HelpMWT2" xml:space="preserve">
     <value>Consulta tu saldo disponible</value>
@@ -622,7 +622,7 @@
     <value>Todas las operaciones que modifiquen tu saldo de créditos estarán incluidas aquí. (ej: compras de créditos, créditos ganados y gastados  haciendo videollamadas Wallet, cobros de facturas y reintegros de créditos)</value>
   </data>
   <data name="HelpPurchaseCredits1" xml:space="preserve">
-    <value>Selecciona Tienda de créditos en el menú principal de Mi Wallet para abrir la página de compra de créditos. El proceso de compra se completa en unos pocos pasos muy sencillos:</value>
+    <value>Selecciona Tienda de créditos en el menú principal de My Wallet para abrir la página de compra de créditos. El proceso de compra se completa en unos pocos pasos muy sencillos:</value>
   </data>
   <data name="HelpPurchaseCredits2" xml:space="preserve">
     <value>Introduce el número de créditos que quieres comprar</value>
@@ -637,7 +637,7 @@
     <value>Selecciona el método de pago y sigue los pasos en pantalla. El navegador te redireccionará a la pasarela de pago segura para completar el pago.</value>
   </data>
   <data name="HelpPurchaseCredits6" xml:space="preserve">
-    <value>Una vez que confirmes el pago, se actualizará tu saldo de allet y podrás utilizar tus créditos en Langademy</value>
+    <value>Una vez que confirmes el pago, se actualizará tu saldo de My Wallet y podrás utilizar tus créditos en Langademy</value>
   </data>
   <data name="HelpPurchaseCreditsTitle" xml:space="preserve">
     <value>Compra de créditos</value>
