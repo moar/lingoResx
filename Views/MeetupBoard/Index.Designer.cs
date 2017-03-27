@@ -241,6 +241,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Both.
+        /// </summary>
+        public static string EditAvBoth {
+            get {
+                return ResourceManager.GetString("EditAvBoth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Fill in your calendar the hours you will be free to speak in your native language.
         /// </summary>
         public static string EditAvFillCalendar {

@@ -214,7 +214,7 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hora.
+        ///   Looks up a localized string similar to Hour.
         /// </summary>
         public static string Hour {
             get {

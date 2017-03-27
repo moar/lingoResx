@@ -88,6 +88,33 @@ namespace Resources.Views.VisitProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Fill my calendar.
+        /// </summary>
+        public static string AvDropGoCal {
+            get {
+                return ResourceManager.GetString("AvDropGoCal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You haven&apos;t set any available slots in your calendar, so other users won&apos;t know when you will be available to chat with them. Fill your calendar with at least two hours for the next two weeks if you want to go ahead!.
+        /// </summary>
+        public static string AvDropText {
+            get {
+                return ResourceManager.GetString("AvDropText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to see {0}&apos;s profile?.
+        /// </summary>
+        public static string AvDropTitle {
+            get {
+                return ResourceManager.GetString("AvDropTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Block.
         /// </summary>
         public static string Block {
