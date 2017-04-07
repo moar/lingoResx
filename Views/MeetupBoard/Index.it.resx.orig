@@ -118,309 +118,311 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllMeetups" xml:space="preserve">
-    <value>Todas las quedadas</value>
+    <value>Tutti gli Appuntamenti</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value>Todavía no ha empezado la quedada, pero puedes entrar a la sala y &lt;b&gt;practicar {0}&lt;/b&gt; cuando quieras</value>
+    <value>L'appuntamento non è ancora iniziato, ma puoi andare nella chat room e &lt;b&gt;praticare {0}&lt;/b&gt; quando vuoi
+</value>
   </data>
   <data name="Attend" xml:space="preserve">
-    <value>Asistir</value>
+    <value>Assistere</value>
   </data>
   <data name="AvgLevel" xml:space="preserve">
-    <value>Nivel medio</value>
+    <value>Livello medio</value>
   </data>
   <data name="CancelAttendance" xml:space="preserve">
-    <value>Cancelar Asistencia</value>
+    <value>Cancellare Assistenza </value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Cerrar</value>
+    <value>Chiudi</value>
   </data>
   <data name="MBDate" xml:space="preserve">
-    <value>Fecha</value>
+    <value>Data</value>
   </data>
   <data name="ExistingMeetupLanguage" xml:space="preserve">
-    <value>Ya existe una quedada a esta hora para hablar {0}. Apúntate a esa quedada en vez de crear una nueva</value>
+    <value>C'è già un appuntamento in questo momento per parlare {0}. Iscriviti invece di creare uno nuovo</value>
   </data>
   <data name="InvitableContactsHeader" xml:space="preserve">
-    <value>Contactos que hablan {0}</value>
+    <value>Contatti che parlano {0}</value>
   </data>
   <data name="InviteContacts" xml:space="preserve">
-    <value>Invitar Contactos</value>
+    <value>Invita Contatti</value>
   </data>
   <data name="InviteContactsDesc" xml:space="preserve">
-    <value>Selecciona los contactos que quieres invitar a esta quedada</value>
+    <value>Seleziona i contatti che desideri invitare a questo appuntamento</value>
   </data>
   <data name="MeetupHasStarted" xml:space="preserve">
-    <value>Solo te puedes apuntar a una quedada antes de su hora de inicio</value>
+    <value>È possibile partecipare solo in un appuntamento prima del suo orario di inizio</value>
   </data>
   <data name="MeetupBoard" xml:space="preserve">
-    <value>Tablón de Quedadas</value>
+    <value>Tabella di Appuntamenti </value>
   </data>
   <data name="MeetupsAllUserLanguages" xml:space="preserve">
-    <value>Hay quedadas organizadas a esta hora para hablar en cualquiera de tus idiomas. Asiste a una quedada existente en lugar de crear una nueva.</value>
+    <value>C'è già un appuntamento in questo momento per parlare. Uniciti invece di creare uno nuovo</value>
   </data>
   <data name="MyMeetups" xml:space="preserve">
-    <value>Mis quedadas</value>
+    <value>I miei appuntamenti</value>
   </data>
   <data name="NewMeetup" xml:space="preserve">
-    <value>Nueva quedada</value>
+    <value>Nuovo appuntamento</value>
   </data>
   <data name="NextPrevMeetups" xml:space="preserve">
-    <value>Anteriores y siguientes quedadas</value>
+    <value>Appuntamenti precedenti e successivi</value>
   </data>
   <data name="ReqDateTime" xml:space="preserve">
-    <value>Se requieren la fecha y la hora de inicio de la quedada</value>
+    <value>È necessario selezionare data e ora di inizio dell'appuntamento</value>
   </data>
   <data name="ReqLanguage" xml:space="preserve">
-    <value>Se requiere el idioma de la quedada</value>
+    <value>È necessario selezionare la lingua dell'appuntamento</value>
   </data>
   <data name="SelectedContactsHeader" xml:space="preserve">
-    <value>Contactos seleccionados</value>
+    <value>Contatti selezionati</value>
   </data>
   <data name="StartTime" xml:space="preserve">
-    <value>Hora de inicio</value>
+    <value>Ora di inizio</value>
   </data>
   <data name="StartTimeMin" xml:space="preserve">
-    <value>No se puede organizar una quedada antes de la hora actual</value>
+    <value>Non è possibile pianificare un appuntamento prima del suo orario di inizio</value>
   </data>
   <data name="Time" xml:space="preserve">
-    <value>Hora</value>
+    <value>Ora</value>
   </data>
   <data name="UserHasNotLanguage" xml:space="preserve">
-    <value>Sólo puedes organizar quedadas para tus idiomas</value>
+    <value>Solo è possibile programmare appuntamenti nella tua lingua</value>
   </data>
   <data name="UserNoLanguages" xml:space="preserve">
-    <value>Necesitas completar tu lista de idiomas en tu perfil antes de organizar una quedada</value>
+    <value>È necessario completare l'elenco di lingue nel tuo profilo prima di potere organizzare un appuntamento </value>
   </data>
   <data name="Natives" xml:space="preserve">
-    <value>Nativos</value>
+    <value>Nativi</value>
   </data>
   <data name="MeetupCollision" xml:space="preserve">
-    <value>Has confirmado la asistencia a otra quedada a la misma hora</value>
+    <value>Hai confermato la presenza ad appuntamento nella stessa ora</value>
   </data>
   <data name="StartTimeMax" xml:space="preserve">
-    <value>Sólo puedes organizar quedadas que comienzan en un plazo de 15 días</value>
+    <value>Solo è possibile programmare appuntamenti entro i 15 giorni</value>
   </data>
   <data name="ConfirmInvitations" xml:space="preserve">
-    <value>{0} invitaciones enviadas con éxito</value>
+    <value>Inviti {0} Inviti inviati con successo</value>
   </data>
   <data name="MeetupPast" xml:space="preserve">
-    <value>No se puede invitar a otros usuarios a asistir a una quedada que ya ha terminado</value>
+    <value>Non è possibile invitare altri utenti a partecipare a un appuntamento che è già finito</value>
   </data>
   <data name="MeetupTooClose" xml:space="preserve">
-    <value>No se puede invitar a otros usuarios a asistir a una quedada que comienza en menos de {0} horas</value>
+    <value>Non è possibile invitare altri utenti a partecipare a un appuntamento che comincia in meno di  {0} ore</value>
   </data>
   <data name="Meetup" xml:space="preserve">
-    <value>Quedada para hablar en {0} online</value>
+    <value>Appuntamento per parlare in {0} online!</value>
   </data>
   <data name="MBLanguages" xml:space="preserve">
-    <value>Idiomas</value>
+    <value>Lingue</value>
   </data>
   <data name="SelectMeetupLanguage" xml:space="preserve">
-    <value>Selecciona idioma</value>
+    <value>Seleziona la lingua</value>
   </data>
   <data name="MBNextMeetups" xml:space="preserve">
-    <value>Próximas quedadas</value>
+    <value>Prossimi appuntamenti </value>
   </data>
   <data name="MBParticipants" xml:space="preserve">
-    <value>Participantes</value>
+    <value>Partecipanti</value>
   </data>
   <data name="MBNewMeetupPopover" xml:space="preserve">
-    <value>Nuevo</value>
+    <value>Nuovo</value>
   </data>
   <data name="MBEnter" xml:space="preserve">
-    <value>Entrar</value>
+    <value>Entrare</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>La quedada ha empezado! Entra ahora a la sala y empieza a hablar en {0}</value>
+    <value>L'appuntamento è iniziato! Vai nella chat room e comincia a parlare in {0}</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value>La quedada ha finalizado. De todas formas puedes entrar a la sala y practicar {0} cuando quieras</value>
+    <value>L'appuntamento è finito. Ma ricorda che puoi andare nella chat room e praticare {0} quando vuoi</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
-    <value>Vas a compartir esta quedada en Reddit. Te sugerimos los siguientes subreddits:</value>
+    <value>Stai per condividere questo appuntamento su Reddit. Ti consigliamo i seguenti subreddits:</value>
   </data>
   <data name="CopiedToClipboard" xml:space="preserve">
-    <value>Cuando cliques Continuar, el texto de este post se copiará en el portapapeles y serás redirigido a {{:SiteUrl}</value>
+    <value>Quando si fa clic su Continua, il testo del post verrà copiato negli appunti e sarai reindirizzato alla {{:SiteUrl}}</value>
   </data>
   <data name="LangContacts" xml:space="preserve">
-    <value>Contactos de Langademy</value>
+    <value>Contatti Langademy</value>
   </data>
   <data name="MBContinue" xml:space="preserve">
-    <value>Continuar</value>
+    <value>Continuare</value>
   </data>
   <data name="MBMeetupDefaultPost" xml:space="preserve">
-    <value>Únete a mí quedada de {0} el {1} en %s</value>
+    <value>Partecipa nell'appuntamento di {0} il {1} en %s</value>
   </data>
   <data name="MBPost" xml:space="preserve">
-    <value>Postear</value>
+    <value>Inviare</value>
   </data>
   <data name="MBShareSubreddit" xml:space="preserve">
-    <value>Quedada de videochat para practicar {0} en {1}.</value>
+    <value>Appuntamento videochat per praticare {0} su {1}.</value>
   </data>
   <data name="ShareReddit" xml:space="preserve">
-    <value>Compartir en Reddit</value>
+    <value>Condividi su Reddit</value>
   </data>
   <data name="SubmitToReddit" xml:space="preserve">
-    <value>Enviar a Reddit</value>
+    <value>Invia a Reddit</value>
   </data>
   <data name="MeetupCancelled" xml:space="preserve">
-    <value>La quedada a la que intentas acceder ha sido cancelada. ¡Pero puedes crear una nueva ahora mismo!</value>
+    <value>L'appuntamento che stai tentando di accedere è stato annullato. Ma è possibile creare un nuovo in questo momento!</value>
   </data>
   <data name="MBCreateJoinMeetup" xml:space="preserve">
-    <value>Únete a una quedada o crea una nueva y comienza a practicar el idioma que quieras</value>
+    <value>Iscriviti ai appuntamenti, organizza nuovi appuntamenti, e comincia a imparare la lingua desiderata!</value>
   </data>
   <data name="MBAddTopic" xml:space="preserve">
-    <value>Añadir tema</value>
+    <value>Aggiungere un tema</value>
   </data>
   <data name="MBVotesCount" xml:space="preserve">
-    <value>Votos</value>
+    <value>Voti</value>
   </data>
   <data name="MBVoteTopics" xml:space="preserve">
-    <value>VOTACIÓN de temas</value>
+    <value>VOTE topics</value>
   </data>
   <data name="MBCategoryNoSubtopics" xml:space="preserve">
-    <value>Esta categoría no tiene subtemas</value>
+    <value>Questa categoria non ha sottoargomenti</value>
   </data>
   <data name="MBNewNotRetrieved" xml:space="preserve">
-    <value>No se han podido cargar las noticias</value>
+    <value>Non si hanno caricato le notizie</value>
   </data>
   <data name="MBNoTopicsProposed" xml:space="preserve">
-    <value>No se ha propuesto ningun tema de conversación todavía. Sé el primero en proponer un tema de conversación para la quedada</value>
+    <value>Non c'è ancora nessun argomento di conversazione. Puoi essere il primo a proporre un argomento per l'appuntamento!</value>
   </data>
   <data name="MBStartedMeetup" xml:space="preserve">
-    <value>¡La quedada ha comenzado! Entra ahora a la sala</value>
+    <value>L'appuntamento è iniziato! Entra nella chat room</value>
   </data>
   <data name="ATEnterTopic" xml:space="preserve">
-    <value>Escribe sobre un tema</value>
+    <value>Scrive su un argomento</value>
   </data>
   <data name="ATInsertTopicDesc" xml:space="preserve">
-    <value>Introduce una descripción para el tema</value>
+    <value>Inserire una descrizione per l'argomento</value>
   </data>
   <data name="ATInsertTopicTitle" xml:space="preserve">
-    <value>Introduce un título para el tema</value>
+    <value>Inserisci un titolo per l'argomento</value>
   </data>
   <data name="ATInsertUrl" xml:space="preserve">
-    <value>Puedes añadir una URL que esté relacionado con el tema</value>
+    <value>È possibile aggiungere un URL che è legato al tema</value>
   </data>
   <data name="MBSubmitTopic" xml:space="preserve">
-    <value>Enviar</value>
+    <value>Inviare</value>
   </data>
   <data name="MBTopicSearch" xml:space="preserve">
-    <value>Buscar</value>
+    <value>Cerca</value>
   </data>
   <data name="MBJoinToPost" xml:space="preserve">
-    <value>Tienes que unirte a la quedada para poder postear</value>
+    <value>Bisogna unirsi a l'appuntamento per pubblicare un post</value>
   </data>
   <data name="MBShareMeetup" xml:space="preserve">
-    <value>Compartir quedada</value>
+    <value>Condividi appuntamento</value>
   </data>
   <data name="MBViewOlderPosts" xml:space="preserve">
-    <value>Ver los posts anteriores</value>
+    <value>Vedi post precedenti</value>
   </data>
   <data name="MBComments" xml:space="preserve">
-    <value>Comentarios</value>
+    <value>Commenti</value>
   </data>
   <data name="MBTopics" xml:space="preserve">
-    <value>Temas</value>
+    <value>Tema</value>
   </data>
   <data name="MBAdvanced" xml:space="preserve">
-    <value>Avzdo.</value>
+    <value>Avz.</value>
   </data>
   <data name="MBBeginners" xml:space="preserve">
-    <value>Inic.</value>
+    <value>Elem.</value>
   </data>
   <data name="MBIntermediates" xml:space="preserve">
     <value>Inter.</value>
   </data>
   <data name="MBViewAllParts" xml:space="preserve">
-    <value>Ver todos</value>
+    <value>Visualizza tutto</value>
   </data>
   <data name="MBShortNatives" xml:space="preserve">
     <value>Nat.</value>
   </data>
   <data name="MBPostWriteComment" xml:space="preserve">
-    <value>Introduce un comentario</value>
+    <value>Inserisci un commento</value>
   </data>
   <data name="MBNoTopicsCantVote" xml:space="preserve">
-    <value>No se ha propuesto ningún tema de conversación. Apúntate a la quedada si quieres proponer un tema de conversación</value>
+    <value>Non si ha proposto nessun argomento di conversazione. Unisciti all'appuntamento se vuoi proporre un argomento alla conversazione.</value>
   </data>
   <data name="ATLatestNews" xml:space="preserve">
-    <value>Últimas noticias</value>
+    <value>Ultime notizie</value>
   </data>
   <data name="ATProvidedBy" xml:space="preserve">
-    <value>Obtenidos de</value>
+    <value>ottenuti da</value>
   </data>
   <data name="ATSelectSubCategories" xml:space="preserve">
-    <value>Selecciona las subcategorias</value>
+    <value>Seleziona le sottocategorie</value>
   </data>
   <data name="MBNoMeetups" xml:space="preserve">
-    <value>¡Únete a una quedada o crea una nueva!</value>
+    <value>Partecipa a un appuntamento o crea uno di nuovo!</value>
   </data>
   <data name="MBNoMeetupsScheduled" xml:space="preserve">
-    <value>No se han organizado quedadas</value>
+    <value>Non si sono organizzati appuntamenti</value>
   </data>
   <data name="CalendarEdit" xml:space="preserve">
-    <value>Editar Disponibilidad</value>
+    <value>Modifica disponibilità</value>
   </data>
   <data name="CalendarLoad" xml:space="preserve">
-    <value>Cargando...</value>
+    <value>Caricando..</value>
   </data>
   <data name="ConvReqs" xml:space="preserve">
-    <value>Solicitudes conversación</value>
+    <value>Richieste per conversare</value>
   </data>
   <data name="EditAvFillCalendar" xml:space="preserve">
-    <value>Rellena en tu calendario las horas a las que estarás libre para hablar en tu idioma nativo</value>
+    <value>Inserisci nell tuo calendario, l'ora in cui sarai libero a parlare tua lingua madre</value>
   </data>
   <data name="EditAvSelectType" xml:space="preserve">
-    <value>Elige si quieres recibir solicitudes para llamadas Wallet, llamadas Time banking o para cualquiera y crea tantas franjas como quieras directamente sobre el calendario</value>
+    <value>Sceglie ricevere le richieste per le chiamate Wallet,o chiamate Banca del Tempo e crea numerose band (tante come vuoi) direttamente sul calendario</value>
   </data>
   <data name="EditAvTB" xml:space="preserve">
-    <value>Banco de Tiempo</value>
+    <value>Banca del Tempo</value>
   </data>
   <data name="EditAvWallet" xml:space="preserve">
     <value>Wallet</value>
   </data>
   <data name="EditCalendar" xml:space="preserve">
-    <value>Editar calendario</value>
+    <value>Modifica il calendario</value>
   </data>
   <data name="EditSave" xml:space="preserve">
-    <value>Guardar y salir</value>
+    <value>Salvare e uscire</value>
   </data>
   <data name="IndexNoReq" xml:space="preserve">
-    <value>No has mandado ninguna solicitud de conversación</value>
+    <value>Non hai inviato nessuna richiesta di conversazione</value>
   </data>
   <data name="IndexReceived" xml:space="preserve">
-    <value>Recibidos</value>
+    <value>Ricevuti</value>
   </data>
   <data name="IndexSent" xml:space="preserve">
-    <value>Enviados</value>
+    <value>Inviati</value>
   </data>
   <data name="IndNoReq" xml:space="preserve">
-    <value>No has recibido ninguna solicitud de conversación</value>
+    <value>Non hai ricevuto nessuna richiesta per conversare</value>
   </data>
   <data name="NewConvSendReq" xml:space="preserve">
-    <value>Enviar</value>
+    <value>Inviare</value>
   </data>
   <data name="NoRequestMessages" xml:space="preserve">
-    <value>No hay mensajes en esta solicitud de conversación</value>
+    <value>Non ci sono messaggi in questa richiesta di conversazione</value>
   </data>
   <data name="EditAvSelectTypeTouch" xml:space="preserve">
-    <value>Elige si quieres recibir solicitudes para llamadas Wallet, llamadas Time banking o para cualquiera y crea tantas franjas como quieras directamente sobre el calendario. Pulsa durante un segundo en una franja vacia cuando quieras crear una nueva franja</value>
+    <value>Sceglie se vuoi ricevere le richieste per le chiamate Wallet, chiamate Banca del tempo e organizza tante celle come desideri sul calendario.Clicca per un secondo in una cella vuota quando desideri creare una nuova cella. </value>
   </data>
   <data name="ZeroConversationRequestsRec" xml:space="preserve">
-    <value>No has recibido ninguna solicitud de conversación</value>
+    <value>Non hai ricevuto nessuna richiesta di conversazione</value>
   </data>
   <data name="ZeroConversationRequestsSent" xml:space="preserve">
-    <value>No has enviado ninguna solicitud de conversación</value>
+    <value>Non hai inviato nessuna richiesta di conversazione</value>
   </data>
-  <data name="MeetupEventSummary" xml:space="preserve">
-    <value>Chat meetup - {0}</value>
-  </data>
-  <data name="ChatMeetups" xml:space="preserve">
-    <value>Chat Meetups</value>
+<<<<<<< HEAD
+</root>
+=======
+  <data name="MyCalendar" xml:space="preserve">
+    <value>Il mio calendario</value>
   </data>
   <data name="EditAvBoth" xml:space="preserve">
-    <value>Los dos</value>
+    <value>Entrambi</value>
   </data>
 </root>
+>>>>>>> 9f810efd7cf9e5dbbd22865d64c37b649d81d6dd

@@ -185,7 +185,7 @@
   </data>
   <data name="ProfMinutes" xml:space="preserve">
     <value>minutu</value>
-  </data> 
+  </data>
   <data name="ProfNextMeetups" xml:space="preserve">
     <value>Hurrengo bilerak</value>
   </data>
@@ -224,5 +224,14 @@
   </data>
   <data name="VPWalletCall" xml:space="preserve">
     <value>Wallet deia</value>
+  </data>
+  <data name="AvDropGoCal" xml:space="preserve">
+    <value>Bete zure egutegia</value>
+  </data>
+  <data name="AvDropText" xml:space="preserve">
+    <value>Ez duzu tarte librerik definitu zure egutegian. Beraz, beste erabiltzaileek ezingo dute jakin noiz egongo zaren libre beraiekin hitz egiteko. Bete itzazu gutxienez bi ordu aurrera jarraitzeko!</value>
+  </data>
+  <data name="AvDropTitle" xml:space="preserve">
+    <value>{0}-(r)en profila ikusi nahi al duzu?</value>
   </data>
 </root>

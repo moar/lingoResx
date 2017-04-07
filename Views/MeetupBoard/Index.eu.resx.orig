@@ -118,309 +118,313 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllMeetups" xml:space="preserve">
-    <value>Todas las quedadas</value>
+    <value>Bilera guztiak</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value>Todavía no ha empezado la quedada, pero puedes entrar a la sala y &lt;b&gt;practicar {0}&lt;/b&gt; cuando quieras</value>
+    <value>Oraindik ez da bilera hasi, baina nahi duzunean sar zaitezke txat gelara &lt;b&gt;{0} praktikatzeko&lt;/b&gt;</value>
   </data>
   <data name="Attend" xml:space="preserve">
-    <value>Asistir</value>
+    <value>Joango naiz</value>
   </data>
   <data name="AvgLevel" xml:space="preserve">
-    <value>Nivel medio</value>
+    <value>Batazbesteko Maila</value>
   </data>
   <data name="CancelAttendance" xml:space="preserve">
-    <value>Cancelar Asistencia</value>
+    <value>Ez naiz joango</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Cerrar</value>
+    <value>Itxi</value>
   </data>
   <data name="MBDate" xml:space="preserve">
-    <value>Fecha</value>
+    <value>Data</value>
   </data>
   <data name="ExistingMeetupLanguage" xml:space="preserve">
-    <value>Ya existe una quedada a esta hora para hablar {0}. Apúntate a esa quedada en vez de crear una nueva</value>
+    <value>Dagoeneko badago {0}(e)z hitz egiteko bilera bat ordu honetan. Batu zaitez bilerara beste bat sortu beharrean</value>
   </data>
   <data name="InvitableContactsHeader" xml:space="preserve">
-    <value>Contactos que hablan {0}</value>
+    <value>{0} hitz egiten duten kontaktuak</value>
   </data>
   <data name="InviteContacts" xml:space="preserve">
-    <value>Invitar Contactos</value>
+    <value>Kontaktuak gonbidatu</value>
   </data>
   <data name="InviteContactsDesc" xml:space="preserve">
-    <value>Selecciona los contactos que quieres invitar a esta quedada</value>
+    <value>Aukeratu bilera honetara gonbidatu nahi dituzun kontaktuak</value>
   </data>
   <data name="MeetupHasStarted" xml:space="preserve">
-    <value>Solo te puedes apuntar a una quedada antes de su hora de inicio</value>
+    <value>Bilera hasi aurretik soilik batu zaitezke</value>
   </data>
   <data name="MeetupBoard" xml:space="preserve">
-    <value>Tablón de Quedadas</value>
+    <value>Bilera taula</value>
   </data>
   <data name="MeetupsAllUserLanguages" xml:space="preserve">
-    <value>Hay quedadas organizadas a esta hora para hablar en cualquiera de tus idiomas. Asiste a una quedada existente en lugar de crear una nueva.</value>
+    <value>Zure edozein hizkuntzetarako dituzu bilerak ordu horretan. Batu zaitez bilera batera berri bat sortu beharrean</value>
   </data>
   <data name="MyMeetups" xml:space="preserve">
-    <value>Mis quedadas</value>
+    <value>Nire bilerak</value>
   </data>
   <data name="NewMeetup" xml:space="preserve">
-    <value>Nueva quedada</value>
+    <value>Bilera berria</value>
   </data>
   <data name="NextPrevMeetups" xml:space="preserve">
-    <value>Anteriores y siguientes quedadas</value>
+    <value>Aurreko eta hurrengo bilerak</value>
   </data>
   <data name="ReqDateTime" xml:space="preserve">
-    <value>Se requieren la fecha y la hora de inicio de la quedada</value>
+    <value>Bileraren hasierako data eta ordua beharrezkoak dira</value>
   </data>
   <data name="ReqLanguage" xml:space="preserve">
-    <value>Se requiere el idioma de la quedada</value>
+    <value>Bileraren hizkuntza beharrezkoa da</value>
   </data>
   <data name="SelectedContactsHeader" xml:space="preserve">
-    <value>Contactos seleccionados</value>
+    <value>Aukeratutako kontaktuak</value>
   </data>
   <data name="StartTime" xml:space="preserve">
-    <value>Hora de inicio</value>
+    <value>Hasiera data</value>
   </data>
   <data name="StartTimeMin" xml:space="preserve">
-    <value>No se puede organizar una quedada antes de la hora actual</value>
+    <value>Ezin duzu bilera bat aukeratu uneko ordua baino lehenago</value>
   </data>
   <data name="Time" xml:space="preserve">
-    <value>Hora</value>
+    <value>Ordua</value>
   </data>
   <data name="UserHasNotLanguage" xml:space="preserve">
-    <value>Sólo puedes organizar quedadas para tus idiomas</value>
+    <value>Zure hizkuntzetarako bilerak soilik antolatu ditzakezu</value>
   </data>
   <data name="UserNoLanguages" xml:space="preserve">
-    <value>Necesitas completar tu lista de idiomas en tu perfil antes de organizar una quedada</value>
+    <value>Profilean zure hizkuntzen zerrenda osatu beharra daukazu bilera bat antolatzeko</value>
   </data>
   <data name="Natives" xml:space="preserve">
-    <value>Nativos</value>
+    <value>Natiboak</value>
   </data>
   <data name="MeetupCollision" xml:space="preserve">
-    <value>Has confirmado la asistencia a otra quedada a la misma hora</value>
+    <value>Ordu berean beste bilerara bat daukazu</value>
   </data>
   <data name="StartTimeMax" xml:space="preserve">
-    <value>Sólo puedes organizar quedadas que comienzan en un plazo de 15 días</value>
+    <value>Hurrengo 15 eguneko epean soilik antolatu ditzakezu bilerak</value>
   </data>
   <data name="ConfirmInvitations" xml:space="preserve">
-    <value>{0} invitaciones enviadas con éxito</value>
+    <value>{0} gonbidapen bidali dira</value>
   </data>
   <data name="MeetupPast" xml:space="preserve">
-    <value>No se puede invitar a otros usuarios a asistir a una quedada que ya ha terminado</value>
+    <value>Bilera hau bukatuta dago, ezin duzu bertara inor gonbidatu</value>
   </data>
   <data name="MeetupTooClose" xml:space="preserve">
-    <value>No se puede invitar a otros usuarios a asistir a una quedada que comienza en menos de {0} horas</value>
+    <value>Ezin duzu {0} ordu baino gutxiagotan hasiko den bilera batera inor gonbidatu</value>
   </data>
   <data name="Meetup" xml:space="preserve">
-    <value>Quedada para hablar en {0} online</value>
+    <value>Bilera: {0} online praktika ezazu!</value>
   </data>
   <data name="MBLanguages" xml:space="preserve">
-    <value>Idiomas</value>
+    <value>Hizkuntzak</value>
   </data>
   <data name="SelectMeetupLanguage" xml:space="preserve">
-    <value>Selecciona idioma</value>
+    <value>Aukeratu hizkuntza</value>
   </data>
   <data name="MBNextMeetups" xml:space="preserve">
-    <value>Próximas quedadas</value>
+    <value>Hurrengo bilerak</value>
   </data>
   <data name="MBParticipants" xml:space="preserve">
-    <value>Participantes</value>
+    <value>Partaideak</value>
   </data>
   <data name="MBNewMeetupPopover" xml:space="preserve">
-    <value>Nuevo</value>
+    <value>Berria</value>
   </data>
   <data name="MBEnter" xml:space="preserve">
-    <value>Entrar</value>
+    <value>Sartu</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>La quedada ha empezado! Entra ahora a la sala y empieza a hablar en {0}</value>
+    <value>Bilera hasi da dagoeneko! Sar zaitez txat geara eta hasi zaitez {0} praktikatzen</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value>La quedada ha finalizado. De todas formas puedes entrar a la sala y practicar {0} cuando quieras</value>
+    <value>Bilera bukatu da dagoeneko. Baina gogora ezazu  nahi duzunean sar zaitezkeela txat geletara &lt;b&gt;{0} praktikatzeko&lt;/b&gt;</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
-    <value>Vas a compartir esta quedada en Reddit. Te sugerimos los siguientes subreddits:</value>
+    <value>Bilera hau Redditen elkarbanatu behar duzu. Ondorengo subredditak iradokitzen dizkizugu:</value>
   </data>
   <data name="CopiedToClipboard" xml:space="preserve">
-    <value>Cuando cliques Continuar, el texto de este post se copiará en el portapapeles y serás redirigido a {{:SiteUrl}</value>
+    <value>Jarraitun klikatzen baduzu, posteko textua paperzorroan kopiatuko zaizu eta {{:SiteUrl}-ra helbideratuko zaitugu</value>
   </data>
   <data name="LangContacts" xml:space="preserve">
-    <value>Contactos de Langademy</value>
+    <value>Langademyko kontaktuak</value>
   </data>
   <data name="MBContinue" xml:space="preserve">
-    <value>Continuar</value>
+    <value>Jarraitu</value>
   </data>
   <data name="MBMeetupDefaultPost" xml:space="preserve">
-    <value>Únete a mí quedada de {0} el {1} en %s</value>
+    <value>Batu zaitez {0} bilerara {1}-ean %s</value>
   </data>
   <data name="MBPost" xml:space="preserve">
-    <value>Postear</value>
+    <value>Posteatu</value>
   </data>
   <data name="MBShareSubreddit" xml:space="preserve">
-    <value>Quedada de videochat para practicar {0} en {1}.</value>
+    <value>Bideodei bilera Langademyn {0} praktikatzeko {1}</value>
   </data>
   <data name="ShareReddit" xml:space="preserve">
-    <value>Compartir en Reddit</value>
+    <value>Redditen elkarbanatu</value>
   </data>
   <data name="SubmitToReddit" xml:space="preserve">
-    <value>Enviar a Reddit</value>
+    <value>Redditera bidali</value>
   </data>
   <data name="MeetupCancelled" xml:space="preserve">
-    <value>La quedada a la que intentas acceder ha sido cancelada. ¡Pero puedes crear una nueva ahora mismo!</value>
+    <value>Bilera hau bertan bera utzi da, baina zeure bilera sortu dezakezu oraintxe bertan!</value>
   </data>
   <data name="MBCreateJoinMeetup" xml:space="preserve">
-    <value>Únete a una quedada o crea una nueva y comienza a practicar el idioma que quieras</value>
+    <value>Apunta zaitez bilera batera edo sortu ezazu berri bat eta hasi zaitez nahi duzun hizkuntza praktikatzen</value>
   </data>
   <data name="MBAddTopic" xml:space="preserve">
-    <value>Añadir tema</value>
+    <value>Gaia gehitu</value>
   </data>
   <data name="MBVotesCount" xml:space="preserve">
-    <value>Votos</value>
+    <value>Botuak</value>
   </data>
   <data name="MBVoteTopics" xml:space="preserve">
-    <value>VOTACIÓN de temas</value>
+    <value>BOZKATU gaiak</value>
   </data>
   <data name="MBCategoryNoSubtopics" xml:space="preserve">
-    <value>Esta categoría no tiene subtemas</value>
+    <value>Kategoria honek ez dauka azpigairik</value>
   </data>
   <data name="MBNewNotRetrieved" xml:space="preserve">
-    <value>No se han podido cargar las noticias</value>
+    <value>Ezin izan dugu berririk aurkitu momentu honetan</value>
   </data>
   <data name="MBNoTopicsProposed" xml:space="preserve">
-    <value>No se ha propuesto ningun tema de conversación todavía. Sé el primero en proponer un tema de conversación para la quedada</value>
+    <value>Oraindik ez da bilera honetarako mintzagairik proposatu. Izan zaitez lehenengoa!</value>
   </data>
   <data name="MBStartedMeetup" xml:space="preserve">
-    <value>¡La quedada ha comenzado! Entra ahora a la sala</value>
+    <value>Bilera hau hasi da dagoeneko! Sartu zaitez txat gelan orain!</value>
   </data>
   <data name="ATEnterTopic" xml:space="preserve">
-    <value>Escribe sobre un tema</value>
+    <value>Idatz ezazu nahi duzun gai bati buruz</value>
   </data>
   <data name="ATInsertTopicDesc" xml:space="preserve">
-    <value>Introduce una descripción para el tema</value>
+    <value>Idatz ezazu gaiaren deskribapen bat</value>
   </data>
   <data name="ATInsertTopicTitle" xml:space="preserve">
-    <value>Introduce un título para el tema</value>
+    <value>Idatz ezazu gaiaren izenburua</value>
   </data>
   <data name="ATInsertUrl" xml:space="preserve">
-    <value>Puedes añadir una URL que esté relacionado con el tema</value>
+    <value>Gaiarekin erlazionatutako URL bat sar ezazu</value>
   </data>
   <data name="MBSubmitTopic" xml:space="preserve">
-    <value>Enviar</value>
+    <value>Bidali</value>
   </data>
   <data name="MBTopicSearch" xml:space="preserve">
-    <value>Buscar</value>
+    <value>Bilatu</value>
   </data>
   <data name="MBJoinToPost" xml:space="preserve">
-    <value>Tienes que unirte a la quedada para poder postear</value>
+    <value>Posteatzeko bileran apuntatua egon behar duzu</value>
   </data>
   <data name="MBShareMeetup" xml:space="preserve">
-    <value>Compartir quedada</value>
+    <value>Bilera elkarbanatu</value>
   </data>
   <data name="MBViewOlderPosts" xml:space="preserve">
-    <value>Ver los posts anteriores</value>
+    <value>Post zaharragoak ikusi</value>
   </data>
   <data name="MBComments" xml:space="preserve">
-    <value>Comentarios</value>
+    <value>Iruzkinak</value>
   </data>
   <data name="MBTopics" xml:space="preserve">
-    <value>Temas</value>
+    <value>Gaiak</value>
   </data>
   <data name="MBAdvanced" xml:space="preserve">
-    <value>Avzdo.</value>
+    <value>Aur.</value>
   </data>
   <data name="MBBeginners" xml:space="preserve">
-    <value>Inic.</value>
+    <value>Atari</value>
   </data>
   <data name="MBIntermediates" xml:space="preserve">
-    <value>Inter.</value>
+    <value>Erdi.</value>
   </data>
   <data name="MBViewAllParts" xml:space="preserve">
-    <value>Ver todos</value>
+    <value>Guztiak ikusi</value>
   </data>
   <data name="MBShortNatives" xml:space="preserve">
     <value>Nat.</value>
   </data>
   <data name="MBPostWriteComment" xml:space="preserve">
-    <value>Introduce un comentario</value>
+    <value>Idatzi zure iruzkina</value>
   </data>
   <data name="MBNoTopicsCantVote" xml:space="preserve">
-    <value>No se ha propuesto ningún tema de conversación. Apúntate a la quedada si quieres proponer un tema de conversación</value>
+    <value>Ez da bilerarako hizketa gairik proposatu oraindik. Apunta zaitez bilerara gai bat proposatzea nahi baduzu.</value>
   </data>
   <data name="ATLatestNews" xml:space="preserve">
-    <value>Últimas noticias</value>
+    <value>Azken berriak</value>
   </data>
   <data name="ATProvidedBy" xml:space="preserve">
-    <value>Obtenidos de</value>
+    <value>Bing-en bitartez eskuratuta </value>
   </data>
   <data name="ATSelectSubCategories" xml:space="preserve">
-    <value>Selecciona las subcategorias</value>
+    <value>Aukeratu azpikategoriak</value>
   </data>
   <data name="MBNoMeetups" xml:space="preserve">
-    <value>¡Únete a una quedada o crea una nueva!</value>
+    <value>Apunta zaitez bileraren batera edo berri bat sortu ezazu!</value>
   </data>
   <data name="MBNoMeetupsScheduled" xml:space="preserve">
-    <value>No se han organizado quedadas</value>
+    <value>Ez da bilerarik antolatu oraindik</value>
   </data>
   <data name="CalendarEdit" xml:space="preserve">
-    <value>Editar Disponibilidad</value>
+    <value>Editatu zure ordu libreak</value>
   </data>
   <data name="CalendarLoad" xml:space="preserve">
-    <value>Cargando...</value>
+    <value>Kargatzen...</value>
   </data>
   <data name="ConvReqs" xml:space="preserve">
-    <value>Solicitudes conversación</value>
+    <value>Konbertsazio eskariak</value>
   </data>
   <data name="EditAvFillCalendar" xml:space="preserve">
-    <value>Rellena en tu calendario las horas a las que estarás libre para hablar en tu idioma nativo</value>
+    <value>Bete ezazu zure egutegian zure hizkuntza natiboak hitz egiteko libre egongo zaren ordutegia</value>
   </data>
   <data name="EditAvSelectType" xml:space="preserve">
-    <value>Elige si quieres recibir solicitudes para llamadas Wallet, llamadas Time banking o para cualquiera y crea tantas franjas como quieras directamente sobre el calendario</value>
+    <value>Aukera ezazu Wallet deietarako, denbora bankuko deietarako edo bietarako eskaerak jasotzea nahi duzun. Sortu itzazu nahi beste zerrenda edo karratu</value>
   </data>
   <data name="EditAvTB" xml:space="preserve">
-    <value>Banco de Tiempo</value>
+    <value>Denbora bankua</value>
   </data>
   <data name="EditAvWallet" xml:space="preserve">
-    <value>Wallet</value>
+    <value>Walleta</value>
   </data>
   <data name="EditCalendar" xml:space="preserve">
-    <value>Editar calendario</value>
+    <value>Egutegia editatu</value>
   </data>
   <data name="EditSave" xml:space="preserve">
-    <value>Guardar y salir</value>
+    <value>Gorde eta itxi</value>
   </data>
   <data name="IndexNoReq" xml:space="preserve">
-    <value>No has mandado ninguna solicitud de conversación</value>
+    <value>Ez duzu konbertsazio eskaerarik bidali oraindik</value>
   </data>
   <data name="IndexReceived" xml:space="preserve">
-    <value>Recibidos</value>
+    <value>Jasotakoak</value>
   </data>
   <data name="IndexSent" xml:space="preserve">
-    <value>Enviados</value>
+    <value>Bidalitakoak</value>
   </data>
   <data name="IndNoReq" xml:space="preserve">
-    <value>No has recibido ninguna solicitud de conversación</value>
+    <value>Ez duzu konbertsazio eskaririk jaso</value>
   </data>
   <data name="NewConvSendReq" xml:space="preserve">
-    <value>Enviar</value>
+    <value>Bidali</value>
   </data>
   <data name="NoRequestMessages" xml:space="preserve">
-    <value>No hay mensajes en esta solicitud de conversación</value>
+    <value>Ez dago mezurik konbertsazio eskaera honetan</value>
+  </data>
+  <data name="SameTimeRequests" xml:space="preserve">
+    <value>{0} konbertsazio eskaera gehiago jaso dituzu ordu berean hitz egiteko. Kontsulta itzazu zure konbertsazioak.</value>
   </data>
   <data name="EditAvSelectTypeTouch" xml:space="preserve">
-    <value>Elige si quieres recibir solicitudes para llamadas Wallet, llamadas Time banking o para cualquiera y crea tantas franjas como quieras directamente sobre el calendario. Pulsa durante un segundo en una franja vacia cuando quieras crear una nueva franja</value>
+    <value>Aukera ezazu Wallet deietarako, denbora bankuko deietarako edo bietarako eskaerak jasotzea nahi duzun. Sortu itzazu nahi beste zerrenda edo karratu, karratu bakoitzean klik luze bat eginez.</value>
   </data>
   <data name="ZeroConversationRequestsRec" xml:space="preserve">
-    <value>No has recibido ninguna solicitud de conversación</value>
+    <value>Ez duzu konbertsazio eskaerarik jaso </value>
   </data>
   <data name="ZeroConversationRequestsSent" xml:space="preserve">
-    <value>No has enviado ninguna solicitud de conversación</value>
+    <value>Ez duzu konbertsazio eskaerarik egin</value>
   </data>
-  <data name="MeetupEventSummary" xml:space="preserve">
-    <value>Chat meetup - {0}</value>
-  </data>
-  <data name="ChatMeetups" xml:space="preserve">
-    <value>Chat Meetups</value>
+<<<<<<< HEAD
+</root>
+=======
+  <data name="MyCalendar" xml:space="preserve">
+    <value>Nire egutegia</value>
   </data>
   <data name="EditAvBoth" xml:space="preserve">
-    <value>Los dos</value>
+    <value>Biak</value>
   </data>
 </root>
+>>>>>>> 9f810efd7cf9e5dbbd22865d64c37b649d81d6dd

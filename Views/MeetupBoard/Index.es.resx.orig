@@ -420,7 +420,11 @@
   <data name="ChatMeetups" xml:space="preserve">
     <value>Chat Meetups</value>
   </data>
+<<<<<<< HEAD
+</root>
+=======
   <data name="EditAvBoth" xml:space="preserve">
     <value>Los dos</value>
   </data>
 </root>
+>>>>>>> 9f810efd7cf9e5dbbd22865d64c37b649d81d6dd

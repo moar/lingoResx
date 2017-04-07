@@ -417,4 +417,10 @@
   <data name="ZeroConversationRequestsSent" xml:space="preserve">
     <value>Ez duzu konbertsazio eskaerarik egin</value>
   </data>
+  <data name="MyCalendar" xml:space="preserve">
+    <value>Nire egutegia</value>
+  </data>
+  <data name="EditAvBoth" xml:space="preserve">
+    <value>Biak</value>
+  </data>
 </root>

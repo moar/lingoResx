@@ -415,4 +415,10 @@
   <data name="ZeroConversationRequestsSent" xml:space="preserve">
     <value>Non hai inviato nessuna richiesta di conversazione</value>
   </data>
+  <data name="MyCalendar" xml:space="preserve">
+    <value>Il mio calendario</value>
+  </data>
+  <data name="EditAvBoth" xml:space="preserve">
+    <value>Entrambi</value>
+  </data>
 </root>
