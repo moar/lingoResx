@@ -228,4 +228,7 @@
   <data name="new-meetup" xml:space="preserve">
     <value>new-meetup</value>
   </data>
+  <data name="english-conversations" xml:space="preserve">
+    <value>english-conversations</value>
+  </data>
 </root>
