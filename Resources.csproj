@@ -62,8 +62,8 @@
       <HintPath>..\packages\Microsoft.WindowsAzure.ConfigurationManager.3.2.3\lib\net40\Microsoft.WindowsAzure.Configuration.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
@@ -373,6 +373,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Inbox.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\MyCalendar\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\MyWallet\MyWallet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -384,6 +389,11 @@
       <DependentUpon>Partners.resx</DependentUpon>
     </Compile>
     <Compile Include="Views\Pricing\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PrivateConversations\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
@@ -1054,6 +1064,14 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Inbox.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyCalendar\Index.ca.resx" />
+    <EmbeddedResource Include="Views\MyCalendar\Index.es.resx" />
+    <EmbeddedResource Include="Views\MyCalendar\Index.eu.resx" />
+    <EmbeddedResource Include="Views\MyCalendar\Index.it.resx" />
+    <EmbeddedResource Include="Views\MyCalendar\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\MyWallet\MyWallet.ca.resx" />
     <EmbeddedResource Include="Views\MyWallet\MyWallet.de.resx" />
     <EmbeddedResource Include="Views\MyWallet\MyWallet.es.resx">
@@ -1086,6 +1104,14 @@
     <EmbeddedResource Include="Views\Pricing\Index.fr.resx" />
     <EmbeddedResource Include="Views\Pricing\Index.it.resx" />
     <EmbeddedResource Include="Views\Pricing\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\PrivateConversations\Index.ca.resx" />
+    <EmbeddedResource Include="Views\PrivateConversations\Index.es.resx" />
+    <EmbeddedResource Include="Views\PrivateConversations\Index.eu.resx" />
+    <EmbeddedResource Include="Views\PrivateConversations\Index.it.resx" />
+    <EmbeddedResource Include="Views\PrivateConversations\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>

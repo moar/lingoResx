@@ -223,6 +223,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to my-meetups.
+        /// </summary>
+        public static string my_meetups {
+            get {
+                return ResourceManager.GetString("my-meetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/my-wallet-transactions.
         /// </summary>
         public static string my_wallet_transactions {
@@ -246,6 +255,15 @@ namespace Resources.Routes {
         public static string natives_wallet_requirements {
             get {
                 return ResourceManager.GetString("natives-wallet-requirements", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to new-meetup.
+        /// </summary>
+        public static string new_meetup {
+            get {
+                return ResourceManager.GetString("new-meetup", resourceCulture);
             }
         }
         

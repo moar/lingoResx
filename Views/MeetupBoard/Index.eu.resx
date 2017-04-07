@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -121,7 +121,7 @@
     <value>Bilera guztiak</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[Oraindik ez da bilera hasi, baina nahi duzunean sar zaitezke txat gelara <b>{0} praktikatzeko</b>]]></value>
+    <value>Oraindik ez da bilera hasi, baina nahi duzunean sar zaitezke txat gelara &lt;b&gt;{0} praktikatzeko&lt;/b&gt;</value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Joango naiz</value>
@@ -235,7 +235,7 @@
     <value>Bilera hasi da dagoeneko! Sar zaitez txat geara eta hasi zaitez {0} praktikatzen</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value><![CDATA[Bilera bukatu da dagoeneko. Baina gogora ezazu  nahi duzunean sar zaitezkeela txat geletara <b>{0} praktikatzeko</b>]]></value>
+    <value>Bilera bukatu da dagoeneko. Baina gogora ezazu  nahi duzunean sar zaitezkeela txat geletara &lt;b&gt;{0} praktikatzeko&lt;/b&gt;</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>Bilera hau Redditen elkarbanatu behar duzu. Ondorengo subredditak iradokitzen dizkizugu:</value>
@@ -402,95 +402,11 @@
   <data name="NewConvSendReq" xml:space="preserve">
     <value>Bidali</value>
   </data>
-  <data name="StudentReqAccepted" xml:space="preserve">
-    <value>Onartua</value>
-  </data>
-  <data name="StudentReqAcceptMeetup" xml:space="preserve">
-    <value>Onartu konbertsazioa</value>
-  </data>
-  <data name="StudentReqCancelled" xml:space="preserve">
-    <value>Kantzelatua</value>
-  </data>
-  <data name="StudentReqCancelMeetup" xml:space="preserve">
-    <value>Bilera bertan behera utzi</value>
-  </data>
-  <data name="StudentReqCancelRequest" xml:space="preserve">
-    <value>Kantzelatu eskaria</value>
-  </data>
-  <data name="StudentReqEnter" xml:space="preserve">
-    <value>Sartu</value>
-  </data>
-  <data name="StudentReqFinallyCancelled" xml:space="preserve">
-    <value>Badirudi azkenean konbertsazioa bertan behera utzi zenuela</value>
-  </data>
-  <data name="StudentReqFollowLink" xml:space="preserve">
-    <value>Klikatu link hau konbertsazio gelara sartzeko</value>
-  </data>
-  <data name="StudentReqMeetupCancelled" xml:space="preserve">
-    <value>Bilera bertan behera utzia</value>
-  </data>
-  <data name="StudentReqMessages" xml:space="preserve">
-    <value>Mezuak</value>
-  </data>
-  <data name="StudentReqMissSentence" xml:space="preserve">
-    <value>Pena bat da eskaera hau lehenago konfirmatu ez izana. Adi egon Langademyko abisuei eta ez itzazu eskaera gehiago galdu!</value>
-  </data>
-  <data name="StudentReqOtherReq" xml:space="preserve">
-    <value>Ordu honetarako beste eskaera bat onartu duzu, beraz ezin dezakezu eskaera hau onartu</value>
-  </data>
-  <data name="StudentReqPending" xml:space="preserve">
-    <value>Onartzeke</value>
-  </data>
-  <data name="StudentReqProposal" xml:space="preserve">
-    <value>Proposamena</value>
-  </data>
-  <data name="StudentReqRateOnRequest" xml:space="preserve">
-    <value>Tarifa eskaeraren egunean</value>
-  </data>
-  <data name="StudentReqReject" xml:space="preserve">
-    <value>Ukatu</value>
-  </data>
-  <data name="StudentReqRejected" xml:space="preserve">
-    <value>Ukatua</value>
-  </data>
-  <data name="StudentReqRequestFor" xml:space="preserve">
-    <value>Eskaria</value>
-  </data>
-  <data name="StudentReqTBConv" xml:space="preserve">
-    <value>Dennbora bankuko konbertsazioa</value>
-  </data>
-  <data name="StudentReqWalletConv" xml:space="preserve">
-    <value>Wallet konbertsazioa</value>
-  </data>
-  <data name="StudentReqWriteMessage" xml:space="preserve">
-    <value>Idatzi zure mezua</value>
-  </data>
-  <data name="AcceptToConfirm" xml:space="preserve">
-    <value>{0}-(r)ekin hitz egitea nahi baduzu Bilera onartun klika ezazu</value>
-  </data>
-  <data name="ConversationFinallyCanceled" xml:space="preserve">
-    <value>Ooopss...{0}-(e)k azkenean konbertsazio eskari hau bertan behera utzi zuela dirudi</value>
-  </data>
-  <data name="MeetupFinallyCanceled" xml:space="preserve">
-    <value>Ooopss...{0}-(e)k  bilera hau bertan behera utzi zuela dirudi</value>
-  </data>
   <data name="NoRequestMessages" xml:space="preserve">
     <value>Ez dago mezurik konbertsazio eskaera honetan</value>
   </data>
-  <data name="PracticeRequest" xml:space="preserve">
-    <value>{0}-(e)k zurekin {1} praktikatzea nahi du</value>
-  </data>
-  <data name="PracticeRequested" xml:space="preserve">
-    <value>{0}-(e)k  zurekin {1} praktikatzea nahi zuen</value>
-  </data>
   <data name="SameTimeRequests" xml:space="preserve">
     <value>{0} konbertsazio eskaera gehiago jaso dituzu ordu berean hitz egiteko. Kontsulta itzazu zure konbertsazioak.</value>
-  </data>
-  <data name="VideoCallMessage" xml:space="preserve">
-    <value>Ederki! {0}-(e)k eta zuk bideo dei bat edukiko duzue. Adi egon eta ez ezazu konbertsazioa galdu. Orduan azaldu!</value>
-  </data>
-  <data name="YouConversationRejected" xml:space="preserve">
-    <value>Ez duzu {0}-(e)kin hitz egiteko eskaera onartu</value>
   </data>
   <data name="EditAvSelectTypeTouch" xml:space="preserve">
     <value>Aukera ezazu Wallet deietarako, denbora bankuko deietarako edo bietarako eskaerak jasotzea nahi duzun. Sortu itzazu nahi beste zerrenda edo karratu, karratu bakoitzean klik luze bat eginez.</value>
@@ -500,8 +416,5 @@
   </data>
   <data name="ZeroConversationRequestsSent" xml:space="preserve">
     <value>Ez duzu konbertsazio eskaerarik egin</value>
-  </data>
-  <data name="MyCalendar" xml:space="preserve">
-    <value>Nire egutegia</value>
   </data>
 </root>
