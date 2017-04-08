@@ -70,15 +70,6 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you&apos;d like to speak with {0} click on Accept meetup to confirm.
-        /// </summary>
-        public static string AcceptToConfirm {
-            get {
-                return ResourceManager.GetString("AcceptToConfirm", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to All meetups.
         /// </summary>
         public static string AllMeetups {
@@ -196,6 +187,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Chat Meetups.
+        /// </summary>
+        public static string ChatMeetups {
+            get {
+                return ResourceManager.GetString("ChatMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Close.
         /// </summary>
         public static string Close {
@@ -210,15 +210,6 @@ namespace Resources.Views.MeetupBoard {
         public static string ConfirmInvitations {
             get {
                 return ResourceManager.GetString("ConfirmInvitations", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Ooopss... it seems that {0} finally cancelled this conversation request.
-        /// </summary>
-        public static string ConversationFinallyCanceled {
-            get {
-                return ResourceManager.GetString("ConversationFinallyCanceled", resourceCulture);
             }
         }
         
@@ -763,11 +754,11 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ooopss... it seems that {0} finally cancelled the meetup.
+        ///   Looks up a localized string similar to Chat meetup - {0}.
         /// </summary>
-        public static string MeetupFinallyCanceled {
+        public static string MeetupEventSummary {
             get {
-                return ResourceManager.GetString("MeetupFinallyCanceled", resourceCulture);
+                return ResourceManager.GetString("MeetupEventSummary", resourceCulture);
             }
         }
         
@@ -804,15 +795,6 @@ namespace Resources.Views.MeetupBoard {
         public static string MeetupTooClose {
             get {
                 return ResourceManager.GetString("MeetupTooClose", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to My Calendar.
-        /// </summary>
-        public static string MyCalendar {
-            get {
-                return ResourceManager.GetString("MyCalendar", resourceCulture);
             }
         }
         
@@ -871,24 +853,6 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} would like to practice {1} with you.
-        /// </summary>
-        public static string PracticeRequest {
-            get {
-                return ResourceManager.GetString("PracticeRequest", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to {0} wanted to practice {1} with you.
-        /// </summary>
-        public static string PracticeRequested {
-            get {
-                return ResourceManager.GetString("PracticeRequested", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to The starting date and time of the meetup are required.
         /// </summary>
         public static string ReqDateTime {
@@ -903,15 +867,6 @@ namespace Resources.Views.MeetupBoard {
         public static string ReqLanguage {
             get {
                 return ResourceManager.GetString("ReqLanguage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to You received {0} more conversation requests for speaking at the same time. Check your conversation request inbox.
-        /// </summary>
-        public static string SameTimeRequests {
-            get {
-                return ResourceManager.GetString("SameTimeRequests", resourceCulture);
             }
         }
         
@@ -970,195 +925,6 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Accepted.
-        /// </summary>
-        public static string StudentReqAccepted {
-            get {
-                return ResourceManager.GetString("StudentReqAccepted", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Accept conversation.
-        /// </summary>
-        public static string StudentReqAcceptMeetup {
-            get {
-                return ResourceManager.GetString("StudentReqAcceptMeetup", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Cancelled.
-        /// </summary>
-        public static string StudentReqCancelled {
-            get {
-                return ResourceManager.GetString("StudentReqCancelled", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Cancel meetup.
-        /// </summary>
-        public static string StudentReqCancelMeetup {
-            get {
-                return ResourceManager.GetString("StudentReqCancelMeetup", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Cancel request.
-        /// </summary>
-        public static string StudentReqCancelRequest {
-            get {
-                return ResourceManager.GetString("StudentReqCancelRequest", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Enter.
-        /// </summary>
-        public static string StudentReqEnter {
-            get {
-                return ResourceManager.GetString("StudentReqEnter", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Ooopss... it seems that you finally cancelled the private conversation.
-        /// </summary>
-        public static string StudentReqFinallyCancelled {
-            get {
-                return ResourceManager.GetString("StudentReqFinallyCancelled", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Follow this link to enter the conversation room.
-        /// </summary>
-        public static string StudentReqFollowLink {
-            get {
-                return ResourceManager.GetString("StudentReqFollowLink", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Meetup cancelled.
-        /// </summary>
-        public static string StudentReqMeetupCancelled {
-            get {
-                return ResourceManager.GetString("StudentReqMeetupCancelled", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Messages.
-        /// </summary>
-        public static string StudentReqMessages {
-            get {
-                return ResourceManager.GetString("StudentReqMessages", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to It&apos;s a pity that you didn&apos;t confirm the request earlier. Stay tuned to Langademy and do not miss more requests ;-).
-        /// </summary>
-        public static string StudentReqMissSentence {
-            get {
-                return ResourceManager.GetString("StudentReqMissSentence", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to You accepted another conversation request for the same time, so you cannot accept this one.
-        /// </summary>
-        public static string StudentReqOtherReq {
-            get {
-                return ResourceManager.GetString("StudentReqOtherReq", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Pending.
-        /// </summary>
-        public static string StudentReqPending {
-            get {
-                return ResourceManager.GetString("StudentReqPending", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Proposal.
-        /// </summary>
-        public static string StudentReqProposal {
-            get {
-                return ResourceManager.GetString("StudentReqProposal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Rate on request date.
-        /// </summary>
-        public static string StudentReqRateOnRequest {
-            get {
-                return ResourceManager.GetString("StudentReqRateOnRequest", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Reject.
-        /// </summary>
-        public static string StudentReqReject {
-            get {
-                return ResourceManager.GetString("StudentReqReject", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Rejected.
-        /// </summary>
-        public static string StudentReqRejected {
-            get {
-                return ResourceManager.GetString("StudentReqRejected", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Request for.
-        /// </summary>
-        public static string StudentReqRequestFor {
-            get {
-                return ResourceManager.GetString("StudentReqRequestFor", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Time banking conversation.
-        /// </summary>
-        public static string StudentReqTBConv {
-            get {
-                return ResourceManager.GetString("StudentReqTBConv", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Wallet conversation.
-        /// </summary>
-        public static string StudentReqWalletConv {
-            get {
-                return ResourceManager.GetString("StudentReqWalletConv", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Write your message.
-        /// </summary>
-        public static string StudentReqWriteMessage {
-            get {
-                return ResourceManager.GetString("StudentReqWriteMessage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Submit to Reddit.
         /// </summary>
         public static string SubmitToReddit {
@@ -1191,24 +957,6 @@ namespace Resources.Views.MeetupBoard {
         public static string UserNoLanguages {
             get {
                 return ResourceManager.GetString("UserNoLanguages", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Cool! {0} and you are going to have a videocall. Stay tuned to Langademy and don&apos;t miss the conversation. Be on time!.
-        /// </summary>
-        public static string VideoCallMessage {
-            get {
-                return ResourceManager.GetString("VideoCallMessage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to You rejected this conversation with {0}.
-        /// </summary>
-        public static string YouConversationRejected {
-            get {
-                return ResourceManager.GetString("YouConversationRejected", resourceCulture);
             }
         }
         

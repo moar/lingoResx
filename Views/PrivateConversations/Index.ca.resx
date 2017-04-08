@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,55 +117,91 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add" xml:space="preserve">
-    <value>Añadir</value>
+  <data name="AcceptToConfirm" xml:space="preserve">
+    <value>Si vols parlar amb {0} clica Acceptar conversa per confirmar la teva assistència</value>
   </data>
-  <data name="Back" xml:space="preserve">
-    <value>Atrás</value>
+  <data name="ConversationFinallyCanceled" xml:space="preserve">
+    <value>Ups ... sembla que {0} al final va cancel·lar aquesta sol·licitud de conversa</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="MeetupFinallyCanceled" xml:space="preserve">
+    <value>Ups ... sembla que {0} al final va cancel·lar la quedada</value>
   </data>
-  <data name="Close" xml:space="preserve">
-    <value>Cerrar</value>
+  <data name="PracticeRequest" xml:space="preserve">
+    <value>{0} vol practicar {1} amb tu</value>
   </data>
-  <data name="Confirm" xml:space="preserve">
-    <value>Aceptar</value>
+  <data name="PracticeRequested" xml:space="preserve">
+    <value>{0} volia practicar {1} amb tu</value>
   </data>
-  <data name="ConfirmConf" xml:space="preserve">
-    <value>Confirmar</value>
+  <data name="SameTimeRequests" xml:space="preserve">
+    <value>Vas rebre {0} sol·licituds de conversa més per parlar a la mateixa hora. Revisa les teves sol·licituds d'amistat a la safata d'entrada</value>
   </data>
-  <data name="Delete" xml:space="preserve">
-    <value>Eliminar</value>
+  <data name="StudentReqAccepted" xml:space="preserve">
+    <value>Acceptat</value>
   </data>
-  <data name="Edit" xml:space="preserve">
-    <value>Editar</value>
+  <data name="StudentReqAcceptMeetup" xml:space="preserve">
+    <value>Acceptar conversa</value>
   </data>
-  <data name="Leave" xml:space="preserve">
-    <value>Salir</value>
+  <data name="StudentReqCancelled" xml:space="preserve">
+    <value>Cancel·lat</value>
   </data>
-  <data name="Next" xml:space="preserve">
-    <value>Siguiente</value>
+  <data name="StudentReqCancelMeetup" xml:space="preserve">
+    <value>Cancel·lar quedada</value>
   </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
+  <data name="StudentReqCancelRequest" xml:space="preserve">
+    <value>Cancel·lar sol·licitud</value>
   </data>
-  <data name="OK" xml:space="preserve">
-    <value>OK</value>
+  <data name="StudentReqEnter" xml:space="preserve">
+    <value>Entrar</value>
   </data>
-  <data name="RetryCall" xml:space="preserve">
-    <value>Reintentar llamada</value>
+  <data name="StudentReqFinallyCancelled" xml:space="preserve">
+    <value>Ops ... sembla que al final has cancel·lat la conversa privada</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
+  <data name="StudentReqFollowLink" xml:space="preserve">
+    <value>Segueix aquest link per entrar a la sala de la conversa</value>
   </data>
-  <data name="ShowOlder" xml:space="preserve">
-    <value>Ver más antiguos</value>
+  <data name="StudentReqMeetupCancelled" xml:space="preserve">
+    <value>Conversa cancel·lada</value>
   </data>
-  <data name="Submit" xml:space="preserve">
-    <value>Enviar</value>
+  <data name="StudentReqMessages" xml:space="preserve">
+    <value>Missatges</value>
   </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Sí</value>
+  <data name="StudentReqMissSentence" xml:space="preserve">
+    <value>Una llàstima que no confirmaràs abans aquesta sol·licitud. Estigues atent a Langademy i no perdis més sol·licituds;-)</value>
+  </data>
+  <data name="StudentReqOtherReq" xml:space="preserve">
+    <value>No pots acceptar aquesta conversa perquè has acceptat una altra conversa a la mateixa hora,</value>
+  </data>
+  <data name="StudentReqPending" xml:space="preserve">
+    <value>Pendent</value>
+  </data>
+  <data name="StudentReqProposal" xml:space="preserve">
+    <value>Proposta</value>
+  </data>
+  <data name="StudentReqRateOnRequest" xml:space="preserve">
+    <value>Tarifa en la data de sol·licitud</value>
+  </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>Rebutjar</value>
+  </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Rebutjat</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Sol·licitud per a</value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Converda de Banc de Temps</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Conversa Wallet</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Escriu el teu missatge</value>
+  </data>
+  <data name="VideoCallMessage" xml:space="preserve">
+    <value>Bé! {0} i tu aneu a tenir una conversa. Estigues atent a Langademy i no et perdis la conversa. ¡Es puntual!</value>
+  </data>
+  <data name="YouConversationRejected" xml:space="preserve">
+    <value>Refusar la conversa amb {0}</value>
   </data>
 </root>

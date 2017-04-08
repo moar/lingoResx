@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,55 +117,91 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add" xml:space="preserve">
-    <value>Añadir</value>
+  <data name="AcceptToConfirm" xml:space="preserve">
+    <value>Se vuoi parlare di {0} fate clic su Accettare per confermare la partecipazione </value>
   </data>
-  <data name="Back" xml:space="preserve">
-    <value>Atrás</value>
+  <data name="ConversationFinallyCanceled" xml:space="preserve">
+    <value>Oops ... sembra che {0} alla fine annullato questa richiesta di conversazione</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="MeetupFinallyCanceled" xml:space="preserve">
+    <value>Oops ... sembra che {0} alla fine annullato appuntamento</value>
   </data>
-  <data name="Close" xml:space="preserve">
-    <value>Cerrar</value>
+  <data name="PracticeRequest" xml:space="preserve">
+    <value>{0} vuole praticare {1} con te</value>
   </data>
-  <data name="Confirm" xml:space="preserve">
-    <value>Aceptar</value>
+  <data name="PracticeRequested" xml:space="preserve">
+    <value>{0} ha voluto praticare {1} con te</value>
   </data>
-  <data name="ConfirmConf" xml:space="preserve">
-    <value>Confirmar</value>
+  <data name="SameTimeRequests" xml:space="preserve">
+    <value>Hai ricevuto {0} richieste di conversazione per a parlare allo stesso tempo. Controlla le richieste di amicizia nella casella di posta</value>
   </data>
-  <data name="Delete" xml:space="preserve">
-    <value>Eliminar</value>
+  <data name="StudentReqAccepted" xml:space="preserve">
+    <value>Accettato</value>
   </data>
-  <data name="Edit" xml:space="preserve">
-    <value>Editar</value>
+  <data name="StudentReqAcceptMeetup" xml:space="preserve">
+    <value>Accetta conversazione</value>
   </data>
-  <data name="Leave" xml:space="preserve">
-    <value>Salir</value>
+  <data name="StudentReqCancelled" xml:space="preserve">
+    <value>Cancellato</value>
   </data>
-  <data name="Next" xml:space="preserve">
-    <value>Siguiente</value>
+  <data name="StudentReqCancelMeetup" xml:space="preserve">
+    <value>Cancella appuntamento</value>
   </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
+  <data name="StudentReqCancelRequest" xml:space="preserve">
+    <value>Cancella richiesta</value>
   </data>
-  <data name="OK" xml:space="preserve">
-    <value>OK</value>
+  <data name="StudentReqEnter" xml:space="preserve">
+    <value>Accedere</value>
   </data>
-  <data name="RetryCall" xml:space="preserve">
-    <value>Reintentar llamada</value>
+  <data name="StudentReqFinallyCancelled" xml:space="preserve">
+    <value>Ops ... sembra che alla fine hai cancellato la conversazione privata</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
+  <data name="StudentReqFollowLink" xml:space="preserve">
+    <value>Segui questo link per entrare nella stanza della conversazione</value>
   </data>
-  <data name="ShowOlder" xml:space="preserve">
-    <value>Ver más antiguos</value>
+  <data name="StudentReqMeetupCancelled" xml:space="preserve">
+    <value>Conversazione cancellata</value>
   </data>
-  <data name="Submit" xml:space="preserve">
-    <value>Enviar</value>
+  <data name="StudentReqMessages" xml:space="preserve">
+    <value>Messaggi</value>
   </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Sí</value>
+  <data name="StudentReqMissSentence" xml:space="preserve">
+    <value>Un vero peccato non avere confermato prima questa richiesta. Resta attento su Langademy e non perdere più richieste;-)</value>
+  </data>
+  <data name="StudentReqOtherReq" xml:space="preserve">
+    <value>Non si può accettare questa conversazione perché avete accettato un'altra conversazione, allo stesso tempo,</value>
+  </data>
+  <data name="StudentReqPending" xml:space="preserve">
+    <value>In attesa </value>
+  </data>
+  <data name="StudentReqProposal" xml:space="preserve">
+    <value>Proposta</value>
+  </data>
+  <data name="StudentReqRateOnRequest" xml:space="preserve">
+    <value>Tasso nella data di richiesta</value>
+  </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>rifiutare</value>
+  </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Rifiutato</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Richiesta per </value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Conversazione Banca del Tempo</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Conversazione Wallet</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Scrivi il tuo messaggio</value>
+  </data>
+  <data name="VideoCallMessage" xml:space="preserve">
+    <value>Bene!Hai una conversazione con {0} .Resta attento a Langademy e non perdere la conversazione. Puntuale! :)</value>
+  </data>
+  <data name="YouConversationRejected" xml:space="preserve">
+    <value>Hai disattivato la conversazione con {0}</value>
   </data>
 </root>

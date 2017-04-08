@@ -121,7 +121,7 @@
     <value>idioma/{selectedCulture}/</value>
   </data>
   <data name="conversation-exchange-meetups" xml:space="preserve">
-    <value>quedadas-intercambio-idiomas</value>
+    <value>meetups-intercambio-idiomas</value>
   </data>
   <data name="earn-as-conversation-partner" xml:space="preserve">
     <value>ganar-dinero-companero-conversacion</value>
@@ -221,6 +221,12 @@
   </data>
   <data name="help-time-bank" xml:space="preserve">
     <value>ayuda/banco-de-tiempo</value>
+  </data>
+  <data name="my-meetups" xml:space="preserve">
+    <value>mis-meetups</value>
+  </data>
+  <data name="new-meetup" xml:space="preserve">
+    <value>nuevo-meetup</value>
   </data>
   <data name="english-conversations" xml:space="preserve">
     <value>conversaciones-en-ingles</value>

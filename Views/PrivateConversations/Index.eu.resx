@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,55 +117,88 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add" xml:space="preserve">
-    <value>Añadir</value>
+  <data name="AcceptToConfirm" xml:space="preserve">
+    <value>{0}-(r)ekin hitz egitea nahi baduzu Bilera onartun klika ezazu</value>
   </data>
-  <data name="Back" xml:space="preserve">
-    <value>Atrás</value>
+  <data name="ConversationFinallyCanceled" xml:space="preserve">
+    <value>Ooopss...{0}-(e)k azkenean konbertsazio eskari hau bertan behera utzi zuela dirudi</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="MeetupFinallyCanceled" xml:space="preserve">
+    <value>Ooopss...{0}-(e)k  bilera hau bertan behera utzi zuela dirudi</value>
   </data>
-  <data name="Close" xml:space="preserve">
-    <value>Cerrar</value>
+  <data name="PracticeRequest" xml:space="preserve">
+    <value>{0}-(e)k zurekin {1} praktikatzea nahi du</value>
   </data>
-  <data name="Confirm" xml:space="preserve">
-    <value>Aceptar</value>
+  <data name="PracticeRequested" xml:space="preserve">
+    <value>{0}-(e)k  zurekin {1} praktikatzea nahi zuen</value>
   </data>
-  <data name="ConfirmConf" xml:space="preserve">
-    <value>Confirmar</value>
+  <data name="StudentReqAccepted" xml:space="preserve">
+    <value>Onartua</value>
   </data>
-  <data name="Delete" xml:space="preserve">
-    <value>Eliminar</value>
+  <data name="StudentReqAcceptMeetup" xml:space="preserve">
+    <value>Onartu konbertsazioa</value>
   </data>
-  <data name="Edit" xml:space="preserve">
-    <value>Editar</value>
+  <data name="StudentReqCancelled" xml:space="preserve">
+    <value>Kantzelatua</value>
   </data>
-  <data name="Leave" xml:space="preserve">
-    <value>Salir</value>
+  <data name="StudentReqCancelMeetup" xml:space="preserve">
+    <value>Bilera bertan behera utzi</value>
   </data>
-  <data name="Next" xml:space="preserve">
-    <value>Siguiente</value>
+  <data name="StudentReqCancelRequest" xml:space="preserve">
+    <value>Kantzelatu eskaria</value>
   </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
+  <data name="StudentReqEnter" xml:space="preserve">
+    <value>Sartu</value>
   </data>
-  <data name="OK" xml:space="preserve">
-    <value>OK</value>
+  <data name="StudentReqFinallyCancelled" xml:space="preserve">
+    <value>Badirudi azkenean konbertsazioa bertan behera utzi zenuela</value>
   </data>
-  <data name="RetryCall" xml:space="preserve">
-    <value>Reintentar llamada</value>
+  <data name="StudentReqFollowLink" xml:space="preserve">
+    <value>Klikatu link hau konbertsazio gelara sartzeko</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
+  <data name="StudentReqMeetupCancelled" xml:space="preserve">
+    <value>Bilera bertan behera utzia</value>
   </data>
-  <data name="ShowOlder" xml:space="preserve">
-    <value>Ver más antiguos</value>
+  <data name="StudentReqMessages" xml:space="preserve">
+    <value>Mezuak</value>
   </data>
-  <data name="Submit" xml:space="preserve">
-    <value>Enviar</value>
+  <data name="StudentReqMissSentence" xml:space="preserve">
+    <value>Pena bat da eskaera hau lehenago konfirmatu ez izana. Adi egon Langademyko abisuei eta ez itzazu eskaera gehiago galdu!</value>
   </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Sí</value>
+  <data name="StudentReqOtherReq" xml:space="preserve">
+    <value>Ordu honetarako beste eskaera bat onartu duzu, beraz ezin dezakezu eskaera hau onartu</value>
+  </data>
+  <data name="StudentReqPending" xml:space="preserve">
+    <value>Onartzeke</value>
+  </data>
+  <data name="StudentReqProposal" xml:space="preserve">
+    <value>Proposamena</value>
+  </data>
+  <data name="StudentReqRateOnRequest" xml:space="preserve">
+    <value>Tarifa eskaeraren egunean</value>
+  </data>
+  <data name="StudentReqReject" xml:space="preserve">
+    <value>Ukatu</value>
+  </data>
+  <data name="StudentReqRejected" xml:space="preserve">
+    <value>Ukatua</value>
+  </data>
+  <data name="StudentReqRequestFor" xml:space="preserve">
+    <value>Eskaria</value>
+  </data>
+  <data name="StudentReqTBConv" xml:space="preserve">
+    <value>Dennbora bankuko konbertsazioa</value>
+  </data>
+  <data name="StudentReqWalletConv" xml:space="preserve">
+    <value>Wallet konbertsazioa</value>
+  </data>
+  <data name="StudentReqWriteMessage" xml:space="preserve">
+    <value>Idatzi zure mezua</value>
+  </data>
+  <data name="VideoCallMessage" xml:space="preserve">
+    <value>Ederki! {0}-(e)k eta zuk bideo dei bat edukiko duzue. Adi egon eta ez ezazu konbertsazioa galdu. Orduan azaldu!</value>
+  </data>
+  <data name="YouConversationRejected" xml:space="preserve">
+    <value>Ez duzu {0}-(e)kin hitz egiteko eskaera onartu</value>
   </data>
 </root>
