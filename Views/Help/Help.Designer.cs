@@ -97,7 +97,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chat rooms are the place where you can meet groups of conversation partners, both natives and students. First of all you have to add in your profile the languages you are interested on. Otherwise you will not have access to the chat room. Once done, go to the control panel, click &lt;span class=&quot;lg lg-chatrooms&quot;&gt;&lt;/span&gt; and select the language chat room to open it..
+        ///   Looks up a localized string similar to Chat rooms are the place where you can meet groups of conversation partners, both natives and students. First of all you have to add in your profile the languages you are interested on. Otherwise you will not have access to the chat rooms. Once done, go to the control panel, click &lt;span class=&quot;lg lg-chatrooms&quot;&gt;&lt;/span&gt; and select the language chat room to open it..
         /// </summary>
         public static string HelpChatRooms1 {
             get {
@@ -286,7 +286,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Check your &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;Calendar&lt;/a&gt; to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one..
+        ///   Looks up a localized string similar to Check the &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;Meetups&lt;/a&gt; to see already scheduled meetups. If any meetup fits in with your plans, just join in. Otherwise, schedule a new one..
         /// </summary>
         public static string HelpHowMeetPartners3 {
             get {
@@ -313,7 +313,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To schedule a new meetup go to &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;My calendar&lt;/a&gt; and click New Meetup on the top side, or go directly to &lt;a href=&quot;{1}&quot; class=&quot;link applnk&quot;&gt;New meetup&lt;/a&gt; and follow these steps:.
+        ///   Looks up a localized string similar to To schedule a new meetup go to &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;Meetups&lt;/a&gt; and click New Meetup on the top side, or go directly to &lt;a href=&quot;{1}&quot; class=&quot;link applnk&quot;&gt;New meetup&lt;/a&gt; and follow these steps:.
         /// </summary>
         public static string HelpHowMeetPartners6 {
             get {
@@ -367,7 +367,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you want to request a private conversation, click Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select a conversation language (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available time range. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yellow blocks mean [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to If you want to request a private conversation, click Request Conversation (on top of the calendar) and follow the steps on screen. You just have to select a conversation language (among the native languages in the profile), the type of conversation you want (timebanking or paid) and reserve the date and time of the conversation clicking on any available block. Green blocks mean you can request a time banking conversation, grey blocks mean that you can request a paid conversation, and yellow blocks mean that [rest of string was truncated]&quot;;.
         /// </summary>
         public static string HelpHowRequestConversation2 {
             get {
@@ -376,7 +376,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If the user hasn&apos;t available hours you will have the option to be notified when he/she is available. Just click the warning button on top of the calendar if you want to receive it. .
+        ///   Looks up a localized string similar to If the user hasn&apos;t available hours you will have the option to be notified when he/she is available. Just click the button next to the warning message on top of the calendar if you want to receive it. .
         /// </summary>
         public static string HelpHowRequestConversation3 {
             get {
@@ -394,7 +394,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can track the status of your requests in your &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;Calendar&lt;/a&gt;. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. .
+        ///   Looks up a localized string similar to You can track the status of your requests in your &lt;a href=&quot;{0}&quot; class=&quot;link applnk&quot;&gt;Conversations&lt;/a&gt; page. Check the conversation  requests panel (sent). Select the request that you want and you will see the request details view. There you can check if the native accepted or rejected your request, you can cancel it and you can send messages to the native in case you need additional information. .
         /// </summary>
         public static string HelpHowRequestConversation5 {
             get {
@@ -421,7 +421,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to the call panel &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt; and select the Private Conversations Tab &lt;span class=&quot;lg lg-calendar&quot;&gt;&lt;/span&gt;. Select the user and you will open the conversation videoapp. Alternatively, you can open de videoapp from the conversation details view in your Calendar. .
+        ///   Looks up a localized string similar to Go to the call panel &lt;span class=&quot;lg lg-call&quot;&gt;&lt;/span&gt; and select the Private Conversations Tab &lt;span class=&quot;lg lg-calendar&quot;&gt;&lt;/span&gt;. Select the user and you will open the conversation videoapp. Alternatively, you can open the videoapp from the conversation details view in your Conversations. .
         /// </summary>
         public static string HelpHowRequestConversation8 {
             get {
@@ -610,7 +610,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to At this page you can find the invoices issued by Langademy monthly. Note that Langademy only issues an invoice if you have chargeable transactions for the period ({0}). Also note that these invoices only include the Langademy fees for our service, but not student transactions charged by native speakers or teachers. .
+        ///   Looks up a localized string similar to At this page you can find the invoices issued by Langademy monthly. Note that Langademy only issues an invoice if you have chargeable transactions for the period ({0}). Also note that these invoices only include the Langademy fees for our service, but not payments as a student to native speakers or teachers. .
         /// </summary>
         public static string HelpInvoices2 {
             get {
@@ -637,7 +637,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When a monthly invoice is collected you will have a new transaction in your wallet transaction history and the partial Langademy fee will be updated..
+        ///   Looks up a localized string similar to When a monthly invoice is collected you will have a new transaction in your Wallet transaction history and the monthly Langademy fee will be updated..
         /// </summary>
         public static string HelpInvoices5 {
             get {
@@ -799,15 +799,6 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        public static string HelpNativesSent2 {
-            get {
-                return ResourceManager.GetString("HelpNativesSent2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to You need to have a minimum number of up votes in a language if you want to set a rate for that language. Make free wallet video calls or time banking calls with other language learners and gain positive up votes. Once you gain the required number of positive votes in a certain language, you will be able to set your rate for that language..
         /// </summary>
         public static string HelpNativesSent3 {
@@ -916,7 +907,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Check the minimum credits purchase, which depends on the payment method you select. If your localization is available and your country&apos;s local currency is not Euro, you may see the estimated conversion to your currency. Note that this conversion is only informative since the final exchange rate is applied by the banking entities..
+        ///   Looks up a localized string similar to Check the minimum credits purchase, which depends on the payment method you select. If your location is available and your country&apos;s local currency is not Euro, you may see the estimated conversion to your currency. Note that this conversion is only informative since the final exchange rate is applied by the banking entities..
         /// </summary>
         public static string HelpPurchaseCredits4 {
             get {
@@ -970,7 +961,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to How do I change the start time of an available block?.
+        ///   Looks up a localized string similar to How do I change the start time of a block?.
         /// </summary>
         public static string HelpSetAvailability10 {
             get {
@@ -988,7 +979,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to How do I remove an available block?.
+        ///   Looks up a localized string similar to How do I remove a block?.
         /// </summary>
         public static string HelpSetAvailability12 {
             get {
@@ -1105,7 +1096,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to the Wallet section of the State Panel and look for the language you want to set a rate for.
+        ///   Looks up a localized string similar to Go to the Wallet section of the State Panel and look for the language you want to set your rate for.
         /// </summary>
         public static string HelpSetRate3 {
             get {
@@ -1267,7 +1258,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time Banking provides a way to learn languages without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account. Check the Time Banking rules ({0})..
+        ///   Looks up a localized string similar to Time Banking allows yo to learn languages in Langademy without spending money: the amount of time you use for speaking with other language learners in your native language will be added to your Time Banking account so you can use it making video calls in other languages. Check the Time Banking rules ({0})..
         /// </summary>
         public static string HelpTBIntro1 {
             get {
@@ -1366,7 +1357,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy charges native speakers 13% (+ taxes) of the amount that they charge students per videocall. Once a wallet video call is finished,  users&apos; available credit balance is updated. (You can watch your available balance at {0}) ( {1}).
+        ///   Looks up a localized string similar to Langademy charges native speakers 13% (+ taxes) of the amount that they charge students per Wallet video call. Once the video call is finished,  users&apos; available credit balance is updated. (You can watch your available balance at {0}) ( {1}).
         /// </summary>
         public static string HelpWalletFees1 {
             get {
@@ -1393,7 +1384,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy fee: at the end of the month, Langademy collects a 13% fee to the conversations of the native speakers. This fee is reflected on the next invoice ({0}). The fee is not taken from the native’s account until the invoice is issued, however you cannot spend this amount either..
+        ///   Looks up a localized string similar to Langademy fee: at the end of the month, Langademy collects a 13% fee to the conversations of the native speakers. This fee is reflected on the next invoice ({0}). Although the fee is not taken from the native’s account until the invoice is issued, this amount is withheld and you cannot spend it either..
         /// </summary>
         public static string HelpWalletFees4 {
             get {
@@ -1493,7 +1484,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to As a student, you purchase Langademy credits that are stored in your Wallet account. You spend your credits when you call a native speaker (Level C2 or Native) and you pay for the exact amount of time that you talk. When the call begins, you have 3 minutes to decide if you want to go on with the conversation. In case you hang up, you won&apos;t be charged.
+        ///   Looks up a localized string similar to As a student, you begin purchasing Langademy credits that are deposited in your Wallet account. You spend your credits when you call a native speaker (Level C2 or Native). You will pay for the exact amount of time that you talk but, as an exception, when the call begins, you have 3 minutes to decide if you want to go on with the conversation. In case you hang up, you won&apos;t be charged.
         /// </summary>
         public static string HelpWCIntro2 {
             get {
@@ -1502,7 +1493,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to As a native, you set your rate per hour of conversation and you earn credits after each video call. You can set different rates per language. .
+        ///   Looks up a localized string similar to As a native, you have to set your rate per hour of conversation. You will earn credits with each video call according to its duration. You can set different rates per language. .
         /// </summary>
         public static string HelpWCIntro3 {
             get {
@@ -1655,7 +1646,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time banking is a way to make language exchange fair for everyone at Langademy. It means that if you make a timebanking video call with a native speaker, you must contribute the same time speaking in your native language, with the same or other students. Langademy records video call durations so you don&apos;t have to worry about the math. Just watch your time balance ({0}) to decide if you need to schedule video calls in your native language and increase your time balance. This is how timebanking works:.
+        ///   Looks up a localized string similar to Time banking founds the mechanics that assures that language exchanges are fair for everyone at Langademy. It means that if you make a timebanking video call with a native speaker, you must contribute the same time speaking in your native language, with the same or other students. Langademy records video call durations so you don&apos;t have to worry about the math. Just watch your time balance ({0}) to decide if you need to schedule video calls in your native language and increase your time balance. This is how [rest of string was truncated]&quot;;.
         /// </summary>
         public static string TimeBankDescription {
             get {
@@ -1691,7 +1682,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you make a timebanking video call ({0}) in a language that is not your native language, you spend time from your Time Bank account. If you speak to a non-native in your native language (minimum level: C2), you will be rewarded with time in your account..
+        ///   Looks up a localized string similar to When you make a timebanking video call ({0}) in a language that is not your native language, you spend time from your Time Bank account. However, if you make a video call to a non-native in your native language (minimum level: C2), the call time will be added to your account..
         /// </summary>
         public static string TimeBankF4 {
             get {
