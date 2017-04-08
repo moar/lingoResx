@@ -222,4 +222,10 @@
   <data name="help-time-bank" xml:space="preserve">
     <value>laguntza/denbora-bankua</value>
   </data>
+  <data name="my-meetups" xml:space="preserve">
+    <value>nire-mintzasaioak</value>
+  </data>
+  <data name="new-meetup" xml:space="preserve">
+    <value>bilera-berria</value>
+  </data>
 </root>
