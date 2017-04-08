@@ -159,6 +159,9 @@
   <data name="Save" xml:space="preserve">
     <value>Gorde</value>
   </data>
+  <data name="ShowOlder" xml:space="preserve">
+    <value>Erakutsi zaharragoak</value>
+  </data>
   <data name="Submit" xml:space="preserve">
     <value>Bidali</value>
   </data>
