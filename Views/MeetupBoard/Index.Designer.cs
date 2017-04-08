@@ -907,6 +907,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You must sign in if you want to see your meetups.
+        /// </summary>
+        public static string SignMyMeetups {
+            get {
+                return ResourceManager.GetString("SignMyMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Start time.
         /// </summary>
         public static string StartTime {

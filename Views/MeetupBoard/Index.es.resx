@@ -426,4 +426,7 @@
   <data name="FilterLanguages" xml:space="preserve">
     <value>Filtrar idiomas</value>
   </data>
+  <data name="SignMyMeetups" xml:space="preserve">
+    <value>Tienes que iniciar sesión si quieres ver tus meetups</value>
+  </data>
 </root>
