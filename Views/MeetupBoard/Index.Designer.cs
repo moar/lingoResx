@@ -313,6 +313,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Filter languages.
+        /// </summary>
+        public static string FilterLanguages {
+            get {
+                return ResourceManager.GetString("FilterLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You haven&apos;t sent any conversation requests.
         /// </summary>
         public static string IndexNoReq {
