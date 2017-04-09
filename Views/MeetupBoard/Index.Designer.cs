@@ -313,6 +313,15 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Filter languages.
+        /// </summary>
+        public static string FilterLanguages {
+            get {
+                return ResourceManager.GetString("FilterLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You haven&apos;t sent any conversation requests.
         /// </summary>
         public static string IndexNoReq {
@@ -894,6 +903,15 @@ namespace Resources.Views.MeetupBoard {
         public static string ShareReddit {
             get {
                 return ResourceManager.GetString("ShareReddit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You must sign in if you want to see your meetups.
+        /// </summary>
+        public static string SignMyMeetups {
+            get {
+                return ResourceManager.GetString("SignMyMeetups", resourceCulture);
             }
         }
         

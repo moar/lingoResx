@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -253,7 +253,7 @@
     <value>En tu página de inicio puedes ver el saldo de tu cuenta del Banco de Tiempo, y si accedes a la aplicación {0} podrás consultar el histórico y los detalles de tus movimientos.</value>
   </data>
   <data name="HelpChatRooms1" xml:space="preserve">
-    <value><![CDATA[Las salas de chat son el lugar donde puedes conocer grupos de compañeros de conversación, tanto nativos como estudiantes. En primer lugar tienes que añadir en tu perfil los idiomas que te interesan. En caso contrario no podrás entrar a las salas de chat de esos idiomas. Una vez hecho, ve al panel de control, clica en <span class="lg lg-chatrooms"></span> y selecciona el idioma de la sala de chat para abrirla.]]></value>
+    <value>Las salas de chat son el lugar donde puedes conocer grupos de compañeros de conversación, tanto nativos como estudiantes. En primer lugar tienes que añadir en tu perfil los idiomas que te interesan. En caso contrario no podrás entrar a las salas de chat de esos idiomas. Una vez hecho, ve al panel de control, clica en &lt;span class="lg lg-chatrooms"&gt;&lt;/span&gt; y selecciona el idioma de la sala de chat para abrirla.</value>
   </data>
   <data name="HelpChatRooms4" xml:space="preserve">
     <value>Usuarios: Contiene la lista de usuarios online. Clica en los usuarios de la lista para abrir un menú con las siguientes opciones: enviar solicitud de contacto, empezar una videollamada, y denunciarlos o bloquearlos si te han causado algún problema</value>
@@ -325,10 +325,10 @@
     <value>Rellenar la dirección de facturación: ve a My Wallet y rellena tu dirección de facturación</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
-    <value><![CDATA[<span class="lg lg-wallet"></span> Mi Wallet es la aplicación donde puedes gestionar tus finanzas de Langademy. En este app puedes consultar tus transacciones, tu histórico de facturas y añadir o editar tu información de facturación. También puedes comprar créditos y solicitar reintegros desde Mi Wallet.]]></value>
+    <value>&lt;span class="lg lg-wallet"&gt;&lt;/span&gt; Mi Wallet es la aplicación donde puedes gestionar tus finanzas de Langademy. En este app puedes consultar tus transacciones, tu histórico de facturas y añadir o editar tu información de facturación. También puedes comprar créditos y solicitar reintegros desde Mi Wallet.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value><![CDATA[Puedes abrir el app Mi Wallet clicando el botón Apps <span class="lg lg-apps"></span> del Panel de Control y seleccionando el botón Mi Wallet <span class="lg lg-wallet"></span>]]></value>
+    <value>Puedes abrir el app Mi Wallet clicando el botón Apps &lt;span class="lg lg-apps"&gt;&lt;/span&gt; del Panel de Control y seleccionando el botón Mi Wallet &lt;span class="lg lg-wallet"&gt;&lt;/span&gt;</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Ayuda de Langademy</value>
@@ -385,7 +385,7 @@
     <value>Mantener tu disponibilidad actualizada te ayudará a organizar tu tiempo como nativo y evitarás recibir muchas solicitudes de contacto cuando no quieras hablar con estudiantes. Ten en cuenta que si no defines tu disponibilidad, solo podrás hacer videollamadas con tu lista de contactos o con los estudiantes que encuentres en las salas de chat.</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value><![CDATA[Para definir tu disponibilidad ve a <a href="{0}" class="link">Mi calendario</a> y clica Editar Disponibilidad en la parte superior, o ve directamente a <a href="{1}" class="link">Editar disponibilidad</a>  y sigue estos pasos:]]></value>
+    <value>Para definir tu disponibilidad ve a &lt;a href="{0}" class="link"&gt;Mi calendario&lt;/a&gt; y clica Editar Disponibilidad en la parte superior, o ve directamente a &lt;a href="{1}" class="link"&gt;Editar disponibilidad&lt;/a&gt;  y sigue estos pasos:</value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Elige el tipo de conversación en el quieres recibir las solicitudes clicando Wallet, Banco de Tiempo o los dos</value>
@@ -409,7 +409,7 @@
     <value>Edita tu disponibilidad</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value><![CDATA[Una vez que cumplas los <a href="{0}" class="help link">requisitos</a>, podrás definir una tarifa para cobrar a tus alumnos por mantener conversaciones. Para ello, sigue estos pasos:]]></value>
+    <value>Una vez que cumplas los &lt;a href="{0}" class="help link"&gt;requisitos&lt;/a&gt;, podrás definir una tarifa para cobrar a tus alumnos por mantener conversaciones. Para ello, sigue estos pasos:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Abre tu panel estado clicando en tu foto de perfil en la parte superior derecha de tu página de inicio</value>
@@ -418,13 +418,13 @@
     <value>Ve a la sección Wallet de tu panel de estado y busca el idioma para el que quieres establecer una tarifa</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Clica en el botón <span class="lg lg-cog"></span> y se te mostrará una ventana para que actualices tu tarifa]]></value>
+    <value>Clica en el botón &lt;span class="lg lg-cog"&gt;&lt;/span&gt; y se te mostrará una ventana para que actualices tu tarifa</value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Establece el número de créditos por hora que quieres cobrar a tus estudiantes y guarda los cambios</value>
   </data>
   <data name="HelpSetRate6" xml:space="preserve">
-    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán llamar en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idiomas para poner tu estado Disponible / No disponible</value>
+    <value>Tómate un momento para revisar el estado de cada uno de tus idiomas. Los estudiantes solo te podrán llamar en aquellos idiomas en los que hayas establecido tu estado como disponible. Clica en los pulsadores que tienes al lado de cada idioma para poner tu estado Disponible / No disponible</value>
   </data>
   <data name="HelpSetRateTitle" xml:space="preserve">
     <value>¿Cómo puedo establecer mi tarifa?</value>
@@ -442,7 +442,7 @@
     <value>Las quedadas son la manera de que otros compañeros sepan de antemano cuando vas a estar en una sala de chat. De esta forma, estudiantes y otros hablantes nativos podrán entrar contigo a la misma hora. Ciertamente, puedes entrar a las salas de chat cuando quieras, pero seamos honestos, es más fácil juntar a más gente si se organiza el evento con anterioridad.</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value><![CDATA[Revisa tu <a href="{0}" class="link applnk">Calendario</a> para ver las quedadas que se han organizado. Si hay alguna quedada que te interese, no dudes en apuntarte. Si no, crea una nueva.]]></value>
+    <value>Ve al app &lt;a href="{0}" class="link applnk"&gt;Meetups&lt;/a&gt; para ver las quedadas que se han organizado. Si hay alguna quedada que te interese, no dudes en apuntarte. Si no, crea una nueva.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>Cuando te apuntes a una quedada, se añadirá un evento a tu calendario. Accede desde tu Calendario a los detalles del evento y podrás escribir en el tablón de mensajes de la quedada, por ejemplo para proponer temas de conversación para el día de la quedada.</value>
@@ -451,7 +451,7 @@
     <value>¿Cómo puedo organizar una nueva quedada?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[Para organizar una nueva quedada entra a <a href="{0}" class="link applnk"> Mi calendario</a> y clica Nueva Quedada en la parte superior. También puedes entrar directamente  a <a href="{1}" class="link applnk">Nueva Quedada</a> y seguir los siguientes pasos:]]></value>
+    <value>Para organizar una nueva quedada entra a &lt;a href="{0}" class="link applnk"&gt;Meetups&lt;/a&gt; y clica Nuev Meetup en la parte superior. También puedes entrar directamente  a &lt;a href="{1}" class="link applnk"&gt;Nuevo Meetup&lt;/a&gt; y seguir los siguientes pasos:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Selecciona el idioma de la quedada. Los participantes que asistan a la quedada entrarán a la sala de chat del idioma de la quedada.</value>
@@ -478,7 +478,7 @@
     <value>¿Cómo puedo saber si un nativo acepta mi solicitud?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value><![CDATA[Puedes hacer el seguimiento de tus solicitudes en tu <a href="{0}" class="link applnk">Calendario</a>. Revisa el panel de solicitudes enviadas. Elige la solicitud que quieres y verás los detalles de esa solicitud. En la pantalla de detalles podrás ver si el nativo ha aceptado o ha rechazado tu solicitud y también podrás cancelar la solicitud o mandar mensajes al nativo en caso de que necesites información adicional.]]></value>
+    <value>Puedes hacer el seguimiento de tus solicitudes en tu app de&lt;a href="{0}" class="link applnk"&gt;Conversaciones&lt;/a&gt;. Revisa el panel de solicitudes enviadas. Elige la solicitud que quieres y verás los detalles de esa solicitud. En la pantalla de detalles podrás ver si el nativo ha aceptado o ha rechazado tu solicitud y también podrás cancelar la solicitud o mandar mensajes al nativo en caso de que necesites información adicional.</value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Además, cuando el nativo acepte tu solicitud serás notificado y se te añadira un nuevo evento a tu calendario</value>
@@ -487,7 +487,7 @@
     <value>¿Qué tengo que hacer cuando sea la hora de la conversación?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value><![CDATA[Ve al panel de llamada <span class="lg lg-call"></span> y selecciona la pestaña de Conversaciones Privadas <span class="lg lg-calendar"></span>. Clica en un usuario y podrás abrir la aplicación de videollamadas. Asimismo, puedes abrir la aplicación de video desde los detalles de conversación de tu Calendario.]]></value>
+    <value>Ve al panel de llamada &lt;span class="lg lg-call"&gt;&lt;/span&gt; y selecciona la pestaña de Conversaciones Privadas &lt;span class="lg lg-calendar"&gt;&lt;/span&gt;. Clica en un usuario y podrás abrir la aplicación de videollamadas. Asimismo, puedes abrir la aplicación de video desde los detalles de conversación de tus Conversaciones.</value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Cuando te encuentres en la aplicación de video, podrás ver cuando se ha conectado tu compañero. Mientras tanto, podrás mandarle mensajes por vuestro chat privado para que tu compañero sepa que le estas esperando.</value>
@@ -535,7 +535,7 @@
     <value>Temas de la quedada: Durante las quedadas verás la lista de temas de conversación propuestos por los participantes</value>
   </data>
   <data name="HelpHowToCall1" xml:space="preserve">
-    <value><![CDATA[Hacer una videollamada en Langademy es fácil. Puedes llamar a un usuario desde donde veas el símbolo <span class="lg lg-call"></span>. Haciendo click sobre él aparecerá el menú de llamada para elegir el idioma de conversación y el tipo de llamada (<span class="lg lg-time-bag"></span> de banco de tiempo o <span class="lg lg-creditsolid"></span> de wallet). En el caso de las llamadas wallet verás la tarifa que se te cobrará por la llamada junto al idioma. ]]></value>
+    <value>Hacer una videollamada en Langademy es fácil. Puedes llamar a un usuario desde donde veas el símbolo &lt;span class="lg lg-call"&gt;&lt;/span&gt;. Haciendo click sobre él aparecerá el menú de llamada para elegir el idioma de conversación y el tipo de llamada (&lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; de banco de tiempo o &lt;span class="lg lg-creditsolid"&gt;&lt;/span&gt; de wallet). En el caso de las llamadas wallet verás la tarifa que se te cobrará por la llamada junto al idioma. </value>
   </data>
   <data name="HelpHowToCall2" xml:space="preserve">
     <value>Ten en cuenta que el idioma que escoges al llamar determina si estás actuando como nativo o como estudiante, y si  la llamada se paga con tiempo o con créditos. Por tanto, el saldo de tu cuenta de Wallet o del Banco de tiempo se actualizará en consecuencia, así que presta atención cuando hagas una llamada. </value>
@@ -547,7 +547,7 @@
     <value>Llamar desde el Panel de Control</value>
   </data>
   <data name="HelpHowToCall41" xml:space="preserve">
-    <value><![CDATA[Clica en la pestaña <span class="lg lg-call"></span> del Panel de Control para abrir el panel de llamada. Allí  puedes elegir cualquiera de las siguientes pestañas de llamada:  ]]></value>
+    <value>Clica en la pestaña &lt;span class="lg lg-call"&gt;&lt;/span&gt; del Panel de Control para abrir el panel de llamada. Allí  puedes elegir cualquiera de las siguientes pestañas de llamada:  </value>
   </data>
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Contactos Online: Lista de contactos online actualmente</value>
@@ -610,13 +610,13 @@
     <value>Selecciona Transacciones en el menú principal de My Wallet para abrir tu historial de transacciones de créditos. En esta página puedes:</value>
   </data>
   <data name="HelpMWT2" xml:space="preserve">
-    <value>Consulta tu saldo disponible</value>
+    <value>Consultar tu saldo disponible</value>
   </data>
   <data name="HelpMWT3" xml:space="preserve">
     <value>Este es el número de créditos que puedes gastar en Langademy. Visita {0} para más detalles.</value>
   </data>
   <data name="HelpMWT4" xml:space="preserve">
-    <value>Consulta tu historial de transacciones</value>
+    <value>Consultar tu historial de transacciones</value>
   </data>
   <data name="HelpMWT5" xml:space="preserve">
     <value>Todas las operaciones que modifiquen tu saldo de créditos estarán incluidas aquí. (ej: compras de créditos, créditos ganados y gastados  haciendo videollamadas Wallet, cobros de facturas y reintegros de créditos)</value>
@@ -628,7 +628,7 @@
     <value>Introduce el número de créditos que quieres comprar</value>
   </data>
   <data name="HelpPurchaseCredits3" xml:space="preserve">
-    <value><![CDATA[1 crédito Langademy <span class="credit">€</span> = 1 EURO €]]></value>
+    <value>1 crédito Langademy &lt;span class="credit"&gt;€&lt;/span&gt; = 1 EURO €</value>
   </data>
   <data name="HelpPurchaseCredits4" xml:space="preserve">
     <value>Comprueba la compra mínima de créditos, que depende del método de pago que selecciones. Si tu ubicación está disponible y la moneda local de tu país no es el Euro, puedes ver una conversión estimada a tu moneda. Ten en cuenta que esta conversión es solo informativa, ya que la tasa de cambio final la aplican las entidades bancarias.</value>
@@ -661,7 +661,7 @@
     <value>El Banco de Tiempo es el app donde podrás hacer el seguimiento de tus llamada de Banco del tiempo y podrás ver tu saldo de tiempo.</value>
   </data>
   <data name="HelpTimeBankApp2" xml:space="preserve">
-    <value><![CDATA[Puedes abrir el Banco de Tiempo haciendo clic en el botón Apps <span class="lg lg-apps"></span> del Panel de Control y seleccionando el botón Banco de Tiempo <span class="lg lg-time-bag"></span>]]></value>
+    <value>Puedes abrir el Banco de Tiempo haciendo clic en el botón Apps &lt;span class="lg lg-apps"&gt;&lt;/span&gt; del Panel de Control y seleccionando el botón Banco de Tiempo &lt;span class="lg lg-time-bag"&gt;&lt;/span&gt;</value>
   </data>
   <data name="HelpTimeBankApp3" xml:space="preserve">
     <value>Cada llamada de banco de tiempo te añadirá o restará tiempo de tu saldo de tiempo de acuerdo a {0}</value>
