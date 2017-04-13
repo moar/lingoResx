@@ -124,6 +124,15 @@ namespace Resources.Views.PrivateConversations {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You haven&apos;t scheduled any conversations.
+        /// </summary>
+        public static string NoConversations {
+            get {
+                return ResourceManager.GetString("NoConversations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} would like to practice {1} with you.
         /// </summary>
         public static string PracticeRequest {
