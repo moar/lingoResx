@@ -601,6 +601,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No events scheduled.
+        /// </summary>
+        public static string NoEventsScheduled {
+            get {
+                return ResourceManager.GetString("NoEventsScheduled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to There are no meetup proposals for the next days in any of your languages.
         /// </summary>
         public static string NoMeetupProposals {

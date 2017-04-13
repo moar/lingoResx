@@ -349,7 +349,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You don&apos;t have a local account. You need to create a password for your account if you want to edit your invoicing data..
+        ///   Looks up a localized string similar to You don&apos;t have a local Langademy account. You need to create a password for your account if you want to edit your invoicing data..
         /// </summary>
         public static string CashoutCreatePWSent {
             get {
@@ -556,7 +556,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Withdrawal.
+        ///   Looks up a localized string similar to Withdrawals.
         /// </summary>
         public static string COutPanelTitle {
             get {
@@ -853,7 +853,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee for the conversations you have maintained as a native. This fee will be reflected in your next invoice. The fee is not taken from your account until your next invoice is emitted, however you cannot use it for other purchases either. Additionally, if you have requested a withdrawal, the amount of credits that you have requested won&apos;t be available to use..
+        ///   Looks up a localized string similar to At the end of the month, Langademy will charge you a fee for the Wallet video calls that you have maintained as a native. The fee is not collected from your account until your next invoice is issued, but this amount will be withheld and you won&apos;t be able to spend it. Additionally, if you have requested a withdrawal, the amount of credits that you have requested won&apos;t be available either..
         /// </summary>
         public static string MWMovementInfo {
             get {
@@ -1020,6 +1020,24 @@ namespace Resources.Views.MyWallet {
         public static string MWZipCode {
             get {
                 return ResourceManager.GetString("MWZipCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There are no invoices issued in this period.
+        /// </summary>
+        public static string NoInvoices {
+            get {
+                return ResourceManager.GetString("NoInvoices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There are no withdrawal transactions in this period.
+        /// </summary>
+        public static string NoWithdrawals {
+            get {
+                return ResourceManager.GetString("NoWithdrawals", resourceCulture);
             }
         }
         
