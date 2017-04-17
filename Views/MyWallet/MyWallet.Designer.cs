@@ -943,7 +943,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Click confirm and you will be redirected to the bank gateway to complete the process.
+        ///   Looks up a localized string similar to Click confirm and you will be redirected to the bank gateway to complete the process. Service provided by Bankinter.
         /// </summary>
         public static string MWRedsysInfo {
             get {

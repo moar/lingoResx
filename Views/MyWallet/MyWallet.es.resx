@@ -244,13 +244,13 @@
     <value>Lo sentimos. No hay métodos de pago disponibles para tu país</value>
   </data>
   <data name="AddPaymentPaypalNote" xml:space="preserve">
-    <value>Confirma la orden en el siguiente paso y serás redirigido a paypal para completar el proceso</value>
+    <value>Confirma el pedido en el siguiente paso y serás redirigido a paypal para completar el proceso</value>
   </data>
   <data name="AddPaymentPurchase" xml:space="preserve">
     <value>Comprar créditos Langademy</value>
   </data>
   <data name="AddPaymentRedsys" xml:space="preserve">
-    <value>Confirma el pedido y en el siguiente paso serás redirigido a la pasarela de pago de tu banco para que completes el proceso</value>
+    <value>Confirma el pedido y en el siguiente paso serás redirigido a la pasarela de pago del banco para que completes el proceso. Servicio ofrecido por Bankinter</value>
   </data>
   <data name="AddPaymentSelect" xml:space="preserve">
     <value>Selecciona el método de pago</value>
@@ -343,13 +343,13 @@
     <value>Información de pago</value>
   </data>
   <data name="ConfirmOrderTitle" xml:space="preserve">
-    <value>Confirmar orden</value>
+    <value>Confirmar pedido</value>
   </data>
   <data name="COrderCompletedAmount" xml:space="preserve">
     <value>Número de créditos comprados</value>
   </data>
   <data name="COrderCompletedTitle" xml:space="preserve">
-    <value>¡Feilicidades! Tu compra se ha efectuado correctamente</value>
+    <value>¡Felicidades! Tu compra se ha efectuado correctamente</value>
   </data>
   <data name="COutPanelTitle" xml:space="preserve">
     <value>Reintegros</value>
@@ -373,19 +373,19 @@
     <value>Operaciones</value>
   </data>
   <data name="MWPaypalInfo" xml:space="preserve">
-    <value>Confirma la orden y serán redirigido a PayPal para completar el proceso</value>
+    <value>Confirma el pedido y serás redirigido a PayPal para completar el pago</value>
   </data>
   <data name="MWRedsysInfo" xml:space="preserve">
-    <value>Clica confirmar y serás redirigido a la pasarela de pago de tu banco para completar el proceso</value>
+    <value>Clica confirmar y serás redirigido a la pasarela de pago del banco para completar el proceso. Servicio proporcionado por Bankinter</value>
   </data>
   <data name="OderCompletedBackMw" xml:space="preserve">
     <value>Volver a My Wallet</value>
   </data>
   <data name="OrderCompletedNum" xml:space="preserve">
-    <value>Número de orden</value>
+    <value>Número de pedido</value>
   </data>
   <data name="OrderCompletedpurchase" xml:space="preserve">
-    <value>Comprar créditos de Langademy</value>
+    <value>Compra de créditos de Langademy</value>
   </data>
   <data name="ReqCashoutAccPass" xml:space="preserve">
     <value>Por favor, introduce tu contraseña de Langademy</value>

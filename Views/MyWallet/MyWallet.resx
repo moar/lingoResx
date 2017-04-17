@@ -376,7 +376,7 @@
     <value>Confirm the order and you will be redirected to PayPal to complete the process</value>
   </data>
   <data name="MWRedsysInfo" xml:space="preserve">
-    <value>Click confirm and you will be redirected to the bank gateway to complete the process</value>
+    <value>Click confirm and you will be redirected to the bank gateway to complete the process. Service provided by Bankinter</value>
   </data>
   <data name="OderCompletedBackMw" xml:space="preserve">
     <value>Back to My Wallet</value>
