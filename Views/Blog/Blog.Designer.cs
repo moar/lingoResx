@@ -106,7 +106,7 @@ namespace Resources.Views.Blog {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy articles.
+        ///   Looks up a localized string similar to Language Blog.
         /// </summary>
         public static string BlogTitle {
             get {
@@ -160,7 +160,7 @@ namespace Resources.Views.Blog {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Find articles related to {0} at Langademy. Read our blog and learn about different Languages..
+        ///   Looks up a localized string similar to Find articles related to {0} at Langademy. Read our blog and learn about different languages..
         /// </summary>
         public static string RelatedPosts {
             get {
