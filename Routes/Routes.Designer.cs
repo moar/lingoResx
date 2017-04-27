@@ -187,20 +187,20 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to improve-english-pronunciation.
+        /// </summary>
+        public static string improve_english_pronunciation {
+            get {
+                return ResourceManager.GetString("improve-english-pronunciation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/langademy-state.
         /// </summary>
         public static string langademy_state {
             get {
                 return ResourceManager.GetString("langademy-state", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to online-language-exchange.
-        /// </summary>
-        public static string language_exchange {
-            get {
-                return ResourceManager.GetString("language-exchange", resourceCulture);
             }
         }
         
@@ -214,11 +214,29 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to language-exchanges.
+        /// </summary>
+        public static string language_exchanges {
+            get {
+                return ResourceManager.GetString("language-exchanges", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/language-learners-how-to-start.
         /// </summary>
         public static string language_learners_how_to_start {
             get {
                 return ResourceManager.GetString("language-learners-how-to-start", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to maneras-aprender-ingles-rapidamente.
+        /// </summary>
+        public static string learn_english_quickly {
+            get {
+                return ResourceManager.GetString("learn-english-quickly", resourceCulture);
             }
         }
         
@@ -273,6 +291,15 @@ namespace Resources.Routes {
         public static string new_meetup {
             get {
                 return ResourceManager.GetString("new-meetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange.
+        /// </summary>
+        public static string online_language_exchange {
+            get {
+                return ResourceManager.GetString("online-language-exchange", resourceCulture);
             }
         }
         
