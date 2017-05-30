@@ -250,7 +250,7 @@ namespace Resources.Views.ExchangeIndex {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search language exchange partners.
+        ///   Looks up a localized string similar to SIGN UP and search language exchange partners.
         /// </summary>
         public static string EISearchPartners {
             get {

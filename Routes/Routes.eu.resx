@@ -223,9 +223,18 @@
     <value>laguntza/denbora-bankua</value>
   </data>
   <data name="my-meetups" xml:space="preserve">
-    <value>nire-mintzasaioak</value>
+    <value>hizkuntza-elkartrukea-online/nire-bilerak</value>
   </data>
   <data name="new-meetup" xml:space="preserve">
-    <value>bilera-berria</value>
+    <value>hizkuntza-elkartrukea-online/bilera-berria</value>
+  </data>
+  <data name="meetups" xml:space="preserve">
+    <value>hizkuntza-elkartrukea-online/bilerak/</value>
+  </data>
+  <data name="meetup-guid" xml:space="preserve">
+    <value>hizkuntza-elkartrukea-online/bilerak/{meetid:guid}/{meetupName}/</value>
+  </data>
+  <data name="meetup-id" xml:space="preserve">
+    <value>hizkuntza-elkartrukea-online/bilerak/{meetid:long}/{meetupName}/</value>
   </data>
 </root>

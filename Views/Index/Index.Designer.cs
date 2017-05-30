@@ -458,6 +458,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to What is a language exchange?.
+        /// </summary>
+        public static string IndWhatIsExchange {
+            get {
+                return ResourceManager.GetString("IndWhatIsExchange", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Join.
         /// </summary>
         public static string Join {

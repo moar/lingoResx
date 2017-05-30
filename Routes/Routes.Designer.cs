@@ -250,7 +250,34 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to my-meetups.
+        ///   Looks up a localized string similar to online-language-exchange/meetups/{meetid:guid}/{meetupName}/.
+        /// </summary>
+        public static string meetup_guid {
+            get {
+                return ResourceManager.GetString("meetup-guid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/meetups/{meetid:long}/{meetupName}/.
+        /// </summary>
+        public static string meetup_id {
+            get {
+                return ResourceManager.GetString("meetup-id", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/meetups/.
+        /// </summary>
+        public static string meetups {
+            get {
+                return ResourceManager.GetString("meetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/my-meetups.
         /// </summary>
         public static string my_meetups {
             get {
@@ -286,7 +313,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to new-meetup.
+        ///   Looks up a localized string similar to online-language-exchange/new-meetup.
         /// </summary>
         public static string new_meetup {
             get {

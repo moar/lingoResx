@@ -222,4 +222,19 @@
   <data name="help-time-bank" xml:space="preserve">
     <value>ajuda/banc-de-temps</value>
   </data>
+  <data name="meetups" xml:space="preserve">
+    <value>intercanvi-idiomes-online/quedades/</value>
+  </data>
+  <data name="meetup-guid" xml:space="preserve">
+    <value>intercanvi-idiomes-online/quedades/{meetid:guid}/{meetupName}/</value>
+  </data>
+  <data name="meetup-id" xml:space="preserve">
+    <value>intercanvi-idiomes-online/quedades/{meetid:long}/{meetupName}/</value>
+  </data>
+  <data name="my-meetups" xml:space="preserve">
+    <value>intercanvi-idiomes-online/les-meves-quedades/</value>
+  </data>
+  <data name="new-meetup" xml:space="preserve">
+    <value>intercanvi-idiomes-online/nova-quedade/</value>
+  </data>
 </root>
