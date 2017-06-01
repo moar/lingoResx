@@ -249,4 +249,19 @@
   <data name="meetups" xml:space="preserve">
     <value>online-language-exchange/meetups/</value>
   </data>
+  <data name="languagePartnersNatives" xml:space="preserve">
+    <value>language-partners/natives/</value>
+  </data>
+  <data name="onlineLanguageExchangePartners" xml:space="preserve">
+    <value>online-language-exchange/partners/</value>
+  </data>
+  <data name="learn-english-improve-pronunciation" xml:space="preserve">
+    <value>learn-languages/english/improve-pronunciation/</value>
+  </data>
+  <data name="learn-languages-english-conversations" xml:space="preserve">
+    <value>learn-languages/english/conversations/</value>
+  </data>
+  <data name="learn-languages-english-quickly" xml:space="preserve">
+    <value>learn-languages/english/learn-quickly/</value>
+  </data>
 </root>

@@ -237,4 +237,10 @@
   <data name="new-meetup" xml:space="preserve">
     <value>intercanvi-idiomes-online/nova-quedade/</value>
   </data>
+  <data name="languagePartnersNatives" xml:space="preserve">
+    <value>companys-idiomes/natius/</value>
+  </data>
+  <data name="onlineLanguageExchangePartners" xml:space="preserve">
+    <value>intercanvi-idiomes-online/companys/</value>
+  </data>
 </root>

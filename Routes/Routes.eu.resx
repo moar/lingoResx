@@ -237,4 +237,10 @@
   <data name="meetup-id" xml:space="preserve">
     <value>hizkuntza-elkartrukea-online/bilerak/{meetid:long}/{meetupName}/</value>
   </data>
+  <data name="languagePartnersNatives" xml:space="preserve">
+    <value>mintzalagunak/natiboak/</value>
+  </data>
+  <data name="onlineLanguageExchangePartners" xml:space="preserve">
+    <value>hizkuntza-elkartrukea-online/mintzalagunak/</value>
+  </data>
 </root>

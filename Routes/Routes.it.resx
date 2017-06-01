@@ -243,4 +243,13 @@
   <data name="new-meetup" xml:space="preserve">
     <value>scambio-di-lingue-online/nuovo-meetup/</value>
   </data>
+  <data name="languagePartnersNatives" xml:space="preserve">
+    <value>lingue-partners/madre-lingua/</value>
+  </data>
+  <data name="onlineLanguageExchangePartners" xml:space="preserve">
+    <value>scambio-di-lingue-online/partners/</value>
+  </data>
+  <data name="learn-english-improve-pronunciation" xml:space="preserve">
+    <value>imparare-lingue/inglese/migliorare-la-pronuncia/</value>
+  </data>
 </root>

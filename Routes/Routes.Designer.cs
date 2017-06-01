@@ -232,6 +232,24 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to language-partners/natives/.
+        /// </summary>
+        public static string languagePartnersNatives {
+            get {
+                return ResourceManager.GetString("languagePartnersNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/improve-pronunciation/.
+        /// </summary>
+        public static string learn_english_improve_pronunciation {
+            get {
+                return ResourceManager.GetString("learn-english-improve-pronunciation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to maneras-aprender-ingles-rapidamente.
         /// </summary>
         public static string learn_english_quickly {
@@ -246,6 +264,24 @@ namespace Resources.Routes {
         public static string learn_languages {
             get {
                 return ResourceManager.GetString("learn-languages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/conversations/.
+        /// </summary>
+        public static string learn_languages_english_conversations {
+            get {
+                return ResourceManager.GetString("learn-languages-english-conversations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/learn-quickly/.
+        /// </summary>
+        public static string learn_languages_english_quickly {
+            get {
+                return ResourceManager.GetString("learn-languages-english-quickly", resourceCulture);
             }
         }
         
@@ -327,6 +363,15 @@ namespace Resources.Routes {
         public static string online_language_exchange {
             get {
                 return ResourceManager.GetString("online-language-exchange", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/partners/.
+        /// </summary>
+        public static string onlineLanguageExchangePartners {
+            get {
+                return ResourceManager.GetString("onlineLanguageExchangePartners", resourceCulture);
             }
         }
         

@@ -249,4 +249,19 @@
   <data name="meetup-id" xml:space="preserve">
     <value>intercambio-de-idiomas-online/meetups/{meetid:long}/{meetupName}/</value>
   </data>
+  <data name="languagePartnersNatives" xml:space="preserve">
+    <value>compañeros-practicar-idiomas/nativos/</value>
+  </data>
+  <data name="onlineLanguageExchangePartners" xml:space="preserve">
+    <value>intercambio-de-idiomas-online/compañeros/</value>
+  </data>
+  <data name="learn-english-improve-pronunciation" xml:space="preserve">
+    <value>aprender-idiomas/ingles/como-mejorar-pronunciacion/</value>
+  </data>
+  <data name="learn-languages-english-conversations" xml:space="preserve">
+    <value>aprender-idiomas/ingles/conversaciones/</value>
+  </data>
+  <data name="learn-languages-english-quickly" xml:space="preserve">
+    <value>aprender-idiomas/ingles/aprender-rapidamente/</value>
+  </data>
 </root>
