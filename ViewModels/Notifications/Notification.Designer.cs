@@ -142,7 +142,7 @@ namespace Resources.ViewModels.Notifications {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to cancelled your private meetup.
+        ///   Looks up a localized string similar to cancelled your private conversation.
         /// </summary>
         public static string PrivateMeetupCancelled {
             get {

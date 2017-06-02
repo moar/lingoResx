@@ -70,7 +70,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The main way to get time for your account, is by talking to others in your native languages. You can go to the chat room of one of your native languages, or you can make private calls in your native languages with your contacts or with students that request you private conversations.&lt;br /&gt;
+        ///   Looks up a localized string similar to The main way to get time for your account, is by talking to others in your native languages. You can make private calls in your native languages with your contacts, or with students that request you private conversations, or meet new people in the chat room of any of your native languages.&lt;br/&gt;
         ///                                You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook..
         /// </summary>
         public static string Answer2 {
@@ -98,7 +98,7 @@ namespace Resources.Views.Faq {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All the meetups take place inside a chat room. You can either go to your right panel app and select the room you want to enter, or select the meetup from your Calendar and enter directly to the room when the time comes..
+        ///   Looks up a localized string similar to All the meetups take place inside a chat room. You can either go to the Control Panel -&gt; Chat Rooms and select the room you want to enter, or select the meetup from your Calendar and enter directly to the room when the time comes..
         /// </summary>
         public static string Answer5 {
             get {

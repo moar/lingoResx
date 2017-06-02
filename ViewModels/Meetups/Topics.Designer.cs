@@ -169,7 +169,7 @@ namespace Resources.ViewModels.Meetups {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fitnesss.
+        ///   Looks up a localized string similar to Fitness.
         /// </summary>
         public static string fitness {
             get {

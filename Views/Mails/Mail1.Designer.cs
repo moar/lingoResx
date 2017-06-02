@@ -61,6 +61,15 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Someone wants to now when you will be available.
+        /// </summary>
+        public static string AvailabilityRequests {
+            get {
+                return ResourceManager.GetString("AvailabilityRequests", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0}&apos;s calendar is updated.
         /// </summary>
         public static string AvailableRequest {
@@ -88,7 +97,7 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have a converstaion scheduled for today.
+        ///   Looks up a localized string similar to You have a conversation scheduled for today.
         /// </summary>
         public static string ConversationAlert {
             get {

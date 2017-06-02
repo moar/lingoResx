@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Resources.General {
+namespace Resources.Views.StudentsCenter {
     using System;
     
     
@@ -22,14 +22,14 @@ namespace Resources.General {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class CookieConsent {
+    public class Index {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal CookieConsent() {
+        internal Index() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace Resources.General {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.General.CookieConsent", typeof(CookieConsent).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.StudentsCenter.Index", typeof(Index).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,29 +61,11 @@ namespace Resources.General {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This website uses cookies. By continuing to use this website you are giving consent to cookies being used..
+        ///   Looks up a localized string similar to Students Center.
         /// </summary>
-        public static string CookieAdvisory {
+        public static string StudentsCenterTitle {
             get {
-                return ResourceManager.GetString("CookieAdvisory", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Cookies.
-        /// </summary>
-        public static string Cookies {
-            get {
-                return ResourceManager.GetString("Cookies", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Show more.
-        /// </summary>
-        public static string ShowMore {
-            get {
-                return ResourceManager.GetString("ShowMore", resourceCulture);
+                return ResourceManager.GetString("StudentsCenterTitle", resourceCulture);
             }
         }
     }

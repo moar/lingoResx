@@ -88,7 +88,7 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Find conversations partners and filter your searches using the filter in your right panel.
+        ///   Looks up a localized string similar to Find conversations partners and filter your searches using the filter in your control panel.
         /// </summary>
         public static string SearchCustomUserSubtitle {
             get {
