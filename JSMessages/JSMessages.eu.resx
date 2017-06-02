@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AutomaticPartnerFinder" xml:space="preserve">
+    <value> Mintzalagun bilatzaile automatikoa</value>
+  </data>
+  <data name="calendarAllTitle" xml:space="preserve">
+    <value> Hurrengo hizkuntza elkartrukeak</value>
+  </data>
+  <data name="calendarMyTitle" xml:space="preserve">
+    <value> Nire hurrengo hizkuntza elkartrukeak</value>
+  </data>
+  <data name="calendarRecRequestsTitle" xml:space="preserve">
+    <value> Solicitudes de conversación recibidas</value>
+  </data>
+  <data name="calendarSentRequestsTitle" xml:space="preserve">
+    <value> Solicitudes de conversación enviadas</value>
+  </data>
+  <data name="CallerNoWebrtc" xml:space="preserve">
+    <value> Zure nabigatzaileak ez du bideo deirik onartzen. Saiatu zaitez Chrome, Firefox edo Opera-ren azken bertsioekin.</value>
+  </data>
+  <data name="cancelmeetMB" xml:space="preserve">
+    <value> ¿Estás seguro de que quieres cancelar la conversación?</value>
+  </data>
+  <data name="cancelreqMB" xml:space="preserve">
+    <value> ¿Estás seguro de que quieres cancelar tu solicitud?</value>
+  </data>
+  <data name="cannotAcceptCalls" xml:space="preserve">
+    <value> Ezin duzu deirik erantzun, zure nabigatzaileak ez du deirik onartzen.</value>
+  </data>
+  <data name="confAttendMeetup" xml:space="preserve">
+    <value> Bilera honetara joango zarela baieztatzen al duzu?</value>
+  </data>
+  <data name="confBlockUser" xml:space="preserve">
+    <value> Blokeatutako erabiltzaileek ezingo dizute kontaktu eskaririk bidali eta Language Roulettean ez zara beraiekin parekatua izango (kontuaren ezerpenetan desblokeatu dezakezu nahi baduzu). Erabiltzaile hau blokeatzeaz ziur al zaude?</value>
+  </data>
+  <data name="confCancelMeetAttendance" xml:space="preserve">
+    <value> Bilera hau uzteaz ziur al zaude?</value>
+  </data>
+  <data name="confDeactivateAcc" xml:space="preserve">
+    <value> Ziur al zaude zure kontua ezabatzeaz?</value>
+  </data>
+  <data name="confDelLang" xml:space="preserve">
+    <value> Ziur zaude {0} zure hizkuntzetatik ezabatzeaz?</value>
+  </data>
+  <data name="confDelLoginLink" xml:space="preserve">
+    <value> Ziur zaude {0} zure kontuetatik ezabatzeaz?</value>
+  </data>
+  <data name="ConfDelMBPost" xml:space="preserve">
+    <value> Ziur al zaude iruzkina ezabatzeaz?</value>
+  </data>
+  <data name="ConfDelMBTopic" xml:space="preserve">
+    <value> Botua kentzen baduzu gaia ezabatuko da. Ziur al zaude?</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value> Konfirmatu</value>
+  </data>
+  <data name="confirmSave" xml:space="preserve">
+    <value> Do you want to save your changes before closing?</value>
+  </data>
+  <data name="ConfirnGetLocation" xml:space="preserve">
+    <value> Zure herrialdeko legeen arabera, zure benetako lokalizazioa behar dugu zure fakturazio helbidea gordetzeko. Ok botoia sakatzen baduzu, nabigatzaileak zure lokalizazioa eskatuko dizu berriz.</value>
+  </data>
+  <data name="connectingWithPartner" xml:space="preserve">
+    <value> {0}-(r)ekin konektatzen...</value>
+  </data>
+  <data name="ConnectionError" xml:space="preserve">
+    <value> Konexio akats bat gertatu da deia egiten ari zinenean. Dei hau amaitutzat emango da</value>
+  </data>
+  <data name="ConnectionErrorTitle" xml:space="preserve">
+    <value> Akatsa deian</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value> Lagunak</value>
+  </data>
+  <data name="ContinueVideoCall" xml:space="preserve">
+    <value> Deiarekin jarraitu</value>
+  </data>
+  <data name="conversationexchangemeetups" xml:space="preserve">
+    <value> mintza-bilerak</value>
+  </data>
+  <data name="CRMeetupTime" xml:space="preserve">
+    <value> Bilera bat antolatu da ​{0}-(t)an</value>
+  </data>
+  <data name="CRNoTopicsProposed" xml:space="preserve">
+    <value> Inork ez du bilera honetarako hizketa gairik proposatu</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value> Eguna</value>
+  </data>
+  <data name="EndVideoCall" xml:space="preserve">
+    <value> Deia amaitu</value>
+  </data>
+  <data name="errorSt" xml:space="preserve">
+    <value> Barkatu, okerren bat egon da</value>
+  </data>
+  <data name="FeedbackOpinion" xml:space="preserve">
+    <value> Eman zure iritzia</value>
+  </data>
+  <data name="FeedbackSuccess" xml:space="preserve">
+    <value> Eskerrik asko zure iritzia emateagatik!</value>
+  </data>
+  <data name="FilterMeetups" xml:space="preserve">
+    <value> Filter Meetups</value>
+  </data>
+  <data name="FilterRoomUsers" xml:space="preserve">
+    <value> Erabiltzaileak filtratu</value>
+  </data>
+  <data name="GlobalNetworkError" xml:space="preserve">
+    <value> Langademyko zerbitzariekin konexioa galdu da. Berriz konektatzen...</value>
+  </data>
+  <data name="help" xml:space="preserve">
+    <value> Laguntza</value>
+  </data>
+  <data name="IncompleteProfile" xml:space="preserve">
+    <value> Osatu ezazu zure profila</value>
+  </data>
+  <data name="InvitsSent" xml:space="preserve">
+    <value> Gonbidapenak zuzen bidali dira!</value>
+  </data>
+  <data name="LayoutTrip1Step1" xml:space="preserve">
+    <value> Klikatu gaineko blokea zure profileko aukerak ikusteko</value>
+  </data>
+  <data name="LayoutTrip1Step2" xml:space="preserve">
+    <value> Klikatu zure izenean eta Click your name eta Editatu Profile. Bertan praktikatu nahi dituzun hizkuntzak geitu ahalko dituzu</value>
+  </data>
+  <data name="LeaveAppConfirmation" xml:space="preserve">
+    <value> Irtetzeaz ziur al zaude?</value>
+  </data>
+  <data name="LeaveCall" xml:space="preserve">
+    <value> Bideo deia uztear zaude. Ziur al zaude?</value>
+  </data>
+  <data name="LeaveRoomConfirmation" xml:space="preserve">
+    <value> Gelatik irtetzear zaude. Ziur al zaude?</value>
+  </data>
+  <data name="leaveVC" xml:space="preserve">
+    <value> Bideo dei baten zaude</value>
+  </data>
+  <data name="LikeSentence" xml:space="preserve">
+    <value> {0}-(re)kin txateazea gustatu al zaizu?</value>
+  </data>
+  <data name="LoginOrSignup" xml:space="preserve">
+    <value> Sartu edo izena eman</value>
+    <comment>,</comment>
+  </data>
+  <data name="meetupAlert" xml:space="preserve">
+    <value> Zure bilera hastera doa</value>
+  </data>
+  <data name="meetupAlertTitle" xml:space="preserve">
+    <value> Gogorazpena</value>
+  </data>
+  <data name="MeetupBoard" xml:space="preserve">
+    <value> Bilera taula</value>
+  </data>
+  <data name="meetupSelectTopic" xml:space="preserve">
+    <value> Aukeratu bilerarako mintzagai bat</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value> Hilabetea</value>
+  </data>
+  <data name="NetworkError" xml:space="preserve">
+    <value> Sareko konexio akatsa</value>
+  </data>
+  <data name="NetworkErrorInVideo" xml:space="preserve">
+    <value> Langademyko zerbitzariekin konexioa galdu da. Saiatu zaitez deia berriz egiten konexioa itzultzen denean.</value>
+  </data>
+  <data name="NoCameraNorMic" xml:space="preserve">
+    <value> Ezin izan ditugu webcama eta mikroa aurkitu zure mintzalagunaren gailuan, dei hau amaitutzat emango da</value>
+  </data>
+  <data name="NoCamTitle" xml:space="preserve">
+    <value> Webcama eta mikroa ez dira aurkitu</value>
+  </data>
+  <data name="NoChatHours" xml:space="preserve">
+    <value> Denbora bankuaren notifikazioa</value>
+  </data>
+  <data name="NoMediaAcceptance" xml:space="preserve">
+    <value> Zure mintzalagunak ezin izan ditu kamera eta mikroa konektatu eta deia amaitu du</value>
+  </data>
+  <data name="NoMediaTitle" xml:space="preserve">
+    <value> Kamera/mikroaren baimenak</value>
+  </data>
+  <data name="NoOwnCameraNorMic" xml:space="preserve">
+    <value> Ezin izan ditugu webcama eta mikroa aurkitu zure gailuan, dei hau amaitutzat emango da</value>
+  </data>
+  <data name="NoOwnMediaAcceptance" xml:space="preserve">
+    <value> Ez diozu zure nabigatzaileari kamera edo mikroa erabiltzeko baimenik eman. Baimena eman ta deiarekin jarrai dezakezu edo deia orain amaitu dezakezu.</value>
+  </data>
+  <data name="NoSupported" xml:space="preserve">
+    <value> Zure nabigatzaileak ez du web orrialde hau jasaten</value>
+  </data>
+  <data name="NoThanks" xml:space="preserve">
+    <value> Ez, eskerrik asko</value>
+  </data>
+  <data name="Notification" xml:space="preserve">
+    <value> Abixua</value>
+  </data>
+  <data name="NoWebrtc" xml:space="preserve">
+    <value> Zure nabigatzaileak ez du bideo deirik onartzen</value>
+  </data>
+  <data name="OwnFinished" xml:space="preserve">
+    <value> Deia amaitu duzu</value>
+  </data>
+  <data name="Participants" xml:space="preserve">
+    <value> Partehartzaileak</value>
+  </data>
+  <data name="PrMeetupBegin" xml:space="preserve">
+    <value> Puedes llamar a {0} cuando esteis los dos online</value>
+  </data>
+  <data name="PrMeetupBeginBoth" xml:space="preserve">
+    <value> {0} y tú estais online. Podeis empezar una videollamada cuando querais</value>
+  </data>
+  <data name="PrMeetupBeginTitle" xml:space="preserve">
+    <value> ¡La conversación privada empieza ahora!</value>
+  </data>
+  <data name="PrMeetupOver" xml:space="preserve">
+    <value> Habeis superado el tiempo de conversación acordado. Añade a {0} a tu lista de contactos para hablar en cualquier momento</value>
+  </data>
+  <data name="PrMeetupOverTitle" xml:space="preserve">
+    <value> Fin de la conversación privada</value>
+  </data>
+  <data name="ProfileEdit" xml:space="preserve">
+    <value> Profilaren edizioa</value>
+  </data>
+  <data name="ProfileTripStep1" xml:space="preserve">
+    <value> Gehitu dakizkizun hizkuntzak eta ikasi nahi dituzunak.Zure profilean dauzkazun hizkuntzen geletara soilik sartu zaitezkela gogora ezazu.</value>
+  </data>
+  <data name="ProfileTripStep2" xml:space="preserve">
+    <value> Etxea duen botoia sakatuta itzul zaitezke orrialde printzipalera.</value>
+  </data>
+  <data name="rejectreqMB" xml:space="preserve">
+    <value> ¿Estás seguro de que quieres rechazar esta solicitud de conversación?</value>
+  </data>
+  <data name="RemoteFinished" xml:space="preserve">
+    <value> {0} -(e)k deia amaitu du</value>
+  </data>
+  <data name="RequestConv" xml:space="preserve">
+    <value> Konbertsazio eskaria egin</value>
+  </data>
+  <data name="RoomTripStep1" xml:space="preserve">
+    <value> Klikatu menuan aukera desberdinak ikusteko</value>
+  </data>
+  <data name="RoomTripStep2" xml:space="preserve">
+    <value> Klikatu konektatuta dauden erabiltzaileen gainean bideodeiak egiteko, beraien profila ikusteko edo laguntasun eskariak bildatzeko</value>
+  </data>
+  <data name="RoomTripStep3" xml:space="preserve">
+    <value> Txat eta dei pribatuak egin ahal izango dituzu geletara sartzeko beharrik gabe</value>
+  </data>
+  <data name="RoomTripStep4" xml:space="preserve">
+    <value> Ikusi gela honetako hurrengo bilerak!,</value>
+  </data>
+  <data name="RoomTripStep5" xml:space="preserve">
+    <value> Gela hutsik badago, sortu ezazu bilera bat zuk nahi duzun ordu eta egunean eta gonbida itzazu zure kontaktuak bertara</value>
+  </data>
+  <data name="RouletteCannotConnect" xml:space="preserve">
+    <value> Ezin izan zaitugu zure mintzalagunarekin konektatu zuen sareetako segurtasun mailagatik</value>
+  </data>
+  <data name="SelectLanguage" xml:space="preserve">
+    <value> Aukeratu zure hizkuntza</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value> Ezarpenak</value>
+  </data>
+  <data name="TimeBank" xml:space="preserve">
+    <value> Denbora bankua</value>
+  </data>
+  <data name="TimeBankRoom" xml:space="preserve">
+    <value> Denbora banku gela</value>
+  </data>
+  <data name="Trip2Step1" xml:space="preserve">
+    <value> Sartu txat geletara eta bilatu hiztun natiboak. Deiak egiteko zure Walleta edo denbora bankua erabili ditzakezu</value>
+  </data>
+  <data name="Trip3Step1" xml:space="preserve">
+    <value> Aurkitu zure preferentziak betetzen dituen jendea. Sakatu bilaketako botoia eta has zaitez beraiekin konektatzen!</value>
+  </data>
+  <data name="TripExpert" xml:space="preserve">
+    <value> Aditua naiz!</value>
+  </data>
+  <data name="TripExpert2" xml:space="preserve">
+    <value> Pauso guztiak saltatu</value>
+  </data>
+  <data name="TripFinish" xml:space="preserve">
+    <value> Ulertuta!</value>
+  </data>
+  <data name="TripNext" xml:space="preserve">
+    <value> Hurrengoa</value>
+  </data>
+  <data name="TurnSecureServer" xml:space="preserve">
+    <value> Seguruenik enpresa bateko sare seguru batean zaude. Saiatu zaitez beste sare batetik konektatzen</value>
+  </data>
+  <data name="UpdateProfilePhoto" xml:space="preserve">
+    <value> Profileko Argazkia</value>
+  </data>
+  <data name="UserRoomEntrance" xml:space="preserve">
+    <value> {0} txat gelara sartu da. Hasi txateatzen!</value>
+  </data>
+  <data name="vcEarned" xml:space="preserve">
+    <value> irabazita</value>
+  </data>
+  <data name="vcSpent" xml:space="preserve">
+    <value> gastatuta</value>
+  </data>
+  <data name="VideoCall" xml:space="preserve">
+    <value> Bideo-deia</value>
+  </data>
+  <data name="WaitingForCamera" xml:space="preserve">
+    <value> Zure nabigatzaileari kamera erabiltzeko baimenak eman diezazkiozun zain...</value>
+  </data>
+  <data name="WalletRateTitle" xml:space="preserve">
+    <value> Wallet gelako tarifa</value>
+  </data>
+  <data name="WalletRoom" xml:space="preserve">
+    <value> Wallet gela</value>
+  </data>
+  <data name="warning" xml:space="preserve">
+    <value> Aviso</value>
+  </data>
+  <data name="warnnochangelng" xml:space="preserve">
+    <value> No puedes cambiar el idioma durante una videollamada</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value> Urtea</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value> Bai</value>
+  </data>
+</root>

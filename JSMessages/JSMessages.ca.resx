@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AutomaticPartnerFinder" xml:space="preserve">
+    <value> Cercador automàtic de companys</value>
+  </data>
+  <data name="calendarAllTitle" xml:space="preserve">
+    <value> Següents intercanvis d'idiomes</value>
+  </data>
+  <data name="calendarMyTitle" xml:space="preserve">
+    <value> Els meus pròxims intercanvis d'idiomes</value>
+  </data>
+  <data name="calendarRecRequestsTitle" xml:space="preserve">
+    <value> Sol·licituds de conversa rebudes</value>
+  </data>
+  <data name="calendarSentRequestsTitle" xml:space="preserve">
+    <value> Sol·licituds de conversa enviades</value>
+  </data>
+  <data name="CallerNoWebrtc" xml:space="preserve">
+    <value> Aquest navegador no soporta les videotrucades. Prova amb les últimes versions de Chrome, Firefox u Opera .</value>
+  </data>
+  <data name="cancelmeetMB" xml:space="preserve">
+    <value> Estàs segur que vols cancel·lar la conversa?</value>
+  </data>
+  <data name="cancelreqMB" xml:space="preserve">
+    <value> Estàs segur de que vols cancel·lar la teva sol·licitud?</value>
+  </data>
+  <data name="cannotAcceptCalls" xml:space="preserve">
+    <value> No pots acceptar trucades, el teu navegador no accepta videotrucades.</value>
+  </data>
+  <data name="confAttendMeetup" xml:space="preserve">
+    <value> Confirmes que assistiràs a la quedada?</value>
+  </data>
+  <data name="confBlockUser" xml:space="preserve">
+    <value> Si bloqueges a aquest usuari, no podrà enviar sol·licituds d'amistat ni sereu aparellats al Language Roulette (si vols desbloquejar-lo més endavant podràs fer-ho en la configuració del teu compte). Estàs segur que vols bloquejar-lo?</value>
+  </data>
+  <data name="confCancelMeetAttendance" xml:space="preserve">
+    <value> Estàs segur de voler abandonar la quedada?</value>
+  </data>
+  <data name="confDeactivateAcc" xml:space="preserve">
+    <value> Estàs segur de desactivar el teu compte?</value>
+  </data>
+  <data name="confDelLang" xml:space="preserve">
+    <value> Estàs segur de voler esborrar {0} dels teus idiomes?</value>
+  </data>
+  <data name="confDelLoginLink" xml:space="preserve">
+    <value> Estàs segur de voler eliminar {0} dels teus comptes d’accés?</value>
+  </data>
+  <data name="ConfDelMBPost" xml:space="preserve">
+    <value> Vas a eliminar el comentari. Estàs segur?</value>
+  </data>
+  <data name="ConfDelMBTopic" xml:space="preserve">
+    <value> Si treus el teu vot s'eliminarà el tema. Estàs segur?</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value> Confirmar</value>
+  </data>
+  <data name="confirmSave" xml:space="preserve">
+    <value> Do you want to save your changes before closing?</value>
+  </data>
+  <data name="ConfirnGetLocation" xml:space="preserve">
+    <value> D'acord a les lleis del teu país, necessitem la teva localització real abans de poder guardar la teva adreça de facturació. Si prems OK el navegador tornarà a demanar-te permís per obtenir la teva localització.</value>
+  </data>
+  <data name="connectingWithPartner" xml:space="preserve">
+    <value> Connectant-te amb {0}...</value>
+  </data>
+  <data name="ConnectionError" xml:space="preserve">
+    <value>  Hi ha hagut un error de connexió durant la trucada. Aquesta trucada es donarà per finalitzada</value>
+  </data>
+  <data name="ConnectionErrorTitle" xml:space="preserve">
+    <value> Error durant la trucada</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value> Contactes</value>
+  </data>
+  <data name="ContinueVideoCall" xml:space="preserve">
+    <value> Continuar la trucada</value>
+  </data>
+  <data name="conversationexchangemeetups" xml:space="preserve">
+    <value> quedades-intercanvi-idiomes</value>
+  </data>
+  <data name="CRMeetupTime" xml:space="preserve">
+    <value> S'ha organitzat una quedada a la(s) {0}</value>
+  </data>
+  <data name="CRNoTopicsProposed" xml:space="preserve">
+    <value> No s'han proposat temes de conversa per a aquesta quedada</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value> Dia</value>
+  </data>
+  <data name="EndVideoCall" xml:space="preserve">
+    <value> Finalitzar trucada</value>
+  </data>
+  <data name="errorSt" xml:space="preserve">
+    <value> Perdona,però alguna cosa no anat com esperàvem</value>
+  </data>
+  <data name="FeedbackOpinion" xml:space="preserve">
+    <value> Dona’ns la teva opinió</value>
+  </data>
+  <data name="FeedbackSuccess" xml:space="preserve">
+    <value> Gràcies per donar-nos la teva opinió!</value>
+  </data>
+  <data name="FilterMeetups" xml:space="preserve">
+    <value> Filtrar Quedades</value>
+  </data>
+  <data name="FilterRoomUsers" xml:space="preserve">
+    <value> Filtrar Usuaris</value>
+  </data>
+  <data name="GlobalNetworkError" xml:space="preserve">
+    <value> S'ha perdut la connexió amb els servidors de Langademy. Reconnectant ...</value>
+  </data>
+  <data name="help" xml:space="preserve">
+    <value> Ajuda</value>
+  </data>
+  <data name="IncompleteProfile" xml:space="preserve">
+    <value> Completa el teu perfil</value>
+  </data>
+  <data name="InvitsSent" xml:space="preserve">
+    <value> Invitacions enviades correctament!</value>
+  </data>
+  <data name="LayoutTrip1Step1" xml:space="preserve">
+    <value> Fes clic en aquest bloc per veure les opcions del teu estat</value>
+  </data>
+  <data name="LayoutTrip1Step2" xml:space="preserve">
+    <value> Prem sobre el teu nom i vés a Edita Perfil per afegir els idiomes que vols practicar</value>
+  </data>
+  <data name="LeaveAppConfirmation" xml:space="preserve">
+    <value> Estàs segur de voler sortir?</value>
+  </data>
+  <data name="LeaveCall" xml:space="preserve">
+    <value> Vas a sortir de la videotrucada, estàs segur?</value>
+  </data>
+  <data name="LeaveRoomConfirmation" xml:space="preserve">
+    <value> Estàs segur que vols sortir de la sala?</value>
+  </data>
+  <data name="leaveVC" xml:space="preserve">
+    <value> Estàs en una videotrucada</value>
+  </data>
+  <data name="LikeSentence" xml:space="preserve">
+    <value> T’ha agradat parlar amb {0}?</value>
+  </data>
+  <data name="LoginOrSignup" xml:space="preserve">
+    <value> Entra amb</value>
+    <comment>,</comment>
+  </data>
+  <data name="meetupAlert" xml:space="preserve">
+    <value> La teva quedada va a començar</value>
+  </data>
+  <data name="meetupAlertTitle" xml:space="preserve">
+    <value> Recordatori</value>
+  </data>
+  <data name="MeetupBoard" xml:space="preserve">
+    <value> Tauler de Quedades</value>
+  </data>
+  <data name="meetupSelectTopic" xml:space="preserve">
+    <value> Tria un tema per a la teva quedada</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value> Mes</value>
+  </data>
+  <data name="NetworkErrorInVideo" xml:space="preserve">
+    <value> S'ha perdut la connexió amb els servidors de Langademy. Intenta fer la trucada quan s'hagi restablert la connexió.</value>
+  </data>
+  <data name="NoCameraNorMic" xml:space="preserve">
+    <value> No hem pogut detectar una càmera web ni un micròfon en el dispositiu del teu company, la trucada es donarà per finalitzada</value>
+  </data>
+  <data name="NoCamTitle" xml:space="preserve">
+    <value>  Càmera i micròfon no detectat </value>
+  </data>
+  <data name="NoChatHours" xml:space="preserve">
+    <value> Notificació del Banc de Temps</value>
+  </data>
+  <data name="NoMediaAcceptance" xml:space="preserve">
+    <value> El teu company no va poder connectar la seva càmera/micròfon i ha acabat la trucada</value>
+  </data>
+  <data name="NoMediaTitle" xml:space="preserve">
+    <value>  Permisos de la càmera/micròfon</value>
+  </data>
+  <data name="NoOwnCameraNorMic" xml:space="preserve">
+    <value> No hem pogut detectar una càmera web ni un micròfon en el teu dispositiu, la trucada es donarà per finalitzada</value>
+  </data>
+  <data name="NoOwnMediaAcceptance" xml:space="preserve">
+    <value> No has donat accés al teu navegador per fer servir la càmera/micròfon. Pots donar accés al teu navegador i seguir amb la trucada o acabar la trucada</value>
+  </data>
+  <data name="NoSupported" xml:space="preserve">
+    <value> El teu navegador no suporta aquesta pàgina</value>
+  </data>
+  <data name="NoThanks" xml:space="preserve">
+    <value> No, gràcies</value>
+  </data>
+  <data name="Notification" xml:space="preserve">
+    <value> Avis</value>
+  </data>
+  <data name="NoWebrtc" xml:space="preserve">
+    <value> Aquest navegador no soporta les videotrucades</value>
+  </data>
+  <data name="OwnFinished" xml:space="preserve">
+    <value> Has finalitzat la trucada</value>
+  </data>
+  <data name="Participants" xml:space="preserve">
+    <value> Participants</value>
+  </data>
+  <data name="PrMeetupBegin" xml:space="preserve">
+    <value> Pots trucar a {0} quan estigueu els dos online</value>
+  </data>
+  <data name="PrMeetupBeginBoth" xml:space="preserve">
+    <value> {0} i tu esteu online. Podeu començar una trucada vídeo quan volgueu</value>
+  </data>
+  <data name="PrMeetupBeginTitle" xml:space="preserve">
+    <value> La conversa privada comença ara!</value>
+  </data>
+  <data name="PrMeetupOver" xml:space="preserve">
+    <value> Heu superat el temps de conversa acordat. Afegeix a {0} a la llista de contactes per parlar en qualsevol moment</value>
+  </data>
+  <data name="PrMeetupOverTitle" xml:space="preserve">
+    <value> Fi de la conversa privada</value>
+  </data>
+  <data name="ProfileEdit" xml:space="preserve">
+    <value> Edició de Perfil</value>
+  </data>
+  <data name="ProfileTripStep1" xml:space="preserve">
+    <value> Afegeix els idiomes que saps o que vols aprendre. Només podràs entrar a la sales dels idiomes que afegeixis al teu perfil.</value>
+  </data>
+  <data name="ProfileTripStep2" xml:space="preserve">
+    <value> Sempre pots tornar a la pantalla principal clicant el botó casa</value>
+  </data>
+  <data name="rejectreqMB" xml:space="preserve">
+    <value> Estàs segur que vols rebutjar aquesta sol·licitud de conversa?</value>
+  </data>
+  <data name="RemoteFinished" xml:space="preserve">
+    <value> {0} ha finalitzat la trucada</value>
+  </data>
+  <data name="RequestConv" xml:space="preserve">
+    <value> Request conversation</value>
+  </data>
+  <data name="RoomTripStep1" xml:space="preserve">
+    <value> Clica el botó de menú per a veure les opcions</value>
+  </data>
+  <data name="RoomTripStep2" xml:space="preserve">
+    <value> Clica sobre un usuari connectat per fer trucades de vídeo, visitar el seu perfil, o enviar-los una sol·licitud de contacte</value>
+  </data>
+  <data name="RoomTripStep3" xml:space="preserve">
+    <value> Podràs fer videotrucades i tenir xats privats amb els teus contactes sense entrar a les sales</value>
+  </data>
+  <data name="RoomTripStep4" xml:space="preserve">
+    <value> Mira les següents quedades d'aquesta sala!</value>
+  </data>
+  <data name="RoomTripStep5" xml:space="preserve">
+    <value> Si no trobes a ningú a les sales, crea quedades a l'hora que et vingui bé</value>
+  </data>
+  <data name="RouletteCannotConnect" xml:space="preserve">
+    <value> No hem pogut connectar amb el teu company a causa del nivell de seguretat de la teva xarxa</value>
+  </data>
+  <data name="SelectLanguage" xml:space="preserve">
+    <value> Selecciona el teu idioma</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value> Configuració</value>
+  </data>
+  <data name="TimeBank" xml:space="preserve">
+    <value> Banc de Temps</value>
+  </data>
+  <data name="TimeBankRoom" xml:space="preserve">
+    <value> Sala Banc del Temps</value>
+  </data>
+  <data name="Trip2Step1" xml:space="preserve">
+    <value> Entra a les sales per fer les trucades de vídeo de xat si vols xatejar i fer trucades amb parlants nadius. Pots utilitzar el teu Wallet o la teva Banc de Temps per fer les vídeo trucades.</value>
+  </data>
+  <data name="Trip3Step1" xml:space="preserve">
+    <value> Troba a usuaris que s'ajustin al teu perfil. Prem la lupa i comença a contactar amb ells!</value>
+  </data>
+  <data name="TripExpert" xml:space="preserve">
+    <value> Sóc un expert!</value>
+  </data>
+  <data name="TripExpert2" xml:space="preserve">
+    <value> Saltar tots els passos</value>
+  </data>
+  <data name="TripFinish" xml:space="preserve">
+    <value> Entès!</value>
+  </data>
+  <data name="TripNext" xml:space="preserve">
+    <value> Següent</value>
+  </data>
+  <data name="TurnSecureServer" xml:space="preserve">
+    <value> És probable que et trobis en una xarxa segura d'empresa. Prova a connectar des d'una altra xarxa</value>
+  </data>
+  <data name="UpdateProfilePhoto" xml:space="preserve">
+    <value> Foto de Perfil</value>
+  </data>
+  <data name="UserRoomEntrance" xml:space="preserve">
+    <value> {0} ha entrat a la sala. Uneix-te a xat!</value>
+  </data>
+  <data name="vcEarned" xml:space="preserve">
+    <value> guanyats</value>
+  </data>
+  <data name="vcSpent" xml:space="preserve">
+    <value> gastats</value>
+  </data>
+  <data name="VideoCall" xml:space="preserve">
+    <value> Videotrucades</value>
+  </data>
+  <data name="WaitingForCamera" xml:space="preserve">
+    <value> Esperant el permís per poder utilitzar la teva càmera...</value>
+  </data>
+  <data name="WalletRateTitle" xml:space="preserve">
+    <value> Tarifa de la sala Wallet</value>
+  </data>
+  <data name="WalletRoom" xml:space="preserve">
+    <value> Sala Wallet</value>
+  </data>
+  <data name="warning" xml:space="preserve">
+    <value>  Avís</value>
+  </data>
+  <data name="warnnochangelng" xml:space="preserve">
+    <value> No pots canviar l'idioma durant una trucada</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value> Any</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value> Si</value>
+  </data>
+</root>

@@ -203,6 +203,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Scopes.it.resx</DependentUpon>
     </Compile>
+    <Compile Include="JSMessages\JSMessages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JSMessages.resx</DependentUpon>
+    </Compile>
     <Compile Include="Languages\LanguageLevels.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -682,6 +687,14 @@
     <EmbeddedResource Include="IdentityServer\Scopes\Scopes.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Scopes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JSMessages\JSMessages.ca.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.es.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.eu.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.it.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>JSMessages.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Languages\LanguageLevels.ca.resx" />
     <EmbeddedResource Include="Languages\LanguageLevels.de.resx" />

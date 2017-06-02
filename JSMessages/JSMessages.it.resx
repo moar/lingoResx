@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AutomaticPartnerFinder" xml:space="preserve">
+    <value> Motore di ricerca automatic di compagni</value>
+  </data>
+  <data name="calendarAllTitle" xml:space="preserve">
+    <value>  I seguenti scambi linguistici</value>
+  </data>
+  <data name="calendarMyTitle" xml:space="preserve">
+    <value> I miei prossimi scambi linguistici</value>
+  </data>
+  <data name="calendarRecRequestsTitle" xml:space="preserve">
+    <value> Richieste di conversazione ricevute</value>
+  </data>
+  <data name="calendarSentRequestsTitle" xml:space="preserve">
+    <value> Richieste di conversazione inviate</value>
+  </data>
+  <data name="CallerNoWebrtc" xml:space="preserve">
+    <value> Il tuo browser non supporta le chiamate video. Prova con le ultime versioni di Chrome, Firefox o Opera.</value>
+  </data>
+  <data name="cancelmeetMB" xml:space="preserve">
+    <value> Sei sicuro di voler annullare la conversazione?</value>
+  </data>
+  <data name="cancelreqMB" xml:space="preserve">
+    <value> Sei sicuro di voler annullare la richiesta?</value>
+  </data>
+  <data name="cannotAcceptCalls" xml:space="preserve">
+    <value> Non è possibile accettare le chiamate, il tuo browser non supporta le videochiamate.</value>
+  </data>
+  <data name="confAttendMeetup" xml:space="preserve">
+    <value> Confermi la presenza a questo appuntamento?</value>
+  </data>
+  <data name="confBlockUser" xml:space="preserve">
+    <value> Gli utenti bloccati non possono inviare richieste di contatto e non ti saranno mai abbinato nel Language  Roulette (se vuoi sbloccarlo più avanti puoi farlo nelle Impostazioni dal tuo account). Sei sicuro di voler bloccare quest’ utente?</value>
+  </data>
+  <data name="confCancelMeetAttendance" xml:space="preserve">
+    <value> Sei sicuro di voler cancellare la tua partecipazione a questo appuntamento?</value>
+  </data>
+  <data name="confDeactivateAcc" xml:space="preserve">
+    <value> Are you sure you want to deactivate your account?</value>
+  </data>
+  <data name="confDelLang" xml:space="preserve">
+    <value> Sei sicuro di voler cancellare% s delle tue lingue?</value>
+  </data>
+  <data name="confDelLoginLink" xml:space="preserve">
+    <value> Sei sicuro di voler cancellare% s dal tuo account di accesso?</value>
+  </data>
+  <data name="ConfDelMBPost" xml:space="preserve">
+    <value> Stai per cancellare il commento. Sei sicuro?</value>
+  </data>
+  <data name="ConfDelMBTopic" xml:space="preserve">
+    <value> Se rimuovi il tuo voto l'argomento sarà cancellato. Sei sicuro?</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value> Confirma</value>
+  </data>
+  <data name="ConfirnGetLocation" xml:space="preserve">
+    <value> Secondo le leggi, abbiamo bisogno della tua ubicazione attuale prima di poter salvare l'indirizzo di fatturazione. Se si preme OK il browser ti chiederà il tuo permesso per l'ubicazione. </value>
+  </data>
+  <data name="connectingWithPartner" xml:space="preserve">
+    <value> Connettendo con {0}...</value>
+  </data>
+  <data name="ConnectionError" xml:space="preserve">
+    <value> Si è verificato un errore di connessione durante la chiamata. questa chiamata verrà terminata</value>
+  </data>
+  <data name="ConnectionErrorTitle" xml:space="preserve">
+    <value> Errore durante la chiamata</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value> Contatti</value>
+  </data>
+  <data name="ContinueVideoCall" xml:space="preserve">
+    <value> Continuare la chiamata</value>
+  </data>
+  <data name="conversationexchangemeetups" xml:space="preserve">
+    <value> appuntamenti-scambi-lingue</value>
+  </data>
+  <data name="CRMeetupTime" xml:space="preserve">
+    <value> Si ha organizzato un appuntamento alle {0}</value>
+  </data>
+  <data name="CRNoTopicsProposed" xml:space="preserve">
+    <value> Non ci sono preposti argomenti di conversazione in questo appuntamento</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value> Giorno</value>
+  </data>
+  <data name="EndVideoCall" xml:space="preserve">
+    <value> Chiude chiamata</value>
+  </data>
+  <data name="errorSt" xml:space="preserve">
+    <value> Ci dispiace, ma qualcosa non ha funzionato</value>
+  </data>
+  <data name="FeedbackOpinion" xml:space="preserve">
+    <value> Dacci la tua opinione</value>
+  </data>
+  <data name="FeedbackSuccess" xml:space="preserve">
+    <value> Grazie per averci dato la tua opinione!</value>
+  </data>
+  <data name="FilterMeetups" xml:space="preserve">
+    <value> Filtrare appuntamenti</value>
+  </data>
+  <data name="FilterRoomUsers" xml:space="preserve">
+    <value> Filtrare gli utenti</value>
+  </data>
+  <data name="GlobalNetworkError" xml:space="preserve">
+    <value> Si è perso la connessione con i server Langademy. Riconnessione...</value>
+  </data>
+  <data name="help" xml:space="preserve">
+    <value> Aiuto</value>
+  </data>
+  <data name="IncompleteProfile" xml:space="preserve">
+    <value> Completa il tuo profilo</value>
+  </data>
+  <data name="InvitsSent" xml:space="preserve">
+    <value> Inviti inviati correttamente!</value>
+  </data>
+  <data name="LayoutTrip1Step1" xml:space="preserve">
+    <value> Clicca su questo blocco per le opzioni di stato,</value>
+  </data>
+  <data name="LayoutTrip1Step2" xml:space="preserve">
+    <value> Clicca sul tuo nome e vai su Modifica Profilo per aggiungere le lingue che vuoi mettere in pratica</value>
+  </data>
+  <data name="LeaveAppConfirmation" xml:space="preserve">
+    <value> Stai sicuro di voler uscire?</value>
+  </data>
+  <data name="LeaveCall" xml:space="preserve">
+    <value> Vuoi davvero lasciare la videochiamata?</value>
+  </data>
+  <data name="LeaveRoomConfirmation" xml:space="preserve">
+    <value> Sei sicuro di voler uscire dalla stanza?</value>
+  </data>
+  <data name="leaveVC" xml:space="preserve">
+    <value> Sei in una videochiamata</value>
+  </data>
+  <data name="LikeSentence" xml:space="preserve">
+    <value> Ti è piaciuto chiacchierare con {0}?</value>
+  </data>
+  <data name="LoginOrSignup" xml:space="preserve">
+    <value> Accedi con</value>
+    <comment>,</comment>
+  </data>
+  <data name="meetupAlert" xml:space="preserve">
+    <value> Il tuo appuntamento inizierà</value>
+  </data>
+  <data name="meetupAlertTitle" xml:space="preserve">
+    <value> Reminder</value>
+  </data>
+  <data name="MeetupBoard" xml:space="preserve">
+    <value> Tabella di appuntamenti</value>
+  </data>
+  <data name="meetupSelectTopic" xml:space="preserve">
+    <value> Scegli un tema per l’appuntamento </value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value> Mese</value>
+  </data>
+  <data name="NetworkError" xml:space="preserve">
+    <value> Errore di connessione di rete</value>
+  </data>
+  <data name="NetworkErrorInVideo" xml:space="preserve">
+    <value> Si è perso la connessione con i server Langademy. Provate a fare la chiamata quando la connessione viene ripristinata.</value>
+  </data>
+  <data name="NoCameraNorMic" xml:space="preserve">
+    <value> Non siamo riusciti a rilevare una webcam o un microfono nel dispositivo compagno, la chiamata verrà terminata</value>
+  </data>
+  <data name="NoCamTitle" xml:space="preserve">
+    <value> Non siamo riusciti a trovare la webcam e il microfono</value>
+  </data>
+  <data name="NoChatHours" xml:space="preserve">
+    <value> Notifica dal Banca del Tempo</value>
+  </data>
+  <data name="NoMediaAcceptance" xml:space="preserve">
+    <value> Il tuo partner non ha potuto collegare la webcam / microfono e si è conclusa la chiamata</value>
+  </data>
+  <data name="NoMediaTitle" xml:space="preserve">
+    <value> Permessi di webcam / microfono</value>
+  </data>
+  <data name="NoOwnCameraNorMic" xml:space="preserve">
+    <value> Non siamo riusciti a rilevare una webcam o un microfono sul dispositivo, la chiamata verrà terminata</value>
+  </data>
+  <data name="NoOwnMediaAcceptance" xml:space="preserve">
+    <value> Non hai dato l'accesso al browser di utilizzare la webcam / microfono. Si può dare accesso al vostro browser e continuare con la chiamata o terminare la chiamata.</value>
+  </data>
+  <data name="NoSupported" xml:space="preserve">
+    <value> Il tuo browser non supporta questa pagina</value>
+  </data>
+  <data name="NoThanks" xml:space="preserve">
+    <value> No, grazie</value>
+  </data>
+  <data name="Notification" xml:space="preserve">
+    <value> Notifica</value>
+  </data>
+  <data name="NoWebrtc" xml:space="preserve">
+    <value> Il tuo browser non supporta le videochiamate</value>
+  </data>
+  <data name="OwnFinished" xml:space="preserve">
+    <value> Chiamata terminata</value>
+  </data>
+  <data name="Participants" xml:space="preserve">
+    <value> Partecipanti</value>
+  </data>
+  <data name="PrMeetupBegin" xml:space="preserve">
+    <value>  Puoi chiamare {0} quando entrambi siete on-line</value>
+  </data>
+  <data name="PrMeetupBeginBoth" xml:space="preserve">
+    <value> {0} e tu siete online. Potete cominciare una videochiamata quando desiderate</value>
+  </data>
+  <data name="PrMeetupBeginTitle" xml:space="preserve">
+    <value> La conversazione privata inizia ora!</value>
+  </data>
+  <data name="PrMeetupOver" xml:space="preserve">
+    <value> È stato superato il tempo concordato di conversazione. Aggiunge {0} alla tua lista di contatti per parlare in qualsiasi momento</value>
+  </data>
+  <data name="PrMeetupOverTitle" xml:space="preserve">
+    <value>  Fine della conversazione privata</value>
+  </data>
+  <data name="ProfileEdit" xml:space="preserve">
+    <value> Modifica profilo</value>
+  </data>
+  <data name="ProfileTripStep1" xml:space="preserve">
+    <value> Aggiunge le lingue che conosci q quelle che vuoi imparare. Puoi inserire solo nelle sale delle lingue aggiunte al profilo</value>
+  </data>
+  <data name="ProfileTripStep2" xml:space="preserve">
+    <value> Si può sempre tornare alla schermata principale premendo il bottone casa</value>
+  </data>
+  <data name="rejectreqMB" xml:space="preserve">
+    <value> Sei sicuro che vuoi rifiutare questa richiesta di conversazione?</value>
+  </data>
+  <data name="RemoteFinished" xml:space="preserve">
+    <value> {0} ha terminato la chiamata</value>
+  </data>
+  <data name="RequestConv" xml:space="preserve">
+    <value> Request conversation</value>
+  </data>
+  <data name="RoomTripStep1" xml:space="preserve">
+    <value> Clicca il bottone menu per vedere le opzioni</value>
+  </data>
+  <data name="RoomTripStep2" xml:space="preserve">
+    <value> Fai clic su un utente collegato a una chiamata video, visita il suo profilo, o invia una richiesta di contatto</value>
+  </data>
+  <data name="RoomTripStep3" xml:space="preserve">
+    <value> È possibile effettuare chiamate video e avere di chat con i tuoi contatti senza entrare nelle stanze</value>
+  </data>
+  <data name="RoomTripStep4" xml:space="preserve">
+    <value> Guarda i prossimi appuntamenti di questa sala!</value>
+  </data>
+  <data name="RoomTripStep5" xml:space="preserve">
+    <value> Se non trovi nessuno nelle stanze, crea appuntamenti nei momenti che sei interessato</value>
+  </data>
+  <data name="RouletteCannotConnect" xml:space="preserve">
+    <value> Non siamo riusciti a collegarsi con il tuo partner, dal livello di sicurezza della tua rete</value>
+  </data>
+  <data name="SelectLanguage" xml:space="preserve">
+    <value> Seleziona la tua lingua</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value> Impostazioni</value>
+  </data>
+  <data name="TimeBank" xml:space="preserve">
+    <value> Banca del Tempo</value>
+  </data>
+  <data name="TimeBankRoom" xml:space="preserve">
+    <value> Sala Banca de Tempo</value>
+  </data>
+  <data name="Trip2Step1" xml:space="preserve">
+    <value> Vai nelle sale Banca del tempo se vuoi fare di scambi e utilizzare il tempo come moneta di tempo. Se non si ha tempo per gli scambi, entra nelle Wallet  rooms</value>
+  </data>
+  <data name="Trip3Step1" xml:space="preserve">
+    <value> Trovare persone che si adattano al tuo profilo. clicca sulla lente di ingrandimento e inizia a contattarli!</value>
+  </data>
+  <data name="TripExpert" xml:space="preserve">
+    <value> Sono esperto!</value>
+  </data>
+  <data name="TripExpert2" xml:space="preserve">
+    <value> Skip tutti i passi</value>
+  </data>
+  <data name="TripFinish" xml:space="preserve">
+    <value> Capito!</value>
+  </data>
+  <data name="TripNext" xml:space="preserve">
+    <value> Avanti</value>
+  </data>
+  <data name="TurnSecureServer" xml:space="preserve">
+    <value> E 'probabile che ti trovi in una rete aziendale sicura. Prova a collegarti da un'altra rete</value>
+  </data>
+  <data name="UpdateProfilePhoto" xml:space="preserve">
+    <value> Foto profilo</value>
+  </data>
+  <data name="UserRoomEntrance" xml:space="preserve">
+    <value> {0} è entrato nella stanze. Vai a chattare!</value>
+  </data>
+  <data name="vcEarned" xml:space="preserve">
+    <value> guadagnato</value>
+  </data>
+  <data name="vcSpent" xml:space="preserve">
+    <value> speso</value>
+  </data>
+  <data name="VideoCall" xml:space="preserve">
+    <value> Videochiamate</value>
+  </data>
+  <data name="WaitingForCamera" xml:space="preserve">
+    <value> In attesa il permesso per poter utilizzare la tua camera...</value>
+  </data>
+  <data name="WalletRateTitle" xml:space="preserve">
+    <value> Tariffa di sala Wallet</value>
+  </data>
+  <data name="WalletRoom" xml:space="preserve">
+    <value> Sala Wallet</value>
+  </data>
+  <data name="warning" xml:space="preserve">
+    <value> Avviso</value>
+  </data>
+  <data name="warnnochangelng" xml:space="preserve">
+    <value> Non è possibile cambiare la lingua durante una videochiamata</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value> Anno</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value> Si</value>
+  </data>
+</root>
