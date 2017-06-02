@@ -121,7 +121,7 @@
     <value>lingua/{selectedCulture}/</value>
   </data>
   <data name="conversation-exchange-meetups" xml:space="preserve">
-    <value>appuntamenti-scambio-lingue</value>
+    <value>meetups-scambio-lingue</value>
   </data>
   <data name="earn-as-conversation-partner" xml:space="preserve">
     <value>guadagnare-soldi-partner-conversazione</value>
@@ -221,5 +221,35 @@
   </data>
   <data name="help-time-bank" xml:space="preserve">
     <value>aiuto/banca-del-tempo</value>
+  </data>
+  <data name="language-exchanges" xml:space="preserve">
+    <value>scambi-linguistici</value>
+  </data>
+  <data name="improve-english-pronunciation" xml:space="preserve">
+    <value>migliorare-la-pronuncia-inglese</value>
+  </data>
+  <data name="meetups" xml:space="preserve">
+    <value>scambio-di-lingue-online/meetups/</value>
+  </data>
+  <data name="meetup-guid" xml:space="preserve">
+    <value>scambio-di-lingue-online/meetups/{meetid:guid}/{meetupName}/</value>
+  </data>
+  <data name="meetup-id" xml:space="preserve">
+    <value>scambio-di-lingue-online/meetups/{meetid:long}/{meetupName}/</value>
+  </data>
+  <data name="my-meetups" xml:space="preserve">
+    <value>scambio-di-lingue-online/y-miei-meetups/</value>
+  </data>
+  <data name="new-meetup" xml:space="preserve">
+    <value>scambio-di-lingue-online/nuovo-meetup/</value>
+  </data>
+  <data name="languagePartnersNatives" xml:space="preserve">
+    <value>lingue-partners/madre-lingua/</value>
+  </data>
+  <data name="onlineLanguageExchangePartners" xml:space="preserve">
+    <value>scambio-di-lingue-online/partners/</value>
+  </data>
+  <data name="learn-english-improve-pronunciation" xml:space="preserve">
+    <value>imparare-lingue/inglese/migliorare-la-pronuncia/</value>
   </data>
 </root>

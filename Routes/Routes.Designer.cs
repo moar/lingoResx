@@ -232,6 +232,24 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to language-partners/natives/.
+        /// </summary>
+        public static string languagePartnersNatives {
+            get {
+                return ResourceManager.GetString("languagePartnersNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/improve-pronunciation/.
+        /// </summary>
+        public static string learn_english_improve_pronunciation {
+            get {
+                return ResourceManager.GetString("learn-english-improve-pronunciation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to maneras-aprender-ingles-rapidamente.
         /// </summary>
         public static string learn_english_quickly {
@@ -250,7 +268,52 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to my-meetups.
+        ///   Looks up a localized string similar to learn-languages/english/conversations/.
+        /// </summary>
+        public static string learn_languages_english_conversations {
+            get {
+                return ResourceManager.GetString("learn-languages-english-conversations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/learn-quickly/.
+        /// </summary>
+        public static string learn_languages_english_quickly {
+            get {
+                return ResourceManager.GetString("learn-languages-english-quickly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/meetups/{meetid:guid}/{meetupName}/.
+        /// </summary>
+        public static string meetup_guid {
+            get {
+                return ResourceManager.GetString("meetup-guid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/meetups/{meetid:long}/{meetupName}/.
+        /// </summary>
+        public static string meetup_id {
+            get {
+                return ResourceManager.GetString("meetup-id", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/meetups/.
+        /// </summary>
+        public static string meetups {
+            get {
+                return ResourceManager.GetString("meetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/my-meetups.
         /// </summary>
         public static string my_meetups {
             get {
@@ -286,7 +349,7 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to new-meetup.
+        ///   Looks up a localized string similar to online-language-exchange/new-meetup.
         /// </summary>
         public static string new_meetup {
             get {
@@ -300,6 +363,15 @@ namespace Resources.Routes {
         public static string online_language_exchange {
             get {
                 return ResourceManager.GetString("online-language-exchange", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/partners/.
+        /// </summary>
+        public static string onlineLanguageExchangePartners {
+            get {
+                return ResourceManager.GetString("onlineLanguageExchangePartners", resourceCulture);
             }
         }
         

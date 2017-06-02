@@ -223,10 +223,10 @@
     <value>help/time-bank</value>
   </data>
   <data name="my-meetups" xml:space="preserve">
-    <value>my-meetups</value>
+    <value>online-language-exchange/my-meetups</value>
   </data>
   <data name="new-meetup" xml:space="preserve">
-    <value>new-meetup</value>
+    <value>online-language-exchange/new-meetup</value>
   </data>
   <data name="english-conversations" xml:space="preserve">
     <value>english-conversations</value>
@@ -239,5 +239,29 @@
   </data>
   <data name="learn-english-quickly" xml:space="preserve">
     <value>maneras-aprender-ingles-rapidamente</value>
+  </data>
+  <data name="meetup-guid" xml:space="preserve">
+    <value>online-language-exchange/meetups/{meetid:guid}/{meetupName}/</value>
+  </data>
+  <data name="meetup-id" xml:space="preserve">
+    <value>online-language-exchange/meetups/{meetid:long}/{meetupName}/</value>
+  </data>
+  <data name="meetups" xml:space="preserve">
+    <value>online-language-exchange/meetups/</value>
+  </data>
+  <data name="languagePartnersNatives" xml:space="preserve">
+    <value>language-partners/natives/</value>
+  </data>
+  <data name="onlineLanguageExchangePartners" xml:space="preserve">
+    <value>online-language-exchange/partners/</value>
+  </data>
+  <data name="learn-english-improve-pronunciation" xml:space="preserve">
+    <value>learn-languages/english/improve-pronunciation/</value>
+  </data>
+  <data name="learn-languages-english-conversations" xml:space="preserve">
+    <value>learn-languages/english/conversations/</value>
+  </data>
+  <data name="learn-languages-english-quickly" xml:space="preserve">
+    <value>learn-languages/english/learn-quickly/</value>
   </data>
 </root>
