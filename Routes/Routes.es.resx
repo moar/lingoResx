@@ -250,7 +250,7 @@
     <value>intercambio-de-idiomas-online/meetups/{meetid:long}/{meetupName}/</value>
   </data>
   <data name="languagePartnersNatives" xml:space="preserve">
-    <value>compañeros-practicar-idiomas/nativos/</value>
+    <value>companeros-practicar-idiomas/nativos/</value>
   </data>
   <data name="onlineLanguageExchangePartners" xml:space="preserve">
     <value>intercambio-de-idiomas-online/companeros/</value>
