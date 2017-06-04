@@ -79,6 +79,24 @@ namespace Resources.Views.ManageAccount {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Create Langademy password.
+        /// </summary>
+        public static string CreateLangadPwd {
+            get {
+                return ResourceManager.GetString("CreateLangadPwd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to create a local Langademy password for your account? You will be able to sign in using this e-mail: {0}.
+        /// </summary>
+        public static string CreateLocalPwdQuest {
+            get {
+                return ResourceManager.GetString("CreateLocalPwdQuest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Email Link.
         /// </summary>
         public static string EmailLink {
