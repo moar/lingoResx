@@ -123,9 +123,6 @@
   <data name="SearchMainTitle" xml:space="preserve">
     <value>Troba companys per a intercanvis d'idiomes</value>
   </data>
-  <data name="SearchSubTitle" xml:space="preserve">
-    <value>Aprèn idiomes online de manera gratuïta. Pssst, no t'oblidis de compartir la teva llengua materna amb els altres. Podràs utilitzar el temps emprat per ensenyar el teu idioma, per practicar l'idioma que vulguis amb parlants natius</value>
-  </data>
   <data name="SNoResults" xml:space="preserve">
     <value>La teva cerca no ha donat cap resultat</value>
   </data>
@@ -134,9 +131,6 @@
   </data>
   <data name="SearchMainTitleLanguage" xml:space="preserve">
     <value>Troba companys d'intercanvi d'idiomes que parlen {0}</value>
-  </data>
-  <data name="SearchSubTitleLanguage" xml:space="preserve">
-    <value>Aprèn {0} online, ¡és gratis! No oblidis ser col·laboratiu. Parla la teva llengua materna i et donarem la mateixa quantitat de temps perquè practiquis altres idiomes amb natius</value>
   </data>
   <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
     <value>Busca parlants natius que s'adaptin a les teves preferències. Revisa la seva experiència i vots positius i sol·licita converses privades amb ells</value>

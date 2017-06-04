@@ -118,13 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AcceptToConfirm" xml:space="preserve">
-    <value>Se vuoi parlare di {0} fate clic su Accettare per confermare la partecipazione </value>
+    <value>Se vuoi parlare con {0} fai clic su Accettare per confermare la partecipazione </value>
   </data>
   <data name="ConversationFinallyCanceled" xml:space="preserve">
-    <value>Oops ... sembra che {0} alla fine annullato questa richiesta di conversazione</value>
+    <value>Oopss ... sembra che {0} alla fineha annullato questa richiesta di conversazione</value>
+  </data>
+  <data name="ConversationNotFound" xml:space="preserve">
+    <value>Non si ha trovato la conversazione</value>
+  </data>
+  <data name="MeetupCancelledByNativeMessage" xml:space="preserve">
+    <value>Ooopss...sembra che {0} ha alla fine annullata la conversazione.</value>
+  </data>
+  <data name="MeetupCancelledByStudentMessage" xml:space="preserve">
+    <value>Ooopss... sembra che alla fine ha annullato la conversazione con {0}</value>
   </data>
   <data name="MeetupFinallyCanceled" xml:space="preserve">
     <value>Oops ... sembra che {0} alla fine annullato appuntamento</value>
+  </data>
+  <data name="MyConversations" xml:space="preserve">
+    <value>Le mie conversazioni</value>
   </data>
   <data name="PracticeRequest" xml:space="preserve">
     <value>{0} vuole praticare {1} con te</value>
@@ -132,8 +144,20 @@
   <data name="PracticeRequested" xml:space="preserve">
     <value>{0} ha voluto praticare {1} con te</value>
   </data>
+  <data name="ReceivedRequests" xml:space="preserve">
+    <value>Richieste ricevute</value>
+  </data>
+  <data name="RequestRejectedByNativeMessage" xml:space="preserve">
+    <value>Ooopss...sembra che {0}  non può accettare la richiesta di conversazione</value>
+  </data>
+  <data name="RequestStatusRequestedMessage" xml:space="preserve">
+    <value>{0} non ha letto la tua richiesta di conversazione ancora</value>
+  </data>
   <data name="SameTimeRequests" xml:space="preserve">
     <value>Hai ricevuto {0} richieste di conversazione per a parlare allo stesso tempo. Controlla le richieste di amicizia nella casella di posta</value>
+  </data>
+  <data name="SentRequests" xml:space="preserve">
+    <value>Richieste inviate</value>
   </data>
   <data name="StudentReqAccepted" xml:space="preserve">
     <value>Accettato</value>
@@ -198,8 +222,14 @@
   <data name="StudentReqWriteMessage" xml:space="preserve">
     <value>Scrivi il tuo messaggio</value>
   </data>
+  <data name="TBConversation" xml:space="preserve">
+    <value>Conversazione Banca del Tempo</value>
+  </data>
   <data name="VideoCallMessage" xml:space="preserve">
     <value>Bene!Hai una conversazione con {0} .Resta attento a Langademy e non perdere la conversazione. Puntuale! :)</value>
+  </data>
+  <data name="WalletConversation" xml:space="preserve">
+    <value>Conversazione Wallet</value>
   </data>
   <data name="YouConversationRejected" xml:space="preserve">
     <value>Hai disattivato la conversazione con {0}</value>

@@ -119,6 +119,9 @@
   </resheader>
   
   
+  <data name="AvailabilityRequests" xml:space="preserve">
+    <value>Qualcuno vuole sapere quando sarà disponibile</value>
+  </data>
   <data name="AvailableRequest" xml:space="preserve">
     <value>{0} ha aggiornato il suo calendario</value>
   </data>
