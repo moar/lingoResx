@@ -123,9 +123,6 @@
   <data name="SearchMainTitle" xml:space="preserve">
     <value>Find language exchange partners</value>
   </data>
-  <data name="SearchSubTitle" xml:space="preserve">
-    <value>Learn foreign languages online, it’s free! Pssst, don’t forget to be collaborative. Speak in your native language and we will give you the same amount of time to practice other languages with natives</value>
-  </data>
   <data name="SNoResults" xml:space="preserve">
     <value>Your search produced no results</value>
   </data>
@@ -134,9 +131,6 @@
   </data>
   <data name="SearchMainTitleLanguage" xml:space="preserve">
     <value>Find language exchange partners that speak {0}</value>
-  </data>
-  <data name="SearchSubTitleLanguage" xml:space="preserve">
-    <value>Learn {0} online, it’s free! Pssst, don’t forget to be collaborative. Speak in your native language and we will give you the same amount of time to practice other languages with natives</value>
   </data>
   <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
     <value>Find natives speakers that suit you. Check their expertise and upvotes and make requests for private conversations.</value>
@@ -161,5 +155,17 @@
   </data>
   <data name="SearchIncludeAllLangs" xml:space="preserve">
     <value>Include all languages</value>
+  </data>
+  <data name="Searchheader" xml:space="preserve">
+    <value>Find language exchange partners</value>
+  </data>
+  <data name="SLearn" xml:space="preserve">
+    <value>I learn</value>
+  </data>
+  <data name="SSearch" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SSpeak" xml:space="preserve">
+    <value>I speak</value>
   </data>
 </root>

@@ -106,6 +106,15 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Find language exchange partners.
+        /// </summary>
+        public static string Searchheader {
+            get {
+                return ResourceManager.GetString("Searchheader", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Include all languages.
         /// </summary>
         public static string SearchIncludeAllLangs {
@@ -160,20 +169,11 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn foreign languages online, it’s free! Pssst, don’t forget to be collaborative. Speak in your native language and we will give you the same amount of time to practice other languages with natives.
+        ///   Looks up a localized string similar to I learn.
         /// </summary>
-        public static string SearchSubTitle {
+        public static string SLearn {
             get {
-                return ResourceManager.GetString("SearchSubTitle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Learn {0} online, it’s free! Pssst, don’t forget to be collaborative. Speak in your native language and we will give you the same amount of time to practice other languages with natives.
-        /// </summary>
-        public static string SearchSubTitleLanguage {
-            get {
-                return ResourceManager.GetString("SearchSubTitleLanguage", resourceCulture);
+                return ResourceManager.GetString("SLearn", resourceCulture);
             }
         }
         
@@ -187,11 +187,29 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Search.
+        /// </summary>
+        public static string SSearch {
+            get {
+                return ResourceManager.GetString("SSearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Search users.
         /// </summary>
         public static string SSearchUsers {
             get {
                 return ResourceManager.GetString("SSearchUsers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I speak.
+        /// </summary>
+        public static string SSpeak {
+            get {
+                return ResourceManager.GetString("SSpeak", resourceCulture);
             }
         }
     }
