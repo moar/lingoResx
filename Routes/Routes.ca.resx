@@ -243,4 +243,7 @@
   <data name="onlineLanguageExchangePartners" xml:space="preserve">
     <value>intercanvi-idiomes-online/companys/</value>
   </data>
+  <data name="onlineLanguageExchangeEsEn" xml:space="preserve">
+    <value>intercanvi-idiomes-online/espanyol-angles/</value>
+  </data>
 </root>

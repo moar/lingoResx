@@ -264,4 +264,7 @@
   <data name="learn-languages-english-quickly" xml:space="preserve">
     <value>aprender-idiomas/ingles/aprender-rapidamente/</value>
   </data>
+  <data name="onlineLanguageExchangeEsEn" xml:space="preserve">
+    <value>intercambio-de-idiomas-online/espanol-ingles/</value>
+  </data>
 </root>

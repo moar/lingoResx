@@ -367,6 +367,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/spanish-english/.
+        /// </summary>
+        public static string onlineLanguageExchangeEsEn {
+            get {
+                return ResourceManager.GetString("onlineLanguageExchangeEsEn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to online-language-exchange/partners/.
         /// </summary>
         public static string onlineLanguageExchangePartners {

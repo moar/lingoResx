@@ -264,4 +264,7 @@
   <data name="learn-languages-english-quickly" xml:space="preserve">
     <value>learn-languages/english/learn-quickly/</value>
   </data>
+  <data name="onlineLanguageExchangeEsEn" xml:space="preserve">
+    <value>online-language-exchange/spanish-english/</value>
+  </data>
 </root>

@@ -106,6 +106,15 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Include all languages.
+        /// </summary>
+        public static string SearchIncludeAllLangs {
+            get {
+                return ResourceManager.GetString("SearchIncludeAllLangs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Find students that want to learn the languages you know. Don&apos;t forget to set your availability in your profile so students can request you conversations..
         /// </summary>
         public static string SearchLanguageStudentsSubtitle {

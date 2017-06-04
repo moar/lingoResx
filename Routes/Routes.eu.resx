@@ -243,4 +243,7 @@
   <data name="onlineLanguageExchangePartners" xml:space="preserve">
     <value>hizkuntza-elkartrukea-online/mintzalagunak/</value>
   </data>
+  <data name="onlineLanguageExchangeEsEn" xml:space="preserve">
+    <value>hizkuntza-elkartrukea-online/gaztelania-ingelesa/</value>
+  </data>
 </root>
