@@ -121,10 +121,22 @@
     <value>Si vols parlar amb {0} clica Acceptar conversa per confirmar la teva assistència</value>
   </data>
   <data name="ConversationFinallyCanceled" xml:space="preserve">
-    <value>Ups ... sembla que {0} al final va cancel·lar aquesta sol·licitud de conversa</value>
+    <value>Ooopss... sembla que {0} al final va cancel·lar la sol·licitud de conversa</value>
+  </data>
+  <data name="ConversationNotFound" xml:space="preserve">
+    <value>No s'ha trobat la conversa</value>
+  </data>
+  <data name="MeetupCancelledByNativeMessage" xml:space="preserve">
+    <value>Ooopss...sembla que {0} al final va cancel·lar la teva conversa</value>
+  </data>
+  <data name="MeetupCancelledByStudentMessage" xml:space="preserve">
+    <value>Ooopss...sembla que al final has cancel·lat la conversa amb {0}</value>
   </data>
   <data name="MeetupFinallyCanceled" xml:space="preserve">
     <value>Ups ... sembla que {0} al final va cancel·lar la quedada</value>
+  </data>
+  <data name="MyConversations" xml:space="preserve">
+    <value>Les meves converses</value>
   </data>
   <data name="PracticeRequest" xml:space="preserve">
     <value>{0} vol practicar {1} amb tu</value>
@@ -132,8 +144,20 @@
   <data name="PracticeRequested" xml:space="preserve">
     <value>{0} volia practicar {1} amb tu</value>
   </data>
+  <data name="ReceivedRequests" xml:space="preserve">
+    <value>Sol·licituds rebudes</value>
+  </data>
+  <data name="RequestRejectedByNativeMessage" xml:space="preserve">
+    <value>Ooopss...sembla que {0} no pot acceptar la teva solicitud de conversa</value>
+  </data>
+  <data name="RequestStatusRequestedMessage" xml:space="preserve">
+    <value>{0} no ha llegit la teva sol·licitud de conversa encara</value>
+  </data>
   <data name="SameTimeRequests" xml:space="preserve">
     <value>Vas rebre {0} sol·licituds de conversa més per parlar a la mateixa hora. Revisa les teves sol·licituds d'amistat a la safata d'entrada</value>
+  </data>
+  <data name="SentRequests" xml:space="preserve">
+    <value>Sol·licituds enviades</value>
   </data>
   <data name="StudentReqAccepted" xml:space="preserve">
     <value>Acceptat</value>
@@ -198,8 +222,14 @@
   <data name="StudentReqWriteMessage" xml:space="preserve">
     <value>Escriu el teu missatge</value>
   </data>
+  <data name="TBConversation" xml:space="preserve">
+    <value>Conversació Banc de temps</value>
+  </data>
   <data name="VideoCallMessage" xml:space="preserve">
     <value>Bé! {0} i tu aneu a tenir una conversa. Estigues atent a Langademy i no et perdis la conversa. ¡Es puntual!</value>
+  </data>
+  <data name="WalletConversation" xml:space="preserve">
+    <value>Conversació Wallet</value>
   </data>
   <data name="YouConversationRejected" xml:space="preserve">
     <value>Refusar la conversa amb {0}</value>

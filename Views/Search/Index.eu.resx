@@ -123,9 +123,6 @@
   <data name="SearchMainTitle" xml:space="preserve">
     <value>Bilatu mintzalagunak</value>
   </data>
-  <data name="SearchSubTitle" xml:space="preserve">
-    <value>Ikasi itzazu atzerriko hizkuntzak internet bidez, doakoa da! Psst, ez zaitez ahaztu gainontzekoekin zure ama hizkuntza elkarbanatzeaz. Hitz egin zazu zure ama hizkuntzan eta irakasteko erabili duzun denbora hori beste hizkuntza batzuk ikasteko erabili ahal izango duzu</value>
-  </data>
   <data name="SNoResults" xml:space="preserve">
     <value>Ez dugu emaitzik lortu zure bilaketarentzat</value>
   </data>
@@ -134,9 +131,6 @@
   </data>
   <data name="SearchMainTitleLanguage" xml:space="preserve">
     <value>Aurkitu {0} hitz egiten duten hizkuntza elkartrukerako mintzalagunak</value>
-  </data>
-  <data name="SearchSubTitleLanguage" xml:space="preserve">
-    <value>Ikasi ezazu {0} internet bidez, doakoa da! Psst, ez zaitez ahaztu gainontzekoekin zure ama hizkuntza elkarbanatzeaz. Hitz egin zazu zure ama hizkuntzan eta irakasteko erabili duzun denbora hori beste hizkuntza batzuk ikasteko erabili ahal izango duzu</value>
   </data>
   <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
     <value>Bilatu zure premietara egokitzen diren mintzalagun natiboak. Ikusi beraien esperientzia, botu kopurua eta egin konbertsazio pribatuetarako eskaerak</value>

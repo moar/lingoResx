@@ -123,9 +123,6 @@
   <data name="SearchMainTitle" xml:space="preserve">
     <value>Trovare partner per lo scambio linguistico</value>
   </data>
-  <data name="SearchSubTitle" xml:space="preserve">
-    <value>Impara lingue online in forma gratuita! Psssst, non dimenticarti di condividere la tua lingua madre con gli altri. Potrai usare il tempo utilizzato per insegnare la tua lingua, per praticare la lingua che vuoi con i madrelingua.</value>
-  </data>
   <data name="SNoResults" xml:space="preserve">
     <value>La ricerca non ha prodotto risultati</value>
   </data>
@@ -134,9 +131,6 @@
   </data>
   <data name="SearchMainTitleLanguage" xml:space="preserve">
     <value>Trova partner di scambio di lingue che parlano {0}</value>
-  </data>
-  <data name="SearchSubTitleLanguage" xml:space="preserve">
-    <value>Impara {0} on-line, è gratis! Non dimentichi di essere collaborativo. Parla nella tua lingua madre e riceverai la stessa quantità di tempo per praticare altre lingue con i madrelingua</value>
   </data>
   <data name="SearchConversationPartnersSubtitle" xml:space="preserve">
     <value>Ricerca di madrelingua in base alle proprie preferenze. Controlla la loro esperienza e le risposte positive e chiede conversazioni private con loro</value>

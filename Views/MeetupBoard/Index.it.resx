@@ -418,4 +418,13 @@
   <data name="EditAvBoth" xml:space="preserve">
     <value>Entrambi</value>
   </data>
+  <data name="MeetupEventSummary" xml:space="preserve">
+    <value>Chat meetup - {0}</value>
+  </data>
+  <data name="ChatMeetups" xml:space="preserve">
+    <value>Chat Meetup</value>
+  </data>
+  <data name="FilterLanguages" xml:space="preserve">
+    <value>Filtrare lingua</value>
+  </data>
 </root>

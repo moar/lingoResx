@@ -159,6 +159,9 @@
   <data name="Save" xml:space="preserve">
     <value>Guardar </value>
   </data>
+  <data name="ShowOlder" xml:space="preserve">
+    <value>Veure més antics</value>
+  </data>
   <data name="Submit" xml:space="preserve">
     <value>Enviar</value>
   </data>

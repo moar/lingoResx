@@ -417,4 +417,13 @@
   <data name="EditAvBoth" xml:space="preserve">
     <value>Tot dos</value>
   </data>
+  <data name="MeetupEventSummary" xml:space="preserve">
+    <value>Xat meetup - {0} </value>
+  </data>
+  <data name="ChatMeetups" xml:space="preserve">
+    <value>Xat Meetups</value>
+  </data>
+  <data name="FilterLanguages" xml:space="preserve">
+    <value>Filtrar idioma</value>
+  </data>
 </root>

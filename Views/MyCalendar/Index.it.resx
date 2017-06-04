@@ -118,8 +118,17 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="MCAllEvents" xml:space="preserve">
+    <value>Tutti gli eventi</value>
+  </data>
   <data name="MCLanguages" xml:space="preserve">
     <value>Lingue</value>
+  </data>
+  <data name="MCNextEvents" xml:space="preserve">
+    <value>Prossimi eventi</value>
+  </data>
+  <data name="MCNoEvents" xml:space="preserve">
+    <value>Non ci sono eventi programmati</value>
   </data>
   <data name="MyCalendar" xml:space="preserve">
     <value>Il mio calendario</value>
