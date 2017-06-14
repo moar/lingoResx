@@ -476,7 +476,88 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Login.
+        ///   Looks up a localized string similar to If you have any suggestion to help us improve Langademy, contact us!.
+        /// </summary>
+        public static string LandFootAboutText {
+            get {
+                return ResourceManager.GetString("LandFootAboutText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to About us.
+        /// </summary>
+        public static string LandFootAboutUs {
+            get {
+                return ResourceManager.GetString("LandFootAboutUs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Connect With Us.
+        /// </summary>
+        public static string LandFootConnect {
+            get {
+                return ResourceManager.GetString("LandFootConnect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Related articles.
+        /// </summary>
+        public static string LandRelatedArticles {
+            get {
+                return ResourceManager.GetString("LandRelatedArticles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Exchanges.
+        /// </summary>
+        public static string LandTabExchanges {
+            get {
+                return ResourceManager.GetString("LandTabExchanges", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Home.
+        /// </summary>
+        public static string LandTabHome {
+            get {
+                return ResourceManager.GetString("LandTabHome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learn.
+        /// </summary>
+        public static string LandTabLearn {
+            get {
+                return ResourceManager.GetString("LandTabLearn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Partners.
+        /// </summary>
+        public static string LandTabPartners {
+            get {
+                return ResourceManager.GetString("LandTabPartners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Teachers.
+        /// </summary>
+        public static string LandTabTeachers {
+            get {
+                return ResourceManager.GetString("LandTabTeachers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in.
         /// </summary>
         public static string Login {
             get {

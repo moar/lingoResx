@@ -61,6 +61,15 @@ namespace Resources.Views.Blog {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This content is not available in {0}. This is the version in {1}.
+        /// </summary>
+        public static string AltLangInfo {
+            get {
+                return ResourceManager.GetString("AltLangInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Articles.
         /// </summary>
         public static string Articles {

@@ -266,5 +266,68 @@ namespace Resources.Views.ExchangeIndex {
                 return ResourceManager.GetString("EITitle", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I learn.
+        /// </summary>
+        public static string LandExchangeILearn {
+            get {
+                return ResourceManager.GetString("LandExchangeILearn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to in exchange for conversations in.
+        /// </summary>
+        public static string LandExchangeInExchange {
+            get {
+                return ResourceManager.GetString("LandExchangeInExchange", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I speak.
+        /// </summary>
+        public static string LandExchangeISpeak {
+            get {
+                return ResourceManager.GetString("LandExchangeISpeak", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next meetups.
+        /// </summary>
+        public static string LandExchangeNextMeetups {
+            get {
+                return ResourceManager.GetString("LandExchangeNextMeetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I offer conversations in.
+        /// </summary>
+        public static string LandExchangeOfferConvs {
+            get {
+                return ResourceManager.GetString("LandExchangeOfferConvs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Partners.
+        /// </summary>
+        public static string LandExchangePartners {
+            get {
+                return ResourceManager.GetString("LandExchangePartners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Online language exchanges.
+        /// </summary>
+        public static string LandExchangeTitle {
+            get {
+                return ResourceManager.GetString("LandExchangeTitle", resourceCulture);
+            }
+        }
     }
 }

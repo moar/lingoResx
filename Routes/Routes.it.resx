@@ -255,10 +255,4 @@
   <data name="onlineLanguageExchangeEsEn" xml:space="preserve">
     <value>scambio-di-lingue-online/spagnolo-inglese/</value>
   </data>
-  <data name="learn-languages-english-conversations" xml:space="preserve">
-    <value>imparare-lingue/inglese/conversazioni/</value>
-  </data>
-  <data name="learn-languages-english-quickly" xml:space="preserve">
-    <value>imparare-lingue/inglese/impara-veloce/</value>
-  </data>
 </root>

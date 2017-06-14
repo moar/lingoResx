@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,94 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="EIBlock1Link" xml:space="preserve">
-    <value>Read more</value>
-  </data>
-  <data name="EIBlock1Text" xml:space="preserve">
-    <value>Become fluent in any language with online language exchanges. Go to Langademy's chat rooms, find native speakers and practice your favourite languages. You can learn spanish, german, english, french or any other language!</value>
-  </data>
-  <data name="EIBlock1Title" xml:space="preserve">
-    <value>Conversation exchange</value>
-  </data>
-  <data name="EIBlock2B1Text" xml:space="preserve">
-    <value>What languages do you speak? What is your level? Where are are you from? What are your interests? Upload your avatar and cover photos and be ready to talk in english, spanish or the language you want</value>
-  </data>
-  <data name="EIBlock2B1Title" xml:space="preserve">
-    <value>Sign up and start learning languages for free</value>
-  </data>
-  <data name="EIBlock2B2Text" xml:space="preserve">
-    <value>The easiest way to meet a new partner. Plug in your webcam and your microphone and enter the room of the language you want to practice. You can chat or make private videocalls with the natives you meet in the chat rooms. Be kind ;-)</value>
-  </data>
-  <data name="EIBlock2B2Title" xml:space="preserve">
-    <value>Try conversation exchange in the chat rooms</value>
-  </data>
-  <data name="EIBlock2B3Text" xml:space="preserve">
-    <value>Vote for them in their profile! Send them a contact request. When they accept it, you will be able to chat in private an make video calls without entering the language rooms</value>
-  </data>
-  <data name="EIBlock2B3Title" xml:space="preserve">
-    <value>Did you like chatting with your partner?</value>
-  </data>
-  <data name="EIBlock3B1Text1" xml:space="preserve">
-    <value>The amount of time you have for speaking with natives by videconference is the same amount of time that you use for helping others speak in your native language</value>
-  </data>
-  <data name="EIBlock3B1Text2" xml:space="preserve">
-    <value>It works like a tandem but you decide who your partners are, when and in which language you want to chat with</value>
-  </data>
-  <data name="EIBlock3B1Text3" xml:space="preserve">
-    <value>Check your time balance to know if you need to increase it speaking in your native language. Read the time banking rules in order to know when a videochat conversation will add or substract time from your Time Bank account. Using your state, your contacts will know if you are available to start a video call</value>
-  </data>
-  <data name="EIBlock3B1Title" xml:space="preserve">
-    <value>Time banking</value>
-  </data>
-  <data name="EILangExcPart" xml:space="preserve">
-    <value>{0} language exchange partners</value>
-  </data>
-  <data name="EIMBPictureAlt" xml:space="preserve">
-    <value>Create conversation exchange meetups in the meetup board</value>
-  </data>
-  <data name="EIMeetingBoard1" xml:space="preserve">
-    <value>Schedule conversation exchanges with Langademy's Meetup Board</value>
-  </data>
-  <data name="EIMeetingBoard3" xml:space="preserve">
-    <value>When do you want to have a conversation? Contribute to enriching the language exchange community by scheduling meetups for the days and hours you want to enter a chat room. Make it in time so people will have time to join the meetup</value>
-  </data>
-  <data name="EIMeetingBoard4" xml:space="preserve">
-    <value>If someone else has organized a meetup, you can join the meetup. It's just a click! If you join the meetup you can chose and vote the trending topics to be discussed at the meetup.</value>
-  </data>
-  <data name="EIMeetingBoard5" xml:space="preserve">
-    <value>You can also share the meetup link in social networks so more people can join the meetup. The more, the merrier :-)</value>
-  </data>
-  <data name="EINextMeetups" xml:space="preserve">
-    <value>Next meetups to practice languages</value>
-  </data>
-  <data name="EIParticipants" xml:space="preserve">
-    <value>Participants</value>
-  </data>
-  <data name="EISearchPartners" xml:space="preserve">
-    <value>SIGN UP and search language exchange partners</value>
-  </data>
-  <data name="EITitle" xml:space="preserve">
-    <value>Your online language exchange community</value>
-  </data>
-  <data name="LandExchangeILearn" xml:space="preserve">
-    <value>I learn</value>
-  </data>
-  <data name="LandExchangeInExchange" xml:space="preserve">
-    <value>in exchange for conversations in</value>
-  </data>
-  <data name="LandExchangeISpeak" xml:space="preserve">
-    <value>I speak</value>
-  </data>
-  <data name="LandExchangeNextMeetups" xml:space="preserve">
-    <value>Next meetups</value>
-  </data>
-  <data name="LandExchangeOfferConvs" xml:space="preserve">
-    <value>I offer conversations in</value>
-  </data>
-  <data name="LandExchangePartners" xml:space="preserve">
-    <value>Partners</value>
-  </data>
-  <data name="LandExchangeTitle" xml:space="preserve">
-    <value>Online language exchanges</value>
+  <data name="ImproveEngPronunTitle" xml:space="preserve">
+    <value>How to improve english pronunciation</value>
   </data>
 </root>
