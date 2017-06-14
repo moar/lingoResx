@@ -117,34 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CheckEmail" xml:space="preserve">
-    <value>Por favor revisa tu correo electrónico para restablecer tu contraseña</value>
-  </data>
-  <data name="CheckEmailCreation" xml:space="preserve">
-    <value>Te hemos enviado un email a {0}. Revisa tu correo para finalizar el proceso de creación de contraseña</value>
-  </data>
-  <data name="CreateLangadPwd" xml:space="preserve">
-    <value>Crear contraseña para Langademy</value>
-  </data>
-  <data name="CreateLocalPwdQuest" xml:space="preserve">
-    <value>¿Quieres crear una contraseña local para tu cuenta de Langademy? Podrás iniciar sesión utilizando el siguiente e-mail: {0}</value>
-  </data>
-  <data name="EmailLink" xml:space="preserve">
-    <value>Enviar enlace al correo</value>
-  </data>
-  <data name="EnterMail" xml:space="preserve">
-    <value>Introduce la dirección de correo electrónico que registraste en Langademy y te enviaremos un correo con instrucciones para recuperar tu contraseña</value>
-  </data>
-  <data name="ForgotPass" xml:space="preserve">
-    <value>¿Olvidaste tu contraseña?</value>
-  </data>
-  <data name="MAReturn" xml:space="preserve">
-    <value>Volver</value>
-  </data>
-  <data name="PwCreationConfirm" xml:space="preserve">
-    <value>Confirmacion de creación de contraseña</value>
-  </data>
-  <data name="PwForgotConfirm" xml:space="preserve">
-    <value>Confirmación de recuperación de contraseña</value>
-  </data>
-</root>
+  </root>
