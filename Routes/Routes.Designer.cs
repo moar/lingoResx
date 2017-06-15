@@ -232,11 +232,29 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to language-partners.
+        /// </summary>
+        public static string languagepartners {
+            get {
+                return ResourceManager.GetString("languagepartners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to language-partners/natives/.
         /// </summary>
         public static string languagePartnersNatives {
             get {
                 return ResourceManager.GetString("languagePartnersNatives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to language-partners/{lang}/.
+        /// </summary>
+        public static string languagePartnersNativesLang {
+            get {
+                return ResourceManager.GetString("languagePartnersNativesLang", resourceCulture);
             }
         }
         

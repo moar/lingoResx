@@ -503,6 +503,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Home.
+        /// </summary>
+        public static string LandHome {
+            get {
+                return ResourceManager.GetString("LandHome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Related articles.
         /// </summary>
         public static string LandRelatedArticles {
@@ -512,20 +521,20 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Articles.
+        /// </summary>
+        public static string LandTabArticles {
+            get {
+                return ResourceManager.GetString("LandTabArticles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Exchanges.
         /// </summary>
         public static string LandTabExchanges {
             get {
                 return ResourceManager.GetString("LandTabExchanges", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Home.
-        /// </summary>
-        public static string LandTabHome {
-            get {
-                return ResourceManager.GetString("LandTabHome", resourceCulture);
             }
         }
         

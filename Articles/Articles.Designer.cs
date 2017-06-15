@@ -61,11 +61,29 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to English conversations.
+        /// </summary>
+        public static string EnglishConversationsTitle {
+            get {
+                return ResourceManager.GetString("EnglishConversationsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to How to improve english pronunciation.
         /// </summary>
         public static string ImproveEngPronunTitle {
             get {
                 return ResourceManager.GetString("ImproveEngPronunTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to learn english quickly.
+        /// </summary>
+        public static string LearnEnglishQuicklyTitle {
+            get {
+                return ResourceManager.GetString("LearnEnglishQuicklyTitle", resourceCulture);
             }
         }
     }
