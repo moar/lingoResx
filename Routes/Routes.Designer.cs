@@ -142,6 +142,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/how-to-set-geolocation-permissions.
+        /// </summary>
+        public static string helphowtogeo {
+            get {
+                return ResourceManager.GetString("helphowtogeo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/how-to-make-video-call.
         /// </summary>
         public static string how_to_make_video_call {

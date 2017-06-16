@@ -376,6 +376,24 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We are so sorry, but your browser cannot share your geolocation with Langademy, so you are not allowed to update your invoicing data. We recommend you to use Google Chrome for the best experience at Langademy.
+        /// </summary>
+        public static string GeoNoAvailable {
+            get {
+                return ResourceManager.GetString("GeoNoAvailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We have detected that you denied the permission to share your geolocation with Langademy. Before you update your invoicing data, you must allow to share it (Your geolocation will remain private and it will not be published anywhere).
+        /// </summary>
+        public static string GeoNoPermission {
+            get {
+                return ResourceManager.GetString("GeoNoPermission", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Connection to the Langademy servers has been lost. Trying to reconnect....
         /// </summary>
         public static string GlobalNetworkError {

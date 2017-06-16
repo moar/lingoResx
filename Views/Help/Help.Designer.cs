@@ -583,6 +583,15 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to How to set geolocation permissions.
+        /// </summary>
+        public static string HelpHTGeoTitle {
+            get {
+                return ResourceManager.GetString("HelpHTGeoTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Index.
         /// </summary>
         public static string HelpIndex {

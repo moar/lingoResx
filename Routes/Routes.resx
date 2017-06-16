@@ -273,4 +273,7 @@
   <data name="languagePartnersNativesLang" xml:space="preserve">
     <value>language-partners/{lang}/</value>
   </data>
+  <data name="helphowtogeo" xml:space="preserve">
+    <value>help/how-to-set-geolocation-permissions</value>
+  </data>
 </root>
