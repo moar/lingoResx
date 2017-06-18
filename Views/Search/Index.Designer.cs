@@ -160,6 +160,15 @@ namespace Resources.Views.Search {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Maximum rate.
+        /// </summary>
+        public static string SearchMaxRate {
+            get {
+                return ResourceManager.GetString("SearchMaxRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Find natives speakers that suit you. Check their expertise, upvotes and rates and make requests for private conversations..
         /// </summary>
         public static string SearchPaidConversationPartnersSubtitle {
