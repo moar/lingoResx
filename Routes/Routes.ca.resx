@@ -261,4 +261,7 @@
   <data name="languagePartnersNativesLang" xml:space="preserve">
     <value>companys-idiomes/{lang}/</value>
   </data>
+  <data name="how-to-have-an-exchange" xml:space="preserve">
+    <value>intercanvi-idiomes-online/com-fer/</value>
+  </data>
 </root>

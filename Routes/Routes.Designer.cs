@@ -151,6 +151,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/how-to-have/.
+        /// </summary>
+        public static string how_to_have_an_exchange {
+            get {
+                return ResourceManager.GetString("how-to-have-an-exchange", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/how-to-make-video-call.
         /// </summary>
         public static string how_to_make_video_call {

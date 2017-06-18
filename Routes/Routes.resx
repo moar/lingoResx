@@ -276,4 +276,7 @@
   <data name="helphowtogeo" xml:space="preserve">
     <value>help/how-to-set-geolocation-permissions</value>
   </data>
+  <data name="how-to-have-an-exchange" xml:space="preserve">
+    <value>online-language-exchange/how-to-have/</value>
+  </data>
 </root>

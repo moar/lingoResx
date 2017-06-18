@@ -267,4 +267,7 @@
   <data name="languagePartnersNativesLang" xml:space="preserve">
     <value>lingue-partners/{lang}/</value>
   </data>
+  <data name="how-to-have-an-exchange" xml:space="preserve">
+    <value>scambio-di-lingue-online/come-fare/</value>
+  </data>
 </root>

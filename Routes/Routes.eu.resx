@@ -270,4 +270,7 @@
   <data name="languagePartnersNativesLang" xml:space="preserve">
     <value>mintzalagunak/{lang}/</value>
   </data>
+  <data name="how-to-have-an-exchange" xml:space="preserve">
+    <value>hizkuntza-elkartrukea-online/nola-egin/</value>
+  </data>
 </root>
