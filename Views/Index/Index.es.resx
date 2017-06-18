@@ -288,4 +288,10 @@
   <data name="LandTabArticles" xml:space="preserve">
     <value>Artículos</value>
   </data>
+  <data name="LandPartnersTitle" xml:space="preserve">
+    <value>Encuentra un compañero de conversación nativo</value>
+  </data>
+  <data name="LandPartnersWantConver" xml:space="preserve">
+    <value>Quiero tener una conversación en</value>
+  </data>
 </root>

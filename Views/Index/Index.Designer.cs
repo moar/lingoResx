@@ -512,6 +512,24 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Find a native conversation partner.
+        /// </summary>
+        public static string LandPartnersTitle {
+            get {
+                return ResourceManager.GetString("LandPartnersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I want to have a conversation in.
+        /// </summary>
+        public static string LandPartnersWantConver {
+            get {
+                return ResourceManager.GetString("LandPartnersWantConver", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Related articles.
         /// </summary>
         public static string LandRelatedArticles {
