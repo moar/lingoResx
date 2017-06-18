@@ -142,7 +142,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you like conversating with people, now you can earn money by having conversations in your native languages. Enter the chat rooms and meet people that want to learn your native language!.
+        ///   Looks up a localized string similar to If you don&apos;t have time for language exchanges and you  want to find native speakers to have conversations, this is your place..
         /// </summary>
         public static string IndexNativesDescription {
             get {
@@ -151,7 +151,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy: earn money as a conversation partner.
+        ///   Looks up a localized string similar to Native conversations partners.
         /// </summary>
         public static string IndexNativesTitle {
             get {
@@ -160,7 +160,25 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Have conversations with natives and become fluent in a language! You can whether exchange languages or pay natives to have conversations with you..
+        ///   Looks up a localized string similar to If you don&apos;t have time for language exchanges and you  want to find native speakers to have conversations, this is your place..
+        /// </summary>
+        public static string IndexPartnersDescription {
+            get {
+                return ResourceManager.GetString("IndexPartnersDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Native conversation partners.
+        /// </summary>
+        public static string IndexPartnersTitle {
+            get {
+                return ResourceManager.GetString("IndexPartnersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find articles and resources about learning languages online.
         /// </summary>
         public static string IndexStudentsDescription {
             get {
@@ -169,7 +187,7 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy: learn languages.
+        ///   Looks up a localized string similar to Learn languages online.
         /// </summary>
         public static string IndexStudentsTitle {
             get {
