@@ -673,4 +673,34 @@
   <data name="HelpHTGeoTitle" xml:space="preserve">
     <value>How to set geolocation permissions</value>
   </data>
+  <data name="HelpHTBrowser" xml:space="preserve">
+    <value>For the best user experience you should be using Google Chrome or Mozilla Firefox</value>
+  </data>
+  <data name="HelpHTGeoChr2" xml:space="preserve">
+    <value>Find the "Location" section</value>
+  </data>
+  <data name="HelpHTGeoChr3" xml:space="preserve">
+    <value>Choose Allow always</value>
+  </data>
+  <data name="HelpHTGeoChr4" xml:space="preserve">
+    <value>Close the options panel</value>
+  </data>
+  <data name="HelpHTGeoClickpadlock" xml:space="preserve">
+    <value>Click the green padlock at the left of the address bar</value>
+  </data>
+  <data name="HelpHTGeoFF2" xml:space="preserve">
+    <value>Find the "Location" warning indicating that the permission is denied</value>
+  </data>
+  <data name="HelpHTGeoFF3" xml:space="preserve">
+    <value>Remove it clicking the cross button</value>
+  </data>
+  <data name="HelpHTGeoFF5" xml:space="preserve">
+    <value>The browser shows a popup asking for permission to share your location with Langademy</value>
+  </data>
+  <data name="HelpHTGeoFF6" xml:space="preserve">
+    <value>Check the "Remember this decision" checkbox and click the Allow access button</value>
+  </data>
+  <data name="HelpHTGeoRefresh" xml:space="preserve">
+    <value>Refresh the page</value>
+  </data>
 </root>

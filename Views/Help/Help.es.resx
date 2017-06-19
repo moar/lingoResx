@@ -672,4 +672,34 @@
   <data name="HelpHTGeoTitle" xml:space="preserve">
     <value>Cómo establecer permisos de geolocalización</value>
   </data>
+  <data name="HelpHTBrowser" xml:space="preserve">
+    <value>Para la mejor experiencia de usuario deberías estar usando Google Chrome o Mozilla Firefox</value>
+  </data>
+  <data name="HelpHTGeoChr2" xml:space="preserve">
+    <value>Encuentra la sección "Ubicación"</value>
+  </data>
+  <data name="HelpHTGeoChr3" xml:space="preserve">
+    <value>Elige permitir siempre</value>
+  </data>
+  <data name="HelpHTGeoChr4" xml:space="preserve">
+    <value>Cierra el panel de opciones</value>
+  </data>
+  <data name="HelpHTGeoClickpadlock" xml:space="preserve">
+    <value>Haz click en el candado a la izquierda de la barra de direcciones</value>
+  </data>
+  <data name="HelpHTGeoFF2" xml:space="preserve">
+    <value>Encuentra el aviso de "Ubicación" indicando que el permiso está denegado</value>
+  </data>
+  <data name="HelpHTGeoFF3" xml:space="preserve">
+    <value>Elimínalo clicando el botón con la cruz</value>
+  </data>
+  <data name="HelpHTGeoFF5" xml:space="preserve">
+    <value>El navegador muestra una ventana solicitando permiso para compartir tu ubicación con Langademy</value>
+  </data>
+  <data name="HelpHTGeoFF6" xml:space="preserve">
+    <value>Marca la opción "Recordar esta decisión" y haz click en el botón permitir acceso</value>
+  </data>
+  <data name="HelpHTGeoRefresh" xml:space="preserve">
+    <value>Refresca la página</value>
+  </data>
 </root>

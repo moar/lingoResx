@@ -583,6 +583,96 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to For the best user experience you should be using Google Chrome or Mozilla Firefox.
+        /// </summary>
+        public static string HelpHTBrowser {
+            get {
+                return ResourceManager.GetString("HelpHTBrowser", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find the &quot;Location&quot; section.
+        /// </summary>
+        public static string HelpHTGeoChr2 {
+            get {
+                return ResourceManager.GetString("HelpHTGeoChr2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose Allow always.
+        /// </summary>
+        public static string HelpHTGeoChr3 {
+            get {
+                return ResourceManager.GetString("HelpHTGeoChr3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Close the options panel.
+        /// </summary>
+        public static string HelpHTGeoChr4 {
+            get {
+                return ResourceManager.GetString("HelpHTGeoChr4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Click the green padlock at the left of the address bar.
+        /// </summary>
+        public static string HelpHTGeoClickpadlock {
+            get {
+                return ResourceManager.GetString("HelpHTGeoClickpadlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find the &quot;Location&quot; warning indicating that the permission is denied.
+        /// </summary>
+        public static string HelpHTGeoFF2 {
+            get {
+                return ResourceManager.GetString("HelpHTGeoFF2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remove it clicking the cross button.
+        /// </summary>
+        public static string HelpHTGeoFF3 {
+            get {
+                return ResourceManager.GetString("HelpHTGeoFF3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The browser shows a popup asking for permission to share your location with Langademy.
+        /// </summary>
+        public static string HelpHTGeoFF5 {
+            get {
+                return ResourceManager.GetString("HelpHTGeoFF5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check the &quot;Remember this decision&quot; checkbox and click the Allow access button.
+        /// </summary>
+        public static string HelpHTGeoFF6 {
+            get {
+                return ResourceManager.GetString("HelpHTGeoFF6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Refresh the page.
+        /// </summary>
+        public static string HelpHTGeoRefresh {
+            get {
+                return ResourceManager.GetString("HelpHTGeoRefresh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to How to set geolocation permissions.
         /// </summary>
         public static string HelpHTGeoTitle {
