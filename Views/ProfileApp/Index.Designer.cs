@@ -124,6 +124,15 @@ namespace Resources.Views.ProfileApp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You cannot delete this language because you have defined rates for teaching this language in your teacher profile.
+        /// </summary>
+        public static string CannotDeleteLangTeacherRate {
+            get {
+                return ResourceManager.GetString("CannotDeleteLangTeacherRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You can&apos;t delete your native language.
         /// </summary>
         public static string CannotDeleteNative {
@@ -147,6 +156,15 @@ namespace Resources.Views.ProfileApp {
         public static string CannotDeleteNativePendingRoom {
             get {
                 return ResourceManager.GetString("CannotDeleteNativePendingRoom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cannot modify your level beacuse you have defined rates for teaching this language in your teacher profile.
+        /// </summary>
+        public static string CannotModifyLangTeacherRate {
+            get {
+                return ResourceManager.GetString("CannotModifyLangTeacherRate", resourceCulture);
             }
         }
         
