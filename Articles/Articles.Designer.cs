@@ -86,5 +86,14 @@ namespace Resources.Articles {
                 return ResourceManager.GetString("LearnEnglishQuicklyTitle", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vegetables in Spanish: similarities and differences with English names.
+        /// </summary>
+        public static string VegetablesTitle {
+            get {
+                return ResourceManager.GetString("VegetablesTitle", resourceCulture);
+            }
+        }
     }
 }

@@ -503,7 +503,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Home.
+        ///   Looks up a localized string similar to Enter.
         /// </summary>
         public static string LandHome {
             get {

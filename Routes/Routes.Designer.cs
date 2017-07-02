@@ -322,6 +322,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/spanish/vegetables-vocabulary/.
+        /// </summary>
+        public static string learn_spanish_vegetable_names {
+            get {
+                return ResourceManager.GetString("learn-spanish-vegetable-names", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to online-language-exchange/meetups/{meetid:guid}/{meetupName}/.
         /// </summary>
         public static string meetup_guid {
