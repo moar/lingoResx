@@ -282,4 +282,10 @@
   <data name="learn-spanish-vegetable-names" xml:space="preserve">
     <value>learn-languages/spanish/vegetables-vocabulary/</value>
   </data>
+  <data name="learn-spanish-tonguetwisters" xml:space="preserve">
+    <value>learn-languages/spanish/tongue-twisters/</value>
+  </data>
+  <data name="learn-languages-spanish" xml:space="preserve">
+    <value>learn-languages/spanish/</value>
+  </data>
 </root>

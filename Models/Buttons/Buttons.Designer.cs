@@ -196,6 +196,15 @@ namespace Resources.Models.Buttons {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sign up now!.
+        /// </summary>
+        public static string SignUpNow {
+            get {
+                return ResourceManager.GetString("SignUpNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Submit.
         /// </summary>
         public static string Submit {

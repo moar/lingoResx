@@ -322,6 +322,24 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/spanish/.
+        /// </summary>
+        public static string learn_languages_spanish {
+            get {
+                return ResourceManager.GetString("learn-languages-spanish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/spanish/tongue-twisters/.
+        /// </summary>
+        public static string learn_spanish_tonguetwisters {
+            get {
+                return ResourceManager.GetString("learn-spanish-tonguetwisters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to learn-languages/spanish/vegetables-vocabulary/.
         /// </summary>
         public static string learn_spanish_vegetable_names {

@@ -267,4 +267,10 @@
   <data name="learn-spanish-vegetable-names" xml:space="preserve">
     <value>aprendre-idiomes/espanyol/verdures-vocabulari/</value>
   </data>
+  <data name="learn-spanish-tonguetwisters" xml:space="preserve">
+    <value>aprendre-idiomes/espanyol/traballengues/</value>
+  </data>
+  <data name="learn-languages-spanish" xml:space="preserve">
+    <value>aprendre-idiomes/espanyol/</value>
+  </data>
 </root>

@@ -120,11 +120,20 @@
   <data name="EnglishConversationsTitle" xml:space="preserve">
     <value>English conversations</value>
   </data>
+  <data name="HowToHaveExchangesTitle" xml:space="preserve">
+    <value>How to have a language exchange</value>
+  </data>
   <data name="ImproveEngPronunTitle" xml:space="preserve">
     <value>How to improve english pronunciation</value>
   </data>
   <data name="LearnEnglishQuicklyTitle" xml:space="preserve">
     <value>How to learn english quickly</value>
+  </data>
+  <data name="SpanishTongueTwistersTitle" xml:space="preserve">
+    <value>Spanish Tongue Twisters</value>
+  </data>
+  <data name="StudySpanish" xml:space="preserve">
+    <value>Study Spanish</value>
   </data>
   <data name="VegetablesTitle" xml:space="preserve">
     <value>Vegetables in Spanish: similarities and differences with English names</value>
