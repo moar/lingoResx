@@ -70,6 +70,15 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 10 ideas for language exchanges.
+        /// </summary>
+        public static string ExchangeTopics {
+            get {
+                return ResourceManager.GetString("ExchangeTopics", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to How to have a language exchange.
         /// </summary>
         public static string HowToHaveExchangesTitle {

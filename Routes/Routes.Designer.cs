@@ -106,6 +106,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/topics/.
+        /// </summary>
+        public static string exchange_topics {
+            get {
+                return ResourceManager.GetString("exchange-topics", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help.
         /// </summary>
         public static string help {

@@ -853,7 +853,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\AccountManager\Index.ca.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.de.resx" />
-    <EmbeddedResource Include="Views\AccountManager\Index.es.resx" />
+    <EmbeddedResource Include="Views\AccountManager\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\AccountManager\Index.eu.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.fr.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.it.resx" />

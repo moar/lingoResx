@@ -288,4 +288,7 @@
   <data name="learn-languages-spanish" xml:space="preserve">
     <value>aprender-idiomas/español/</value>
   </data>
+  <data name="exchange-topics" xml:space="preserve">
+    <value>intercambio-de-idiomas-online/temas/</value>
+  </data>
 </root>

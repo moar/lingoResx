@@ -288,4 +288,7 @@
   <data name="learn-languages-spanish" xml:space="preserve">
     <value>learn-languages/spanish/</value>
   </data>
+  <data name="exchange-topics" xml:space="preserve">
+    <value>online-language-exchange/topics/</value>
+  </data>
 </root>

@@ -286,6 +286,15 @@ namespace Resources.Views.AccountManager {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If you are leaving us, please tell us why so we can keep improving Langademy!.
+        /// </summary>
+        public static string LeaveFb {
+            get {
+                return ResourceManager.GetString("LeaveFb", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Manage your Langademy account.
         /// </summary>
         public static string ManageAccount {

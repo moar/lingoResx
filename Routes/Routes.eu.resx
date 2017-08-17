@@ -282,4 +282,7 @@
   <data name="learn-languages-spanish" xml:space="preserve">
     <value>hizkuntzak-ikasi/gaztelera/</value>
   </data>
+  <data name="exchange-topics" xml:space="preserve">
+    <value>hizkuntza-elkartrukea-online/gaiak/</value>
+  </data>
 </root>

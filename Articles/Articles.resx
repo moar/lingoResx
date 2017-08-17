@@ -120,6 +120,9 @@
   <data name="EnglishConversationsTitle" xml:space="preserve">
     <value>English conversations</value>
   </data>
+  <data name="ExchangeTopics" xml:space="preserve">
+    <value>10 ideas for language exchanges</value>
+  </data>
   <data name="HowToHaveExchangesTitle" xml:space="preserve">
     <value>How to have a language exchange</value>
   </data>
