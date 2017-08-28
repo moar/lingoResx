@@ -282,4 +282,7 @@
   <data name="exchange-topics" xml:space="preserve">
     <value>scambio-di-lingue-online/temi/</value>
   </data>
+  <data name="how-learn-english-online" xml:space="preserve">
+    <value>imparare-lingue/inglese/come-imparare-online/</value>
+  </data>
 </root>

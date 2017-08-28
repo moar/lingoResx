@@ -862,6 +862,7 @@
     <EmbeddedResource Include="Views\AccountManager\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Blog\Blog.ca.resx" />
     <EmbeddedResource Include="Views\Blog\Blog.de.resx" />

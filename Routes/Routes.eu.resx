@@ -285,4 +285,7 @@
   <data name="exchange-topics" xml:space="preserve">
     <value>hizkuntza-elkartrukea-online/gaiak/</value>
   </data>
+  <data name="how-learn-english-online" xml:space="preserve">
+    <value>hizkuntzak-ikasi/gaztelera/nola-ikasi-online/</value>
+  </data>
 </root>

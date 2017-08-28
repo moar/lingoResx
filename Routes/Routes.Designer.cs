@@ -160,6 +160,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/how-to-online/.
+        /// </summary>
+        public static string how_learn_english_online {
+            get {
+                return ResourceManager.GetString("how-learn-english-online", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to online-language-exchange/how-to-have/.
         /// </summary>
         public static string how_to_have_an_exchange {

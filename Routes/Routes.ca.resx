@@ -276,4 +276,7 @@
   <data name="exchange-topics" xml:space="preserve">
     <value>intercanvi-idiomes-online/temes/</value>
   </data>
+  <data name="how-learn-english-online" xml:space="preserve">
+    <value>aprendre-idiomes/angles/com-aprendre-online/</value>
+  </data>
 </root>
