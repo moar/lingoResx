@@ -70,6 +70,24 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 10 ideas for language exchanges.
+        /// </summary>
+        public static string ExchangeTopics {
+            get {
+                return ResourceManager.GetString("ExchangeTopics", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to have a language exchange.
+        /// </summary>
+        public static string HowToHaveExchangesTitle {
+            get {
+                return ResourceManager.GetString("HowToHaveExchangesTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to How to improve english pronunciation.
         /// </summary>
         public static string ImproveEngPronunTitle {
@@ -84,6 +102,33 @@ namespace Resources.Articles {
         public static string LearnEnglishQuicklyTitle {
             get {
                 return ResourceManager.GetString("LearnEnglishQuicklyTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish Tongue Twisters.
+        /// </summary>
+        public static string SpanishTongueTwistersTitle {
+            get {
+                return ResourceManager.GetString("SpanishTongueTwistersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Study Spanish.
+        /// </summary>
+        public static string StudySpanish {
+            get {
+                return ResourceManager.GetString("StudySpanish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vegetables in Spanish: similarities and differences with English names.
+        /// </summary>
+        public static string VegetablesTitle {
+            get {
+                return ResourceManager.GetString("VegetablesTitle", resourceCulture);
             }
         }
     }

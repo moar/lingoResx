@@ -858,13 +858,16 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\AccountManager\Index.ca.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.de.resx" />
-    <EmbeddedResource Include="Views\AccountManager\Index.es.resx" />
+    <EmbeddedResource Include="Views\AccountManager\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\AccountManager\Index.eu.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.fr.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.it.resx" />
     <EmbeddedResource Include="Views\AccountManager\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Blog\Blog.ca.resx" />
     <EmbeddedResource Include="Views\Blog\Blog.de.resx" />
@@ -1335,7 +1338,9 @@
       <LastGenOutput>Room.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

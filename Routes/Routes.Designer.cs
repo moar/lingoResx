@@ -106,6 +106,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to online-language-exchange/topics/.
+        /// </summary>
+        public static string exchange_topics {
+            get {
+                return ResourceManager.GetString("exchange-topics", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help.
         /// </summary>
         public static string help {
@@ -147,6 +156,15 @@ namespace Resources.Routes {
         public static string helphowtogeo {
             get {
                 return ResourceManager.GetString("helphowtogeo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/how-to-online/.
+        /// </summary>
+        public static string how_learn_english_online {
+            get {
+                return ResourceManager.GetString("how-learn-english-online", resourceCulture);
             }
         }
         
@@ -318,6 +336,33 @@ namespace Resources.Routes {
         public static string learn_languages_english_quickly {
             get {
                 return ResourceManager.GetString("learn-languages-english-quickly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/spanish/.
+        /// </summary>
+        public static string learn_languages_spanish {
+            get {
+                return ResourceManager.GetString("learn-languages-spanish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/spanish/tongue-twisters/.
+        /// </summary>
+        public static string learn_spanish_tonguetwisters {
+            get {
+                return ResourceManager.GetString("learn-spanish-tonguetwisters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/spanish/vegetables-vocabulary/.
+        /// </summary>
+        public static string learn_spanish_vegetable_names {
+            get {
+                return ResourceManager.GetString("learn-spanish-vegetable-names", resourceCulture);
             }
         }
         
