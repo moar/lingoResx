@@ -70,6 +70,42 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Day {0} every month.
+        /// </summary>
+        public static string bymonthday {
+            get {
+                return ResourceManager.GetString("bymonthday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Day {0} every {1} months.
+        /// </summary>
+        public static string bymonthdayinterv {
+            get {
+                return ResourceManager.GetString("bymonthdayinterv", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} {1} of every month.
+        /// </summary>
+        public static string bymonthsetpos {
+            get {
+                return ResourceManager.GetString("bymonthsetpos", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} {1} of every {2} months.
+        /// </summary>
+        public static string bymonthsetposinterv {
+            get {
+                return ResourceManager.GetString("bymonthsetposinterv", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Next language exchanges meetups.
         /// </summary>
         public static string calendarAllTitle {
@@ -313,11 +349,38 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Daily.
+        /// </summary>
+        public static string dailyfreq {
+            get {
+                return ResourceManager.GetString("dailyfreq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Every {0} days.
+        /// </summary>
+        public static string dailyfreqinterv {
+            get {
+                return ResourceManager.GetString("dailyfreqinterv", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Day.
         /// </summary>
         public static string Day {
             get {
                 return ResourceManager.GetString("Day", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edit availability.
+        /// </summary>
+        public static string EditAvailability {
+            get {
+                return ResourceManager.GetString("EditAvailability", resourceCulture);
             }
         }
         
@@ -376,6 +439,24 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to first.
+        /// </summary>
+        public static string First {
+            get {
+                return ResourceManager.GetString("First", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to fourth.
+        /// </summary>
+        public static string Fourth {
+            get {
+                return ResourceManager.GetString("Fourth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We are so sorry, but your browser cannot share your geolocation with Langademy, so you are not allowed to update your invoicing data. We recommend you to use Google Chrome for the best experience at Langademy.
         /// </summary>
         public static string GeoNoAvailable {
@@ -426,6 +507,15 @@ namespace Resources.JSMessages {
         public static string InvitsSent {
             get {
                 return ResourceManager.GetString("InvitsSent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to last.
+        /// </summary>
+        public static string Last {
+            get {
+                return ResourceManager.GetString("Last", resourceCulture);
             }
         }
         
@@ -561,6 +651,15 @@ namespace Resources.JSMessages {
         public static string NetworkErrorInVideo {
             get {
                 return ResourceManager.GetString("NetworkErrorInVideo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New availability.
+        /// </summary>
+        public static string NewAvailability {
+            get {
+                return ResourceManager.GetString("NewAvailability", resourceCulture);
             }
         }
         
@@ -835,6 +934,60 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} times.
+        /// </summary>
+        public static string rrulecount {
+            get {
+                return ResourceManager.GetString("rrulecount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to starts on {0}.
+        /// </summary>
+        public static string rruledtstart {
+            get {
+                return ResourceManager.GetString("rruledtstart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to only once.
+        /// </summary>
+        public static string rruleonlyonce {
+            get {
+                return ResourceManager.GetString("rruleonlyonce", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to from {0} to {1}.
+        /// </summary>
+        public static string rruletimespan {
+            get {
+                return ResourceManager.GetString("rruletimespan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to until {0}.
+        /// </summary>
+        public static string rruleuntil {
+            get {
+                return ResourceManager.GetString("rruleuntil", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to second.
+        /// </summary>
+        public static string Second {
+            get {
+                return ResourceManager.GetString("Second", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Select your language.
         /// </summary>
         public static string SelectLanguage {
@@ -849,6 +1002,15 @@ namespace Resources.JSMessages {
         public static string Settings {
             get {
                 return ResourceManager.GetString("Settings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to third.
+        /// </summary>
+        public static string Third {
+            get {
+                return ResourceManager.GetString("Third", resourceCulture);
             }
         }
         
@@ -1020,6 +1182,24 @@ namespace Resources.JSMessages {
         public static string warnnochangelng {
             get {
                 return ResourceManager.GetString("warnnochangelng", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Weekly, every {0}.
+        /// </summary>
+        public static string weeklyfreq {
+            get {
+                return ResourceManager.GetString("weeklyfreq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Every {0} weeks, on {1}.
+        /// </summary>
+        public static string weeklyfreqinterv {
+            get {
+                return ResourceManager.GetString("weeklyfreqinterv", resourceCulture);
             }
         }
         

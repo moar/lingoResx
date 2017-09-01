@@ -61,6 +61,24 @@ namespace Resources.Views.MyCalendar {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Actions.
+        /// </summary>
+        public static string MCActions {
+            get {
+                return ResourceManager.GetString("MCActions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to After.
+        /// </summary>
+        public static string MCAfter {
+            get {
+                return ResourceManager.GetString("MCAfter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to All events.
         /// </summary>
         public static string MCAllEvents {
@@ -70,11 +88,146 @@ namespace Resources.Views.MyCalendar {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Available for.
+        /// </summary>
+        public static string MCAvFor {
+            get {
+                return ResourceManager.GetString("MCAvFor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Daily.
+        /// </summary>
+        public static string MCDaily {
+            get {
+                return ResourceManager.GetString("MCDaily", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date.
+        /// </summary>
+        public static string MCDate {
+            get {
+                return ResourceManager.GetString("MCDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Day.
+        /// </summary>
+        public static string MCDay {
+            get {
+                return ResourceManager.GetString("MCDay", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The.
+        /// </summary>
+        public static string MCDayMonthPrevText {
+            get {
+                return ResourceManager.GetString("MCDayMonthPrevText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete.
+        /// </summary>
+        public static string MCDelete {
+            get {
+                return ResourceManager.GetString("MCDelete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete recurrence.
+        /// </summary>
+        public static string MCDeleteRecur {
+            get {
+                return ResourceManager.GetString("MCDeleteRecur", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Duration.
+        /// </summary>
+        public static string MCDuration {
+            get {
+                return ResourceManager.GetString("MCDuration", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edit availability.
+        /// </summary>
+        public static string MCEditAvailability {
+            get {
+                return ResourceManager.GetString("MCEditAvailability", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to End.
+        /// </summary>
+        public static string MCEnd {
+            get {
+                return ResourceManager.GetString("MCEnd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to End time must be after start time.
+        /// </summary>
+        public static string MCEndBeforeStartError {
+            get {
+                return ResourceManager.GetString("MCEndBeforeStartError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to every.
+        /// </summary>
+        public static string MCevery {
+            get {
+                return ResourceManager.GetString("MCevery", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Frecuency.
+        /// </summary>
+        public static string MCFrequency {
+            get {
+                return ResourceManager.GetString("MCFrequency", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Languages.
         /// </summary>
         public static string MCLanguages {
             get {
                 return ResourceManager.GetString("MCLanguages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly.
+        /// </summary>
+        public static string MCMonthly {
+            get {
+                return ResourceManager.GetString("MCMonthly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Never.
+        /// </summary>
+        public static string MCNever {
+            get {
+                return ResourceManager.GetString("MCNever", resourceCulture);
             }
         }
         
@@ -93,6 +246,123 @@ namespace Resources.Views.MyCalendar {
         public static string MCNoEvents {
             get {
                 return ResourceManager.GetString("MCNoEvents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to On date.
+        /// </summary>
+        public static string MCOndate {
+            get {
+                return ResourceManager.GetString("MCOndate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Options.
+        /// </summary>
+        public static string MCOptions {
+            get {
+                return ResourceManager.GetString("MCOptions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Range of recurrence.
+        /// </summary>
+        public static string MCRangeRecur {
+            get {
+                return ResourceManager.GetString("MCRangeRecur", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Repeat.
+        /// </summary>
+        public static string MCRepeat {
+            get {
+                return ResourceManager.GetString("MCRepeat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Repeat availability.
+        /// </summary>
+        public static string MCRepeatAv {
+            get {
+                return ResourceManager.GetString("MCRepeatAv", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to repetitions.
+        /// </summary>
+        public static string MCRepetitions {
+            get {
+                return ResourceManager.GetString("MCRepetitions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save &amp; Close.
+        /// </summary>
+        public static string MCSaveClose {
+            get {
+                return ResourceManager.GetString("MCSaveClose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start.
+        /// </summary>
+        public static string MCStart {
+            get {
+                return ResourceManager.GetString("MCStart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Summary.
+        /// </summary>
+        public static string MCSummary {
+            get {
+                return ResourceManager.GetString("MCSummary", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time.
+        /// </summary>
+        public static string MCTime {
+            get {
+                return ResourceManager.GetString("MCTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cannot create availability slots longer than 8 hours.
+        /// </summary>
+        public static string MCTooLongEventError {
+            get {
+                return ResourceManager.GetString("MCTooLongEventError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Weekly.
+        /// </summary>
+        public static string MCWeekly {
+            get {
+                return ResourceManager.GetString("MCWeekly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to week(s).
+        /// </summary>
+        public static string MCWeeks {
+            get {
+                return ResourceManager.GetString("MCWeeks", resourceCulture);
             }
         }
         
