@@ -162,6 +162,9 @@
   <data name="ShowOlder" xml:space="preserve">
     <value>Ver más antiguos</value>
   </data>
+  <data name="SignUpNow" xml:space="preserve">
+    <value>¡Regístrate ahora!</value>
+  </data>
   <data name="Submit" xml:space="preserve">
     <value>Enviar</value>
   </data>
