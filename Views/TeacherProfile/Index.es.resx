@@ -117,4 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AboutMeEmpty" xml:space="preserve">
+    <value>Preséntate, muestra tu experiencia como profesor y tus métodos de enseñanza</value>
+  </data>
+  <data name="AboutMeMaxLength" xml:space="preserve">
+    <value>Tu descripción debe tener menos de {1} caracteres</value>
+  </data>
+  <data name="AddEducation" xml:space="preserve">
+    <value>Añade tu educación</value>
+  </data>
+  <data name="AddPosition" xml:space="preserve">
+    <value>Añade tu posición</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Compañía</value>
+  </data>
+  <data name="Degree" xml:space="preserve">
+    <value>Titulación</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Descripción</value>
+  </data>
+  <data name="DescriptionMaxLength" xml:space="preserve">
+    <value>La descripción deber tener menos de {1} caracteres</value>
+  </data>
+  <data name="EditPosition" xml:space="preserve">
+    <value>Edita tu empleo</value>
+  </data>
+  <data name="EducationEmptyTextEdit" xml:space="preserve">
+    <value>Añade detalles sobre tu educación que pueden ser interesantes para tus alumnos potenciales. Títulos, cursos, certificaciones, etc.</value>
+  </data>
+  <data name="EducationTitle" xml:space="preserve">
+    <value>Educación</value>
+  </data>
+  <data name="ErrorRemoveEducation" xml:space="preserve">
+    <value>Error al borrar el registro educación</value>
+  </data>
+  <data name="ErrorRemoveExperience" xml:space="preserve">
+    <value>Error al borrar el registro experiencia</value>
+  </data>
+  <data name="ExperienceEmptyTextEdit" xml:space="preserve">
+    <value>Añade detalles sobre tu experiencia profesional</value>
+  </data>
+  <data name="ExperienceTitle" xml:space="preserve">
+    <value>Experiencia</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>Desde</value>
+  </data>
+  <data name="FromGreaterThanNow" xml:space="preserve">
+    <value>El campo Desde no puede contener una fecha futura</value>
+  </data>
+</root>

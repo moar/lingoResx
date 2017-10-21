@@ -118,6 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  
   <data name="AltLangInfo" xml:space="preserve">
     <value>This content is not available in {0}. This is the version in {1}</value>
   </data>
