@@ -214,6 +214,24 @@ namespace Resources.Views.MyCalendar {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Language exchanges.
+        /// </summary>
+        public static string MCLegendTimeBank {
+            get {
+                return ResourceManager.GetString("MCLegendTimeBank", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Informal Wallet calls.
+        /// </summary>
+        public static string MCLegendWallet {
+            get {
+                return ResourceManager.GetString("MCLegendWallet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Monthly.
         /// </summary>
         public static string MCMonthly {

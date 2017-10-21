@@ -704,7 +704,9 @@
       <LastGenOutput>Scopes.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="JSMessages\JSMessages.ca.resx" />
-    <EmbeddedResource Include="JSMessages\JSMessages.es.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="JSMessages\JSMessages.eu.resx" />
     <EmbeddedResource Include="JSMessages\JSMessages.it.resx" />
     <EmbeddedResource Include="JSMessages\JSMessages.resx">

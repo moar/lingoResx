@@ -285,4 +285,10 @@
   <data name="how-learn-english-online" xml:space="preserve">
     <value>imparare-lingue/inglese/come-imparare-online/</value>
   </data>
+  <data name="learn-english-index" xml:space="preserve">
+    <value>imparare-lingue/inglese/</value>
+  </data>
+  <data name="how-learn-english-tips" xml:space="preserve">
+    <value>imparare-lingue/inglese/come-tips/</value>
+  </data>
 </root>

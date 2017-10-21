@@ -288,4 +288,10 @@
   <data name="how-learn-english-online" xml:space="preserve">
     <value>hizkuntzak-ikasi/gaztelera/nola-ikasi-online/</value>
   </data>
+  <data name="learn-english-index" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/</value>
+  </data>
+  <data name="how-learn-english-tips" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/nola-ikasi/</value>
+  </data>
 </root>

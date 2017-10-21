@@ -196,6 +196,24 @@ namespace Resources.Views.Mails {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have been accepted as a teacher.
+        /// </summary>
+        public static string TeacherRequestAccepted {
+            get {
+                return ResourceManager.GetString("TeacherRequestAccepted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have not been accepted as a teacher.
+        /// </summary>
+        public static string TeacherRequestDenied {
+            get {
+                return ResourceManager.GetString("TeacherRequestDenied", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We miss you!.
         /// </summary>
         public static string VisitReminder {

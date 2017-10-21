@@ -129,7 +129,13 @@
   <data name="ImproveEngPronunTitle" xml:space="preserve">
     <value>Cómo mejorar la pronunciación en inglés</value>
   </data>
+  <data name="LearnEnglish" xml:space="preserve">
+    <value>Aprender Inglés</value>
+  </data>
   <data name="LearnEnglishQuicklyTitle" xml:space="preserve">
     <value>Maneras de aprender inglés rápidamente</value>
+  </data>
+  <data name="LearnEnglishTips" xml:space="preserve">
+    <value>Cómo aprender inglés en 3 sencillos pasos</value>
   </data>
 </root>

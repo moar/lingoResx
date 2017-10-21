@@ -222,4 +222,10 @@
   <data name="MyCalendar" xml:space="preserve">
     <value>My Calendar</value>
   </data>
+  <data name="MCLegendTimeBank" xml:space="preserve">
+    <value>Language exchanges</value>
+  </data>
+  <data name="MCLegendWallet" xml:space="preserve">
+    <value>Informal Wallet calls</value>
+  </data>
 </root>

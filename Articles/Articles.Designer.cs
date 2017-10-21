@@ -97,11 +97,29 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Learn English.
+        /// </summary>
+        public static string LearnEnglish {
+            get {
+                return ResourceManager.GetString("LearnEnglish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to How to learn english quickly.
         /// </summary>
         public static string LearnEnglishQuicklyTitle {
             get {
                 return ResourceManager.GetString("LearnEnglishQuicklyTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to learn English in 3 easy steps.
+        /// </summary>
+        public static string LearnEnglishTips {
+            get {
+                return ResourceManager.GetString("LearnEnglishTips", resourceCulture);
             }
         }
         

@@ -147,6 +147,12 @@
   <data name="MCLanguages" xml:space="preserve">
     <value>Idiomas</value>
   </data>
+  <data name="MCLegendTimeBank" xml:space="preserve">
+    <value>Intercambios de idiomas</value>
+  </data>
+  <data name="MCLegendWallet" xml:space="preserve">
+    <value>Llamadas Wallet informales</value>
+  </data>
   <data name="MCMonthly" xml:space="preserve">
     <value>Mensualmente</value>
   </data>

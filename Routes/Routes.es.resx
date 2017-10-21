@@ -294,4 +294,10 @@
   <data name="how-learn-english-online" xml:space="preserve">
     <value>aprender-idiomas/ingles/como-aprender-online/</value>
   </data>
+  <data name="learn-english-index" xml:space="preserve">
+    <value>aprender-idiomas/ingles/</value>
+  </data>
+  <data name="how-learn-english-tips" xml:space="preserve">
+    <value>aprender-idiomas/ingles/como-trucos/</value>
+  </data>
 </root>

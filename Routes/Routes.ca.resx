@@ -279,4 +279,10 @@
   <data name="how-learn-english-online" xml:space="preserve">
     <value>aprendre-idiomes/angles/com-aprendre-online/</value>
   </data>
+  <data name="learn-english-index" xml:space="preserve">
+    <value>aprendre-idiomes/angles/</value>
+  </data>
+  <data name="how-learn-english-tips" xml:space="preserve">
+    <value>aprendre-idiomes/angles/com-truc/</value>
+  </data>
 </root>

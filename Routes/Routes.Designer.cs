@@ -169,6 +169,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/how-to-tips/.
+        /// </summary>
+        public static string how_learn_english_tips {
+            get {
+                return ResourceManager.GetString("how-learn-english-tips", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to online-language-exchange/how-to-have/.
         /// </summary>
         public static string how_to_have_an_exchange {
@@ -300,6 +309,15 @@ namespace Resources.Routes {
         public static string learn_english_improve_pronunciation {
             get {
                 return ResourceManager.GetString("learn-english-improve-pronunciation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/.
+        /// </summary>
+        public static string learn_english_index {
+            get {
+                return ResourceManager.GetString("learn-english-index", resourceCulture);
             }
         }
         
