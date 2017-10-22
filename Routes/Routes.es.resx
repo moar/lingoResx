@@ -286,7 +286,7 @@
     <value>aprender-idiomas/espanol/trabalenguas/</value>
   </data>
   <data name="learn-languages-spanish" xml:space="preserve">
-    <value>aprender-idiomas/español/</value>
+    <value>aprender-idiomas/espanol/</value>
   </data>
   <data name="exchange-topics" xml:space="preserve">
     <value>intercambio-de-idiomas-online/temas/</value>
@@ -299,5 +299,8 @@
   </data>
   <data name="how-learn-english-tips" xml:space="preserve">
     <value>aprender-idiomas/ingles/como-trucos/</value>
+  </data>
+  <data name="best-youtube-channels" xml:space="preserve">
+    <value>aprender-idiomas/ingles/mejores-canales-youtube/</value>
   </data>
 </root>

@@ -61,6 +61,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/best-youtube-channels/.
+        /// </summary>
+        public static string best_youtube_channels {
+            get {
+                return ResourceManager.GetString("best-youtube-channels", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to language/{selectedCulture}/.
         /// </summary>
         public static string bloglanguage {

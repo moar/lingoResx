@@ -300,4 +300,7 @@
   <data name="how-learn-english-tips" xml:space="preserve">
     <value>learn-languages/english/how-to-tips/</value>
   </data>
+  <data name="best-youtube-channels" xml:space="preserve">
+    <value>learn-languages/english/best-youtube-channels/</value>
+  </data>
 </root>
