@@ -61,6 +61,15 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Best 7 Youtube Channels to Learn English.
+        /// </summary>
+        public static string BestYoutubeChannels {
+            get {
+                return ResourceManager.GetString("BestYoutubeChannels", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to English conversations.
         /// </summary>
         public static string EnglishConversationsTitle {
