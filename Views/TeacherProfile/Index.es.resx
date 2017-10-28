@@ -168,4 +168,37 @@
   <data name="FromGreaterThanNow" xml:space="preserve">
     <value>El campo Desde no puede contener una fecha futura</value>
   </data>
+  <data name="FromGreaterThanTo" xml:space="preserve">
+    <value>El campo Desde no puede ser mayour que el campo Hasta</value>
+  </data>
+  <data name="NoRatingsEditor" xml:space="preserve">
+    <value>Todavía no has recibido ninguna valoración</value>
+  </data>
+  <data name="Position" xml:space="preserve">
+    <value>Posición</value>
+  </data>
+  <data name="School" xml:space="preserve">
+    <value>Centro educativo</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>Hasta</value>
+  </data>
+  <data name="ToOrExpected" xml:space="preserve">
+    <value>Hasta (o esperado)</value>
+  </data>
+  <data name="VideoUrlMatchError" xml:space="preserve">
+    <value>Solo puedes embeber videos de Youtube o Vimeo (por ejemplo https://youtu.be/..., https://vimeo.com/0000000000)</value>
+  </data>
+  <data name="VideoUrlRequired" xml:space="preserve">
+    <value>Tienes que insertar una url válida de Youtube o Vimeo</value>
+  </data>
+  <data name="VimeoDomainTip" xml:space="preserve">
+    <value>En caso de que hayas embebido un video de Vimeo y no hayas definido la "privacidad a nivel de dominio" (domain-level privacy) en tu cuenta de Vimeo, asegurate de añadir "langademy.com" a la lista de dominios autorizados</value>
+  </data>
+  <data name="VimeoInvalidUrl" xml:space="preserve">
+    <value>Esta no es una url validda de Vimeo</value>
+  </data>
+  <data name="YoutubeInvalidUrl" xml:space="preserve">
+    <value>Esta no es una url valida de Youtube</value>
+  </data>
 </root>

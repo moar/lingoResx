@@ -231,6 +231,9 @@
   <data name="OtherLanguResourcesDesc" xml:space="preserve">
     <value>¿Quieres más aún? Visita las páginas amigas de Langademy y disfruta de más recursos que te ayudarán en tu proceso de aprendizaje del idioma</value>
   </data>
+  <data name="IndexPartnersDescription" xml:space="preserve">
+    <value>Si no tienes tiempo para intercambios y quieres encontrar hablantes nativos para conversaciones, éste es tu lugar.</value>
+  </data>
   <data name="IndexPartnersTitle" xml:space="preserve">
     <value>Compañeros de conversación nativos</value>
   </data>

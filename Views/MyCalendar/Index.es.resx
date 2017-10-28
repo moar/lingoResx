@@ -138,6 +138,9 @@
   <data name="MCDay" xml:space="preserve">
     <value>Día</value>
   </data>
+  <data name="MCDayMonthPrevText" xml:space="preserve">
+    <value>El</value>
+  </data>
   <data name="MCDelete" xml:space="preserve">
     <value>Eliminar</value>
   </data>
@@ -165,14 +168,11 @@
   <data name="MCLanguages" xml:space="preserve">
     <value>Idiomas</value>
   </data>
-  <data name="MCLegendTimeBank" xml:space="preserve">
-    <value>Intercambios de idiomas</value>
-  </data>
-  <data name="MCLegendWallet" xml:space="preserve">
-    <value>Llamadas Wallet informales</value>
-  </data>
   <data name="MCMonthly" xml:space="preserve">
     <value>Mensualmente</value>
+  </data>
+  <data name="MCNever" xml:space="preserve">
+    <value>Nunca</value>
   </data>
   <data name="MCNextEvents" xml:space="preserve">
     <value>Próximos eventos</value>
@@ -180,8 +180,14 @@
   <data name="MCNoEvents" xml:space="preserve">
     <value>No hay eventos programados</value>
   </data>
+  <data name="MCOndate" xml:space="preserve">
+    <value>En la fecha</value>
+  </data>
   <data name="MCOptions" xml:space="preserve">
     <value>Opciones</value>
+  </data>
+  <data name="MCRangeRecur" xml:space="preserve">
+    <value>Rango de la recurrencia</value>
   </data>
   <data name="MCRepeat" xml:space="preserve">
     <value>Repetir</value>
@@ -189,19 +195,37 @@
   <data name="MCRepeatAv" xml:space="preserve">
     <value>Repetir disponibilidad</value>
   </data>
+  <data name="MCRepetitions" xml:space="preserve">
+    <value>repeticiones</value>
+  </data>
   <data name="MCSaveClose" xml:space="preserve">
     <value>Guardar y Cerrar</value>
   </data>
   <data name="MCStart" xml:space="preserve">
     <value>Inicio</value>
   </data>
+  <data name="MCSummary" xml:space="preserve">
+    <value>Resumen</value>
+  </data>
   <data name="MCTime" xml:space="preserve">
     <value>Hora</value>
+  </data>
+  <data name="MCTooLongEventError" xml:space="preserve">
+    <value>No puedes crear rangos de disponibilidad mayores a 8 horas</value>
   </data>
   <data name="MCWeekly" xml:space="preserve">
     <value>Semanalmente</value>
   </data>
+  <data name="MCWeeks" xml:space="preserve">
+    <value>semana(s)</value>
+  </data>
   <data name="MyCalendar" xml:space="preserve">
     <value>Mi calendario</value>
+  </data>
+  <data name="MCLegendTimeBank" xml:space="preserve">
+    <value>Intercambios de idiomas</value>
+  </data>
+  <data name="MCLegendWallet" xml:space="preserve">
+    <value>Llamadas Wallet informales</value>
   </data>
 </root>
