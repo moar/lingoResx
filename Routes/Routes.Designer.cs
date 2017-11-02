@@ -106,6 +106,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/improve-pronunciation/alphabet/.
+        /// </summary>
+        public static string english_alphabet {
+            get {
+                return ResourceManager.GetString("english-alphabet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to english-conversations.
         /// </summary>
         public static string english_conversations {

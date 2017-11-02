@@ -70,6 +70,15 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to English alphabet and pronunciation.
+        /// </summary>
+        public static string EnglishAlphabetTitle {
+            get {
+                return ResourceManager.GetString("EnglishAlphabetTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to English conversations.
         /// </summary>
         public static string EnglishConversationsTitle {
