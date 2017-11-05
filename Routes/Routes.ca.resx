@@ -291,4 +291,7 @@
   <data name="english-alphabet" xml:space="preserve">
     <value>aprendre-idiomes/angles/pronunciacio/alfabet/</value>
   </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>aprendre-idiomes/angles/paraules/</value>
+  </data>
 </root>

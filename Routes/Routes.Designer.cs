@@ -115,6 +115,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/basic-words/.
+        /// </summary>
+        public static string english_basic_words {
+            get {
+                return ResourceManager.GetString("english-basic-words", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to english-conversations.
         /// </summary>
         public static string english_conversations {

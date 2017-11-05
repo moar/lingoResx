@@ -297,4 +297,7 @@
   <data name="english-alphabet" xml:space="preserve">
     <value>imparare-lingue/inglese/migliorare-la-pronuncia/alfabeto/</value>
   </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>imparare-lingue/inglese/parole/</value>
+  </data>
 </root>

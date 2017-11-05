@@ -306,4 +306,7 @@
   <data name="english-alphabet" xml:space="preserve">
     <value>learn-languages/english/improve-pronunciation/alphabet/</value>
   </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>learn-languages/english/basic-words/</value>
+  </data>
 </root>

@@ -306,4 +306,7 @@
   <data name="english-alphabet" xml:space="preserve">
     <value>aprender-idiomas/ingles/como-mejorar-pronunciacion/alfabeto/</value>
   </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>aprender-idiomas/ingles/palabras/</value>
+  </data>
 </root>

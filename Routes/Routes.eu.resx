@@ -300,4 +300,7 @@
   <data name="english-alphabet" xml:space="preserve">
     <value>hizkuntzak-ikasi/ingelesa/hobetu-ahozkoa/alfabetoa/</value>
   </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/hitzak/</value>
+  </data>
 </root>

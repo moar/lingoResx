@@ -88,6 +88,15 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 700 basic words to communicate in English.
+        /// </summary>
+        public static string EnglishWordsTitle {
+            get {
+                return ResourceManager.GetString("EnglishWordsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 10 ideas for language exchanges.
         /// </summary>
         public static string ExchangeTopics {

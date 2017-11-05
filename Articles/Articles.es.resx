@@ -126,6 +126,9 @@
   <data name="EnglishConversationsTitle" xml:space="preserve">
     <value>Conversaciones en inglés</value>
   </data>
+  <data name="EnglishWordsTitle" xml:space="preserve">
+    <value>Las palabras en inglés con las que podrás comunicarte sin problemas</value>
+  </data>
   <data name="ExchangeTopics" xml:space="preserve">
     <value>10 ideas para un intercambio de idiomas</value>
   </data>
