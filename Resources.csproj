@@ -516,6 +516,7 @@
       <LastGenOutput>Apps1.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Articles\Articles.es.resx" />
+    <EmbeddedResource Include="Articles\Articles.it.resx" />
     <EmbeddedResource Include="Articles\Articles.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Articles.Designer.cs</LastGenOutput>
