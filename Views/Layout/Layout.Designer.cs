@@ -232,6 +232,24 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Contact - Langademy.
+        /// </summary>
+        public static string MainContact {
+            get {
+                return ResourceManager.GetString("MainContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to send us a message? Contact us using this form..
+        /// </summary>
+        public static string MainContactDesc {
+            get {
+                return ResourceManager.GetString("MainContactDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Privacy - Langademy.
         /// </summary>
         public static string MainPrivacy {

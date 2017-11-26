@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,43 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BestYoutubeChannels" xml:space="preserve">
-    <value>I migliori 7 canali Youtube per imparare l' inglese</value>
+  <data name="CaptchaFail" xml:space="preserve">
+    <value>Captcha validation failed</value>
   </data>
-  <data name="EnglishAlphabetTitle" xml:space="preserve">
-    <value>Alfabeto e pronuncia inglese</value>
+  <data name="enterEmail" xml:space="preserve">
+    <value>Enter your email</value>
   </data>
-  <data name="EnglishConversationsTitle" xml:space="preserve">
-    <value>Conversazioni in inglese</value>
+  <data name="enterMessage" xml:space="preserve">
+    <value>Enter your message</value>
   </data>
-  <data name="EnglishWordsTitle" xml:space="preserve">
-    <value>700 parole base per comunicare in inglese</value>
+  <data name="MessageSent" xml:space="preserve">
+    <value>Your message was sent correctly. We will give you an answer as soon as possible.</value>
   </data>
-  <data name="ExchangeTopics" xml:space="preserve">
-    <value>10 idee per gli scambi linguistici</value>
-  </data>
-  <data name="HowToHaveExchangesTitle" xml:space="preserve">
-    <value>Come avere uno scambio linguistico</value>
-  </data>
-  <data name="ImproveEngPronunTitle" xml:space="preserve">
-    <value>Come migliorare la pronuncia inglese</value>
-  </data>
-  <data name="LearnEnglish" xml:space="preserve">
-    <value>Impara l' inglese</value>
-  </data>
-  <data name="LearnEnglishQuicklyTitle" xml:space="preserve">
-    <value>Come imparare rapidamente l' inglese</value>
-  </data>
-  <data name="LearnEnglishTips" xml:space="preserve">
-    <value>Come imparare l' inglese in 3 semplici passi</value>
-  </data>
-  <data name="SpanishTongueTwistersTitle" xml:space="preserve">
-    <value>Spagnolo lingua Twisters</value>
-  </data>
-  <data name="StudySpanish" xml:space="preserve">
-    <value>Studiare spagnolo</value>
-  </data>
-  <data name="VegetablesTitle" xml:space="preserve">
-    <value>Ortaggi in spagnolo: somiglianze e differenze con i nomi inglesi</value>
+  <data name="send" xml:space="preserve">
+    <value>Send</value>
   </data>
 </root>

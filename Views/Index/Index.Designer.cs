@@ -304,6 +304,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Contact.
+        /// </summary>
+        public static string IndContact {
+            get {
+                return ResourceManager.GetString("IndContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You are already subscribed.
         /// </summary>
         public static string IndexAlreadySubscribed {
