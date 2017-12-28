@@ -176,5 +176,14 @@ namespace Resources.Articles {
                 return ResourceManager.GetString("VegetablesTitle", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Was vs were.
+        /// </summary>
+        public static string WasWere {
+            get {
+                return ResourceManager.GetString("WasWere", resourceCulture);
+            }
+        }
     }
 }

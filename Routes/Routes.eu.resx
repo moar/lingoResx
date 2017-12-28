@@ -303,4 +303,10 @@
   <data name="english-basic-words" xml:space="preserve">
     <value>hizkuntzak-ikasi/ingelesa/hitzak/</value>
   </data>
+  <data name="was-y-were" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/was-eta-were/</value>
+  </data>
+  <data name="teachonline" xml:space="preserve">
+    <value>hizkuntzak-irakatsi-sarean</value>
+  </data>
 </root>

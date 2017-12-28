@@ -294,4 +294,10 @@
   <data name="english-basic-words" xml:space="preserve">
     <value>aprendre-idiomes/angles/paraules/</value>
   </data>
+  <data name="was-y-were" xml:space="preserve">
+    <value>aprendre-idiomes/angles/was-i-were/</value>
+  </data>
+  <data name="teachonline" xml:space="preserve">
+    <value>ensenyar-idiomes-online</value>
+  </data>
 </root>

@@ -246,4 +246,10 @@
   <data name="MainContactDesc" xml:space="preserve">
     <value>Do you want to send us a message? Contact us using this form.</value>
   </data>
+  <data name="IndexTeachersTitle" xml:space="preserve">
+    <value>Become a language teacher | Langademy</value>
+  </data>
+  <data name="IndexTeachersDescription" xml:space="preserve">
+    <value>If you want to teach languages online, apply for a position at Langademy. Work from home and whenever you want.</value>
+  </data>
 </root>

@@ -300,4 +300,10 @@
   <data name="english-basic-words" xml:space="preserve">
     <value>imparare-lingue/inglese/parole/</value>
   </data>
+  <data name="was-y-were" xml:space="preserve">
+    <value>imparare-lingue/inglese/was-e-were/</value>
+  </data>
+  <data name="teachonline" xml:space="preserve">
+    <value>insegnare lingue-online</value>
+  </data>
 </root>

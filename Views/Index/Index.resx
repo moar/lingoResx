@@ -131,7 +131,7 @@
 </value>
   </data>
   <data name="IndRegister" xml:space="preserve">
-    <value>Register</value>
+    <value>Sign up now</value>
   </data>
   <data name="IndTerms" xml:space="preserve">
     <value>Terms and Conditions</value>
@@ -297,5 +297,8 @@
   </data>
   <data name="IndContact" xml:space="preserve">
     <value>Contact</value>
+  </data>
+  <data name="LandTeacherTitle" xml:space="preserve">
+    <value>Become an &lt;strong&gt;online language teacher&lt;/strong&gt;</value>
   </data>
 </root>

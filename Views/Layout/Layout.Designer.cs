@@ -196,6 +196,24 @@ namespace Resources.Views.Layout {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If you want to teach languages online, apply for a position at Langademy. Work from home and whenever you want..
+        /// </summary>
+        public static string IndexTeachersDescription {
+            get {
+                return ResourceManager.GetString("IndexTeachersDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Become a language teacher | Langademy.
+        /// </summary>
+        public static string IndexTeachersTitle {
+            get {
+                return ResourceManager.GetString("IndexTeachersTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy, learn languages, language exchange, become fluent, practice english, practice spanish, practice languages, native speakers, improve language level.
         /// </summary>
         public static string Keywords {

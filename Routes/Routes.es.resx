@@ -309,4 +309,10 @@
   <data name="english-basic-words" xml:space="preserve">
     <value>aprender-idiomas/ingles/palabras/</value>
   </data>
+  <data name="was-y-were" xml:space="preserve">
+    <value>aprender-idiomas/ingles/was-were/</value>
+  </data>
+  <data name="teachonline" xml:space="preserve">
+    <value>profesor-en-linea-idiomas</value>
+  </data>
 </root>
