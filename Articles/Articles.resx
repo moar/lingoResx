@@ -147,11 +147,17 @@
   <data name="LearnEnglishTips" xml:space="preserve">
     <value>How to learn English in 3 easy steps</value>
   </data>
+  <data name="PersonalPronouns" xml:space="preserve">
+    <value>English personal pronouns</value>
+  </data>
   <data name="SpanishTongueTwistersTitle" xml:space="preserve">
     <value>Spanish Tongue Twisters</value>
   </data>
   <data name="StudySpanish" xml:space="preserve">
     <value>Study Spanish</value>
+  </data>
+  <data name="TeachSpanish" xml:space="preserve">
+    <value>10 tips to teach Spanish online to foreigners</value>
   </data>
   <data name="VegetablesTitle" xml:space="preserve">
     <value>Vegetables in Spanish: similarities and differences with English names</value>

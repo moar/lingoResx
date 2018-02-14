@@ -133,6 +133,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/personal-pronouns.
+        /// </summary>
+        public static string english_personal_pronouns {
+            get {
+                return ResourceManager.GetString("english-personal-pronouns", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to online-language-exchange/topics/.
         /// </summary>
         public static string exchange_topics {
@@ -561,6 +570,15 @@ namespace Resources.Routes {
         public static string search_language_students {
             get {
                 return ResourceManager.GetString("search-language-students", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to teach-online/spanish/.
+        /// </summary>
+        public static string teach_spanish {
+            get {
+                return ResourceManager.GetString("teach-spanish", resourceCulture);
             }
         }
         

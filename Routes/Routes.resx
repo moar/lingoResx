@@ -315,4 +315,10 @@
   <data name="teachonline" xml:space="preserve">
     <value>teach-languages-online</value>
   </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>teach-online/spanish/</value>
+  </data>
+  <data name="english-personal-pronouns" xml:space="preserve">
+    <value>learn-languages/english/personal-pronouns</value>
+  </data>
 </root>

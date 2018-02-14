@@ -315,4 +315,10 @@
   <data name="teachonline" xml:space="preserve">
     <value>profesor-en-linea-idiomas</value>
   </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>profesor-en-linea-idiomas/espanol/</value>
+  </data>
+  <data name="english-personal-pronouns" xml:space="preserve">
+    <value>aprender-idiomas/ingles/pronombres-personales/</value>
+  </data>
 </root>

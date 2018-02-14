@@ -300,4 +300,7 @@
   <data name="teachonline" xml:space="preserve">
     <value>ensenyar-idiomes-online</value>
   </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>ensenyar-idiomes-online/espanyol/</value>
+  </data>
 </root>

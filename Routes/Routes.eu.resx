@@ -309,4 +309,7 @@
   <data name="teachonline" xml:space="preserve">
     <value>hizkuntzak-irakatsi-sarean</value>
   </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>hizkuntzak-irakatsi-sarean/gaztelania/</value>
+  </data>
 </root>

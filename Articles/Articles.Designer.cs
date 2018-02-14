@@ -151,6 +151,15 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to English personal pronouns.
+        /// </summary>
+        public static string PersonalPronouns {
+            get {
+                return ResourceManager.GetString("PersonalPronouns", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Spanish Tongue Twisters.
         /// </summary>
         public static string SpanishTongueTwistersTitle {
@@ -165,6 +174,15 @@ namespace Resources.Articles {
         public static string StudySpanish {
             get {
                 return ResourceManager.GetString("StudySpanish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 10 tips to teach Spanish online to foreigners.
+        /// </summary>
+        public static string TeachSpanish {
+            get {
+                return ResourceManager.GetString("TeachSpanish", resourceCulture);
             }
         }
         

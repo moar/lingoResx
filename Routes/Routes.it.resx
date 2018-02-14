@@ -304,6 +304,9 @@
     <value>imparare-lingue/inglese/was-e-were/</value>
   </data>
   <data name="teachonline" xml:space="preserve">
-    <value>insegnare lingue-online</value>
+    <value>insegnare-lingue-online</value>
+  </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>insegnare-lingue-online/spagnolo/</value>
   </data>
 </root>
