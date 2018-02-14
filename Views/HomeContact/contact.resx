@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,52 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BestYoutubeChannels" xml:space="preserve">
-    <value>Best 7 Youtube Channels to Learn English</value>
+  <data name="CaptchaFail" xml:space="preserve">
+    <value>Captcha validation failed</value>
   </data>
-  <data name="EnglishAlphabetTitle" xml:space="preserve">
-    <value>English alphabet and pronunciation</value>
+  <data name="enterEmail" xml:space="preserve">
+    <value>Enter your email</value>
   </data>
-  <data name="EnglishConversationsTitle" xml:space="preserve">
-    <value>English conversations</value>
+  <data name="enterMessage" xml:space="preserve">
+    <value>Enter your message</value>
   </data>
-  <data name="EnglishWordsTitle" xml:space="preserve">
-    <value>700 basic words to communicate in English</value>
+  <data name="MessageSent" xml:space="preserve">
+    <value>Your message was sent correctly. We will give you an answer as soon as possible.</value>
   </data>
-  <data name="ExchangeTopics" xml:space="preserve">
-    <value>10 ideas for language exchanges</value>
-  </data>
-  <data name="HowToHaveExchangesTitle" xml:space="preserve">
-    <value>How to have a language exchange</value>
-  </data>
-  <data name="ImproveEngPronunTitle" xml:space="preserve">
-    <value>How to improve english pronunciation</value>
-  </data>
-  <data name="LearnEnglish" xml:space="preserve">
-    <value>Learn English</value>
-  </data>
-  <data name="LearnEnglishQuicklyTitle" xml:space="preserve">
-    <value>How to learn english quickly</value>
-  </data>
-  <data name="LearnEnglishTips" xml:space="preserve">
-    <value>How to learn English in 3 easy steps</value>
-  </data>
-  <data name="PersonalPronouns" xml:space="preserve">
-    <value>English personal pronouns</value>
-  </data>
-  <data name="SpanishTongueTwistersTitle" xml:space="preserve">
-    <value>Spanish Tongue Twisters</value>
-  </data>
-  <data name="StudySpanish" xml:space="preserve">
-    <value>Study Spanish</value>
-  </data>
-  <data name="TeachSpanish" xml:space="preserve">
-    <value>10 tips to teach Spanish online to foreigners</value>
-  </data>
-  <data name="VegetablesTitle" xml:space="preserve">
-    <value>Vegetables in Spanish: similarities and differences with English names</value>
-  </data>
-  <data name="WasWere" xml:space="preserve">
-    <value>Was vs were</value>
+  <data name="send" xml:space="preserve">
+    <value>Send</value>
   </data>
 </root>

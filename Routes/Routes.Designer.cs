@@ -61,6 +61,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/best-youtube-channels/.
+        /// </summary>
+        public static string best_youtube_channels {
+            get {
+                return ResourceManager.GetString("best-youtube-channels", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to language/{selectedCulture}/.
         /// </summary>
         public static string bloglanguage {
@@ -106,11 +115,38 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/improve-pronunciation/alphabet/.
+        /// </summary>
+        public static string english_alphabet {
+            get {
+                return ResourceManager.GetString("english-alphabet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/basic-words/.
+        /// </summary>
+        public static string english_basic_words {
+            get {
+                return ResourceManager.GetString("english-basic-words", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to english-conversations.
         /// </summary>
         public static string english_conversations {
             get {
                 return ResourceManager.GetString("english-conversations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/personal-pronouns.
+        /// </summary>
+        public static string english_personal_pronouns {
+            get {
+                return ResourceManager.GetString("english-personal-pronouns", resourceCulture);
             }
         }
         
@@ -174,6 +210,15 @@ namespace Resources.Routes {
         public static string how_learn_english_online {
             get {
                 return ResourceManager.GetString("how-learn-english-online", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/how-to-tips/.
+        /// </summary>
+        public static string how_learn_english_tips {
+            get {
+                return ResourceManager.GetString("how-learn-english-tips", resourceCulture);
             }
         }
         
@@ -309,6 +354,15 @@ namespace Resources.Routes {
         public static string learn_english_improve_pronunciation {
             get {
                 return ResourceManager.GetString("learn-english-improve-pronunciation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/.
+        /// </summary>
+        public static string learn_english_index {
+            get {
+                return ResourceManager.GetString("learn-english-index", resourceCulture);
             }
         }
         
@@ -529,6 +583,24 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to teach-online/spanish/.
+        /// </summary>
+        public static string teach_spanish {
+            get {
+                return ResourceManager.GetString("teach-spanish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to teach-languages-online.
+        /// </summary>
+        public static string teachonline {
+            get {
+                return ResourceManager.GetString("teachonline", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to teachers/{username}/.
         /// </summary>
         public static string teacherprofile {
@@ -597,6 +669,15 @@ namespace Resources.Routes {
         public static string wallet_withdrawals {
             get {
                 return ResourceManager.GetString("wallet-withdrawals", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to learn-languages/english/was-vs-were/.
+        /// </summary>
+        public static string was_y_were {
+            get {
+                return ResourceManager.GetString("was-y-were", resourceCulture);
             }
         }
         

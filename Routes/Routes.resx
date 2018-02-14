@@ -294,6 +294,33 @@
   <data name="how-learn-english-online" xml:space="preserve">
     <value>learn-languages/english/how-to-online/</value>
   </data>
+  <data name="learn-english-index" xml:space="preserve">
+    <value>learn-languages/english/</value>
+  </data>
+  <data name="how-learn-english-tips" xml:space="preserve">
+    <value>learn-languages/english/how-to-tips/</value>
+  </data>
+  <data name="best-youtube-channels" xml:space="preserve">
+    <value>learn-languages/english/best-youtube-channels/</value>
+  </data>
+  <data name="english-alphabet" xml:space="preserve">
+    <value>learn-languages/english/improve-pronunciation/alphabet/</value>
+  </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>learn-languages/english/basic-words/</value>
+  </data>
+  <data name="was-y-were" xml:space="preserve">
+    <value>learn-languages/english/was-vs-were/</value>
+  </data>
+  <data name="teachonline" xml:space="preserve">
+    <value>teach-languages-online</value>
+  </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>teach-online/spanish/</value>
+  </data>
+  <data name="english-personal-pronouns" xml:space="preserve">
+    <value>learn-languages/english/personal-pronouns</value>
+  </data>
   <data name="booklessons" xml:space="preserve">
     <value>teachers/{username}/book-{langname}-lessons/</value>
   </data>

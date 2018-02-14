@@ -286,13 +286,40 @@
     <value>aprender-idiomas/espanol/trabalenguas/</value>
   </data>
   <data name="learn-languages-spanish" xml:space="preserve">
-    <value>aprender-idiomas/español/</value>
+    <value>aprender-idiomas/espanol/</value>
   </data>
   <data name="exchange-topics" xml:space="preserve">
     <value>intercambio-de-idiomas-online/temas/</value>
   </data>
   <data name="how-learn-english-online" xml:space="preserve">
     <value>aprender-idiomas/ingles/como-aprender-online/</value>
+  </data>
+  <data name="learn-english-index" xml:space="preserve">
+    <value>aprender-idiomas/ingles/</value>
+  </data>
+  <data name="how-learn-english-tips" xml:space="preserve">
+    <value>aprender-idiomas/ingles/como-trucos/</value>
+  </data>
+  <data name="best-youtube-channels" xml:space="preserve">
+    <value>aprender-idiomas/ingles/mejores-canales-youtube/</value>
+  </data>
+  <data name="english-alphabet" xml:space="preserve">
+    <value>aprender-idiomas/ingles/como-mejorar-pronunciacion/alfabeto/</value>
+  </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>aprender-idiomas/ingles/palabras/</value>
+  </data>
+  <data name="was-y-were" xml:space="preserve">
+    <value>aprender-idiomas/ingles/was-were/</value>
+  </data>
+  <data name="teachonline" xml:space="preserve">
+    <value>profesor-en-linea-idiomas</value>
+  </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>profesor-en-linea-idiomas/espanol/</value>
+  </data>
+  <data name="english-personal-pronouns" xml:space="preserve">
+    <value>aprender-idiomas/ingles/pronombres-personales/</value>
   </data>
   <data name="booklessons" xml:space="preserve">
     <value>profesores/{username}/reservar-clases-{langname}/</value>

@@ -133,4 +133,7 @@
   <data name="MyCalendar" xml:space="preserve">
     <value>Il mio calendario</value>
   </data>
+  <data name="MCLegendTimeBank" xml:space="preserve">
+    <value>Scambi di lingue</value>
+  </data>
 </root>

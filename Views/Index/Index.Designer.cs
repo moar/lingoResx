@@ -304,6 +304,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Contact.
+        /// </summary>
+        public static string IndContact {
+            get {
+                return ResourceManager.GetString("IndContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You are already subscribed.
         /// </summary>
         public static string IndexAlreadySubscribed {
@@ -413,7 +422,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Register.
+        ///   Looks up a localized string similar to Sign up now.
         /// </summary>
         public static string IndRegister {
             get {
@@ -580,6 +589,15 @@ namespace Resources.Views.Index {
         public static string LandTabTeachers {
             get {
                 return ResourceManager.GetString("LandTabTeachers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Become an &lt;strong&gt;online language teacher&lt;/strong&gt;.
+        /// </summary>
+        public static string LandTeacherTitle {
+            get {
+                return ResourceManager.GetString("LandTeacherTitle", resourceCulture);
             }
         }
         

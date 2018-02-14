@@ -117,8 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
-  
   <data name="AvailabilityRequests" xml:space="preserve">
     <value>Someone wants to now when you will be available</value>
   </data>
@@ -163,6 +161,12 @@
   </data>
   <data name="PublicMeetupAlert" xml:space="preserve">
     <value>You have a meetup scheduled for today</value>
+  </data>
+  <data name="TeacherRequestAccepted" xml:space="preserve">
+    <value>You have been accepted as a teacher</value>
+  </data>
+  <data name="TeacherRequestDenied" xml:space="preserve">
+    <value>You have not been accepted as a teacher</value>
   </data>
   <data name="VisitReminder" xml:space="preserve">
     <value>We miss you!</value>

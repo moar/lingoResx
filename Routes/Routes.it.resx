@@ -285,4 +285,28 @@
   <data name="how-learn-english-online" xml:space="preserve">
     <value>imparare-lingue/inglese/come-imparare-online/</value>
   </data>
+  <data name="learn-english-index" xml:space="preserve">
+    <value>imparare-lingue/inglese/</value>
+  </data>
+  <data name="how-learn-english-tips" xml:space="preserve">
+    <value>imparare-lingue/inglese/come-tips/</value>
+  </data>
+  <data name="best-youtube-channels" xml:space="preserve">
+    <value>imparare-lingue/inglese/i-migliori-canali-youtube/</value>
+  </data>
+  <data name="english-alphabet" xml:space="preserve">
+    <value>imparare-lingue/inglese/migliorare-la-pronuncia/alfabeto/</value>
+  </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>imparare-lingue/inglese/parole/</value>
+  </data>
+  <data name="was-y-were" xml:space="preserve">
+    <value>imparare-lingue/inglese/was-e-were/</value>
+  </data>
+  <data name="teachonline" xml:space="preserve">
+    <value>insegnare-lingue-online</value>
+  </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>insegnare-lingue-online/spagnolo/</value>
+  </data>
 </root>

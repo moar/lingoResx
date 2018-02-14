@@ -61,11 +61,38 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Best 7 Youtube Channels to Learn English.
+        /// </summary>
+        public static string BestYoutubeChannels {
+            get {
+                return ResourceManager.GetString("BestYoutubeChannels", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English alphabet and pronunciation.
+        /// </summary>
+        public static string EnglishAlphabetTitle {
+            get {
+                return ResourceManager.GetString("EnglishAlphabetTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to English conversations.
         /// </summary>
         public static string EnglishConversationsTitle {
             get {
                 return ResourceManager.GetString("EnglishConversationsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 700 basic words to communicate in English.
+        /// </summary>
+        public static string EnglishWordsTitle {
+            get {
+                return ResourceManager.GetString("EnglishWordsTitle", resourceCulture);
             }
         }
         
@@ -97,11 +124,38 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Learn English.
+        /// </summary>
+        public static string LearnEnglish {
+            get {
+                return ResourceManager.GetString("LearnEnglish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to How to learn english quickly.
         /// </summary>
         public static string LearnEnglishQuicklyTitle {
             get {
                 return ResourceManager.GetString("LearnEnglishQuicklyTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to learn English in 3 easy steps.
+        /// </summary>
+        public static string LearnEnglishTips {
+            get {
+                return ResourceManager.GetString("LearnEnglishTips", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English personal pronouns.
+        /// </summary>
+        public static string PersonalPronouns {
+            get {
+                return ResourceManager.GetString("PersonalPronouns", resourceCulture);
             }
         }
         
@@ -124,11 +178,29 @@ namespace Resources.Articles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 10 tips to teach Spanish online to foreigners.
+        /// </summary>
+        public static string TeachSpanish {
+            get {
+                return ResourceManager.GetString("TeachSpanish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Vegetables in Spanish: similarities and differences with English names.
         /// </summary>
         public static string VegetablesTitle {
             get {
                 return ResourceManager.GetString("VegetablesTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Was vs were.
+        /// </summary>
+        public static string WasWere {
+            get {
+                return ResourceManager.GetString("WasWere", resourceCulture);
             }
         }
     }

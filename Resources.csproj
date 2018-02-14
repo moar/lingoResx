@@ -349,6 +349,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Help.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\HomeContact\contact.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>contact.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\HoursBag\HoursBag.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -546,6 +551,7 @@
       <LastGenOutput>Apps1.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Articles\Articles.es.resx" />
+    <EmbeddedResource Include="Articles\Articles.it.resx" />
     <EmbeddedResource Include="Articles\Articles.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Articles.Designer.cs</LastGenOutput>
@@ -734,7 +740,9 @@
       <LastGenOutput>Scopes.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="JSMessages\JSMessages.ca.resx" />
-    <EmbeddedResource Include="JSMessages\JSMessages.es.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="JSMessages\JSMessages.eu.resx" />
     <EmbeddedResource Include="JSMessages\JSMessages.it.resx" />
     <EmbeddedResource Include="JSMessages\JSMessages.resx">
@@ -813,7 +821,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Routes\Routes.eu.resx" />
     <EmbeddedResource Include="Routes\Routes.fr.resx" />
-    <EmbeddedResource Include="Routes\Routes.it.resx" />
+    <EmbeddedResource Include="Routes\Routes.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Routes\Routes.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Routes.Designer.cs</LastGenOutput>
@@ -1033,6 +1043,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Help.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\HomeContact\contact.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>contact.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\HoursBag\HoursBag.ca.resx" />
     <EmbeddedResource Include="Views\HoursBag\HoursBag.de.resx" />
@@ -1410,6 +1424,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="NewFolder1\" />
+    <Folder Include="Views\NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

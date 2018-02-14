@@ -133,4 +133,10 @@
   <data name="MyCalendar" xml:space="preserve">
     <value>Nire egutegia</value>
   </data>
+  <data name="MCLegendTimeBank" xml:space="preserve">
+    <value>Hizkuntza elkartrukeak</value>
+  </data>
+  <data name="MCLegendWallet" xml:space="preserve">
+    <value>Wallet dei informalak</value>
+  </data>
 </root>

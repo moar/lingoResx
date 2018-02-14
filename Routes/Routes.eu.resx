@@ -136,7 +136,7 @@
     <value>laguntza/nola-bilatu-mintzalagunak</value>
   </data>
   <data name="how-to-request-private-conversation" xml:space="preserve">
-    <value>laguntza/nola-konbertsazio-pribatu-eskeriak-mintzalagunei</value>
+    <value>laguntza/nola-konbertsazio-pribatu-eskariak-mintzalagunei</value>
   </data>
   <data name="how-to-set-availability" xml:space="preserve">
     <value>laguntza/nola-ezarri-eskuragarritasuna</value>
@@ -287,5 +287,29 @@
   </data>
   <data name="how-learn-english-online" xml:space="preserve">
     <value>hizkuntzak-ikasi/gaztelera/nola-ikasi-online/</value>
+  </data>
+  <data name="learn-english-index" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/</value>
+  </data>
+  <data name="how-learn-english-tips" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/nola-ikasi/</value>
+  </data>
+  <data name="best-youtube-channels" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/youtubeko-kanal-onenak/</value>
+  </data>
+  <data name="english-alphabet" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/hobetu-ahozkoa/alfabetoa/</value>
+  </data>
+  <data name="english-basic-words" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/hitzak/</value>
+  </data>
+  <data name="was-y-were" xml:space="preserve">
+    <value>hizkuntzak-ikasi/ingelesa/was-eta-were/</value>
+  </data>
+  <data name="teachonline" xml:space="preserve">
+    <value>hizkuntzak-irakatsi-sarean</value>
+  </data>
+  <data name="teach-spanish" xml:space="preserve">
+    <value>hizkuntzak-irakatsi-sarean/gaztelania/</value>
   </data>
 </root>

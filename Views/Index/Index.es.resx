@@ -294,4 +294,7 @@
   <data name="LandPartnersWantConver" xml:space="preserve">
     <value>Quiero tener una conversación en</value>
   </data>
+  <data name="LandTeacherTitle" xml:space="preserve">
+    <value>Conviértete en &lt;strong&gt;profesor de idiomas online&lt;/strong&gt;</value>
+  </data>
 </root>

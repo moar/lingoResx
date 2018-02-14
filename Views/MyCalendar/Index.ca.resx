@@ -133,4 +133,10 @@
   <data name="MyCalendar" xml:space="preserve">
     <value>El meu calendari</value>
   </data>
+  <data name="MCLegendTimeBank" xml:space="preserve">
+    <value>Intercanvi d'idiomes</value>
+  </data>
+  <data name="MCLegendWallet" xml:space="preserve">
+    <value>Trucades Wallet informals</value>
+  </data>
 </root>
