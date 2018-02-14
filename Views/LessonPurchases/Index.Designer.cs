@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Resources.Views.TeacherFinances {
+namespace Resources.Views.LessonPurchases {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Resources.Views.TeacherFinances {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.TeacherFinances.Index", typeof(Index).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.LessonPurchases.Index", typeof(Index).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,83 +61,101 @@ namespace Resources.Views.TeacherFinances {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Student.
+        ///   Looks up a localized string similar to All purchases.
         /// </summary>
-        public static string CustomerColumn {
+        public static string AllPurchases {
             get {
-                return ResourceManager.GetString("CustomerColumn", resourceCulture);
+                return ResourceManager.GetString("AllPurchases", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expenses.
+        ///   Looks up a localized string similar to Cancel purchase.
         /// </summary>
-        public static string Expenses {
+        public static string CancelPurchase {
             get {
-                return ResourceManager.GetString("Expenses", resourceCulture);
+                return ResourceManager.GetString("CancelPurchase", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Incomes.
+        ///   Looks up a localized string similar to Your request has been succesfully processed.
         /// </summary>
-        public static string Incomes {
+        public static string LessonPurchaseActionProcessed {
             get {
-                return ResourceManager.GetString("Incomes", resourceCulture);
+                return ResourceManager.GetString("LessonPurchaseActionProcessed", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Merchant.
+        ///   Looks up a localized string similar to Your request is being processed. Please, wait....
         /// </summary>
-        public static string MerchantColumn {
+        public static string LessonPurchaseActionProcessing {
             get {
-                return ResourceManager.GetString("MerchantColumn", resourceCulture);
+                return ResourceManager.GetString("LessonPurchaseActionProcessing", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are not expenses in this period.
+        ///   Looks up a localized string similar to Lesson purchases.
         /// </summary>
-        public static string NoExpenses {
+        public static string LessonPurchasesTitle {
             get {
-                return ResourceManager.GetString("NoExpenses", resourceCulture);
+                return ResourceManager.GetString("LessonPurchasesTitle", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are not incomes in this period.
+        ///   Looks up a localized string similar to You haven&apos;t purchased any lessons.
         /// </summary>
-        public static string NoIncomes {
+        public static string NoPurchases {
             get {
-                return ResourceManager.GetString("NoIncomes", resourceCulture);
+                return ResourceManager.GetString("NoPurchases", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Finances.
+        ///   Looks up a localized string similar to You cannot cancel your purchase while lesson scheduling operations are in progress.
         /// </summary>
-        public static string TeacherFinancesTitle {
+        public static string PendingSchOpsCancelPError {
             get {
-                return ResourceManager.GetString("TeacherFinancesTitle", resourceCulture);
+                return ResourceManager.GetString("PendingSchOpsCancelPError", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Total.
+        ///   Looks up a localized string similar to You cancelled the purchase.
         /// </summary>
-        public static string Total {
+        public static string PurchaseCancelledByYou {
             get {
-                return ResourceManager.GetString("Total", resourceCulture);
+                return ResourceManager.GetString("PurchaseCancelledByYou", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to View sale.
+        ///   Looks up a localized string similar to The teacher confirmed your purchase.
         /// </summary>
-        public static string ViewSale {
+        public static string PurchaseConfirmedByTeacher {
             get {
-                return ResourceManager.GetString("ViewSale", resourceCulture);
+                return ResourceManager.GetString("PurchaseConfirmedByTeacher", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchase date.
+        /// </summary>
+        public static string PurchaseDate {
+            get {
+                return ResourceManager.GetString("PurchaseDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher rejected your purchase.
+        /// </summary>
+        public static string PurchaseRejectedByTeacher {
+            get {
+                return ResourceManager.GetString("PurchaseRejectedByTeacher", resourceCulture);
             }
         }
     }

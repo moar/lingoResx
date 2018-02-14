@@ -117,64 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Advanced" xml:space="preserve">
-    <value>Advanced</value>
+  <data name="AllPurchases" xml:space="preserve">
+    <value>All purchases</value>
   </data>
-  <data name="Age" xml:space="preserve">
-    <value>Age</value>
+  <data name="CancelPurchase" xml:space="preserve">
+    <value>Cancel purchase</value>
   </data>
-  <data name="BirthDate" xml:space="preserve">
-    <value>Birth Date</value>
+  <data name="LessonPurchaseActionProcessed" xml:space="preserve">
+    <value>Your request has been succesfully processed</value>
   </data>
-  <data name="Country" xml:space="preserve">
-    <value>Country</value>
+  <data name="LessonPurchaseActionProcessing" xml:space="preserve">
+    <value>Your request is being processed. Please, wait...</value>
   </data>
-  <data name="CountryOfOrigin" xml:space="preserve">
-    <value>Country of origin</value>
+  <data name="LessonPurchasesTitle" xml:space="preserve">
+    <value>Lesson purchases</value>
   </data>
-  <data name="Email" xml:space="preserve">
-    <value>e-mail</value>
+  <data name="NoPurchases" xml:space="preserve">
+    <value>You haven't purchased any lessons</value>
   </data>
-  <data name="Female" xml:space="preserve">
-    <value>Female</value>
+  <data name="PendingSchOpsCancelPError" xml:space="preserve">
+    <value>You cannot cancel your purchase while lesson scheduling operations are in progress</value>
   </data>
-  <data name="Gender" xml:space="preserve">
-    <value>Gender</value>
+  <data name="PurchaseCancelledByYou" xml:space="preserve">
+    <value>You cancelled the purchase</value>
   </data>
-  <data name="Intermediate" xml:space="preserve">
-    <value>Intermediate</value>
+  <data name="PurchaseConfirmedByTeacher" xml:space="preserve">
+    <value>The teacher confirmed your purchase</value>
   </data>
-  <data name="Language" xml:space="preserve">
-    <value>Language</value>
+  <data name="PurchaseDate" xml:space="preserve">
+    <value>Purchase date</value>
   </data>
-  <data name="Lastname" xml:space="preserve">
-    <value>Last Name</value>
-  </data>
-  <data name="Level" xml:space="preserve">
-    <value>Level</value>
-  </data>
-  <data name="Male" xml:space="preserve">
-    <value>Male</value>
-  </data>
-  <data name="MinAge" xml:space="preserve">
-    <value>Currently, only users older than 16 years may register in Langademy</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Name</value>
-  </data>
-  <data name="NameLength" xml:space="preserve">
-    <value>Your name must be at least {2} characters long and shorter than {1} characters</value>
-  </data>
-  <data name="Native" xml:space="preserve">
-    <value>Native</value>
-  </data>
-  <data name="NativeLanguage" xml:space="preserve">
-    <value>Native language</value>
-  </data>
-  <data name="ReqName" xml:space="preserve">
-    <value>The field name is required</value>
-  </data>
-  <data name="Surname" xml:space="preserve">
-    <value>Surname</value>
+  <data name="PurchaseRejectedByTeacher" xml:space="preserve">
+    <value>The teacher rejected your purchase</value>
   </data>
 </root>

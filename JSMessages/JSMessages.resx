@@ -418,7 +418,7 @@
     <value> Videocall</value>
   </data>
   <data name="WaitingForCamera" xml:space="preserve">
-    <value> Waiting for you to give permission to your navigator to use your camera...</value>
+    <value> Waiting for you to give permission in your browser to use your camera...</value>
   </data>
   <data name="WalletRateTitle" xml:space="preserve">
     <value> Wallet room rate</value>
@@ -503,5 +503,50 @@
   </data>
   <data name="NewAvailability" xml:space="preserve">
     <value>New availability</value>
+  </data>
+  <data name="seldateoneless" xml:space="preserve">
+    <value>Select the date of your lesson</value>
+  </data>
+  <data name="seldatepack" xml:space="preserve">
+    <value>Select at least the date of your first lesson. You can schedule the remaining ones at any time</value>
+  </data>
+  <data name="seldatepago" xml:space="preserve">
+    <value>Select the date of your lesson (minimum: 30 minutes, maximum: 2 hours)</value>
+  </data>
+  <data name="cancelunanpurchase" xml:space="preserve">
+    <value>Are you sure you want to cancel your purchase? Your credits will be refunded to your Wallet account</value>
+  </data>
+  <data name="ConfirmLessonPurchaseCancel" xml:space="preserve">
+    <value />
+  </data>
+  <data name="acceptunanpurchase" xml:space="preserve">
+    <value>Do you confirm that you accept this purchase? The scheduled lessons will be added to your calendar</value>
+  </data>
+  <data name="rejectunanpurchase" xml:space="preserve">
+    <value>Are you sure you want to reject this purchase? Make sure the student understands the reason</value>
+  </data>
+  <data name="RescheduleLesson" xml:space="preserve">
+    <value>Reschedule lesson</value>
+  </data>
+  <data name="JoiningClassroom" xml:space="preserve">
+    <value>Joining the classroom</value>
+  </data>
+  <data name="WaitingPartnerClassroom" xml:space="preserve">
+    <value>Waiting for {0} to join the classroom</value>
+  </data>
+  <data name="WaitingTo" xml:space="preserve">
+    <value>Waiting for permission to use your camera...</value>
+  </data>
+  <data name="cannotJoinClassroom" xml:space="preserve">
+    <value>There has been a problem joing the classroom. Please, refresh the page and try again. If the problem persists, please, contact us</value>
+  </data>
+  <data name="ReportIssue" xml:space="preserve">
+    <value>Report issue</value>
+  </data>
+  <data name="RequireOneErrorMsg" xml:space="preserve">
+    <value>Please check at least one box</value>
+  </data>
+  <data name="RequestMediation" xml:space="preserve">
+    <value>Request mediation</value>
   </data>
 </root>

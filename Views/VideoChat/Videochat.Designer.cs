@@ -133,6 +133,15 @@ namespace Resources.Views.VideoChat {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You cannot start a video-call because you have denied permission to use your camera and/or microphone. Please, click the camera icon in the address bar of your browser, grant permissions and refresh the page.
+        /// </summary>
+        public static string CamNotAllowed {
+            get {
+                return ResourceManager.GetString("CamNotAllowed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} and you cannot be connected due to the security level of your networks.
         /// </summary>
         public static string CannotConnect {
@@ -219,6 +228,15 @@ namespace Resources.Views.VideoChat {
         public static string PrevTime {
             get {
                 return ResourceManager.GetString("PrevTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Refresh.
+        /// </summary>
+        public static string Refresh {
+            get {
+                return ResourceManager.GetString("Refresh", resourceCulture);
             }
         }
         

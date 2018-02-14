@@ -637,6 +637,42 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Lesson collected: {0} - {1}.
+        /// </summary>
+        public static string LessonCollectedConcept {
+            get {
+                return ResourceManager.GetString("LessonCollectedConcept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} lessons purchase ({1}).
+        /// </summary>
+        public static string LessonPurchaseConcept {
+            get {
+                return ResourceManager.GetString("LessonPurchaseConcept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} lesson refund ({1}).
+        /// </summary>
+        public static string LessonRefundStudentConcept {
+            get {
+                return ResourceManager.GetString("LessonRefundStudentConcept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} lesson refund ({1}).
+        /// </summary>
+        public static string LessonRefundTeacherConcept {
+            get {
+                return ResourceManager.GetString("LessonRefundTeacherConcept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Balance.
         /// </summary>
         public static string MovBalance {
@@ -1141,6 +1177,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Refund {0} lessons purchase ({1}).
+        /// </summary>
+        public static string RefundLessonPurchaseConcept {
+            get {
+                return ResourceManager.GetString("RefundLessonPurchaseConcept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Please, enter your Langademy Account password.
         /// </summary>
         public static string ReqCashoutAccPass {
@@ -1317,6 +1362,24 @@ namespace Resources.Views.MyWallet {
         public static string SelectState {
             get {
                 return ResourceManager.GetString("SelectState", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Student.
+        /// </summary>
+        public static string StudentAccount {
+            get {
+                return ResourceManager.GetString("StudentAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Teacher.
+        /// </summary>
+        public static string TeacherAccount {
+            get {
+                return ResourceManager.GetString("TeacherAccount", resourceCulture);
             }
         }
         

@@ -160,6 +160,15 @@ namespace Resources.Exceptions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This field cannot be empty.
+        /// </summary>
+        public static string Required {
+            get {
+                return ResourceManager.GetString("Required", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Go to homepage.
         /// </summary>
         public static string ReturnHomepage {

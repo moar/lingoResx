@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Resources.Views.TeacherFinances {
+namespace Resources.Views.Teachers {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Resources.Views.TeacherFinances {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.TeacherFinances.Index", typeof(Index).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.Teachers.Index", typeof(Index).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,83 +61,110 @@ namespace Resources.Views.TeacherFinances {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Student.
+        ///   Looks up a localized string similar to About me.
         /// </summary>
-        public static string CustomerColumn {
+        public static string AboutMe {
             get {
-                return ResourceManager.GetString("CustomerColumn", resourceCulture);
+                return ResourceManager.GetString("AboutMe", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expenses.
+        ///   Looks up a localized string similar to Find a teacher.
         /// </summary>
-        public static string Expenses {
+        public static string FindTeacherTitle {
             get {
-                return ResourceManager.GetString("Expenses", resourceCulture);
+                return ResourceManager.GetString("FindTeacherTitle", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Incomes.
+        ///   Looks up a localized string similar to From.
         /// </summary>
-        public static string Incomes {
+        public static string From {
             get {
-                return ResourceManager.GetString("Incomes", resourceCulture);
+                return ResourceManager.GetString("From", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Merchant.
+        ///   Looks up a localized string similar to lessons.
         /// </summary>
-        public static string MerchantColumn {
+        public static string Lessons {
             get {
-                return ResourceManager.GetString("MerchantColumn", resourceCulture);
+                return ResourceManager.GetString("Lessons", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are not expenses in this period.
+        ///   Looks up a localized string similar to living in {0}.
         /// </summary>
-        public static string NoExpenses {
+        public static string LivingIn {
             get {
-                return ResourceManager.GetString("NoExpenses", resourceCulture);
+                return ResourceManager.GetString("LivingIn", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are not incomes in this period.
+        ///   Looks up a localized string similar to New teacher.
         /// </summary>
-        public static string NoIncomes {
+        public static string NewTeacher {
             get {
-                return ResourceManager.GetString("NoIncomes", resourceCulture);
+                return ResourceManager.GetString("NewTeacher", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Finances.
+        ///   Looks up a localized string similar to Ratings.
         /// </summary>
-        public static string TeacherFinancesTitle {
+        public static string Ratings {
             get {
-                return ResourceManager.GetString("TeacherFinancesTitle", resourceCulture);
+                return ResourceManager.GetString("Ratings", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Total.
+        ///   Looks up a localized string similar to Speaks.
         /// </summary>
-        public static string Total {
+        public static string Speaks {
             get {
-                return ResourceManager.GetString("Total", resourceCulture);
+                return ResourceManager.GetString("Speaks", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to View sale.
+        ///   Looks up a localized string similar to Choose in the filter the options that fit your needs and visit teachers profiles.
         /// </summary>
-        public static string ViewSale {
+        public static string TeachersTip1 {
             get {
-                return ResourceManager.GetString("ViewSale", resourceCulture);
+                return ResourceManager.GetString("TeachersTip1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose teachers according to their experience, their CV, their rates and the ratings from other students.
+        /// </summary>
+        public static string TeachersTip2 {
+            get {
+                return ResourceManager.GetString("TeachersTip2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Make a lesson reservation in his/her profile. The best option for a test class is to choose the &quot;30 minutes lesson&quot; rate.
+        /// </summary>
+        public static string TeachersTip3 {
+            get {
+                return ResourceManager.GetString("TeachersTip3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Teaches.
+        /// </summary>
+        public static string Teaches {
+            get {
+                return ResourceManager.GetString("Teaches", resourceCulture);
             }
         }
     }

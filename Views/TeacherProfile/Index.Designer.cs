@@ -61,6 +61,15 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to About me.
+        /// </summary>
+        public static string AboutMe {
+            get {
+                return ResourceManager.GetString("AboutMe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Introduce yourself, your teaching experience and your teaching methodology.
         /// </summary>
         public static string AboutMeEmpty {
@@ -88,11 +97,83 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add language.
+        /// </summary>
+        public static string AddLanguage {
+            get {
+                return ResourceManager.GetString("AddLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add your teaching position at Langademy to your LinkedIn profile.
+        /// </summary>
+        public static string AddLinkedinTip {
+            get {
+                return ResourceManager.GetString("AddLinkedinTip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add Position.
         /// </summary>
         public static string AddPosition {
             get {
                 return ResourceManager.GetString("AddPosition", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add rates.
+        /// </summary>
+        public static string AddRates {
+            get {
+                return ResourceManager.GetString("AddRates", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add your self introduction video.
+        /// </summary>
+        public static string AddVideo {
+            get {
+                return ResourceManager.GetString("AddVideo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add link to your introduction in Youtube or Vimeo.
+        /// </summary>
+        public static string AddVideoLabel {
+            get {
+                return ResourceManager.GetString("AddVideoLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to at present.
+        /// </summary>
+        public static string AtPresent {
+            get {
+                return ResourceManager.GetString("AtPresent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Availability.
+        /// </summary>
+        public static string Availability {
+            get {
+                return ResourceManager.GetString("Availability", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Book {0} lessons.
+        /// </summary>
+        public static string BookLessons {
+            get {
+                return ResourceManager.GetString("BookLessons", resourceCulture);
             }
         }
         
@@ -196,6 +277,15 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Five lessons.
+        /// </summary>
+        public static string FiveLessonsRate {
+            get {
+                return ResourceManager.GetString("FiveLessonsRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to From.
         /// </summary>
         public static string From {
@@ -223,11 +313,146 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Full lessons (1 hour/lesson).
+        /// </summary>
+        public static string FullLessons {
+            get {
+                return ResourceManager.GetString("FullLessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I speak.
+        /// </summary>
+        public static string ISpeak {
+            get {
+                return ResourceManager.GetString("ISpeak", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} lessons.
+        /// </summary>
+        public static string LangLessons {
+            get {
+                return ResourceManager.GetString("LangLessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language of the lessons.
+        /// </summary>
+        public static string LanguageOfLessons {
+            get {
+                return ResourceManager.GetString("LanguageOfLessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Max length: {0} characters.
+        /// </summary>
+        public static string MaxLengthAbout {
+            get {
+                return ResourceManager.GetString("MaxLengthAbout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New teacher.
+        /// </summary>
+        public static string NewTeacher {
+            get {
+                return ResourceManager.GetString("NewTeacher", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There aren&apos;t available ratings yet.
+        /// </summary>
+        public static string NoRatings {
+            get {
+                return ResourceManager.GetString("NoRatings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You haven&apos;t received any ratings yet.
         /// </summary>
         public static string NoRatingsEditor {
             get {
                 return ResourceManager.GetString("NoRatingsEditor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1 hour lessons.
+        /// </summary>
+        public static string OneHourLessons {
+            get {
+                return ResourceManager.GetString("OneHourLessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1 lesson.
+        /// </summary>
+        public static string OneLesson {
+            get {
+                return ResourceManager.GetString("OneLesson", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rate per hour for purchasing 1 lesson.
+        /// </summary>
+        public static string OneLessonLong {
+            get {
+                return ResourceManager.GetString("OneLessonLong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to One lesson.
+        /// </summary>
+        public static string OneLessonRate {
+            get {
+                return ResourceManager.GetString("OneLessonRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pay as you go.
+        /// </summary>
+        public static string PayAsYouGo {
+            get {
+                return ResourceManager.GetString("PayAsYouGo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pay as you go rate (Rate/hour).
+        /// </summary>
+        public static string PayAsYouGoLong {
+            get {
+                return ResourceManager.GetString("PayAsYouGoLong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pay as you go.
+        /// </summary>
+        public static string PayAsYouGoRate {
+            get {
+                return ResourceManager.GetString("PayAsYouGoRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Personal information.
+        /// </summary>
+        public static string PersonalInformation {
+            get {
+                return ResourceManager.GetString("PersonalInformation", resourceCulture);
             }
         }
         
@@ -241,11 +466,119 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to private lessons.
+        /// </summary>
+        public static string PrivateLessons {
+            get {
+                return ResourceManager.GetString("PrivateLessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check availability and book lessons.
+        /// </summary>
+        public static string PrLessonsBookTip {
+            get {
+                return ResourceManager.GetString("PrLessonsBookTip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remember! All rates are set in Langademy credits.
+        /// </summary>
+        public static string RatesCreditsRemember {
+            get {
+                return ResourceManager.GetString("RatesCreditsRemember", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can add rates for language lessons in your native languages.
+        /// </summary>
+        public static string RatesForNativeInfo {
+            get {
+                return ResourceManager.GetString("RatesForNativeInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ratings.
+        /// </summary>
+        public static string Ratings {
+            get {
+                return ResourceManager.GetString("Ratings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to School.
         /// </summary>
         public static string School {
             get {
                 return ResourceManager.GetString("School", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Speaks.
+        /// </summary>
+        public static string Speaks {
+            get {
+                return ResourceManager.GetString("Speaks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to teaches.
+        /// </summary>
+        public static string Teaches {
+            get {
+                return ResourceManager.GetString("Teaches", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ten lessons.
+        /// </summary>
+        public static string TenLessonsRate {
+            get {
+                return ResourceManager.GetString("TenLessonsRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 30 min lessons.
+        /// </summary>
+        public static string ThirtyMinLessons {
+            get {
+                return ResourceManager.GetString("ThirtyMinLessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rate per hour for purchasing 30 minutes lessons.
+        /// </summary>
+        public static string ThirtyMinLong {
+            get {
+                return ResourceManager.GetString("ThirtyMinLong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 30 minutes lesson.
+        /// </summary>
+        public static string ThirtyMinRate {
+            get {
+                return ResourceManager.GetString("ThirtyMinRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 30 minutes.
+        /// </summary>
+        public static string ThirtyMinutesRate {
+            get {
+                return ResourceManager.GetString("ThirtyMinutesRate", resourceCulture);
             }
         }
         
@@ -264,6 +597,24 @@ namespace Resources.Views.TeacherProfile {
         public static string ToOrExpected {
             get {
                 return ResourceManager.GetString("ToOrExpected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update video.
+        /// </summary>
+        public static string UpdateVideo {
+            get {
+                return ResourceManager.GetString("UpdateVideo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Video introduction.
+        /// </summary>
+        public static string VideoIntroduction {
+            get {
+                return ResourceManager.GetString("VideoIntroduction", resourceCulture);
             }
         }
         
@@ -300,6 +651,24 @@ namespace Resources.Views.TeacherProfile {
         public static string VimeoInvalidUrl {
             get {
                 return ResourceManager.GetString("VimeoInvalidUrl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} lessons.
+        /// </summary>
+        public static string XLessons {
+            get {
+                return ResourceManager.GetString("XLessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rate per hour for purchasing {0} lessons.
+        /// </summary>
+        public static string XLessonsLong {
+            get {
+                return ResourceManager.GetString("XLessonsLong", resourceCulture);
             }
         }
         

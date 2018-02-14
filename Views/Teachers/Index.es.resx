@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,64 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Advanced" xml:space="preserve">
-    <value>Advanced</value>
+  <data name="AboutMe" xml:space="preserve">
+    <value>Sobre mi</value>
   </data>
-  <data name="Age" xml:space="preserve">
-    <value>Age</value>
+  <data name="FindTeacherTitle" xml:space="preserve">
+    <value>Encuentra un profesor</value>
   </data>
-  <data name="BirthDate" xml:space="preserve">
-    <value>Birth Date</value>
+  <data name="From" xml:space="preserve">
+    <value>De</value>
   </data>
-  <data name="Country" xml:space="preserve">
-    <value>Country</value>
+  <data name="Lessons" xml:space="preserve">
+    <value>clases</value>
   </data>
-  <data name="CountryOfOrigin" xml:space="preserve">
-    <value>Country of origin</value>
+  <data name="LivingIn" xml:space="preserve">
+    <value>vive en {0}</value>
   </data>
-  <data name="Email" xml:space="preserve">
-    <value>e-mail</value>
+  <data name="NewTeacher" xml:space="preserve">
+    <value>Profesor nuevo</value>
   </data>
-  <data name="Female" xml:space="preserve">
-    <value>Female</value>
+  <data name="Ratings" xml:space="preserve">
+    <value>Valoraciones</value>
   </data>
-  <data name="Gender" xml:space="preserve">
-    <value>Gender</value>
+  <data name="Speaks" xml:space="preserve">
+    <value>Habla</value>
   </data>
-  <data name="Intermediate" xml:space="preserve">
-    <value>Intermediate</value>
+  <data name="TeachersTip1" xml:space="preserve">
+    <value>Elige en el filtro las opciones que más se ajusten a tus necesidades y visita los perfiles de los profesores</value>
   </data>
-  <data name="Language" xml:space="preserve">
-    <value>Language</value>
+  <data name="TeachersTip2" xml:space="preserve">
+    <value>Elige un profesor según su experiencia, su curriculum, su tarifa y las valoraciones de otros alumnos</value>
   </data>
-  <data name="Lastname" xml:space="preserve">
-    <value>Last Name</value>
+  <data name="TeachersTip3" xml:space="preserve">
+    <value>Haz una reserva en su perfil para dar una clase. Para dar una clase de prueba lo mejor es que elijas la tarifa "Clase de 30 minutos"</value>
   </data>
-  <data name="Level" xml:space="preserve">
-    <value>Level</value>
-  </data>
-  <data name="Male" xml:space="preserve">
-    <value>Male</value>
-  </data>
-  <data name="MinAge" xml:space="preserve">
-    <value>Currently, only users older than 16 years may register in Langademy</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Name</value>
-  </data>
-  <data name="NameLength" xml:space="preserve">
-    <value>Your name must be at least {2} characters long and shorter than {1} characters</value>
-  </data>
-  <data name="Native" xml:space="preserve">
-    <value>Native</value>
-  </data>
-  <data name="NativeLanguage" xml:space="preserve">
-    <value>Native language</value>
-  </data>
-  <data name="ReqName" xml:space="preserve">
-    <value>The field name is required</value>
-  </data>
-  <data name="Surname" xml:space="preserve">
-    <value>Surname</value>
+  <data name="Teaches" xml:space="preserve">
+    <value>Enseña</value>
   </data>
 </root>

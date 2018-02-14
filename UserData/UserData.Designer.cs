@@ -97,6 +97,15 @@ namespace Resources.UserData {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Country of origin.
+        /// </summary>
+        public static string CountryOfOrigin {
+            get {
+                return ResourceManager.GetString("CountryOfOrigin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to e-mail.
         /// </summary>
         public static string Email {

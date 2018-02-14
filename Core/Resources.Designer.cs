@@ -61,7 +61,7 @@ namespace Resources.Core {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your account was deactivated.Do you want reactivate it? Sign in again.
+        ///   Looks up a localized string similar to Your account was deactivated.Do you want to reactivate it? Sign in again.
         /// </summary>
         public static string AccountDeactivated {
             get {

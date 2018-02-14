@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -117,4 +117,253 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AcceptRescheduleRequestConf" xml:space="preserve">
+    <value>¿Aceptas cambiar la fecha de la clase?</value>
+  </data>
+  <data name="AttendanceUnknown" xml:space="preserve">
+    <value>Asistencia no registrada</value>
+  </data>
+  <data name="BothMissedStudent" xml:space="preserve">
+    <value>El profesor y tu os perdisteis la clase</value>
+  </data>
+  <data name="BothMissedTeacher" xml:space="preserve">
+    <value>El estudiante y tu os perdisteis la clase</value>
+  </data>
+  <data name="CancelRescheduleRequestConf" xml:space="preserve">
+    <value>¿Estás seguro de que quieres cancelar tu solicitud?</value>
+  </data>
+  <data name="CancelUnscheduleRequestConf" xml:space="preserve">
+    <value>¿Estás seguro de que quieres cancelar tu solicitud?</value>
+  </data>
+  <data name="ClassTimeNow" xml:space="preserve">
+    <value>¡Hora de clase!</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>Completada</value>
+  </data>
+  <data name="LessonsTitle" xml:space="preserve">
+    <value>Programador de clases</value>
+  </data>
+  <data name="PendingTeacherConfirmation" xml:space="preserve">
+    <value>Pendiente confirmación de profesor</value>
+  </data>
+  <data name="PendingYourConfirmation" xml:space="preserve">
+    <value>Pendiente de tu confirmación</value>
+  </data>
+  <data name="RejectRescheduleRequestConf" xml:space="preserve">
+    <value>¿Rechazas la solicitud de cambiar la fecha de la clase?</value>
+  </data>
+  <data name="ReqNewDateResch" xml:space="preserve">
+    <value>Por favor, selecciona la nueva fecha de la clase</value>
+  </data>
+  <data name="Rescheduling" xml:space="preserve">
+    <value>Reprogramando</value>
+  </data>
+  <data name="Scheduled" xml:space="preserve">
+    <value>Programada</value>
+  </data>
+  <data name="StudentAcceptReschedule" xml:space="preserve">
+    <value>El estudiante aceptó reprogramar la clase</value>
+  </data>
+  <data name="StudentCancelled" xml:space="preserve">
+    <value>Cancelada por el estudiante</value>
+  </data>
+  <data name="StudentCancelledUnschedule" xml:space="preserve">
+    <value>El estudiante canceló su solicitud de desprogramar la clase</value>
+  </data>
+  <data name="StudentMissed" xml:space="preserve">
+    <value>El estudiante se perdió la clase</value>
+  </data>
+  <data name="StudentRejectedReschedule" xml:space="preserve">
+    <value>El estudiante rechazó reprogramar la clase. Fecha propuesta: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentRequestedCancel" xml:space="preserve">
+    <value>El estudiante solicitó cancelar</value>
+  </data>
+  <data name="TeacherCancelled" xml:space="preserve">
+    <value>Cancelada por el profesor</value>
+  </data>
+  <data name="TeacherCancelledReschedule" xml:space="preserve">
+    <value>El profesor canceló su solicitud de reprogramar la clase</value>
+  </data>
+  <data name="TeacherCancelledUnschedule" xml:space="preserve">
+    <value>El profesor canceló su solicitud de desprogramar la clase</value>
+  </data>
+  <data name="TeacherMissed" xml:space="preserve">
+    <value>El profesor se perdió la clase</value>
+  </data>
+  <data name="TeacherRejected" xml:space="preserve">
+    <value>Rechazada por el profesor</value>
+  </data>
+  <data name="TeacherRescheduleRequest" xml:space="preserve">
+    <value>El profesor ha solicitado reprogramar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="UnschedLessonConf" xml:space="preserve">
+    <value>¿Estás seguro de que quieres quitar la planificación de esta clase?</value>
+  </data>
+  <data name="UnschedLessonConf1" xml:space="preserve">
+    <value>¿Estás seguro de que quieres desprogramar esta clase?</value>
+  </data>
+  <data name="Unscheduled" xml:space="preserve">
+    <value>Sin programar</value>
+  </data>
+  <data name="YouAcceptedReschedule" xml:space="preserve">
+    <value>Aceptaste reprogramar la clase</value>
+  </data>
+  <data name="YouCancelled" xml:space="preserve">
+    <value>Cancelada por ti</value>
+  </data>
+  <data name="YouMissed" xml:space="preserve">
+    <value>Te perdiste la clase</value>
+  </data>
+  <data name="YouRejected" xml:space="preserve">
+    <value>Rechazada por ti</value>
+  </data>
+  <data name="YouRejectedReschedule" xml:space="preserve">
+    <value>Rechazaste reprogramar la clase. Fecha propuesta: {0} ({1} {2})</value>
+  </data>
+  <data name="YouRequestedCancel" xml:space="preserve">
+    <value>Solicitaste cancelar</value>
+  </data>
+  <data name="YouRescheduleRequest" xml:space="preserve">
+    <value>Solicitaste reprogramar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="AcceptUnscheduleRequestConf" xml:space="preserve">
+    <value>¿Aceptas la solicitud de desprogramar la clase?</value>
+  </data>
+  <data name="RejectUnscheduleRequestConf" xml:space="preserve">
+    <value>¿Rechazas la solicitud de desprogramar la clase?</value>
+  </data>
+  <data name="StudentAcceptedUnschedule" xml:space="preserve">
+    <value>El estudiante aceptó la solicitud de desprogramar la clase</value>
+  </data>
+  <data name="StudentCancelledReschedule" xml:space="preserve">
+    <value>El estudiante canceló la solicitud de reprogramar la clase</value>
+  </data>
+  <data name="StudentRejectedUnschedule" xml:space="preserve">
+    <value>El estudiante rechazó la solicitud de desprogramar la clase</value>
+  </data>
+  <data name="StudentRescheduled" xml:space="preserve">
+    <value>El estudiante ha reprogramado la clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentRescheduleRequest" xml:space="preserve">
+    <value>El estudiante ha solicitado reprogramar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentRescheduleUnsch" xml:space="preserve">
+    <value>El estudiante programó esta clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentRescheduleUnschRequest" xml:space="preserve">
+    <value>El estudiante ha solicitado reprogramar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentUnscheduled" xml:space="preserve">
+    <value>El estudiante desprogramó esta clase</value>
+  </data>
+  <data name="StudentUnscheduleRequest" xml:space="preserve">
+    <value>El estudiante ha solicitado desprogramar esta clase</value>
+  </data>
+  <data name="TeacherAcceptedReschedule" xml:space="preserve">
+    <value>El profesor aceptó reprogramar la clase</value>
+  </data>
+  <data name="TeacherAcceptedUnschedule" xml:space="preserve">
+    <value>El profesor aceptó desprogramar la clase</value>
+  </data>
+  <data name="TeacherRejectedReschedule" xml:space="preserve">
+    <value>El profesor rechazó reprogramar la clase. Fecha propuesta: {0} ({1} {2})</value>
+  </data>
+  <data name="TeacherRejectedUnschedule" xml:space="preserve">
+    <value>El profesor rechazó desprogramar la clase</value>
+  </data>
+  <data name="TeacherRescheduleUnschRequest" xml:space="preserve">
+    <value>El profesor ha solicitado programar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="TeacherUnscheduled" xml:space="preserve">
+    <value>El profesor desprogramó la clase</value>
+  </data>
+  <data name="TeacherUnscheduleRequest" xml:space="preserve">
+    <value>El profesor ha solicitado desprogramar esta clase</value>
+  </data>
+  <data name="Unscheduling" xml:space="preserve">
+    <value>Desprogramando</value>
+  </data>
+  <data name="YouAcceptedUnschedule" xml:space="preserve">
+    <value>Aceptaste desprogramar la clase</value>
+  </data>
+  <data name="YouCancelledReschedule" xml:space="preserve">
+    <value>Cancelaste tu solicitud de reprogramar la clase</value>
+  </data>
+  <data name="YouCancelledUnschedule" xml:space="preserve">
+    <value>Cancelaste tu solicitud de desprogramar la clase</value>
+  </data>
+  <data name="YouRejectedUnschedule" xml:space="preserve">
+    <value>Rechazaste desprogramar la clase</value>
+  </data>
+  <data name="YouRequestedUnschedule" xml:space="preserve">
+    <value>Has solicitado desprogramar la clase</value>
+  </data>
+  <data name="YouRescheduled" xml:space="preserve">
+    <value>Has reprogramado la clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="YouRescheduleUnschRequest" xml:space="preserve">
+    <value>Has solicitado programar esta clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
+  <data name="YouUnscheduled" xml:space="preserve">
+    <value>Desprogramaste esta clase</value>
+  </data>
+  <data name="Mediation" xml:space="preserve">
+    <value>Mediación Langademy</value>
+  </data>
+  <data name="SolvingIssue" xml:space="preserve">
+    <value>Solucionando problema</value>
+  </data>
+  <data name="Processing" xml:space="preserve">
+    <value>Procesando</value>
+  </data>
+  <data name="CannotAcceptReschedulePast" xml:space="preserve">
+    <value>No puedes aceptar reprogramar la clase porque la nueva fecha de clase ya ha pasado. Puedes rechazar la solicitud o desprogramar la clase</value>
+  </data>
+  <data name="StudentUnscheduledPast" xml:space="preserve">
+    <value>El estudiante no pudo aceptar reprogramar la clase porque la nueva fecha ya pasó</value>
+  </data>
+  <data name="TeacherUnscheduledPast" xml:space="preserve">
+    <value>El profesor no pudo aceptar reprogramar la clase porque la nueva fecha ya pasó</value>
+  </data>
+  <data name="YouUnscheduledPast" xml:space="preserve">
+    <value>No pudiste aceptar reprogramar la clase porque la nueva fecha ya pasó</value>
+  </data>
+  <data name="Cancelled" xml:space="preserve">
+    <value>Cancelada</value>
+  </data>
+  <data name="AcceptReschSolutionConf" xml:space="preserve">
+    <value>¿Aceptas reprogramar esta clase? La clase se desprogramará para que puedas proponer una nueva fecha</value>
+  </data>
+  <data name="StudentRejectReportConf" xml:space="preserve">
+    <value>¿Rechazas la solución propuesta por el profesor para resolver este problema? Habla con el profesor y notifica un nuevo problema proponiendo tu solución. Si al final no llegais a un acuerdo puedes solicitar la mediación de Langademy</value>
+  </data>
+  <data name="TeacherRejectReportConf" xml:space="preserve">
+    <value>¿Rechazas la solución propuesta por el estudiante para resolver este problema? Habla con el estudiante y notifica un nuevo problema proponiendo tu solución. Si al final no llegais a un acuerdo puedes solicitar la mediación de Langademy</value>
+  </data>
+  <data name="AcceptCancelRefHalfSolutionConf" xml:space="preserve">
+    <value>¿Aceptas cancelar esta clase? Se devolverá el 50% del precio de esta clase</value>
+  </data>
+  <data name="AcceptCancelRefSolutionConf" xml:space="preserve">
+    <value>¿Aceptas cancelar esta clase? Se devolverá el 100% del precio de esta clase</value>
+  </data>
+  <data name="AcceptCollectHalfSolutionConf" xml:space="preserve">
+    <value>¿Aceptas marcar la clase como Completada? Se pagará el 50% del precio de la clase</value>
+  </data>
+  <data name="AcceptCollectSolutionConf" xml:space="preserve">
+    <value>¿Aceptas marcar la clase como Completada? Se pagará el 100% del precio de la clase</value>
+  </data>
+  <data name="CancelMediationReqConf" xml:space="preserve">
+    <value>¿Estás seguro de que quieres cancelar tu solicitud de mediación?</value>
+  </data>
+  <data name="StudCancelMediation" xml:space="preserve">
+    <value>El estudiante canceló la solicitud de mediación</value>
+  </data>
+  <data name="TeachCancelMediation" xml:space="preserve">
+    <value>El profesor canceló la solicitud de mediación</value>
+  </data>
+  <data name="YouCancelMediation" xml:space="preserve">
+    <value>Cancelaste la solicitud de mediación</value>
+  </data>
+</root>

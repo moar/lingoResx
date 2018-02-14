@@ -61,11 +61,1244 @@ namespace Resources.Views.LessonScheduler {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Do you agree to cancel this lesson? 50% of the lesson price will be refunded.
+        /// </summary>
+        public static string AcceptCancelRefHalfSolutionConf {
+            get {
+                return ResourceManager.GetString("AcceptCancelRefHalfSolutionConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you agree to cancel this lesson? 100% of the lesson price will be refunded.
+        /// </summary>
+        public static string AcceptCancelRefSolutionConf {
+            get {
+                return ResourceManager.GetString("AcceptCancelRefSolutionConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you agree to mark this lesson Completed? 50% of the lesson price will be refunded.
+        /// </summary>
+        public static string AcceptCollectHalfSolutionConf {
+            get {
+                return ResourceManager.GetString("AcceptCollectHalfSolutionConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you agree to mark this lesson Completed? 100% of the lesson price will be paid.
+        /// </summary>
+        public static string AcceptCollectSolutionConf {
+            get {
+                return ResourceManager.GetString("AcceptCollectSolutionConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you accept rescheduling the lesson?.
+        /// </summary>
+        public static string AcceptRescheduleRequestConf {
+            get {
+                return ResourceManager.GetString("AcceptRescheduleRequestConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you agree to reschedule this lesson? The lesson will be unscheduled so you can propose a new date.
+        /// </summary>
+        public static string AcceptReschSolutionConf {
+            get {
+                return ResourceManager.GetString("AcceptReschSolutionConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you accept the request for unscheduling the lesson?.
+        /// </summary>
+        public static string AcceptUnscheduleRequestConf {
+            get {
+                return ResourceManager.GetString("AcceptUnscheduleRequestConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Attendance unknown.
+        /// </summary>
+        public static string AttendanceUnknown {
+            get {
+                return ResourceManager.GetString("AttendanceUnknown", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher and you missed the lesson.
+        /// </summary>
+        public static string BothMissedStudent {
+            get {
+                return ResourceManager.GetString("BothMissedStudent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student and you missed the lesson.
+        /// </summary>
+        public static string BothMissedTeacher {
+            get {
+                return ResourceManager.GetString("BothMissedTeacher", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancelled.
+        /// </summary>
+        public static string Cancelled {
+            get {
+                return ResourceManager.GetString("Cancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to cancel your mediation request?.
+        /// </summary>
+        public static string CancelMediationReqConf {
+            get {
+                return ResourceManager.GetString("CancelMediationReqConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to cancel your report?.
+        /// </summary>
+        public static string CancelReportConf {
+            get {
+                return ResourceManager.GetString("CancelReportConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to cancel your request?.
+        /// </summary>
+        public static string CancelRescheduleRequestConf {
+            get {
+                return ResourceManager.GetString("CancelRescheduleRequestConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to cancel your request?.
+        /// </summary>
+        public static string CancelUnscheduleRequestConf {
+            get {
+                return ResourceManager.GetString("CancelUnscheduleRequestConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can&apos;t accept to reschedule the lesson because the new date has already past. You can either reject the request or unschedule the lesson.
+        /// </summary>
+        public static string CannotAcceptReschedulePast {
+            get {
+                return ResourceManager.GetString("CannotAcceptReschedulePast", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Class time is now!.
+        /// </summary>
+        public static string ClassTimeNow {
+            get {
+                return ResourceManager.GetString("ClassTimeNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Completed.
+        /// </summary>
+        public static string Completed {
+            get {
+                return ResourceManager.GetString("Completed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Incompleted.
+        /// </summary>
+        public static string Incompleted {
+            get {
+                return ResourceManager.GetString("Incompleted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Lesson scheduler.
         /// </summary>
         public static string LessonsTitle {
             get {
                 return ResourceManager.GetString("LessonsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy mediation.
+        /// </summary>
+        public static string Mediation {
+            get {
+                return ResourceManager.GetString("Mediation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pending teacher confirmation.
+        /// </summary>
+        public static string PendingTeacherConfirmation {
+            get {
+                return ResourceManager.GetString("PendingTeacherConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pending your confirmation.
+        /// </summary>
+        public static string PendingYourConfirmation {
+            get {
+                return ResourceManager.GetString("PendingYourConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing.
+        /// </summary>
+        public static string Processing {
+            get {
+                return ResourceManager.GetString("Processing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you reject the request for rescheduling the lesson?.
+        /// </summary>
+        public static string RejectRescheduleRequestConf {
+            get {
+                return ResourceManager.GetString("RejectRescheduleRequestConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you reject the request for unscheduling the lesson?.
+        /// </summary>
+        public static string RejectUnscheduleRequestConf {
+            get {
+                return ResourceManager.GetString("RejectUnscheduleRequestConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please, select the new date of the lesson.
+        /// </summary>
+        public static string ReqNewDateResch {
+            get {
+                return ResourceManager.GetString("ReqNewDateResch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rescheduling.
+        /// </summary>
+        public static string Rescheduling {
+            get {
+                return ResourceManager.GetString("Rescheduling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scheduled.
+        /// </summary>
+        public static string Scheduled {
+            get {
+                return ResourceManager.GetString("Scheduled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Solving issue.
+        /// </summary>
+        public static string SolvingIssue {
+            get {
+                return ResourceManager.GetString("SolvingIssue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student accepted your solution: The lesson has been cancelled and 100% of the credits have been refunded.
+        /// </summary>
+        public static string StudAcceptedCancelAndRefund {
+            get {
+                return ResourceManager.GetString("StudAcceptedCancelAndRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student accepted your solution: The lesson has been cancelled and 50% of the credits have been refunded.
+        /// </summary>
+        public static string StudAcceptedCancelAndRefundHalf {
+            get {
+                return ResourceManager.GetString("StudAcceptedCancelAndRefundHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student accepted your solution: The lesson has been marked as Completed and you collected 100% of the credits.
+        /// </summary>
+        public static string StudAcceptedCollect {
+            get {
+                return ResourceManager.GetString("StudAcceptedCollect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student accepted your solution: The lesson has been marked as Completed and you collected 50% of the credits.
+        /// </summary>
+        public static string StudAcceptedCollectHalf {
+            get {
+                return ResourceManager.GetString("StudAcceptedCollectHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student accepted your solution: The lesson has been marked as Unscheduled. You or the student can now propose a new lesson date.
+        /// </summary>
+        public static string StudAcceptedReschedule {
+            get {
+                return ResourceManager.GetString("StudAcceptedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The reported issue has been cancelled by the student.
+        /// </summary>
+        public static string StudCancelledReport {
+            get {
+                return ResourceManager.GetString("StudCancelledReport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student cancelled the mediation request.
+        /// </summary>
+        public static string StudCancelMediation {
+            get {
+                return ResourceManager.GetString("StudCancelMediation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student accepted the request for unscheduling the lesson.
+        /// </summary>
+        public static string StudentAcceptedUnschedule {
+            get {
+                return ResourceManager.GetString("StudentAcceptedUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student accepted to reschedule the lesson.
+        /// </summary>
+        public static string StudentAcceptReschedule {
+            get {
+                return ResourceManager.GetString("StudentAcceptReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancelled by the student.
+        /// </summary>
+        public static string StudentCancelled {
+            get {
+                return ResourceManager.GetString("StudentCancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student cancelled the request for rescheduling the lesson.
+        /// </summary>
+        public static string StudentCancelledReschedule {
+            get {
+                return ResourceManager.GetString("StudentCancelledReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student cancelled the request for unscheduling the lesson.
+        /// </summary>
+        public static string StudentCancelledUnschedule {
+            get {
+                return ResourceManager.GetString("StudentCancelledUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you confirm this lesson has been succesfully completed? By confirming, payment to the teacher will be processed.
+        /// </summary>
+        public static string StudentCompleteLessonConf {
+            get {
+                return ResourceManager.GetString("StudentCompleteLessonConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student missed the lesson.
+        /// </summary>
+        public static string StudentMissed {
+            get {
+                return ResourceManager.GetString("StudentMissed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student proposed this solution.
+        /// </summary>
+        public static string StudentProposedSolution {
+            get {
+                return ResourceManager.GetString("StudentProposedSolution", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student rejected to reschedule the lesson. Proposed lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string StudentRejectedReschedule {
+            get {
+                return ResourceManager.GetString("StudentRejectedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student rejected the request for unscheduling the lesson.
+        /// </summary>
+        public static string StudentRejectedUnschedule {
+            get {
+                return ResourceManager.GetString("StudentRejectedUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you reject the solution that the teacher propose to solve this issue? Talk to the teacher and report a new issue proposing your solution. If you finally don&apos;t agree on a solution, you can request Langademy&apos;s mediation.
+        /// </summary>
+        public static string StudentRejectReportConf {
+            get {
+                return ResourceManager.GetString("StudentRejectReportConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student requested cancellation.
+        /// </summary>
+        public static string StudentRequestedCancel {
+            get {
+                return ResourceManager.GetString("StudentRequestedCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student rescheduled the lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string StudentRescheduled {
+            get {
+                return ResourceManager.GetString("StudentRescheduled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student scheduled this lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string StudentRescheduledUnsch {
+            get {
+                return ResourceManager.GetString("StudentRescheduledUnsch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student requested to reschedule this lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string StudentRescheduleRequest {
+            get {
+                return ResourceManager.GetString("StudentRescheduleRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student requested to schedule this lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string StudentRescheduleUnschRequest {
+            get {
+                return ResourceManager.GetString("StudentRescheduleUnschRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student unscheduled this lesson. Previous lesson date:  {0} ({1} {2}).
+        /// </summary>
+        public static string StudentUnscheduled {
+            get {
+                return ResourceManager.GetString("StudentUnscheduled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student couldn&apos;t accept to reschedule the lesson becasuse the new date was past.
+        /// </summary>
+        public static string StudentUnscheduledPast {
+            get {
+                return ResourceManager.GetString("StudentUnscheduledPast", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student requested to unschedule this lesson.
+        /// </summary>
+        public static string StudentUnscheduleRequest {
+            get {
+                return ResourceManager.GetString("StudentUnscheduleRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student rejected your solution: Lesson cancellation and refund 100% of the credits.
+        /// </summary>
+        public static string StudRejectedCancelAndRefund {
+            get {
+                return ResourceManager.GetString("StudRejectedCancelAndRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student rejected your solution: Lesson cancellation and refund 50% of the credits.
+        /// </summary>
+        public static string StudRejectedCancelAndRefundHalf {
+            get {
+                return ResourceManager.GetString("StudRejectedCancelAndRefundHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student rejected your solution: Mark the lesson as Completed and collect 100% of the credits.
+        /// </summary>
+        public static string StudRejectedCollect {
+            get {
+                return ResourceManager.GetString("StudRejectedCollect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student rejected your solution: solution: Mark the lesson as Completed and collect 50% of the credits.
+        /// </summary>
+        public static string StudRejectedCollectHalf {
+            get {
+                return ResourceManager.GetString("StudRejectedCollectHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student rejected your solution: You proposed to reschedule the lesson.
+        /// </summary>
+        public static string StudRejectedReschedule {
+            get {
+                return ResourceManager.GetString("StudRejectedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student reported issues about this lesson.
+        /// </summary>
+        public static string StudReportedIssue {
+            get {
+                return ResourceManager.GetString("StudReportedIssue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The student requested Langademy&apos;s mediation.
+        /// </summary>
+        public static string StudRequestedMediation {
+            get {
+                return ResourceManager.GetString("StudRequestedMediation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher accepted your solution: The lesson has been cancelled and 100% of the credits have been refunded.
+        /// </summary>
+        public static string TeachAcceptedCancelAndRefund {
+            get {
+                return ResourceManager.GetString("TeachAcceptedCancelAndRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher accepted your solution: The lesson has been cancelled and 50% of the credits have been refunded.
+        /// </summary>
+        public static string TeachAcceptedCancelAndRefundHalf {
+            get {
+                return ResourceManager.GetString("TeachAcceptedCancelAndRefundHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher accepted your solution: The lesson has been marked as Completed and the teacher collected 100% of the credits.
+        /// </summary>
+        public static string TeachAcceptedCollect {
+            get {
+                return ResourceManager.GetString("TeachAcceptedCollect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher accepted your solution: The lesson has been marked as Completed and the teacher collected 50% of the credits.
+        /// </summary>
+        public static string TeachAcceptedCollectHalf {
+            get {
+                return ResourceManager.GetString("TeachAcceptedCollectHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher accepted your solution: The lesson has been marked as Unscheduled. You or the teacher can now propose a new lesson date.
+        /// </summary>
+        public static string TeachAcceptedReschedule {
+            get {
+                return ResourceManager.GetString("TeachAcceptedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The reported issue has been cancelled by the teacher.
+        /// </summary>
+        public static string TeachCancelledReport {
+            get {
+                return ResourceManager.GetString("TeachCancelledReport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher cancelled the mediation request.
+        /// </summary>
+        public static string TeachCancelMediation {
+            get {
+                return ResourceManager.GetString("TeachCancelMediation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher accepted the request for rescheduling the lesson.
+        /// </summary>
+        public static string TeacherAcceptedReschedule {
+            get {
+                return ResourceManager.GetString("TeacherAcceptedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher accepted the request for unscheduling the lesson.
+        /// </summary>
+        public static string TeacherAcceptedUnschedule {
+            get {
+                return ResourceManager.GetString("TeacherAcceptedUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancelled by the teacher.
+        /// </summary>
+        public static string TeacherCancelled {
+            get {
+                return ResourceManager.GetString("TeacherCancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher cancelled the request for rescheduling the lesson.
+        /// </summary>
+        public static string TeacherCancelledReschedule {
+            get {
+                return ResourceManager.GetString("TeacherCancelledReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher cancelled the request for unscheduling the lesson.
+        /// </summary>
+        public static string TeacherCancelledUnschedule {
+            get {
+                return ResourceManager.GetString("TeacherCancelledUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher missed the lesson.
+        /// </summary>
+        public static string TeacherMissed {
+            get {
+                return ResourceManager.GetString("TeacherMissed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher proposed this solution.
+        /// </summary>
+        public static string TeacherProposedSolution {
+            get {
+                return ResourceManager.GetString("TeacherProposedSolution", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rejected by the teacher.
+        /// </summary>
+        public static string TeacherRejected {
+            get {
+                return ResourceManager.GetString("TeacherRejected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher rejected to reschedule the lesson. Proposed lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string TeacherRejectedReschedule {
+            get {
+                return ResourceManager.GetString("TeacherRejectedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher rejected to unschedule this lesson.
+        /// </summary>
+        public static string TeacherRejectedUnschedule {
+            get {
+                return ResourceManager.GetString("TeacherRejectedUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you reject the solution that the student propose to solve this issue? Talk to the student and report a new issue proposing your solution. If you finally don&apos;t agree on a solution, you can request Langademy&apos;s mediation.
+        /// </summary>
+        public static string TeacherRejectReportConf {
+            get {
+                return ResourceManager.GetString("TeacherRejectReportConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher requested to reschedule the lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string TeacherRescheduleRequest {
+            get {
+                return ResourceManager.GetString("TeacherRescheduleRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher requested to schedule the lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string TeacherRescheduleUnschRequest {
+            get {
+                return ResourceManager.GetString("TeacherRescheduleUnschRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher unscheduled the lesson.
+        /// </summary>
+        public static string TeacherUnscheduled {
+            get {
+                return ResourceManager.GetString("TeacherUnscheduled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher couldn&apos;t accept to reschedule the lesson becasuse the new date was past.
+        /// </summary>
+        public static string TeacherUnscheduledPast {
+            get {
+                return ResourceManager.GetString("TeacherUnscheduledPast", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher requested to unschedule the lesson.
+        /// </summary>
+        public static string TeacherUnscheduleRequest {
+            get {
+                return ResourceManager.GetString("TeacherUnscheduleRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher rejected your solution: Lesson cancellation and refund 100% of the credits.
+        /// </summary>
+        public static string TeachRejectedCancelAndRefund {
+            get {
+                return ResourceManager.GetString("TeachRejectedCancelAndRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher rejected your solution: Lesson cancellation and refund 50% of the credits.
+        /// </summary>
+        public static string TeachRejectedCancelAndRefundHalf {
+            get {
+                return ResourceManager.GetString("TeachRejectedCancelAndRefundHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher rejected your solution: Mark the lesson as Completed and pay 100% of the credits.
+        /// </summary>
+        public static string TeachRejectedCollect {
+            get {
+                return ResourceManager.GetString("TeachRejectedCollect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher rejected your solution: solution: Mark the lesson as Completed and pay 50% of the credits.
+        /// </summary>
+        public static string TeachRejectedCollectHalf {
+            get {
+                return ResourceManager.GetString("TeachRejectedCollectHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher rejected your solution: You proposed to reschedule the lesson.
+        /// </summary>
+        public static string TeachRejectedReschedule {
+            get {
+                return ResourceManager.GetString("TeachRejectedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher reported issues about this lesson.
+        /// </summary>
+        public static string TeachReportedIssue {
+            get {
+                return ResourceManager.GetString("TeachReportedIssue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The teacher requested Langademy&apos;s mediation.
+        /// </summary>
+        public static string TeachRequestedMediation {
+            get {
+                return ResourceManager.GetString("TeachRequestedMediation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to unschedule this lesson?.
+        /// </summary>
+        public static string UnschedLessonConf {
+            get {
+                return ResourceManager.GetString("UnschedLessonConf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unscheduled.
+        /// </summary>
+        public static string Unscheduled {
+            get {
+                return ResourceManager.GetString("Unscheduled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unscheduling.
+        /// </summary>
+        public static string Unscheduling {
+            get {
+                return ResourceManager.GetString("Unscheduling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted to reschedule the lesson.
+        /// </summary>
+        public static string YouAcceptedReschedule {
+            get {
+                return ResourceManager.GetString("YouAcceptedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted to unschedule this lesson.
+        /// </summary>
+        public static string YouAcceptedUnschedule {
+            get {
+                return ResourceManager.GetString("YouAcceptedUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancelled by you.
+        /// </summary>
+        public static string YouCancelled {
+            get {
+                return ResourceManager.GetString("YouCancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cancelled the issue you reported.
+        /// </summary>
+        public static string YouCancelledReport {
+            get {
+                return ResourceManager.GetString("YouCancelledReport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cancelled your request for rescheduling the lesson.
+        /// </summary>
+        public static string YouCancelledReschedule {
+            get {
+                return ResourceManager.GetString("YouCancelledReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cancelled your request for unscheduling the lesson.
+        /// </summary>
+        public static string YouCancelledUnschedule {
+            get {
+                return ResourceManager.GetString("YouCancelledUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cancelled the mediation request.
+        /// </summary>
+        public static string YouCancelMediation {
+            get {
+                return ResourceManager.GetString("YouCancelMediation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You missed the lesson.
+        /// </summary>
+        public static string YouMissed {
+            get {
+                return ResourceManager.GetString("YouMissed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You proposed this solution.
+        /// </summary>
+        public static string YouProposedSolution {
+            get {
+                return ResourceManager.GetString("YouProposedSolution", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rejected by you.
+        /// </summary>
+        public static string YouRejected {
+            get {
+                return ResourceManager.GetString("YouRejected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected to reschedule the lesson. Proposed lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string YouRejectedReschedule {
+            get {
+                return ResourceManager.GetString("YouRejectedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected to unschedule this lesson.
+        /// </summary>
+        public static string YouRejectedUnschedule {
+            get {
+                return ResourceManager.GetString("YouRejectedUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You reported issues about this lesson.
+        /// </summary>
+        public static string YouReportedIssue {
+            get {
+                return ResourceManager.GetString("YouReportedIssue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You requested cancellation.
+        /// </summary>
+        public static string YouRequestedCancel {
+            get {
+                return ResourceManager.GetString("YouRequestedCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You requested Langademy&apos;s mediation.
+        /// </summary>
+        public static string YouRequestedMediation {
+            get {
+                return ResourceManager.GetString("YouRequestedMediation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You requested to unschedule the lesson.
+        /// </summary>
+        public static string YouRequestedUnschedule {
+            get {
+                return ResourceManager.GetString("YouRequestedUnschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rescheduled the lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string YouRescheduled {
+            get {
+                return ResourceManager.GetString("YouRescheduled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You scheduled the lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string YouRescheduledUnsch {
+            get {
+                return ResourceManager.GetString("YouRescheduledUnsch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You requested to reschedule the lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string YouRescheduleRequest {
+            get {
+                return ResourceManager.GetString("YouRescheduleRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You requested to schedule the lesson. New lesson date: {0} ({1} {2}).
+        /// </summary>
+        public static string YouRescheduleUnschRequest {
+            get {
+                return ResourceManager.GetString("YouRescheduleUnschRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted teacher&apos;s solution: The lesson has been cancelled and 100% of the credits have been refunded.
+        /// </summary>
+        public static string YouStudAcceptedCancelAndRefund {
+            get {
+                return ResourceManager.GetString("YouStudAcceptedCancelAndRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted teacher&apos;s solution: The lesson has been cancelled and 50% of the credits have been refunded.
+        /// </summary>
+        public static string YouStudAcceptedCancelAndRefundHalf {
+            get {
+                return ResourceManager.GetString("YouStudAcceptedCancelAndRefundHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted teacher&apos;s solution: The lesson has been marked as Completed and you paid 100% of the credits.
+        /// </summary>
+        public static string YouStudAcceptedCollect {
+            get {
+                return ResourceManager.GetString("YouStudAcceptedCollect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted teacher&apos;s solution: The lesson has been marked as Completed and you paid 50% of the credits.
+        /// </summary>
+        public static string YouStudAcceptedCollectHalf {
+            get {
+                return ResourceManager.GetString("YouStudAcceptedCollectHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted teacher&apos;s solution: The lesson has been marked as Unscheduled. You or the teacher can now propose a new lesson date.
+        /// </summary>
+        public static string YouStudAcceptedReschedule {
+            get {
+                return ResourceManager.GetString("YouStudAcceptedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected teacher&apos;s solution: Lesson cancellation and refund 100% of the credits.
+        /// </summary>
+        public static string YouStudRejectedCancelAndRefund {
+            get {
+                return ResourceManager.GetString("YouStudRejectedCancelAndRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected teacher&apos;s solution: Lesson cancellation and refund 50% of the credits.
+        /// </summary>
+        public static string YouStudRejectedCancelAndRefundHalf {
+            get {
+                return ResourceManager.GetString("YouStudRejectedCancelAndRefundHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected teacher&apos;s solution: Mark the lesson as Completed and pay 100% of the credits.
+        /// </summary>
+        public static string YouStudRejectedCollect {
+            get {
+                return ResourceManager.GetString("YouStudRejectedCollect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected teacher&apos;s solution: Mark the lesson as Completed and pay 50% of the credits.
+        /// </summary>
+        public static string YouStudRejectedCollectHalf {
+            get {
+                return ResourceManager.GetString("YouStudRejectedCollectHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected teacher&apos;s solution: The teacher proposed to reschedule the lesson.
+        /// </summary>
+        public static string YouStudRejectedReschedule {
+            get {
+                return ResourceManager.GetString("YouStudRejectedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted student&apos;s solution: The lesson has been cancelled and 100% of the credits have been refunded.
+        /// </summary>
+        public static string YouTeachAcceptedCancelAndRefund {
+            get {
+                return ResourceManager.GetString("YouTeachAcceptedCancelAndRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted student&apos;s solution: The lesson has been cancelled and 50% of the credits have been refunded.
+        /// </summary>
+        public static string YouTeachAcceptedCancelAndRefundHalf {
+            get {
+                return ResourceManager.GetString("YouTeachAcceptedCancelAndRefundHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted student&apos;s solution: The lesson has been marked as Completed and you collected 100% of the credits.
+        /// </summary>
+        public static string YouTeachAcceptedCollect {
+            get {
+                return ResourceManager.GetString("YouTeachAcceptedCollect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted student&apos;s solution: The lesson has been marked as Completed and you collected 50% of the credits.
+        /// </summary>
+        public static string YouTeachAcceptedCollectHalf {
+            get {
+                return ResourceManager.GetString("YouTeachAcceptedCollectHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You accepted student&apos;s solution: The lesson has been marked as Unscheduled. You or the student can now propose a new lesson date.
+        /// </summary>
+        public static string YouTeachAcceptedReschedule {
+            get {
+                return ResourceManager.GetString("YouTeachAcceptedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected student&apos;s solution: Lesson cancellation and refund 100% of the credits.
+        /// </summary>
+        public static string YouTeachRejectedCancelAndRefund {
+            get {
+                return ResourceManager.GetString("YouTeachRejectedCancelAndRefund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected student&apos;s solution: Lesson cancellation and refund 50% of the credits.
+        /// </summary>
+        public static string YouTeachRejectedCancelAndRefundHalf {
+            get {
+                return ResourceManager.GetString("YouTeachRejectedCancelAndRefundHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected student&apos;s solution: Mark the lesson as Completed and collect 100% of the credits.
+        /// </summary>
+        public static string YouTeachRejectedCollect {
+            get {
+                return ResourceManager.GetString("YouTeachRejectedCollect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected student&apos;s solution: Mark the lesson as Completed and collect 50% of the credits.
+        /// </summary>
+        public static string YouTeachRejectedCollectHalf {
+            get {
+                return ResourceManager.GetString("YouTeachRejectedCollectHalf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You rejected student&apos;s solution: The student proposed to reschedule the lesson.
+        /// </summary>
+        public static string YouTeachRejectedReschedule {
+            get {
+                return ResourceManager.GetString("YouTeachRejectedReschedule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You unscheduled this lesson.
+        /// </summary>
+        public static string YouUnscheduled {
+            get {
+                return ResourceManager.GetString("YouUnscheduled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You couldn&apos;t accept to reschedule the lesson becasuse the new date was past.
+        /// </summary>
+        public static string YouUnscheduledPast {
+            get {
+                return ResourceManager.GetString("YouUnscheduledPast", resourceCulture);
             }
         }
     }

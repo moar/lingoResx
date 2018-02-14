@@ -61,6 +61,15 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Do you confirm that you accept this purchase? The scheduled lessons will be added to your calendar.
+        /// </summary>
+        public static string acceptunanpurchase {
+            get {
+                return ResourceManager.GetString("acceptunanpurchase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Automatic partner finder.
         /// </summary>
         public static string AutomaticPartnerFinder {
@@ -169,11 +178,29 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to cancel your purchase? Your credits will be refunded to your Wallet account.
+        /// </summary>
+        public static string cancelunanpurchase {
+            get {
+                return ResourceManager.GetString("cancelunanpurchase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  You cannot accept calls, your browser does not support calls..
         /// </summary>
         public static string cannotAcceptCalls {
             get {
                 return ResourceManager.GetString("cannotAcceptCalls", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There has been a problem joing the classroom. Please, refresh the page and try again. If the problem persists, please, contact us.
+        /// </summary>
+        public static string cannotJoinClassroom {
+            get {
+                return ResourceManager.GetString("cannotJoinClassroom", resourceCulture);
             }
         }
         
@@ -255,6 +282,15 @@ namespace Resources.JSMessages {
         public static string Confirm {
             get {
                 return ResourceManager.GetString("Confirm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string ConfirmLessonPurchaseCancel {
+            get {
+                return ResourceManager.GetString("ConfirmLessonPurchaseCancel", resourceCulture);
             }
         }
         
@@ -507,6 +543,15 @@ namespace Resources.JSMessages {
         public static string InvitsSent {
             get {
                 return ResourceManager.GetString("InvitsSent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Joining the classroom.
+        /// </summary>
+        public static string JoiningClassroom {
+            get {
+                return ResourceManager.GetString("JoiningClassroom", resourceCulture);
             }
         }
         
@@ -862,6 +907,15 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to reject this purchase? Make sure the student understands the reason.
+        /// </summary>
+        public static string rejectunanpurchase {
+            get {
+                return ResourceManager.GetString("rejectunanpurchase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  {0} has finished the call.
         /// </summary>
         public static string RemoteFinished {
@@ -871,11 +925,47 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Report issue.
+        /// </summary>
+        public static string ReportIssue {
+            get {
+                return ResourceManager.GetString("ReportIssue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Request conversation.
         /// </summary>
         public static string RequestConv {
             get {
                 return ResourceManager.GetString("RequestConv", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Request mediation.
+        /// </summary>
+        public static string RequestMediation {
+            get {
+                return ResourceManager.GetString("RequestMediation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please check at least one box.
+        /// </summary>
+        public static string RequireOneErrorMsg {
+            get {
+                return ResourceManager.GetString("RequireOneErrorMsg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reschedule lesson.
+        /// </summary>
+        public static string RescheduleLesson {
+            get {
+                return ResourceManager.GetString("RescheduleLesson", resourceCulture);
             }
         }
         
@@ -984,6 +1074,33 @@ namespace Resources.JSMessages {
         public static string Second {
             get {
                 return ResourceManager.GetString("Second", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the date of your lesson.
+        /// </summary>
+        public static string seldateoneless {
+            get {
+                return ResourceManager.GetString("seldateoneless", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select at least the date of your first lesson. You can schedule the remaining ones at any time.
+        /// </summary>
+        public static string seldatepack {
+            get {
+                return ResourceManager.GetString("seldatepack", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the date of your lesson (minimum: 30 minutes, maximum: 2 hours).
+        /// </summary>
+        public static string seldatepago {
+            get {
+                return ResourceManager.GetString("seldatepago", resourceCulture);
             }
         }
         
@@ -1141,11 +1258,29 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to  Waiting for you to give permission to your navigator to use your camera....
+        ///   Looks up a localized string similar to  Waiting for you to give permission in your browser to use your camera....
         /// </summary>
         public static string WaitingForCamera {
             get {
                 return ResourceManager.GetString("WaitingForCamera", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Waiting for {0} to join the classroom.
+        /// </summary>
+        public static string WaitingPartnerClassroom {
+            get {
+                return ResourceManager.GetString("WaitingPartnerClassroom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Waiting for permission to use your camera....
+        /// </summary>
+        public static string WaitingTo {
+            get {
+                return ResourceManager.GetString("WaitingTo", resourceCulture);
             }
         }
         

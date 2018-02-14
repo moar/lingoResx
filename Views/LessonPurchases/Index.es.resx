@@ -117,64 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Advanced" xml:space="preserve">
-    <value>Advanced</value>
+  <data name="AllPurchases" xml:space="preserve">
+    <value>All purchases</value>
   </data>
-  <data name="Age" xml:space="preserve">
-    <value>Age</value>
+  <data name="CancelPurchase" xml:space="preserve">
+    <value>Cancelar compra</value>
   </data>
-  <data name="BirthDate" xml:space="preserve">
-    <value>Birth Date</value>
+  <data name="LessonPurchaseActionProcessed" xml:space="preserve">
+    <value>Tu solicitud se ha procesado correctamente</value>
   </data>
-  <data name="Country" xml:space="preserve">
-    <value>Country</value>
+  <data name="LessonPurchaseActionProcessing" xml:space="preserve">
+    <value>Tu solicitud se está procesando. Por favor, espera...</value>
   </data>
-  <data name="CountryOfOrigin" xml:space="preserve">
-    <value>Country of origin</value>
+  <data name="LessonPurchasesTitle" xml:space="preserve">
+    <value>Compras de clases</value>
   </data>
-  <data name="Email" xml:space="preserve">
-    <value>e-mail</value>
+  <data name="NoPurchases" xml:space="preserve">
+    <value>No has comprado ninguna clase</value>
   </data>
-  <data name="Female" xml:space="preserve">
-    <value>Female</value>
+  <data name="PendingSchOpsCancelPError" xml:space="preserve">
+    <value>No puedes cancelar tu compra mientras haya operaciones de programación de clases en marcha</value>
   </data>
-  <data name="Gender" xml:space="preserve">
-    <value>Gender</value>
+  <data name="PurchaseCancelledByYou" xml:space="preserve">
+    <value>Has cancelado la compra</value>
   </data>
-  <data name="Intermediate" xml:space="preserve">
-    <value>Intermediate</value>
+  <data name="PurchaseConfirmedByTeacher" xml:space="preserve">
+    <value>El profesor ha confirmado tu compra</value>
   </data>
-  <data name="Language" xml:space="preserve">
-    <value>Language</value>
+  <data name="PurchaseDate" xml:space="preserve">
+    <value>Fecha de compra</value>
   </data>
-  <data name="Lastname" xml:space="preserve">
-    <value>Last Name</value>
-  </data>
-  <data name="Level" xml:space="preserve">
-    <value>Level</value>
-  </data>
-  <data name="Male" xml:space="preserve">
-    <value>Male</value>
-  </data>
-  <data name="MinAge" xml:space="preserve">
-    <value>Currently, only users older than 16 years may register in Langademy</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Name</value>
-  </data>
-  <data name="NameLength" xml:space="preserve">
-    <value>Your name must be at least {2} characters long and shorter than {1} characters</value>
-  </data>
-  <data name="Native" xml:space="preserve">
-    <value>Native</value>
-  </data>
-  <data name="NativeLanguage" xml:space="preserve">
-    <value>Native language</value>
-  </data>
-  <data name="ReqName" xml:space="preserve">
-    <value>The field name is required</value>
-  </data>
-  <data name="Surname" xml:space="preserve">
-    <value>Surname</value>
+  <data name="PurchaseRejectedByTeacher" xml:space="preserve">
+    <value>El profesor ha rechazado tu compra</value>
   </data>
 </root>

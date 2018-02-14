@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Resources.Views.Enrollments {
+namespace Resources.Views.ClassroomCommons {
     using System;
     
     
@@ -22,14 +22,14 @@ namespace Resources.Views.Enrollments {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class Index {
+    public class ClassroomCommons {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Index() {
+        internal ClassroomCommons() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace Resources.Views.Enrollments {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.Enrollments.Index", typeof(Index).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.ClassroomCommons.ClassroomCommons", typeof(ClassroomCommons).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,11 +61,47 @@ namespace Resources.Views.Enrollments {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enrollments.
+        ///   Looks up a localized string similar to Active.
         /// </summary>
-        public static string EnrollmentsTitle {
+        public static string ActiveFilter {
             get {
-                return ResourceManager.GetString("EnrollmentsTitle", resourceCulture);
+                return ResourceManager.GetString("ActiveFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All.
+        /// </summary>
+        public static string AllFilter {
+            get {
+                return ResourceManager.GetString("AllFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classrooms.
+        /// </summary>
+        public static string ClassroomsTitle {
+            get {
+                return ResourceManager.GetString("ClassroomsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No pending lessons.
+        /// </summary>
+        public static string NoPendingLessons {
+            get {
+                return ResourceManager.GetString("NoPendingLessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View.
+        /// </summary>
+        public static string View {
+            get {
+                return ResourceManager.GetString("View", resourceCulture);
             }
         }
     }

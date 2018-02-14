@@ -70,6 +70,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to teachers/{username}/book-{langname}-lessons/.
+        /// </summary>
+        public static string booklessons {
+            get {
+                return ResourceManager.GetString("booklessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/chat-rooms.
         /// </summary>
         public static string chat_rooms {
@@ -516,6 +525,24 @@ namespace Resources.Routes {
         public static string search_language_students {
             get {
                 return ResourceManager.GetString("search-language-students", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to teachers/{username}/.
+        /// </summary>
+        public static string teacherprofile {
+            get {
+                return ResourceManager.GetString("teacherprofile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to teachers.
+        /// </summary>
+        public static string teachers {
+            get {
+                return ResourceManager.GetString("teachers", resourceCulture);
             }
         }
         

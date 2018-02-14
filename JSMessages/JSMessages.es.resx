@@ -504,4 +504,46 @@
   <data name="NewAvailability" xml:space="preserve">
     <value>Nueva disponibilidad</value>
   </data>
+  <data name="seldateoneless" xml:space="preserve">
+    <value>Select the date of your lesson</value>
+  </data>
+  <data name="seldatepack" xml:space="preserve">
+    <value>Select at least the date of your first lesson. You can schedule the remaining ones at any time</value>
+  </data>
+  <data name="seldatepago" xml:space="preserve">
+    <value>Select the date of your lesson (minimum: 30 minutes, maximum: 2 hours)</value>
+  </data>
+  <data name="cancelunanpurchase" xml:space="preserve">
+    <value>¿Estás seguro de que quieres cancelar tu compra? Tus créditos serán reintegrados en tu cuenta Wallet</value>
+  </data>
+  <data name="acceptunanpurchase" xml:space="preserve">
+    <value>¿Confirmas que aceptas esta compra? Las clases planificadas se añadirán a tu calendario</value>
+  </data>
+  <data name="rejectunanpurchase" xml:space="preserve">
+    <value>¿Estás seguro de que deseas rechazar esta compra? Asegúrate de que el estudiante entiende el motivo</value>
+  </data>
+  <data name="RescheduleLesson" xml:space="preserve">
+    <value>Cambiar fecha de clase</value>
+  </data>
+  <data name="JoiningClassroom" xml:space="preserve">
+    <value>Entrando a la clase</value>
+  </data>
+  <data name="WaitingPartnerClassroom" xml:space="preserve">
+    <value>Esperando a que {0} entre en la clase</value>
+  </data>
+  <data name="WaitingTo" xml:space="preserve">
+    <value>Esperando a los permisos para usar tu cámara...</value>
+  </data>
+  <data name="cannotJoinClassroom" xml:space="preserve">
+    <value>Ha habido un problema entrando a la clase. Por favor, recarga la página e inténtalo de nuevo. Si el problema persiste, por favor, contáctanos</value>
+  </data>
+  <data name="ReportIssue" xml:space="preserve">
+    <value>Notificar problema</value>
+  </data>
+  <data name="RequireOneErrorMsg" xml:space="preserve">
+    <value>Por favor, selecciona al menos una opción</value>
+  </data>
+  <data name="RequestMediation" xml:space="preserve">
+    <value>Solicitar mediación</value>
+  </data>
 </root>

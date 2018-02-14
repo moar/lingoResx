@@ -294,4 +294,13 @@
   <data name="how-learn-english-online" xml:space="preserve">
     <value>aprender-idiomas/ingles/como-aprender-online/</value>
   </data>
+  <data name="booklessons" xml:space="preserve">
+    <value>profesores/{username}/reservar-clases-{langname}/</value>
+  </data>
+  <data name="teacherprofile" xml:space="preserve">
+    <value>profesores/{username}/</value>
+  </data>
+  <data name="teachers" xml:space="preserve">
+    <value>profesores</value>
+  </data>
 </root>

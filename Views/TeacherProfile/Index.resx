@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -128,6 +128,12 @@
   </data>
   <data name="AddPosition" xml:space="preserve">
     <value>Add Position</value>
+  </data>
+  <data name="Availability" xml:space="preserve">
+    <value>Availability</value>
+  </data>
+  <data name="BookLessons" xml:space="preserve">
+    <value>Book {0} lessons</value>
   </data>
   <data name="Company" xml:space="preserve">
     <value>Company</value>
@@ -171,11 +177,32 @@
   <data name="FromGreaterThanTo" xml:space="preserve">
     <value>The field From cannot be grater than the field To</value>
   </data>
+  <data name="FullLessons" xml:space="preserve">
+    <value>Full lessons (1 hour/lesson)</value>
+  </data>
+  <data name="LangLessons" xml:space="preserve">
+    <value>{0} lessons</value>
+  </data>
+  <data name="NoRatings" xml:space="preserve">
+    <value>There aren't available ratings yet</value>
+  </data>
   <data name="NoRatingsEditor" xml:space="preserve">
     <value>You haven't received any ratings yet</value>
   </data>
+  <data name="OneLesson" xml:space="preserve">
+    <value>1 lesson</value>
+  </data>
+  <data name="PayAsYouGo" xml:space="preserve">
+    <value>Pay as you go</value>
+  </data>
   <data name="Position" xml:space="preserve">
     <value>Position</value>
+  </data>
+  <data name="PrivateLessons" xml:space="preserve">
+    <value>private lessons</value>
+  </data>
+  <data name="PrLessonsBookTip" xml:space="preserve">
+    <value>Check availability and book lessons</value>
   </data>
   <data name="School" xml:space="preserve">
     <value>School</value>
@@ -198,7 +225,103 @@
   <data name="VimeoInvalidUrl" xml:space="preserve">
     <value>This is not a valid Vimeo url</value>
   </data>
+  <data name="XLessons" xml:space="preserve">
+    <value>{0} lessons</value>
+  </data>
   <data name="YoutubeInvalidUrl" xml:space="preserve">
     <value>This is not a valid Youtube url</value>
+  </data>
+  <data name="AtPresent" xml:space="preserve">
+    <value>at present</value>
+  </data>
+  <data name="FiveLessonsRate" xml:space="preserve">
+    <value>Five lessons</value>
+  </data>
+  <data name="OneLessonRate" xml:space="preserve">
+    <value>One lesson</value>
+  </data>
+  <data name="PayAsYouGoRate" xml:space="preserve">
+    <value>Pay as you go</value>
+  </data>
+  <data name="TenLessonsRate" xml:space="preserve">
+    <value>Ten lessons</value>
+  </data>
+  <data name="AboutMe" xml:space="preserve">
+    <value>About me</value>
+  </data>
+  <data name="AddLanguage" xml:space="preserve">
+    <value>Add language</value>
+  </data>
+  <data name="AddLinkedinTip" xml:space="preserve">
+    <value>Add your teaching position at Langademy to your LinkedIn profile</value>
+  </data>
+  <data name="AddRates" xml:space="preserve">
+    <value>Add rates</value>
+  </data>
+  <data name="AddVideo" xml:space="preserve">
+    <value>Add your self introduction video</value>
+  </data>
+  <data name="AddVideoLabel" xml:space="preserve">
+    <value>Add link to your introduction in Youtube or Vimeo</value>
+  </data>
+  <data name="ISpeak" xml:space="preserve">
+    <value>I speak</value>
+  </data>
+  <data name="LanguageOfLessons" xml:space="preserve">
+    <value>Language of the lessons</value>
+  </data>
+  <data name="MaxLengthAbout" xml:space="preserve">
+    <value>Max length: {0} characters</value>
+  </data>
+  <data name="NewTeacher" xml:space="preserve">
+    <value>New teacher</value>
+  </data>
+  <data name="OneLessonLong" xml:space="preserve">
+    <value>Rate per hour for purchasing 1 lesson</value>
+  </data>
+  <data name="PayAsYouGoLong" xml:space="preserve">
+    <value>Pay as you go rate (Rate/hour)</value>
+  </data>
+  <data name="PersonalInformation" xml:space="preserve">
+    <value>Personal information</value>
+  </data>
+  <data name="RatesCreditsRemember" xml:space="preserve">
+    <value>Remember! All rates are set in Langademy credits</value>
+  </data>
+  <data name="RatesForNativeInfo" xml:space="preserve">
+    <value>You can add rates for language lessons in your native languages</value>
+  </data>
+  <data name="Ratings" xml:space="preserve">
+    <value>Ratings</value>
+  </data>
+  <data name="Speaks" xml:space="preserve">
+    <value>Speaks</value>
+  </data>
+  <data name="Teaches" xml:space="preserve">
+    <value>teaches</value>
+  </data>
+  <data name="UpdateVideo" xml:space="preserve">
+    <value>Update video</value>
+  </data>
+  <data name="VideoIntroduction" xml:space="preserve">
+    <value>Video introduction</value>
+  </data>
+  <data name="XLessonsLong" xml:space="preserve">
+    <value>Rate per hour for purchasing {0} lessons</value>
+  </data>
+  <data name="ThirtyMinLong" xml:space="preserve">
+    <value>Rate per hour for purchasing 30 minutes lessons</value>
+  </data>
+  <data name="ThirtyMinutesRate" xml:space="preserve">
+    <value>30 minutes</value>
+  </data>
+  <data name="ThirtyMinRate" xml:space="preserve">
+    <value>30 minutes lesson</value>
+  </data>
+  <data name="OneHourLessons" xml:space="preserve">
+    <value>1 hour lessons</value>
+  </data>
+  <data name="ThirtyMinLessons" xml:space="preserve">
+    <value>30 min lessons</value>
   </data>
 </root>

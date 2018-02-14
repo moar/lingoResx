@@ -187,6 +187,15 @@ namespace Resources.Models.Buttons {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Show more.
+        /// </summary>
+        public static string ShowMore {
+            get {
+                return ResourceManager.GetString("ShowMore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Show older.
         /// </summary>
         public static string ShowOlder {

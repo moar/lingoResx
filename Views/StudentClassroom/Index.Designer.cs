@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Resources.Views.TeacherClassroom {
+namespace Resources.Views.StudentClassroom {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Resources.Views.TeacherClassroom {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.TeacherClassroom.Index", typeof(Index).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Resources.Views.StudentClassroom.Index", typeof(Index).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -70,7 +70,7 @@ namespace Resources.Views.TeacherClassroom {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0 classrooms found. You need to contact students and sell lessons!.
+        ///   Looks up a localized string similar to 0 classrooms found. Find a teacher and purchase lessons .
         /// </summary>
         public static string NoClassrooms {
             get {
@@ -79,7 +79,7 @@ namespace Resources.Views.TeacherClassroom {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You don&apos;t have more lessons scheduled with this student.
+        ///   Looks up a localized string similar to You don&apos;t have more lessons scheduled with this teacher. You should purchase more.
         /// </summary>
         public static string NoNextLessons {
             get {
