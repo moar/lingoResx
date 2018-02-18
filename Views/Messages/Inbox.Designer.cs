@@ -19,7 +19,7 @@ namespace Resources.Views.Messages {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Inbox {
@@ -80,7 +80,7 @@ namespace Resources.Views.Messages {
         
         /// <summary>
         ///   Looks up a localized string similar to Welcome to Langademy! If you have any suggestions, you can reply to this conversation. We will give you an answer as soon as posible.
-        ///Check &lt;a href=&quot;https://www.langademy.com/help/&quot;&gt; this link to start!&lt;/a&gt;.
+        ///Check https://www.langademy.com/help/  to start!.
         /// </summary>
         public static string FBMessage {
             get {
