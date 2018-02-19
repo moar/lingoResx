@@ -19,7 +19,7 @@ namespace Resources.Views.TeachingApplication {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Index {
@@ -61,11 +61,533 @@ namespace Resources.Views.TeachingApplication {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Activate.
+        /// </summary>
+        public static string Activate {
+            get {
+                return ResourceManager.GetString("Activate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add attachment.
+        /// </summary>
+        public static string AddAttachment {
+            get {
+                return ResourceManager.GetString("AddAttachment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Application submitted on.
+        /// </summary>
+        public static string ApplSubmittedOn {
+            get {
+                return ResourceManager.GetString("ApplSubmittedOn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upload certificates or any document that allow us to verify your professional experience and education for teaching languages (PDF documents only).
+        /// </summary>
+        public static string AttachBlockDescr {
+            get {
+                return ResourceManager.GetString("AttachBlockDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add a brief description about the content of this document.
+        /// </summary>
+        public static string AttachDescrPlaceHolder {
+            get {
+                return ResourceManager.GetString("AttachDescrPlaceHolder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Attachments.
+        /// </summary>
+        public static string Attachments {
+            get {
+                return ResourceManager.GetString("Attachments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Availability calendar.
+        /// </summary>
+        public static string AvailCalendar {
+            get {
+                return ResourceManager.GetString("AvailCalendar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Click the next button to activate your profile.
+        /// </summary>
+        public static string ClickToActivate {
+            get {
+                return ResourceManager.GetString("ClickToActivate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to delete your application? This step cannot be undone.
+        /// </summary>
+        public static string ConfirmDeleteAppli {
+            get {
+                return ResourceManager.GetString("ConfirmDeleteAppli", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you confirm that you want to submit your application?.
+        /// </summary>
+        public static string ConfirmSubmitAppli {
+            get {
+                return ResourceManager.GetString("ConfirmSubmitAppli", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Congratulations! Your application has been accepted.
+        /// </summary>
+        public static string CongratsApplAccepted {
+            get {
+                return ResourceManager.GetString("CongratsApplAccepted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cover photo.
+        /// </summary>
+        public static string CoverPhoto {
+            get {
+                return ResourceManager.GetString("CoverPhoto", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unfortunately your application has been declined. Check the report and then you can decide if you want to modify your application for submitting it again.
+        /// </summary>
+        public static string DeclinedDescr {
+            get {
+                return ResourceManager.GetString("DeclinedDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Description.
+        /// </summary>
+        public static string Description {
+            get {
+                return ResourceManager.GetString("Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Description must be less than {1} character long.
         /// </summary>
         public static string DescriptionMaxLength {
             get {
                 return ResourceManager.GetString("DescriptionMaxLength", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Download speed.
+        /// </summary>
+        public static string DownloadSpeed {
+            get {
+                return ResourceManager.GetString("DownloadSpeed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edit attachment description.
+        /// </summary>
+        public static string EditAttachDescr {
+            get {
+                return ResourceManager.GetString("EditAttachDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education.
+        /// </summary>
+        public static string Education {
+            get {
+                return ResourceManager.GetString("Education", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Error recording the speed test. Please, refresh the page and run again.
+        /// </summary>
+        public static string ErrorRecordingSpeed {
+            get {
+                return ResourceManager.GetString("ErrorRecordingSpeed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Application evaluation report.
+        /// </summary>
+        public static string EvalReportTitle {
+            get {
+                return ResourceManager.GetString("EvalReportTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Experience.
+        /// </summary>
+        public static string Experience {
+            get {
+                return ResourceManager.GetString("Experience", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This image will not be published anywhere.
+        /// </summary>
+        public static string ImgNotPub {
+            get {
+                return ResourceManager.GetString("ImgNotPub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Thank you for applying to teach on Langademy.
+        /// </summary>
+        public static string Intro1 {
+            get {
+                return ResourceManager.GetString("Intro1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your application consists of four sections.
+        /// </summary>
+        public static string Intro2 {
+            get {
+                return ResourceManager.GetString("Intro2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Personal Data and profile.
+        /// </summary>
+        public static string IntroSection1 {
+            get {
+                return ResourceManager.GetString("IntroSection1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Attachments that certify your curriculum vitae.
+        /// </summary>
+        public static string IntroSection2 {
+            get {
+                return ResourceManager.GetString("IntroSection2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Availability calendar.
+        /// </summary>
+        public static string IntroSection3 {
+            get {
+                return ResourceManager.GetString("IntroSection3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Technical requirements.
+        /// </summary>
+        public static string IntroSection4 {
+            get {
+                return ResourceManager.GetString("IntroSection4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Introduction video.
+        /// </summary>
+        public static string IntroVideo {
+            get {
+                return ResourceManager.GetString("IntroVideo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Invoicing information.
+        /// </summary>
+        public static string InvoiceInfo {
+            get {
+                return ResourceManager.GetString("InvoiceInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please, complete your personal data for invoicing.
+        /// </summary>
+        public static string InvoiceInfoDesc {
+            get {
+                return ResourceManager.GetString("InvoiceInfoDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy will issue your invoices using this information.
+        /// </summary>
+        public static string InvoiceInfoDesc2 {
+            get {
+                return ResourceManager.GetString("InvoiceInfoDesc2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The last time you submitted your application it was declined for the following reasons. Check them all before submitting it again.
+        /// </summary>
+        public static string LastDeclReasons {
+            get {
+                return ResourceManager.GetString("LastDeclReasons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Modify application.
+        /// </summary>
+        public static string ModifyAppli {
+            get {
+                return ResourceManager.GetString("ModifyAppli", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to only PDF documents.
+        /// </summary>
+        public static string OnlyPDF {
+            get {
+                return ResourceManager.GetString("OnlyPDF", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Personal Data and profile.
+        /// </summary>
+        public static string PersDataTitle {
+            get {
+                return ResourceManager.GetString("PersDataTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Photo Id.
+        /// </summary>
+        public static string PhotoId {
+            get {
+                return ResourceManager.GetString("PhotoId", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please, upload an image of a government Id document that confirms your identity (passport, driver&apos;s license, national Id Document, or similar, as long as it includes your photo).
+        /// </summary>
+        public static string PhotoIdDesc {
+            get {
+                return ResourceManager.GetString("PhotoIdDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ping time.
+        /// </summary>
+        public static string PingTime {
+            get {
+                return ResourceManager.GetString("PingTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Powered By.
+        /// </summary>
+        public static string PoweredBy {
+            get {
+                return ResourceManager.GetString("PoweredBy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Prepare application.
+        /// </summary>
+        public static string PrepareApplication {
+            get {
+                return ResourceManager.GetString("PrepareApplication", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to prepare your application for teaching at Langademy.
+        /// </summary>
+        public static string PrepareApplText {
+            get {
+                return ResourceManager.GetString("PrepareApplText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Profile photo.
+        /// </summary>
+        public static string ProfilePhoto {
+            get {
+                return ResourceManager.GetString("ProfilePhoto", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Profile.
+        /// </summary>
+        public static string ProfileTitle {
+            get {
+                return ResourceManager.GetString("ProfileTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Provider.
+        /// </summary>
+        public static string Provider {
+            get {
+                return ResourceManager.GetString("Provider", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rates.
+        /// </summary>
+        public static string Rates {
+            get {
+                return ResourceManager.GetString("Rates", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select document.
+        /// </summary>
+        public static string SelectDoc {
+            get {
+                return ResourceManager.GetString("SelectDoc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Speed test.
+        /// </summary>
+        public static string SpeedTest {
+            get {
+                return ResourceManager.GetString("SpeedTest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Submission date.
+        /// </summary>
+        public static string SubmissionDate {
+            get {
+                return ResourceManager.GetString("SubmissionDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When your application is reviewed you will be notified by e-mail.
+        /// </summary>
+        public static string SubmittedApplDescr {
+            get {
+                return ResourceManager.GetString("SubmittedApplDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Technical requirements.
+        /// </summary>
+        public static string TechnicalReqs {
+            get {
+                return ResourceManager.GetString("TechnicalReqs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Test date.
+        /// </summary>
+        public static string TestDate {
+            get {
+                return ResourceManager.GetString("TestDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Test result.
+        /// </summary>
+        public static string TestResult {
+            get {
+                return ResourceManager.GetString("TestResult", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Test video call requirements.
+        /// </summary>
+        public static string TestVideoReqs {
+            get {
+                return ResourceManager.GetString("TestVideoReqs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Thank you for submitting your application!.
+        /// </summary>
+        public static string ThanksForSubm {
+            get {
+                return ResourceManager.GetString("ThanksForSubm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update the description of this attachment.
+        /// </summary>
+        public static string UpdateAttachDescr {
+            get {
+                return ResourceManager.GetString("UpdateAttachDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upload document.
+        /// </summary>
+        public static string UploadDoc {
+            get {
+                return ResourceManager.GetString("UploadDoc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upload photo Id.
+        /// </summary>
+        public static string UploadPhotoId {
+            get {
+                return ResourceManager.GetString("UploadPhotoId", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upload speed.
+        /// </summary>
+        public static string UploadSpeed {
+            get {
+                return ResourceManager.GetString("UploadSpeed", resourceCulture);
             }
         }
     }

@@ -539,6 +539,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Room.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\WebRtcTest\WebRtcTest.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebRtcTest.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -1432,10 +1437,14 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Room.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\WebRtcTest\WebRtcTest.es.resx" />
+    <EmbeddedResource Include="Views\WebRtcTest\WebRtcTest.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WebRtcTest.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="NewFolder1\" />
-    <Folder Include="Views\NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

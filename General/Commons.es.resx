@@ -117,8 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ErrorSavingPleaseRetry" xml:space="preserve">
+    <value>Error guardando. Por favor, refresca la página e inténtalo de nuevo. Si el problema persiste contáctanos</value>
+  </data>
+  <data name="HiNameExcl" xml:space="preserve">
+    <value>¡Hola {0}!</value>
+  </data>
   <data name="ManageStudProfile" xml:space="preserve">
     <value>Gestionar perfil de estudiante</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Guardado</value>
+  </data>
+  <data name="SavingDots" xml:space="preserve">
+    <value>Guardando...</value>
   </data>
   <data name="View" xml:space="preserve">
     <value>Ver</value>

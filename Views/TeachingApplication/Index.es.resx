@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -117,7 +117,181 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Activate" xml:space="preserve">
+    <value>Activar</value>
+  </data>
+  <data name="AddAttachment" xml:space="preserve">
+    <value>Añadir adjunto</value>
+  </data>
+  <data name="ApplSubmittedOn" xml:space="preserve">
+    <value>Fecha de envío de la solictud</value>
+  </data>
+  <data name="AttachBlockDescr" xml:space="preserve">
+    <value>Adjunta certificados o cualquier documento que nos permita acreditar tu experiencia profesional y tu formación para enseñar idiomas (solo documentos PDF)</value>
+  </data>
+  <data name="AttachDescrPlaceHolder" xml:space="preserve">
+    <value>Añade una breve descripción sobre el contenido de este documento</value>
+  </data>
+  <data name="Attachments" xml:space="preserve">
+    <value>Adjuntos</value>
+  </data>
+  <data name="AvailCalendar" xml:space="preserve">
+    <value>Calendario de disponibilidad</value>
+  </data>
+  <data name="ClickToActivate" xml:space="preserve">
+    <value>Haz click en el siguiente botón para activar tu perfil</value>
+  </data>
+  <data name="ConfirmDeleteAppli" xml:space="preserve">
+    <value>¿Estás seguro de que quieres eliminar tu solicitud? Este paso no se puede deshacer</value>
+  </data>
+  <data name="ConfirmSubmitAppli" xml:space="preserve">
+    <value>¿Confirmas que quieres enviar tu solicitud?</value>
+  </data>
+  <data name="CongratsApplAccepted" xml:space="preserve">
+    <value>¡Felicidades! Tu solicitud ha sido aceptada</value>
+  </data>
+  <data name="CoverPhoto" xml:space="preserve">
+    <value>Foto de portada</value>
+  </data>
+  <data name="DeclinedDescr" xml:space="preserve">
+    <value>Desafortunadamente tu solicitud ha sido rechazada. Revisa el informe y luego puedes decidir si quieres modificar tu solicitud para enviarla de nuevo</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Descripción</value>
+  </data>
   <data name="DescriptionMaxLength" xml:space="preserve">
     <value>La descripción debe tener menos de {1} caracteres</value>
+  </data>
+  <data name="DownloadSpeed" xml:space="preserve">
+    <value>Velocidad de descarga</value>
+  </data>
+  <data name="EditAttachDescr" xml:space="preserve">
+    <value>Editar descrición del adjunto</value>
+  </data>
+  <data name="Education" xml:space="preserve">
+    <value>Formación</value>
+  </data>
+  <data name="ErrorRecordingSpeed" xml:space="preserve">
+    <value>Error guardando el test de velocidad. Por favor, refresca la página e inténtalo de nuevo</value>
+  </data>
+  <data name="EvalReportTitle" xml:space="preserve">
+    <value>Informe de evaluación de la solicitud</value>
+  </data>
+  <data name="Experience" xml:space="preserve">
+    <value>Experiencia</value>
+  </data>
+  <data name="ImgNotPub" xml:space="preserve">
+    <value>Esta imagen no se publicará en ningún sitio</value>
+  </data>
+  <data name="Intro1" xml:space="preserve">
+    <value>Gracias por tu solicitud para enseñar en Langademy</value>
+  </data>
+  <data name="Intro2" xml:space="preserve">
+    <value>Tu solicitud está compuesta por 4 secciones</value>
+  </data>
+  <data name="IntroSection1" xml:space="preserve">
+    <value>Datos personales y perfil</value>
+  </data>
+  <data name="IntroSection2" xml:space="preserve">
+    <value>Adjuntos que certifican tu curriculum vitae</value>
+  </data>
+  <data name="IntroSection3" xml:space="preserve">
+    <value>Calendario de disponibilidad</value>
+  </data>
+  <data name="IntroSection4" xml:space="preserve">
+    <value>Requisitos técnicos</value>
+  </data>
+  <data name="IntroVideo" xml:space="preserve">
+    <value>Video de presentación</value>
+  </data>
+  <data name="InvoiceInfo" xml:space="preserve">
+    <value>Información de facturación</value>
+  </data>
+  <data name="InvoiceInfoDesc" xml:space="preserve">
+    <value>Por favor, completa tus datos de facturación</value>
+  </data>
+  <data name="InvoiceInfoDesc2" xml:space="preserve">
+    <value>Langademy emitirá las facturas utilizando esta información</value>
+  </data>
+  <data name="LastDeclReasons" xml:space="preserve">
+    <value>La última vez que enviaste tu solicitud fue rechazada por los siguientes motivos. Revísalos todos antes de enviarla de nuevo</value>
+  </data>
+  <data name="ModifyAppli" xml:space="preserve">
+    <value>Modificar solicitud</value>
+  </data>
+  <data name="OnlyPDF" xml:space="preserve">
+    <value>solo documentos PDF</value>
+  </data>
+  <data name="PersDataTitle" xml:space="preserve">
+    <value>Datos personales y perfil</value>
+  </data>
+  <data name="PhotoId" xml:space="preserve">
+    <value>Documento de identidad</value>
+  </data>
+  <data name="PhotoIdDesc" xml:space="preserve">
+    <value>Por favor, sube la foto de un documento gubernamental que confirme tu identidad (pasaporte, carnet de conducir, documento nacional de identidad, o similar, siempre que incluya tu foto)</value>
+  </data>
+  <data name="PingTime" xml:space="preserve">
+    <value>Tiempo de ping</value>
+  </data>
+  <data name="PoweredBy" xml:space="preserve">
+    <value>Proporcionado por</value>
+  </data>
+  <data name="PrepareApplication" xml:space="preserve">
+    <value>Preparar solicitud</value>
+  </data>
+  <data name="PrepareApplText" xml:space="preserve">
+    <value>prepara tu solictud para enseñar en Langademy</value>
+  </data>
+  <data name="ProfilePhoto" xml:space="preserve">
+    <value>Foto de perfil</value>
+  </data>
+  <data name="ProfileTitle" xml:space="preserve">
+    <value>Perfil</value>
+  </data>
+  <data name="Provider" xml:space="preserve">
+    <value>Proveedor</value>
+  </data>
+  <data name="Rates" xml:space="preserve">
+    <value>Tarifas</value>
+  </data>
+  <data name="SelectDoc" xml:space="preserve">
+    <value>Seleccionar documento</value>
+  </data>
+  <data name="SpeedTest" xml:space="preserve">
+    <value>Test de velocidad</value>
+  </data>
+  <data name="SubmissionDate" xml:space="preserve">
+    <value>Fecha de envío</value>
+  </data>
+  <data name="SubmittedApplDescr" xml:space="preserve">
+    <value>Cuando tu solictud sea revisada se te notificará por email</value>
+  </data>
+  <data name="TechnicalReqs" xml:space="preserve">
+    <value>Requisitos técnicos</value>
+  </data>
+  <data name="TestDate" xml:space="preserve">
+    <value>Fecha del test</value>
+  </data>
+  <data name="TestResult" xml:space="preserve">
+    <value>Resultado del test</value>
+  </data>
+  <data name="TestVideoReqs" xml:space="preserve">
+    <value>Test de requisitos de videollamada</value>
+  </data>
+  <data name="ThanksForSubm" xml:space="preserve">
+    <value>¡Gracias por enviar tu solicitud</value>
+  </data>
+  <data name="UpdateAttachDescr" xml:space="preserve">
+    <value>Actualiza la descripción de este adjunto</value>
+  </data>
+  <data name="UploadDoc" xml:space="preserve">
+    <value>Subir documento</value>
+  </data>
+  <data name="UploadPhotoId" xml:space="preserve">
+    <value>Subir documento de identidad</value>
+  </data>
+  <data name="UploadSpeed" xml:space="preserve">
+    <value>Velocidad de subida</value>
   </data>
 </root>
