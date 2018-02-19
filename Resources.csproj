@@ -128,6 +128,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Exceptions.resx</DependentUpon>
     </Compile>
+    <Compile Include="General\Commons.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Commons.resx</DependentUpon>
+    </Compile>
     <Compile Include="General\CookieConsent.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -608,6 +613,11 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Exceptions.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\Commons.es.resx" />
+    <EmbeddedResource Include="General\Commons.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Commons.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="General\CookieConsent.ca.resx" />
     <EmbeddedResource Include="General\CookieConsent.de.resx" />

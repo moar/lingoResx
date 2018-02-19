@@ -117,61 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ActiStudBefore" xml:space="preserve">
-    <value>Only students can purchase lessons. Follow the next link to activate your student profile</value>
+  <data name="ManageStudProfile" xml:space="preserve">
+    <value>Manage student profile</value>
   </data>
-  <data name="BookLangTitle" xml:space="preserve">
-    <value>Book &lt;span class="text-bold"&gt;{0}&lt;/span&gt; lessons</value>
-  </data>
-  <data name="ConfirmAndPay" xml:space="preserve">
-    <value>Confirm and pay</value>
-  </data>
-  <data name="DatesLocal" xml:space="preserve">
-    <value>All dates are shown in your local time zone</value>
-  </data>
-  <data name="FiveFeat1" xml:space="preserve">
-    <value>Purchase a pack of 5 lessons (1 hour each)</value>
-  </data>
-  <data name="NoLessonRates" xml:space="preserve">
-    <value>The teacher removed or updated the rates for this language. Please, refresh the page and book the lesson again</value>
-  </data>
-  <data name="OneFeat1" xml:space="preserve">
-    <value>Purchase 1 lesson (1 hour)</value>
-  </data>
-  <data name="OpenLessonPurchase" xml:space="preserve">
-    <value>Lesson purchase</value>
-  </data>
-  <data name="PurchaseProcessed" xml:space="preserve">
-    <value>Your purchase is completed! Now you're being redirected to your Lesson Purchases app</value>
-  </data>
-  <data name="PurchaseProcessing" xml:space="preserve">
-    <value>Your purchase is being processed. Please, wait...</value>
-  </data>
-  <data name="ReserveOneLessonDate" xml:space="preserve">
-    <value>You have to reserve at least the date for one lesson</value>
-  </data>
-  <data name="SelectDate" xml:space="preserve">
-    <value>Select date</value>
-  </data>
-  <data name="SelectRate" xml:space="preserve">
-    <value>Select rate</value>
-  </data>
-  <data name="SignBefore" xml:space="preserve">
-    <value>You have to sign in in order to continue with the purchase</value>
-  </data>
-  <data name="TeacherChangedAvailability" xml:space="preserve">
-    <value>The teacher has changed the availability calendar. Please, refresh the page and book the lesson again</value>
-  </data>
-  <data name="TenFeat1" xml:space="preserve">
-    <value>Purchase a pack of 10 lessons (1 hour each)</value>
-  </data>
-  <data name="ThirtyFeat1" xml:space="preserve">
-    <value>Pay per a 30 minutes lesson</value>
-  </data>
-  <data name="ThirtyFeat2" xml:space="preserve">
-    <value>This is the best option for a first lesson</value>
-  </data>
-  <data name="WalletBalanceChanged" xml:space="preserve">
-    <value>Your Wallet balance has changed. Please, refresh the page and book again</value>
+  <data name="View" xml:space="preserve">
+    <value>View</value>
   </data>
 </root>
