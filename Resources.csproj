@@ -1212,6 +1212,7 @@
     <EmbeddedResource Include="Views\Messages\Inbox.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Inbox.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\MyCalendar\Index.ca.resx" />
     <EmbeddedResource Include="Views\MyCalendar\Index.es.resx" />
