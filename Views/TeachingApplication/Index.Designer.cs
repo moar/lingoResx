@@ -88,6 +88,78 @@ namespace Resources.Views.TeachingApplication {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If your are having troubles to complete your application, contact us and we will be happy to help you (contact@langademy.com).
+        /// </summary>
+        public static string ApplValDefault {
+            get {
+                return ResourceManager.GetString("ApplValDefault", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to There are missing items in your profile. Please, complete it and submit your application again.
+        /// </summary>
+        public static string ApplValProfile {
+            get {
+                return ResourceManager.GetString("ApplValProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have to complete your estimated availability calendar before submitting your application.
+        /// </summary>
+        public static string AppValAvailability {
+            get {
+                return ResourceManager.GetString("AppValAvailability", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You haven&apos;t uploaded any document that certifies your professional experience and education for teaching languages.
+        /// </summary>
+        public static string AppValDocuments {
+            get {
+                return ResourceManager.GetString("AppValDocuments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You must upload a photo of your governmental Identity card.
+        /// </summary>
+        public static string AppValGobernIdMissing {
+            get {
+                return ResourceManager.GetString("AppValGobernIdMissing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unfortunately your last broadband speed test was below 1 Mbps (download/upload). If you improve your internet connection, run the speed test and submit the application again.
+        /// </summary>
+        public static string AppValSpeedTest {
+            get {
+                return ResourceManager.GetString("AppValSpeedTest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You must run the speed test.
+        /// </summary>
+        public static string AppValSpeedTestMissing {
+            get {
+                return ResourceManager.GetString("AppValSpeedTestMissing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You must run the video call test before submitting your application.
+        /// </summary>
+        public static string AppValWebrtcTest {
+            get {
+                return ResourceManager.GetString("AppValWebrtcTest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Upload certificates or any document that allow us to verify your professional experience and education for teaching languages (PDF documents only).
         /// </summary>
         public static string AttachBlockDescr {

@@ -297,4 +297,28 @@
   <data name="AvailCalendarDesc" xml:space="preserve">
     <value>Select on the calendar the slots when you will be available for teaching weekly (in your local time zone)</value>
   </data>
+  <data name="ApplValDefault" xml:space="preserve">
+    <value>If your are having troubles to complete your application, contact us and we will be happy to help you (contact@langademy.com)</value>
+  </data>
+  <data name="ApplValProfile" xml:space="preserve">
+    <value>There are missing items in your profile. Please, complete it and submit your application again</value>
+  </data>
+  <data name="AppValAvailability" xml:space="preserve">
+    <value>You have to complete your estimated availability calendar before submitting your application</value>
+  </data>
+  <data name="AppValDocuments" xml:space="preserve">
+    <value>You haven't uploaded any document that certifies your professional experience and education for teaching languages</value>
+  </data>
+  <data name="AppValGobernIdMissing" xml:space="preserve">
+    <value>You must upload a photo of your governmental Identity card</value>
+  </data>
+  <data name="AppValSpeedTest" xml:space="preserve">
+    <value>Unfortunately your last broadband speed test was below 1 Mbps (download/upload). If you improve your internet connection, run the speed test and submit the application again</value>
+  </data>
+  <data name="AppValSpeedTestMissing" xml:space="preserve">
+    <value>You must run the speed test</value>
+  </data>
+  <data name="AppValWebrtcTest" xml:space="preserve">
+    <value>You must run the video call test before submitting your application</value>
+  </data>
 </root>

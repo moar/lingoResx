@@ -297,4 +297,28 @@
   <data name="AvailCalendarDesc" xml:space="preserve">
     <value>Selecciona en el calendario las franjas en las que estarás disponible semanalmente para enseñar (en tu zona horaria local)</value>
   </data>
+  <data name="ApplValDefault" xml:space="preserve">
+    <value>Si estás teniendo problemas para completar tu solicitud, contáctanos y estaremos encantados de ayudarte (contact@langademy.com)</value>
+  </data>
+  <data name="ApplValProfile" xml:space="preserve">
+    <value>Hay secciones de tu perfil que falta por completar. Por favor, rellénalas y envía la solicitud de nuevo</value>
+  </data>
+  <data name="AppValAvailability" xml:space="preserve">
+    <value>Tienes que rellenar tu calendario de disponibilidad estimado antes de enviar la solicitud</value>
+  </data>
+  <data name="AppValDocuments" xml:space="preserve">
+    <value>No has adjuntado ningún documento que certifique tu experiencia profesional y tu formación para enseñar idiomas</value>
+  </data>
+  <data name="AppValGobernIdMissing" xml:space="preserve">
+    <value>Tienes que subir una foto de tu tarjeta de Identificación gubernamental</value>
+  </data>
+  <data name="AppValSpeedTest" xml:space="preserve">
+    <value>Desafortnadamente el último test de velocidad de tu conexión a internet estaba por debajo de 1 Mbps (bajada/subida). Si mejoras tu conexión a internet ejecuta el test de velocidad y envía la solicitud de nuevo</value>
+  </data>
+  <data name="AppValSpeedTestMissing" xml:space="preserve">
+    <value>Tienes que ejecutar el test de velocidad</value>
+  </data>
+  <data name="AppValWebrtcTest" xml:space="preserve">
+    <value>Debes ejecutar el test de video llamada antes de enviar la solictud</value>
+  </data>
 </root>
