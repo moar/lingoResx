@@ -117,14 +117,41 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ActivateStudentProf" xml:space="preserve">
+    <value>Activar tu perfil de estudiante</value>
+  </data>
+  <data name="CandidateNotTeacherWarn" xml:space="preserve">
+    <value>No puedes acceder a las herramientas de profesor hasta que envíes tu solicitud y sea aprobada</value>
+  </data>
   <data name="ErrorSavingPleaseRetry" xml:space="preserve">
     <value>Error guardando. Por favor, refresca la página e inténtalo de nuevo. Si el problema persiste contáctanos</value>
+  </data>
+  <data name="GoToStudents" xml:space="preserve">
+    <value>Ir a Langademy para Estudiantes y activar perfil</value>
+  </data>
+  <data name="GoToTeachers" xml:space="preserve">
+    <value>Ir a Langademy para Profesores y preparar la solictud</value>
+  </data>
+  <data name="HiName" xml:space="preserve">
+    <value>Hola {0}</value>
   </data>
   <data name="HiNameExcl" xml:space="preserve">
     <value>¡Hola {0}!</value>
   </data>
   <data name="ManageStudProfile" xml:space="preserve">
     <value>Gestionar perfil de estudiante</value>
+  </data>
+  <data name="NoGoToTeachers" xml:space="preserve">
+    <value>No, quiero ir a Langademy para Profesores</value>
+  </data>
+  <data name="NotStudentActivateWarn" xml:space="preserve">
+    <value>No tienes perfil de estudiante. Quieres activar tu perfil de estudiante?</value>
+  </data>
+  <data name="NotStudentWarn" xml:space="preserve">
+    <value>Esta sección es para estudiantes así que no tienes acceso. Si quieres aprender idiomas activa tu perfil de estudiante</value>
+  </data>
+  <data name="NotTeacherPrepareWarn" xml:space="preserve">
+    <value>Solo profesores aprobados pueden acceder a las herramientas de profesor. ¿Quieres preparar tu solicitud y convertirte en profesor en Langademy?</value>
   </data>
   <data name="Saved" xml:space="preserve">
     <value>Guardado</value>
@@ -134,5 +161,8 @@
   </data>
   <data name="View" xml:space="preserve">
     <value>Ver</value>
+  </data>
+  <data name="ViewMore" xml:space="preserve">
+    <value>Ver más</value>
   </data>
 </root>

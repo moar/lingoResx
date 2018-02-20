@@ -124,6 +124,15 @@ namespace Resources.Views.TeachingApplication {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select on the calendar the slots when you will be available for teaching weekly (in your local time zone).
+        /// </summary>
+        public static string AvailCalendarDesc {
+            get {
+                return ResourceManager.GetString("AvailCalendarDesc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Click the next button to activate your profile.
         /// </summary>
         public static string ClickToActivate {

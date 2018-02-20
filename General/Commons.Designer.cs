@@ -61,11 +61,56 @@ namespace Resources.General {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Activate your student profile.
+        /// </summary>
+        public static string ActivateStudentProf {
+            get {
+                return ResourceManager.GetString("ActivateStudentProf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cannot access the teaching tools until you submit your application and it is accepted.
+        /// </summary>
+        public static string CandidateNotTeacherWarn {
+            get {
+                return ResourceManager.GetString("CandidateNotTeacherWarn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Error saving. Please, refresh the page and try again. If the problem persists, contact us.
         /// </summary>
         public static string ErrorSavingPleaseRetry {
             get {
                 return ResourceManager.GetString("ErrorSavingPleaseRetry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to Langademy for students and activate your profile.
+        /// </summary>
+        public static string GoToStudents {
+            get {
+                return ResourceManager.GetString("GoToStudents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to Langademy for teachers and prepare your application.
+        /// </summary>
+        public static string GoToTeachers {
+            get {
+                return ResourceManager.GetString("GoToTeachers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hi {0}.
+        /// </summary>
+        public static string HiName {
+            get {
+                return ResourceManager.GetString("HiName", resourceCulture);
             }
         }
         
@@ -106,6 +151,42 @@ namespace Resources.General {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No, I want to go to Langademy for Teachers.
+        /// </summary>
+        public static string NoGoToTeachers {
+            get {
+                return ResourceManager.GetString("NoGoToTeachers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You do not have a student profile. Do you want to activate your student profile?.
+        /// </summary>
+        public static string NotStudentActivateWarn {
+            get {
+                return ResourceManager.GetString("NotStudentActivateWarn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This section is for students, so you don&apos;t have access. If you want to learn languages activate your student profile.
+        /// </summary>
+        public static string NotStudentWarn {
+            get {
+                return ResourceManager.GetString("NotStudentWarn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Only approved teachers can access the teaching tools. Do you want to prepare your aplication and become a Langademy teacher?.
+        /// </summary>
+        public static string NotTeacherPrepareWarn {
+            get {
+                return ResourceManager.GetString("NotTeacherPrepareWarn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} characters.
         /// </summary>
         public static string NumChars {
@@ -138,6 +219,15 @@ namespace Resources.General {
         public static string View {
             get {
                 return ResourceManager.GetString("View", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View more.
+        /// </summary>
+        public static string ViewMore {
+            get {
+                return ResourceManager.GetString("ViewMore", resourceCulture);
             }
         }
     }

@@ -168,7 +168,7 @@
   <data name="ExperienceTitle" xml:space="preserve">
     <value>Experience</value>
   </data>
-  <data name="From" xml:space="preserve">
+  <data name="FromDate" xml:space="preserve">
     <value>From</value>
   </data>
   <data name="FromGreaterThanNow" xml:space="preserve">
@@ -176,9 +176,6 @@
   </data>
   <data name="FromGreaterThanTo" xml:space="preserve">
     <value>The field From cannot be grater than the field To</value>
-  </data>
-  <data name="FullLessons" xml:space="preserve">
-    <value>Full lessons (1 hour/lesson)</value>
   </data>
   <data name="LangLessons" xml:space="preserve">
     <value>{0} lessons</value>
@@ -207,7 +204,7 @@
   <data name="School" xml:space="preserve">
     <value>School</value>
   </data>
-  <data name="To" xml:space="preserve">
+  <data name="ToDate" xml:space="preserve">
     <value>To</value>
   </data>
   <data name="ToOrExpected" xml:space="preserve">
@@ -270,9 +267,6 @@
   <data name="LanguageOfLessons" xml:space="preserve">
     <value>Language of the lessons</value>
   </data>
-  <data name="MaxLengthAbout" xml:space="preserve">
-    <value>Max length: {0} characters</value>
-  </data>
   <data name="NewTeacher" xml:space="preserve">
     <value>New teacher</value>
   </data>
@@ -323,5 +317,11 @@
   </data>
   <data name="ThirtyMinLessons" xml:space="preserve">
     <value>30 min lessons</value>
+  </data>
+  <data name="FromOrigin" xml:space="preserve">
+    <value>From</value>
+  </data>
+  <data name="Lessons" xml:space="preserve">
+    <value>lessons</value>
   </data>
 </root>

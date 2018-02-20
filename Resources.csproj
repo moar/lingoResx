@@ -935,6 +935,7 @@
       <LastGenOutput>Blog.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\BookLessons\Index.es.resx" />
     <EmbeddedResource Include="Views\BookLessons\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>

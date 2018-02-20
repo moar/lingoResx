@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,22 +117,61 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FromOrigin" xml:space="preserve">
-    <value>Jaioterria</value>
+  <data name="ActiStudBefore" xml:space="preserve">
+    <value>Solo los estudiantes pueden comprar clases. Haz click en el siguiente link para activar tu perfil de estudiante</value>
   </data>
-  <data name="NewTeacher" xml:space="preserve">
-    <value>Irakasle berria</value>
+  <data name="BookLangTitle" xml:space="preserve">
+    <value>Reservar clases de &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
-  <data name="OneHourLessons" xml:space="preserve">
-    <value>Ordubeteko klaseak</value>
+  <data name="ConfirmAndPay" xml:space="preserve">
+    <value>Confirmar y pagar</value>
   </data>
-  <data name="Speaks" xml:space="preserve">
-    <value>Hitz egin</value>
+  <data name="DatesLocal" xml:space="preserve">
+    <value>Todas las fechas se muestran en tu zona horaria local</value>
   </data>
-  <data name="Teaches" xml:space="preserve">
-    <value>Irakatsi</value>
+  <data name="FiveFeat1" xml:space="preserve">
+    <value>Comprar un pack de 5 clases (1 hora cada una)</value>
   </data>
-  <data name="ThirtyMinLessons" xml:space="preserve">
-    <value>30 minutuko klaseak</value>
+  <data name="NoLessonRates" xml:space="preserve">
+    <value>El profesor eliminó o actualizó las tarifas para este idioma. Por favor, refresca la página y reserva la clase de nuevo</value>
+  </data>
+  <data name="OneFeat1" xml:space="preserve">
+    <value>Comprar 1 clase (1 hora)</value>
+  </data>
+  <data name="OpenLessonPurchase" xml:space="preserve">
+    <value>Comprar clase</value>
+  </data>
+  <data name="PurchaseProcessed" xml:space="preserve">
+    <value>¡Tu compra se ha comletado! Ahora estás siendo redirigido a tu app Compras de Clases</value>
+  </data>
+  <data name="PurchaseProcessing" xml:space="preserve">
+    <value>Tu compra está siendo procesada. Por favor, espera...</value>
+  </data>
+  <data name="ReserveOneLessonDate" xml:space="preserve">
+    <value>Tienes que reservar al menos la fecha de 1 clase</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Seleccionar fecha</value>
+  </data>
+  <data name="SelectRate" xml:space="preserve">
+    <value>Seleccionar tarifa</value>
+  </data>
+  <data name="SignBefore" xml:space="preserve">
+    <value>Tienes que iniciar sesión para continuar con la compra</value>
+  </data>
+  <data name="TeacherChangedAvailability" xml:space="preserve">
+    <value>El profesor ha cambiado su calendario de disponibilidad. Por favor, refresca la página y reserva la clase de nuevo</value>
+  </data>
+  <data name="TenFeat1" xml:space="preserve">
+    <value>Comprar un pack de 10 clases (1 hora cada una)</value>
+  </data>
+  <data name="ThirtyFeat1" xml:space="preserve">
+    <value>Pagar por 1 clase de 30 minutos</value>
+  </data>
+  <data name="ThirtyFeat2" xml:space="preserve">
+    <value>Esta es la emjor opción para la primera clase</value>
+  </data>
+  <data name="WalletBalanceChanged" xml:space="preserve">
+    <value>Tu saldo de Wallet ha cambiado. Por favor, refresca la página y reserva la clase de nuevo</value>
   </data>
 </root>

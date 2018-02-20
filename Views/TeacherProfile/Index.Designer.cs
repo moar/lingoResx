@@ -19,7 +19,7 @@ namespace Resources.Views.TeacherProfile {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Index {
@@ -288,9 +288,9 @@ namespace Resources.Views.TeacherProfile {
         /// <summary>
         ///   Looks up a localized string similar to From.
         /// </summary>
-        public static string From {
+        public static string FromDate {
             get {
-                return ResourceManager.GetString("From", resourceCulture);
+                return ResourceManager.GetString("FromDate", resourceCulture);
             }
         }
         
@@ -313,11 +313,11 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Full lessons (1 hour/lesson).
+        ///   Looks up a localized string similar to From.
         /// </summary>
-        public static string FullLessons {
+        public static string FromOrigin {
             get {
-                return ResourceManager.GetString("FullLessons", resourceCulture);
+                return ResourceManager.GetString("FromOrigin", resourceCulture);
             }
         }
         
@@ -349,11 +349,11 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Max length: {0} characters.
+        ///   Looks up a localized string similar to lessons.
         /// </summary>
-        public static string MaxLengthAbout {
+        public static string Lessons {
             get {
-                return ResourceManager.GetString("MaxLengthAbout", resourceCulture);
+                return ResourceManager.GetString("Lessons", resourceCulture);
             }
         }
         
@@ -585,9 +585,9 @@ namespace Resources.Views.TeacherProfile {
         /// <summary>
         ///   Looks up a localized string similar to To.
         /// </summary>
-        public static string To {
+        public static string ToDate {
             get {
-                return ResourceManager.GetString("To", resourceCulture);
+                return ResourceManager.GetString("ToDate", resourceCulture);
             }
         }
         

@@ -117,29 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AboutMe" xml:space="preserve">
-    <value>About me</value>
-  </data>
   <data name="FindTeacherTitle" xml:space="preserve">
     <value>Find a teacher</value>
   </data>
-  <data name="From" xml:space="preserve">
-    <value>From</value>
-  </data>
-  <data name="Lessons" xml:space="preserve">
-    <value>lessons</value>
-  </data>
   <data name="LivingIn" xml:space="preserve">
     <value>living in {0}</value>
-  </data>
-  <data name="NewTeacher" xml:space="preserve">
-    <value>New teacher</value>
-  </data>
-  <data name="Ratings" xml:space="preserve">
-    <value>Ratings</value>
-  </data>
-  <data name="Speaks" xml:space="preserve">
-    <value>Speaks</value>
   </data>
   <data name="TeachersTip1" xml:space="preserve">
     <value>Choose in the filter the options that fit your needs and visit teachers profiles</value>
@@ -149,8 +131,5 @@
   </data>
   <data name="TeachersTip3" xml:space="preserve">
     <value>Make a lesson reservation in his/her profile. The best option for a test class is to choose the "30 minutes lesson" rate</value>
-  </data>
-  <data name="Teaches" xml:space="preserve">
-    <value>Teaches</value>
   </data>
 </root>

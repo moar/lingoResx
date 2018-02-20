@@ -120,19 +120,7 @@
   <data name="FindTeacherTitle" xml:space="preserve">
     <value>Irakasle bat bilatu</value>
   </data>
-  <data name="From" xml:space="preserve">
-    <value>Jaioterria</value>
-  </data>
   <data name="LivingIn" xml:space="preserve">
     <value>{0}-(e)n bizi da</value>
-  </data>
-  <data name="NewTeacher" xml:space="preserve">
-    <value>Irakasle berria</value>
-  </data>
-  <data name="Speaks" xml:space="preserve">
-    <value>Hitz egin</value>
-  </data>
-  <data name="Teaches" xml:space="preserve">
-    <value>Irakatsi</value>
   </data>
 </root>

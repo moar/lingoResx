@@ -19,7 +19,7 @@ namespace Resources.Views.Teachers {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Index {
@@ -61,15 +61,6 @@ namespace Resources.Views.Teachers {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About me.
-        /// </summary>
-        public static string AboutMe {
-            get {
-                return ResourceManager.GetString("AboutMe", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Find a teacher.
         /// </summary>
         public static string FindTeacherTitle {
@@ -79,56 +70,11 @@ namespace Resources.Views.Teachers {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to From.
-        /// </summary>
-        public static string From {
-            get {
-                return ResourceManager.GetString("From", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to lessons.
-        /// </summary>
-        public static string Lessons {
-            get {
-                return ResourceManager.GetString("Lessons", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to living in {0}.
         /// </summary>
         public static string LivingIn {
             get {
                 return ResourceManager.GetString("LivingIn", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to New teacher.
-        /// </summary>
-        public static string NewTeacher {
-            get {
-                return ResourceManager.GetString("NewTeacher", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Ratings.
-        /// </summary>
-        public static string Ratings {
-            get {
-                return ResourceManager.GetString("Ratings", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Speaks.
-        /// </summary>
-        public static string Speaks {
-            get {
-                return ResourceManager.GetString("Speaks", resourceCulture);
             }
         }
         
@@ -156,15 +102,6 @@ namespace Resources.Views.Teachers {
         public static string TeachersTip3 {
             get {
                 return ResourceManager.GetString("TeachersTip3", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Teaches.
-        /// </summary>
-        public static string Teaches {
-            get {
-                return ResourceManager.GetString("Teaches", resourceCulture);
             }
         }
     }

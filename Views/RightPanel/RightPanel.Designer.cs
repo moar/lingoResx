@@ -19,7 +19,7 @@ namespace Resources.Views.RightPanel {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class RightPanel {
@@ -174,6 +174,15 @@ namespace Resources.Views.RightPanel {
         public static string ReloadNow {
             get {
                 return ResourceManager.GetString("ReloadNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This panel will be active when your application is approved.
+        /// </summary>
+        public static string RPCandidateMess {
+            get {
+                return ResourceManager.GetString("RPCandidateMess", resourceCulture);
             }
         }
         
@@ -340,6 +349,24 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This option is only for students.
+        /// </summary>
+        public static string RPOnlyStudents {
+            get {
+                return ResourceManager.GetString("RPOnlyStudents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This option is only for approved teachers.
+        /// </summary>
+        public static string RPOnlyTeachers {
+            get {
+                return ResourceManager.GetString("RPOnlyTeachers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Login to see your conversations.
         /// </summary>
         public static string RPRegForMessages {
@@ -363,6 +390,24 @@ namespace Resources.Views.RightPanel {
         public static string RPSearch {
             get {
                 return ResourceManager.GetString("RPSearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please, sign in with a student account.
+        /// </summary>
+        public static string RPSignWithStudent {
+            get {
+                return ResourceManager.GetString("RPSignWithStudent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please, sign in with a teaching account.
+        /// </summary>
+        public static string RPSignWithTeacher {
+            get {
+                return ResourceManager.GetString("RPSignWithTeacher", resourceCulture);
             }
         }
         

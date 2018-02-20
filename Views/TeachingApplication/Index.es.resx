@@ -133,7 +133,7 @@
     <value>Añade una breve descripción sobre el contenido de este documento</value>
   </data>
   <data name="Attachments" xml:space="preserve">
-    <value>Adjuntos</value>
+    <value>Documentos adjuntos</value>
   </data>
   <data name="AvailCalendar" xml:space="preserve">
     <value>Calendario de disponibilidad</value>
@@ -193,7 +193,7 @@
     <value>Datos personales y perfil</value>
   </data>
   <data name="IntroSection2" xml:space="preserve">
-    <value>Adjuntos que certifican tu curriculum vitae</value>
+    <value>Documentos que certifican tu curriculum vitae</value>
   </data>
   <data name="IntroSection3" xml:space="preserve">
     <value>Calendario de disponibilidad</value>
@@ -229,7 +229,7 @@
     <value>Documento de identidad</value>
   </data>
   <data name="PhotoIdDesc" xml:space="preserve">
-    <value>Por favor, sube la foto de un documento gubernamental que confirme tu identidad (pasaporte, carnet de conducir, documento nacional de identidad, o similar, siempre que incluya tu foto)</value>
+    <value>Por favor, sube la imagen de un documento gubernamental que confirme tu identidad (pasaporte, carnet de conducir, documento nacional de identidad, o similar, siempre que incluya tu foto)</value>
   </data>
   <data name="PingTime" xml:space="preserve">
     <value>Tiempo de ping</value>
@@ -280,7 +280,7 @@
     <value>Test de requisitos de videollamada</value>
   </data>
   <data name="ThanksForSubm" xml:space="preserve">
-    <value>¡Gracias por enviar tu solicitud</value>
+    <value>¡Gracias por enviar tu solicitud!</value>
   </data>
   <data name="UpdateAttachDescr" xml:space="preserve">
     <value>Actualiza la descripción de este adjunto</value>
@@ -293,5 +293,8 @@
   </data>
   <data name="UploadSpeed" xml:space="preserve">
     <value>Velocidad de subida</value>
+  </data>
+  <data name="AvailCalendarDesc" xml:space="preserve">
+    <value>Selecciona en el calendario las franjas en las que estarás disponible semanalmente para enseñar (en tu zona horaria local)</value>
   </data>
 </root>

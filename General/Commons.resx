@@ -117,8 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ActivateStudentProf" xml:space="preserve">
+    <value>Activate your student profile</value>
+  </data>
+  <data name="CandidateNotTeacherWarn" xml:space="preserve">
+    <value>You cannot access the teaching tools until you submit your application and it is accepted</value>
+  </data>
   <data name="ErrorSavingPleaseRetry" xml:space="preserve">
     <value>Error saving. Please, refresh the page and try again. If the problem persists, contact us</value>
+  </data>
+  <data name="GoToStudents" xml:space="preserve">
+    <value>Go to Langademy for students and activate your profile</value>
+  </data>
+  <data name="GoToTeachers" xml:space="preserve">
+    <value>Go to Langademy for teachers and prepare your application</value>
+  </data>
+  <data name="HiName" xml:space="preserve">
+    <value>Hi {0}</value>
   </data>
   <data name="HiNameExcl" xml:space="preserve">
     <value>Hi {0}!</value>
@@ -132,6 +147,18 @@
   <data name="MaxSize" xml:space="preserve">
     <value>Maximum Size</value>
   </data>
+  <data name="NoGoToTeachers" xml:space="preserve">
+    <value>No, I want to go to Langademy for Teachers</value>
+  </data>
+  <data name="NotStudentActivateWarn" xml:space="preserve">
+    <value>You do not have a student profile. Do you want to activate your student profile?</value>
+  </data>
+  <data name="NotStudentWarn" xml:space="preserve">
+    <value>This section is for students, so you don't have access. If you want to learn languages activate your student profile</value>
+  </data>
+  <data name="NotTeacherPrepareWarn" xml:space="preserve">
+    <value>Only approved teachers can access the teaching tools. Do you want to prepare your aplication and become a Langademy teacher?</value>
+  </data>
   <data name="NumChars" xml:space="preserve">
     <value>{0} characters</value>
   </data>
@@ -143,5 +170,8 @@
   </data>
   <data name="View" xml:space="preserve">
     <value>View</value>
+  </data>
+  <data name="ViewMore" xml:space="preserve">
+    <value>View more</value>
   </data>
 </root>
