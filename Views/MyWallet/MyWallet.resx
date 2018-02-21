@@ -202,7 +202,7 @@
     <value>State/Province is required</value>
   </data>
   <data name="MWTaxId" xml:space="preserve">
-    <value>Tax Id</value>
+    <value>VAT Id</value>
   </data>
   <data name="MWZipCode" xml:space="preserve">
     <value>Zip Code</value>
@@ -606,5 +606,17 @@
   </data>
   <data name="TeacherAccount" xml:space="preserve">
     <value>Teacher</value>
+  </data>
+  <data name="AreYouCompany" xml:space="preserve">
+    <value>Are you a company or a professional?</value>
+  </data>
+  <data name="EUVatIdValidation" xml:space="preserve">
+    <value>EU VAT Id validation</value>
+  </data>
+  <data name="InvalidVATIdWarning" xml:space="preserve">
+    <value>Your VAT Id could not be validated with the {0}. Therefore Langademy will apply VAT  in our invoices</value>
+  </data>
+  <data name="OrCompanyName" xml:space="preserve">
+    <value>or company name</value>
   </data>
 </root>

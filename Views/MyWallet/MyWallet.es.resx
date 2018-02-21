@@ -202,7 +202,7 @@
     <value>Tienes que introducir el estado/provincia</value>
   </data>
   <data name="MWTaxId" xml:space="preserve">
-    <value>CIF (Tax Id)</value>
+    <value>CIF (VAT Id)</value>
   </data>
   <data name="MWZipCode" xml:space="preserve">
     <value>Código postal</value>
@@ -605,5 +605,17 @@
   </data>
   <data name="TeacherAccount" xml:space="preserve">
     <value>Profesor</value>
+  </data>
+  <data name="AreYouCompany" xml:space="preserve">
+    <value>¿Eres una compañía o un profesional?</value>
+  </data>
+  <data name="EUVatIdValidation" xml:space="preserve">
+    <value>Validación de VAT Id</value>
+  </data>
+  <data name="InvalidVATIdWarning" xml:space="preserve">
+    <value>Tu CIF (VAT Id) no se pudo validar con el {0}. Por tanto Langademy cobrará IVA en nuestras facturas</value>
+  </data>
+  <data name="OrCompanyName" xml:space="preserve">
+    <value>o razón social</value>
   </data>
 </root>

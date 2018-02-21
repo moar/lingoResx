@@ -19,7 +19,7 @@ namespace Resources.Views.MyWallet {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class MyWallet {
@@ -192,6 +192,15 @@ namespace Resources.Views.MyWallet {
         public static string AdPayCCType {
             get {
                 return ResourceManager.GetString("AdPayCCType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you a company or a professional?.
+        /// </summary>
+        public static string AreYouCompany {
+            get {
+                return ResourceManager.GetString("AreYouCompany", resourceCulture);
             }
         }
         
@@ -619,6 +628,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to EU VAT Id validation.
+        /// </summary>
+        public static string EUVatIdValidation {
+            get {
+                return ResourceManager.GetString("EUVatIdValidation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Requested amount.
         /// </summary>
         public static string InProcReqCashoutAmount {
@@ -633,6 +651,15 @@ namespace Resources.Views.MyWallet {
         public static string InProcRequCashoutProcessed {
             get {
                 return ResourceManager.GetString("InProcRequCashoutProcessed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your VAT Id could not be validated with the {0}. Therefore Langademy will apply VAT  in our invoices.
+        /// </summary>
+        public static string InvalidVATIdWarning {
+            get {
+                return ResourceManager.GetString("InvalidVATIdWarning", resourceCulture);
             }
         }
         
@@ -1033,7 +1060,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tax Id.
+        ///   Looks up a localized string similar to VAT Id.
         /// </summary>
         public static string MWTaxId {
             get {
@@ -1083,6 +1110,15 @@ namespace Resources.Views.MyWallet {
         public static string OderCompletedBackMw {
             get {
                 return ResourceManager.GetString("OderCompletedBackMw", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to or company name.
+        /// </summary>
+        public static string OrCompanyName {
+            get {
+                return ResourceManager.GetString("OrCompanyName", resourceCulture);
             }
         }
         
