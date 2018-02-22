@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -133,7 +133,7 @@
     <value>Conferma password</value>
   </data>
   <data name="EmailConfirmationSentence" xml:space="preserve">
-    <value><![CDATA[Grazie per confermare il tuo account. Per piacere <a href="{0}" class="link">clicca qui</a> per iniziare sessione]]></value>
+    <value>Grazie per confermare il tuo account. Per piacere &lt;a href="{0}" class="link"&gt;clicca qui&lt;/a&gt; per iniziare sessione</value>
   </data>
   <data name="CurrentPw" xml:space="preserve">
     <value>Password attuale</value>
@@ -142,13 +142,13 @@
     <value>Prego, inserisce un nome utente per Langademy qui sotto e fai clic sul pulsante Registra per finire la registrazione </value>
   </data>
   <data name="PasswordIsReset" xml:space="preserve">
-    <value><![CDATA[La tua password è stata cambiata. Per piacere <a href="{0}" class="link">clicca qui</a>per iniziare sessione]]></value>
+    <value>La tua password è stata cambiata. Per piacere &lt;a href="{0}" class="link"&gt;clicca qui&lt;/a&gt;per iniziare sessione</value>
   </data>
   <data name="ExtLoginEmailInUse" xml:space="preserve">
     <value>{0} è già in uso. Effettua il login con il tuo account Langademy se vuoi collegare con {1}</value>
   </data>
   <data name="ExtLoginSuccess" xml:space="preserve">
-    <value><![CDATA[Ti hai autenticato con successo con <strong> {0}</strong>.]]></value>
+    <value>Ti hai autenticato con successo con &lt;strong&gt; {0}&lt;/strong&gt;.</value>
   </data>
   <data name="ResetPassword" xml:space="preserve">
     <value>Ristabilire la password</value>
@@ -210,7 +210,7 @@
   <data name="BlockedAccount" xml:space="preserve">
     <value>Il tuo account è stato bloccato</value>
   </data>
-  <data name="LRLogin" xml:space="preserve">
+  <data name="LRSignIn" xml:space="preserve">
     <value>Login</value>
   </data>
   <data name="LRRegister" xml:space="preserve">
@@ -226,7 +226,7 @@
     <value>Il nome deve essere di almeno lungo {2} caratteri e più breve di {1} caratteri</value>
   </data>
   <data name="AgreeTerms" xml:space="preserve">
-    <value><![CDATA[Ho letto e acconsento al <a href="{0}" target="_blank">termini e condizioni </a>]]></value>
+    <value>Ho letto e acconsento al &lt;a href="{0}" target="_blank"&gt;termini e condizioni &lt;/a&gt;</value>
   </data>
   <data name="RegTerms" xml:space="preserve">
     <value>Termini e Condizioni</value>
@@ -235,7 +235,7 @@
     <value>Devi leggere e accettare i termini e le condizioni</value>
   </data>
   <data name="ReactivateAccount" xml:space="preserve">
-    <value><![CDATA[Il tuo account è stato disattivato. Clicca qui per <class = span id "link" = "{0}"> riattivare il tuo account </span>]]></value>
+    <value>Il tuo account è stato disattivato. Clicca qui per &lt;class = span id "link" = "{0}"&gt; riattivare il tuo account &lt;/span&gt;</value>
   </data>
   <data name="ReactivateAccountConfirmation" xml:space="preserve">
     <value>Riattiva il tuo account</value>
@@ -259,7 +259,7 @@
     <value>Un ultimo passo</value>
   </data>
   <data name="RegIntro" xml:space="preserve">
-    <value><![CDATA[Se hai già un account e-mail registrato in Langademy puoi <a0> login </ a0> con lo stesso account. Altrimenti registrati ora]]></value>
+    <value>Se hai già un account e-mail registrato in Langademy puoi &lt;a0&gt; login &lt;/ a0&gt; con lo stesso account. Altrimenti registrati ora</value>
   </data>
   <data name="RegSuccess" xml:space="preserve">
     <value>Web log ottimo!</value>

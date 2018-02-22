@@ -19,7 +19,7 @@ namespace Resources.Views.LoginRegister {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class LoginRegister {
@@ -259,15 +259,6 @@ namespace Resources.Views.LoginRegister {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Login.
-        /// </summary>
-        public static string LRLogin {
-            get {
-                return ResourceManager.GetString("LRLogin", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to The name must be at least {2} characters long and shorter than {1} characters.
         /// </summary>
         public static string LRNameLength {
@@ -291,6 +282,15 @@ namespace Resources.Views.LoginRegister {
         public static string LRReqName {
             get {
                 return ResourceManager.GetString("LRReqName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in.
+        /// </summary>
+        public static string LRSignIn {
+            get {
+                return ResourceManager.GetString("LRSignIn", resourceCulture);
             }
         }
         

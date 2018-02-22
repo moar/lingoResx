@@ -324,6 +324,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Summary.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\DesktopTeachers\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Desktop\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -980,6 +985,11 @@
     <EmbeddedResource Include="Views\DesktopSummary\Summary.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Summary.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DesktopTeachers\Index.es.resx" />
+    <EmbeddedResource Include="Views\DesktopTeachers\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Desktop\Index.ca.resx">
       <SubType>Designer</SubType>
