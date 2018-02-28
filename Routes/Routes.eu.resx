@@ -312,4 +312,22 @@
   <data name="teach-spanish" xml:space="preserve">
     <value>hizkuntzak-irakatsi-sarean/gaztelania/</value>
   </data>
+  <data name="booklessons" xml:space="preserve">
+    <value>irakasleak/{username}/erreserbatu-{langname}-lessons/</value>
+  </data>
+  <data name="english-conversations" xml:space="preserve">
+    <value>inglesez-konbertsazioak</value>
+  </data>
+  <data name="english-personal-pronouns" xml:space="preserve">
+    <value>ikasi-hizkuntzak/ingelesa/personal-pronouns</value>
+  </data>
+  <data name="helphowtogeo" xml:space="preserve">
+    <value>laguntza/nola-ezarri-geolokalizazio-permisuak</value>
+  </data>
+  <data name="teacherprofile" xml:space="preserve">
+    <value>irakasleak/{username}/</value>
+  </data>
+  <data name="teachers" xml:space="preserve">
+    <value>irakasleak</value>
+  </data>
 </root>

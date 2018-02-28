@@ -309,4 +309,22 @@
   <data name="teach-spanish" xml:space="preserve">
     <value>insegnare-lingue-online/spagnolo/</value>
   </data>
+  <data name="english-conversations" xml:space="preserve">
+    <value>conversazioni-in-inglese</value>
+  </data>
+  <data name="english-personal-pronouns" xml:space="preserve">
+    <value>imparare-lingue/inglese/pronomi-personali</value>
+  </data>
+  <data name="helphowtogeo" xml:space="preserve">
+    <value>aiuto/come-impostare-permessi-geolocalizzazione</value>
+  </data>
+  <data name="learn-english-quickly" xml:space="preserve">
+    <value>come-imparare-rapidamente-inglese</value>
+  </data>
+  <data name="teacherprofile" xml:space="preserve">
+    <value>insegnanti/{username}/</value>
+  </data>
+  <data name="teachers" xml:space="preserve">
+    <value>insegnanti</value>
+  </data>
 </root>

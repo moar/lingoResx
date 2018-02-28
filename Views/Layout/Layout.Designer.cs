@@ -19,7 +19,7 @@ namespace Resources.Views.Layout {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Layout {
@@ -453,6 +453,24 @@ namespace Resources.Views.Layout {
         public static string TBTitle {
             get {
                 return ResourceManager.GetString("TBTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to teach a language online? We provide you an online working environment so you can teach languages from home..
+        /// </summary>
+        public static string TeachersDescription {
+            get {
+                return ResourceManager.GetString("TeachersDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Teach languages.
+        /// </summary>
+        public static string TeachersMainTitle {
+            get {
+                return ResourceManager.GetString("TeachersMainTitle", resourceCulture);
             }
         }
         

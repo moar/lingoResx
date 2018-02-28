@@ -252,4 +252,10 @@
   <data name="IndexTeachersDescription" xml:space="preserve">
     <value>If you want to teach languages online, apply for a position at Langademy. Work from home and whenever you want.</value>
   </data>
+  <data name="TeachersDescription" xml:space="preserve">
+    <value>Do you want to teach a language online? We provide you an online working environment so you can teach languages from home.</value>
+  </data>
+  <data name="TeachersMainTitle" xml:space="preserve">
+    <value>Teach languages</value>
+  </data>
 </root>

@@ -303,4 +303,31 @@
   <data name="teach-spanish" xml:space="preserve">
     <value>ensenyar-idiomes-online/espanyol/</value>
   </data>
+  <data name="booklessons" xml:space="preserve">
+    <value>professors/{username}/reservar-{langname}-classes/</value>
+  </data>
+  <data name="english-conversations" xml:space="preserve">
+    <value>angles-conversacions</value>
+  </data>
+  <data name="english-personal-pronouns" xml:space="preserve">
+    <value>aprendre-idiomes/angles/pronoms-personals</value>
+  </data>
+  <data name="helphowtogeo" xml:space="preserve">
+    <value>ajuda/com-establir-permisos-geolocalitzacio</value>
+  </data>
+  <data name="improve-english-pronunciation" xml:space="preserve">
+    <value>millora-pronunciacio-angles</value>
+  </data>
+  <data name="language-exchanges" xml:space="preserve">
+    <value>intercanvis-idiomes</value>
+  </data>
+  <data name="learn-english-quickly" xml:space="preserve">
+    <value>aprendre-angles-rapidament</value>
+  </data>
+  <data name="teacherprofile" xml:space="preserve">
+    <value>professors/{username}/</value>
+  </data>
+  <data name="teachers" xml:space="preserve">
+    <value>professors</value>
+  </data>
 </root>
