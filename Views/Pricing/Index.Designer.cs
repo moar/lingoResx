@@ -19,7 +19,7 @@ namespace Resources.Views.Pricing {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Index {
@@ -165,6 +165,24 @@ namespace Resources.Views.Pricing {
         public static string PRow5Title {
             get {
                 return ResourceManager.GetString("PRow5Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lessons.
+        /// </summary>
+        public static string PRowLessonsTitle {
+            get {
+                return ResourceManager.GetString("PRowLessonsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The rate established by the teacher.
+        /// </summary>
+        public static string PRTeachersFee {
+            get {
+                return ResourceManager.GetString("PRTeachersFee", resourceCulture);
             }
         }
     }
