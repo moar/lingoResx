@@ -19,7 +19,7 @@ namespace Resources.Views.ChatRooms {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Chatroom {
@@ -102,6 +102,15 @@ namespace Resources.Views.ChatRooms {
         public static string CRBuyCredits {
             get {
                 return ResourceManager.GetString("CRBuyCredits", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to your calendar.
+        /// </summary>
+        public static string CRConditionCalendar {
+            get {
+                return ResourceManager.GetString("CRConditionCalendar", resourceCulture);
             }
         }
         
@@ -241,7 +250,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There is no meetup scheduled at this time.
+        ///   Looks up a localized string similar to No meetups are scheduled at this time..
         /// </summary>
         public static string CRNoMeetup {
             get {
@@ -367,7 +376,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You need to have at least {0} positive vote(s) in {1} conversations. Go to the {1} room, make  video calls using and gain positive votes! And hey, create language meetups so the language students get to know you!.
+        ///   Looks up a localized string similar to You need to define your availability for Wallet Calls in your profile calendar. Go to {0} and fill your availability for this month..
         /// </summary>
         public static string CRWalletCondition1Content {
             get {
@@ -376,7 +385,7 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Gain reputation:.
+        ///   Looks up a localized string similar to Fill your availability:.
         /// </summary>
         public static string CRWalletCondition1Title {
             get {
