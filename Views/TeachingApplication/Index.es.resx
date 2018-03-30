@@ -321,4 +321,7 @@
   <data name="AppValWebrtcTest" xml:space="preserve">
     <value>Debes ejecutar el test de video llamada antes de enviar la solictud</value>
   </data>
+  <data name="TestInfo" xml:space="preserve">
+    <value>Estos resultados tienen propósito informativo y no implican necesariamente que la solicitud sea aceptada o rechazada</value>
+  </data>
 </root>

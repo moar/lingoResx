@@ -610,6 +610,15 @@ namespace Resources.Views.TeachingApplication {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to These results are for information purposes only and do not mean that the application will be accepted or rejected.
+        /// </summary>
+        public static string TestInfo {
+            get {
+                return ResourceManager.GetString("TestInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Test result.
         /// </summary>
         public static string TestResult {

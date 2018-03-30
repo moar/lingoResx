@@ -321,4 +321,7 @@
   <data name="AppValWebrtcTest" xml:space="preserve">
     <value>You must run the video call test before submitting your application</value>
   </data>
+  <data name="TestInfo" xml:space="preserve">
+    <value>These results are for information purposes only and do not mean that the application will be accepted or rejected</value>
+  </data>
 </root>
