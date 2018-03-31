@@ -277,7 +277,7 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Just online.
+        ///   Looks up a localized string similar to Just online users.
         /// </summary>
         public static string RPFilterOnline {
             get {

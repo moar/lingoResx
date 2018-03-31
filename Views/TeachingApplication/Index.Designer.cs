@@ -511,7 +511,7 @@ namespace Resources.Views.TeachingApplication {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to prepare your application for teaching at Langademy.
+        ///   Looks up a localized string similar to Prepare your application for teaching at Langademy.
         /// </summary>
         public static string PrepareApplText {
             get {

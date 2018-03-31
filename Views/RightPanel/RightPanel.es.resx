@@ -199,7 +199,7 @@
     <value>Ok</value>
   </data>
   <data name="RPFilterOnline" xml:space="preserve">
-    <value>Solo online</value>
+    <value>Solo usuarios online</value>
   </data>
   <data name="RPFilterTalkedTo" xml:space="preserve">
     <value>Gente con la que has hablado</value>
