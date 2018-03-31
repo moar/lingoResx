@@ -118,7 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AutomaticPartnerFinder" xml:space="preserve">
-    <value> Motore di ricerca automatic di compagni</value>
+    <value>Ricerca automatica di partner
+</value>
   </data>
   <data name="calendarAllTitle" xml:space="preserve">
     <value>  I seguenti scambi linguistici</value>
@@ -145,7 +146,7 @@
     <value> Non è possibile accettare le chiamate, il tuo browser non supporta le videochiamate.</value>
   </data>
   <data name="confAttendMeetup" xml:space="preserve">
-    <value> Confermi la presenza a questo appuntamento?</value>
+    <value> Confermi la presenza a questo meetup?</value>
   </data>
   <data name="confBlockUser" xml:space="preserve">
     <value> Gli utenti bloccati non possono inviare richieste di contatto e non ti saranno mai abbinato nel Language  Roulette (se vuoi sbloccarlo più avanti puoi farlo nelle Impostazioni dal tuo account). Sei sicuro di voler bloccare quest’ utente?</value>
@@ -154,22 +155,25 @@
     <value> Sei sicuro di voler cancellare la tua partecipazione a questo appuntamento?</value>
   </data>
   <data name="confDeactivateAcc" xml:space="preserve">
-    <value> Are you sure you want to deactivate your account?</value>
+    <value> Sei sicuro di voler cancellare il tuo account?</value>
   </data>
   <data name="confDelLang" xml:space="preserve">
-    <value> Sei sicuro di voler cancellare% s delle tue lingue?</value>
+    <value> Sei sicuro di voler cancellare {0} delle tue lingue?</value>
   </data>
   <data name="confDelLoginLink" xml:space="preserve">
-    <value> Sei sicuro di voler cancellare% s dal tuo account di accesso?</value>
+    <value> Sei sicuro di voler cancellare {0} dal tuo account di accesso?</value>
   </data>
   <data name="ConfDelMBPost" xml:space="preserve">
-    <value> Stai per cancellare il commento. Sei sicuro?</value>
+    <value>Eliminerete il commento. Ne siete sicuri?</value>
   </data>
   <data name="ConfDelMBTopic" xml:space="preserve">
     <value> Se rimuovi il tuo voto l'argomento sarà cancellato. Sei sicuro?</value>
   </data>
   <data name="Confirm" xml:space="preserve">
-    <value> Confirma</value>
+    <value>Confermare</value>
+  </data>
+  <data name="confirmSave" xml:space="preserve">
+    <value> Vuoi salvare le modifiche prima di uscire?</value>
   </data>
   <data name="ConfirnGetLocation" xml:space="preserve">
     <value> Secondo le leggi, abbiamo bisogno della tua ubicazione attuale prima di poter salvare l'indirizzo di fatturazione. Se si preme OK il browser ti chiederà il tuo permesso per l'ubicazione. </value>
@@ -259,7 +263,7 @@
     <value> Il tuo appuntamento inizierà</value>
   </data>
   <data name="meetupAlertTitle" xml:space="preserve">
-    <value> Reminder</value>
+    <value> Avviso</value>
   </data>
   <data name="MeetupBoard" xml:space="preserve">
     <value> Tabella di appuntamenti</value>
@@ -271,7 +275,7 @@
     <value> Mese</value>
   </data>
   <data name="NetworkError" xml:space="preserve">
-    <value> Errore di connessione di rete</value>
+    <value> Errore di collegamento alla rete</value>
   </data>
   <data name="NetworkErrorInVideo" xml:space="preserve">
     <value> Si è perso la connessione con i server Langademy. Provate a fare la chiamata quando la connessione viene ripristinata.</value>
@@ -435,14 +439,20 @@
   <data name="Yes" xml:space="preserve">
     <value> Si</value>
   </data>
+  <data name="GeoNoAvailable" xml:space="preserve">
+    <value>Siamo molto dispiaciuti, ma il tuo browser non può condividere la tua localizzazione con Langademy, quindi non ti è consentito aggiornare i tuoi dati di fatturazione. Si consiglia di utilizzare Google Chrome per ottenere la migliore esperienza a Langademy</value>
+  </data>
+  <data name="GeoNoPermission" xml:space="preserve">
+    <value>Abbiamo scoperto che avete negato il permesso di condividere la vostra localizzazione con Langademy. Prima di aggiornare i dati di fatturazione è necessario consentirne la condivisione (la vostra posizione rimarrà privata e non sarà condivisa da nessuna parte)</value>
+  </data>
   <data name="bymonthday" xml:space="preserve">
-    <value>Il {0} di ogni mese</value>
+    <value>Il giorno {0} di ogni mese</value>
   </data>
   <data name="bymonthdayinterv" xml:space="preserve">
     <value>Il giorno {0} ogni {1} mesi</value>
   </data>
   <data name="bymonthsetpos" xml:space="preserve">
-    <value>{0} {1} di ogni mese</value>
+    <value>Il {0} {1} di ogni mese</value>
   </data>
   <data name="bymonthsetposinterv" xml:space="preserve">
     <value>{0} {1}  ogni {2} mesi</value>

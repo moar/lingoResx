@@ -120,4 +120,85 @@
   <data name="AboutMeEmpty" xml:space="preserve">
     <value>Presenta't, mostra la teva experiència com a professor i els teus mètodes d'ensenyament</value>
   </data>
+  <data name="AboutMeMaxLength" xml:space="preserve">
+    <value>La descripció ha de tenir menys de {1} caràcters</value>
+  </data>
+  <data name="AddEducation" xml:space="preserve">
+    <value>Afegeix la teva educació</value>
+  </data>
+  <data name="AddPosition" xml:space="preserve">
+    <value>Afegeix la teva posició</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Companyia</value>
+  </data>
+  <data name="Degree" xml:space="preserve">
+    <value>Titulació</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Descripció</value>
+  </data>
+  <data name="DescriptionMaxLength" xml:space="preserve">
+    <value>La descripció deure tenir menys de {1} caràcters</value>
+  </data>
+  <data name="EditPosition" xml:space="preserve">
+    <value>Edita la teva ocupació</value>
+  </data>
+  <data name="EducationEmptyTextEdit" xml:space="preserve">
+    <value>Afegeix detalls sobre la teva educació que poden ser interessants per als teus alumnes potencials. Títols, cursos, certificacions, etc.</value>
+  </data>
+  <data name="EducationTitle" xml:space="preserve">
+    <value>Educació</value>
+  </data>
+  <data name="ErrorRemoveEducation" xml:space="preserve">
+    <value>No s'ha pogut esborrar el registre educació</value>
+  </data>
+  <data name="ErrorRemoveExperience" xml:space="preserve">
+    <value>Error a l'esborrar el registre experiència</value>
+  </data>
+  <data name="ExperienceEmptyTextEdit" xml:space="preserve">
+    <value>Afegeix detalls sobre la teva experiència professional</value>
+  </data>
+  <data name="ExperienceTitle" xml:space="preserve">
+    <value>Experiència</value>
+  </data>
+  <data name="FromDate" xml:space="preserve">
+    <value>Des de</value>
+  </data>
+  <data name="FromGreaterThanNow" xml:space="preserve">
+    <value>El camp Des de no pot contenir una data futura</value>
+  </data>
+  <data name="FromGreaterThanTo" xml:space="preserve">
+    <value>El camp Des de no pot ser més gran que el camp Fins</value>
+  </data>
+  <data name="NoRatingsEditor" xml:space="preserve">
+    <value>Encara no has rebut cap valoració</value>
+  </data>
+  <data name="Position" xml:space="preserve">
+    <value>Posició</value>
+  </data>
+  <data name="School" xml:space="preserve">
+    <value>Centre educatiu</value>
+  </data>
+  <data name="ToDate" xml:space="preserve">
+    <value>Fins</value>
+  </data>
+  <data name="ToOrExpected" xml:space="preserve">
+    <value>Fins (o esperat)</value>
+  </data>
+  <data name="VideoUrlMatchError" xml:space="preserve">
+    <value>Només pots incloure vídeos de Youtube o Vimeo (per exemple https: //youtu.be / ..., https://vimeo.com/0000000000)</value>
+  </data>
+  <data name="VideoUrlRequired" xml:space="preserve">
+    <value>Has de inserir una url vàlida de Youtube o Vimeo</value>
+  </data>
+  <data name="VimeoDomainTip" xml:space="preserve">
+    <value>En cas que hagis encastat un vídeo de Vimeo i no hagis definit la "privacitat a nivell de domini" (domain-level privacy) al teu compte de Vimeo, assegura't d'afegir "langademy.com" a la llista de dominis autoritzats</value>
+  </data>
+  <data name="VimeoInvalidUrl" xml:space="preserve">
+    <value>Aquesta no és una url valida de Vimeo</value>
+  </data>
+  <data name="YoutubeInvalidUrl" xml:space="preserve">
+    <value>Aquesta no és una url valida de Youtube</value>
+  </data>
 </root>

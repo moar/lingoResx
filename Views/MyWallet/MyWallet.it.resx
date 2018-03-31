@@ -579,4 +579,10 @@
   <data name="MWPendingWithDrawReq" xml:space="preserve">
     <value>Richieste di rimborso in attesa</value>
   </data>
+  <data name="NoInvoices" xml:space="preserve">
+    <value>Nessuna fattura emessa in questo periodo</value>
+  </data>
+  <data name="NoWithdrawals" xml:space="preserve">
+    <value>Non ci sono operazioni di prelievo in questo periodo</value>
+  </data>
 </root>

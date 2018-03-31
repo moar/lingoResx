@@ -178,8 +178,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutHowWorks" xml:space="preserve">
-    <value><![CDATA[Langademy provides rooms for almost all the languages in the world. In this rooms you will meet new people so you can exchange languages by videoconferencing. If you don't want to enter a language room, don't worry: enable the automatic partner finder and Langademy will find you a conversation partner.<br />
-                                What if no one is available when you enter a room? You can create meetups to let the others know when you will be available to chat, or you can join the existing meetups in the meetup board.]]></value>
+    <value>Langademy provides rooms for almost all the languages in the world. In this rooms you will meet new people so you can exchange languages by videoconferencing. If you don't want to enter a language room, don't worry: enable the automatic partner finder and Langademy will find you a conversation partner.&lt;br /&gt;
+                                What if no one is available when you enter a room? You can create meetups to let the others know when you will be available to chat, or you can join the existing meetups in the meetup board.</value>
   </data>
   <data name="AboutIntro" xml:space="preserve">
     <value>Langademy is an online language exchange community where you can practice foreign languages with natives all over the world. Listening to native speakers in natural contexts will help you to improve your listening and you will learn the unique sounds of a language. Likewise, you will improve your speaking abilities. You will get new vocabulary, phrases, and native speakers will be able to correct you.</value>

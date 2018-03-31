@@ -140,7 +140,7 @@
     <value>Bai</value>
   </data>
   <data name="Logoutlink" xml:space="preserve">
-    <value><![CDATA[Klikatu <a href="{0}">hemen</a> {1}era bueltatzeko]]></value>
+    <value>Klikatu &lt;a href="{0}"&gt;hemen&lt;/a&gt; {1}era bueltatzeko</value>
   </data>
   <data name="NowLoggedOut" xml:space="preserve">
     <value>Saioa itxi duzu</value>

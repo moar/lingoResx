@@ -143,7 +143,7 @@
     <value>Nascondi gli utenti che non rispettano il filtro</value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[È necessario completare l'ubicazione nel tuo profilo prima di entrare in una stanza</br><a class="applnk link" href="{0}" data-app="ProfileApp">Vai al profilo</a>]]></value>
+    <value>È necessario completare l'ubicazione nel tuo profilo prima di entrare in una stanza&lt;/br&gt;&lt;a class="applnk link" href="{0}" data-app="ProfileApp"&gt;Vai al profilo&lt;/a&gt;</value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Livelli</value>
@@ -173,7 +173,7 @@
     <value>Filtro</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[Non c'è nessun utente collegato al momento. Visita la <a href="{0}" target="_blank" class="link">tabella di appuntamenti</a>  per vedere se qualcuno si unirà!]]></value>
+    <value>Non c'è nessun utente collegato al momento. Visita la &lt;a href="{0}" target="_blank" class="link"&gt;tabella di appuntamenti&lt;/a&gt;  per vedere se qualcuno si unirà!</value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Scrive qui</value>

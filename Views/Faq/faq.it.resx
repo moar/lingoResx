@@ -121,10 +121,10 @@
     <value>L'elenco di stanze mostra solo le lingue che hai aggiunto al tuo profilo. Se voi imparare nuove lingue o accedere alle altre stanze, basta aggiungere le lingue al tuo profilo</value>
   </data>
   <data name="Answer2" xml:space="preserve">
-    <value><![CDATA[Puoi andare nella stanza di una delle tue lingue madre oppure è possibile effettuare chiamate video private con i tuoi contatti. <br/> può anche ottenere il tempo se inviti i tuoi amici a Langademy o se ci seguono su Twitter e Facebook]]></value>
+    <value>Il modo principale per ottenere tempo per il tuo account è parlare nella tua lingua madre con altri studenti. Puoi effettuare videochiamate private con i tuoi contatti o con studenti che ti chiedono conversazioni private, oppure incontrare persone nella chat room in una delle tue lingue madre &lt;br0/&gt; Puoi anche comprare tempo invitando i tuoi amici a Langademy o seguendoci su Twitter e Facebook.  </value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>Se si va in una stanza nella chat room e non c'e nessuno, puoi andare sulla tabella di appuntamenti. Se non c'e nessun appuntantamento creato è possibile creare uno di nuovo, devi selezionare la lingua,l'ora e il giorno dell'appuntamento.</value>
+    <value>Dovresti organizzare i tuoi meetup. Basta selezionare la lingua, la data e l'ora del vostro soggiorno. Vai al tuo Calendario e clicca su Nuovo Meetup nella home page</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Sì. Vai a Impostazioni =&gt; Privacy, e attivare l'opzione "Consenti solo le richieste di contatto da parte di persone  con cui hai parlato"</value>

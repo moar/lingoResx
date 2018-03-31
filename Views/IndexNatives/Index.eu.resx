@@ -155,6 +155,6 @@
     <value>Jarri prezio bat zure konbertsazioei</value>
   </data>
   <data name="INTitleText" xml:space="preserve">
-    <value><![CDATA[Jende berriarekin mintzatzea eta jende horren hizkuntza maila hobetzea laguntzeko prest bazaude, hau da zure aukera <strong>etxetik dirua irabazteko</strong>]]></value>
+    <value>Jende berriarekin mintzatzea eta jende horren hizkuntza maila hobetzea laguntzeko prest bazaude, hau da zure aukera &lt;strong&gt;etxetik dirua irabazteko&lt;/strong&gt;</value>
   </data>
 </root>

@@ -253,7 +253,7 @@
     <value>Zure hasierako orrialdean zure denbora bankuko saldoa kontsultatu dezakezu, eta {0} app-era joaten bazara zure deien xehetasunak eta historikoa ikusi ahal izango dituzu.</value>
   </data>
   <data name="HelpChatRooms1" xml:space="preserve">
-    <value><![CDATA[Txat gelak mintzalagun berriak ezagutzeko leku perfektua dira, bai natiboak eta baita ikasleak ere. Geletara sartu ahal izateko, lehenik eta behin ikasi eta irakatsi nahi dituzun hizkuntzak sartu behar dituzu zure profilean. Hori egiten duzunean, jo zure kontrol panelera, <span class="lg lg-chatrooms"></span> klikatu  eta aukeratu ireki nahi duzun hizkuntzaren gela.]]></value>
+    <value>Txat gelak mintzalagun berriak ezagutzeko leku perfektua dira, bai natiboak eta baita ikasleak ere. Geletara sartu ahal izateko, lehenik eta behin ikasi eta irakatsi nahi dituzun hizkuntzak sartu behar dituzu zure profilean. Hori egiten duzunean, jo zure kontrol panelera, &lt;span class="lg lg-chatrooms"&gt;&lt;/span&gt; klikatu  eta aukeratu ireki nahi duzun hizkuntzaren gela.</value>
   </data>
   <data name="HelpChatRooms4" xml:space="preserve">
     <value>Erabiltzaileak: online dauden erabiltzaileen zerrenda erakusten du. Klatu erabiltzaile batetan eta menu bat irekiko zaizu: bertatik kontaktu eskariak bidali, bideo deiak hasi edo erabiltzailea erreportatu edo blokeatu ahal izango duzu</value>
@@ -325,10 +325,10 @@
     <value>Bete ezazu zure fakturazio helbidea: joan My Walletera eta bete ezazu bertan</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
-    <value><![CDATA[<span class="lg lg-wallet"></span>My Wallet aplikazioa Langademyk zure finantzak kudeatzeko eskeintzen dizun aplikazioa da. Bertan zure mugimenduak eta zure fakturen historikoa ikusi, kredituak erosi, zure fakturazio infomazioa editatu eta kredituak ateratzeko eskaerak egin ditzakezu.]]></value>
+    <value>&lt;span class="lg lg-wallet"&gt;&lt;/span&gt;My Wallet aplikazioa Langademyk zure finantzak kudeatzeko eskeintzen dizun aplikazioa da. Bertan zure mugimenduak eta zure fakturen historikoa ikusi, kredituak erosi, zure fakturazio infomazioa editatu eta kredituak ateratzeko eskaerak egin ditzakezu.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value><![CDATA[My Wallet aplikazioa zure kontrol panelean App-en botoia <span class="lg lg-apps"></span> sakatuz eta bertan Walleteko botoia <span class="lg lg-wallet"></span> aukeratuz zabaldu dezakezu]]></value>
+    <value>My Wallet aplikazioa zure kontrol panelean App-en botoia &lt;span class="lg lg-apps"&gt;&lt;/span&gt; sakatuz eta bertan Walleteko botoia &lt;span class="lg lg-wallet"&gt;&lt;/span&gt; aukeratuz zabaldu dezakezu</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Langademyko laguntza</value>
@@ -385,7 +385,7 @@
     <value>Zure eskuragarritasun egutegia eguneratua mantentzea gomendagarria da. Ez baduzu egiten, zure kontaktu zerrendako pertsonekin edo txat geletan dauden pertsonekin soilik egin ahal izango dituzu deiak</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value><![CDATA[Zure ordu libreak editatzeko joan <a href="{0}" class="link"> Nire egutegia</a>-ra eta klikatu Editatu Eskuragarritasuna botoian edo joan <a href="{1}" class="link"> Editatu eskuragarritasun</a>-era eta jarritu pauso hauek:]]></value>
+    <value>Zure ordu libreak editatzeko joan &lt;a href="{0}" class="link"&gt; Nire egutegia&lt;/a&gt;-ra eta klikatu Editatu Eskuragarritasuna botoian edo joan &lt;a href="{1}" class="link"&gt; Editatu eskuragarritasun&lt;/a&gt;-era eta jarritu pauso hauek:</value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Aukeartu zein kobertsazio motako eskariak jaso nahi dituzun, Wallet, denbora bankua edo biak aukeratuz</value>
@@ -409,7 +409,7 @@
     <value>Ezarri zure eskuragarritasuna</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value><![CDATA[<a href="{0}" class="help link">Eskakizunak</a> betetzen dituzunean,  konbertsazioengatik kobratzeko zure tarifa ezarri dezakezu. Horretarako, pauso hauek jarraitu behar dituzu:]]></value>
+    <value>&lt;a href="{0}" class="help link"&gt;Eskakizunak&lt;/a&gt; betetzen dituzunean,  konbertsazioengatik kobratzeko zure tarifa ezarri dezakezu. Horretarako, pauso hauek jarraitu behar dituzu:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Zabaladu zure egoera panela zure profileko irudian klik eginaz (zure pantailako goi eskuin partean)</value>
@@ -418,7 +418,7 @@
     <value>Zure egoera paneleko Wallet atalean, joan tarifa ezartzea nahi duzun hizkuntzara</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Klikatu <span class="lg lg-cog"></span> botoian eta zure tarifa editatzeko leiho bat irekiko zaizu]]></value>
+    <value>Klikatu &lt;span class="lg lg-cog"&gt;&lt;/span&gt; botoian eta zure tarifa editatzeko leiho bat irekiko zaizu</value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Sartu zure ikasleei kobratzea nahi duzun orduko kreditu kopurua eta Gorde klikatu</value>
@@ -442,7 +442,7 @@
     <value>Bileren bitartez gainontzeko erabiltzaileek txat gela baten noiz egongo zaren jakingo dute. Modu honetan, ikasleak eta gainontzeko erabiltzaileak zure ordu berdinean sartu ahal izango dira gela batera. Berez, nahi duzunean sartu zaitezke gela batetara, baina beti izango da errezagoa bertan jendea aurkitzea aurretiaz bilera bat antolatzen baduzu</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value><![CDATA[Errebisatu zure <a href="{0}" class="link applnk"> Egutegia</a> antolatu diren bilerak ikusteko. Bileraren batera joateko libre bazaude, apuntatu zaitez. Bestela, nahi duzun egun eta orduan bat sortu dezakezu]]></value>
+    <value>Errebisatu zure &lt;a href="{0}" class="link applnk"&gt; Egutegia&lt;/a&gt; antolatu diren bilerak ikusteko. Bileraren batera joateko libre bazaude, apuntatu zaitez. Bestela, nahi duzun egun eta orduan bat sortu dezakezu</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>Bilera bateta apuntatzen zerenean, gertakari hori zure egutegira geituko da</value>
@@ -451,7 +451,7 @@
     <value>Nola antolatu dezaket bilera berri bat?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[Bilera bat antolatzeko joan <a href="{0}" class="link applnk"> Nire egutegira</a> eta klikatu Bilera Berria-n, edo joan zuzenean <a href="{1}" class="link applnk">Bilera Berria</a>-ra eta jarraitu hurrengo pausoak:]]></value>
+    <value>Bilera bat antolatzeko joan &lt;a href="{0}" class="link applnk"&gt; Nire egutegira&lt;/a&gt; eta klikatu Bilera Berria-n, edo joan zuzenean &lt;a href="{1}" class="link applnk"&gt;Bilera Berria&lt;/a&gt;-ra eta jarraitu hurrengo pausoak:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Aukeratu bileraren hizkuntza. Partehartzaileak txat gelara joango dira bilera orduan</value>
@@ -478,7 +478,7 @@
     <value>Nola dakit hiztun natibo batek nire eskaera onartu duen?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value><![CDATA[Zure eskaeren jarraipena egin dezakezu zure <a href="{0}" class="link applnk"> Egutegian</a>. Ikusi konbertsazio eskaeren panela (bidalitakoak). Aukeratu egitea nahi duzun eskaera eta honen xehetasunak ikusi ahal izango dituzu. Bertan natiboak zure eskaera onartu duen ala ez ikusiko duzu, berau kantzelatu edo natiboari mezuak ere bidali diezazkiokezu infomazio gehigarria nahi baduzu]]></value>
+    <value>Zure eskaeren jarraipena egin dezakezu zure &lt;a href="{0}" class="link applnk"&gt; Egutegian&lt;/a&gt;. Ikusi konbertsazio eskaeren panela (bidalitakoak). Aukeratu egitea nahi duzun eskaera eta honen xehetasunak ikusi ahal izango dituzu. Bertan natiboak zure eskaera onartu duen ala ez ikusiko duzu, berau kantzelatu edo natiboari mezuak ere bidali diezazkiokezu infomazio gehigarria nahi baduzu</value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Gainera, natibo batek zure eskaria onartzen duenean notifikazio bat bidaliko dizugu eta zure egutekian gertaera edo ekitaldi berri bat geituko zaizu</value>
@@ -487,7 +487,7 @@
     <value>Zer egin behar dut konbertsazioaren ordua iristen denean?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value><![CDATA[Joan deien panelera <span class="lg lg-call"></span> eta aukeratu Konbertsazio Pribatuak zutabea <span class="lg lg-calendar"></span>. Aukeratu erabiltzailea eta konbertsazioen bideo appa irekiko da. Zure egutegira joan eta konbertsazioen xehetasun orritik  ere bideo appera sartu zaitezke]]></value>
+    <value>Joan deien panelera &lt;span class="lg lg-call"&gt;&lt;/span&gt; eta aukeratu Konbertsazio Pribatuak zutabea &lt;span class="lg lg-calendar"&gt;&lt;/span&gt;. Aukeratu erabiltzailea eta konbertsazioen bideo appa irekiko da. Zure egutegira joan eta konbertsazioen xehetasun orritik  ere bideo appera sartu zaitezke</value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Bideo app-aren barruan zaudenean zure mintzalaguna online dagoen ikusi dezekezu. Bitartean, berari mezuak bidali deizazkiokezu zure mintzalagunari bertan zaudela jakinarazteko</value>
@@ -535,7 +535,7 @@
     <value>Bilerako gaiak: bileran zehar hitz egiteko paratehartzaileek proposatutako gaien zerrenda</value>
   </data>
   <data name="HelpHowToCall1" xml:space="preserve">
-    <value><![CDATA[Langademyn dei bat hastea erreza da. Bilatu <span class="lg lg-call"></span> ikurra dei bat egitea nahi duzunean. Hau klikatu eta deiaren menua agertuko da. Berta deiko hizkuntza eta konbertsazio mota aukeratu behar duzu (<span class="lg lg-time-bag"></span> denbora bankuko deia edo <span class="lg lg-wallet"></span> walletekoa). Wallet deien kasuan, kobratuko zaizun tarifa hizkuntzaren ondoan ikusi ahal izango duzu]]></value>
+    <value>Langademyn dei bat hastea erreza da. Bilatu &lt;span class="lg lg-call"&gt;&lt;/span&gt; ikurra dei bat egitea nahi duzunean. Hau klikatu eta deiaren menua agertuko da. Berta deiko hizkuntza eta konbertsazio mota aukeratu behar duzu (&lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; denbora bankuko deia edo &lt;span class="lg lg-wallet"&gt;&lt;/span&gt; walletekoa). Wallet deien kasuan, kobratuko zaizun tarifa hizkuntzaren ondoan ikusi ahal izango duzu</value>
   </data>
   <data name="HelpHowToCall2" xml:space="preserve">
     <value>Gogoratu deia egiteko hizkuntza aukeratzen duzunean, natibo edo ikasle moduan hitz egingo duzun aukeratzen ari zarela, eta baita denborarekin edo kredituekin pagatuko duzun. Beraz, arreta izan egiten duzun dei motarekin, deiak zure denbora edo kredituen saldoan eragina izango baitu.</value>
@@ -547,7 +547,7 @@
     <value>Kontrol paneletik deitu</value>
   </data>
   <data name="HelpHowToCall41" xml:space="preserve">
-    <value><![CDATA[Klikatu <span class="lg lg-call"></span> zutabea kontrol panelean Dei panela irekitzeko. Bertan, ondorengo zutabeak aukeratu ahal izango dituzu:]]></value>
+    <value>Klikatu &lt;span class="lg lg-call"&gt;&lt;/span&gt; zutabea kontrol panelean Dei panela irekitzeko. Bertan, ondorengo zutabeak aukeratu ahal izango dituzu:</value>
   </data>
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Online kontaktuak: online dauden kontaktuen zerrenda</value>
@@ -628,7 +628,7 @@
     <value>Sartu erostea nahi duzun kreditu kopurua</value>
   </data>
   <data name="HelpPurchaseCredits3" xml:space="preserve">
-    <value><![CDATA[Langademy kreditu 1 <span class="credit">€</span> = 1 EURO €]]></value>
+    <value>Langademy kreditu 1 &lt;span class="credit"&gt;€&lt;/span&gt; = 1 EURO €</value>
   </data>
   <data name="HelpPurchaseCredits4" xml:space="preserve">
     <value>Kontsultatu kreditu erosketa minimoa zein den. Hau aukeratzen duzun ordaintzeko metodoaren araberakoa da. Zure lokalizazioa eskuragarri badugu eta ordaintzeko txanpona Euroa ez bada, zure txanponaren trukerako estimazio bat ateratzen saiatuko gara. Kontuan izan konbertsio hori informatiboa dela eta konbertsioa bankuak berak egingo duela.</value>
@@ -661,7 +661,7 @@
     <value>Denbora banku aplikazioan denbora bankuarekin egindako deien historikoa eta zure denbora saldoa kontsultatu ahal izango dituzu</value>
   </data>
   <data name="HelpTimeBankApp2" xml:space="preserve">
-    <value><![CDATA[Denbora Bankuaren aplikaziora sartzeko joan zure kontrol panelera <span class="lg lg-apps"></span> eta bertan denbora bankuko botoia <span class="lg lg-time-bag"></span> sakatu]]></value>
+    <value>Denbora Bankuaren aplikaziora sartzeko joan zure kontrol panelera &lt;span class="lg lg-apps"&gt;&lt;/span&gt; eta bertan denbora bankuko botoia &lt;span class="lg lg-time-bag"&gt;&lt;/span&gt; sakatu</value>
   </data>
   <data name="HelpTimeBankApp3" xml:space="preserve">
     <value>Denbora bankuko dei bakoitzak saldoa geitu edo kenduko dizu {0}-en arabera</value>

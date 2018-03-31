@@ -143,7 +143,7 @@
     <value>Ocultar usuarios que no cumplen el filtro</value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[Tienes que completar tu ubicación en tu perfil antes de poder entrar en una sala.</br><a class="applnk link" href="{0}" data-app="ProfileApp">Ir a mi perfil</a>]]></value>
+    <value>Tienes que completar tu ubicación en tu perfil antes de poder entrar en una sala.&lt;/br&gt;&lt;a class="applnk link" href="{0}" data-app="ProfileApp"&gt;Ir a mi perfil&lt;/a&gt;</value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Niveles</value>
@@ -173,7 +173,7 @@
     <value>Filtro</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[No hay ningún usuario conectado en este momento. ¡Visita el <a href="{0}" target="_blank" class="link">tablón de quedadas</a> para ver si alguien va a unirse en breve!]]></value>
+    <value>No hay ningún usuario conectado en este momento. ¡Visita el &lt;a href="{0}" target="_blank" class="link"&gt;tablón de quedadas&lt;/a&gt; para ver si alguien va a unirse en breve!</value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Escribe aquí</value>

@@ -124,7 +124,7 @@
     <value>Informazione addizionale</value>
   </data>
   <data name="AddLanguage" xml:space="preserve">
-    <value><![CDATA[Ha aggiunto <strong>{0}</strong> ({1})]]></value>
+    <value>Ha aggiunto &lt;strong&gt;{0}&lt;/strong&gt; ({1})</value>
   </data>
   <data name="Block" xml:space="preserve">
     <value>Blocco</value>
@@ -145,7 +145,7 @@
     <value>Meno di 1 ora fa</value>
   </data>
   <data name="NewFriendship" xml:space="preserve">
-    <value><![CDATA[<a class="link applnk" href="{2}">{0}</a> e <a  class="link applnk" href="{3}">{1}</a> sono collegati ora]]></value>
+    <value>&lt;a class="link applnk" href="{2}"&gt;{0}&lt;/a&gt; e &lt;a  class="link applnk" href="{3}"&gt;{1}&lt;/a&gt; sono collegati ora</value>
   </data>
   <data name="NoFriends" xml:space="preserve">
     <value>Ancora nessun contatto</value>
@@ -154,7 +154,7 @@
     <value>Report</value>
   </data>
   <data name="UpdateLanguage" xml:space="preserve">
-    <value><![CDATA[Ha modificato il livello di  <strong>{0}</strong> a {1}]]></value>
+    <value>Ha modificato il livello di  &lt;strong&gt;{0}&lt;/strong&gt; a {1}</value>
   </data>
   <data name="XDaysAgo" xml:space="preserve">
     <value> {0} giorno(i) fa</value>
@@ -166,7 +166,7 @@
     <value>Ancora nessuna attività</value>
   </data>
   <data name="ConversationAct" xml:space="preserve">
-    <value><![CDATA[<a href="{0}">{1}</a> ha parlato {2} per {3} minuti]]></value>
+    <value>&lt;a href="{0}"&gt;{1}&lt;/a&gt; ha parlato {2} per {3} minuti</value>
   </data>
   <data name="CancelPartnerRequest" xml:space="preserve">
     <value>Richiesta cancellata</value>

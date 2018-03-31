@@ -580,4 +580,10 @@
   <data name="MWPendingWithDrawReq" xml:space="preserve">
     <value>Peticions de reemborsament pendents</value>
   </data>
+  <data name="NoInvoices" xml:space="preserve">
+    <value>No s'han emès factures en aquest període</value>
+  </data>
+  <data name="NoWithdrawals" xml:space="preserve">
+    <value>No hi ha retirades de crèdits en aquest període</value>
+  </data>
 </root>

@@ -123,6 +123,12 @@
   <data name="CheckEmailCreation" xml:space="preserve">
     <value>Abbiamo inviato una e-mail a {0}. Controlla la tua e-mail per completare il processo di creazione della password</value>
   </data>
+  <data name="CreateLangadPwd" xml:space="preserve">
+    <value>Creare password per Langademy</value>
+  </data>
+  <data name="CreateLocalPwdQuest" xml:space="preserve">
+    <value>Vuoi creare una password locale per il tuo account Langademy? È possibile accedere utilizzando il seguente indirizzo e-mail: {0}</value>
+  </data>
   <data name="EmailLink" xml:space="preserve">
     <value>Collegamento e-mail</value>
   </data>

@@ -117,7 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
   <data name="PricingFee" xml:space="preserve">
     <value>El 13% de la cantidad que se le ha cobrado al alumno</value>
   </data>
@@ -153,5 +152,11 @@
   </data>
   <data name="PRow5Title" xml:space="preserve">
     <value>Mensajería en las salas de chat</value>
+  </data>
+  <data name="PRowLessonsTitle" xml:space="preserve">
+    <value>Clases</value>
+  </data>
+  <data name="PRTeachersFee" xml:space="preserve">
+    <value>La tarifa establecida por el profesor</value>
   </data>
 </root>

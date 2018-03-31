@@ -231,4 +231,16 @@
   <data name="OtherLanguResourcesDesc" xml:space="preserve">
     <value>Vuoi ancora più? Visita le pagine amiche di Langademy e gode di più risorse per aiutare nel tuo processo di apprendimento della lingua</value>
   </data>
+  <data name="IndexPartnersDescription" xml:space="preserve">
+    <value>Se non avete tempo per gli scambi e volete trovare madrelingua per le conversazioni, questo è il vostro posto.</value>
+  </data>
+  <data name="IndexPartnersTitle" xml:space="preserve">
+    <value>Partner di conversazione madrelingua</value>
+  </data>
+  <data name="MainContact" xml:space="preserve">
+    <value>Contatto - Langademy</value>
+  </data>
+  <data name="MainContactDesc" xml:space="preserve">
+    <value>Vuoi inviarci un messaggio? Contattaci  su questo modulo</value>
+  </data>
 </root>

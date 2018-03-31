@@ -258,4 +258,10 @@
   <data name="WalletRate" xml:space="preserve">
     <value>Tarifa de conversa Wallet</value>
   </data>
+  <data name="CannotDeleteLangTeacherRate" xml:space="preserve">
+    <value>No pots eliminar aquest idioma perquè has definit tarifes per ensenyar aquest idioma al teu perfil de professor</value>
+  </data>
+  <data name="CannotModifyLangTeacherRate" xml:space="preserve">
+    <value>No pots modificar el teu nivell perquè has definit tarifes per ensenyar aquest idioma al teu perfil de professor</value>
+  </data>
 </root>

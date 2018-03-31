@@ -231,4 +231,16 @@
   <data name="OtherLanguResourcesDesc" xml:space="preserve">
     <value>Vols més encara? Visita les pàgines amigues de Langademy i gaudeix de més recursos que t'ajudaran en el teu procés d'aprenentatge de l'idioma</value>
   </data>
+  <data name="IndexPartnersDescription" xml:space="preserve">
+    <value>Si no tens temps per a intercanvis i vols trobar parlants natius per a converses, aquest és el teu lloc.</value>
+  </data>
+  <data name="IndexPartnersTitle" xml:space="preserve">
+    <value>Companys de conversa natius</value>
+  </data>
+  <data name="MainContact" xml:space="preserve">
+    <value>Contacte - Langademy</value>
+  </data>
+  <data name="MainContactDesc" xml:space="preserve">
+    <value>Vols enviar-nos un missatge? Contacta'ns a través d'aquest formulari</value>
+  </data>
 </root>

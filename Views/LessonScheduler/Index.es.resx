@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element msdata:IsDataSet="true" name="root">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
+              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
+              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -124,15 +124,12 @@
     <value>Asistencia no registrada</value>
   </data>
   <data name="BothMissedStudent" xml:space="preserve">
-    <value>El profesor y tu os perdisteis la clase</value>
+    <value>El profesor y tú os perdisteis la clase</value>
   </data>
   <data name="BothMissedTeacher" xml:space="preserve">
-    <value>El estudiante y tu os perdisteis la clase</value>
+    <value>El estudiante y tú os perdisteis la clase</value>
   </data>
   <data name="CancelRescheduleRequestConf" xml:space="preserve">
-    <value>¿Estás seguro de que quieres cancelar tu solicitud?</value>
-  </data>
-  <data name="CancelUnscheduleRequestConf" xml:space="preserve">
     <value>¿Estás seguro de que quieres cancelar tu solicitud?</value>
   </data>
   <data name="ClassTimeNow" xml:space="preserve">
@@ -168,9 +165,6 @@
   <data name="StudentCancelled" xml:space="preserve">
     <value>Cancelada por el estudiante</value>
   </data>
-  <data name="StudentCancelledUnschedule" xml:space="preserve">
-    <value>El estudiante canceló su solicitud de desprogramar la clase</value>
-  </data>
   <data name="StudentMissed" xml:space="preserve">
     <value>El estudiante se perdió la clase</value>
   </data>
@@ -183,12 +177,6 @@
   <data name="TeacherCancelled" xml:space="preserve">
     <value>Cancelada por el profesor</value>
   </data>
-  <data name="TeacherCancelledReschedule" xml:space="preserve">
-    <value>El profesor canceló su solicitud de reprogramar la clase</value>
-  </data>
-  <data name="TeacherCancelledUnschedule" xml:space="preserve">
-    <value>El profesor canceló su solicitud de desprogramar la clase</value>
-  </data>
   <data name="TeacherMissed" xml:space="preserve">
     <value>El profesor se perdió la clase</value>
   </data>
@@ -200,9 +188,6 @@
   </data>
   <data name="UnschedLessonConf" xml:space="preserve">
     <value>¿Estás seguro de que quieres quitar la planificación de esta clase?</value>
-  </data>
-  <data name="UnschedLessonConf1" xml:space="preserve">
-    <value>¿Estás seguro de que quieres desprogramar esta clase?</value>
   </data>
   <data name="Unscheduled" xml:space="preserve">
     <value>Sin programar</value>
@@ -228,6 +213,18 @@
   <data name="YouRescheduleRequest" xml:space="preserve">
     <value>Solicitaste reprogramar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
   </data>
+  <data name="CancelUnscheduleRequestConf" xml:space="preserve">
+    <value>¿Estás seguro de que quieres cancelar tu solicitud?</value>
+  </data>
+  <data name="StudentCancelledUnschedule" xml:space="preserve">
+    <value>El estudiante canceló su solicitud de desprogramar la clase</value>
+  </data>
+  <data name="TeacherCancelledReschedule" xml:space="preserve">
+    <value>El profesor canceló su solicitud de reprogramar la clase</value>
+  </data>
+  <data name="TeacherCancelledUnschedule" xml:space="preserve">
+    <value>El profesor canceló su solicitud de desprogramar la clase</value>
+  </data>
   <data name="AcceptUnscheduleRequestConf" xml:space="preserve">
     <value>¿Aceptas la solicitud de desprogramar la clase?</value>
   </data>
@@ -246,11 +243,11 @@
   <data name="StudentRescheduled" xml:space="preserve">
     <value>El estudiante ha reprogramado la clase. Nueva fecha de clase: {0} ({1} {2})</value>
   </data>
+  <data name="StudentRescheduledUnsch" xml:space="preserve">
+    <value>El estudiante programó esta clase. Fecha de la nueva clase: {0} ({1},{2})</value>
+  </data>
   <data name="StudentRescheduleRequest" xml:space="preserve">
     <value>El estudiante ha solicitado reprogramar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
-  </data>
-  <data name="StudentRescheduleUnsch" xml:space="preserve">
-    <value>El estudiante programó esta clase. Nueva fecha de clase: {0} ({1} {2})</value>
   </data>
   <data name="StudentRescheduleUnschRequest" xml:space="preserve">
     <value>El estudiante ha solicitado reprogramar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
@@ -303,6 +300,9 @@
   <data name="YouRescheduled" xml:space="preserve">
     <value>Has reprogramado la clase. Nueva fecha de clase: {0} ({1} {2})</value>
   </data>
+  <data name="YouRescheduledUnsch" xml:space="preserve">
+    <value>Has programado una nueva clase. Nueva fecha de clase: {0} ({1} {2})</value>
+  </data>
   <data name="YouRescheduleUnschRequest" xml:space="preserve">
     <value>Has solicitado programar esta clase. Nueva fecha de clase: {0} ({1} {2})</value>
   </data>
@@ -314,6 +314,171 @@
   </data>
   <data name="SolvingIssue" xml:space="preserve">
     <value>Solucionando problema</value>
+  </data>
+  <data name="StudAcceptedCancelAndRefund" xml:space="preserve">
+    <value>El estudiante  ha aceptado tu solución: La clase ha sido cancelada y se devolverá el 100% de los créditos</value>
+  </data>
+  <data name="StudAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>El estudiante ha aceptado tu solución: La clase ha sido cancelada y se devolverá el 50% de los créditos</value>
+  </data>
+  <data name="StudAcceptedCollect" xml:space="preserve">
+    <value>El estudiante ha aceptado tu solución: La clase ha sido marcada como Completada y has recibido el 100% de los créditos</value>
+  </data>
+  <data name="StudAcceptedCollectHalf" xml:space="preserve">
+    <value>El estudiante ha aceptado tu solución: La clase ha sido marcada como Completada y has recibido el 50% de los créditos</value>
+  </data>
+  <data name="StudAcceptedReschedule" xml:space="preserve">
+    <value>El estudiante ha aceptado tu solución: La clase ha sido marcada como Desprogramada. Tanto tú como el estudiante podéis proponer una nueva fecha para la clase.</value>
+  </data>
+  <data name="StudCancelledReport" xml:space="preserve">
+    <value>La notificación del problema ha sido cancelada por el estudiante</value>
+  </data>
+  <data name="StudRejectedCancelAndRefund" xml:space="preserve">
+    <value>El estudiante rechazó tu solución: Cancelación de la clase y la devolución del 100% de los créditos</value>
+  </data>
+  <data name="StudRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>El estudiante rechazó tu solución: Cancelación de la clase y la devolución del 50% de los créditos</value>
+  </data>
+  <data name="StudRejectedCollect" xml:space="preserve">
+    <value>El estudiante rechazó tu solución: Marcar clase como Completada y quedarse con el 100% de los créditos.</value>
+  </data>
+  <data name="StudRejectedCollectHalf" xml:space="preserve">
+    <value>El estudiante rechazó tu solución: Marcar la clase como Completada y quedarse con el 50% de los créditos.</value>
+  </data>
+  <data name="StudRejectedReschedule" xml:space="preserve">
+    <value>El estudiante rechazó tu solución: Propusiste reprogramar la clase.</value>
+  </data>
+  <data name="StudReportedIssue" xml:space="preserve">
+    <value>El estudiante notificó problemas en esta clase.</value>
+  </data>
+  <data name="StudRequestedMediation" xml:space="preserve">
+    <value>El estudiante reclamó la intermediación de Langademy.</value>
+  </data>
+  <data name="TeachAcceptedCancelAndRefund" xml:space="preserve">
+    <value>El profesor aceptó tu solución: La clase ha sido cancelada y el 100% de los créditos ha sido devuelto.</value>
+  </data>
+  <data name="TeachAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>El profesor aceptó tu solución: La clase ha sido cancelada y el 50% de los créditos ha sido devuelto.</value>
+  </data>
+  <data name="TeachAcceptedCollect" xml:space="preserve">
+    <value>El profesor aceptó tu solución: La  clase ha sido marcada como Completada y el profesor recibió el 100% de los créditos</value>
+  </data>
+  <data name="TeachAcceptedCollectHalf" xml:space="preserve">
+    <value>El profesor aceptó tu solución: La clase ha sido marcada como Completada y el profesor recibirá el 50% de los créditos</value>
+  </data>
+  <data name="TeachAcceptedReschedule" xml:space="preserve">
+    <value>El profesor aceptó tu solución: La clase ha sido marcada como Desprogramada. Tú o tu profesor podéis proponer una nueva flecha para la clase.</value>
+  </data>
+  <data name="YouCancelledReport" xml:space="preserve">
+    <value>Cancelaste la notificación del problema.</value>
+  </data>
+  <data name="YouReportedIssue" xml:space="preserve">
+    <value>Notificaste un problema sobre esta clase.</value>
+  </data>
+  <data name="YouRequestedMediation" xml:space="preserve">
+    <value>Has solicitado la mediación de Langademy</value>
+  </data>
+  <data name="YouTeachAcceptedCancelAndRefund" xml:space="preserve">
+    <value>Aceptaste la solución del estudiante: La clase ha sido cancelada y se ha devuelto el 100% de los créditos.</value>
+  </data>
+  <data name="YouTeachAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>Aceptaste la solución del estudiante: La clase ha sido cancelada y se ha devuelto el 50% de los créditos.</value>
+  </data>
+  <data name="YouTeachAcceptedCollect" xml:space="preserve">
+    <value>Aceptaste la solución del estudiante: La clase ha sido marcada como Completada y recibiste el 100% de los créditos</value>
+  </data>
+  <data name="YouTeachAcceptedCollectHalf" xml:space="preserve">
+    <value>Aceptaste la solución del estudiante: La clase ha sido marcada como completada y recibiste el 50% de los créditos</value>
+  </data>
+  <data name="YouTeachAcceptedReschedule" xml:space="preserve">
+    <value>Aceptaste la solución del estudiante: La clase ha sido marcada como Desprogramada. Tú o tu estudiante podéis proponer una nueva fecha.</value>
+  </data>
+  <data name="YouTeachRejectedCancelAndRefund" xml:space="preserve">
+    <value>Rechazaste la solución del estudiante: cancelación de la clase y devolución del 100% de los créditos</value>
+  </data>
+  <data name="YouTeachRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>Rechazaste la solución del estudiante: Cancelación de la clase y devolución del 50% de los créditos</value>
+  </data>
+  <data name="YouTeachRejectedCollect" xml:space="preserve">
+    <value>Rechazaste la solución del estudiante: Marcar clase como Completada y recibir el 100% de los créditos</value>
+  </data>
+  <data name="YouTeachRejectedCollectHalf" xml:space="preserve">
+    <value>Rechazaste la solución del estudiante: Marcar la clase como Completada y recibir el 50% de los créditos</value>
+  </data>
+  <data name="YouTeachRejectedReschedule" xml:space="preserve">
+    <value>Rechazaste la solución del estudiante: El estudiante propuso reprogramar la clase</value>
+  </data>
+  <data name="CancelReportConf" xml:space="preserve">
+    <value>¡Estás seguro de que quieres cancelar esta notificación?</value>
+  </data>
+  <data name="Incompleted" xml:space="preserve">
+    <value>Incompleto</value>
+  </data>
+  <data name="StudentProposedSolution" xml:space="preserve">
+    <value>El estudiante ha propuesto esta solución</value>
+  </data>
+  <data name="TeachCancelledReport" xml:space="preserve">
+    <value>El </value>
+  </data>
+  <data name="TeacherProposedSolution" xml:space="preserve">
+    <value>El profesor ha propuesto esta solución</value>
+  </data>
+  <data name="TeachRejectedCancelAndRefund" xml:space="preserve">
+    <value>El profesor rechazó tu solución: Cancelación de la clase y devoluciónd el 100% de los créditos</value>
+  </data>
+  <data name="TeachRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>El profesor rechazó tu solución: Cancelación de la clase y devolución del 50% de los créditos.</value>
+  </data>
+  <data name="TeachRejectedCollect" xml:space="preserve">
+    <value>El profesor rechazó tu solución: Marcar la clase como Completada y pagar el 100% de los créditos</value>
+  </data>
+  <data name="TeachRejectedCollectHalf" xml:space="preserve">
+    <value>El profesor rechazón tu solución: Marcar la clase como Completada y pagar el 50% de los créditos</value>
+  </data>
+  <data name="TeachRejectedReschedule" xml:space="preserve">
+    <value>El profesor rechazó tu solución: Propusiste reprogramar la clase</value>
+  </data>
+  <data name="TeachReportedIssue" xml:space="preserve">
+    <value>El profesor notificó problemas en esta clase</value>
+  </data>
+  <data name="TeachRequestedMediation" xml:space="preserve">
+    <value>El profesor solicitó la mediación de Langademy</value>
+  </data>
+  <data name="YouProposedSolution" xml:space="preserve">
+    <value>Propusite esta solución</value>
+  </data>
+  <data name="YouStudAcceptedCancelAndRefund" xml:space="preserve">
+    <value>Aceptaste la solución del profesor: La clase ha sido cancelada yel 100% de los créditos han sido devueltos</value>
+  </data>
+  <data name="YouStudAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>Aceptaste la solución del profesor: La clase ha sido cancelada yel 50% de los créditos han sido devueltos</value>
+  </data>
+  <data name="YouStudAcceptedCollect" xml:space="preserve">
+    <value>Aceptaste la solución del profesor: La clase ha sido marcada como Completada y pagaste el 100% de los créditos</value>
+  </data>
+  <data name="YouStudAcceptedCollectHalf" xml:space="preserve">
+    <value>Aceptaste la solución del profesor: La clase ha sido marcada como Completada y pagaste el 50% de los créditos</value>
+  </data>
+  <data name="YouStudAcceptedReschedule" xml:space="preserve">
+    <value>Aceptaste la solución del profesor: La clase ha sido marcada como Desprogramada. Tanto tú como el profesor podéis proponer una nueva fecha para la clase</value>
+  </data>
+  <data name="YouStudRejectedCancelAndRefund" xml:space="preserve">
+    <value>Rechazaste la solución del profesor: Cancelación de la clase y la devolución del 100% de los créditos</value>
+  </data>
+  <data name="YouStudRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>Rechazaste la solución del profesor: Cancelación de la clase y la devolución del 50% de los créditos</value>
+  </data>
+  <data name="YouStudRejectedCollect" xml:space="preserve">
+    <value>Rechazaste la solución del profesor: Marcar la clase como Completada y pagar el 100% de los créditos</value>
+  </data>
+  <data name="YouStudRejectedCollectHalf" xml:space="preserve">
+    <value>Rechazaste la solución del profesor: Marcar la clase como Completada y pagar el 50% de los créditos</value>
+  </data>
+  <data name="YouStudRejectedReschedule" xml:space="preserve">
+    <value>Rechazaste la solución del profesor: El profesor propuso reprogramar la clase</value>
+  </data>
+  <data name="StudentCompleteLessonConf" xml:space="preserve">
+    <value>¿Confirmas que esta clase se ha completado correctamente? Con la confirmación, se procesará el pago al profesor.</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>Procesando</value>

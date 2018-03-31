@@ -121,6 +121,9 @@
   
   
   
+  <data name="AltLangInfo" xml:space="preserve">
+    <value>Aquest contingut no es troba disponible en {0}. Aquesta és la versió en {1}</value>
+  </data>
   <data name="Articles" xml:space="preserve">
     <value>Articles</value>
   </data>

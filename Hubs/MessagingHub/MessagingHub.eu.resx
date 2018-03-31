@@ -151,7 +151,7 @@
     <value>Hizkuntza hau ez dago zure hizkuntza zerrendan. Saiatu zaitez profilean dituzun hizkuntzetako batekin deia egiten!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[Ezin duzu deirik egin, ez duzu denborarik zure kontuan. <a href="{0}" class="applnk" data-app="HoursBagApp"> Kontsultatu ezazu zure denbora bankua </a>]]></value>
+    <value>Ezin duzu deirik egin, ez duzu denborarik zure kontuan. &lt;a href="{0}" class="applnk" data-app="HoursBagApp"&gt; Kontsultatu ezazu zure denbora bankua &lt;/a&gt;</value>
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>Ezin diozu {0}(r)i deitu: ez zaudete konektaturik</value>
@@ -172,24 +172,24 @@
     <value>Arazoren bat egon da deiean</value>
   </data>
   <data name="MissedCall" xml:space="preserve">
-    <value><![CDATA[<span class="text-bold">{0}</span>-(r)en dei galdua]]></value>
+    <value>&lt;span class="text-bold"&gt;{0}&lt;/span&gt;-(r)en dei galdua</value>
   </data>
   <data name="UnansweredCall" xml:space="preserve">
-    <value><![CDATA[<span class="text-bold">{0}</span>-(r)i deia, erantzunik ez]]></value>
+    <value>&lt;span class="text-bold"&gt;{0}&lt;/span&gt;-(r)i deia, erantzunik ez</value>
   </data>
   <data name="BusyCall" xml:space="preserve">
-    <value><![CDATA[<span class="text-bold">{0}</span>-(r)i deia, okupatuta]]></value>
+    <value>&lt;span class="text-bold"&gt;{0}&lt;/span&gt;-(r)i deia, okupatuta</value>
   </data>
   <data name="CallEnd" xml:space="preserve">
     <value>Deia bukatu da, iraupena {0}</value>
   </data>
   <data name="CallStartReceived" xml:space="preserve">
-    <value><![CDATA[<span class="text-bold">{0}</span>-(r)en deia]]></value>
+    <value>&lt;span class="text-bold"&gt;{0}&lt;/span&gt;-(r)en deia</value>
   </data>
   <data name="CallStartSent" xml:space="preserve">
-    <value><![CDATA[<span class="text-bold">{0}</span>-(r)i deia]]></value>
+    <value>&lt;span class="text-bold"&gt;{0}&lt;/span&gt;-(r)i deia</value>
   </data>
   <data name="RejectCall" xml:space="preserve">
-    <value><![CDATA[<span class="text-bold">{0}</span>-(r)en deiari uko]]></value>
+    <value>&lt;span class="text-bold"&gt;{0}&lt;/span&gt;-(r)en deiari uko</value>
   </data>
 </root>

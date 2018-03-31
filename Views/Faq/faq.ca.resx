@@ -121,10 +121,10 @@
     <value>La llista de sales només mostra els idiomes que has afegit al teu perfil. Si vols aprendre nous idiomes o accedir a les sales dels altres idiomes, has d'afegir aquests idiomes al teu perfil</value>
   </data>
   <data name="Answer2" xml:space="preserve">
-    <value><![CDATA[La principal forma d'obtenir temps per al teu compte, és ensenyar les teves  llengües natives al altres usuaris. Pots anar a la sala d'un dels teus idiomes natius o pots fer videotrucades privades amb els teus contactes. <br/> També pots aconseguir temps si convides als teus amics a Langademy o si ens segueixes a Twitter i Facebook]]></value>
+    <value>La principal forma d'obtenir temps per al teu compte, és ensenyar les teves  llengües natives al altres usuaris. Pots anar a la sala d'un dels teus idiomes natius o pots fer videotrucades privades amb els teus contactes. &lt;br/&gt; També pots aconseguir temps si convides als teus amics a Langademy o si ens segueixes a Twitter i Facebook</value>
   </data>
   <data name="Answer3" xml:space="preserve">
-    <value>Si accedeixes a una sala de xat i esta buida, pots veure si al tauler de quedades hi ha creada alguna quedada. Si no hi ha cap quedada, les pots crear. Tan sols tens que seleccionar l'idioma, la data i l'hora de la quedada. </value>
+    <value>Hauries organitzar les teves pròpies quedades. Només has de seleccionar l'idioma i la data i hora de la trobada. Vés al teu Calendari i fes clic a Nova Quedada a la pàgina principal</value>
   </data>
   <data name="Answer4" xml:space="preserve">
     <value>Sí. Accedeix a Configuració =&gt; Privadesa i habilita l'opció "Permetre només les sol·licituds de contacte de la gent amb la que has parlat".</value>

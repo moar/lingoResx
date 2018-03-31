@@ -140,7 +140,7 @@
     <value>Sì</value>
   </data>
   <data name="Logoutlink" xml:space="preserve">
-    <value><![CDATA[Fai clic su <a0> qui </ a0> per tornare alla {1}]]></value>
+    <value>Fai clic su &lt;a0&gt; qui &lt;/ a0&gt; per tornare alla {1}</value>
   </data>
   <data name="NowLoggedOut" xml:space="preserve">
     <value>Logout</value>

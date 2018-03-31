@@ -136,7 +136,7 @@
     <value>Gehi. denbora</value>
   </data>
   <data name="InviteEarn" xml:space="preserve">
-    <value><![CDATA[Gonbida itzazu zure lagunak  <strong>Langademy</strong>ra eta biurtu gure embaxadore! Izena ematen duen lagun bakoitzeko 30 minutu oparituko dizkizugu zure denbora bankurako! Gainera, beste 30 minutu extra bat irabazi ditzakezu gure sare sozialen jarratzaile eginez!]]></value>
+    <value>Gonbida itzazu zure lagunak  &lt;strong&gt;Langademy&lt;/strong&gt;ra eta biurtu gure embaxadore! Izena ematen duen lagun bakoitzeko 30 minutu oparituko dizkizugu zure denbora bankurako! Gainera, beste 30 minutu extra bat irabazi ditzakezu gure sare sozialen jarratzaile eginez!</value>
   </data>
   <data name="MailInstruction" xml:space="preserve">
     <value>Sartu email helbide bat eta sakatu espazioa edo ";"</value>

@@ -138,7 +138,7 @@
     <value>Inserisci il tuo account Langademy</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value><![CDATA[Benvenuti a <span0> Langademy </ span0>]]></value>
+    <value>Benvenuti a &lt;span0&gt; Langademy &lt;/ span0&gt;</value>
   </data>
   <data name="Action" xml:space="preserve">
     <value>Accesso</value>

@@ -226,12 +226,12 @@
     <value>(build {version})</value>
   </data>
   <data name="welcome-info1" xml:space="preserve">
-    <value><![CDATA[IdentityServer publishes a <a href="{applicationPath}/.well-known/openid-configuration">discovery document</a> where you can find metadata and links to all the endpoints, key material, etc.]]></value>
+    <value>IdentityServer publishes a &lt;a href="{applicationPath}/.well-known/openid-configuration"&gt;discovery document&lt;/a&gt; where you can find metadata and links to all the endpoints, key material, etc.</value>
   </data>
   <data name="welcome-info2" xml:space="preserve">
-    <value><![CDATA[IdentityServer allows users to view and revoke <a href="{applicationPath}/permissions">application permissions</a> previously granted to client applications.]]></value>
+    <value>IdentityServer allows users to view and revoke &lt;a href="{applicationPath}/permissions"&gt;application permissions&lt;/a&gt; previously granted to client applications.</value>
   </data>
   <data name="welcome-info3" xml:space="preserve">
-    <value><![CDATA[Here are links to the <a href="https://identityserver.github.io/Documentation">documentation</a>, and <a href="https://github.com/identityserver/IdentityServer3.Samples">ready to use samples</a>.]]></value>
+    <value>Here are links to the &lt;a href="https://identityserver.github.io/Documentation"&gt;documentation&lt;/a&gt;, and &lt;a href="https://github.com/identityserver/IdentityServer3.Samples"&gt;ready to use samples&lt;/a&gt;.</value>
   </data>
 </root>

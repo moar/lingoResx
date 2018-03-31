@@ -151,8 +151,8 @@
     <value>No tens aquest idioma en el teu perfil. Tria un dels teus idiomes per trucar!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[No pots realitzar més trucades, no tens més saldo en el teu compte. <a href="{0}" class="applnk link" data-app="HoursBagApp"> Anar al banc de temps </a>
-]]></value>
+    <value>No pots realitzar més trucades, no tens més saldo en el teu compte. &lt;a href="{0}" class="applnk link" data-app="HoursBagApp"&gt; Anar al banc de temps &lt;/a&gt;
+</value>
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>No pots trucar a {0}: no esteu connectats</value>
@@ -173,24 +173,24 @@
     <value>S'ha produït un error durant la trucada</value>
   </data>
   <data name="MissedCall" xml:space="preserve">
-    <value><![CDATA[Trucada perduda de <span class="text-bold">{0}</span>]]></value>
+    <value>Trucada perduda de &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="UnansweredCall" xml:space="preserve">
-    <value><![CDATA[Trucada a <span class="text-bold">{0}</span>, sense resposta]]></value>
+    <value>Trucada a &lt;span class="text-bold"&gt;{0}&lt;/span&gt;, sense resposta</value>
   </data>
   <data name="BusyCall" xml:space="preserve">
-    <value><![CDATA[Trucada a <span class="text-bold">{0}</span>, ocupat]]></value>
+    <value>Trucada a &lt;span class="text-bold"&gt;{0}&lt;/span&gt;, ocupat</value>
   </data>
   <data name="CallEnd" xml:space="preserve">
     <value>Trucada finalitzada, durada {0}</value>
   </data>
   <data name="CallStartReceived" xml:space="preserve">
-    <value><![CDATA[Trucada de <span class="text-bold">{0}</span>]]></value>
+    <value>Trucada de &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="CallStartSent" xml:space="preserve">
-    <value><![CDATA[Trucada a <span class="text-bold">{0}</span>]]></value>
+    <value>Trucada a &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="RejectCall" xml:space="preserve">
-    <value><![CDATA[Trucada de <span class="text-bold">{0}</span> rebutjada]]></value>
+    <value>Trucada de &lt;span class="text-bold"&gt;{0}&lt;/span&gt; rebutjada</value>
   </data>
 </root>

@@ -155,6 +155,6 @@
     <value>Put a price to your conversations</value>
   </data>
   <data name="INTitleText" xml:space="preserve">
-    <value><![CDATA[If you like conversating with new people and help them to become fluent in your native language, this is your chance to <strong>earn some extra money from home</strong>]]></value>
+    <value>If you like conversating with new people and help them to become fluent in your native language, this is your chance to &lt;strong&gt;earn some extra money from home&lt;/strong&gt;</value>
   </data>
 </root>

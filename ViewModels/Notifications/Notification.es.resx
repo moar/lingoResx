@@ -121,7 +121,7 @@
     <value>y tú estáis conectados ahora</value>
   </data>
   <data name="FriendJoined" xml:space="preserve">
-    <value><![CDATA[<a href="{0}" class="link">{1}</a> se unió a Langademy. Has ganado 30 minutos para tu Banco de Tiempo!]]></value>
+    <value>&lt;a href="{0}" class="link"&gt;{1}&lt;/a&gt; se unió a Langademy. Has ganado 30 minutos para tu Banco de Tiempo!</value>
   </data>
   <data name="FriendRequest" xml:space="preserve">
     <value>quiere contactar contigo</value>

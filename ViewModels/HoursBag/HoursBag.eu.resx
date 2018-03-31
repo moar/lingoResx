@@ -199,7 +199,7 @@
     <value>Langademy atsegin</value>
   </data>
   <data name="Joined" xml:space="preserve">
-    <value><![CDATA[<a class="link" href="/users/{0}">{1}</a>(e)k Langademyn izena eman du]]></value>
+    <value>&lt;a class="link" href="/users/{0}"&gt;{1}&lt;/a&gt;(e)k Langademyn izena eman du</value>
   </data>
   <data name="MonthlyCharge" xml:space="preserve">
     <value>Hileko karga</value>

@@ -153,4 +153,22 @@
   <data name="SearchCustomUserSubtitle" xml:space="preserve">
     <value>Busca companys de conversa i filtra'ls usant el filtre del teu tauler de control</value>
   </data>
+  <data name="SearchIncludeAllLangs" xml:space="preserve">
+    <value>Incloure tots els idiomes</value>
+  </data>
+  <data name="Searchheader" xml:space="preserve">
+    <value>Busca companys d'intercanvi d'idiomes</value>
+  </data>
+  <data name="SLearn" xml:space="preserve">
+    <value>Aprenc</value>
+  </data>
+  <data name="SSearch" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="SSpeak" xml:space="preserve">
+    <value>Parlo</value>
+  </data>
+  <data name="SearchMaxRate" xml:space="preserve">
+    <value>Tarifa màxima</value>
+  </data>
 </root>

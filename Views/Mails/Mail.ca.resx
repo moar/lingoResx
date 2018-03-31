@@ -162,6 +162,12 @@
   <data name="PublicMeetupAlert" xml:space="preserve">
     <value>Recordatori: avui tens una quedada</value>
   </data>
+  <data name="TeacherRequestAccepted" xml:space="preserve">
+    <value>Has estat acceptat com a professor</value>
+  </data>
+  <data name="TeacherRequestDenied" xml:space="preserve">
+    <value>No has estat acceptat com a professor</value>
+  </data>
   <data name="VisitReminder" xml:space="preserve">
     <value>Et trobem a faltar!</value>
   </data>

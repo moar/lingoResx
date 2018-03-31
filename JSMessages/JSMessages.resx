@@ -516,9 +516,6 @@
   <data name="cancelunanpurchase" xml:space="preserve">
     <value>Are you sure you want to cancel your purchase? Your credits will be refunded to your Wallet account</value>
   </data>
-  <data name="ConfirmLessonPurchaseCancel" xml:space="preserve">
-    <value />
-  </data>
   <data name="acceptunanpurchase" xml:space="preserve">
     <value>Do you confirm that you accept this purchase? The scheduled lessons will be added to your calendar</value>
   </data>
