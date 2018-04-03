@@ -121,7 +121,7 @@
     <value>Todas las quedadas</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[Todavía no ha empezado la quedada, pero puedes entrar a la sala y <b>practicar {0}</b> cuando quieras]]></value>
+    <value>Todavía no ha empezado la quedada, pero puedes entrar a la sala y &lt;b&gt;practicar {0}&lt;/b&gt; cuando quieras</value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Asistir</value>

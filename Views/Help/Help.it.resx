@@ -136,10 +136,10 @@
     <value>Entra nel chat room, seleziona una stanza e inizia a parlare la tua lingua preferita!  Ci occupiamo noi di cercarte una coppia!Ricorda che puoi controllare la tabella di appuntamenti per sapere quando saranno i prossimi appuntamenti.</value>
   </data>
   <data name="TimeBankDescription" xml:space="preserve">
-    <value> La Banca del Tempo è il sistema per fare più proficuo per tutti lo scambio linguistico. Ecco come funziona:</value>
+    <value>La Banca del Tempo è il meccanismo con cui si può essere sicuri che tutti vince a Langademy con scambi linguistici. Se si effettua una videochiamata a tempo con un madrelingua, è necessario dedicare lo stesso tempo a parlare nella propria lingua madre, con la stessa lingua (come un tandem) o con altri studenti. Langademy registra la durata delle videochiamate in modo da non doversi preoccupare di contare. È sufficiente controllare il saldo orario ({0}) per vedere se è necessario pianificare le videochiamate nella propria lingua madre e aumentare il saldo. Così funziona la Banca del Tempo</value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Inizierai con 30 minuti in modo da poter parlare la lingua che si desidera.</value>
+    <value>Quando ti iscrivi a Langademy inizi con 30 minuti di saldo sul tuo conto Banca del Tempo in modo da poter parlare nella lingua che preferisci.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Per impostazione predefinita, non sarà possibile accumulare più di 10 ore nella tua banca del tempo.</value>
@@ -250,10 +250,10 @@
     <value>La Banca del Tempo offre un modo per imparare le lingue senza dover spendere il tuo denaro: il tempo che si utilizza per parlare la tua lingua madre con gli studenti ti verrà aggiunto al tuo conto Banca del Tempo. Guarda le regole della Banca del Tempo ({0}). </value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>Nella tua home page si vedrà il saldo del conto Banca del Tempo. Se si accede l'applicazione Banca del Tempo è possibile visualizzare la cronologia ei dettagli dei movimenti della Banca del Tempo.</value>
+    <value>Nella home page è possibile visualizzare il saldo del conto Banca del Tempo, e se si accede all' applicazione {0} è possibile visualizzare la cronologia e i dettagli dei movimenti.</value>
   </data>
   <data name="HelpChatRooms1" xml:space="preserve">
-    <value><![CDATA[Le chat room è il posto dove puoi incontrare compagni di  conversazione, siano essi madrelingua o studenti. Per prima devi aggiungere nel tuo profilo le lingue che ti interessano. In caso contrario non ti sarà possibile entrare nelle chat room di queste lingue. Una volta fatto, vai al Pannello di controllo, clicca <span0> </span0> e seleziona la lingua della chat room per aprirlo.]]></value>
+    <value>Le chat room è il posto dove puoi incontrare compagni di  conversazione, siano essi madrelingua o studenti. Per prima devi aggiungere nel tuo profilo le lingue che ti interessano. In caso contrario non ti sarà possibile entrare nelle chat room di queste lingue. Una volta fatto, vai al Pannello di controllo, clicca &lt;span0&gt; &lt;/span0&gt; e seleziona la lingua della chat room per aprirlo.</value>
   </data>
   <data name="HelpChatRooms4" xml:space="preserve">
     <value>Utenti: contiene l'elenco di utenti. Clicca sugli utenti per aprire un menu con le seguenti opzioni: invia una richiesta di contatto, avviare una chiamata video, o il blocco e segnalare se ti hanno causato alcun problema.</value>
@@ -386,7 +386,7 @@
     <value>Mantenere la tua disponibilità attuale ti aiuterà a organizzare il tuo tempo come un madrelingua e evitare di dover ricevere le richieste di contatto, quando non si vuole parlare con gli studenti. Se non si definisce la propria disponibilità, è possibile effettuare solo chiamate video con i tuoi contatti o studenti che troverai nelle chat room.</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value><![CDATA[Per impostare la tua disponibilità vai a <a0> Il mio calendario </ a0> e clicca su Modifica Disponibilità, in alto, o vai direttamente a <a1> Modifica Disponibilità </ a1> e segui questi passi:]]></value>
+    <value>Per impostare la tua disponibilità vai a &lt;a0&gt; Il mio calendario &lt;/ a0&gt; e clicca su Modifica Disponibilità, in alto, o vai direttamente a &lt;a1&gt; Modifica Disponibilità &lt;/ a1&gt; e segui questi passi:</value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Sceglie il tipo di conversazione che vuoi ricevere, cliccando Wallet, Banca del Tempo o entrambi</value>
@@ -410,7 +410,7 @@
     <value>Modifica la tua disponibilità</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value><![CDATA[Una volta soddisfatti i <a0> requisiti </ a0>, è possibile stabilire una tassa per far pagare ai tuoi studenti per mantenere conversazioni. Puoi seguire questi passi:]]></value>
+    <value>Una volta soddisfatti i &lt;a0&gt; requisiti &lt;/ a0&gt;, è possibile stabilire una tassa per far pagare ai tuoi studenti per mantenere conversazioni. Puoi seguire questi passi:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Apri il tuo pannello di stato cliccando sulla foto del tuo profilo in alto a destra della home page</value>
@@ -419,7 +419,7 @@
     <value>Vai alla sezione Wallet del tuo pannello di stato e trova la lingua per la quale vuoi stabilire una tassa</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Clicca sul pulsante <span0> </ span0> e ti mostrerà una finestra per aggiornare il tuo tasso]]></value>
+    <value>Clicca sul pulsante &lt;span0&gt; &lt;/ span0&gt; e ti mostrerà una finestra per aggiornare il tuo tasso</value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Stabilisce il numero di crediti l'ora che vuoi guadagnare dei tuoi studenti e salva le modifiche</value>
@@ -443,7 +443,7 @@
     <value>Gli appuntamenti sono la via più facile per fare sapere in anticipo a gli studenti quando sarai in una chat room. In questo modo, gli studenti e gli altri madrelingua possono unirsi a te allo stesso tempo. In realtà, è possibile accedere nella chat room quando si vuole, ma cerchiamo di essere onesti, è più facile di riunire persone se un evento è organizzato prima.</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value><![CDATA[Controlla il tuo <a href="{0}" class="link applnk">Calendario</a>  per vedere gli appuntamenti che sono stati organizzati. Se c'è qualche appuntamento interessante, ti può registrare. Altrimenti, crea uno nuovo.]]></value>
+    <value>Controlla il tuo &lt;a href="{0}" class="link applnk"&gt;Calendario&lt;/a&gt;  per vedere gli appuntamenti che sono stati organizzati. Se c'è qualche appuntamento interessante, ti può registrare. Altrimenti, crea uno nuovo.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>Quando ti iscrivi a un appuntamento, un evento viene aggiunto al calendario.Accede, e ti sarà possibile scrivere sul tabellone del appuntamento, si può anche suggerire argomenti di conversazione</value>
@@ -452,7 +452,7 @@
     <value>Come posso organizzare un nuovo appuntamento?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[Per organizzare un nuovo appuntamento entra <a0> Il mio calendario </ a0> e fai clic su Nuovo Appuntamento nella parte superiore. È possibile anche creare direttamente un <a1> Nuovo Appuntamento </ a1> e seguire questi passi:]]></value>
+    <value>Per organizzare un nuovo appuntamento entra &lt;a0&gt; Il mio calendario &lt;/ a0&gt; e fai clic su Nuovo Appuntamento nella parte superiore. È possibile anche creare direttamente un &lt;a1&gt; Nuovo Appuntamento &lt;/ a1&gt; e seguire questi passi:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Seleziona la lingua dell'appuntamento. I partecipanti che assistano all'appuntamento, entreranno nella chat room della lingua dell'appuntamento.
@@ -480,7 +480,7 @@
     <value>Come posso sapere se un madrelingua accetta la mia richiesta?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value><![CDATA[ Puoi verificare lo stato delle tue richieste nel tuo <a0> Calendario </ a0>. Controlla il pannello di richieste inviate. Seleziona la richiesta che vuoi e potrai vedere i dettagli di quella richiesta. Nella schermata dei dettagl si vedrà se il madrelingua ha accettato o rifiutato la richiesta e anche si potrà annullare la richiesta o inviare messaggi al madrelingua se hai bisogno di ulteriori informazioni.]]></value>
+    <value> Puoi verificare lo stato delle tue richieste nel tuo &lt;a0&gt; Calendario &lt;/ a0&gt;. Controlla il pannello di richieste inviate. Seleziona la richiesta che vuoi e potrai vedere i dettagli di quella richiesta. Nella schermata dei dettagl si vedrà se il madrelingua ha accettato o rifiutato la richiesta e anche si potrà annullare la richiesta o inviare messaggi al madrelingua se hai bisogno di ulteriori informazioni.</value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Inoltre, quando il nativo accetta la tua richiesta ti verrà notificato e si aggiungerà un nuovo evento al tuo calendario.</value>
@@ -489,7 +489,7 @@
     <value>Cosa devo fare quando è il momento di la conversazione?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value><![CDATA[Vai al pannello di chiamata <span0> </ span0> e seleziona la scheda conversazioni private <SPAN1> </ SPAN1>. Clicca su un utente, può aprire l'applicazione di videochiamate. È anche possibile aprire l'applicazione video da i dettagli della conversazione nel tuo Calendario.]]></value>
+    <value>Vai al pannello di chiamata &lt;span0&gt; &lt;/ span0&gt; e seleziona la scheda conversazioni private &lt;SPAN1&gt; &lt;/ SPAN1&gt;. Clicca su un utente, può aprire l'applicazione di videochiamate. È anche possibile aprire l'applicazione video da i dettagli della conversazione nel tuo Calendario.</value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Quando sei nella applicazione di videochiamate, potrai vedere quando è collegato il tuo compagno. Nel frattempo, è possibile inviare messaggi di chat privato a tuo compagno.</value>
@@ -537,7 +537,7 @@
     <value>Tematica degli appuntamenti: Durante gli appuntamenti si vedrà visualizzato un elenco di argomenti di conversazione proposto dai partecipanti</value>
   </data>
   <data name="HelpHowToCall1" xml:space="preserve">
-    <value><![CDATA[Effettuare una chiamata videoLangademy è facile. È possibile chiamare un utente da dove si vede il simbolo <span0></span0>. Cliccando su di esso, il menu chiamata appare per selezionare la lingua della conversazione e del tipo di chiamata (<span1></span1> banca del tempo o <span3></span3> Wallet). Nel caso di chiamate Wallet,  vedrài il tasso addebitato per la chiamata accanto alla lingua.]]></value>
+    <value>Effettuare una chiamata videoLangademy è facile. È possibile chiamare un utente da dove si vede il simbolo &lt;span0&gt;&lt;/span0&gt;. Cliccando su di esso, il menu chiamata appare per selezionare la lingua della conversazione e del tipo di chiamata (&lt;span1&gt;&lt;/span1&gt; banca del tempo o &lt;span3&gt;&lt;/span3&gt; Wallet). Nel caso di chiamate Wallet,  vedrài il tasso addebitato per la chiamata accanto alla lingua.</value>
   </data>
   <data name="HelpHowToCall2" xml:space="preserve">
     <value>Considera che la lingua scelta per effettuare la chiamata, determina se si agisce come un madrelingua o come studente, e se la chiamata viene pagato tempo o crediti. Pertanto, il saldo del vostro portafoglio o della Banca del tempo verrà aggiornato di conseguenza, quindi fate attenzione quando si effettua una chiamata.</value>
@@ -549,7 +549,7 @@
     <value>Chiamata dal pannello di controllo.</value>
   </data>
   <data name="HelpHowToCall41" xml:space="preserve">
-    <value><![CDATA[Clicca sulla scheda <span0></span0> del Pannello di controllo per aprire il pannello  chiamata. È possibile scegliere qualsiasi delle seguenti  schede di chiamata:]]></value>
+    <value>Clicca sulla scheda &lt;span0&gt;&lt;/span0&gt; del Pannello di controllo per aprire il pannello  chiamata. È possibile scegliere qualsiasi delle seguenti  schede di chiamata:</value>
   </data>
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Contatti online: lista dei contatti In linea</value>
@@ -630,7 +630,7 @@
     <value>Inserisci il numero di crediti che vuoi acquistare</value>
   </data>
   <data name="HelpPurchaseCredits3" xml:space="preserve">
-    <value><![CDATA[1 credito Langademy <span0>€</span0> = 1EURO€]]></value>
+    <value>1 credito Langademy &lt;span0&gt;€&lt;/span0&gt; = 1EURO€</value>
   </data>
   <data name="HelpPurchaseCredits4" xml:space="preserve">
     <value>Controlla l'acquisto minimo di crediti, in base al metodo di pagamento selezionato. Se la posizione è disponibile e la valuta locale del tuo paese non è l'Euro, puoi vedere una conversione stimato per la valuta. Da notare che questa conversione è solo informativa, mentre che il tasso di cambio finale sono le banche ad applicarlo.</value>
@@ -663,12 +663,45 @@
     <value>La Banca del Tempo è l'applicazione in cui è possibile tenere traccia del tuo tempo di chiamata banca e vedrete il tuo saldo di tempo.</value>
   </data>
   <data name="HelpTimeBankApp2" xml:space="preserve">
-    <value><![CDATA[Puoi aprire la Banca del Tempo cliccando sul pulsante Apps <span0></span0> del Pannello di Controllo e selezionando il pulsante Banca del Tempo <span1></span1>]]></value>
+    <value>Puoi aprire la Banca del Tempo cliccando sul pulsante Apps &lt;span0&gt;&lt;/span0&gt; del Pannello di Controllo e selezionando il pulsante Banca del Tempo &lt;span1&gt;&lt;/span1&gt;</value>
   </data>
   <data name="HelpTimeBankApp3" xml:space="preserve">
     <value>Ogni chiamata di banca del tempo ti aggiungerà o sottrrà tempo di  tuo saldo di tempo {0}</value>
   </data>
   <data name="HelpTimeBankAppTitle" xml:space="preserve">
     <value>Banca del Tempo</value>
+  </data>
+  <data name="HelpHTGeoTitle" xml:space="preserve">
+    <value>Come impostare i permessi di geolocalizzazione</value>
+  </data>
+  <data name="HelpHTBrowser" xml:space="preserve">
+    <value>Per la migliore esperienza utente si dovrebbe usare Google Chrome o Mozilla Firefox</value>
+  </data>
+  <data name="HelpHTGeoChr2" xml:space="preserve">
+    <value>Trova la sezione "Localizzazione".</value>
+  </data>
+  <data name="HelpHTGeoChr3" xml:space="preserve">
+    <value>Scegli permettere sempre</value>
+  </data>
+  <data name="HelpHTGeoChr4" xml:space="preserve">
+    <value>Chiudi il pannello Opzioni</value>
+  </data>
+  <data name="HelpHTGeoClickpadlock" xml:space="preserve">
+    <value>Clicca sul lucchetto a sinistra della barra degli indirizzi</value>
+  </data>
+  <data name="HelpHTGeoFF2" xml:space="preserve">
+    <value>Trova l' avvertenza "Localizzazione" che indica che l' autorizzazione è stata negata</value>
+  </data>
+  <data name="HelpHTGeoFF3" xml:space="preserve">
+    <value>Elimina cliccando il pulsante con la croce</value>
+  </data>
+  <data name="HelpHTGeoFF5" xml:space="preserve">
+    <value>Il browser mostra un popup che chiede il permesso di condividere la tua localizzazione con Langademy</value>
+  </data>
+  <data name="HelpHTGeoFF6" xml:space="preserve">
+    <value>Seleziona l'opzione "Ricorda questa opzione" e clicca sul pulsante consenti accesso.</value>
+  </data>
+  <data name="HelpHTGeoRefresh" xml:space="preserve">
+    <value>Aggiorna la pagina</value>
   </data>
 </root>

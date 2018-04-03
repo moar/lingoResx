@@ -121,8 +121,8 @@
     <value>The room list only shows the languages you have added to your profile. If you want to learn new languages or get other languages’ rooms, just add those languages to your profile</value>
   </data>
   <data name="Answer2" xml:space="preserve">
-    <value><![CDATA[The main way to get time for your account, is by talking to others in your native languages. You can make private calls in your native languages with your contacts, or with students that request you private conversations, or meet new people in the chat room of any of your native languages.<br/>
-                                You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook.]]></value>
+    <value>The main way to get time for your account, is by talking to others in your native languages. You can make private calls in your native languages with your contacts, or with students that request you private conversations, or meet new people in the chat room of any of your native languages.&lt;br/&gt;
+                                You can also earn hours by inviting your friends to Langademy or by following us on Twitter and Facebook.</value>
   </data>
   <data name="Answer3" xml:space="preserve">
     <value>You should create your own meetups. You just have to select the language and the date/time of the meetup. Go to your Calendar and click the New Meetup button on the main page</value>

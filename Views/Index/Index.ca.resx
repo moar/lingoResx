@@ -255,4 +255,46 @@
   <data name="IndBlog" xml:space="preserve">
     <value>Blog</value>
   </data>
+  <data name="IndWhatIsExchange" xml:space="preserve">
+    <value>Què és un intercanvi d'idiomes?</value>
+  </data>
+  <data name="LandRelatedArticles" xml:space="preserve">
+    <value>Articles relacionats</value>
+  </data>
+  <data name="LandFootAboutText" xml:space="preserve">
+    <value>Si tens algun suggeriment per ajudar-nos a millorar Langademy, posa't en contacte amb nosaltres!</value>
+  </data>
+  <data name="LandFootAboutUs" xml:space="preserve">
+    <value>Sobre nosaltres</value>
+  </data>
+  <data name="LandFootConnect" xml:space="preserve">
+    <value>Connecta amb nosaltres</value>
+  </data>
+  <data name="LandTabExchanges" xml:space="preserve">
+    <value>Intercanvis</value>
+  </data>
+  <data name="LandHome" xml:space="preserve">
+    <value>Entrar</value>
+  </data>
+  <data name="LandTabLearn" xml:space="preserve">
+    <value>Aprendre</value>
+  </data>
+  <data name="LandTabPartners" xml:space="preserve">
+    <value>Companys</value>
+  </data>
+  <data name="LandTabTeachers" xml:space="preserve">
+    <value>Professors</value>
+  </data>
+  <data name="LandTabArticles" xml:space="preserve">
+    <value>Articles</value>
+  </data>
+  <data name="LandPartnersTitle" xml:space="preserve">
+    <value>Troba un company de conversa natiu</value>
+  </data>
+  <data name="LandPartnersWantConver" xml:space="preserve">
+    <value>Vull tenir una conversa en</value>
+  </data>
+  <data name="IndContact" xml:space="preserve">
+    <value>Contacte</value>
+  </data>
 </root>

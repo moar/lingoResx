@@ -546,4 +546,7 @@
   <data name="RequestMediation" xml:space="preserve">
     <value>Solicitar mediación</value>
   </data>
+  <data name="RequestRate" xml:space="preserve">
+    <value>Solicitar tarifa</value>
+  </data>
 </root>

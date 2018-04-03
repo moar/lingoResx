@@ -144,4 +144,22 @@
   <data name="Seconds" xml:space="preserve">
     <value>secondi</value>
   </data>
+  <data name="Day" xml:space="preserve">
+    <value>giorno</value>
+  </data>
+  <data name="Days" xml:space="preserve">
+    <value>giorni</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>mese</value>
+  </data>
+  <data name="Months" xml:space="preserve">
+    <value>mesi</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>anno</value>
+  </data>
+  <data name="Years" xml:space="preserve">
+    <value>anni</value>
+  </data>
 </root>

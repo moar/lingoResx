@@ -207,4 +207,7 @@
   <data name="ManageAccount" xml:space="preserve">
     <value>Gestire l'account Langademy</value>
   </data>
+  <data name="LeaveFb" xml:space="preserve">
+    <value>Vuoi lasciarci? In caso affermativo, spiegateci perché e così possiamo continuare a migliorare Langademy.</value>
+  </data>
 </root>

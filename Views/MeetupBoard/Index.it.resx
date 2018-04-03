@@ -121,8 +121,8 @@
     <value>Tutti gli Appuntamenti</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[L'appuntamento non è ancora iniziato, ma puoi andare nella chat room e <b>praticare {0}</b> quando vuoi
-]]></value>
+    <value>L'appuntamento non è ancora iniziato, ma puoi andare nella chat room e &lt;b&gt;praticare {0}&lt;/b&gt; quando vuoi
+</value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Assistere</value>
@@ -426,5 +426,8 @@
   </data>
   <data name="FilterLanguages" xml:space="preserve">
     <value>Filtrare lingua</value>
+  </data>
+  <data name="SignMyMeetups" xml:space="preserve">
+    <value>È necessario effettuare il login se vuoi visualizzare i tuoi meetups</value>
   </data>
 </root>

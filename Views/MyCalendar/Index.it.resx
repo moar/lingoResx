@@ -118,11 +118,62 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="MCActions" xml:space="preserve">
+    <value>Azioni</value>
+  </data>
+  <data name="MCAfter" xml:space="preserve">
+    <value>Dopo</value>
+  </data>
   <data name="MCAllEvents" xml:space="preserve">
     <value>Tutti gli eventi</value>
   </data>
+  <data name="MCAvFor" xml:space="preserve">
+    <value>Disponibile per</value>
+  </data>
+  <data name="MCDaily" xml:space="preserve">
+    <value>Ogni giorno</value>
+  </data>
+  <data name="MCDate" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="MCDay" xml:space="preserve">
+    <value>Giorno</value>
+  </data>
+  <data name="MCDayMonthPrevText" xml:space="preserve">
+    <value>Il</value>
+  </data>
+  <data name="MCDelete" xml:space="preserve">
+    <value>Cancellare</value>
+  </data>
+  <data name="MCDeleteRecur" xml:space="preserve">
+    <value>Cancellare la ricorrenza</value>
+  </data>
+  <data name="MCDuration" xml:space="preserve">
+    <value>Durata</value>
+  </data>
+  <data name="MCEditAvailability" xml:space="preserve">
+    <value>Modifica disponibilità</value>
+  </data>
+  <data name="MCEnd" xml:space="preserve">
+    <value>Fine</value>
+  </data>
+  <data name="MCEndBeforeStartError" xml:space="preserve">
+    <value>La data di fine deve essere maggiore della data di inizio</value>
+  </data>
+  <data name="MCevery" xml:space="preserve">
+    <value>ogni</value>
+  </data>
+  <data name="MCFrequency" xml:space="preserve">
+    <value>Frequenza</value>
+  </data>
   <data name="MCLanguages" xml:space="preserve">
     <value>Lingue</value>
+  </data>
+  <data name="MCMonthly" xml:space="preserve">
+    <value>Mensilmente</value>
+  </data>
+  <data name="MCNever" xml:space="preserve">
+    <value>Mai</value>
   </data>
   <data name="MCNextEvents" xml:space="preserve">
     <value>Prossimi eventi</value>
@@ -130,10 +181,52 @@
   <data name="MCNoEvents" xml:space="preserve">
     <value>Non ci sono eventi programmati</value>
   </data>
+  <data name="MCOndate" xml:space="preserve">
+    <value>Alla data</value>
+  </data>
+  <data name="MCOptions" xml:space="preserve">
+    <value>Opzioni</value>
+  </data>
+  <data name="MCRangeRecur" xml:space="preserve">
+    <value>Intervallo di ricorrenza</value>
+  </data>
+  <data name="MCRepeat" xml:space="preserve">
+    <value>Ripetere</value>
+  </data>
+  <data name="MCRepeatAv" xml:space="preserve">
+    <value>Ripetere disponibilità</value>
+  </data>
+  <data name="MCRepetitions" xml:space="preserve">
+    <value>ripetizioni</value>
+  </data>
+  <data name="MCSaveClose" xml:space="preserve">
+    <value>Salvare e chiudere</value>
+  </data>
+  <data name="MCStart" xml:space="preserve">
+    <value>Inizio</value>
+  </data>
+  <data name="MCSummary" xml:space="preserve">
+    <value>Riassunto</value>
+  </data>
+  <data name="MCTime" xml:space="preserve">
+    <value>Ora</value>
+  </data>
+  <data name="MCTooLongEventError" xml:space="preserve">
+    <value>Non è possibile creare intervalli di disponibilità superiori a 8 ore</value>
+  </data>
+  <data name="MCWeekly" xml:space="preserve">
+    <value>Settimanale</value>
+  </data>
+  <data name="MCWeeks" xml:space="preserve">
+    <value>settimana(e)</value>
+  </data>
   <data name="MyCalendar" xml:space="preserve">
     <value>Il mio calendario</value>
   </data>
   <data name="MCLegendTimeBank" xml:space="preserve">
     <value>Scambi di lingue</value>
+  </data>
+  <data name="MCLegendWallet" xml:space="preserve">
+    <value>Chiamate Wallet informali</value>
   </data>
 </root>

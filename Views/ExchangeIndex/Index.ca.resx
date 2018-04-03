@@ -187,8 +187,20 @@ Contribueix a la comunitat d'intercanvi d'idiomes organitzant quedades els dies 
   <data name="EITitle" xml:space="preserve">
     <value>La teva comunitat online d'intercanvi d'idiomes</value>
   </data>
+  <data name="LandExchangeILearn" xml:space="preserve">
+    <value>Aprenc</value>
+  </data>
+  <data name="LandExchangeInExchange" xml:space="preserve">
+    <value>a canvi de converses en</value>
+  </data>
+  <data name="LandExchangeISpeak" xml:space="preserve">
+    <value>Parlo</value>
+  </data>
   <data name="LandExchangeNextMeetups" xml:space="preserve">
     <value>Properes quedades</value>
+  </data>
+  <data name="LandExchangeOfferConvs" xml:space="preserve">
+    <value>Ofereixo converses en</value>
   </data>
   <data name="LandExchangePartners" xml:space="preserve">
     <value>Companys</value>

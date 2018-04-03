@@ -140,7 +140,7 @@
 </value>
   </data>
   <data name="TimeBankF1" xml:space="preserve">
-    <value>Començaràs amb 30 minuts per a que puguis parlar amb l'idioma que vulguis.</value>
+    <value>Quan et registres a Langademy comences amb 30 minuts de saldo al teu compte del Banc de Temps perquè puguis parlar en l'idioma que vulguis.</value>
   </data>
   <data name="TimeBankF2" xml:space="preserve">
     <value>Per defecte, no podràs acumular més de 10 hores al Banc de Temps.</value>
@@ -251,10 +251,10 @@
     <value>El Banc del Temps ofereix una manera per aprendre idiomes sense que hagis de gastar diners: el temps que utilitzis per parlar en el teu idioma natiu amb els estudiants serà afegit al teu compte de Banc del Temps. Mira les regles del Banc del Temps ({0}).</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
-    <value>A la teva pàgina d'inici podràs veure el saldo del compte del Banc del Temps. Si accedeixes a l'aplicació de la teva Banc del Temps podràs consultar l'històric i els detalls dels teus moviments al Banc del Temps.</value>
+    <value>A la teva pàgina d'inici pots veure el saldo del compte del Banc de Temps, i si accedeixes a l'aplicació {0} podràs consultar l'històric i els detalls dels teus moviments.</value>
   </data>
   <data name="HelpChatRooms1" xml:space="preserve">
-    <value><![CDATA[Les sales de xat són el lloc on pots conèixer grups de companys de conversa, tant natius com a estudiants. En primer lloc has d'afegir al teu perfil els idiomes que t'interessen. En cas contrari no podràs entrar a les sales de xat d'aquests idiomes. Un cop fet, veu al panell de control, clica <span0> </span0> i selecciona l'idioma de la sala de xat per obrir-la.]]></value>
+    <value>Les sales de xat són el lloc on pots conèixer grups de companys de conversa, tant natius com a estudiants. En primer lloc has d'afegir al teu perfil els idiomes que t'interessen. En cas contrari no podràs entrar a les sales de xat d'aquests idiomes. Un cop fet, veu al panell de control, clica &lt;span0&gt; &lt;/span0&gt; i selecciona l'idioma de la sala de xat per obrir-la.</value>
   </data>
   <data name="HelpChatRooms4" xml:space="preserve">
     <value>Usuaris: Conté la llista d'usuaris connectats. Fes clic en els usuaris de la llista per obrir un menú amb les següents opcions: enviar sol·licitud de contacte, començar una trucada de vídeo, i denunciar-los o bloquejar-si t'han causat algun problema</value>
@@ -386,7 +386,7 @@
     <value>Mantenir la teva disponibilitat actualitzada t'ajudarà a organitzar el teu temps com a parlant natiu i evitaràs haver de rebre sol·licituds de contacte quan no vulguis parlar amb estudiants. Tingues en compte que si no defineixes la teva disponibilitat, només podràs fer videotrucades amb la teva llista de contactes o amb els estudiants que trobis a les sales de xat.</value>
   </data>
   <data name="HelpSetAvailability3" xml:space="preserve">
-    <value><![CDATA[Per definir la teva disponibilitat ves a <a0> El meu calendari </ a0> i clica Edita Disponibilitat a la part superior, o ves directament a <a1> Edita disponibilitat </ a1> i segueix aquests passos:]]></value>
+    <value>Per definir la teva disponibilitat ves a &lt;a0&gt; El meu calendari &lt;/ a0&gt; i clica Edita Disponibilitat a la part superior, o ves directament a &lt;a1&gt; Edita disponibilitat &lt;/ a1&gt; i segueix aquests passos:</value>
   </data>
   <data name="HelpSetAvailability4" xml:space="preserve">
     <value>Tria el tipus de conversa que vols rebre, clicant Wallet, Banc de Temps o totes dos</value>
@@ -410,7 +410,7 @@
     <value>Edita la teva disponibilitat</value>
   </data>
   <data name="HelpSetRate1" xml:space="preserve">
-    <value><![CDATA[Una vegada que compleixis els <a0> requisits </ a0>, podràs definir una tarifa per cobrar als teus alumnes per mantenir converses. Per a això, segueix aquests passos:]]></value>
+    <value>Una vegada que compleixis els &lt;a0&gt; requisits &lt;/ a0&gt;, podràs definir una tarifa per cobrar als teus alumnes per mantenir converses. Per a això, segueix aquests passos:</value>
   </data>
   <data name="HelpSetRate2" xml:space="preserve">
     <value>Obre el teu panell d'estat clicant a la teva foto de perfil a la part superior dreta de la pàgina d'inici</value>
@@ -419,7 +419,7 @@
     <value>Aneu a la secció Wallet del teu tauler d'estat i busca l'idioma per al qual vols establir una tarifa</value>
   </data>
   <data name="HelpSetRate4" xml:space="preserve">
-    <value><![CDATA[Fes clic al botó <span0> </ span0> i se't mostrarà una finestra perquè actualitzis la teva tarifa]]></value>
+    <value>Fes clic al botó &lt;span0&gt; &lt;/ span0&gt; i se't mostrarà una finestra perquè actualitzis la teva tarifa</value>
   </data>
   <data name="HelpSetRate5" xml:space="preserve">
     <value>Estableix el nombre de crèdits per hora que vols cobrar als teus estudiants i guarda els canvis</value>
@@ -443,7 +443,7 @@
     <value>Les quedades són la manera perquè altres companys sàpiguen amb temps quan vas a estar en una sala de xat. D'aquesta manera, els estudiants i altres parlants natius podran unir-se a tu a la mateixa hora. De fet, pots entrar a les sales de xat quan vulguis, però siguem honestos, és més fàcil ajuntar a gent si un esdeveniment s'organitza amb anterioritat.</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value><![CDATA[Revisa el teu <a href="{0}" class="link applnk"> Calendari</a> per veure les quedades que s'han organitzat. Si hi ha alguna quedada que t'interessi, no dubtis a apuntar-te. Si no, crea una de nova.]]></value>
+    <value>Revisa el teu &lt;a href="{0}" class="link applnk"&gt; Calendari&lt;/a&gt; per veure les quedades que s'han organitzat. Si hi ha alguna quedada que t'interessi, no dubtis a apuntar-te. Si no, crea una de nova.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>Quan t'apuntes a una quedada, s'afegirà un esdeveniment en el calendari. Accedeix i podràs escriure en el tauler de la quedada, també podràs proposar temes de conversa per la quedada.</value>
@@ -452,7 +452,7 @@
     <value>Com puc organitzar una nova quedada?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value><![CDATA[Per organitzar una nova quedada entra a <a0> El meu calendari </ a0> i clica Nova Quedada a la part superior. També pots fer directament una  <a1> Nova Quedada </ a1> i seguir els següents passos:]]></value>
+    <value>Per organitzar una nova quedada entra a &lt;a0&gt; El meu calendari &lt;/ a0&gt; i clica Nova Quedada a la part superior. També pots fer directament una  &lt;a1&gt; Nova Quedada &lt;/ a1&gt; i seguir els següents passos:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Selecciona l'idioma de la quedada. Els participants que assisteixin a la quedada, entraran a la sala de xat de l'idioma de la quedada.</value>
@@ -479,7 +479,7 @@
     <value>Com puc saber si un natiu accepta la meva sol·licitud?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value><![CDATA[Pots fer el seguiment de les teves sol·licituds al teu <a0> Calendari </ a0>. Revisa el panell de sol·licituds enviades. Tria la sol·licitud que vols i veuràs els detalls d'aquesta sol·licitud. A la pantalla de detalls podràs veure si el natiu ha acceptat o ha rebutjat la teva sol·licitud i també podràs cancel·lar la sol·licitud o enviar missatges al natiu en cas que necessitis informació addicional.]]></value>
+    <value>Pots fer el seguiment de les teves sol·licituds al teu &lt;a0&gt; Calendari &lt;/ a0&gt;. Revisa el panell de sol·licituds enviades. Tria la sol·licitud que vols i veuràs els detalls d'aquesta sol·licitud. A la pantalla de detalls podràs veure si el natiu ha acceptat o ha rebutjat la teva sol·licitud i també podràs cancel·lar la sol·licitud o enviar missatges al natiu en cas que necessitis informació addicional.</value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>A més, quan el natiu accepti la teva sol·licitud seràs notificat i se't afegirà un nou esdeveniment al teu calendari.</value>
@@ -488,7 +488,7 @@
     <value>Què he de fer quan sigui l'hora de la conversa?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value><![CDATA[Ves al panell de trucada <span0> </ span0> i selecciona la pestanya de Converses Privades <span1> </ span1>. Fes clic en un usuari i podràs obrir l'aplicació de videotrucades. Així mateix, pots obrir l'aplicació de vídeo des dels detalls de conversa del teu Calendari.]]></value>
+    <value>Ves al panell de trucada &lt;span0&gt; &lt;/ span0&gt; i selecciona la pestanya de Converses Privades &lt;span1&gt; &lt;/ span1&gt;. Fes clic en un usuari i podràs obrir l'aplicació de videotrucades. Així mateix, pots obrir l'aplicació de vídeo des dels detalls de conversa del teu Calendari.</value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Quan et trobis en l'aplicació de vídeo, podràs veure quan s'ha connectat teu company. Mentrestant, podràs enviar-li missatges pel vostre xat privat perquè el teu company sàpiga que li estàs esperant.</value>
@@ -536,8 +536,8 @@
     <value>Temes de la trobada: Durant les quedades veuràs la llista de temes de conversa proposats pels participants</value>
   </data>
   <data name="HelpHowToCall1" xml:space="preserve">
-    <value><![CDATA[Fer trucades de vídeo en Langademy és fàcil. Pots trucar a un usuari des d'on vegis el símbol <span0></span0> . Fent clic sobre ell apareixerà el menú de trucada per triar l'idioma de conversa i el tipus de trucada (<span1></span1> de banc de temps o <span3></span3> de wallet). En el cas de les trucades wallet veuràs la tarifa que et cobrarà per la trucada junt a l'idioma.
-]]></value>
+    <value>Fer trucades de vídeo en Langademy és fàcil. Pots trucar a un usuari des d'on vegis el símbol &lt;span0&gt;&lt;/span0&gt; . Fent clic sobre ell apareixerà el menú de trucada per triar l'idioma de conversa i el tipus de trucada (&lt;span1&gt;&lt;/span1&gt; de banc de temps o &lt;span3&gt;&lt;/span3&gt; de wallet). En el cas de les trucades wallet veuràs la tarifa que et cobrarà per la trucada junt a l'idioma.
+</value>
   </data>
   <data name="HelpHowToCall2" xml:space="preserve">
     <value>Tingues en compte que l'idioma que tries en cridar determina si estàs actuant com natiu o com a estudiant, i si la trucada es paga amb temps o amb crèdits. Per tant, el saldo del compte de Wallet o del Banc de temps s'actualitzarà en conseqüència, així que presta atenció quan facis una trucada.</value>
@@ -549,7 +549,7 @@
     <value>Trucar des del Panell de Control</value>
   </data>
   <data name="HelpHowToCall41" xml:space="preserve">
-    <value><![CDATA[Clica en la pestanya <span0></span0> del panell de Control per obrir el panell de trucada. Aquí pots triar qualsevol de les següents pestanyes de trucada:]]></value>
+    <value>Clica en la pestanya &lt;span0&gt;&lt;/span0&gt; del panell de Control per obrir el panell de trucada. Aquí pots triar qualsevol de les següents pestanyes de trucada:</value>
   </data>
   <data name="HelpHowToCall42" xml:space="preserve">
     <value>Contactes Online: Llista de contactes online actualment</value>
@@ -630,7 +630,7 @@
     <value>Introdueix el nombre de crèdits que vols comprar</value>
   </data>
   <data name="HelpPurchaseCredits3" xml:space="preserve">
-    <value><![CDATA[1 crèdit Langademy <span0>€</span0> = 1EURO€]]></value>
+    <value>1 crèdit Langademy &lt;span0&gt;€&lt;/span0&gt; = 1EURO€</value>
   </data>
   <data name="HelpPurchaseCredits4" xml:space="preserve">
     <value>Comprova la compra mínima de crèdits, que depèn del mètode de pagament que seleccions. Si la teva ubicació està disponible i la moneda local del teu país no és l'Euro, pots veure una conversió estimat a la teva moneda. Tingues en compte que aquesta conversió és només informativa, ja que la taxa de canvi final l'apliquen les entitats bancàries.</value>
@@ -663,12 +663,45 @@
     <value>El Banc de Temps és l'app on podràs fer el seguiment de les teves trucada de Banc del temps i podràs veure el teu saldo de temps.</value>
   </data>
   <data name="HelpTimeBankApp2" xml:space="preserve">
-    <value><![CDATA[Pots obrir el Banc de Temps fent clic al botó Apps <span0></span0> del Panell de Control i seleccionant el botó Banc de Temps <span1></span1>]]></value>
+    <value>Pots obrir el Banc de Temps fent clic al botó Apps &lt;span0&gt;&lt;/span0&gt; del Panell de Control i seleccionant el botó Banc de Temps &lt;span1&gt;&lt;/span1&gt;</value>
   </data>
   <data name="HelpTimeBankApp3" xml:space="preserve">
     <value>Cada trucada de banc de temps t'afegirà o restarà temps del teu saldo de temps d'acord a {0}</value>
   </data>
   <data name="HelpTimeBankAppTitle" xml:space="preserve">
     <value>Banc del Temps</value>
+  </data>
+  <data name="HelpHTGeoTitle" xml:space="preserve">
+    <value>Com establir permisos de geolocalització</value>
+  </data>
+  <data name="HelpHTBrowser" xml:space="preserve">
+    <value>Per millorar l'experiència d'usuari hauries d'estar fent servir Google Chrome o Mozilla Firefox</value>
+  </data>
+  <data name="HelpHTGeoChr2" xml:space="preserve">
+    <value>Troba la secció "Ubicació"</value>
+  </data>
+  <data name="HelpHTGeoChr3" xml:space="preserve">
+    <value>Escull permetre sempre</value>
+  </data>
+  <data name="HelpHTGeoChr4" xml:space="preserve">
+    <value>Tanca el panell d'opcions</value>
+  </data>
+  <data name="HelpHTGeoClickpadlock" xml:space="preserve">
+    <value>Fes click al cadenat a l'esquerra de la barra d'adreces</value>
+  </data>
+  <data name="HelpHTGeoFF2" xml:space="preserve">
+    <value>Troba l'avís de "Ubicació" indicant que el permís està denegat</value>
+  </data>
+  <data name="HelpHTGeoFF3" xml:space="preserve">
+    <value>Elimina clicant el botó amb la creu</value>
+  </data>
+  <data name="HelpHTGeoFF5" xml:space="preserve">
+    <value>El navegador mostra una finestra sol·licitant permís per compartir la teva ubicació amb Langademy</value>
+  </data>
+  <data name="HelpHTGeoFF6" xml:space="preserve">
+    <value>Marca l'opció "Recordar aquesta decisió" i fes clic al botó permetre accés</value>
+  </data>
+  <data name="HelpHTGeoRefresh" xml:space="preserve">
+    <value>Refresca la pàgina</value>
   </data>
 </root>

@@ -138,7 +138,7 @@
     <value>Entra amb el teu compte de Langademy</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value><![CDATA[Benvingut a <span0> Langademy </ span0>]]></value>
+    <value>Benvingut a &lt;span0&gt; Langademy &lt;/ span0&gt;</value>
   </data>
   <data name="Action" xml:space="preserve">
     <value>Iniciar sessió</value>

@@ -151,7 +151,7 @@
     <value>You do not have this language in your profile. Try calling with one of your languages!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[You can't make calls, your time balance has expired. <a href="{0}" class="applnk link" data-app="HoursBagApp"> Check your Time Bank</a> ]]></value>
+    <value>You can't make calls, your time balance has expired. &lt;a href="{0}" class="applnk link" data-app="HoursBagApp"&gt; Check your Time Bank&lt;/a&gt; </value>
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>You can't call {0}: you are not connected</value>
@@ -172,24 +172,24 @@
     <value>An error ocurred during the call</value>
   </data>
   <data name="MissedCall" xml:space="preserve">
-    <value><![CDATA[Missed call from <span class="text-bold">{0}</span>]]></value>
+    <value>Missed call from &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="UnansweredCall" xml:space="preserve">
-    <value><![CDATA[Call to <span class="text-bold">{0}</span>, no answer]]></value>
+    <value>Call to &lt;span class="text-bold"&gt;{0}&lt;/span&gt;, no answer</value>
   </data>
   <data name="BusyCall" xml:space="preserve">
-    <value><![CDATA[Call to <span class="text-bold">{0}</span>, busy]]></value>
+    <value>Call to &lt;span class="text-bold"&gt;{0}&lt;/span&gt;, busy</value>
   </data>
   <data name="CallEnd" xml:space="preserve">
     <value>Call ended, duration {0}</value>
   </data>
   <data name="CallStartReceived" xml:space="preserve">
-    <value><![CDATA[Call from <span class="text-bold">{0}</span>]]></value>
+    <value>Call from &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="CallStartSent" xml:space="preserve">
-    <value><![CDATA[Call to <span class="text-bold">{0}</span>]]></value>
+    <value>Call to &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="RejectCall" xml:space="preserve">
-    <value><![CDATA[Call from <span class="text-bold">{0}</span> declined]]></value>
+    <value>Call from &lt;span class="text-bold"&gt;{0}&lt;/span&gt; declined</value>
   </data>
 </root>

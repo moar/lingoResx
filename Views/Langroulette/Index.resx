@@ -143,7 +143,7 @@
     <value>Hide users that do not match your filter</value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[You need to complete your location info in your profile before getting into a room</br><a class="applnk link" href="{0}" data-app="ProfileApp">Go to my profile</a>]]></value>
+    <value>You need to complete your location info in your profile before getting into a room&lt;/br&gt;&lt;a class="applnk link" href="{0}" data-app="ProfileApp"&gt;Go to my profile&lt;/a&gt;</value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Levels</value>
@@ -173,7 +173,7 @@
     <value>Filter</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[There aren't any connected users right now. Visit the <a href="{0}" target="_blank" class="link">meetup board</a> to check if someone will be meeting with you soon!]]></value>
+    <value>There aren't any connected users right now. Visit the &lt;a href="{0}" target="_blank" class="link"&gt;meetup board&lt;/a&gt; to check if someone will be meeting with you soon!</value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Write here</value>

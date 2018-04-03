@@ -162,6 +162,12 @@
   <data name="PublicMeetupAlert" xml:space="preserve">
     <value>Preavviso: Oggi hai un appuntamento</value>
   </data>
+  <data name="TeacherRequestAccepted" xml:space="preserve">
+    <value>Sei stato accettato come insegnante</value>
+  </data>
+  <data name="TeacherRequestDenied" xml:space="preserve">
+    <value>Non sei stato accettato come insegnante</value>
+  </data>
   <data name="VisitReminder" xml:space="preserve">
     <value>Ci manchi!</value>
   </data>

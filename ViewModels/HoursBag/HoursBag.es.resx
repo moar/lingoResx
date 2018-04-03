@@ -199,7 +199,7 @@
     <value>Me gusta Langademy</value>
   </data>
   <data name="Joined" xml:space="preserve">
-    <value><![CDATA[<a class="link" href="/users/{0}">{1}</a> se ha unido a Langademy]]></value>
+    <value>&lt;a class="link" href="/users/{0}"&gt;{1}&lt;/a&gt; se ha unido a Langademy</value>
   </data>
   <data name="MonthlyCharge" xml:space="preserve">
     <value>Recarga mensual</value>

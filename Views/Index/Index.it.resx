@@ -258,4 +258,43 @@
   <data name="IndWhatIsExchange" xml:space="preserve">
     <value>Cos'è uno scambio linguistico?</value>
   </data>
+  <data name="LandRelatedArticles" xml:space="preserve">
+    <value>Articoli correlati</value>
+  </data>
+  <data name="LandFootAboutText" xml:space="preserve">
+    <value>Se avete qualche suggerimento per aiutarci a migliorare Langademy, vi preghiamo di contattarci!</value>
+  </data>
+  <data name="LandFootAboutUs" xml:space="preserve">
+    <value>Su di noi</value>
+  </data>
+  <data name="LandFootConnect" xml:space="preserve">
+    <value>Collegati con noi</value>
+  </data>
+  <data name="LandTabExchanges" xml:space="preserve">
+    <value>Scambi</value>
+  </data>
+  <data name="LandHome" xml:space="preserve">
+    <value>Accedi</value>
+  </data>
+  <data name="LandTabLearn" xml:space="preserve">
+    <value>Imparare</value>
+  </data>
+  <data name="LandTabPartners" xml:space="preserve">
+    <value>Partners</value>
+  </data>
+  <data name="LandTabTeachers" xml:space="preserve">
+    <value>Insegnanti</value>
+  </data>
+  <data name="LandTabArticles" xml:space="preserve">
+    <value>Articoli</value>
+  </data>
+  <data name="LandPartnersTitle" xml:space="preserve">
+    <value>Trova un partner di conversazione madrelingua</value>
+  </data>
+  <data name="LandPartnersWantConver" xml:space="preserve">
+    <value>Voglio avere una conversazione in</value>
+  </data>
+  <data name="IndContact" xml:space="preserve">
+    <value>Contatto</value>
+  </data>
 </root>

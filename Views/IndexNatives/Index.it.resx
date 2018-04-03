@@ -155,6 +155,6 @@
     <value>Fissa un prezzo alle tue conversazione</value>
   </data>
   <data name="INTitleText" xml:space="preserve">
-    <value><![CDATA[Se ti piace parlare con gente nuova e aiutare alle altre persone a essere fluente nella tua lingua madre, questa è la tua occasione per <strong> guadagnare soldi extra da casa </ strong>]]></value>
+    <value>Se ti piace parlare con gente nuova e aiutare alle altre persone a essere fluente nella tua lingua madre, questa è la tua occasione per &lt;strong&gt; guadagnare soldi extra da casa &lt;/ strong&gt;</value>
   </data>
 </root>

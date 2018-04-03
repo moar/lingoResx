@@ -151,7 +151,7 @@
     <value>No tienes este idioma en tu perfil. ¡Elige uno de tus idiomas para llamar!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[No puedes hacer llamadas, no tienes saldo en tu cuenta. <a href="{0}" class="applnk link" data-app="HoursBagApp"> Ir al Banco de Tiempo </a>]]></value>
+    <value>No puedes hacer llamadas, no tienes saldo en tu cuenta. &lt;a href="{0}" class="applnk link" data-app="HoursBagApp"&gt; Ir al Banco de Tiempo &lt;/a&gt;</value>
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>No puedes llamar a {0}: no estáis conectados</value>
@@ -172,24 +172,24 @@
     <value>Ocurrió un error durante la llamada</value>
   </data>
   <data name="MissedCall" xml:space="preserve">
-    <value><![CDATA[Llamada perdida de <span class="text-bold">{0}</span>]]></value>
+    <value>Llamada perdida de &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="UnansweredCall" xml:space="preserve">
-    <value><![CDATA[La llamada a <span class="text-bold">{0}</span> no ha sido respondida]]></value>
+    <value>La llamada a &lt;span class="text-bold"&gt;{0}&lt;/span&gt; no ha sido respondida</value>
   </data>
   <data name="BusyCall" xml:space="preserve">
-    <value><![CDATA[Llamada a <span class="text-bold">{0}</span>, ocupado]]></value>
+    <value>Llamada a &lt;span class="text-bold"&gt;{0}&lt;/span&gt;, ocupado</value>
   </data>
   <data name="CallEnd" xml:space="preserve">
     <value>Llamada finalizada, duración: {0}</value>
   </data>
   <data name="CallStartReceived" xml:space="preserve">
-    <value><![CDATA[Llamada de <span class="text-bold">{0}</span>]]></value>
+    <value>Llamada de &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="CallStartSent" xml:space="preserve">
-    <value><![CDATA[Llamada a <span class="text-bold">{0}</span>]]></value>
+    <value>Llamada a &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="RejectCall" xml:space="preserve">
-    <value><![CDATA[Has rechazado la llamada de <span class="text-bold">{0}</span>]]></value>
+    <value>Has rechazado la llamada de &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
 </root>

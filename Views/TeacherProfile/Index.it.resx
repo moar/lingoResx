@@ -120,4 +120,85 @@
   <data name="AboutMeEmpty" xml:space="preserve">
     <value>Presentati, mostra la tua esperienza come insegnante e i tuoi metodi di insegnamento</value>
   </data>
+  <data name="AboutMeMaxLength" xml:space="preserve">
+    <value>La descrizione deve essere inferiore a {1} caratteri</value>
+  </data>
+  <data name="AddEducation" xml:space="preserve">
+    <value>Aggiungi la tua formazione</value>
+  </data>
+  <data name="AddPosition" xml:space="preserve">
+    <value>Aggiungi la tua posizione</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Azienda</value>
+  </data>
+  <data name="Degree" xml:space="preserve">
+    <value>Laurea</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Descrizione</value>
+  </data>
+  <data name="DescriptionMaxLength" xml:space="preserve">
+    <value>La descrizione deve essere inferiore a {1} caratteri</value>
+  </data>
+  <data name="EditPosition" xml:space="preserve">
+    <value>Aggiungi il tuo lavoro</value>
+  </data>
+  <data name="EducationEmptyTextEdit" xml:space="preserve">
+    <value>Aggiungi dettagli sulla tua educazione che potrebbero essere di interesse per i tuoi potenziali studenti. Titoli, corsi, certificazioni, ecc.</value>
+  </data>
+  <data name="EducationTitle" xml:space="preserve">
+    <value>Educazione</value>
+  </data>
+  <data name="ErrorRemoveEducation" xml:space="preserve">
+    <value>Errore quando si elimina la registrazione  educazione</value>
+  </data>
+  <data name="ErrorRemoveExperience" xml:space="preserve">
+    <value>Errore durante l' eliminazione del registro di esperienze</value>
+  </data>
+  <data name="ExperienceEmptyTextEdit" xml:space="preserve">
+    <value>Aggiungi dettagli sulla tua esperienza professionale</value>
+  </data>
+  <data name="ExperienceTitle" xml:space="preserve">
+    <value>Esperienza</value>
+  </data>
+  <data name="FromDate" xml:space="preserve">
+    <value>Da</value>
+  </data>
+  <data name="FromGreaterThanNow" xml:space="preserve">
+    <value>Il campo Da non può contenere una data futura</value>
+  </data>
+  <data name="FromGreaterThanTo" xml:space="preserve">
+    <value>Il campo Da non può essere maggiore del campo Fino</value>
+  </data>
+  <data name="NoRatingsEditor" xml:space="preserve">
+    <value>Non hai ancora ricevuto nessuna valutazione.</value>
+  </data>
+  <data name="Position" xml:space="preserve">
+    <value>Posizione </value>
+  </data>
+  <data name="School" xml:space="preserve">
+    <value>Luogo di formazione</value>
+  </data>
+  <data name="ToDate" xml:space="preserve">
+    <value>Fine</value>
+  </data>
+  <data name="ToOrExpected" xml:space="preserve">
+    <value>Fino a (o previsto)</value>
+  </data>
+  <data name="VideoUrlMatchError" xml:space="preserve">
+    <value>È possibile incorporare solo video  Youtube o Vimeo (ad es. https://youtu.be/..., https://vimeo.com/0000000000)</value>
+  </data>
+  <data name="VideoUrlRequired" xml:space="preserve">
+    <value>È necessario inserire un url Youtube o Vimeo valido</value>
+  </data>
+  <data name="VimeoDomainTip" xml:space="preserve">
+    <value>Se hai incorporato un video Vimeo e non hai definito la privacy a livello di dominio nel tuo account Vimeo, assicurati di aggiungere "langademy. com" all' elenco dei domini autorizzati.</value>
+  </data>
+  <data name="VimeoInvalidUrl" xml:space="preserve">
+    <value>Questo non è un url Vimeo valido.</value>
+  </data>
+  <data name="YoutubeInvalidUrl" xml:space="preserve">
+    <value>Questo non è un url Youtube valido.</value>
+  </data>
 </root>

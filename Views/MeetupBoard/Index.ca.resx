@@ -121,7 +121,7 @@
     <value>Totes les quedades </value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value><![CDATA[La quedada no ha començat encara, però pots accedir a la sala  y <b>practicar {0}</b> quan vulguis]]></value>
+    <value>La quedada no ha començat encara, però pots accedir a la sala  y &lt;b&gt;practicar {0}&lt;/b&gt; quan vulguis</value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Assistir</value>
@@ -425,5 +425,8 @@
   </data>
   <data name="FilterLanguages" xml:space="preserve">
     <value>Filtrar idioma</value>
+  </data>
+  <data name="SignMyMeetups" xml:space="preserve">
+    <value>Has d'iniciar sessió si vols veure les teves meetups</value>
   </data>
 </root>

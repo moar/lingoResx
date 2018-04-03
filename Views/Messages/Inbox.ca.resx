@@ -124,7 +124,7 @@
     <value>Conversacions </value>
   </data>
   <data name="FBMessage" xml:space="preserve">
-    <value>Benvingut a Langademy! Si tens alguna suggerència, pots respondre a aquesta conversa. Et donarem una resposta el més aviat possible.</value>
+    <value>Benvingut a Langademy! Si tens alguna suggerència, pots respondre a aquesta conversa. Et donarem una resposta el més aviat possible. Fes una ullada a &lt;a0&gt; aquest link i 'comença! &lt;/a0&gt;</value>
   </data>
   <data name="InboxMes" xml:space="preserve">
     <value>Safata d'entrada</value>

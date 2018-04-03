@@ -152,7 +152,7 @@
     <value>Non disponi di questa lingua nel tuo profili. Sceglie una delle tue lingue per chiamare!</value>
   </data>
   <data name="NoOwnChatHours" xml:space="preserve">
-    <value><![CDATA[Non è possibile effettuare chiamate, non disponi di più saldo nel tuo account. <a href="{0}" class="applnk" data-app="HoursBagApp"> Andare nella Banca del Tempo</a>]]></value>
+    <value>Non è possibile effettuare chiamate, non disponi di più saldo nel tuo account. &lt;a href="{0}" class="applnk" data-app="HoursBagApp"&gt; Andare nella Banca del Tempo&lt;/a&gt;</value>
   </data>
   <data name="NotFriends" xml:space="preserve">
     <value>Non è possibile chiamare a {0}: non siete collegati</value>
@@ -173,24 +173,24 @@
     <value>Si è verificato un errore durante la chiamata</value>
   </data>
   <data name="MissedCall" xml:space="preserve">
-    <value><![CDATA[Chiamata persa da <span class="text-bold">{0}</span>]]></value>
+    <value>Chiamata persa da &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="UnansweredCall" xml:space="preserve">
-    <value><![CDATA[La chiamata a <span class="text-bold">{0}</span>, non ha ricevuto risposta]]></value>
+    <value>La chiamata a &lt;span class="text-bold"&gt;{0}&lt;/span&gt;, non ha ricevuto risposta</value>
   </data>
   <data name="BusyCall" xml:space="preserve">
-    <value><![CDATA[Chiamata a <span class="text-bold">{0}</span>, occupato]]></value>
+    <value>Chiamata a &lt;span class="text-bold"&gt;{0}&lt;/span&gt;, occupato</value>
   </data>
   <data name="CallEnd" xml:space="preserve">
     <value>Chiamata terminata, durata {0}</value>
   </data>
   <data name="CallStartReceived" xml:space="preserve">
-    <value><![CDATA[Chiamata da <span class="text-bold">{0}</span>]]></value>
+    <value>Chiamata da &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="CallStartSent" xml:space="preserve">
-    <value><![CDATA[Stai chiamando <span class="text-bold">{0}</span>]]></value>
+    <value>Stai chiamando &lt;span class="text-bold"&gt;{0}&lt;/span&gt;</value>
   </data>
   <data name="RejectCall" xml:space="preserve">
-    <value><![CDATA[La chiamata da<span class="text-bold">{0}</span> è stata rifiutata]]></value>
+    <value>La chiamata da&lt;span class="text-bold"&gt;{0}&lt;/span&gt; è stata rifiutata</value>
   </data>
 </root>

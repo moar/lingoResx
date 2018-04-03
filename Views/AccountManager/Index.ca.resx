@@ -208,4 +208,7 @@
   <data name="ManageAccount" xml:space="preserve">
     <value>Administrar el teu compte de LangaAdministrar el teu compte de Langacademydemy</value>
   </data>
+  <data name="LeaveFb" xml:space="preserve">
+    <value>Ens vas a deixar? Si és així digues per què i així podrem seguir millorant Langademy</value>
+  </data>
 </root>

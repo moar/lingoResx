@@ -143,7 +143,7 @@
     <value>Ezkutatu zure iragazkiko baldintzak betetzen ez dituztenak</value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[Zure kokapena sartu behar duzu profilean gela batean sartu aurretik </br><a class="applnk link" href="{0}" data-app="ProfileApp">Nire profilera joan</a>]]></value>
+    <value>Zure kokapena sartu behar duzu profilean gela batean sartu aurretik &lt;/br&gt;&lt;a class="applnk link" href="{0}" data-app="ProfileApp"&gt;Nire profilera joan&lt;/a&gt;</value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Mailak</value>
@@ -173,7 +173,7 @@
     <value>Iragazkia</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[Ez dago inor konektaturik momentu honetan. Bisita ezazu <a href="{0}" target="_blank" class="link">bilera taula</a> norbait laister sartuko den ikusteko!]]></value>
+    <value>Ez dago inor konektaturik momentu honetan. Bisita ezazu &lt;a href="{0}" target="_blank" class="link"&gt;bilera taula&lt;/a&gt; norbait laister sartuko den ikusteko!</value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Idatzi hemen</value>

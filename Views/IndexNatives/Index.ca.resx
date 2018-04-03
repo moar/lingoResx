@@ -155,6 +155,6 @@
     <value>Posa preu a les teves converses</value>
   </data>
   <data name="INTitleText" xml:space="preserve">
-    <value><![CDATA[Si t'agrada conversar amb gent nova i ajudar a que aconsegueixin fluïdesa en el teu idioma natiu, aquesta és la teva ocasió per <strong> guanyar uns diners extres des de casa </strong>  ]]></value>
+    <value>Si t'agrada conversar amb gent nova i ajudar a que aconsegueixin fluïdesa en el teu idioma natiu, aquesta és la teva ocasió per &lt;strong&gt; guanyar uns diners extres des de casa &lt;/strong&gt;  </value>
   </data>
 </root>

@@ -393,4 +393,7 @@
   <data name="FollowUs" xml:space="preserve">
     <value>Segueix-nos</value>
   </data>
+  <data name="NoEventsScheduled" xml:space="preserve">
+    <value>No tens esdeveniments planificats</value>
+  </data>
 </root>

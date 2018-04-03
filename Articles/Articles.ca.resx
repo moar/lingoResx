@@ -117,8 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
+  <data name="BestYoutubeChannels" xml:space="preserve">
+    <value>Els 7 millors canals de Youtube per aprendre anglès</value>
+  </data>
+  <data name="EnglishAlphabetTitle" xml:space="preserve">
+    <value>Abecedari en anglès amb pronunciació</value>
+  </data>
   <data name="EnglishConversationsTitle" xml:space="preserve">
     <value>Converses en anglès</value>
+  </data>
+  <data name="EnglishWordsTitle" xml:space="preserve">
+    <value>Les paraules en anglès amb les que podràs comunicar-te sense problemes</value>
+  </data>
+  <data name="ExchangeTopics" xml:space="preserve">
+    <value>10 idees per a un intercanvi lingüístic</value>
+  </data>
+  <data name="HowToHaveExchangesTitle" xml:space="preserve">
+    <value>Com mantenir un intercanvi d'idiomes</value>
+  </data>
+  <data name="ImproveEngPronunTitle" xml:space="preserve">
+    <value>Com millorar la pronunciació en anglès</value>
+  </data>
+  <data name="LearnEnglish" xml:space="preserve">
+    <value>Aprendre Anglès</value>
+  </data>
+  <data name="LearnEnglishQuicklyTitle" xml:space="preserve">
+    <value>Maneres d'aprendre anglès ràpidament</value>
+  </data>
+  <data name="LearnEnglishTips" xml:space="preserve">
+    <value>Com aprendre anglès en 3 senzills passos</value>
+  </data>
+  <data name="SpanishTongueTwistersTitle" xml:space="preserve">
+    <value>Embarbussaments en espanyol</value>
+  </data>
+  <data name="StudySpanish" xml:space="preserve">
+    <value>Estudia Espanyol</value>
+  </data>
+  <data name="VegetablesTitle" xml:space="preserve">
+    <value>Verdures en espanyol: diferències i similituds amb l'anglès</value>
   </data>
 </root>

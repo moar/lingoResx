@@ -258,4 +258,10 @@
   <data name="WalletRate" xml:space="preserve">
     <value>Tassa conversazione Wallet</value>
   </data>
+  <data name="CannotDeleteLangTeacherRate" xml:space="preserve">
+    <value>Non è possibile rimuovere questa lingua perché hai definito le tasse per insegnare questa lingua nel tuo profilo insegnante</value>
+  </data>
+  <data name="CannotModifyLangTeacherRate" xml:space="preserve">
+    <value>Non puoi modificare il tuo livello perché hai definito le tasse per insegnare questa lingua nel tuo profilo insegnante.</value>
+  </data>
 </root>

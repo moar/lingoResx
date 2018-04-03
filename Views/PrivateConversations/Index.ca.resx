@@ -214,7 +214,7 @@
     <value>Sol·licitud per a</value>
   </data>
   <data name="StudentReqTBConv" xml:space="preserve">
-    <value>Converda de Banc de Temps</value>
+    <value>Conversa de Banc de Temps</value>
   </data>
   <data name="StudentReqWalletConv" xml:space="preserve">
     <value>Conversa Wallet</value>
@@ -233,5 +233,8 @@
   </data>
   <data name="YouConversationRejected" xml:space="preserve">
     <value>Refusar la conversa amb {0}</value>
+  </data>
+  <data name="NoConversations" xml:space="preserve">
+    <value>No has programat cap conversa</value>
   </data>
 </root>

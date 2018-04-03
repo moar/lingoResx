@@ -143,7 +143,7 @@
     <value>Amagar usuaris que no compleixen amb el filtre </value>
   </data>
   <data name="IncompleteProfile" xml:space="preserve">
-    <value><![CDATA[Necessites completar la ubicació al teu perfil abans de poder entrar a una sala. </br><a class="applnk link" href="{0}" data-app="ProfileApp">El meu perfil</a>]]></value>
+    <value>Necessites completar la ubicació al teu perfil abans de poder entrar a una sala. &lt;/br&gt;&lt;a class="applnk link" href="{0}" data-app="ProfileApp"&gt;El meu perfil&lt;/a&gt;</value>
   </data>
   <data name="Levels" xml:space="preserve">
     <value>Nivells</value>
@@ -173,7 +173,7 @@
     <value>Filtre</value>
   </data>
   <data name="LRNoUsers" xml:space="preserve">
-    <value><![CDATA[No hi ha cap usuari connecta't en aquest moment. Visita el <a href="{0}" target="_blank" class="link">tauler de quedades</a>per veure si algú vol a unir-se!]]></value>
+    <value>No hi ha cap usuari connecta't en aquest moment. Visita el &lt;a href="{0}" target="_blank" class="link"&gt;tauler de quedades&lt;/a&gt;per veure si algú vol a unir-se!</value>
   </data>
   <data name="LRWriteHere" xml:space="preserve">
     <value>Escriu aquí</value>

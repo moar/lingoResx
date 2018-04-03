@@ -142,7 +142,7 @@
     <value>{0} vuole praticare {1} con te</value>
   </data>
   <data name="PracticeRequested" xml:space="preserve">
-    <value>{0} ha voluto praticare {1} con te</value>
+    <value>{0} voleva praticare {1} con te</value>
   </data>
   <data name="ReceivedRequests" xml:space="preserve">
     <value>Richieste ricevute</value>
@@ -160,7 +160,7 @@
     <value>Richieste inviate</value>
   </data>
   <data name="StudentReqAccepted" xml:space="preserve">
-    <value>Accettato</value>
+    <value>Accettato </value>
   </data>
   <data name="StudentReqAcceptMeetup" xml:space="preserve">
     <value>Accetta conversazione</value>
@@ -233,5 +233,8 @@
   </data>
   <data name="YouConversationRejected" xml:space="preserve">
     <value>Hai disattivato la conversazione con {0}</value>
+  </data>
+  <data name="NoConversations" xml:space="preserve">
+    <value>Non hai programmato nessuna conversazione</value>
   </data>
 </root>

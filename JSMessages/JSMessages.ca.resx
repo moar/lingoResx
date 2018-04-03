@@ -154,7 +154,7 @@
     <value> Estàs segur de voler abandonar la quedada?</value>
   </data>
   <data name="confDeactivateAcc" xml:space="preserve">
-    <value> Estàs segur de desactivar el teu compte?</value>
+    <value>Estàs segur que vols donar de baixa el teu compte?</value>
   </data>
   <data name="confDelLang" xml:space="preserve">
     <value> Estàs segur de voler esborrar {0} dels teus idiomes?</value>
@@ -172,7 +172,7 @@
     <value> Confirmar</value>
   </data>
   <data name="confirmSave" xml:space="preserve">
-    <value> Do you want to save your changes before closing?</value>
+    <value> Vols guardar els canvis abans de sortir?</value>
   </data>
   <data name="ConfirnGetLocation" xml:space="preserve">
     <value> D'acord a les lleis del teu país, necessitem la teva localització real abans de poder guardar la teva adreça de facturació. Si prems OK el navegador tornarà a demanar-te permís per obtenir la teva localització.</value>
@@ -272,6 +272,9 @@
   </data>
   <data name="Month" xml:space="preserve">
     <value> Mes</value>
+  </data>
+  <data name="NetworkError" xml:space="preserve">
+    <value>Error de connexió de xarxa</value>
   </data>
   <data name="NetworkErrorInVideo" xml:space="preserve">
     <value> S'ha perdut la connexió amb els servidors de Langademy. Intenta fer la trucada quan s'hagi restablert la connexió.</value>
@@ -435,6 +438,12 @@
   <data name="Yes" xml:space="preserve">
     <value> Si</value>
   </data>
+  <data name="GeoNoAvailable" xml:space="preserve">
+    <value>Ho sentim molt però el teu navegador no pot compartir la teva ubicació amb Langademy, així que no tens permès actualitzar les dades de facturació. Et recomanem que utilitzis Google Chrome per obtenir la millor experiència en Langademy</value>
+  </data>
+  <data name="GeoNoPermission" xml:space="preserve">
+    <value>Hem detectat que has denegat el permís per compartir la teva ubicació amb Langademy. Abans d'actualitzar les dades de facturació has de permetre compartir (La vostra ubicació romandrà privada i no es compartirà enlloc)</value>
+  </data>
   <data name="bymonthday" xml:space="preserve">
     <value>El dia {0} de cada mes</value>
   </data>
@@ -442,7 +451,7 @@
     <value>El dia {0} cada {1} mesos</value>
   </data>
   <data name="bymonthsetpos" xml:space="preserve">
-    <value>{0} {1} de cada mes</value>
+    <value>El {0} {1} de cada mes</value>
   </data>
   <data name="bymonthsetposinterv" xml:space="preserve">
     <value>{0} {1} de cada {2} mesos</value>

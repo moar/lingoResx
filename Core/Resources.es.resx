@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccountDeactivated" xml:space="preserve">
-    <value>Tu cuenta ha sido desactivada. ¿Quieres volver a activarla? Logueate otra vez</value>
+    <value>Tu cuenta ha sido desactivada. ¿Quieres volver a activarla? Vuelve a iniciar la sesión </value>
   </data>
   <data name="AccountLockedOut" xml:space="preserve">
     <value>Has introducido la contraseña  incorrecta demasiadas veces. Inténtalo de nuevo después de unos minutos.</value>

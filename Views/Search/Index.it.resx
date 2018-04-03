@@ -153,4 +153,22 @@
   <data name="SearchCustomUserSubtitle" xml:space="preserve">
     <value>Cerca compagni di conversazione e filtrarli usando il filtro del pannello di controllo</value>
   </data>
+  <data name="SearchIncludeAllLangs" xml:space="preserve">
+    <value>Includi tutte le lingue</value>
+  </data>
+  <data name="Searchheader" xml:space="preserve">
+    <value>Cerca partner per lo scambio linguistico</value>
+  </data>
+  <data name="SLearn" xml:space="preserve">
+    <value>Imparando</value>
+  </data>
+  <data name="SSearch" xml:space="preserve">
+    <value>Cercare</value>
+  </data>
+  <data name="SSpeak" xml:space="preserve">
+    <value>Parlo</value>
+  </data>
+  <data name="SearchMaxRate" xml:space="preserve">
+    <value>Tasso massimo</value>
+  </data>
 </root>

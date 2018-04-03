@@ -264,4 +264,7 @@
   <data name="CannotModifyLangTeacherRate" xml:space="preserve">
     <value>You cannot modify your level beacuse you have defined rates for teaching this language in your teacher profile</value>
   </data>
+  <data name="NoRate" xml:space="preserve">
+    <value>A rate has not been defined yet</value>
+  </data>
 </root>
