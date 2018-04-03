@@ -61,6 +61,42 @@ namespace Resources.Views.DesktopTeachers {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Agenda.
+        /// </summary>
+        public static string Agenda {
+            get {
+                return ResourceManager.GetString("Agenda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Balance.
+        /// </summary>
+        public static string Balance {
+            get {
+                return ResourceManager.GetString("Balance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Expenses.
+        /// </summary>
+        public static string Expenses {
+            get {
+                return ResourceManager.GetString("Expenses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Finances.
+        /// </summary>
+        public static string Finances {
+            get {
+                return ResourceManager.GetString("Finances", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to for language teachers.
         /// </summary>
         public static string ForLangTeachers {
@@ -70,11 +106,47 @@ namespace Resources.Views.DesktopTeachers {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Incomes.
+        /// </summary>
+        public static string Incomes {
+            get {
+                return ResourceManager.GetString("Incomes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Langademy for Students.
         /// </summary>
         public static string LangForStudents {
             get {
                 return ResourceManager.GetString("LangForStudents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to lessons.
+        /// </summary>
+        public static string Lessons {
+            get {
+                return ResourceManager.GetString("Lessons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lesson sales.
+        /// </summary>
+        public static string LessonSales {
+            get {
+                return ResourceManager.GetString("LessonSales", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to new.
+        /// </summary>
+        public static string NewSales {
+            get {
+                return ResourceManager.GetString("NewSales", resourceCulture);
             }
         }
         
@@ -93,6 +165,33 @@ namespace Resources.Views.DesktopTeachers {
         public static string QuickStart {
             get {
                 return ResourceManager.GetString("QuickStart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Students.
+        /// </summary>
+        public static string Students {
+            get {
+                return ResourceManager.GetString("Students", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total sales.
+        /// </summary>
+        public static string TotalSales {
+            get {
+                return ResourceManager.GetString("TotalSales", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total students.
+        /// </summary>
+        public static string TotalStudents {
+            get {
+                return ResourceManager.GetString("TotalStudents", resourceCulture);
             }
         }
         

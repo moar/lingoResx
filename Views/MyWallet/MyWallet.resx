@@ -617,6 +617,6 @@
     <value>Your VAT Id could not be validated with the {0}. Therefore Langademy will apply VAT  in our invoices</value>
   </data>
   <data name="OrCompanyName" xml:space="preserve">
-    <value>or company name</value>
+    <value>or company</value>
   </data>
 </root>

@@ -129,6 +129,9 @@
   <data name="LessonSalesTitle" xml:space="preserve">
     <value>Ventas de clases</value>
   </data>
+  <data name="NoSales" xml:space="preserve">
+    <value>No tienes ventas de clases</value>
+  </data>
   <data name="PastLessonsConfirmError" xml:space="preserve">
     <value>No puede confirmar la venta porque hay clases programadas en el pasado. La primera clase debe comenzar con un margen de al menos 15 minutos desde ahora. Por favor, solicítale al estudiante reprogramar las clases</value>
   </data>

@@ -1114,7 +1114,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to or company name.
+        ///   Looks up a localized string similar to or company.
         /// </summary>
         public static string OrCompanyName {
             get {

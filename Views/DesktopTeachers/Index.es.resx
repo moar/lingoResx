@@ -117,17 +117,50 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Agenda" xml:space="preserve">
+    <value>Agenda</value>
+  </data>
+  <data name="Balance" xml:space="preserve">
+    <value>Saldo</value>
+  </data>
+  <data name="Expenses" xml:space="preserve">
+    <value>Gastos</value>
+  </data>
+  <data name="Finances" xml:space="preserve">
+    <value>Finanzas</value>
+  </data>
   <data name="ForLangTeachers" xml:space="preserve">
     <value>para profesores de idiomas</value>
   </data>
+  <data name="Incomes" xml:space="preserve">
+    <value>Ingresos</value>
+  </data>
   <data name="LangForStudents" xml:space="preserve">
     <value>Langademy para Estudiantes</value>
+  </data>
+  <data name="Lessons" xml:space="preserve">
+    <value>clases</value>
+  </data>
+  <data name="LessonSales" xml:space="preserve">
+    <value>Ventas de clases</value>
+  </data>
+  <data name="NewSales" xml:space="preserve">
+    <value>nuevas</value>
   </data>
   <data name="OrGoTo" xml:space="preserve">
     <value>o ir a</value>
   </data>
   <data name="QuickStart" xml:space="preserve">
     <value>Guía rápida</value>
+  </data>
+  <data name="Students" xml:space="preserve">
+    <value>Estudiantes</value>
+  </data>
+  <data name="TotalSales" xml:space="preserve">
+    <value>Total ventas</value>
+  </data>
+  <data name="TotalStudents" xml:space="preserve">
+    <value>Total estudiantes</value>
   </data>
   <data name="WantToLearnTeachers" xml:space="preserve">
     <value>¿Quieres aprender sobre Langademy para profesores de idiomas?</value>
