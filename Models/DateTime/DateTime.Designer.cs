@@ -19,7 +19,7 @@ namespace Resources.Models.DateTime {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class DateTime {
@@ -156,6 +156,42 @@ namespace Resources.Models.DateTime {
         public static string OneLetterSecond {
             get {
                 return ResourceManager.GetString("OneLetterSecond", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1st quarter.
+        /// </summary>
+        public static string Quarter1 {
+            get {
+                return ResourceManager.GetString("Quarter1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 2nd quarter.
+        /// </summary>
+        public static string Quarter2 {
+            get {
+                return ResourceManager.GetString("Quarter2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 3rd quarter.
+        /// </summary>
+        public static string Quarter3 {
+            get {
+                return ResourceManager.GetString("Quarter3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 4th quarter.
+        /// </summary>
+        public static string Quarter4 {
+            get {
+                return ResourceManager.GetString("Quarter4", resourceCulture);
             }
         }
         

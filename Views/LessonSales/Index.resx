@@ -129,6 +129,9 @@
   <data name="LessonSalesTitle" xml:space="preserve">
     <value>Lesson sales</value>
   </data>
+  <data name="NoSales" xml:space="preserve">
+    <value>You don't have lesson sales</value>
+  </data>
   <data name="PastLessonsConfirmError" xml:space="preserve">
     <value>You cannot confirm the sale because there are lessons scheduled in the past. The first lesson must start at least 15 minutes from now. Please request the student to reschedule the lesson</value>
   </data>
