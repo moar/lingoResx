@@ -19,7 +19,7 @@ namespace Resources.Views.Index {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Index {
@@ -593,11 +593,29 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sign in as teacher.
+        /// </summary>
+        public static string LandTeacherSignIn {
+            get {
+                return ResourceManager.GetString("LandTeacherSignIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Become an &lt;strong&gt;online language teacher&lt;/strong&gt;.
         /// </summary>
         public static string LandTeacherTitle {
             get {
                 return ResourceManager.GetString("LandTeacherTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Teaching articles.
+        /// </summary>
+        public static string LandTeachingArticles {
+            get {
+                return ResourceManager.GetString("LandTeachingArticles", resourceCulture);
             }
         }
         
