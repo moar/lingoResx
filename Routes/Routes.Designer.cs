@@ -19,7 +19,7 @@ namespace Resources.Routes {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Routes {
@@ -592,15 +592,6 @@ namespace Resources.Routes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to teach-languages-online.
-        /// </summary>
-        public static string teachonline {
-            get {
-                return ResourceManager.GetString("teachonline", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to teachers/{username}/.
         /// </summary>
         public static string teacherprofile {
@@ -619,6 +610,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to teach-languages-online.
+        /// </summary>
+        public static string teachonline {
+            get {
+                return ResourceManager.GetString("teachonline", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to help/time-banking-indroduction.
         /// </summary>
         public static string time_banking_indroduction {
@@ -633,6 +633,15 @@ namespace Resources.Routes {
         public static string time_banking_rules {
             get {
                 return ResourceManager.GetString("time-banking-rules", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to tutors/.
+        /// </summary>
+        public static string tutors {
+            get {
+                return ResourceManager.GetString("tutors", resourceCulture);
             }
         }
         

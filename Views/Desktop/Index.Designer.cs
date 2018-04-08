@@ -19,7 +19,7 @@ namespace Resources.Views.Desktop {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Index {
@@ -430,7 +430,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time banking.
+        ///   Looks up a localized string similar to Language Exchanges.
         /// </summary>
         public static string DesktStateTimeBanking {
             get {
@@ -795,6 +795,15 @@ namespace Resources.Views.Desktop {
         public static string TodayLangs {
             get {
                 return ResourceManager.GetString("TodayLangs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tutoring sessions.
+        /// </summary>
+        public static string Tutoring {
+            get {
+                return ResourceManager.GetString("Tutoring", resourceCulture);
             }
         }
         
