@@ -160,7 +160,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Charge students.
+        ///   Looks up a localized string similar to Tutor.
         /// </summary>
         public static string ChargeStudents {
             get {
