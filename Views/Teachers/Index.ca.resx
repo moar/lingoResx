@@ -117,4 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="FindTeacherTitle" xml:space="preserve">
+    <value>Troba un professor</value>
+  </data>
+  <data name="LivingIn" xml:space="preserve">
+    <value>viu en {0}</value>
+  </data>
+  <data name="TeachersTip1" xml:space="preserve">
+    <value>Tria en el filtre les opcions que més s'ajusten a les teves necessitats i visita els perfils dels professors</value>
+  </data>
+  <data name="TeachersTip2" xml:space="preserve">
+    <value>Tria un professor segons la seva experiència, el seu currículum, la seva tarifa i les valoracions d'altres alumnes</value>
+  </data>
+  <data name="TeachersTip3" xml:space="preserve">
+    <value>Fes una reserva en el seu perfil per donar una classe. Per donar una classe de prova el millor és que escullis la tarifa "Classe de 30 minuts"</value>
+  </data>
+</root>

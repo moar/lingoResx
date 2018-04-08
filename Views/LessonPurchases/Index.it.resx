@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AllPurchases" xml:space="preserve">
+    <value>Tutti gli acquisti</value>
+  </data>
+  <data name="CancelPurchase" xml:space="preserve">
+    <value>Annulla Acquisto</value>
+  </data>
+  <data name="LessonPurchaseActionProcessed" xml:space="preserve">
+    <value>La tua richiesta è stata elaborata con successo</value>
+  </data>
+  <data name="LessonPurchaseActionProcessing" xml:space="preserve">
+    <value>La richiesta è in corso. Si prega di attendere.....</value>
+  </data>
+  <data name="LessonPurchasesTitle" xml:space="preserve">
+    <value>Acquisti per lezioni </value>
+  </data>
+  <data name="NoPurchases" xml:space="preserve">
+    <value>Non hai acquistato nessuna lezione</value>
+  </data>
+  <data name="PendingSchOpsCancelPError" xml:space="preserve">
+    <value>Non è possibile annullare l'acquisto mentre sono in corso le operazioni di pianificazione delle lezioni</value>
+  </data>
+</root>

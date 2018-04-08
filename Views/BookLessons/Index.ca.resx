@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActiStudBefore" xml:space="preserve">
+    <value>Només els estudiants poden comprar classes. Fes click al següent link per activar el teu perfil d'estudiant</value>
+  </data>
+  <data name="BookLangTitle" xml:space="preserve">
+    <value>Reservar classes de  &lt;span0&gt;{0}&lt;/span0&gt; </value>
+  </data>
+  <data name="ConfirmAndPay" xml:space="preserve">
+    <value>Confirmar i pagar</value>
+  </data>
+  <data name="DatesLocal" xml:space="preserve">
+    <value>Totes les dates es mostren a la teva zona horària local</value>
+  </data>
+  <data name="FiveFeat1" xml:space="preserve">
+    <value>Comprar un pack de 5 classes (1 hora cadascuna)</value>
+  </data>
+  <data name="NoLessonRates" xml:space="preserve">
+    <value>El professor va eliminar o actualitzar les tarifes per a aquest idioma. Si us plau, refresca la pàgina i reserva la classe de nou</value>
+  </data>
+  <data name="OneFeat1" xml:space="preserve">
+    <value>Comprar una classe  (1 hora)</value>
+  </data>
+</root>

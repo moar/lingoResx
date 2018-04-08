@@ -136,7 +136,7 @@
     <value>No has comprado ninguna clase</value>
   </data>
   <data name="PendingSchOpsCancelPError" xml:space="preserve">
-    <value>No puedes cancelar tu compra mientras haya operaciones de programación de clases en marcha</value>
+    <value>No puedes cancelar su compra mientras las operaciones de programación de lecciones están en progreso</value>
   </data>
   <data name="PurchaseCancelledByYou" xml:space="preserve">
     <value>Has cancelado la compra</value>

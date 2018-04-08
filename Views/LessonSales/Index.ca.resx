@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AllSales" xml:space="preserve">
+    <value>Totes les vendes</value>
+  </data>
+  <data name="ConfirmDisabledPendingSch" xml:space="preserve">
+    <value>No pots confirmar la venda fins que les operacions pendents de programació de classes s'hagin completat</value>
+  </data>
+  <data name="ConfirmLessonSale" xml:space="preserve">
+    <value>Confirma venda de classes</value>
+  </data>
+  <data name="LessonSalesTitle" xml:space="preserve">
+    <value>Vendes de classes</value>
+  </data>
+  <data name="NoSales" xml:space="preserve">
+    <value>No tens vendes de classes</value>
+  </data>
+  <data name="PastLessonsConfirmError" xml:space="preserve">
+    <value>No pots confirmar la venda perquè hi ha classes programades en el passat. La primera classe ha de començar amb un marge d'almenys 15 minuts des d'ara. Si us plau, solicítale l'estudiant reprogramar les classes</value>
+  </data>
+  <data name="PendingSchOpsConfirmPError" xml:space="preserve">
+    <value>No pots confirmar la venda mentre hi hagi operacions de programació de classes en marxa</value>
+  </data>
+</root>

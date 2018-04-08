@@ -118,6 +118,24 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="CustomerColumn" xml:space="preserve">
+    <value>Estudiant</value>
+  </data>
+  <data name="Expenses" xml:space="preserve">
+    <value>Despeses</value>
+  </data>
+  <data name="Incomes" xml:space="preserve">
+    <value>Ingressos</value>
+  </data>
+  <data name="MerchantColumn" xml:space="preserve">
+    <value>Comerciant</value>
+  </data>
+  <data name="NoExpenses" xml:space="preserve">
+    <value>No hi ha despeses en aquest període</value>
+  </data>
+  <data name="NoIncomes" xml:space="preserve">
+    <value>No hi ha despeses en aquest període</value>
+  </data>
   <data name="TeacherFinancesTitle" xml:space="preserve">
     <value>Fons</value>
   </data>

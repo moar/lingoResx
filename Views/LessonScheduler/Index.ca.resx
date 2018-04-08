@@ -118,7 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="AcceptRescheduleRequestConf" xml:space="preserve">
+    <value>Aceptes canviar  la data de la classe?</value>
+  </data>
+  <data name="AttendanceUnknown" xml:space="preserve">
+    <value>Assistència no registrada</value>
+  </data>
+  <data name="BothMissedStudent" xml:space="preserve">
+    <value>El professor i tu us vau perdre la classe</value>
+  </data>
+  <data name="BothMissedTeacher" xml:space="preserve">
+    <value>L'estudiant i tu us vau perdre la classe</value>
+  </data>
+  <data name="CancelRescheduleRequestConf" xml:space="preserve">
+    <value>Estàs segur que vols cancel·lar la teva sol·licitud?</value>
+  </data>
+  <data name="ClassTimeNow" xml:space="preserve">
+    <value>Hora de classe!</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>Completades</value>
+  </data>
   <data name="LessonsTitle" xml:space="preserve">
     <value>Programació de classes</value>
+  </data>
+  <data name="TeacherCancelled" xml:space="preserve">
+    <value>Cancel·lada pel professor</value>
   </data>
 </root>

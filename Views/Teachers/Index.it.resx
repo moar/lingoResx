@@ -117,4 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="FindTeacherTitle" xml:space="preserve">
+    <value>Trova un insegnante</value>
+  </data>
+  <data name="LivingIn" xml:space="preserve">
+    <value>vive in {0}</value>
+  </data>
+  <data name="TeachersTip1" xml:space="preserve">
+    <value>Scegli le opzioni che meglio si adattano alle tue esigenze nel filtro e visita i profili degli insegnanti</value>
+  </data>
+  <data name="TeachersTip2" xml:space="preserve">
+    <value>Scegliere un insegnante in base alla sua esperienza, al curriculum, alle tasse e alle valutazioni degli altri studenti.</value>
+  </data>
+  <data name="TeachersTip3" xml:space="preserve">
+    <value>Fai una prenotazione sul suo profilo per insegnare una classe. Per una lezione di prova, è meglio scegliere la tariffa "classe 30 minuti".</value>
+  </data>
+</root>

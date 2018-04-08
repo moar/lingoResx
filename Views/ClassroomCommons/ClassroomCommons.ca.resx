@@ -117,4 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActiveFilter" xml:space="preserve">
+    <value>Activar</value>
+  </data>
+  <data name="AllFilter" xml:space="preserve">
+    <value>Totes</value>
+  </data>
+  <data name="ClassroomsTitle" xml:space="preserve">
+    <value>Aules</value>
+  </data>
+  <data name="NoPendingLessons" xml:space="preserve">
+    <value>No hi ha classes pendents</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>Veure</value>
+  </data>
+</root>
