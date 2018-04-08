@@ -70,11 +70,29 @@ namespace Resources.Views.BookLessons {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to and pay.
+        /// </summary>
+        public static string AndPay {
+            get {
+                return ResourceManager.GetString("AndPay", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Book &lt;span class=&quot;text-bold&quot;&gt;{0}&lt;/span&gt; lessons.
         /// </summary>
         public static string BookLangTitle {
             get {
                 return ResourceManager.GetString("BookLangTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check your order before payment.
+        /// </summary>
+        public static string CheckAndConfirm {
+            get {
+                return ResourceManager.GetString("CheckAndConfirm", resourceCulture);
             }
         }
         
@@ -106,6 +124,24 @@ namespace Resources.Views.BookLessons {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Minimum recharge.
+        /// </summary>
+        public static string MinimumRecharge {
+            get {
+                return ResourceManager.GetString("MinimumRecharge", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You do not have enough credits in your Wallet account. You need to make a recharge.
+        /// </summary>
+        public static string NeedWalletRecharge {
+            get {
+                return ResourceManager.GetString("NeedWalletRecharge", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The teacher removed or updated the rates for this language. Please, refresh the page and book the lesson again.
         /// </summary>
         public static string NoLessonRates {
@@ -133,6 +169,33 @@ namespace Resources.Views.BookLessons {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Payment.
+        /// </summary>
+        public static string Payment {
+            get {
+                return ResourceManager.GetString("Payment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Once you have made the payment, the credits will be subtracted from your wallet account. In case the teacher cannot confirm your reservation, you can recover your credits when you want.
+        /// </summary>
+        public static string PaymentInfo {
+            get {
+                return ResourceManager.GetString("PaymentInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pay with Wallet.
+        /// </summary>
+        public static string PayWithWallet {
+            get {
+                return ResourceManager.GetString("PayWithWallet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your purchase is completed! Now you&apos;re being redirected to your Lesson Purchases app.
         /// </summary>
         public static string PurchaseProcessed {
@@ -147,6 +210,24 @@ namespace Resources.Views.BookLessons {
         public static string PurchaseProcessing {
             get {
                 return ResourceManager.GetString("PurchaseProcessing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Recharge.
+        /// </summary>
+        public static string Recharge {
+            get {
+                return ResourceManager.GetString("Recharge", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Recharge your wallet and pay.
+        /// </summary>
+        public static string RechargeAndPay {
+            get {
+                return ResourceManager.GetString("RechargeAndPay", resourceCulture);
             }
         }
         
@@ -219,6 +300,15 @@ namespace Resources.Views.BookLessons {
         public static string ThirtyFeat2 {
             get {
                 return ResourceManager.GetString("ThirtyFeat2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wallet balance.
+        /// </summary>
+        public static string WalletBalance {
+            get {
+                return ResourceManager.GetString("WalletBalance", resourceCulture);
             }
         }
         

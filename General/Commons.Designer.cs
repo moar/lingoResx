@@ -124,6 +124,15 @@ namespace Resources.General {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Language.
+        /// </summary>
+        public static string Language {
+            get {
+                return ResourceManager.GetString("Language", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Manage student profile.
         /// </summary>
         public static string ManageStudProfile {
@@ -210,6 +219,15 @@ namespace Resources.General {
         public static string SavingDots {
             get {
                 return ResourceManager.GetString("SavingDots", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Teacher.
+        /// </summary>
+        public static string Teacher {
+            get {
+                return ResourceManager.GetString("Teacher", resourceCulture);
             }
         }
         
