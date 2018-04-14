@@ -164,7 +164,7 @@
     <value>El estudiante aceptó reprogramar la clase</value>
   </data>
   <data name="StudentCancelled" xml:space="preserve">
-    <value>Cancelada por el estudiante</value>
+    <value>Cancel·lada per l'estudiant</value>
   </data>
   <data name="StudentMissed" xml:space="preserve">
     <value>El estudiante se perdió la clase</value>

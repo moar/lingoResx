@@ -120,8 +120,14 @@
   <data name="ActiStudBefore" xml:space="preserve">
     <value>Només els estudiants poden comprar classes. Fes click al següent link per activar el teu perfil d'estudiant</value>
   </data>
+  <data name="AndPay" xml:space="preserve">
+    <value>i pagar</value>
+  </data>
   <data name="BookLangTitle" xml:space="preserve">
     <value>Reservar classes de  &lt;span0&gt;{0}&lt;/span0&gt; </value>
+  </data>
+  <data name="CheckAndConfirm" xml:space="preserve">
+    <value>Revisa la teva compa abans de pagar</value>
   </data>
   <data name="ConfirmAndPay" xml:space="preserve">
     <value>Confirmar i pagar</value>
@@ -132,10 +138,46 @@
   <data name="FiveFeat1" xml:space="preserve">
     <value>Comprar un pack de 5 classes (1 hora cadascuna)</value>
   </data>
+  <data name="MinimumRecharge" xml:space="preserve">
+    <value>Recàrrega mínima</value>
+  </data>
+  <data name="NeedWalletRecharge" xml:space="preserve">
+    <value>No tens crèdits suficients en el teu compte Wallet. Has de fer una recàrrega</value>
+  </data>
   <data name="NoLessonRates" xml:space="preserve">
     <value>El professor va eliminar o actualitzar les tarifes per a aquest idioma. Si us plau, refresca la pàgina i reserva la classe de nou</value>
   </data>
   <data name="OneFeat1" xml:space="preserve">
     <value>Comprar una classe  (1 hora)</value>
+  </data>
+  <data name="OpenLessonPurchase" xml:space="preserve">
+    <value>Comprar classe</value>
+  </data>
+  <data name="Payment" xml:space="preserve">
+    <value>Pagament</value>
+  </data>
+  <data name="PaymentInfo" xml:space="preserve">
+    <value>Un cop hagis realitzat el pagament, els crèdits es restaran de la teva Wallet. En cas que el professor no confirmi la reserva, pots recuperar els teus crèdits quant vulguis</value>
+  </data>
+  <data name="PayWithWallet" xml:space="preserve">
+    <value>Pagar amb Wallet</value>
+  </data>
+  <data name="PurchaseProcessed" xml:space="preserve">
+    <value>La teva compra s'ha completat! Ara estàs sent redirigit al teu app Compres de Classes</value>
+  </data>
+  <data name="PurchaseProcessing" xml:space="preserve">
+    <value>La teva compra està sent processada. Si us plau, espera ...</value>
+  </data>
+  <data name="RechargeAndPay" xml:space="preserve">
+    <value>Recarrega del teu Wallet i pagar</value>
+  </data>
+  <data name="ReserveOneLessonDate" xml:space="preserve">
+    <value>Tens que reservar la data d'1 classe</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Seleccionar data</value>
+  </data>
+  <data name="SelectRate" xml:space="preserve">
+    <value>Seleccionar tarifa</value>
   </data>
 </root>

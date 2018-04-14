@@ -138,4 +138,34 @@
   <data name="LangForStudents" xml:space="preserve">
     <value>Langademy per studenti</value>
   </data>
+  <data name="Lessons" xml:space="preserve">
+    <value>lezioni</value>
+  </data>
+  <data name="LessonSales" xml:space="preserve">
+    <value>Vendite di lezioni</value>
+  </data>
+  <data name="NewSales" xml:space="preserve">
+    <value>nuove</value>
+  </data>
+  <data name="OrGoTo" xml:space="preserve">
+    <value>o andare a</value>
+  </data>
+  <data name="QuickStart" xml:space="preserve">
+    <value>Guida rapida</value>
+  </data>
+  <data name="Students" xml:space="preserve">
+    <value>Studenti</value>
+  </data>
+  <data name="TotalSales" xml:space="preserve">
+    <value>Totale vendite</value>
+  </data>
+  <data name="TotalStudents" xml:space="preserve">
+    <value>Totale studenti</value>
+  </data>
+  <data name="WantToLearnTeachers" xml:space="preserve">
+    <value>Vuoi conoscere Langademy per insegnanti di lingue?</value>
+  </data>
+  <data name="WelcomeLangad" xml:space="preserve">
+    <value>Benvenuto a Langademy</value>
+  </data>
 </root>

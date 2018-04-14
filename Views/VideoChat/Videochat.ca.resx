@@ -141,6 +141,9 @@
   <data name="CallSuggestPos" xml:space="preserve">
     <value>Recorda: si parles en el teu idioma natiu amb un usuari que està aprenent aquest idioma, rebràs temps al teu banc de temps</value>
   </data>
+  <data name="CamNotAllowed" xml:space="preserve">
+    <value>No pots fer trucades de vídeo perquè has rebutjat donar permís per utilitzar la teva càmera i / o micròfon. Si us plau, fes click a la icona de la càmera a la barra d'adreces del teu navegador, concedeix els permisos i recarrega la pàgina.</value>
+  </data>
   <data name="CannotConnect" xml:space="preserve">
     <value>No es pot establir la trucada entre {0} i tu a causa del nivell de seguretat de les xarxes on us trobeu</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="PrevTime" xml:space="preserve">
     <value>Balanç de temps anterior</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Recarregar</value>
   </data>
   <data name="ReportLang" xml:space="preserve">
     <value>Idioma</value>

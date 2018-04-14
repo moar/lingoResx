@@ -159,6 +159,9 @@
   <data name="Save" xml:space="preserve">
     <value>Guardar </value>
   </data>
+  <data name="ShowMore" xml:space="preserve">
+    <value>Veure més</value>
+  </data>
   <data name="ShowOlder" xml:space="preserve">
     <value>Veure més antics</value>
   </data>

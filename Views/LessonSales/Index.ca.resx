@@ -138,4 +138,25 @@
   <data name="PendingSchOpsConfirmPError" xml:space="preserve">
     <value>No pots confirmar la venda mentre hi hagi operacions de programació de classes en marxa</value>
   </data>
+  <data name="PendingSchOpsRejectPError" xml:space="preserve">
+    <value>No pots rebutjar la venda mentre hi hagi operacions de programació de classes en marxa</value>
+  </data>
+  <data name="RejectDisabledPendingSch" xml:space="preserve">
+    <value>No pots rebutjar la venda fins que les operacions pendents de programació de classes s'hagin completat</value>
+  </data>
+  <data name="RejectLessonSale" xml:space="preserve">
+    <value>Rebutjar venda de classes</value>
+  </data>
+  <data name="SaleDate" xml:space="preserve">
+    <value>Data de venda</value>
+  </data>
+  <data name="StudentCancelledPurchase" xml:space="preserve">
+    <value>L'alumne ha cancel·lat la compra</value>
+  </data>
+  <data name="YouConfirmedSale" xml:space="preserve">
+    <value>Has confirmat la venda</value>
+  </data>
+  <data name="YouRejectedSale" xml:space="preserve">
+    <value>Has rebutjat la venda</value>
+  </data>
 </root>

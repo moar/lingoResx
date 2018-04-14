@@ -153,4 +153,10 @@
   <data name="PRow5Title" xml:space="preserve">
     <value>Missatgeria a les sales de xat</value>
   </data>
+  <data name="PRowLessonsTitle" xml:space="preserve">
+    <value>Classes</value>
+  </data>
+  <data name="PRTeachersFee" xml:space="preserve">
+    <value>La tarifa establerta pel professor</value>
+  </data>
 </root>

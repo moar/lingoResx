@@ -138,4 +138,22 @@
   <data name="RunTests" xml:space="preserve">
     <value>Eseguire i test</value>
   </data>
+  <data name="TestDate" xml:space="preserve">
+    <value>Data del test</value>
+  </data>
+  <data name="TestResultFailed" xml:space="preserve">
+    <value>Sbagliato</value>
+  </data>
+  <data name="TestResultPassed" xml:space="preserve">
+    <value>Corretto</value>
+  </data>
+  <data name="TestResultWarning" xml:space="preserve">
+    <value>Alerta</value>
+  </data>
+  <data name="Throughput" xml:space="preserve">
+    <value>Throughput</value>
+  </data>
+  <data name="VideoSrc" xml:space="preserve">
+    <value>Video source</value>
+  </data>
 </root>

@@ -139,4 +139,10 @@
   <data name="TeacherFinancesTitle" xml:space="preserve">
     <value>finanziamenti// fondi</value>
   </data>
+  <data name="Total" xml:space="preserve">
+    <value>Totale</value>
+  </data>
+  <data name="ViewSale" xml:space="preserve">
+    <value>Vedere vendita</value>
+  </data>
 </root>

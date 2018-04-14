@@ -153,4 +153,10 @@
   <data name="PRow5Title" xml:space="preserve">
     <value>Messaggistica nelle chat rooms</value>
   </data>
+  <data name="PRowLessonsTitle" xml:space="preserve">
+    <value>Lezioni</value>
+  </data>
+  <data name="PRTeachersFee" xml:space="preserve">
+    <value>Il compenso fissato dall'insegnante</value>
+  </data>
 </root>

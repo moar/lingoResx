@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccountDeactivated" xml:space="preserve">
-    <value>El teu compte  ha estat desactivat. Vols activar-lo de nou?  Accedeix altre còp </value>
+    <value>El teu compte  ha estat desactivat. Vols activar-lo de nou?  Torna a iniciar la sessió</value>
   </data>
   <data name="AccountLockedOut" xml:space="preserve">
     <value>Has introduït la contrasenya incorrecta massa vegades. Intenta-ho de nou després d'uns minuts.</value>
