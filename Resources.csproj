@@ -534,6 +534,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Index.resx</DependentUpon>
     </Compile>
+    <Compile Include="Views\Teachers\Quickstart\Quick.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Quick.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\TeachingApplication\Index.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1414,11 +1419,19 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Teachers\Index.ca.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.de.resx" />
     <EmbeddedResource Include="Views\Teachers\Index.es.resx" />
     <EmbeddedResource Include="Views\Teachers\Index.eu.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.fr.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.it.resx" />
     <EmbeddedResource Include="Views\Teachers\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Quick.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\TeachingApplication\Index.ca.resx" />
     <EmbeddedResource Include="Views\TeachingApplication\Index.es.resx" />
