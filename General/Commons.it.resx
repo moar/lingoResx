@@ -117,4 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActivateStudentProf" xml:space="preserve">
+    <value>Attiva il tuo profilo di studente</value>
+  </data>
+  <data name="CandidateNotTeacherWarn" xml:space="preserve">
+    <value> Non è possibile accedere agli strumenti didattici fino a quando non si presenta la domanda e questa non viene accettata</value>
+  </data>
+  <data name="ErrorSavingPleaseRetry" xml:space="preserve">
+    <value>Errore durante il salvataggio. Aggiorna la pagina e riprova. Se il problema persiste contattateci</value>
+  </data>
+  <data name="GoToStudents" xml:space="preserve">
+    <value>Vai a Langademy per studenti e attiva il profilo</value>
+  </data>
+  <data name="GoToTeachers" xml:space="preserve">
+    <value>Vai a Langademy per Insegnanti e prepara la tua richiesta</value>
+  </data>
+  <data name="HiName" xml:space="preserve">
+    <value>Ciao {0} </value>
+  </data>
+  <data name="HiNameExcl" xml:space="preserve">
+    <value>Ciao {0} !</value>
+  </data>
+  <data name="ViewMore" xml:space="preserve">
+    <value>Vedi di più</value>
+  </data>
+</root>

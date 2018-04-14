@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="Agenda" xml:space="preserve">
+    <value>Agenda</value>
+  </data>
+  <data name="Balance" xml:space="preserve">
+    <value>Saldo</value>
+  </data>
+  <data name="Expenses" xml:space="preserve">
+    <value>Costi</value>
+  </data>
+  <data name="Finances" xml:space="preserve">
+    <value>Finanze</value>
+  </data>
+  <data name="ForLangTeachers" xml:space="preserve">
+    <value>per insegnanti di lingue</value>
+  </data>
+  <data name="Incomes" xml:space="preserve">
+    <value>Reddito</value>
+  </data>
+  <data name="LangForStudents" xml:space="preserve">
+    <value>Langademy per studenti</value>
+  </data>
+</root>

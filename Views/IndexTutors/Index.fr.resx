@@ -117,25 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllSales" xml:space="preserve">
-    <value>Tutte le vendite</value>
-  </data>
-  <data name="ConfirmDisabledPendingSch" xml:space="preserve">
-    <value>Non è possibile confermare la vendita fino a quando le operazioni di pianificazione delle classi in attesa non sono state completate</value>
-  </data>
-  <data name="ConfirmLessonSale" xml:space="preserve">
-    <value>Confermare la vendita delle lezioniNon hai più lezioni in programma con questo studente</value>
-  </data>
-  <data name="LessonSalesTitle" xml:space="preserve">
-    <value>Vendita di lezioni</value>
-  </data>
-  <data name="NoSales" xml:space="preserve">
-    <value>Non hai vendite di lezioni</value>
-  </data>
-  <data name="PastLessonsConfirmError" xml:space="preserve">
-    <value>Non è possibile confermare la vendita perché ci sono classi in programma in precedenza. La prima classe deve iniziare almeno 15 minuti da ora. Chiedere allo studente di riprogrammare le lezioni</value>
-  </data>
-  <data name="PendingSchOpsConfirmPError" xml:space="preserve">
-    <value>Non è possibile confermare la vendita mentre sono in corso le operazioni di pianificazione delle lezioni</value>
-  </data>
-</root>
+  </root>

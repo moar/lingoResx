@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AllPurchases" xml:space="preserve">
+    <value>Totes les compres</value>
+  </data>
+  <data name="CancelPurchase" xml:space="preserve">
+    <value>Cancel·lar  compra</value>
+  </data>
+  <data name="LessonPurchaseActionProcessed" xml:space="preserve">
+    <value>La teva sol·licitud s'ha processat correctament</value>
+  </data>
+  <data name="LessonPurchaseActionProcessing" xml:space="preserve">
+    <value>La teva sol·licitud s'està processant. Si us plau, espera ...</value>
+  </data>
+  <data name="LessonPurchasesTitle" xml:space="preserve">
+    <value>Compres de classes</value>
+  </data>
+  <data name="NoPurchases" xml:space="preserve">
+    <value>No has comprat cap classe</value>
+  </data>
+  <data name="PendingSchOpsCancelPError" xml:space="preserve">
+    <value>No es pot cancel·lar la compra mentre les operacions de programació de lectures estan en progrés</value>
+  </data>
+</root>

@@ -129,6 +129,9 @@
   <data name="Country" xml:space="preserve">
     <value>Paese</value>
   </data>
+  <data name="CountryOfOrigin" xml:space="preserve">
+    <value>Paese di origine</value>
+  </data>
   <data name="Email" xml:space="preserve">
     <value>e-mail</value>
   </data>

@@ -118,7 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="Activate" xml:space="preserve">
+    <value>Attivare</value>
+  </data>
+  <data name="AddAttachment" xml:space="preserve">
+    <value>Aggiungi allegato</value>
+  </data>
+  <data name="ApplSubmittedOn" xml:space="preserve">
+    <value>Data di spedizione della richiesta</value>
+  </data>
+  <data name="AttachBlockDescr" xml:space="preserve">
+    <value>Allegare certificati o qualsiasi altro documento che ci permetta di dimostrare la vostra esperienza professionale e la vostra formazione per l'insegnamento delle lingue (solo documenti PDF)</value>
+  </data>
+  <data name="AttachDescrPlaceHolder" xml:space="preserve">
+    <value>Aggiungere una breve descrizione del contenuto di questo documento</value>
+  </data>
+  <data name="Attachments" xml:space="preserve">
+    <value>Documentazione allegata</value>
+  </data>
+  <data name="AvailCalendar" xml:space="preserve">
+    <value>Calendario disponibilità </value>
+  </data>
   <data name="DescriptionMaxLength" xml:space="preserve">
     <value>La descrizione deve essere inferiore a {1} caratteri</value>
+  </data>
+  <data name="ErrorRecordingSpeed" xml:space="preserve">
+    <value>Errore nel salvataggio del test di velocità. Aggiorna la pagina e riprova</value>
   </data>
 </root>

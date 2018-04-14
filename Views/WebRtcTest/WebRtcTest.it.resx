@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="AudioSrc" xml:space="preserve">
+    <value>Fonte audio</value>
+  </data>
+  <data name="Camera" xml:space="preserve">
+    <value>Videocamera</value>
+  </data>
+  <data name="Connectivity" xml:space="preserve">
+    <value>Connettività</value>
+  </data>
+  <data name="LastTestResult" xml:space="preserve">
+    <value>Risultato dell'ultimo test</value>
+  </data>
+  <data name="Microphone" xml:space="preserve">
+    <value>Microfono</value>
+  </data>
+  <data name="Network" xml:space="preserve">
+    <value>Rete</value>
+  </data>
+  <data name="RunTests" xml:space="preserve">
+    <value>Eseguire i test</value>
+  </data>
+</root>

@@ -118,7 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   
+  <data name="Activate" xml:space="preserve">
+    <value>Activar</value>
+  </data>
+  <data name="AddAttachment" xml:space="preserve">
+    <value>Afegir adjunt</value>
+  </data>
+  <data name="ApplSubmittedOn" xml:space="preserve">
+    <value>Data d'enviament de la sol·licitud</value>
+  </data>
+  <data name="AttachBlockDescr" xml:space="preserve">
+    <value>Adjunta certificats o qualsevol document que ens permeti acreditar la teva experiència professional i la teva formació per ensenyar idiomes (només documents PDF)</value>
+  </data>
+  <data name="AttachDescrPlaceHolder" xml:space="preserve">
+    <value>Afegeix una breu descripció sobre el contingut d'aquest document</value>
+  </data>
+  <data name="Attachments" xml:space="preserve">
+    <value>Documents adjunts</value>
+  </data>
+  <data name="AvailCalendar" xml:space="preserve">
+    <value>Calendari de disponibilitat</value>
+  </data>
   <data name="DescriptionMaxLength" xml:space="preserve">
     <value>La descripció ha de tenir menys de {1} caràcters</value>
+  </data>
+  <data name="ErrorRecordingSpeed" xml:space="preserve">
+    <value>Error guardant el test de velocitat. Si us plau, refresca la pàgina i torneu a provar</value>
   </data>
 </root>

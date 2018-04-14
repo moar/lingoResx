@@ -171,4 +171,7 @@
   <data name="SearchMaxRate" xml:space="preserve">
     <value>Tasso massimo</value>
   </data>
+  <data name="SearchPartnerName" xml:space="preserve">
+    <value>Nome del partner</value>
+  </data>
 </root>

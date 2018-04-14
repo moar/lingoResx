@@ -129,6 +129,12 @@
   <data name="AddPosition" xml:space="preserve">
     <value>Afegeix la teva posició</value>
   </data>
+  <data name="Availability" xml:space="preserve">
+    <value>Disponibilitat</value>
+  </data>
+  <data name="BookLessons" xml:space="preserve">
+    <value>Reservar {0} classes</value>
+  </data>
   <data name="Company" xml:space="preserve">
     <value>Companyia</value>
   </data>

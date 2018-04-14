@@ -117,4 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActivateStudentProf" xml:space="preserve">
+    <value>Activar el teu perfil d'estudiant</value>
+  </data>
+  <data name="CandidateNotTeacherWarn" xml:space="preserve">
+    <value>No pots accedir a les eines de professor fins que enviïs la teva sol·licitud i sigui aprovada</value>
+  </data>
+  <data name="ErrorSavingPleaseRetry" xml:space="preserve">
+    <value>Error en desar. Si us plau, refresca la pàgina i torneu a provar. Si el problema persisteix contacta'ns</value>
+  </data>
+  <data name="GoToStudents" xml:space="preserve">
+    <value>Anar a Langademy per a Estudiants i activar perfil</value>
+  </data>
+  <data name="GoToTeachers" xml:space="preserve">
+    <value>Anar a Langademy per a Professors i preparar la sol·licitud</value>
+  </data>
+  <data name="HiName" xml:space="preserve">
+    <value>Hola {0} </value>
+  </data>
+  <data name="HiNameExcl" xml:space="preserve">
+    <value>Hola {0} !K</value>
+  </data>
+  <data name="ViewMore" xml:space="preserve">
+    <value>Veure més</value>
+  </data>
+</root>

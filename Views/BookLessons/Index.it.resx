@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActiStudBefore" xml:space="preserve">
+    <value>Solo gli studenti possono acquistare le lezioni. Segui il link successivo per attivare il tuo profilo di studente</value>
+  </data>
+  <data name="BookLangTitle" xml:space="preserve">
+    <value>Prenotare lezioni di &lt;span0&gt;{0}&lt;/span0&gt; </value>
+  </data>
+  <data name="ConfirmAndPay" xml:space="preserve">
+    <value>Confermare e pagare</value>
+  </data>
+  <data name="DatesLocal" xml:space="preserve">
+    <value>Tutte le date sono visualizzate nel fuso orario locale</value>
+  </data>
+  <data name="FiveFeat1" xml:space="preserve">
+    <value>Acquista un pacchetto di 5 lezioni (1 ora ciascuna)</value>
+  </data>
+  <data name="NoLessonRates" xml:space="preserve">
+    <value>L'insegnante ha rimosso o aggiornato le tasse per questa lingua. Per favore aggiorna la pagina e prenota di nuovo la classe</value>
+  </data>
+  <data name="OneFeat1" xml:space="preserve">
+    <value>Acquista 1 lezione (1 ora)</value>
+  </data>
+</root>

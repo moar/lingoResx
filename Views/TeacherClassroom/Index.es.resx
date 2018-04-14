@@ -121,7 +121,7 @@
     <value>Aulas</value>
   </data>
   <data name="NoClassrooms" xml:space="preserve">
-    <value>0 aulas encontradas. ¡Tienes kque contactar con estudiantes y vender clases!</value>
+    <value>0 aulas encontradas. ¡Tienes que contactar con estudiantes y vender clases!</value>
   </data>
   <data name="NoNextLessons" xml:space="preserve">
     <value>No tienes más clases programadas con este estudiante</value>

@@ -301,7 +301,7 @@
     <value>Compra créditos</value>
   </data>
   <data name="ChargeStudents" xml:space="preserve">
-    <value>Cobra a los estudiantes</value>
+    <value>Tutor</value>
   </data>
   <data name="Done" xml:space="preserve">
     <value>Hecho</value>
@@ -395,5 +395,8 @@
   </data>
   <data name="NoEventsScheduled" xml:space="preserve">
     <value>No tienes eventos planificados</value>
+  </data>
+  <data name="Tutoring" xml:space="preserve">
+    <value>Tutorías</value>
   </data>
 </root>

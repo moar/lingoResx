@@ -300,4 +300,10 @@
   <data name="LandTeacherTitle" xml:space="preserve">
     <value>Conviértete en &lt;strong&gt;profesor de idiomas online&lt;/strong&gt;</value>
   </data>
+  <data name="LandTeacherSignIn" xml:space="preserve">
+    <value>Regístrate como profesor</value>
+  </data>
+  <data name="LandTeachingArticles" xml:space="preserve">
+    <value>Blog para profesores</value>
+  </data>
 </root>

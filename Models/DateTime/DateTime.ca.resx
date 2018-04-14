@@ -162,4 +162,7 @@
   <data name="Years" xml:space="preserve">
     <value>anys</value>
   </data>
+  <data name="Quarter4" xml:space="preserve">
+    <value>4º trim.</value>
+  </data>
 </root>
