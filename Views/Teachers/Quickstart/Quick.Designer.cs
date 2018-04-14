@@ -61,6 +61,105 @@ namespace Resources.Views.Teachers.Quickstart {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Solicita un puesto.
+        /// </summary>
+        public static string ActionCall1 {
+            get {
+                return ResourceManager.GetString("ActionCall1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Teach your native language and earn money, wherever you are, whenever you want..
+        /// </summary>
+        public static string Block1SubTitle {
+            get {
+                return ResourceManager.GetString("Block1SubTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Set your rate and earn money for teaching your native language to students around the world.
+        /// </summary>
+        public static string Block2SubTitle {
+            get {
+                return ResourceManager.GetString("Block2SubTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earn money.
+        /// </summary>
+        public static string Block2Title {
+            get {
+                return ResourceManager.GetString("Block2Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You will teach online via video conferences, so you will work from wherever you want..
+        /// </summary>
+        public static string Block3Subtitle {
+            get {
+                return ResourceManager.GetString("Block3Subtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to From wherever you want.
+        /// </summary>
+        public static string Block3Title {
+            get {
+                return ResourceManager.GetString("Block3Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fill your availability in your personal calendar. You can set the hours that suit you best..
+        /// </summary>
+        public static string Block4Subtitle {
+            get {
+                return ResourceManager.GetString("Block4Subtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to On your own schedule.
+        /// </summary>
+        public static string Block4Title {
+            get {
+                return ResourceManager.GetString("Block4Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You decide how much you will earn and the number of hours you invest in the platform..
+        /// </summary>
+        public static string Block5Subtitles {
+            get {
+                return ResourceManager.GetString("Block5Subtitles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You set the limit.
+        /// </summary>
+        public static string Block5Title {
+            get {
+                return ResourceManager.GetString("Block5Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FAQ.
+        /// </summary>
+        public static string FAQ {
+            get {
+                return ResourceManager.GetString("FAQ", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to What is Langademy?.
         /// </summary>
         public static string General1 {
@@ -102,6 +201,33 @@ namespace Resources.Views.Teachers.Quickstart {
         public static string GeneralTitle {
             get {
                 return ResourceManager.GetString("GeneralTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How to start.
+        /// </summary>
+        public static string HowToStart {
+            get {
+                return ResourceManager.GetString("HowToStart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Become.
+        /// </summary>
+        public static string MainTitleP1 {
+            get {
+                return ResourceManager.GetString("MainTitleP1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to a teacher.
+        /// </summary>
+        public static string MainTitleP2 {
+            get {
+                return ResourceManager.GetString("MainTitleP2", resourceCulture);
             }
         }
         
@@ -237,6 +363,24 @@ namespace Resources.Views.Teachers.Quickstart {
         public static string Req4Answer {
             get {
                 return ResourceManager.GetString("Req4Answer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How can I get students?.
+        /// </summary>
+        public static string Req5 {
+            get {
+                return ResourceManager.GetString("Req5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Give visibility to your profile. Talk about Langademy and promote your profile on different social networks (your YouTube channel, LInkedin...) and blogs. Otherwise, you should rest assured that at Langademy we will make sure that there are students who want to hire you..
+        /// </summary>
+        public static string Req5Answer {
+            get {
+                return ResourceManager.GetString("Req5Answer", resourceCulture);
             }
         }
         

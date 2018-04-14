@@ -610,6 +610,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to teach-online/quickstart/.
+        /// </summary>
+        public static string teachers_quickstart {
+            get {
+                return ResourceManager.GetString("teachers-quickstart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to teach-languages-online.
         /// </summary>
         public static string teachonline {

@@ -117,6 +117,39 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ActionCall1" xml:space="preserve">
+    <value>Solicita un puesto</value>
+  </data>
+  <data name="Block1SubTitle" xml:space="preserve">
+    <value>Teach your native language and earn money, wherever you are, whenever you want.</value>
+  </data>
+  <data name="Block2SubTitle" xml:space="preserve">
+    <value>Set your rate and earn money for teaching your native language to students around the world</value>
+  </data>
+  <data name="Block2Title" xml:space="preserve">
+    <value>Earn money</value>
+  </data>
+  <data name="Block3Subtitle" xml:space="preserve">
+    <value>You will teach online via video conferences, so you will work from wherever you want.</value>
+  </data>
+  <data name="Block3Title" xml:space="preserve">
+    <value>From wherever you want</value>
+  </data>
+  <data name="Block4Subtitle" xml:space="preserve">
+    <value>Fill your availability in your personal calendar. You can set the hours that suit you best.</value>
+  </data>
+  <data name="Block4Title" xml:space="preserve">
+    <value>On your own schedule</value>
+  </data>
+  <data name="Block5Subtitles" xml:space="preserve">
+    <value>You decide how much you will earn and the number of hours you invest in the platform.</value>
+  </data>
+  <data name="Block5Title" xml:space="preserve">
+    <value>You set the limit</value>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>FAQ</value>
+  </data>
   <data name="General1" xml:space="preserve">
     <value>What is Langademy?</value>
   </data>
@@ -131,6 +164,15 @@
   </data>
   <data name="GeneralTitle" xml:space="preserve">
     <value>General questions</value>
+  </data>
+  <data name="HowToStart" xml:space="preserve">
+    <value>How to start</value>
+  </data>
+  <data name="MainTitleP1" xml:space="preserve">
+    <value>Become</value>
+  </data>
+  <data name="MainTitleP2" xml:space="preserve">
+    <value>a teacher</value>
   </data>
   <data name="Prices1" xml:space="preserve">
     <value>How much can I earn at Langademy?</value>
@@ -176,6 +218,12 @@
   </data>
   <data name="Req4Answer" xml:space="preserve">
     <value>All you need is a webcam, a microphone and a good internet connection. When you apply for a position at Langademy, we will ensure that you have these requirements in place. You must also have one of the latest versions of Chrome or Firefox installed if you want to teach at Langademy. Additionally, you don’t need to install Skype or any other plugins. Langademy has its own video call technology.</value>
+  </data>
+  <data name="Req5" xml:space="preserve">
+    <value>How can I get students?</value>
+  </data>
+  <data name="Req5Answer" xml:space="preserve">
+    <value>Give visibility to your profile. Talk about Langademy and promote your profile on different social networks (your YouTube channel, LInkedin...) and blogs. Otherwise, you should rest assured that at Langademy we will make sure that there are students who want to hire you.</value>
   </data>
   <data name="RequirementsTitle" xml:space="preserve">
     <value>Requirements</value>
