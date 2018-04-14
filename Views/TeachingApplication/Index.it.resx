@@ -139,10 +139,49 @@
   <data name="AvailCalendar" xml:space="preserve">
     <value>Calendario disponibilità </value>
   </data>
+  <data name="ClickToActivate" xml:space="preserve">
+    <value>Clicca sul pulsante seguente per attivare il tuo profilo</value>
+  </data>
+  <data name="ConfirmDeleteAppli" xml:space="preserve">
+    <value>Sei sicuro di voler cancellare la tua richiesta? Questo passo non può essere annullato</value>
+  </data>
+  <data name="ConfirmSubmitAppli" xml:space="preserve">
+    <value>Confermi di voler inviare la tua richiesta?</value>
+  </data>
+  <data name="CongratsApplAccepted" xml:space="preserve">
+    <value>Congratulazioni! La tua richiesta è stata accettata</value>
+  </data>
+  <data name="CoverPhoto" xml:space="preserve">
+    <value>Foto di copertina</value>
+  </data>
+  <data name="DeclinedDescr" xml:space="preserve">
+    <value>Purtroppo, la sua richiesta è stata respinta. Rivede il rapporto e poi si può decidere se si vuole modificare la richiesta di inviarlo di nuovo.</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Descrizione</value>
+  </data>
   <data name="DescriptionMaxLength" xml:space="preserve">
     <value>La descrizione deve essere inferiore a {1} caratteri</value>
   </data>
+  <data name="DownloadSpeed" xml:space="preserve">
+    <value>Velocità di download</value>
+  </data>
+  <data name="EditAttachDescr" xml:space="preserve">
+    <value>Modificare la descrizione del allegato</value>
+  </data>
+  <data name="Education" xml:space="preserve">
+    <value>Formazione</value>
+  </data>
   <data name="ErrorRecordingSpeed" xml:space="preserve">
     <value>Errore nel salvataggio del test di velocità. Aggiorna la pagina e riprova</value>
+  </data>
+  <data name="EvalReportTitle" xml:space="preserve">
+    <value>Relazione di valutazione della richiesta</value>
+  </data>
+  <data name="Experience" xml:space="preserve">
+    <value>Esperienza</value>
+  </data>
+  <data name="ImgNotPub" xml:space="preserve">
+    <value>Questa immagine non sarà pubblicata da nessuna parte</value>
   </data>
 </root>

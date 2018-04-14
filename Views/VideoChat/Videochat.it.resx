@@ -141,6 +141,9 @@
   <data name="CallSuggestPos" xml:space="preserve">
     <value>Ricorda: se parli nella tua lingua madre con un utente che sta imparando la tua lingua, riceverai tempo nella tua banca del tempo</value>
   </data>
+  <data name="CamNotAllowed" xml:space="preserve">
+    <value>Non è possibile effettuare una videochiamata perché si è rifiutato di dare il permesso di utilizzare la fotocamera e/o il microfono. Clicca sull'icona della telecamera nella barra degli indirizzi del tuo browser, concedi i permessi e ricarichi la pagina. </value>
+  </data>
   <data name="CannotConnect" xml:space="preserve">
     <value>Non è possibile stabilire la chiamata tra {0} e te, a causa del livello di sicurezza delle reti dove vi trovate</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="PrevTime" xml:space="preserve">
     <value>Saldo di ore precedente</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Ricaricare</value>
   </data>
   <data name="ReportLang" xml:space="preserve">
     <value>Lingua</value>

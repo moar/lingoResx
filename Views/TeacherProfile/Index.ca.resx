@@ -177,11 +177,20 @@
   <data name="FromGreaterThanTo" xml:space="preserve">
     <value>El camp Des de no pot ser més gran que el camp Fins</value>
   </data>
+  <data name="LangLessons" xml:space="preserve">
+    <value>Classe de {0} </value>
+  </data>
+  <data name="NoRatings" xml:space="preserve">
+    <value>Encara no hi ha valoracions disponibles</value>
+  </data>
   <data name="NoRatingsEditor" xml:space="preserve">
     <value>Encara no has rebut cap valoració</value>
   </data>
   <data name="Position" xml:space="preserve">
     <value>Posició</value>
+  </data>
+  <data name="PrivateLessons" xml:space="preserve">
+    <value>classes particulars</value>
   </data>
   <data name="School" xml:space="preserve">
     <value>Centre educatiu</value>

@@ -139,10 +139,49 @@
   <data name="AvailCalendar" xml:space="preserve">
     <value>Calendari de disponibilitat</value>
   </data>
+  <data name="ClickToActivate" xml:space="preserve">
+    <value>Fes click al següent botó per activar el teu perfil</value>
+  </data>
+  <data name="ConfirmDeleteAppli" xml:space="preserve">
+    <value>Estàs segur de voler esborrar la teva sol·licitud? Aquest pas no es pot desfer</value>
+  </data>
+  <data name="ConfirmSubmitAppli" xml:space="preserve">
+    <value>¿Confirmes que vols enviar la teva sol·licitud?</value>
+  </data>
+  <data name="CongratsApplAccepted" xml:space="preserve">
+    <value>Felicitats! La teva sol·licitud ha estat acceptada</value>
+  </data>
+  <data name="CoverPhoto" xml:space="preserve">
+    <value>Foto de portada</value>
+  </data>
+  <data name="DeclinedDescr" xml:space="preserve">
+    <value>Desafortunadament la teva sol·licitud ha estat rebutjada. Revisa l'informe i després pots decidir si vols modificar la teva sol·licitud per enviar-la de nou</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Descripció</value>
+  </data>
   <data name="DescriptionMaxLength" xml:space="preserve">
     <value>La descripció ha de tenir menys de {1} caràcters</value>
   </data>
+  <data name="DownloadSpeed" xml:space="preserve">
+    <value>Velocitat de descàrrega</value>
+  </data>
+  <data name="EditAttachDescr" xml:space="preserve">
+    <value>Editar descrpció del adjunt</value>
+  </data>
+  <data name="Education" xml:space="preserve">
+    <value>Formació</value>
+  </data>
   <data name="ErrorRecordingSpeed" xml:space="preserve">
     <value>Error guardant el test de velocitat. Si us plau, refresca la pàgina i torneu a provar</value>
+  </data>
+  <data name="EvalReportTitle" xml:space="preserve">
+    <value>Informe d'avaluació de la sol·licitud</value>
+  </data>
+  <data name="Experience" xml:space="preserve">
+    <value>Experiència </value>
+  </data>
+  <data name="ImgNotPub" xml:space="preserve">
+    <value>Aquesta imatge no es publicarà en cap lloc</value>
   </data>
 </root>

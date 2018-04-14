@@ -120,8 +120,14 @@
   <data name="ActiStudBefore" xml:space="preserve">
     <value>Solo gli studenti possono acquistare le lezioni. Segui il link successivo per attivare il tuo profilo di studente</value>
   </data>
+  <data name="AndPay" xml:space="preserve">
+    <value>e pagare</value>
+  </data>
   <data name="BookLangTitle" xml:space="preserve">
     <value>Prenotare lezioni di &lt;span0&gt;{0}&lt;/span0&gt; </value>
+  </data>
+  <data name="CheckAndConfirm" xml:space="preserve">
+    <value>Controlla il tuo acquisto prima di pagare</value>
   </data>
   <data name="ConfirmAndPay" xml:space="preserve">
     <value>Confermare e pagare</value>
@@ -132,10 +138,49 @@
   <data name="FiveFeat1" xml:space="preserve">
     <value>Acquista un pacchetto di 5 lezioni (1 ora ciascuna)</value>
   </data>
+  <data name="MinimumRecharge" xml:space="preserve">
+    <value>Ricarica minima</value>
+  </data>
+  <data name="NeedWalletRecharge" xml:space="preserve">
+    <value>Non hai abbastanza crediti nel tuo account Wallet. È necessario effettuare una ricarica.</value>
+  </data>
   <data name="NoLessonRates" xml:space="preserve">
     <value>L'insegnante ha rimosso o aggiornato le tasse per questa lingua. Per favore aggiorna la pagina e prenota di nuovo la classe</value>
   </data>
   <data name="OneFeat1" xml:space="preserve">
     <value>Acquista 1 lezione (1 ora)</value>
+  </data>
+  <data name="OpenLessonPurchase" xml:space="preserve">
+    <value>Acquistare lezione</value>
+  </data>
+  <data name="Payment" xml:space="preserve">
+    <value>Pagamento</value>
+  </data>
+  <data name="PaymentInfo" xml:space="preserve">
+    <value>Una volta effettuato il pagamento, i crediti saranno sottratti dal tuo Wallet. Nel caso in cui l'insegnante non confermi la prenotazione, è possibile recuperare i crediti appena lo desideri</value>
+  </data>
+  <data name="PayWithWallet" xml:space="preserve">
+    <value>Paga con Wallet</value>
+  </data>
+  <data name="PurchaseProcessed" xml:space="preserve">
+    <value>Il tuo acquisto è completo! Ora sei reindirizzato alla tua app Acquisto di Lezioni</value>
+  </data>
+  <data name="PurchaseProcessing" xml:space="preserve">
+    <value>Il tuo acquisto è in corso di elaborazione. Si prega di attendere.....</value>
+  </data>
+  <data name="Recharge" xml:space="preserve">
+    <value>Ricaricare</value>
+  </data>
+  <data name="RechargeAndPay" xml:space="preserve">
+    <value>Ricaricare il tu Wallet e pagare</value>
+  </data>
+  <data name="ReserveOneLessonDate" xml:space="preserve">
+    <value>Devi prenotare almeno la data 1 lezione</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Selezionare data</value>
+  </data>
+  <data name="SelectRate" xml:space="preserve">
+    <value>Selezionare tariffa</value>
   </data>
 </root>

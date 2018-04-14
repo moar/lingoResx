@@ -138,4 +138,52 @@
   <data name="AllRejected" xml:space="preserve">
     <value>Rebutjades</value>
   </data>
+  <data name="Cancelled" xml:space="preserve">
+    <value>Cancel·lada</value>
+  </data>
+  <data name="CancelReschedule" xml:space="preserve">
+    <value>Cancel·lar</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>Completada</value>
+  </data>
+  <data name="Confirmed" xml:space="preserve">
+    <value>Confirmada</value>
+  </data>
+  <data name="ConfirmNewDate" xml:space="preserve">
+    <value>Confirma la nova data</value>
+  </data>
+  <data name="CurrentDate" xml:space="preserve">
+    <value>Data actual</value>
+  </data>
+  <data name="Lessons" xml:space="preserve">
+    <value>classes</value>
+  </data>
+  <data name="LessonsLang" xml:space="preserve">
+    <value>Classes de {0} </value>
+  </data>
+  <data name="Progress" xml:space="preserve">
+    <value>Progrés</value>
+  </data>
+  <data name="Rate" xml:space="preserve">
+    <value>Tarifa</value>
+  </data>
+  <data name="Rejected" xml:space="preserve">
+    <value>Rebutjada</value>
+  </data>
+  <data name="RejectReschedule" xml:space="preserve">
+    <value>Rebutjar</value>
+  </data>
+  <data name="ScheduledLessons" xml:space="preserve">
+    <value>Classes programades</value>
+  </data>
+  <data name="SelectNewDate" xml:space="preserve">
+    <value>Selecciona la nova data</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Estat</value>
+  </data>
+  <data name="CancelUnschedule" xml:space="preserve">
+    <value>Cancel · lar desprogramació</value>
+  </data>
 </root>

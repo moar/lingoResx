@@ -117,4 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActionCall1" xml:space="preserve">
+    <value>Registra't ara</value>
+  </data>
+  <data name="Block1SubTitle" xml:space="preserve">
+    <value>Registra't i guanya diners per mantenir converses en línia en el teu idioma natiu</value>
+  </data>
+  <data name="Block2SubTitle" xml:space="preserve">
+    <value>Estableix la teva tarifa i guanya diners per mantenir converses en el teu idioma natiu</value>
+  </data>
+  <data name="Block2Title" xml:space="preserve">
+    <value>Guanya diners</value>
+  </data>
+  <data name="Block3Subtitle" xml:space="preserve">
+    <value>Mantindràs les converses per videoconferència, de manera que podràs realitzar-les des d'on vulguis</value>
+  </data>
+  <data name="Block3Title" xml:space="preserve">
+    <value>Des d'on vulguis</value>
+  </data>
+  <data name="Block4Subtitle" xml:space="preserve">
+    <value>Omple la teva disponibilitat al teu calendari personal com més et convingui</value>
+  </data>
+  <data name="Block4Title" xml:space="preserve">
+    <value>Els teus propis horaris</value>
+  </data>
+  <data name="Block5Subtitles" xml:space="preserve">
+    <value>Organitza Meetups, conversa amb estudiants i guanya vots positius</value>
+  </data>
+  <data name="Block5Title" xml:space="preserve">
+    <value>Fes-te popular</value>
+  </data>
+  <data name="MainTitleP1" xml:space="preserve">
+    <value>Converteix-te</value>
+  </data>
+  <data name="MainTitleP2" xml:space="preserve">
+    <value>en tutor de Langademyk</value>
+  </data>
+  <data name="QuickStart" xml:space="preserve">
+    <value>Com començar</value>
+  </data>
+</root>

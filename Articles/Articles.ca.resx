@@ -147,13 +147,22 @@
   <data name="LearnEnglishTips" xml:space="preserve">
     <value>Com aprendre anglès en 3 senzills passos</value>
   </data>
+  <data name="PersonalPronouns" xml:space="preserve">
+    <value>Pronoms personals en anglès</value>
+  </data>
   <data name="SpanishTongueTwistersTitle" xml:space="preserve">
     <value>Embarbussaments en espanyol</value>
   </data>
   <data name="StudySpanish" xml:space="preserve">
     <value>Estudia Espanyol</value>
   </data>
+  <data name="TeachSpanish" xml:space="preserve">
+    <value>10 consells per ensenyar espanyol en línia a estrangers</value>
+  </data>
   <data name="VegetablesTitle" xml:space="preserve">
     <value>Verdures en espanyol: diferències i similituds amb l'anglès</value>
+  </data>
+  <data name="WasWere" xml:space="preserve">
+    <value>Was i Were- el seu ús correcte</value>
   </data>
 </root>

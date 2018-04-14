@@ -138,4 +138,16 @@
   <data name="PendingSchOpsCancelPError" xml:space="preserve">
     <value>Non è possibile annullare l'acquisto mentre sono in corso le operazioni di pianificazione delle lezioni</value>
   </data>
+  <data name="PurchaseCancelledByYou" xml:space="preserve">
+    <value>Hai cancellato l'acquisto</value>
+  </data>
+  <data name="PurchaseConfirmedByTeacher" xml:space="preserve">
+    <value>L'insegnante ha confermato il tuo acquisto</value>
+  </data>
+  <data name="PurchaseDate" xml:space="preserve">
+    <value>Data di acquisto</value>
+  </data>
+  <data name="PurchaseRejectedByTeacher" xml:space="preserve">
+    <value>Il professore ha rifiutato il tuo acquisto</value>
+  </data>
 </root>
