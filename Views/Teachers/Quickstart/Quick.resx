@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ActionCall1" xml:space="preserve">
-    <value>Solicita un puesto</value>
+    <value>Apply</value>
   </data>
   <data name="Block1SubTitle" xml:space="preserve">
     <value>Teach your native language and earn money, wherever you are, whenever you want.</value>

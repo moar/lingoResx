@@ -117,6 +117,39 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ActionCall1" xml:space="preserve">
+    <value>Solicita un puesto</value>
+  </data>
+  <data name="Block1SubTitle" xml:space="preserve">
+    <value>Enseña tu idioma nativo y gana dinero, desde donde quieras, cuando tú quieras</value>
+  </data>
+  <data name="Block2SubTitle" xml:space="preserve">
+    <value>Establece tu tarifa y gana dinero por enseñar tu idioma nativo a estudiantes de todo el mundo</value>
+  </data>
+  <data name="Block2Title" xml:space="preserve">
+    <value>Gana dinero</value>
+  </data>
+  <data name="Block3Subtitle" xml:space="preserve">
+    <value>Darás clases online a través de video conferencias, por lo que podrás trabajar desde donde quieras</value>
+  </data>
+  <data name="Block3Title" xml:space="preserve">
+    <value>Trabaja desde donde quieras</value>
+  </data>
+  <data name="Block4Subtitle" xml:space="preserve">
+    <value>Rellena tu disponibilidad en tu calendario personal. Podrás establecer el horario que más te convenga</value>
+  </data>
+  <data name="Block4Title" xml:space="preserve">
+    <value>Tus propios horarios</value>
+  </data>
+  <data name="Block5Subtitles" xml:space="preserve">
+    <value>Tú decides cuánto ganarás y el número de horas que inviertes en la plataforma</value>
+  </data>
+  <data name="Block5Title" xml:space="preserve">
+    <value>Tú estableces el límite</value>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>Preguntas frecuentes</value>
+  </data>
   <data name="General1" xml:space="preserve">
     <value>¿Qué es Langademy?</value>
   </data>
@@ -131,6 +164,15 @@
   </data>
   <data name="GeneralTitle" xml:space="preserve">
     <value>Preguntas generales</value>
+  </data>
+  <data name="HowToStart" xml:space="preserve">
+    <value>Cómo empezar</value>
+  </data>
+  <data name="MainTitleP1" xml:space="preserve">
+    <value>Conviértete</value>
+  </data>
+  <data name="MainTitleP2" xml:space="preserve">
+    <value>en profesor</value>
   </data>
   <data name="Prices1" xml:space="preserve">
     <value>Cuánto puedo ganar en Langademy?</value>
@@ -176,6 +218,12 @@
   </data>
   <data name="Req4Answer" xml:space="preserve">
     <value>Solo necesitas una webcam, un micrófono y una buena conexión a internet. Cuando solicites un puesto en Langademy, nos encargaremos de verificar que dispones de dichos requisitos. También deberás tener instalado una de las últimas versiones de Chrome o Firefox si deseas impartir clases en Langademy.</value>
+  </data>
+  <data name="Req5" xml:space="preserve">
+    <value>¿Cómo puedo conseguir estudiantes?</value>
+  </data>
+  <data name="Req5Answer" xml:space="preserve">
+    <value>Da mayor visibilidad a tu perfil. Habla sobre Langademy y promociona tu perfil en diferentes redes sociales (YouTube, Linkedin...) y en tus blogs. En lo demás, puedes estar tranquilo. En Langademy nos encargaremos de que los estudiantes quieran contratarte.</value>
   </data>
   <data name="RequirementsTitle" xml:space="preserve">
     <value>Requisitos</value>
