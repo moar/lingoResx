@@ -97,7 +97,7 @@ namespace Resources.Views.Teachers {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Make a lesson reservation in his/her profile. The best option for a test class is to choose the &quot;30 minutes lesson&quot; rate.
+        ///   Looks up a localized string similar to Go to the teacher profile for making a lesson reservation. The best option for a test class is to choose the &quot;30 minutes lesson&quot; rate.
         /// </summary>
         public static string TeachersTip3 {
             get {

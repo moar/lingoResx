@@ -700,6 +700,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Lesson purchase.
+        /// </summary>
+        public static string LOrderCompletedTitle {
+            get {
+                return ResourceManager.GetString("LOrderCompletedTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Balance.
         /// </summary>
         public static string MovBalance {
@@ -1209,6 +1218,24 @@ namespace Resources.Views.MyWallet {
         public static string ReceiptPurchaseCredits {
             get {
                 return ResourceManager.GetString("ReceiptPurchaseCredits", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your purchase has been recorded and you&apos;re being redirected to Paypal for completing the payment. Please, wait....
+        /// </summary>
+        public static string RedirectPaypal {
+            get {
+                return ResourceManager.GetString("RedirectPaypal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your purchase has been recorded and you&apos;re being redirected to the bank gateway for completing the payment. Please, wait....
+        /// </summary>
+        public static string RedirectRedsys {
+            get {
+                return ResourceManager.GetString("RedirectRedsys", resourceCulture);
             }
         }
         
