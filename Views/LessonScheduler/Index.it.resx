@@ -142,7 +142,49 @@
   <data name="LessonsTitle" xml:space="preserve">
     <value>Programmazione delle classi</value>
   </data>
+  <data name="PendingTeacherConfirmation" xml:space="preserve">
+    <value>In attesa di conferma da parte dell'insegnante</value>
+  </data>
+  <data name="PendingYourConfirmation" xml:space="preserve">
+    <value>In attesa di conferma</value>
+  </data>
+  <data name="RejectRescheduleRequestConf" xml:space="preserve">
+    <value>Si rifiuta la richiesta di modificare la data della lezione?</value>
+  </data>
+  <data name="ReqNewDateResch" xml:space="preserve">
+    <value>Seleziona la nuova data della lezione</value>
+  </data>
+  <data name="Rescheduling" xml:space="preserve">
+    <value>Rescheduling</value>
+  </data>
+  <data name="Scheduled" xml:space="preserve">
+    <value>Programmata</value>
+  </data>
+  <data name="StudentAcceptReschedule" xml:space="preserve">
+    <value>Lo studente ha accettato di riprogrammare la lezione</value>
+  </data>
+  <data name="StudentCancelled" xml:space="preserve">
+    <value>Cancellata dallo studente</value>
+  </data>
+  <data name="StudentMissed" xml:space="preserve">
+    <value>Lo studente ha perso la lezione</value>
+  </data>
+  <data name="StudentRejectedReschedule" xml:space="preserve">
+    <value>Lo studente ha rifiutato di riprogrammare la lezione. Data proposta: {0} {1} {2} </value>
+  </data>
+  <data name="StudentRequestedCancel" xml:space="preserve">
+    <value>Lo studente ha chiesto di cancellare</value>
+  </data>
   <data name="TeacherCancelled" xml:space="preserve">
     <value>Annullata dall'insegnante</value>
+  </data>
+  <data name="TeacherMissed" xml:space="preserve">
+    <value>Il professore si ha perso la lezione</value>
+  </data>
+  <data name="TeacherRejected" xml:space="preserve">
+    <value>Rifiutato dall'insegnante</value>
+  </data>
+  <data name="YouMissed" xml:space="preserve">
+    <value>Ti hai perso la classe!</value>
   </data>
 </root>

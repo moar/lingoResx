@@ -333,4 +333,7 @@
   <data name="tutors" xml:space="preserve">
     <value>tutores/</value>
   </data>
+  <data name="teachers-quickstart" xml:space="preserve">
+    <value>profesor-en-linea-idioma/empezar/</value>
+  </data>
 </root>

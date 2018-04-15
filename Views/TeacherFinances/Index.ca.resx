@@ -139,4 +139,10 @@
   <data name="TeacherFinancesTitle" xml:space="preserve">
     <value>Fons</value>
   </data>
+  <data name="Total" xml:space="preserve">
+    <value>Tolal</value>
+  </data>
+  <data name="ViewSale" xml:space="preserve">
+    <value>Veure venda</value>
+  </data>
 </root>

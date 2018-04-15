@@ -306,4 +306,7 @@
   <data name="LandTeachingArticles" xml:space="preserve">
     <value>Blog para profesores</value>
   </data>
+  <data name="LandTeacherQuicstart" xml:space="preserve">
+    <value>Cómo empezar</value>
+  </data>
 </root>

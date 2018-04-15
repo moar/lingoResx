@@ -593,6 +593,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Quickstart.
+        /// </summary>
+        public static string LandTeacherQuicstart {
+            get {
+                return ResourceManager.GetString("LandTeacherQuicstart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sign in as teacher.
         /// </summary>
         public static string LandTeacherSignIn {

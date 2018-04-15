@@ -138,4 +138,16 @@
   <data name="PendingSchOpsCancelPError" xml:space="preserve">
     <value>No es pot cancel·lar la compra mentre les operacions de programació de lectures estan en progrés</value>
   </data>
+  <data name="PurchaseCancelledByYou" xml:space="preserve">
+    <value>Has cancel·lat la compra</value>
+  </data>
+  <data name="PurchaseConfirmedByTeacher" xml:space="preserve">
+    <value>El professor ha confirmat la teva compra</value>
+  </data>
+  <data name="PurchaseDate" xml:space="preserve">
+    <value>Data de compra</value>
+  </data>
+  <data name="PurchaseRejectedByTeacher" xml:space="preserve">
+    <value>El professor ha rebutjat la teva compra</value>
+  </data>
 </root>

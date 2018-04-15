@@ -163,7 +163,7 @@
     <value>Pagar con Wallet</value>
   </data>
   <data name="PurchaseProcessed" xml:space="preserve">
-    <value>¡Tu compra se ha comletado! Ahora estás siendo redirigido a tu app Compras de Clases</value>
+    <value>¡Tu compra se ha completado! Ahora estás siendo redirigido a tu app Compras de Clases</value>
   </data>
   <data name="PurchaseProcessing" xml:space="preserve">
     <value>Tu compra está siendo procesada. Por favor, espera...</value>

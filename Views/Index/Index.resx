@@ -307,4 +307,7 @@
   <data name="LandTeachingArticles" xml:space="preserve">
     <value>Teaching articles</value>
   </data>
+  <data name="LandTeacherQuicstart" xml:space="preserve">
+    <value>Quickstart</value>
+  </data>
 </root>

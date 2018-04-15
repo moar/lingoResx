@@ -138,4 +138,25 @@
   <data name="PendingSchOpsConfirmPError" xml:space="preserve">
     <value>Non è possibile confermare la vendita mentre sono in corso le operazioni di pianificazione delle lezioni</value>
   </data>
+  <data name="PendingSchOpsRejectPError" xml:space="preserve">
+    <value>Non è possibile rifiutare la vendita mentre sono in corso le operazioni di pianificazione delle lezioni</value>
+  </data>
+  <data name="RejectDisabledPendingSch" xml:space="preserve">
+    <value>Non puoi rifiutare la vendita fino a quando le operazioni di pianificazione delle lezioni in corso non sono state completate</value>
+  </data>
+  <data name="RejectLessonSale" xml:space="preserve">
+    <value>Rifiutare la vendita di lezioni</value>
+  </data>
+  <data name="SaleDate" xml:space="preserve">
+    <value>Data di vendita</value>
+  </data>
+  <data name="StudentCancelledPurchase" xml:space="preserve">
+    <value>Lo studente ha annullato l'acquisto</value>
+  </data>
+  <data name="YouConfirmedSale" xml:space="preserve">
+    <value>Hai confermato la vendita</value>
+  </data>
+  <data name="YouRejectedSale" xml:space="preserve">
+    <value>Hai rifiutato la vendita</value>
+  </data>
 </root>

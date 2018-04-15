@@ -117,55 +117,115 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Agenda" xml:space="preserve">
-    <value>Agenda</value>
+  <data name="ActionCall1" xml:space="preserve">
+    <value>Solicita un puesto</value>
   </data>
-  <data name="Balance" xml:space="preserve">
-    <value>Saldo</value>
+  <data name="Block1SubTitle" xml:space="preserve">
+    <value>Enseña tu idioma nativo y gana dinero, desde donde quieras, cuando tú quieras</value>
   </data>
-  <data name="Expenses" xml:space="preserve">
-    <value>Despeses</value>
+  <data name="Block2SubTitle" xml:space="preserve">
+    <value>Establece tu tarifa y gana dinero por enseñar tu idioma nativo a estudiantes de todo el mundo</value>
   </data>
-  <data name="Finances" xml:space="preserve">
-    <value>Finances</value>
+  <data name="Block2Title" xml:space="preserve">
+    <value>Gana dinero</value>
   </data>
-  <data name="ForLangTeachers" xml:space="preserve">
-    <value>per a professors d'idiomes</value>
+  <data name="Block3Subtitle" xml:space="preserve">
+    <value>Darás clases online a través de video conferencias, por lo que podrás trabajar desde donde quieras</value>
   </data>
-  <data name="Incomes" xml:space="preserve">
-    <value>Ingressos</value>
+  <data name="Block3Title" xml:space="preserve">
+    <value>Trabaja desde donde quieras</value>
   </data>
-  <data name="LangForStudents" xml:space="preserve">
-    <value>Langademy per Estudiants</value>
+  <data name="Block4Subtitle" xml:space="preserve">
+    <value>Rellena tu disponibilidad en tu calendario personal. Podrás establecer el horario que más te convenga</value>
   </data>
-  <data name="Lessons" xml:space="preserve">
-    <value>classes</value>
+  <data name="Block4Title" xml:space="preserve">
+    <value>Tus propios horarios</value>
   </data>
-  <data name="LessonSales" xml:space="preserve">
-    <value>Vendes de classe</value>
+  <data name="Block5Subtitles" xml:space="preserve">
+    <value>Tú decides cuánto ganarás y el número de horas que inviertes en la plataforma</value>
   </data>
-  <data name="NewSales" xml:space="preserve">
-    <value>noves</value>
+  <data name="Block5Title" xml:space="preserve">
+    <value>Tú estableces el límite</value>
   </data>
-  <data name="OrGoTo" xml:space="preserve">
-    <value>o anar a</value>
+  <data name="FAQ" xml:space="preserve">
+    <value>Preguntas frecuentes</value>
   </data>
-  <data name="QuickStart" xml:space="preserve">
-    <value>Guia ràpida</value>
+  <data name="General1" xml:space="preserve">
+    <value>¿Qué es Langademy?</value>
   </data>
-  <data name="Students" xml:space="preserve">
-    <value>Estudiants</value>
+  <data name="General1Answer" xml:space="preserve">
+    <value>Langademy es una red social para aprender idiomas. La plataforma ofrece un punto de encuentro entre profesores y estudiantes de todo el mundo, donde los profesores pueden impartir conferencias a través de video llamadas en la propia plataforma.</value>
   </data>
-  <data name="TotalSales" xml:space="preserve">
-    <value>Total vendes</value>
+  <data name="General2" xml:space="preserve">
+    <value>¿Cómo y dónde puedo enseñar?</value>
   </data>
-  <data name="TotalStudents" xml:space="preserve">
-    <value>Total estudiants</value>
+  <data name="General2Answer" xml:space="preserve">
+    <value>En Langademy todas las clases las impartirás online, a través de la tecnología de videoconferencias de Langademy. Por lo tanto, podrás trabajar desde donde quieras con tu tableta u ordenador y una conexión a internet.</value>
   </data>
-  <data name="WantToLearnTeachers" xml:space="preserve">
-    <value>Vols aprendre sobre Langademy per a professors d'idiomes?</value>
+  <data name="GeneralTitle" xml:space="preserve">
+    <value>Preguntas generales</value>
   </data>
-  <data name="WelcomeLangad" xml:space="preserve">
-    <value>Benvingut a Langademy</value>
+  <data name="HowToStart" xml:space="preserve">
+    <value>Cómo empezar</value>
+  </data>
+  <data name="MainTitleP1" xml:space="preserve">
+    <value>Conviértete</value>
+  </data>
+  <data name="MainTitleP2" xml:space="preserve">
+    <value>en profesor</value>
+  </data>
+  <data name="Prices1" xml:space="preserve">
+    <value>Cuánto puedo ganar en Langademy?</value>
+  </data>
+  <data name="Prices1Answer" xml:space="preserve">
+    <value>Langademy no te pone ningún límite. Cuantas más clases impartas, más dinero ganarás. Tú establecerás tus propias tarifas, por lo que está en tus manos decidir cuánto trabajas y cuánto ganas por clase impartida.</value>
+  </data>
+  <data name="Prices2" xml:space="preserve">
+    <value>¿Quién establece las tarifas?</value>
+  </data>
+  <data name="Prices2Answer" xml:space="preserve">
+    <value>Los profesores establecen sus tarifas</value>
+  </data>
+  <data name="Prices3" xml:space="preserve">
+    <value>¿Cúando puedo retirar mi dinero de Langademy?</value>
+  </data>
+  <data name="Prices3Answer" xml:space="preserve">
+    <value>No tienes que esperar a fin de mes para poder recoger tus beneficios. Puedes solicitar la retirada de dinero cuando quieras.</value>
+  </data>
+  <data name="PricesTitle" xml:space="preserve">
+    <value>Precios y cobros</value>
+  </data>
+  <data name="Req1" xml:space="preserve">
+    <value>Horarios</value>
+  </data>
+  <data name="Req1Answer" xml:space="preserve">
+    <value>Langademy no establece restricciones en cuanto a los horarios. Cada profesor puede definir sus propios horarios en su calendario. Recuerda que si estableces un horario muy estricto, será más difícil que los alumnos te contraten.</value>
+  </data>
+  <data name="Req2" xml:space="preserve">
+    <value>¿Es necesario tener experiencia como profesor de idiomas?</value>
+  </data>
+  <data name="Req2Answer" xml:space="preserve">
+    <value>Sí, es necesario tener experiencia previa enseñando tu idioma nativo a estudiantes de otros idiomas. Deberás enviar tu CV y certificados (si los tienes) y Langademy revisará tu experiencia como profesor.</value>
+  </data>
+  <data name="Req3" xml:space="preserve">
+    <value>¿Necesito certificados de enseñanza de idiomas?</value>
+  </data>
+  <data name="Req3Answer" xml:space="preserve">
+    <value>Aunque no sea un requisito indispensable, se valorará positivamente tener certificados de enseñanza en el idioma nativo.</value>
+  </data>
+  <data name="Req4" xml:space="preserve">
+    <value>¿Qué tecnología necesito para usar Langademy?</value>
+  </data>
+  <data name="Req4Answer" xml:space="preserve">
+    <value>Solo necesitas una webcam, un micrófono y una buena conexión a internet. Cuando solicites un puesto en Langademy, nos encargaremos de verificar que dispones de dichos requisitos. También deberás tener instalado una de las últimas versiones de Chrome o Firefox si deseas impartir clases en Langademy.</value>
+  </data>
+  <data name="Req5" xml:space="preserve">
+    <value>¿Cómo puedo conseguir estudiantes?</value>
+  </data>
+  <data name="Req5Answer" xml:space="preserve">
+    <value>Da mayor visibilidad a tu perfil. Habla sobre Langademy y promociona tu perfil en diferentes redes sociales (YouTube, Linkedin...) y en tus blogs. En lo demás, puedes estar tranquilo. En Langademy nos encargaremos de que los estudiantes quieran contratarte.</value>
+  </data>
+  <data name="RequirementsTitle" xml:space="preserve">
+    <value>Requisitos</value>
   </data>
 </root>

@@ -117,4 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActionCall1" xml:space="preserve">
+    <value>Iscriviti ora</value>
+  </data>
+  <data name="Block1SubTitle" xml:space="preserve">
+    <value>Iscriviti e guadagna denaro per le conversazioni online nella tua lingua madre</value>
+  </data>
+  <data name="Block2SubTitle" xml:space="preserve">
+    <value>Imposta il tuo tasso e guadagna denaro per le conversazioni nella tua lingua madre</value>
+  </data>
+  <data name="Block2Title" xml:space="preserve">
+    <value>Guadagna soldi</value>
+  </data>
+  <data name="Block3Subtitle" xml:space="preserve">
+    <value>Avrete le vostre conversazioni in videoconferenza, in modo da essere in grado di farlo da dove vuoi.</value>
+  </data>
+  <data name="Block3Title" xml:space="preserve">
+    <value>Da dove vuoi</value>
+  </data>
+  <data name="Block4Subtitle" xml:space="preserve">
+    <value>Inserisci la tua disponibilità nel calendario personale come più ti conviene</value>
+  </data>
+  <data name="Block4Title" xml:space="preserve">
+    <value>Il  tuo proprio orario.</value>
+  </data>
+  <data name="Block5Subtitles" xml:space="preserve">
+    <value> Organizza meetups, parla con gli studenti e ottieni voti positivi</value>
+  </data>
+  <data name="Block5Title" xml:space="preserve">
+    <value>Diventa popolare</value>
+  </data>
+  <data name="MainTitleP1" xml:space="preserve">
+    <value>Diventa</value>
+  </data>
+  <data name="MainTitleP2" xml:space="preserve">
+    <value>in tutor di Langademyk</value>
+  </data>
+  <data name="QuickStart" xml:space="preserve">
+    <value>Come iniziare</value>
+  </data>
+</root>
