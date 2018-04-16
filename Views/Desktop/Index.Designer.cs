@@ -691,6 +691,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Search partners.
+        /// </summary>
+        public static string SearchPartners {
+            get {
+                return ResourceManager.GetString("SearchPartners", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Select the languages you want to learn and/or you know.
         /// </summary>
         public static string SelectLanguages {
