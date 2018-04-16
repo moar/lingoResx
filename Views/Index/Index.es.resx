@@ -309,4 +309,7 @@
   <data name="LandTeacherQuicstart" xml:space="preserve">
     <value>Cómo empezar</value>
   </data>
+  <data name="LandTeachersHowTo" xml:space="preserve">
+    <value>Comienza a ser profesor</value>
+  </data>
 </root>
