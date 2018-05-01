@@ -277,6 +277,15 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Five 60-min lessons.
+        /// </summary>
+        public static string FiveLessonsLong {
+            get {
+                return ResourceManager.GetString("FiveLessonsLong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Five lessons.
         /// </summary>
         public static string FiveLessonsRate {
@@ -403,7 +412,7 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rate per hour for purchasing 1 lesson.
+        ///   Looks up a localized string similar to One 60-min. lesson.
         /// </summary>
         public static string OneLessonLong {
             get {
@@ -538,7 +547,16 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ten lessons.
+        ///   Looks up a localized string similar to Ten 60-min lessons.
+        /// </summary>
+        public static string TenLessonsLong {
+            get {
+                return ResourceManager.GetString("TenLessonsLong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ten 60-min. lessons.
         /// </summary>
         public static string TenLessonsRate {
             get {
@@ -556,7 +574,7 @@ namespace Resources.Views.TeacherProfile {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rate per hour for purchasing 30 minutes lessons.
+        ///   Looks up a localized string similar to One 30-min. lesson.
         /// </summary>
         public static string ThirtyMinLong {
             get {
@@ -597,6 +615,24 @@ namespace Resources.Views.TeacherProfile {
         public static string ToOrExpected {
             get {
                 return ResourceManager.GetString("ToOrExpected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total hours.
+        /// </summary>
+        public static string TotalHours {
+            get {
+                return ResourceManager.GetString("TotalHours", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update rates.
+        /// </summary>
+        public static string UpdateRates {
+            get {
+                return ResourceManager.GetString("UpdateRates", resourceCulture);
             }
         }
         
@@ -660,15 +696,6 @@ namespace Resources.Views.TeacherProfile {
         public static string XLessons {
             get {
                 return ResourceManager.GetString("XLessons", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Rate per hour for purchasing {0} lessons.
-        /// </summary>
-        public static string XLessonsLong {
-            get {
-                return ResourceManager.GetString("XLessonsLong", resourceCulture);
             }
         }
         
