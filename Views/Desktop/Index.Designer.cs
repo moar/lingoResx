@@ -538,6 +538,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Find teachers and tutors.
+        /// </summary>
+        public static string FindTeachersTutors {
+            get {
+                return ResourceManager.GetString("FindTeachersTutors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Follow us.
         /// </summary>
         public static string FollowUs {
@@ -597,6 +606,33 @@ namespace Resources.Views.Desktop {
         public static string MyNextEvents {
             get {
                 return ResourceManager.GetString("MyNextEvents", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have a past lesson incompleted. Mark it as completed or report an issue.
+        /// </summary>
+        public static string NewLessonCompletePending {
+            get {
+                return ResourceManager.GetString("NewLessonCompletePending", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have a lesson reschedule request.
+        /// </summary>
+        public static string NewResqueduleRequest {
+            get {
+                return ResourceManager.GetString("NewResqueduleRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next lessons.
+        /// </summary>
+        public static string NextLessons {
+            get {
+                return ResourceManager.GetString("NextLessons", resourceCulture);
             }
         }
         
@@ -772,6 +808,15 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Certified teachers with experience on teaching non-native speakers.
+        /// </summary>
+        public static string TeachersDescr {
+            get {
+                return ResourceManager.GetString("TeachersDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to At this moment you have to select one more option besides using Langademy as a professional teacher.
         /// </summary>
         public static string TeacherValidate {
@@ -813,6 +858,33 @@ namespace Resources.Views.Desktop {
         public static string Tutoring {
             get {
                 return ResourceManager.GetString("Tutoring", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tutoring sessions.
+        /// </summary>
+        public static string TutoringSessions {
+            get {
+                return ResourceManager.GetString("TutoringSessions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Native speakers that provide paid conversations.
+        /// </summary>
+        public static string TutorsDescr {
+            get {
+                return ResourceManager.GetString("TutorsDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unscheduled lessons.
+        /// </summary>
+        public static string UnscheduledLessons {
+            get {
+                return ResourceManager.GetString("UnscheduledLessons", resourceCulture);
             }
         }
         

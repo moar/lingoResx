@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -241,7 +241,7 @@
     <value>Pay as you go</value>
   </data>
   <data name="TenLessonsRate" xml:space="preserve">
-    <value>Ten lessons</value>
+    <value>Ten 60-min. lessons</value>
   </data>
   <data name="AboutMe" xml:space="preserve">
     <value>About me</value>
@@ -271,7 +271,7 @@
     <value>New teacher</value>
   </data>
   <data name="OneLessonLong" xml:space="preserve">
-    <value>Rate per hour for purchasing 1 lesson</value>
+    <value>One 60-min. lesson</value>
   </data>
   <data name="PayAsYouGoLong" xml:space="preserve">
     <value>Pay as you go rate (Rate/hour)</value>
@@ -300,11 +300,11 @@
   <data name="VideoIntroduction" xml:space="preserve">
     <value>Video introduction</value>
   </data>
-  <data name="XLessonsLong" xml:space="preserve">
-    <value>Rate per hour for purchasing {0} lessons</value>
+  <data name="FiveLessonsLong" xml:space="preserve">
+    <value>Five 60-min lessons</value>
   </data>
   <data name="ThirtyMinLong" xml:space="preserve">
-    <value>Rate per hour for purchasing 30 minutes lessons</value>
+    <value>One 30-min. lesson</value>
   </data>
   <data name="ThirtyMinutesRate" xml:space="preserve">
     <value>30 minutes</value>
@@ -323,5 +323,14 @@
   </data>
   <data name="Lessons" xml:space="preserve">
     <value>lessons</value>
+  </data>
+  <data name="TenLessonsLong" xml:space="preserve">
+    <value>Ten 60-min lessons</value>
+  </data>
+  <data name="TotalHours" xml:space="preserve">
+    <value>Total hours</value>
+  </data>
+  <data name="UpdateRates" xml:space="preserve">
+    <value>Update rates</value>
   </data>
 </root>
