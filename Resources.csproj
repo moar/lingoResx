@@ -1025,10 +1025,13 @@
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexTutors\Index.ca.resx" />
     <EmbeddedResource Include="Views\IndexTutors\Index.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.es.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexTutors\Index.eu.resx" />
+    <EmbeddedResource Include="Views\IndexTutors\Index.it.resx" />
     <EmbeddedResource Include="Views\IndexTutors\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
@@ -1376,6 +1379,10 @@
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentClassroom\Index.ca.resx" />
+    <EmbeddedResource Include="Views\StudentClassroom\Index.es.resx" />
+    <EmbeddedResource Include="Views\StudentClassroom\Index.eu.resx" />
+    <EmbeddedResource Include="Views\StudentClassroom\Index.it.resx" />
     <EmbeddedResource Include="Views\StudentClassroom\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
@@ -1397,14 +1404,26 @@
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentsCenter\Index.ca.resx" />
+    <EmbeddedResource Include="Views\StudentsCenter\Index.es.resx" />
+    <EmbeddedResource Include="Views\StudentsCenter\Index.eu.resx" />
+    <EmbeddedResource Include="Views\StudentsCenter\Index.it.resx" />
     <EmbeddedResource Include="Views\StudentsCenter\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.ca.resx" />
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.es.resx" />
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.eu.resx" />
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.it.resx" />
     <EmbeddedResource Include="Views\TeacherClassroom\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\TeacherFinances\Index.ca.resx" />
+    <EmbeddedResource Include="Views\TeacherFinances\Index.es.resx" />
+    <EmbeddedResource Include="Views\TeacherFinances\Index.eu.resx" />
+    <EmbeddedResource Include="Views\TeacherFinances\Index.it.resx" />
     <EmbeddedResource Include="Views\TeacherFinances\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
@@ -1429,6 +1448,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.ca.resx" />
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.es.resx" />
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.eu.resx" />
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.it.resx" />
     <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Quick.Designer.cs</LastGenOutput>
