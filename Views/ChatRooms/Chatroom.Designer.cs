@@ -61,6 +61,15 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Back to meetup.
+        /// </summary>
+        public static string BackMeetup {
+            get {
+                return ResourceManager.GetString("BackMeetup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Advanced.
         /// </summary>
         public static string CRAdvanced {
@@ -412,6 +421,24 @@ namespace Resources.Views.ChatRooms {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Please, update your rates for wallet calls now.
+        /// </summary>
+        public static string CRWalletConditionGrantedContent {
+            get {
+                return ResourceManager.GetString("CRWalletConditionGrantedContent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Permissions for wallet calls updated.
+        /// </summary>
+        public static string CRWalletConditionGrantedTitle {
+            get {
+                return ResourceManager.GetString("CRWalletConditionGrantedTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You can&apos;t update your rate in this language.
         /// </summary>
         public static string CRWalletConditionHeading {
@@ -444,6 +471,42 @@ namespace Resources.Views.ChatRooms {
         public static string CRWriteTextbox {
             get {
                 return ResourceManager.GetString("CRWriteTextbox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The meetup is over. You can join another or schedule a new one.
+        /// </summary>
+        public static string MeetupOverNotAccess {
+            get {
+                return ResourceManager.GetString("MeetupOverNotAccess", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You must join the meetup before you can enter the room. Go back to the meetup page and click the &quot;{0}&quot; button.
+        /// </summary>
+        public static string NotParticipantNoAccess {
+            get {
+                return ResourceManager.GetString("NotParticipantNoAccess", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This meetup is for speaking {0}. You must add this language to your profile if you want to attend the meetup.
+        /// </summary>
+        public static string NotSpeaksNoAccess {
+            get {
+                return ResourceManager.GetString("NotSpeaksNoAccess", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View all {0} meetups.
+        /// </summary>
+        public static string ViewAllLangMeetups {
+            get {
+                return ResourceManager.GetString("ViewAllLangMeetups", resourceCulture);
             }
         }
     }

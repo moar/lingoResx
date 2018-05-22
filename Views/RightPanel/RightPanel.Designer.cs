@@ -97,7 +97,7 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Login to see your contacts.
+        ///   Looks up a localized string similar to Sign in to see your contacts.
         /// </summary>
         public static string ContactsNoLogged {
             get {
@@ -111,6 +111,15 @@ namespace Resources.Views.RightPanel {
         public static string Decline {
             get {
                 return ResourceManager.GetString("Decline", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in to open meetups.
+        /// </summary>
+        public static string MeetupsNoLogged {
+            get {
+                return ResourceManager.GetString("MeetupsNoLogged", resourceCulture);
             }
         }
         
@@ -160,7 +169,7 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Login to see your notifications.
+        ///   Looks up a localized string similar to Sign in to see your notifications.
         /// </summary>
         public static string NotificationsNoLogged {
             get {
@@ -367,7 +376,7 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Login to see your conversations.
+        ///   Looks up a localized string similar to Sign in to see your conversations.
         /// </summary>
         public static string RPRegForMessages {
             get {
@@ -376,7 +385,7 @@ namespace Resources.Views.RightPanel {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Login to see your chat rooms.
+        ///   Looks up a localized string similar to Sign in to see your chat rooms.
         /// </summary>
         public static string RPRegForRooms {
             get {
