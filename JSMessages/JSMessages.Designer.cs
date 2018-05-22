@@ -799,6 +799,15 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You cannot update your rates during a videocall.
+        /// </summary>
+        public static string NotUpdateInVideo {
+            get {
+                return ResourceManager.GetString("NotUpdateInVideo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Your browser does not support video calls.
         /// </summary>
         public static string NoWebrtc {

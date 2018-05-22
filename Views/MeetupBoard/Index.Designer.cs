@@ -19,7 +19,7 @@ namespace Resources.Views.MeetupBoard {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Index {
@@ -502,7 +502,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The meetup has begun! Go to the chat room and start speaking in {0} now.
+        ///   Looks up a localized string similar to The meetup has begun! Go to the meetup room and start speaking in {0} now.
         /// </summary>
         public static string MBMeetGetLangRouletteDuring {
             get {
@@ -511,7 +511,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The meetup is over. But remember that you can go to the chat room and &lt;b&gt;practice {0}&lt;/b&gt; when you want.
+        ///   Looks up a localized string similar to The meetup is over.
         /// </summary>
         public static string MBMeetGetLangRouletteEnded {
             get {
@@ -520,7 +520,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The meetup hasn&apos;t begun yet, but you can go to the chat room and &lt;b&gt;practice {0}&lt;/b&gt; when you want.
+        ///   Looks up a localized string similar to The meetup hasn&apos;t begun yet. Follow the next link to enter the meetup room when the meetup begins.
         /// </summary>
         public static string MBMeetGetLangRoulettePrev {
             get {
@@ -790,7 +790,7 @@ namespace Resources.Views.MeetupBoard {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are meetups at this time to speak on any of your languages. Attend an existing meetup instead of creating a new one.
+        ///   Looks up a localized string similar to There are meetups at this time to speak your languages. Attend an existing meetup instead of creating a new one.
         /// </summary>
         public static string MeetupsAllUserLanguages {
             get {
