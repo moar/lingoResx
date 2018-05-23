@@ -126,6 +126,12 @@
   <data name="ErrorSavingPleaseRetry" xml:space="preserve">
     <value>Error al guardar. Por favor, refresca la página e inténtalo de nuevo. Si el problema persiste contáctanos</value>
   </data>
+  <data name="FindTeacher" xml:space="preserve">
+    <value>Encuentra un profesor</value>
+  </data>
+  <data name="GoTo" xml:space="preserve">
+    <value>ir a</value>
+  </data>
   <data name="GoToStudents" xml:space="preserve">
     <value>Ir a Langademy para Estudiantes y activar perfil</value>
   </data>
@@ -137,6 +143,9 @@
   </data>
   <data name="HiNameExcl" xml:space="preserve">
     <value>¡Hola {0}!</value>
+  </data>
+  <data name="LangForTeachers" xml:space="preserve">
+    <value>Langademy para Profesores</value>
   </data>
   <data name="Language" xml:space="preserve">
     <value>Idioma</value>
@@ -174,6 +183,9 @@
   <data name="SavingDots" xml:space="preserve">
     <value>Guardando...</value>
   </data>
+  <data name="StartNow" xml:space="preserve">
+    <value>Empezar ya</value>
+  </data>
   <data name="Teacher" xml:space="preserve">
     <value>Profesor</value>
   </data>
@@ -191,5 +203,8 @@
   </data>
   <data name="ViewMore" xml:space="preserve">
     <value>Ver más</value>
+  </data>
+  <data name="ViewVideo" xml:space="preserve">
+    <value>Ver video</value>
   </data>
 </root>

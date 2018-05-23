@@ -1430,6 +1430,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.es.resx" />
     <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Quick.Designer.cs</LastGenOutput>

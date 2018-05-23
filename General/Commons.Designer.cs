@@ -88,6 +88,24 @@ namespace Resources.General {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Find a teacher.
+        /// </summary>
+        public static string FindTeacher {
+            get {
+                return ResourceManager.GetString("FindTeacher", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to go to.
+        /// </summary>
+        public static string GoTo {
+            get {
+                return ResourceManager.GetString("GoTo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Go to Langademy for students and activate your profile.
         /// </summary>
         public static string GoToStudents {
@@ -120,6 +138,15 @@ namespace Resources.General {
         public static string HiNameExcl {
             get {
                 return ResourceManager.GetString("HiNameExcl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Langademy for Teachers.
+        /// </summary>
+        public static string LangForTeachers {
+            get {
+                return ResourceManager.GetString("LangForTeachers", resourceCulture);
             }
         }
         
@@ -232,6 +259,15 @@ namespace Resources.General {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Start now.
+        /// </summary>
+        public static string StartNow {
+            get {
+                return ResourceManager.GetString("StartNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Teacher.
         /// </summary>
         public static string Teacher {
@@ -282,6 +318,15 @@ namespace Resources.General {
         public static string ViewMore {
             get {
                 return ResourceManager.GetString("ViewMore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View video.
+        /// </summary>
+        public static string ViewVideo {
+            get {
+                return ResourceManager.GetString("ViewVideo", resourceCulture);
             }
         }
     }

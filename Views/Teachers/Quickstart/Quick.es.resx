@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ActionCall1" xml:space="preserve">
-    <value>Solicita un puesto</value>
+    <value>Solicitar</value>
   </data>
   <data name="Block1SubTitle" xml:space="preserve">
-    <value>Enseña tu idioma nativo y gana dinero, desde donde quieras, cuando tú quieras</value>
+    <value>Enseña tu idioma nativo y gana dinero. Donde quieras y cuando quieras</value>
   </data>
   <data name="Block2SubTitle" xml:space="preserve">
-    <value>Establece tu tarifa y gana dinero por enseñar tu idioma nativo a estudiantes de todo el mundo</value>
+    <value>Pon tu tarifa y gana dinero enseñando tu idioma nativo a estudiantes de todo el mundo</value>
   </data>
   <data name="Block2Title" xml:space="preserve">
     <value>Gana dinero</value>
   </data>
   <data name="Block3Subtitle" xml:space="preserve">
-    <value>Darás clases online a través de video conferencias, por lo que podrás trabajar desde donde quieras</value>
+    <value>Darás las clases por videoconferencia, así que puedes trabajar desde donde quieras</value>
   </data>
   <data name="Block3Title" xml:space="preserve">
-    <value>Trabaja desde donde quieras</value>
+    <value>Desde donde quieras</value>
   </data>
   <data name="Block4Subtitle" xml:space="preserve">
-    <value>Rellena tu disponibilidad en tu calendario personal. Podrás establecer el horario que más te convenga</value>
+    <value>Completa tu disponibilidad en tu calendario personal. Puedes elegir los horarios que te vengan mejor</value>
   </data>
   <data name="Block4Title" xml:space="preserve">
-    <value>Tus propios horarios</value>
+    <value>A tu ritmo</value>
   </data>
   <data name="Block5Subtitles" xml:space="preserve">
-    <value>Tú decides cuánto ganarás y el número de horas que inviertes en la plataforma</value>
+    <value>Tú decides cuanto ganas y el número de horas que dedicas a la plataforma</value>
   </data>
   <data name="Block5Title" xml:space="preserve">
-    <value>Tú estableces el límite</value>
+    <value>Tú pones el límite</value>
   </data>
   <data name="FAQ" xml:space="preserve">
-    <value>Preguntas frecuentes</value>
+    <value>FAQ</value>
   </data>
   <data name="General1" xml:space="preserve">
     <value>¿Qué es Langademy?</value>
   </data>
   <data name="General1Answer" xml:space="preserve">
-    <value>Langademy es una red social para aprender idiomas. La plataforma ofrece un punto de encuentro entre profesores y estudiantes de todo el mundo, donde los profesores pueden impartir conferencias a través de video llamadas en la propia plataforma.</value>
+    <value>Langademy es una red social para aprender idiomas que pone en contacto a profesores y alumnos de todo el mundo. En esta plataforma los profesores dan clases mediante videoconferencia sin necesidad de usar otras herramientas como skype.</value>
   </data>
   <data name="General2" xml:space="preserve">
-    <value>¿Cómo y dónde puedo enseñar?</value>
+    <value>¿Dónde y cómo puedo enseñar?</value>
   </data>
   <data name="General2Answer" xml:space="preserve">
-    <value>En Langademy todas las clases las impartirás online, a través de la tecnología de videoconferencias de Langademy. Por lo tanto, podrás trabajar desde donde quieras con tu tableta u ordenador y una conexión a internet.</value>
+    <value>En Langademy las clases se imparten online usando la tecnología de videoconferencia de Langademy. Por tanto, puedes trabajar desde donde quieras con tu tablet u ordenador y una conexión a Internet.</value>
   </data>
   <data name="GeneralTitle" xml:space="preserve">
     <value>Preguntas generales</value>
@@ -169,61 +169,61 @@
     <value>Cómo empezar</value>
   </data>
   <data name="MainTitleP1" xml:space="preserve">
-    <value>Conviértete</value>
+    <value>Hazte</value>
   </data>
   <data name="MainTitleP2" xml:space="preserve">
-    <value>en profesor</value>
+    <value>profesor</value>
   </data>
   <data name="Prices1" xml:space="preserve">
-    <value>Cuánto puedo ganar en Langademy?</value>
+    <value>¿Cuánto puedo ganar en Langademy?</value>
   </data>
   <data name="Prices1Answer" xml:space="preserve">
-    <value>Langademy no te pone ningún límite. Cuantas más clases impartas, más dinero ganarás. Tú establecerás tus propias tarifas, por lo que está en tus manos decidir cuánto trabajas y cuánto ganas por clase impartida.</value>
+    <value>Langademy no te pone límites. Cuantas más clases des, más dinero ganarás. Tú pondrás tus propias tarifas, así que es cosa tuya decidir cuánto trabajarás y cuanto ganarás por cada clase.</value>
   </data>
   <data name="Prices2" xml:space="preserve">
-    <value>¿Quién establece las tarifas?</value>
+    <value>¿Quién pone las tarifas?</value>
   </data>
   <data name="Prices2Answer" xml:space="preserve">
-    <value>Los profesores establecen sus tarifas</value>
+    <value>Los profesores ponen sus propias tarifas</value>
   </data>
   <data name="Prices3" xml:space="preserve">
-    <value>¿Cúando puedo retirar mi dinero de Langademy?</value>
+    <value>¿Cuándo puedo retirar mis ganancias de Langademy?</value>
   </data>
   <data name="Prices3Answer" xml:space="preserve">
-    <value>No tienes que esperar a fin de mes para poder recoger tus beneficios. Puedes solicitar la retirada de dinero cuando quieras.</value>
+    <value>No tienes que esperar a fin de mes para que retires tus beneficios. Puedes solicitar un reintegro en cualquier momento. Langademy procesa las solicitudes varias veces al mes</value>
   </data>
   <data name="PricesTitle" xml:space="preserve">
-    <value>Precios y cobros</value>
+    <value>Precios y pagos</value>
   </data>
   <data name="Req1" xml:space="preserve">
     <value>Horarios</value>
   </data>
   <data name="Req1Answer" xml:space="preserve">
-    <value>Langademy no establece restricciones en cuanto a los horarios. Cada profesor puede definir sus propios horarios en su calendario. Recuerda que si estableces un horario muy estricto, será más difícil que los alumnos te contraten.</value>
+    <value>Langademy no pone restricciones de horarios. Los profesores pueden elegir los horarios que mejor les vengan. Pero ten en cuenta que si tu horario es demasiado restrictivo será más dificil que los estudiantes te contraten.</value>
   </data>
   <data name="Req2" xml:space="preserve">
     <value>¿Es necesario tener experiencia como profesor de idiomas?</value>
   </data>
   <data name="Req2Answer" xml:space="preserve">
-    <value>Sí, es necesario tener experiencia previa enseñando tu idioma nativo a estudiantes de otros idiomas. Deberás enviar tu CV y certificados (si los tienes) y Langademy revisará tu experiencia como profesor.</value>
+    <value>Sí, es necesario que tengas experiencia previa enseñando tu idioma nativo. Tendrás que enviarnos tu CV y certificados que prueben tu experiencia (si es que los tienes) y Langademy valorará tu experiencia para enseñar idiomas.</value>
   </data>
   <data name="Req3" xml:space="preserve">
-    <value>¿Necesito certificados de enseñanza de idiomas?</value>
+    <value>¿Tengo que estar certificado como profesor de idiomas?</value>
   </data>
   <data name="Req3Answer" xml:space="preserve">
-    <value>Aunque no sea un requisito indispensable, se valorará positivamente tener certificados de enseñanza en el idioma nativo.</value>
+    <value>Aunque no es un requisito, los certificados que demuestren tu capacitación para enseñar idiomas serán un plus</value>
   </data>
   <data name="Req4" xml:space="preserve">
     <value>¿Qué tecnología necesito para usar Langademy?</value>
   </data>
   <data name="Req4Answer" xml:space="preserve">
-    <value>Solo necesitas una webcam, un micrófono y una buena conexión a internet. Cuando solicites un puesto en Langademy, nos encargaremos de verificar que dispones de dichos requisitos. También deberás tener instalado una de las últimas versiones de Chrome o Firefox si deseas impartir clases en Langademy.</value>
+    <value>Todo lo que necesitas es una webcam, un micrófono y una buena conexión a Internet. Cuando envíes tu solicitud para enseñar en Langademy comprobaremos que cumples los requisitos. También tienes que utilizar la última versión de Chrome o Firefox. No necesitas instalar Skype ni ningún plugin. Langademy incluye su propia tecnología de videollamadas.</value>
   </data>
   <data name="Req5" xml:space="preserve">
     <value>¿Cómo puedo conseguir estudiantes?</value>
   </data>
   <data name="Req5Answer" xml:space="preserve">
-    <value>Da mayor visibilidad a tu perfil. Habla sobre Langademy y promociona tu perfil en diferentes redes sociales (YouTube, Linkedin...) y en tus blogs. En lo demás, puedes estar tranquilo. En Langademy nos encargaremos de que los estudiantes quieran contratarte.</value>
+    <value>Da visibilidad a tu perfil de profesor. Habla sobre Langademy y promociona tu perfil en diferentes redes sociales (tu canal de YouTube, Linkedin...) y blogs. En cualquier caso puedes estar seguro de que en Langademy ayudaremos para que haya estudiantes que quieran contratarte.</value>
   </data>
   <data name="RequirementsTitle" xml:space="preserve">
     <value>Requisitos</value>
