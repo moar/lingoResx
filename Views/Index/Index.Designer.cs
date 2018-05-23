@@ -88,6 +88,60 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Choose the teacher that best suits your learning goals. The teachers will offer you fully customised one-on-one lessons to make them as productive as possible.
+        /// </summary>
+        public static string IndBlock2CenterText {
+            get {
+                return ResourceManager.GetString("IndBlock2CenterText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customised courses.
+        /// </summary>
+        public static string IndBlock2CenterTitle {
+            get {
+                return ResourceManager.GetString("IndBlock2CenterTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to One of the most effective ways to learn a language is speaking with teachers and having individual attention. Langademy will put you in touch with the certified teachers that best suit your individual needs.
+        /// </summary>
+        public static string IndBlock2LeftText {
+            get {
+                return ResourceManager.GetString("IndBlock2LeftText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Learn with teachers online.
+        /// </summary>
+        public static string IndBlock2LeftTitle {
+            get {
+                return ResourceManager.GetString("IndBlock2LeftTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can take lessons when and where you want. You can choose the lessons that are best for your pocket and pay only for the lessons you book.
+        /// </summary>
+        public static string IndBlock2RightText {
+            get {
+                return ResourceManager.GetString("IndBlock2RightText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your own pace, your budget.
+        /// </summary>
+        public static string IndBlock2RightTitle {
+            get {
+                return ResourceManager.GetString("IndBlock2RightTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to If you don’t have time for language exchanges, don’t worry. At Langademy you will find native speakers with the best rates of the language market to practice languages when you want.
         /// </summary>
         public static string IndBlock2SubBlock1Text {
@@ -160,6 +214,15 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to How does {0} work?.
+        /// </summary>
+        public static string IndBlock3MainTitle {
+            get {
+                return ResourceManager.GetString("IndBlock3MainTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add credits to your Langademy Wallet.
         /// </summary>
         public static string IndBlock3Step1 {
@@ -192,6 +255,60 @@ namespace Resources.Views.Index {
         public static string IndBlock3Step4 {
             get {
                 return ResourceManager.GetString("IndBlock3Step4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Read teachers&apos; bios and watch their introduction videos.
+        /// </summary>
+        public static string IndBlock3SubText1 {
+            get {
+                return ResourceManager.GetString("IndBlock3SubText1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose the teachers that suit you best based on your schedule, budget and goals.
+        /// </summary>
+        public static string IndBlock3SubText2 {
+            get {
+                return ResourceManager.GetString("IndBlock3SubText2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Turn on your webcam, go to your online classroom at Langademy and your lesson begins.
+        /// </summary>
+        public static string IndBlock3SubText3 {
+            get {
+                return ResourceManager.GetString("IndBlock3SubText3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose a teacher.
+        /// </summary>
+        public static string IndBlock3Subtitle1 {
+            get {
+                return ResourceManager.GetString("IndBlock3Subtitle1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Book a lesson.
+        /// </summary>
+        public static string IndBlock3Subtitle2 {
+            get {
+                return ResourceManager.GetString("IndBlock3Subtitle2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start talking.
+        /// </summary>
+        public static string IndBlock3Subtitle3 {
+            get {
+                return ResourceManager.GetString("IndBlock3Subtitle3", resourceCulture);
             }
         }
         
@@ -273,6 +390,69 @@ namespace Resources.Views.Index {
         public static string IndBlock4Block3Title {
             get {
                 return ResourceManager.GetString("IndBlock4Block3Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language community.
+        /// </summary>
+        public static string IndBlock4MainTitle {
+            get {
+                return ResourceManager.GetString("IndBlock4MainTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Browse certififed languages teachers and take personalized lessons based on your needs and preferences.
+        /// </summary>
+        public static string IndBlock4SubText1 {
+            get {
+                return ResourceManager.GetString("IndBlock4SubText1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you just want to have paid conversations with native speakers? Tutors are your best option.
+        /// </summary>
+        public static string IndBlock4SubText2 {
+            get {
+                return ResourceManager.GetString("IndBlock4SubText2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This is your choice if you want to practice foreign languages for free. Find conversation exchange partners, schedule meetups and improve your language skills by texting or making online video calls with them.
+        /// </summary>
+        public static string IndBlock4SubText3 {
+            get {
+                return ResourceManager.GetString("IndBlock4SubText3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Certified teachers.
+        /// </summary>
+        public static string IndBlock4Subtitle1 {
+            get {
+                return ResourceManager.GetString("IndBlock4Subtitle1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tutors.
+        /// </summary>
+        public static string IndBlock4Subtitle2 {
+            get {
+                return ResourceManager.GetString("IndBlock4Subtitle2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language Exchanges.
+        /// </summary>
+        public static string IndBlock4Subtitle3 {
+            get {
+                return ResourceManager.GetString("IndBlock4Subtitle3", resourceCulture);
             }
         }
         
@@ -602,7 +782,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Teachers quickstart.
+        ///   Looks up a localized string similar to Quickstart.
         /// </summary>
         public static string LandTeachersHowTo {
             get {
@@ -611,7 +791,7 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in as teacher.
+        ///   Looks up a localized string similar to Sign up as teacher.
         /// </summary>
         public static string LandTeacherSignIn {
             get {
@@ -629,11 +809,38 @@ namespace Resources.Views.Index {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Teaching articles.
+        ///   Looks up a localized string similar to Blog.
         /// </summary>
         public static string LandTeachingArticles {
             get {
                 return ResourceManager.GetString("LandTeachingArticles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} teachers.
+        /// </summary>
+        public static string LangnameTeachers {
+            get {
+                return ResourceManager.GetString("LangnameTeachers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language learning.
+        /// </summary>
+        public static string LanguageLearning {
+            get {
+                return ResourceManager.GetString("LanguageLearning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language teachers.
+        /// </summary>
+        public static string LanguageTeachers {
+            get {
+                return ResourceManager.GetString("LanguageTeachers", resourceCulture);
             }
         }
         

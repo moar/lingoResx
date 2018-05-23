@@ -126,6 +126,12 @@
   <data name="ErrorSavingPleaseRetry" xml:space="preserve">
     <value>Error saving. Please, refresh the page and try again. If the problem persists, contact us</value>
   </data>
+  <data name="FindTeacher" xml:space="preserve">
+    <value>Find a teacher</value>
+  </data>
+  <data name="GoTo" xml:space="preserve">
+    <value>go to</value>
+  </data>
   <data name="GoToStudents" xml:space="preserve">
     <value>Go to Langademy for students and activate your profile</value>
   </data>
@@ -137,6 +143,9 @@
   </data>
   <data name="HiNameExcl" xml:space="preserve">
     <value>Hi {0}!</value>
+  </data>
+  <data name="LangForTeachers" xml:space="preserve">
+    <value>Langademy for Teachers</value>
   </data>
   <data name="Language" xml:space="preserve">
     <value>Language</value>
@@ -174,6 +183,9 @@
   <data name="SavingDots" xml:space="preserve">
     <value>Saving...</value>
   </data>
+  <data name="StartNow" xml:space="preserve">
+    <value>Start now</value>
+  </data>
   <data name="Teacher" xml:space="preserve">
     <value>Teacher</value>
   </data>
@@ -191,5 +203,8 @@
   </data>
   <data name="ViewMore" xml:space="preserve">
     <value>View more</value>
+  </data>
+  <data name="ViewVideo" xml:space="preserve">
+    <value>View video</value>
   </data>
 </root>

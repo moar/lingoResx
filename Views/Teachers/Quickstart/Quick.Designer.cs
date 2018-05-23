@@ -61,7 +61,7 @@ namespace Resources.Views.Teachers.Quickstart {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Solicita un puesto.
+        ///   Looks up a localized string similar to Apply.
         /// </summary>
         public static string ActionCall1 {
             get {
@@ -169,7 +169,7 @@ namespace Resources.Views.Teachers.Quickstart {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is a social network for language learning. The platform offers a meeting point for teachers and students from all over the world, where teachers can teach languages via video calls on the platform itself..
+        ///   Looks up a localized string similar to Langademy is a social network for language learning that puts in touch teachers and students from all over the world. This platform allows teachers to teach languages via video calls without third party tools like Skype..
         /// </summary>
         public static string General1Answer {
             get {
@@ -277,7 +277,7 @@ namespace Resources.Views.Teachers.Quickstart {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You don&apos;t have to wait until the end of the month to reap your benefits. You can request a withdrawal at any time..
+        ///   Looks up a localized string similar to You don&apos;t have to wait until the end of the month to reap your benefits. You can request a withdrawal at any time. Langademy processes withdrawals requests several times per month.
         /// </summary>
         public static string Prices3Answer {
             get {
@@ -358,7 +358,7 @@ namespace Resources.Views.Teachers.Quickstart {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All you need is a webcam, a microphone and a good internet connection. When you apply for a position at Langademy, we will ensure that you have these requirements in place. You must also have one of the latest versions of Chrome or Firefox installed if you want to teach at Langademy. Additionally, you don’t need to install Skype or any other plugins. Langademy has its own video call technology..
+        ///   Looks up a localized string similar to All you need is a webcam, a microphone and a good internet connection. When you apply for teaching at Langademy, we will ensure that you have these requirements in place. You must also have one of the latest versions of Chrome or Firefox installed if you want to teach at Langademy. Additionally, you don’t need to install Skype or any other plugins. Langademy has its own video call technology..
         /// </summary>
         public static string Req4Answer {
             get {
