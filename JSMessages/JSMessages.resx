@@ -555,4 +555,13 @@
   <data name="NotUpdateInVideo" xml:space="preserve">
     <value>You cannot update your rates during a videocall</value>
   </data>
+  <data name="confDelTeacherEdu" xml:space="preserve">
+    <value>Are you sure you want to delete this education line from your profile?</value>
+  </data>
+  <data name="confDelTeacherPosition" xml:space="preserve">
+    <value>Are you sure you want to delete this position from your profile?</value>
+  </data>
+  <data name="confDelTeacherRate" xml:space="preserve">
+    <value>Are you sure you want to delete your rates for teaching this language?</value>
+  </data>
 </root>

@@ -555,4 +555,13 @@
   <data name="NotUpdateInVideo" xml:space="preserve">
     <value>No puedes actualizar tus tarifas durante una videollamada</value>
   </data>
+  <data name="confDelTeacherEdu" xml:space="preserve">
+    <value>¿Estás seguro de que quieres eliminar esta formación de tu perfil?</value>
+  </data>
+  <data name="confDelTeacherPosition" xml:space="preserve">
+    <value>¿Estás seguro de que quieres eliminar esta experiencia profesional de tu perfil?</value>
+  </data>
+  <data name="confDelTeacherRate" xml:space="preserve">
+    <value>¿Estás seguro de que quieres eliminar tus tarifas para enseñar este idioma?</value>
+  </data>
 </root>

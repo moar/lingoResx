@@ -286,6 +286,33 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to delete this education line from your profile?.
+        /// </summary>
+        public static string confDelTeacherEdu {
+            get {
+                return ResourceManager.GetString("confDelTeacherEdu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to delete this position from your profile?.
+        /// </summary>
+        public static string confDelTeacherPosition {
+            get {
+                return ResourceManager.GetString("confDelTeacherPosition", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to delete your rates for teaching this language?.
+        /// </summary>
+        public static string confDelTeacherRate {
+            get {
+                return ResourceManager.GetString("confDelTeacherRate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Confirm.
         /// </summary>
         public static string Confirm {

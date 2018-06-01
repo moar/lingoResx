@@ -448,15 +448,6 @@ namespace Resources.Views.LessonSalesCommon {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Max length: {0} characters.
-        /// </summary>
-        public static string RepIssueMaxLength {
-            get {
-                return ResourceManager.GetString("RepIssueMaxLength", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Report issue.
         /// </summary>
         public static string ReportIssue {

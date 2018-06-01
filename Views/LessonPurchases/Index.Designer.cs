@@ -19,7 +19,7 @@ namespace Resources.Views.LessonPurchases {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Index {
@@ -57,6 +57,15 @@ namespace Resources.Views.LessonPurchases {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can add your review. This will be posted in the public profile of your teacher.
+        /// </summary>
+        public static string AddReviewTeacher {
+            get {
+                return ResourceManager.GetString("AddReviewTeacher", resourceCulture);
             }
         }
         
@@ -156,6 +165,42 @@ namespace Resources.Views.LessonPurchases {
         public static string PurchaseRejectedByTeacher {
             get {
                 return ResourceManager.GetString("PurchaseRejectedByTeacher", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How many stars does your teacher deserve?.
+        /// </summary>
+        public static string RateYourTeacher {
+            get {
+                return ResourceManager.GetString("RateYourTeacher", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rating.
+        /// </summary>
+        public static string Rating {
+            get {
+                return ResourceManager.GetString("Rating", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can give your rating when you complete a lesson.
+        /// </summary>
+        public static string RatingNotAllowed {
+            get {
+                return ResourceManager.GetString("RatingNotAllowed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your rating and review have been submitted successfully.
+        /// </summary>
+        public static string RatingSaved {
+            get {
+                return ResourceManager.GetString("RatingSaved", resourceCulture);
             }
         }
     }

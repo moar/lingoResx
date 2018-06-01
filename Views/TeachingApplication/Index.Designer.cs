@@ -115,6 +115,15 @@ namespace Resources.Views.TeachingApplication {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You must complete your invoicing address before submitting your application. Langademy will include that address in the invoice when you are billed for our service.
+        /// </summary>
+        public static string AppValBillingAddress {
+            get {
+                return ResourceManager.GetString("AppValBillingAddress", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You haven&apos;t uploaded any document that certifies your professional experience and education for teaching languages.
         /// </summary>
         public static string AppValDocuments {
