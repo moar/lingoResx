@@ -340,6 +340,15 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Click OK to confirm your purchase using your Wallet balance.
+        /// </summary>
+        public static string ConfPurchaseLessonWallet {
+            get {
+                return ResourceManager.GetString("ConfPurchaseLessonWallet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Connecting with {0}....
         /// </summary>
         public static string connectingWithPartner {

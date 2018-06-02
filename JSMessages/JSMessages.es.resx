@@ -564,4 +564,7 @@
   <data name="confDelTeacherRate" xml:space="preserve">
     <value>¿Estás seguro de que quieres eliminar tus tarifas para enseñar este idioma?</value>
   </data>
+  <data name="ConfPurchaseLessonWallet" xml:space="preserve">
+    <value>Haz click en OK para confirmar tu compra usando tu saldo de Wallet</value>
+  </data>
 </root>
