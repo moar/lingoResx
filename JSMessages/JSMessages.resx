@@ -564,4 +564,7 @@
   <data name="confDelTeacherRate" xml:space="preserve">
     <value>Are you sure you want to delete your rates for teaching this language?</value>
   </data>
+  <data name="ConfPurchaseLessonWallet" xml:space="preserve">
+    <value>Click OK to confirm your purchase using your Wallet balance</value>
+  </data>
 </root>
