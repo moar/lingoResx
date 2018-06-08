@@ -254,7 +254,7 @@
     <value>El estudiante ha solicitado reprogramar la clase. Nueva fecha de clase: {0} ({1} {2})</value>
   </data>
   <data name="StudentUnscheduled" xml:space="preserve">
-    <value>El estudiante desprogramó esta clase</value>
+    <value>El estudiante desprogramó esta clase: {0} ({1} {2})</value>
   </data>
   <data name="StudentUnscheduleRequest" xml:space="preserve">
     <value>El estudiante ha solicitado desprogramar esta clase</value>
@@ -347,7 +347,7 @@
     <value>El estudiante rechazó tu solución: Marcar la clase como Completada y quedarse con el 50% de los créditos.</value>
   </data>
   <data name="StudRejectedReschedule" xml:space="preserve">
-    <value>El estudiante rechazó tu solución: Propusiste reprogramar la clase.</value>
+    <value>El estudiante rechazó tu solución: Propusiste reprogramar la clase</value>
   </data>
   <data name="StudReportedIssue" xml:space="preserve">
     <value>El estudiante notificó problemas en esta clase.</value>
@@ -362,7 +362,7 @@
     <value>El profesor aceptó tu solución: La clase ha sido cancelada y el 50% de los créditos ha sido devuelto.</value>
   </data>
   <data name="TeachAcceptedCollect" xml:space="preserve">
-    <value>El profesor aceptó tu solución: La  clase ha sido marcada como Completada y el profesor recibió el 100% de los créditos</value>
+    <value>El profesor aceptó tu solución: La clase ha sido marcada como Completada y el profesor recibió el 100% de los créditos</value>
   </data>
   <data name="TeachAcceptedCollectHalf" xml:space="preserve">
     <value>El profesor aceptó tu solución: La clase ha sido marcada como Completada y el profesor recibirá el 50% de los créditos</value>
@@ -419,13 +419,13 @@
     <value>El estudiante ha propuesto esta solución</value>
   </data>
   <data name="TeachCancelledReport" xml:space="preserve">
-    <value>El </value>
+    <value>El problema reportado ha sido cancelado por el profesor</value>
   </data>
   <data name="TeacherProposedSolution" xml:space="preserve">
     <value>El profesor ha propuesto esta solución</value>
   </data>
   <data name="TeachRejectedCancelAndRefund" xml:space="preserve">
-    <value>El profesor rechazó tu solución: Cancelación de la clase y devoluciónd el 100% de los créditos</value>
+    <value>El profesor rechazó tu solución: Cancelación de la clase y devolución del 100% de los créditos</value>
   </data>
   <data name="TeachRejectedCancelAndRefundHalf" xml:space="preserve">
     <value>El profesor rechazó tu solución: Cancelación de la clase y devolución del 50% de los créditos.</value>
@@ -434,7 +434,7 @@
     <value>El profesor rechazó tu solución: Marcar la clase como Completada y pagar el 100% de los créditos</value>
   </data>
   <data name="TeachRejectedCollectHalf" xml:space="preserve">
-    <value>El profesor rechazón tu solución: Marcar la clase como Completada y pagar el 50% de los créditos</value>
+    <value>El profesor rechazó tu solución: Marcar la clase como Completada y pagar el 50% de los créditos</value>
   </data>
   <data name="TeachRejectedReschedule" xml:space="preserve">
     <value>El profesor rechazó tu solución: Propusiste reprogramar la clase</value>
@@ -446,7 +446,7 @@
     <value>El profesor solicitó la mediación de Langademy</value>
   </data>
   <data name="YouProposedSolution" xml:space="preserve">
-    <value>Propusite esta solución</value>
+    <value>Propusiste esta solución</value>
   </data>
   <data name="YouStudAcceptedCancelAndRefund" xml:space="preserve">
     <value>Aceptaste la solución del profesor: La clase ha sido cancelada yel 100% de los créditos han sido devueltos</value>

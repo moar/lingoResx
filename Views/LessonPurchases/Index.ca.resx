@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AddReviewTeacher" xml:space="preserve">
+    <value>Pots afegir la teva valoració. Serà visible en el perfil públic de professor</value>
+  </data>
   <data name="AllPurchases" xml:space="preserve">
     <value>Totes les compres</value>
   </data>
@@ -149,5 +152,17 @@
   </data>
   <data name="PurchaseRejectedByTeacher" xml:space="preserve">
     <value>El professor ha rebutjat la teva compra</value>
+  </data>
+  <data name="RateYourTeacher" xml:space="preserve">
+    <value>Quantes estrelles mereix el teu professor?</value>
+  </data>
+  <data name="Rating" xml:space="preserve">
+    <value>Valoració</value>
+  </data>
+  <data name="RatingNotAllowed" xml:space="preserve">
+    <value>Podràs donar la teva valoració quan completis una classe</value>
+  </data>
+  <data name="RatingSaved" xml:space="preserve">
+    <value>La teva classificació i valoració s'han enviat correctament</value>
   </data>
 </root>

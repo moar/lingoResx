@@ -202,7 +202,7 @@
     <value>È necessario inserire lo stato / provincia </value>
   </data>
   <data name="MWTaxId" xml:space="preserve">
-    <value>Codice fiscale</value>
+    <value>(Id IVA)</value>
   </data>
   <data name="MWZipCode" xml:space="preserve">
     <value>Codice postale</value>
@@ -364,7 +364,7 @@
     <value>Fatture</value>
   </data>
   <data name="CShopCashout" xml:space="preserve">
-    <value>Rimborso</value>
+    <value>Rimborsi</value>
   </data>
   <data name="CShopCreditShop" xml:space="preserve">
     <value>Negozio di crediti</value>
@@ -376,7 +376,7 @@
     <value>Conferma l'ordine e sarai reindirizzato a PayPal per completare il processo</value>
   </data>
   <data name="MWRedsysInfo" xml:space="preserve">
-    <value>Clic su Conferma e sarai reindirizzato al gateway di pagamento della banca per completare il processo</value>
+    <value>Clicca su Conferma e sarai reindirizzato al gateway di pagamento della banca per completare il processo. Servizio fornito da Bankinter</value>
   </data>
   <data name="OderCompletedBackMw" xml:space="preserve">
     <value>Torna a My Wallet</value>
@@ -409,7 +409,7 @@
     <value>Rimborso di crediti Langademy</value>
   </data>
   <data name="ReqCashoutEnterAmmount" xml:space="preserve">
-    <value>Inserisci il numero di crediti per il rimborso</value>
+    <value>Inserisci l'importo del rimborso</value>
   </data>
   <data name="ReqCashoutMethodConfirm" xml:space="preserve">
     <value>Conferma un metodo di rimborso o </value>
@@ -445,13 +445,13 @@
     <value>SALDO TOTALE</value>
   </data>
   <data name="MWMovementInfo" xml:space="preserve">
-    <value>Alla fine del mese Langademy caricherà una commissione per i colloqui mantenuti come madrelingua. Vedrai la commissione riflessa nella fattura successiva. Non si potrà togliere la commissione dal tuo conto fino a quando la prossima fattura sia emessa da noi, ma non ti sarà possibile utilizzare il saldo mantenuto per altri acquisti. Inoltre, se hai richiesto un rimborso, l'importo richiesto non può essere usato per fare acquisti.</value>
+    <value>Alla fine del mese Langademy vi addebiterà una commissione per le videochiamate Wallet che avete tenuto come madrelingua. La commissione sul tuo conto non verrà addebitata fino a quando non emetteremo la fattura successiva, ma tale importo verrà trattenuto e non sarà possibile spenderlo. Inoltre, se hai richiesto un rimborso, non sarai in grado di spendere l'importo richiesto. </value>
   </data>
   <data name="CashoutCreatePW" xml:space="preserve">
     <value>Creare</value>
   </data>
   <data name="CashoutCreatePWSent" xml:space="preserve">
-    <value>Non disponi di un account locale. È necessario creare una password per l'account, se vuoi modificare i dati di fatturazione</value>
+    <value>Non disponi di un account Langademy. È necessario creare una password per l'account, se vuoi modificare i dati di fatturazione</value>
   </data>
   <data name="CashOutPanAmount" xml:space="preserve">
     <value>Quantità</value>
@@ -517,7 +517,7 @@
     <value>Importo massimo di ritiro</value>
   </data>
   <data name="WalletMaxWithdrawal" xml:space="preserve">
-    <value>L'importo massimo per il ritiro sono {0} crediti</value>
+    <value>L'importo massimo per una richiesta di rimborso sono {0} crediti</value>
   </data>
   <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
     <value>La richiesta di ritiro durante la video-chiamata in corso non è consentita</value>
@@ -584,5 +584,47 @@
   </data>
   <data name="NoWithdrawals" xml:space="preserve">
     <value>Non ci sono operazioni di prelievo in questo periodo</value>
+  </data>
+  <data name="LessonPurchaseConcept" xml:space="preserve">
+    <value>Acquisto di lezioni di {0}: ({1})</value>
+  </data>
+  <data name="RefundLessonPurchaseConcept" xml:space="preserve">
+    <value>Rimborso per l'acquisto di lezioni di {0}: ({1})</value>
+  </data>
+  <data name="LessonCollectedConcept" xml:space="preserve">
+    <value>Lezione caricata: {0} - {1}</value>
+  </data>
+  <data name="LessonRefundStudentConcept" xml:space="preserve">
+    <value>Rimborso lezione di  {0} - {1}</value>
+  </data>
+  <data name="LessonRefundTeacherConcept" xml:space="preserve">
+    <value>Rimborso lezione di  {0} - {1}</value>
+  </data>
+  <data name="StudentAccount" xml:space="preserve">
+    <value>Studente</value>
+  </data>
+  <data name="TeacherAccount" xml:space="preserve">
+    <value>Insegnante</value>
+  </data>
+  <data name="AreYouCompany" xml:space="preserve">
+    <value>Sei una società o un esperto?</value>
+  </data>
+  <data name="EUVatIdValidation" xml:space="preserve">
+    <value>Convalida dell'Id IVA</value>
+  </data>
+  <data name="InvalidVATIdWarning" xml:space="preserve">
+    <value>Il vostro (Id IVA) non ha potuto essere convalidato con {0}. Pertanto Langademy addebiterà l'IVA sulle nostre fatture.</value>
+  </data>
+  <data name="OrCompanyName" xml:space="preserve">
+    <value>o nome della società</value>
+  </data>
+  <data name="RedirectPaypal" xml:space="preserve">
+    <value>Il tuo acquisto è stato registrato e stai per essere reindirizzato a Paypal per completare il pagamento. Si prega di attendere.....</value>
+  </data>
+  <data name="RedirectRedsys" xml:space="preserve">
+    <value>Il tuo acquisto è stato registrato e stai per essere reindirizzato al gateway della banca per completare il pagamento. Si prega di attendere.....</value>
+  </data>
+  <data name="LOrderCompletedTitle" xml:space="preserve">
+    <value>Acquisto di lezioni</value>
   </data>
 </root>

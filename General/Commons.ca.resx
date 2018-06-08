@@ -126,6 +126,12 @@
   <data name="ErrorSavingPleaseRetry" xml:space="preserve">
     <value>Error en desar. Si us plau, refresca la pàgina i torneu a provar. Si el problema persisteix contacta'ns</value>
   </data>
+  <data name="FindTeacher" xml:space="preserve">
+    <value>Troba un professor</value>
+  </data>
+  <data name="GoTo" xml:space="preserve">
+    <value>anar a</value>
+  </data>
   <data name="GoToStudents" xml:space="preserve">
     <value>Anar a Langademy per a Estudiants i activar perfil</value>
   </data>
@@ -136,7 +142,10 @@
     <value>Hola {0} </value>
   </data>
   <data name="HiNameExcl" xml:space="preserve">
-    <value>Hola {0} !K</value>
+    <value>Hola {0} !</value>
+  </data>
+  <data name="LangForTeachers" xml:space="preserve">
+    <value>Langademy per a professors</value>
   </data>
   <data name="Language" xml:space="preserve">
     <value>Idioma</value>
@@ -165,19 +174,37 @@
   <data name="NumChars" xml:space="preserve">
     <value>{0} caràcters</value>
   </data>
+  <data name="Price" xml:space="preserve">
+    <value>Preu</value>
+  </data>
   <data name="Saved" xml:space="preserve">
     <value>Guardat</value>
   </data>
   <data name="SavingDots" xml:space="preserve">
     <value>Guardar...</value>
   </data>
+  <data name="StartNow" xml:space="preserve">
+    <value>Començar ja</value>
+  </data>
   <data name="Teacher" xml:space="preserve">
     <value>Professor</value>
+  </data>
+  <data name="Teachers" xml:space="preserve">
+    <value>Professors</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Tutors" xml:space="preserve">
+    <value>Tutors</value>
   </data>
   <data name="View" xml:space="preserve">
     <value>Veure</value>
   </data>
   <data name="ViewMore" xml:space="preserve">
     <value>Veure més</value>
+  </data>
+  <data name="ViewVideo" xml:space="preserve">
+    <value>Veure vídeo</value>
   </data>
 </root>

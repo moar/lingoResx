@@ -181,10 +181,11 @@
     <value>Scambio di lingue - Langademy </value>
   </data>
   <data name="IndexNativesDescription" xml:space="preserve">
-    <value>Se ti piace parlare con la gente, ora è possibile guadagnare denaro, mantenendo le conversazioni nella tua lingua. Entra in chat e incontra persone che vogliono apprendere la tua lingua!</value>
+    <value>Se non hai tempo per gli scambi e vuoi avere conversazioni con persone di madrelingua, questo è il tuo sito.
+</value>
   </data>
   <data name="IndexNativesTitle" xml:space="preserve">
-    <value>Langademy: guadagna soldi come un partner di conversazione</value>
+    <value>Partner di conversazione madrelingua</value>
   </data>
   <data name="IndexStudentsDescription" xml:space="preserve">
     <value>Parla con un madrelingua e migliorare la fluidità! Hai due opzioni: si può fare scambi linguistici o pagare un madrelingua per conversare con te.</value>
@@ -242,5 +243,18 @@
   </data>
   <data name="MainContactDesc" xml:space="preserve">
     <value>Vuoi inviarci un messaggio? Contattaci  su questo modulo</value>
+  </data>
+  <data name="IndexTeachersTitle" xml:space="preserve">
+    <value>Diventa insegnante online | Langademy</value>
+  </data>
+  <data name="IndexTeachersDescription" xml:space="preserve">
+    <value>Se vuoi insegnare lingue online, fai domanda per un posto presso Langademy. Lavora da casa e quando vuoi.
+</value>
+  </data>
+  <data name="TeachersDescription" xml:space="preserve">
+    <value>Vuoi insegnare una lingua online? Vi offriamo un ambiente di lavoro online dove potete insegnare le lingue da casa.</value>
+  </data>
+  <data name="TeachersMainTitle" xml:space="preserve">
+    <value>Insegna lingue</value>
   </data>
 </root>

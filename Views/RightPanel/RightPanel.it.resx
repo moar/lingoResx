@@ -199,7 +199,7 @@
     <value>Ok</value>
   </data>
   <data name="RPFilterOnline" xml:space="preserve">
-    <value>Solo on-line</value>
+    <value>Solo utenti on-line</value>
   </data>
   <data name="RPFilterTalkedTo" xml:space="preserve">
     <value>Persone con cui hai chiacchierato</value>
@@ -245,5 +245,23 @@
   </data>
   <data name="RPFilterStudents" xml:space="preserve">
     <value>Studenti</value>
+  </data>
+  <data name="RPCandidateMess" xml:space="preserve">
+    <value>Questo pannello sarà attivo quando la tua richiesta sarà approvata</value>
+  </data>
+  <data name="RPOnlyStudents" xml:space="preserve">
+    <value>Questa opzione è solo per gli studenti</value>
+  </data>
+  <data name="RPOnlyTeachers" xml:space="preserve">
+    <value>Questa opzione è riservata esclusivamente agli insegnanti accreditati</value>
+  </data>
+  <data name="RPSignWithStudent" xml:space="preserve">
+    <value>Per favore, accedi con un account studente</value>
+  </data>
+  <data name="RPSignWithTeacher" xml:space="preserve">
+    <value>Per favore, effettua il login con un account insegnante</value>
+  </data>
+  <data name="MeetupsNoLogged" xml:space="preserve">
+    <value>Effettua il login per accedere a meetups</value>
   </data>
 </root>

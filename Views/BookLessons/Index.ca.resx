@@ -168,6 +168,9 @@
   <data name="PurchaseProcessing" xml:space="preserve">
     <value>La teva compra està sent processada. Si us plau, espera ...</value>
   </data>
+  <data name="Recharge" xml:space="preserve">
+    <value>Recarregar</value>
+  </data>
   <data name="RechargeAndPay" xml:space="preserve">
     <value>Recarrega del teu Wallet i pagar</value>
   </data>
@@ -179,5 +182,26 @@
   </data>
   <data name="SelectRate" xml:space="preserve">
     <value>Seleccionar tarifa</value>
+  </data>
+  <data name="SignBefore" xml:space="preserve">
+    <value>Has d'iniciar sessió per a continuar amb la compra</value>
+  </data>
+  <data name="TeacherChangedAvailability" xml:space="preserve">
+    <value>El professor ha canviat el seu calendari de disponibilitat. Si us plau, refresca la pàgina i reserva la classe de nou</value>
+  </data>
+  <data name="TenFeat1" xml:space="preserve">
+    <value>Comprar un pack de 10 classes (1 hora cadascuna)</value>
+  </data>
+  <data name="ThirtyFeat1" xml:space="preserve">
+    <value>Pagar per 1 classe de 30 minuts</value>
+  </data>
+  <data name="ThirtyFeat2" xml:space="preserve">
+    <value>Aquesta és la millor opció per a la primera classe</value>
+  </data>
+  <data name="WalletBalance" xml:space="preserve">
+    <value>Saldo Wallet</value>
+  </data>
+  <data name="WalletBalanceChanged" xml:space="preserve">
+    <value>El teu saldo de Wallet ha canviat. Si us plau, refresca la pàgina i reserva la classe de nou</value>
   </data>
 </root>

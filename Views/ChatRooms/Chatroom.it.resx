@@ -187,10 +187,10 @@
     <value>Partecipanti</value>
   </data>
   <data name="CRWalletCondition1Content" xml:space="preserve">
-    <value>È necessario avere almeno {0} voti positivi in conversazioni di {1}. Vai nella stanza Banca del Tempo di {1}, effettua videochiamate e ottieni un feedback positivo!</value>
+    <value>È necessario definire la disponibilità per le chiamate Wallet nel calendario. Vai su {0} e compila il modulo di disponibilità per questo mese.</value>
   </data>
   <data name="CRWalletCondition1Title" xml:space="preserve">
-    <value>Guadagna reputazione:</value>
+    <value>Compila la tua disponibilità:</value>
   </data>
   <data name="CRWalletCondition2Content" xml:space="preserve">
     <value>Vai al tuo {0} e aggiunge i tuoi dati di fatturazione</value>
@@ -243,5 +243,29 @@
   </data>
   <data name="CRTBAvailable" xml:space="preserve">
     <value>Chiamate Banca del Tempo</value>
+  </data>
+  <data name="CRConditionCalendar" xml:space="preserve">
+    <value>Il tuo candelario</value>
+  </data>
+  <data name="CRWalletConditionGrantedContent" xml:space="preserve">
+    <value>Per favore, aggiorna ora le tariffe Wallet</value>
+  </data>
+  <data name="CRWalletConditionGrantedTitle" xml:space="preserve">
+    <value>Autorizzazioni aggiornate per le chiamate Wallet</value>
+  </data>
+  <data name="BackMeetup" xml:space="preserve">
+    <value>Ritornare al meetup</value>
+  </data>
+  <data name="MeetupOverNotAccess" xml:space="preserve">
+    <value>Il meetup è terminato. È possibile unirsi ad un altro o pianificarne uno nuovo</value>
+  </data>
+  <data name="NotParticipantNoAccess" xml:space="preserve">
+    <value>Devi registrarti per il meetup prima di poter entrare nella stanza. Ritorna alla pagina di meetup e clicca sul pulsante  "{0}"</value>
+  </data>
+  <data name="NotSpeaksNoAccess" xml:space="preserve">
+    <value>Questo meetup serve per parlare {0}. È necessario aggiungere questa lingua al tuo profilo se vuoi unirti a questo meetup</value>
+  </data>
+  <data name="ViewAllLangMeetups" xml:space="preserve">
+    <value>Visualizza tutt  i meetups di {0} </value>
   </data>
 </root>

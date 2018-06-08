@@ -241,7 +241,7 @@
     <value> Prem sobre el teu nom i vés a Edita Perfil per afegir els idiomes que vols practicar</value>
   </data>
   <data name="LeaveAppConfirmation" xml:space="preserve">
-    <value> Estàs segur de voler sortir?</value>
+    <value>Estàs segur de voler sortir?</value>
   </data>
   <data name="LeaveCall" xml:space="preserve">
     <value> Vas a sortir de la videotrucada, estàs segur?</value>
@@ -280,10 +280,10 @@
     <value> S'ha perdut la connexió amb els servidors de Langademy. Intenta fer la trucada quan s'hagi restablert la connexió.</value>
   </data>
   <data name="NoCameraNorMic" xml:space="preserve">
-    <value> No hem pogut detectar una càmera web ni un micròfon en el dispositiu del teu company, la trucada es donarà per finalitzada</value>
+    <value>No hem pogut detectar una càmera web ni un micròfon en el dispositiu del teu company, la trucada es donarà per finalitzada</value>
   </data>
   <data name="NoCamTitle" xml:space="preserve">
-    <value>  Càmera i micròfon no detectat </value>
+    <value>  Càmera i micròfon no detectats</value>
   </data>
   <data name="NoChatHours" xml:space="preserve">
     <value> Notificació del Banc de Temps</value>
@@ -298,7 +298,7 @@
     <value> No hem pogut detectar una càmera web ni un micròfon en el teu dispositiu, la trucada es donarà per finalitzada</value>
   </data>
   <data name="NoOwnMediaAcceptance" xml:space="preserve">
-    <value> No has donat accés al teu navegador per fer servir la càmera/micròfon. Pots donar accés al teu navegador i seguir amb la trucada o acabar la trucada</value>
+    <value>No has donat accés al teu navegador per fer servir la càmera/micròfon. Pots donar accés al teu navegador i seguir amb la trucada o acabar la trucada</value>
   </data>
   <data name="NoSupported" xml:space="preserve">
     <value> El teu navegador no suporta aquesta pàgina</value>
@@ -313,7 +313,7 @@
     <value> Aquest navegador no soporta les videotrucades</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
-    <value> Has finalitzat la trucada</value>
+    <value>Has finalitzat la trucada</value>
   </data>
   <data name="Participants" xml:space="preserve">
     <value> Participants</value>
@@ -334,13 +334,13 @@
     <value> Fi de la conversa privada</value>
   </data>
   <data name="ProfileEdit" xml:space="preserve">
-    <value> Edició de Perfil</value>
+    <value>Edició de Perfil</value>
   </data>
   <data name="ProfileTripStep1" xml:space="preserve">
     <value> Afegeix els idiomes que saps o que vols aprendre. Només podràs entrar a la sales dels idiomes que afegeixis al teu perfil.</value>
   </data>
   <data name="ProfileTripStep2" xml:space="preserve">
-    <value> Sempre pots tornar a la pantalla principal clicant el botó casa</value>
+    <value>Sempre pots tornar a la pantalla principal clicant el botó casa</value>
   </data>
   <data name="rejectreqMB" xml:space="preserve">
     <value> Estàs segur que vols rebutjar aquesta sol·licitud de conversa?</value>
@@ -349,7 +349,7 @@
     <value> {0} ha finalitzat la trucada</value>
   </data>
   <data name="RequestConv" xml:space="preserve">
-    <value> Request conversation</value>
+    <value>Sol·licitar una conversa</value>
   </data>
   <data name="RoomTripStep1" xml:space="preserve">
     <value> Clica el botó de menú per a veure les opcions</value>
@@ -358,7 +358,7 @@
     <value> Clica sobre un usuari connectat per fer trucades de vídeo, visitar el seu perfil, o enviar-los una sol·licitud de contacte</value>
   </data>
   <data name="RoomTripStep3" xml:space="preserve">
-    <value> Podràs fer videotrucades i tenir xats privats amb els teus contactes sense entrar a les sales</value>
+    <value>Podràs fer videotrucades i tenir xats privats amb els teus contactes sense entrar a les sales</value>
   </data>
   <data name="RoomTripStep4" xml:space="preserve">
     <value> Mira les següents quedades d'aquesta sala!</value>
@@ -418,7 +418,7 @@
     <value> Videotrucades</value>
   </data>
   <data name="WaitingForCamera" xml:space="preserve">
-    <value> Esperant el permís per poder utilitzar la teva càmera...</value>
+    <value>Esperant que donis al teu navegador els permisos per poder utilitzar la teva càmera ...</value>
   </data>
   <data name="WalletRateTitle" xml:space="preserve">
     <value> Tarifa de la sala Wallet</value>
@@ -448,7 +448,7 @@
     <value>El dia {0} de cada mes</value>
   </data>
   <data name="bymonthdayinterv" xml:space="preserve">
-    <value>El dia {0} cada {1} mesos</value>
+    <value>El dia {0} cada {1} mesos </value>
   </data>
   <data name="bymonthsetpos" xml:space="preserve">
     <value>El {0} {1} de cada mes</value>
@@ -463,13 +463,13 @@
     <value>Cada {0} dies</value>
   </data>
   <data name="First" xml:space="preserve">
-    <value>El primer</value>
+    <value>primer</value>
   </data>
   <data name="Fourth" xml:space="preserve">
-    <value>El quart</value>
+    <value>quart</value>
   </data>
   <data name="Last" xml:space="preserve">
-    <value>L'últim</value>
+    <value>últim</value>
   </data>
   <data name="rrulecount" xml:space="preserve">
     <value>{0} vegades</value>
@@ -478,7 +478,7 @@
     <value>comença el {0}</value>
   </data>
   <data name="rruleonlyonce" xml:space="preserve">
-    <value>Només una vegada</value>
+    <value>només una vegada</value>
   </data>
   <data name="rruletimespan" xml:space="preserve">
     <value>de {0} a {1}</value>
@@ -487,10 +487,10 @@
     <value>fins al {0}</value>
   </data>
   <data name="Second" xml:space="preserve">
-    <value>El segon</value>
+    <value>segon</value>
   </data>
   <data name="Third" xml:space="preserve">
-    <value>El tercer</value>
+    <value>tercer</value>
   </data>
   <data name="weeklyfreq" xml:space="preserve">
     <value>Cada setmana, els {0}</value>
@@ -499,12 +499,66 @@
     <value>Cada {0} setmanes, els {1}</value>
   </data>
   <data name="EditAvailability" xml:space="preserve">
-    <value>Edit availability</value>
+    <value>Editar disponibilitat</value>
   </data>
   <data name="NewAvailability" xml:space="preserve">
-    <value>New availability</value>
+    <value>Nova disponibilitat</value>
+  </data>
+  <data name="seldateoneless" xml:space="preserve">
+    <value>Selecciona la data de la teva classe</value>
+  </data>
+  <data name="seldatepack" xml:space="preserve">
+    <value>Selecciona almenys la data de la teva primera classe. Pots programar la resta en qualsevol altre moment</value>
+  </data>
+  <data name="seldatepago" xml:space="preserve">
+    <value>Selecciona la data de la teva classe (mínim: 30 minuts, màxim: 2 hores)</value>
+  </data>
+  <data name="cancelunanpurchase" xml:space="preserve">
+    <value>Estàs segur que vols cancel·lar la teva compra? Els teus crèdits seran reintegrats al teu compte Wallet</value>
+  </data>
+  <data name="acceptunanpurchase" xml:space="preserve">
+    <value>¿Confirmes que acceptes aquesta compra? Les classes planificades s'afegiran al teu calendari</value>
+  </data>
+  <data name="rejectunanpurchase" xml:space="preserve">
+    <value>Estàs segur que vols rebutjar aquesta compra? Assegura't que l'estudiant entén el motiu</value>
+  </data>
+  <data name="RescheduleLesson" xml:space="preserve">
+    <value>Canviar data de la classe</value>
+  </data>
+  <data name="JoiningClassroom" xml:space="preserve">
+    <value>Entrant a la classe</value>
+  </data>
+  <data name="WaitingPartnerClassroom" xml:space="preserve">
+    <value>Esperant que {0} entri a la classe</value>
+  </data>
+  <data name="WaitingTo" xml:space="preserve">
+    <value>Esperant als permisos per utilitzar la teva càmera ...</value>
+  </data>
+  <data name="cannotJoinClassroom" xml:space="preserve">
+    <value>Hi ha hagut un problema entrant a la classe. Si us plau, recarrega la pàgina i torneu a provar. Si el problema persisteix, si us plau, contacta'ns</value>
+  </data>
+  <data name="ReportIssue" xml:space="preserve">
+    <value>Notificar problema</value>
+  </data>
+  <data name="RequireOneErrorMsg" xml:space="preserve">
+    <value>Si us plau, selecciona almenys una opció</value>
+  </data>
+  <data name="RequestMediation" xml:space="preserve">
+    <value>Sol·licitar mediació</value>
+  </data>
+  <data name="RequestRate" xml:space="preserve">
+    <value>Sol·licitar tarifa</value>
   </data>
   <data name="Availability" xml:space="preserve">
     <value>Disponibilitat</value>
+  </data>
+  <data name="NotUpdateInVideo" xml:space="preserve">
+    <value>No podeu actualitzar les tarifes durant una videotrucada</value>
+  </data>
+  <data name="confDelTeacherEdu" xml:space="preserve">
+    <value>Estàs segur que vols eliminar aquesta línia d'educació del teu perfil?</value>
+  </data>
+  <data name="confDelTeacherPosition" xml:space="preserve">
+    <value>Estàs segur que vols eliminar aquesta posició del teu perfil?</value>
   </data>
 </root>

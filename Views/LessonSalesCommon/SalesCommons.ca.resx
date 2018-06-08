@@ -183,7 +183,160 @@
   <data name="Status" xml:space="preserve">
     <value>Estat</value>
   </data>
+  <data name="Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Unconfirmed" xml:space="preserve">
+    <value>Sense confirma</value>
+  </data>
+  <data name="ViewBy" xml:space="preserve">
+    <value>Veure</value>
+  </data>
+  <data name="Reschedule" xml:space="preserve">
+    <value>Reprogramar</value>
+  </data>
+  <data name="Unschedule" xml:space="preserve">
+    <value>Desprogramar</value>
+  </data>
   <data name="CancelUnschedule" xml:space="preserve">
     <value>Cancel · lar desprogramació</value>
+  </data>
+  <data name="AcceptUnschedule" xml:space="preserve">
+    <value>Aceptar</value>
+  </data>
+  <data name="RejectUnschedule" xml:space="preserve">
+    <value>Rebutjar</value>
+  </data>
+  <data name="ReportIssue" xml:space="preserve">
+    <value>Notificar problema</value>
+  </data>
+  <data name="SelectReportIssues" xml:space="preserve">
+    <value>Selecciona almenys un problema a notificar</value>
+  </data>
+  <data name="TeCollectSolution" xml:space="preserve">
+    <value>Marcar la classe com Completada (i cobrar el 100%)</value>
+  </data>
+  <data name="CommentIssueStudent" xml:space="preserve">
+    <value>Afegeix detalls addicionals sobre el problema (Els comentaris s'enviaran al teu professor)</value>
+  </data>
+  <data name="CommentIssueTeacher" xml:space="preserve">
+    <value>Afegeix detalls addicionals sobre el problema (Els comentaris s'enviaran al teu estudiant)</value>
+  </data>
+  <data name="HowSolveIssue" xml:space="preserve">
+    <value>Com t'agradaria solucionar aquest problema?</value>
+  </data>
+  <data name="OtherIssue" xml:space="preserve">
+    <value>Altre</value>
+  </data>
+  <data name="RescheduleSolution" xml:space="preserve">
+    <value>Reprogramar la classe</value>
+  </data>
+  <data name="StudentEarlyIssue" xml:space="preserve">
+    <value>L'estudiant va marxar aviat</value>
+  </data>
+  <data name="StudentLateIssue" xml:space="preserve">
+    <value>L'estudiant va arribar tard</value>
+  </data>
+  <data name="StudentMissedIssue" xml:space="preserve">
+    <value>L'estudiant no es va presentar a la classe</value>
+  </data>
+  <data name="StudentTechnicalIssue" xml:space="preserve">
+    <value>L'estudiant va tenir problemes tècnics</value>
+  </data>
+  <data name="TeacherEarlyIssue" xml:space="preserve">
+    <value>El professor va marxar aviat</value>
+  </data>
+  <data name="TeacherLateIssue" xml:space="preserve">
+    <value>El professor va arribar tard</value>
+  </data>
+  <data name="TeacherMissedIssue" xml:space="preserve">
+    <value>El professor no es va presentar a la classe</value>
+  </data>
+  <data name="TeacherTechnicalIssue" xml:space="preserve">
+    <value>El professor va tenir problemes tècnics</value>
+  </data>
+  <data name="TeCancelAndRefundHalfSolution" xml:space="preserve">
+    <value>Cancel·lar la classe (i tornar el 50%)</value>
+  </data>
+  <data name="TeCancelAndRefundSolution" xml:space="preserve">
+    <value>Cancel·lar la classe (i tornar el 100%)</value>
+  </data>
+  <data name="TeCollectHalfSolution" xml:space="preserve">
+    <value>Marcar la classe com Completada (i cobrar el 50%)</value>
+  </data>
+  <data name="CancelReport" xml:space="preserve">
+    <value>Cancel · lar report</value>
+  </data>
+  <data name="StuCancelAndRefundHalfSolution" xml:space="preserve">
+    <value>Cancel·lar la classe (es retornarà el 50%)</value>
+  </data>
+  <data name="StuCancelAndRefundSolution" xml:space="preserve">
+    <value>Cancel·lar la classe (es retornarà el 100%)</value>
+  </data>
+  <data name="StuCollectHalfSolution" xml:space="preserve">
+    <value>Marcar classe com completada (es pagarà el 50%)</value>
+  </data>
+  <data name="StuCollectSolution" xml:space="preserve">
+    <value>Marcar classe com completada (es pagarà el 100%)</value>
+  </data>
+  <data name="CompleteLesson" xml:space="preserve">
+    <value>Completar classe</value>
+  </data>
+  <data name="AcceptSolution" xml:space="preserve">
+    <value>Acceptar solució</value>
+  </data>
+  <data name="LessonPackCompleted" xml:space="preserve">
+    <value>El pack de classes ja està complet</value>
+  </data>
+  <data name="RejectSolution" xml:space="preserve">
+    <value>Rebutjar solució</value>
+  </data>
+  <data name="CancelledPlural" xml:space="preserve">
+    <value>Cancel·lades</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Preu</value>
+  </data>
+  <data name="Refund" xml:space="preserve">
+    <value>Devolució</value>
+  </data>
+  <data name="Refunds" xml:space="preserve">
+    <value>Devolucions</value>
+  </data>
+  <data name="CancelMediation" xml:space="preserve">
+    <value>Cancel·lar mediació</value>
+  </data>
+  <data name="RequestMediation" xml:space="preserve">
+    <value>Sol·licitar mediació</value>
+  </data>
+  <data name="StudentRequestedMediation" xml:space="preserve">
+    <value>L'estudiant ha sol·licitat mediació per resoldre un problema. L'equip de Langademy es posarà en contacte amb tu</value>
+  </data>
+  <data name="TeacherRequestedMediation" xml:space="preserve">
+    <value>El professor ha sol·licitat mediació per resoldre un problema. L'equip de Langademy es posarà en contacte amb tu</value>
+  </data>
+  <data name="YouRequestedMediation" xml:space="preserve">
+    <value>Has sol·licitat mediació per resoldre un problema. L'equip de Langademy es posarà en contacte amb tu</value>
+  </data>
+  <data name="MedDisagreementStudent" xml:space="preserve">
+    <value>Per que el teu professor no està d'acord amb la teva solució?</value>
+  </data>
+  <data name="MedDisagreementTeacher" xml:space="preserve">
+    <value>Per que el teu estudiant no està d'acord amb la teva solució?</value>
+  </data>
+  <data name="MedIntroStudent" xml:space="preserve">
+    <value>Si vas tenir problemes amb aquesta classe i no has aconseguit acordar una solució amb el teu professor fent servir la funció Informa d'problema, pots sol·licitar la mediació de Langademy. La decisió del nostre equip serà definitiva. Si us plau completa el següent formulari i ens posarem en contacte amb tu (tingues en compte que el teu professor també veurà el que escriguis)</value>
+  </data>
+  <data name="MedIntroTeacher" xml:space="preserve">
+    <value>Si vas tenir problemes amb aquesta classe i no has aconseguit acordar una solució amb el teu estudiant usant la funció Informa d'problema, pots sol·licitar la mediació de Langademy. La decisió del nostre equip serà definitiva. Si us plau completa el següent formulari i ens posarem en contacte amb tu (tingues en compte que el teu estudiant també veurà el que escriguis)</value>
+  </data>
+  <data name="MedIssueDescr" xml:space="preserve">
+    <value>Descriu el problema per al que necessites mediació</value>
+  </data>
+  <data name="MedProposedSol" xml:space="preserve">
+    <value>Quina solució proposes?</value>
+  </data>
+  <data name="LessonsUpper" xml:space="preserve">
+    <value>Classes</value>
   </data>
 </root>

@@ -138,6 +138,9 @@
   <data name="InvitationSubject" xml:space="preserve">
     <value>Invitació Langademy</value>
   </data>
+  <data name="LessonPurchase" xml:space="preserve">
+    <value>Compra de classes</value>
+  </data>
   <data name="MailConfirmEmail" xml:space="preserve">
     <value>Confirma el teu email</value>
   </data>

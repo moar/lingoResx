@@ -187,10 +187,10 @@
     <value>Participants</value>
   </data>
   <data name="CRWalletCondition1Content" xml:space="preserve">
-    <value>Necessites tenir almenys {0} vots positius en converses de {1}. Vés a les sala de Banc de Temps de {1}, fes videotrucades Aconsegueix vots positius! I no t'oblidis de crear quedades i així et donaràs a conèixer a la comunitat de Langademy.</value>
+    <value>Has de definir la teva disponibilitat per a trucades Wallet al teu calendari. Vés a {0} i omple la teva disponibilitat per a aquest mes.</value>
   </data>
   <data name="CRWalletCondition1Title" xml:space="preserve">
-    <value>Guanya reputació: </value>
+    <value>Omple la teva disponibilitat:</value>
   </data>
   <data name="CRWalletCondition2Content" xml:space="preserve">
     <value>Vés al teu {0} e introdueix les teves dades de facturació</value>
@@ -242,5 +242,29 @@
   </data>
   <data name="CRTBAvailable" xml:space="preserve">
     <value>Trucades Banc del Temps</value>
+  </data>
+  <data name="CRConditionCalendar" xml:space="preserve">
+    <value>El teu calendari</value>
+  </data>
+  <data name="CRWalletConditionGrantedContent" xml:space="preserve">
+    <value>Si us plau, actualitza ara els teus tarifes per a trucades Wallet</value>
+  </data>
+  <data name="CRWalletConditionGrantedTitle" xml:space="preserve">
+    <value>Permisos actualitzats per a trucades Wallet</value>
+  </data>
+  <data name="BackMeetup" xml:space="preserve">
+    <value>Tornar al meetup</value>
+  </data>
+  <data name="MeetupOverNotAccess" xml:space="preserve">
+    <value>El meetup ha finalitzat. Pots unir-te a un altre o programar un de nou</value>
+  </data>
+  <data name="NotParticipantNoAccess" xml:space="preserve">
+    <value>Has de apuntar-te al meetup abans de poder entrar a la sala. Torna enrere a la pàgina de l'meetup i fes clic al botó "{0}"</value>
+  </data>
+  <data name="NotSpeaksNoAccess" xml:space="preserve">
+    <value>Aquest meetup és per parlar {0}. Has d'afegir aquest idioma al teu perfil si vols apuntar-te a aquest meetup</value>
+  </data>
+  <data name="ViewAllLangMeetups" xml:space="preserve">
+    <value>Veure tots els meetups de {0} </value>
   </data>
 </root>

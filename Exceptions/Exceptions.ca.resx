@@ -183,4 +183,7 @@
   <data name="Required" xml:space="preserve">
     <value>Aquest camp ès obligatori</value>
   </data>
+  <data name="ValidationMaxLength" xml:space="preserve">
+    <value>Longitud màxima: {1} caràcters</value>
+  </data>
 </root>

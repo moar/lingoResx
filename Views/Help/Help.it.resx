@@ -148,7 +148,7 @@
     <value>Invita i tuoi amici e otterrai 30 minuti per ogni amico che è registrato con il tuo invito. E anche è possibile guadagnare ore per la vostra banca del tempo se ci seguite in Twitter e Facebook (+ 30 minuti).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>Quando si pratica una lingua diversa dalla tua lingua madre, starai spendendo ore dalla Banca del Tempo. Ma se si insegni una lingua che controlli (livello minimo: C2) ad un altro utente, il tempo ti sarà aggiunto al tuo account.</value>
+    <value>Quando si effettua una videochiamata  banca del tempo ({0}) in una lingua diversa dalla tua lingua madre, si trascorre del tempo dal tuo conto della banca del tempo. Tuttavia, se si effettua una videochiamata in una lingua fluente (livello minimo: C2) con un altro utente di livello inferiore, l'ora della chiamata verrà aggiunta all'account.</value>
   </data>
   <data name="TimeBankF5" xml:space="preserve">
     <value>Le chiamate che sono più brevi di un minuto non hanno alcun costo</value>
@@ -202,7 +202,7 @@
     <value>Chat rooms</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
-    <value>Come funziona la Banca del tempo?</value>
+    <value>Regole della Banca del tempo</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
     <value>My  Wallet</value>
@@ -247,7 +247,7 @@
     <value>Quando incontri un nuovo partner, puoi inviare una richiesta di connessione. Quando si è connessi, è possibile effettuare chiamate video tra i due, senza dover entrare nella stanza.</value>
   </data>
   <data name="HelpTBIntro1" xml:space="preserve">
-    <value>La Banca del Tempo offre un modo per imparare le lingue senza dover spendere il tuo denaro: il tempo che si utilizza per parlare la tua lingua madre con gli studenti ti verrà aggiunto al tuo conto Banca del Tempo. Guarda le regole della Banca del Tempo ({0}). </value>
+    <value>La banca del tempo ti permette di imparare le lingue a Langademy senza dover spendere soldi: il tempo che trascorri a parlare nella tua lingua madre con altri studenti di lingua verrà aggiunto al tuo conto in banca del tempo per poterlo usare facendo videochiamate in altre lingue. Controlla le regole delle banche del tempo ({0}) </value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
     <value>Nella home page è possibile visualizzare il saldo del conto Banca del Tempo, e se si accede all' applicazione {0} è possibile visualizzare la cronologia e i dettagli dei movimenti.</value>
@@ -271,23 +271,22 @@
     <value>È possibile accedere alla Tabella di Appuntamenti attraverso la tua home page o delle chat rooms. Una volta che si accede alla tabella, si vedrà gli appuntamenti dei linguaggi che sono stati aggiunti al tuo profilo. Se vuoi creare un appuntamento, seleziona una lingua, la data e l'ora per l'appuntamento. Dopo aver creato l'appuntamento, puoi invitare i tuoi contatti Langademy a partecipare.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
-    <value> A i madrelingua li saranno trattenuti 13% (+ IVA)  dell'importo addebitato agli studenti. Il saldo verrà aggiornato quando la chiamata viene terminata.
-</value>
+    <value>Langademy addebita ai madrelingua il 13% (+ IVA) dell'importo addebitato agli studenti per ogni videoconferenza Wallet. Al termine della videochiamata, il saldo disponibile viene aggiornato. (È possibile verificare il saldo disponibile presso {0}) ( {1})</value>
   </data>
   <data name="HelpWalletFees2" xml:space="preserve">
-    <value>Per capire come il saldo disponibile è calcolato, devono essere presi in considerazione i seguenti termini:</value>
+    <value>Il saldo disponibile rappresenta l'importo attuale dei crediti che è possibile spendere. Per capire come viene calcolato, è necessario tenere in considerazione i seguenti termini:</value>
   </data>
   <data name="HelpWalletFees3" xml:space="preserve">
     <value>Totale saldo: visualizza il numero totale di crediti senza  la commissione del 13% (non applicata ancora)</value>
   </data>
   <data name="HelpWalletFees4" xml:space="preserve">
-    <value>Commissione Langademy: alla fine del mese Langademy caricherà il 13% per i colloqui che hanno mantenuto i madrelingua. Questa commissione si rifletterà nel prossimo numero della fattura. La commissione non sarà addebitata fino a quando viene emessa la fattura,</value>
+    <value>Commissione Langademy: Alla fine del mese, Langademy addebita una commissione del 13% per le conversazioni tenute da madrelingua. Questa commissione si riflette nella fattura successiva ({0}) . Anche se la commissione non viene detratta dal saldo del conto fino all'emissione della fattura, tale importo viene trattenuto e non può essere speso. </value>
   </data>
   <data name="HelpWalletFees5" xml:space="preserve">
     <value>Richieste in attesa di ritiro: quando viene effettuata una richiesta,la quantità di crediti che sono stati richiesti non sarà disponibile per utilizzare</value>
   </data>
   <data name="HelpWalletFees6" xml:space="preserve">
-    <value>Saldo disponibile: vedendo i concetti spiegati, questo è il calcolo del saldo disponibile:</value>
+    <value>Saldo disponibile:Alla luce dei termini definiti, il saldo disponibile è calcolato come segue:</value>
   </data>
   <data name="HelpWalletFees7" xml:space="preserve">
     <value>Saldo disponibile = saldo totale - Commissione Langademy - numero di crediti richiesti per il ritiro</value>
@@ -326,10 +325,10 @@
     <value>Riempi l'indirizzo di fatturazione: Vai a my Wallet e riempi il tuo indirizzo di fatturazione</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
-    <value>My Wallet è l'applicazione in cui è possibile gestire le tue finanze Langademy. Questa applicazione può controllare i tuoi movimenti, la tua cronologia di fatture e aggiungere o modificare le informazioni di fatturazione. Langademy permette anche gli acquisti di credito.</value>
+    <value>&lt;span0&gt;&lt;/span0&gt; My Wallet è l'applicazione in cui è possibile gestire le tue finanze Langademy. In questa app può controllare i tuoi movimenti, la tua cronologia di fatture e aggiungere o modificare le informazioni di fatturazione. Langademy permette anche gli acquisti di credito.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>Si sei su Langademy per imparare lingue, vai sulle chat rooms e guarda le tariffe dei madrelingua,le loro reputazione ecc</value>
+    <value>È possibile aprire l'applicazione My Wallet facendo clic sul pulsante Apps &lt;span0&gt;&lt;/span0&gt; sul pannello di controllo e selezionando il pulsante My Wallet &lt;span1&gt;&lt;/span1&gt;</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Centro assistenza di Langademy</value>
@@ -380,7 +379,7 @@
     <value>Come posso cancellare una striscia marcata come disponibile?</value>
   </data>
   <data name="HelpSetAvailability13" xml:space="preserve">
-    <value>Clicca sul blocco che vuoi eliminare e vedrai una finestra flottante con la possibilità di cancellare. Clicca cancella per confermare.</value>
+    <value>Clicca sul blocco che vuoi eliminare e vedrai una finestra flottante con la possibilità di cancellare. Clicca cancellare per confermare.</value>
   </data>
   <data name="HelpSetAvailability2" xml:space="preserve">
     <value>Mantenere la tua disponibilità attuale ti aiuterà a organizzare il tuo tempo come un madrelingua e evitare di dover ricevere le richieste di contatto, quando non si vuole parlare con gli studenti. Se non si definisce la propria disponibilità, è possibile effettuare solo chiamate video con i tuoi contatti o studenti che troverai nelle chat room.</value>
@@ -443,7 +442,7 @@
     <value>Gli appuntamenti sono la via più facile per fare sapere in anticipo a gli studenti quando sarai in una chat room. In questo modo, gli studenti e gli altri madrelingua possono unirsi a te allo stesso tempo. In realtà, è possibile accedere nella chat room quando si vuole, ma cerchiamo di essere onesti, è più facile di riunire persone se un evento è organizzato prima.</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value>Controlla il tuo &lt;a href="{0}" class="link applnk"&gt;Calendario&lt;/a&gt;  per vedere gli appuntamenti che sono stati organizzati. Se c'è qualche appuntamento interessante, ti può registrare. Altrimenti, crea uno nuovo.</value>
+    <value>Vai all'app &lt;a href="{0}" class="link applnk"&gt;Meetups&lt;/a&gt;  per vedere gli appuntamenti che sono stati organizzati. Se c'è qualche appuntamento interessante, ti può registrare. Altrimenti, crea uno nuovo.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>Quando ti iscrivi a un appuntamento, un evento viene aggiunto al calendario.Accede, e ti sarà possibile scrivere sul tabellone del appuntamento, si può anche suggerire argomenti di conversazione</value>
@@ -452,7 +451,7 @@
     <value>Come posso organizzare un nuovo appuntamento?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value>Per organizzare un nuovo appuntamento entra &lt;a0&gt; Il mio calendario &lt;/ a0&gt; e fai clic su Nuovo Appuntamento nella parte superiore. È possibile anche creare direttamente un &lt;a1&gt; Nuovo Appuntamento &lt;/ a1&gt; e seguire questi passi:</value>
+    <value>Per organizzare un nuovo appuntamento entra &lt;a0&gt;Meetups&lt;/ a0&gt; e fai clic su Nuovo Meetup nella parte superiore. È possibile anche andare direttamente a &lt;a1&gt;Nuovo Meetup&lt;/ a1&gt; e seguire questi passi:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Seleziona la lingua dell'appuntamento. I partecipanti che assistano all'appuntamento, entreranno nella chat room della lingua dell'appuntamento.
@@ -480,7 +479,7 @@
     <value>Come posso sapere se un madrelingua accetta la mia richiesta?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value> Puoi verificare lo stato delle tue richieste nel tuo &lt;a0&gt; Calendario &lt;/ a0&gt;. Controlla il pannello di richieste inviate. Seleziona la richiesta che vuoi e potrai vedere i dettagli di quella richiesta. Nella schermata dei dettagl si vedrà se il madrelingua ha accettato o rifiutato la richiesta e anche si potrà annullare la richiesta o inviare messaggi al madrelingua se hai bisogno di ulteriori informazioni.</value>
+    <value> Puoi verificare lo stato delle tue richieste nel tuo &lt;a0&gt;Conversazioni &lt;/ a0&gt;. Controlla il pannello di richieste inviate. Seleziona la richiesta che vuoi e potrai vedere i dettagli di quella richiesta. Nella schermata dei dettagl si vedrà se il madrelingua ha accettato o rifiutato la richiesta e anche si potrà annullare la richiesta o inviare messaggi al madrelingua se hai bisogno di ulteriori informazioni.</value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>Inoltre, quando il nativo accetta la tua richiesta ti verrà notificato e si aggiungerà un nuovo evento al tuo calendario.</value>
@@ -489,7 +488,7 @@
     <value>Cosa devo fare quando è il momento di la conversazione?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value>Vai al pannello di chiamata &lt;span0&gt; &lt;/ span0&gt; e seleziona la scheda conversazioni private &lt;SPAN1&gt; &lt;/ SPAN1&gt;. Clicca su un utente, può aprire l'applicazione di videochiamate. È anche possibile aprire l'applicazione video da i dettagli della conversazione nel tuo Calendario.</value>
+    <value>Vai al pannello di chiamata &lt;span0&gt;&lt;/ span0&gt; e seleziona la scheda conversazioni private &lt;SPAN1&gt;&lt;/ SPAN1&gt;. Clicca su un utente, può aprire l'applicazione di videochiamate. È inoltre possibile aprire l'applicazione video dai dettagli della conversazione delle vostre conversazioni. </value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Quando sei nella applicazione di videochiamate, potrai vedere quando è collegato il tuo compagno. Nel frattempo, è possibile inviare messaggi di chat privato a tuo compagno.</value>

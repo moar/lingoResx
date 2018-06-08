@@ -117,4 +117,115 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActionCall1" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="Block1SubTitle" xml:space="preserve">
+    <value>Insegna la tua lingua madre e guadagna denaro, da dove vuoi, quando vuoi</value>
+  </data>
+  <data name="Block2SubTitle" xml:space="preserve">
+    <value>Imposta la tua tariffa e guadagna denaro per insegnare la tua lingua madre agli studenti di tutto il mondo</value>
+  </data>
+  <data name="Block2Title" xml:space="preserve">
+    <value>Guadagna soldi</value>
+  </data>
+  <data name="Block3Subtitle" xml:space="preserve">
+    <value>Potrai impartire lezioni online attraverso videoconferenze, in modo da poter lavorare da qualsiasi luogo.</value>
+  </data>
+  <data name="Block3Title" xml:space="preserve">
+    <value>Lavora da dove vuoi</value>
+  </data>
+  <data name="Block4Subtitle" xml:space="preserve">
+    <value>Inserisci la tua disponibilità nel tuo calendario personale. Potrai impostare il programma che più ti si addice</value>
+  </data>
+  <data name="Block4Title" xml:space="preserve">
+    <value>Il tuo orario</value>
+  </data>
+  <data name="Block5Subtitles" xml:space="preserve">
+    <value>Decidi quanto guadagnerai e quante ore investirai nella piattaforma</value>
+  </data>
+  <data name="Block5Title" xml:space="preserve">
+    <value>Tu decidi il limite </value>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>Domande frequenti</value>
+  </data>
+  <data name="General1" xml:space="preserve">
+    <value>Cosa è Langademy?</value>
+  </data>
+  <data name="General1Answer" xml:space="preserve">
+    <value>Langademy è un social network per l'apprendimento delle lingue. Su questa piattaforma, gli insegnanti danno lezioni in videoconferenza senza la necessità di utilizzare altri strumenti come skype.</value>
+  </data>
+  <data name="General2" xml:space="preserve">
+    <value>Come e dove posso insegnare?</value>
+  </data>
+  <data name="General2Answer" xml:space="preserve">
+    <value>In Langademy, tutte le lezioni vengono tenute online utilizzando la tecnologia di videoconferenza Langademy. Così puoi lavorare da qualsiasi luogo con il tuo tablet o computer e con una connessione a internet.</value>
+  </data>
+  <data name="GeneralTitle" xml:space="preserve">
+    <value>Domande generali</value>
+  </data>
+  <data name="HowToStart" xml:space="preserve">
+    <value>Come iniziare </value>
+  </data>
+  <data name="MainTitleP1" xml:space="preserve">
+    <value>Diventa</value>
+  </data>
+  <data name="MainTitleP2" xml:space="preserve">
+    <value>con insegnante </value>
+  </data>
+  <data name="Prices1" xml:space="preserve">
+    <value>Quanto posso guadagnare a Langademy?</value>
+  </data>
+  <data name="Prices1Answer" xml:space="preserve">
+    <value>Langademy non ti pone limiti. Più lezioni insegni, più soldi fai. Potrai impostare le tue tariffe, quindi sta a te decidere quanto lavoro svolgerai e quanto guadagnerai per ogni classe insegnata.</value>
+  </data>
+  <data name="Prices2" xml:space="preserve">
+    <value>Chi fissa le tariffe?</value>
+  </data>
+  <data name="Prices2Answer" xml:space="preserve">
+    <value>Gli insegnanti fissano le loro tariffe</value>
+  </data>
+  <data name="Prices3" xml:space="preserve">
+    <value>Quando posso ritirare i miei soldi da Langademy?</value>
+  </data>
+  <data name="Prices3Answer" xml:space="preserve">
+    <value>Non dovrete aspettare fino alla fine del mese per raccogliere i vostri benefici. È possibile richiedere il prelievo in qualsiasi momento.Langademy elabora le richieste più di una volta al mese</value>
+  </data>
+  <data name="PricesTitle" xml:space="preserve">
+    <value>Prezzi e oneri</value>
+  </data>
+  <data name="Req1" xml:space="preserve">
+    <value>Orari</value>
+  </data>
+  <data name="Req1Answer" xml:space="preserve">
+    <value>Langademy non pone restrizioni agli orari. Ogni insegnante può definire il proprio programma nel proprio calendario. Ricordate che se si imposta un orario molto rigido, sarà più difficile per gli studenti di assumere voi.</value>
+  </data>
+  <data name="Req2" xml:space="preserve">
+    <value>È necessario avere esperienza come insegnante di lingue?</value>
+  </data>
+  <data name="Req2Answer" xml:space="preserve">
+    <value>Sì, è necessario avere una precedente esperienza nell'insegnamento della propria lingua madre a studenti di altre lingue. Dovrai inviare il tuo CV e i certificati (se ce li hai) e Langademy valuterà la tua esperienza come insegnante.</value>
+  </data>
+  <data name="Req3" xml:space="preserve">
+    <value>Ho bisogno di certificati di formazione linguistica?</value>
+  </data>
+  <data name="Req3Answer" xml:space="preserve">
+    <value>Anche se questo non è un prerequisito, i certificati di insegnamento nella lingua madre costituirebbero un vantaggio.</value>
+  </data>
+  <data name="Req4" xml:space="preserve">
+    <value>Di quale tecnologia ho bisogno per utilizzare Langademy?</value>
+  </data>
+  <data name="Req4Answer" xml:space="preserve">
+    <value>Tutto ciò che serve è una webcam, un microfono e una buona connessione a Internet. Quando ti candidi per insegnare a Langademy, controlleremo che tu soddisfi i requisiti. È inoltre necessario utilizzare l'ultima versione di Chrome o Firefox. Non è necessario installare Skype o altri plugin. Langademy include la propria tecnologia di videochiamata.</value>
+  </data>
+  <data name="Req5" xml:space="preserve">
+    <value>Come posso ottenere studenti?</value>
+  </data>
+  <data name="Req5Answer" xml:space="preserve">
+    <value>Dona più visibilità al tuo profilo. Parla di Langademy e promuovi il tuo profilo su diversi social network (YouTube, Linkedin...) e sui tuoi blog. Altrimenti, può stare tranquillo. A Langademy faremo in modo che gli studenti vogliano assumervi</value>
+  </data>
+  <data name="RequirementsTitle" xml:space="preserve">
+    <value>Requisiti</value>
+  </data>
+</root>

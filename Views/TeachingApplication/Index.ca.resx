@@ -117,7 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
   <data name="Activate" xml:space="preserve">
     <value>Activar</value>
   </data>
@@ -183,5 +182,149 @@
   </data>
   <data name="ImgNotPub" xml:space="preserve">
     <value>Aquesta imatge no es publicarà en cap lloc</value>
+  </data>
+  <data name="Intro1" xml:space="preserve">
+    <value>Gràcies per la teva sol·licitud per ensenyar a Langademy</value>
+  </data>
+  <data name="Intro2" xml:space="preserve">
+    <value>La teva sol·licitud està composta per 4 seccions</value>
+  </data>
+  <data name="IntroSection1" xml:space="preserve">
+    <value>Dades personals i perfil</value>
+  </data>
+  <data name="IntroSection2" xml:space="preserve">
+    <value>Documents que certifiquen el teu currículum vitae</value>
+  </data>
+  <data name="IntroSection3" xml:space="preserve">
+    <value>Calendari de disponibilitat</value>
+  </data>
+  <data name="IntroSection4" xml:space="preserve">
+    <value>Requisits tècnics</value>
+  </data>
+  <data name="IntroVideo" xml:space="preserve">
+    <value>Vídeo de presentació</value>
+  </data>
+  <data name="InvoiceInfo" xml:space="preserve">
+    <value>Informació de la facturació</value>
+  </data>
+  <data name="InvoiceInfoDesc" xml:space="preserve">
+    <value>Si us plau, completa les dades de facturació</value>
+  </data>
+  <data name="InvoiceInfoDesc2" xml:space="preserve">
+    <value>Langademy emetrà les factures utilitzant aquesta informació</value>
+  </data>
+  <data name="LastDeclReasons" xml:space="preserve">
+    <value>L'última vegada que vas enviar la teva sol·licitud va ser rebutjada pels següents motius. Revisa'ls tots abans d'enviar-la de nou</value>
+  </data>
+  <data name="ModifyAppli" xml:space="preserve">
+    <value>Modificar sol·licitud</value>
+  </data>
+  <data name="OnlyPDF" xml:space="preserve">
+    <value>Només documents PDF</value>
+  </data>
+  <data name="PersDataTitle" xml:space="preserve">
+    <value>Dades personals i perfil</value>
+  </data>
+  <data name="PhotoId" xml:space="preserve">
+    <value>Document d'identitat</value>
+  </data>
+  <data name="PhotoIdDesc" xml:space="preserve">
+    <value>Si us plau, puja la imatge d'un document governamental que confirmi la teva identitat (passaport, carnet de conduir, document nacional d'identitat, o similar, sempre que inclogui la teva foto)</value>
+  </data>
+  <data name="PingTime" xml:space="preserve">
+    <value>Ping time</value>
+  </data>
+  <data name="PoweredBy" xml:space="preserve">
+    <value>Proporcionat per</value>
+  </data>
+  <data name="PrepareApplication" xml:space="preserve">
+    <value>Preparar sol·licitud</value>
+  </data>
+  <data name="PrepareApplText" xml:space="preserve">
+    <value>Prepara la teva sol·licitud per ensenyar a Langademy</value>
+  </data>
+  <data name="ProfilePhoto" xml:space="preserve">
+    <value>Foto de perfil</value>
+  </data>
+  <data name="ProfileTitle" xml:space="preserve">
+    <value>Perfil</value>
+  </data>
+  <data name="Provider" xml:space="preserve">
+    <value>Proveïdor</value>
+  </data>
+  <data name="Rates" xml:space="preserve">
+    <value>Tarifes</value>
+  </data>
+  <data name="SelectDoc" xml:space="preserve">
+    <value>Seleccionar document</value>
+  </data>
+  <data name="SpeedTest" xml:space="preserve">
+    <value>Test de velocitat</value>
+  </data>
+  <data name="SubmissionDate" xml:space="preserve">
+    <value>Data d'enviament</value>
+  </data>
+  <data name="SubmittedApplDescr" xml:space="preserve">
+    <value>Quan la teva sol·licitud sigui revisada se't notificarà per correu electrònic</value>
+  </data>
+  <data name="TechnicalReqs" xml:space="preserve">
+    <value>Requisits tècnics</value>
+  </data>
+  <data name="TestDate" xml:space="preserve">
+    <value>Data del test</value>
+  </data>
+  <data name="TestResult" xml:space="preserve">
+    <value>Resultat del test</value>
+  </data>
+  <data name="TestVideoReqs" xml:space="preserve">
+    <value>Test de requisits de videotrucada</value>
+  </data>
+  <data name="ThanksForSubm" xml:space="preserve">
+    <value>Gràcies per enviar la teva sol·licitud!</value>
+  </data>
+  <data name="UpdateAttachDescr" xml:space="preserve">
+    <value>Actualitza la descripció d'aquest arxiu</value>
+  </data>
+  <data name="UploadDoc" xml:space="preserve">
+    <value>Carregar document</value>
+  </data>
+  <data name="UploadPhotoId" xml:space="preserve">
+    <value>Carregar el document d'identitat</value>
+  </data>
+  <data name="UploadSpeed" xml:space="preserve">
+    <value>Velociatat de càrrega</value>
+  </data>
+  <data name="AvailCalendarDesc" xml:space="preserve">
+    <value>Selecciona al calendari les franges en què estaràs disponible setmanalment per ensenyar (a la teva zona horària local)</value>
+  </data>
+  <data name="ApplValDefault" xml:space="preserve">
+    <value>Si estàs tenint problemes per completar la teva sol·licitud, contacta'ns i estarem encantats d'ajudar-te (contact@langademy.com)</value>
+  </data>
+  <data name="ApplValProfile" xml:space="preserve">
+    <value>Hi ha seccions del teu perfil que falta per completar. Si us plau, ompli i envia la sol·licitud de nou.</value>
+  </data>
+  <data name="AppValAvailability" xml:space="preserve">
+    <value>Has d'omplir el teu calendari de disponibilitat estimada abans d'enviar la sol·licitud</value>
+  </data>
+  <data name="AppValDocuments" xml:space="preserve">
+    <value>No has adjuntat cap document que certifiqui la teva experiència professional i la teva formació per ensenyar idiomes</value>
+  </data>
+  <data name="AppValGobernIdMissing" xml:space="preserve">
+    <value>Has de pujar una foto de la teva targeta d'identificació governamental</value>
+  </data>
+  <data name="AppValSpeedTest" xml:space="preserve">
+    <value>Desafortunadament l'últim test de velocitat de la teva connexió a internet estava per sota d'1 Mbps (baixada / pujada). Si millores la teva connexió a internet executa el test de velocitat i envia la sol·licitud de nou</value>
+  </data>
+  <data name="AppValSpeedTestMissing" xml:space="preserve">
+    <value>Has de executar el test de velocitat</value>
+  </data>
+  <data name="AppValWebrtcTest" xml:space="preserve">
+    <value>Has executar el test de vídeo trucada abans d'enviar la sol.licitud</value>
+  </data>
+  <data name="TestInfo" xml:space="preserve">
+    <value>Aquests resultats tenen propòsit informatiu i no impliquen necessàriament que la sol·licitud sigui acceptada o rebutjada</value>
+  </data>
+  <data name="AppValBillingAddress" xml:space="preserve">
+    <value>Has de completar la teva adreça de facturació abans d'enviar la teva sol·licitud. Langademy incuirá aquesta direcció en la factura quan cobrem pel servei</value>
   </data>
 </root>

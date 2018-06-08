@@ -183,4 +183,25 @@
   <data name="SelectRate" xml:space="preserve">
     <value>Selezionare tariffa</value>
   </data>
+  <data name="SignBefore" xml:space="preserve">
+    <value>È necessario effettuare il login per continuare con l'acquisto</value>
+  </data>
+  <data name="TeacherChangedAvailability" xml:space="preserve">
+    <value>L'insegnante ha cambiato il suo calendario di disponibilità. Per favore aggiorna la pagina e prenota di nuovo la lezione</value>
+  </data>
+  <data name="TenFeat1" xml:space="preserve">
+    <value>Acquista un pacchetto di 10 lezioni (1 ora ciascuna)</value>
+  </data>
+  <data name="ThirtyFeat1" xml:space="preserve">
+    <value>Paga 1 lezione di 30 minuti</value>
+  </data>
+  <data name="ThirtyFeat2" xml:space="preserve">
+    <value>Questa è l'opzione migliore per la prima classe</value>
+  </data>
+  <data name="WalletBalance" xml:space="preserve">
+    <value>Saldo Wallet</value>
+  </data>
+  <data name="WalletBalanceChanged" xml:space="preserve">
+    <value>Il tuo saldo Wallet è cambiato. Per favore aggiorna la pagina e prenota di nuovo la classe</value>
+  </data>
 </root>

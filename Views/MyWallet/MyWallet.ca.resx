@@ -202,7 +202,7 @@
     <value>Has d'introduir l'estat / província</value>
   </data>
   <data name="MWTaxId" xml:space="preserve">
-    <value>CIF (Tax Id)</value>
+    <value>CIF (VAT Id)</value>
   </data>
   <data name="MWZipCode" xml:space="preserve">
     <value>Codi postal</value>
@@ -376,7 +376,7 @@
     <value>Confirma l'ordre i passareu a PayPal per a completar el procés</value>
   </data>
   <data name="MWRedsysInfo" xml:space="preserve">
-    <value>Fes clic a confirmar i seràs redirigit a la passarel·la de pagament del teua banc per a completar el procés</value>
+    <value>Fes clic a confirmar i seràs redirigit a la passarel·la de pagament del tbanc per a completar el procés. Servei proporcionat per Bankinter</value>
   </data>
   <data name="OderCompletedBackMw" xml:space="preserve">
     <value>Tornar a My Wallet</value>
@@ -409,7 +409,7 @@
     <value>Reintegrament de Crèdits Langademy</value>
   </data>
   <data name="ReqCashoutEnterAmmount" xml:space="preserve">
-    <value>Introdueix el nombre de crèdits per al reintegrament</value>
+    <value>Introdueix la quantitat del reintegrament</value>
   </data>
   <data name="ReqCashoutMethodConfirm" xml:space="preserve">
     <value>Confirma un mètode per al reintegrament </value>
@@ -446,13 +446,13 @@
     <value>TOTAL SALDO</value>
   </data>
   <data name="MWMovementInfo" xml:space="preserve">
-    <value>Al final de mes Langademy et cobrarà una comissió per les converses que has mantingut com a natiu. Veuràs reflexada està comissió en la següent factura. No se't traurà la comissió del teu compte fins que emetem la següent factura, però tampoc podràs usar aquest saldo retingut per realitzar altres compres. A més, si has sol·licitat un reintegrament, la quantitat sol·licitada tampoc podrà ser utilitzada per realitzar compres.</value>
+    <value>A final de mes Langademy et cobrarà una comissió per les videotrucades Wallet que hagis mantingut com natiu. No es cobrarà la comissió del teu compte fins que emetem la factura següent, però aquesta quantitat quedarà retinguda i no la podràs gastar. A més, si has sol·licitat un reintegrament, tampoc podràs gastar la quantitat sol·licitada.</value>
   </data>
   <data name="CashoutCreatePW" xml:space="preserve">
     <value>Crear</value>
   </data>
   <data name="CashoutCreatePWSent" xml:space="preserve">
-    <value>No tens un compte local. Necessites crear una contrasenya per al teu compte si vols editar les dades de facturació</value>
+    <value>No tens un compte local de Langademy. Necessites crear una contrasenya per al teu compte si vols editar les dades de facturació</value>
   </data>
   <data name="CashOutPanAmount" xml:space="preserve">
     <value>Quantitat</value>
@@ -518,7 +518,7 @@
     <value>Quantitat màxima de retirada</value>
   </data>
   <data name="WalletMaxWithdrawal" xml:space="preserve">
-    <value>La quantitat màxima per a una retirada són {0} crèdits</value>
+    <value>La quantitat màxima per a una sol·licitud de reintegrament són {0} crèdits</value>
   </data>
   <data name="WalletVideoWithDrawalNotAllowed" xml:space="preserve">
     <value>Les sol·licituds de retirada de crèdits no estan permeses durant una trucada</value>
@@ -585,5 +585,47 @@
   </data>
   <data name="NoWithdrawals" xml:space="preserve">
     <value>No hi ha retirades de crèdits en aquest període</value>
+  </data>
+  <data name="LessonPurchaseConcept" xml:space="preserve">
+    <value>Compra de classes de {0}: ({1})</value>
+  </data>
+  <data name="RefundLessonPurchaseConcept" xml:space="preserve">
+    <value>Devolució compra de classes de {0}: ({1})</value>
+  </data>
+  <data name="LessonCollectedConcept" xml:space="preserve">
+    <value>Classe cobrada: {0} - {1}</value>
+  </data>
+  <data name="LessonRefundStudentConcept" xml:space="preserve">
+    <value>Devolució classe de  {0} - {1}</value>
+  </data>
+  <data name="LessonRefundTeacherConcept" xml:space="preserve">
+    <value>Devolució classe de  {0} - {1}</value>
+  </data>
+  <data name="StudentAccount" xml:space="preserve">
+    <value>Estudiant</value>
+  </data>
+  <data name="TeacherAccount" xml:space="preserve">
+    <value>Professor</value>
+  </data>
+  <data name="AreYouCompany" xml:space="preserve">
+    <value>Ets una companyia o un professional?</value>
+  </data>
+  <data name="EUVatIdValidation" xml:space="preserve">
+    <value>Validació de VAT Id</value>
+  </data>
+  <data name="InvalidVATIdWarning" xml:space="preserve">
+    <value>El teu CIF (VAT Id) no es va poder validar amb el {0}. Per tant Langademy cobrarà IVA en les nostres factures</value>
+  </data>
+  <data name="OrCompanyName" xml:space="preserve">
+    <value>o raó social</value>
+  </data>
+  <data name="RedirectPaypal" xml:space="preserve">
+    <value>La teva compra ha estat registrada i estàs sent redirigit a Paypal per completar el pagament. Si us plau, espera ...</value>
+  </data>
+  <data name="RedirectRedsys" xml:space="preserve">
+    <value>La teva compra ha estat registrada i estàs sent redirigit a la passarel·la bancària per completar el pagament. Si us plau, espera ...</value>
+  </data>
+  <data name="LOrderCompletedTitle" xml:space="preserve">
+    <value>Compra de classes</value>
   </data>
 </root>

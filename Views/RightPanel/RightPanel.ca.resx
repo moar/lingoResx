@@ -199,7 +199,7 @@
     <value>Ok</value>
   </data>
   <data name="RPFilterOnline" xml:space="preserve">
-    <value>Només online</value>
+    <value>Només usuaris online</value>
   </data>
   <data name="RPFilterTalkedTo" xml:space="preserve">
     <value>Gent amb la que has parlat</value>
@@ -245,5 +245,23 @@
   </data>
   <data name="RPFilterStudents" xml:space="preserve">
     <value>Estudiants</value>
+  </data>
+  <data name="RPCandidateMess" xml:space="preserve">
+    <value>Aquest tauler estarà actiu quan s'aprovi la teva sol·licitud</value>
+  </data>
+  <data name="RPOnlyStudents" xml:space="preserve">
+    <value>Aquesta opció és només per a estudiants</value>
+  </data>
+  <data name="RPOnlyTeachers" xml:space="preserve">
+    <value>Aquesta opció és només per a professors acreditats</value>
+  </data>
+  <data name="RPSignWithStudent" xml:space="preserve">
+    <value>Si us plau, inicia sessió amb un compte d'estudiant</value>
+  </data>
+  <data name="RPSignWithTeacher" xml:space="preserve">
+    <value>Si us plau, inicia sessió amb un compte de professor</value>
+  </data>
+  <data name="MeetupsNoLogged" xml:space="preserve">
+    <value>Inicia sessió per obrir Meetups</value>
   </data>
 </root>

@@ -301,7 +301,7 @@
     <value>Acquista crediti </value>
   </data>
   <data name="ChargeStudents" xml:space="preserve">
-    <value>Addebitare ai studenti</value>
+    <value>Tutore</value>
   </data>
   <data name="Done" xml:space="preserve">
     <value>Fatto </value>
@@ -396,7 +396,34 @@
   <data name="NoEventsScheduled" xml:space="preserve">
     <value>Nessun evento programmato</value>
   </data>
+  <data name="Tutoring" xml:space="preserve">
+    <value>Ore di ricevimento</value>
+  </data>
   <data name="SearchPartners" xml:space="preserve">
     <value>Cerca compagni</value>
+  </data>
+  <data name="NewLessonCompletePending" xml:space="preserve">
+    <value>Hai una lezione incompleta. Contrassegnatela come completa o notifica un problema</value>
+  </data>
+  <data name="NewResqueduleRequest" xml:space="preserve">
+    <value>Hai  una richiesta di riprogrammare una classe</value>
+  </data>
+  <data name="FindTeachersTutors" xml:space="preserve">
+    <value>Trova insegnanti e tutori</value>
+  </data>
+  <data name="NextLessons" xml:space="preserve">
+    <value>Lezioni successive</value>
+  </data>
+  <data name="TeachersDescr" xml:space="preserve">
+    <value>Insegnanti certificati con esperienza nell'insegnamento a persone di madrelingua straniera</value>
+  </data>
+  <data name="TutoringSessions" xml:space="preserve">
+    <value>Sessioni di tutoraggio</value>
+  </data>
+  <data name="TutorsDescr" xml:space="preserve">
+    <value>Madrelingua che offrono conversazioni a pagamento</value>
+  </data>
+  <data name="UnscheduledLessons" xml:space="preserve">
+    <value>Lezioni non programmate</value>
   </data>
 </root>

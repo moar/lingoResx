@@ -130,6 +130,6 @@
     <value>Tria un professor segons la seva experiència, el seu currículum, la seva tarifa i les valoracions d'altres alumnes</value>
   </data>
   <data name="TeachersTip3" xml:space="preserve">
-    <value>Fes una reserva en el seu perfil per donar una classe. Per donar una classe de prova el millor és que escullis la tarifa "Classe de 30 minuts"</value>
+    <value>Entra al perfil del professor per reservar una classe. La millor opció per donar una classe de prova és que escullis la tarifa "Classe de 30 minuts"</value>
   </data>
 </root>

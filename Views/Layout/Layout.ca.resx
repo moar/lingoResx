@@ -181,10 +181,10 @@
     <value>Intercanvi d'idiomes - Langademy</value>
   </data>
   <data name="IndexNativesDescription" xml:space="preserve">
-    <value>Si t'agrada conversar amb la gent, ara pots guanyar diners mantenint converses en els teus idiomes natius. Entra a les sales de xat i coneix gent que vulgui aprendre el teu idioma!</value>
+    <value>Si no tens temps per a intercanvis i vols mantenir converses amb parlants nadius, aquest és el teu lloc.</value>
   </data>
   <data name="IndexNativesTitle" xml:space="preserve">
-    <value>Langademy: guanya diners com a company de conversa</value>
+    <value>Companys de conversa natius</value>
   </data>
   <data name="IndexStudentsDescription" xml:space="preserve">
     <value>Mantén converses amb parlants natius i millora la teva fluïdesa de l'idioma! Tens dues opcions: pots fer intercanvis d'idiomes o pagar a un natiu perquè conversi amb tu</value>
@@ -242,5 +242,17 @@
   </data>
   <data name="MainContactDesc" xml:space="preserve">
     <value>Vols enviar-nos un missatge? Contacta'ns a través d'aquest formulari</value>
+  </data>
+  <data name="IndexTeachersTitle" xml:space="preserve">
+    <value>Converteix-te en professor en línia | Langademy</value>
+  </data>
+  <data name="IndexTeachersDescription" xml:space="preserve">
+    <value>Si vols ensenyar idiomes online, sol·licita un lloc en Langademy. Treballa des de casa i quan tu vulguis.</value>
+  </data>
+  <data name="TeachersDescription" xml:space="preserve">
+    <value>Vols ensenyar una llengua en línia? T'oferim un entorn de treball online on podràs ensenyar idiomes des de casa.</value>
+  </data>
+  <data name="TeachersMainTitle" xml:space="preserve">
+    <value>Ensenya idiomes</value>
   </data>
 </root>

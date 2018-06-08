@@ -301,7 +301,7 @@
     <value>Compra crèdits</value>
   </data>
   <data name="ChargeStudents" xml:space="preserve">
-    <value>Cobra als estudiants</value>
+    <value>Tutor</value>
   </data>
   <data name="Done" xml:space="preserve">
     <value>Fet</value>
@@ -396,7 +396,34 @@
   <data name="NoEventsScheduled" xml:space="preserve">
     <value>No tens esdeveniments planificats</value>
   </data>
+  <data name="Tutoring" xml:space="preserve">
+    <value>Tutories</value>
+  </data>
   <data name="SearchPartners" xml:space="preserve">
     <value>Cerca companys</value>
+  </data>
+  <data name="NewLessonCompletePending" xml:space="preserve">
+    <value>Tens una lliçó passada incompleta. Marca-com completa o notifica un problema</value>
+  </data>
+  <data name="NewResqueduleRequest" xml:space="preserve">
+    <value>Tens una sol·licitud per reprogramar una classe</value>
+  </data>
+  <data name="FindTeachersTutors" xml:space="preserve">
+    <value>Busca professors i tutors</value>
+  </data>
+  <data name="NextLessons" xml:space="preserve">
+    <value>Properes calsses</value>
+  </data>
+  <data name="TeachersDescr" xml:space="preserve">
+    <value>Professors certificats amb experiència en l'ensenyament de no-natius</value>
+  </data>
+  <data name="TutoringSessions" xml:space="preserve">
+    <value>Sessions de tutoria</value>
+  </data>
+  <data name="TutorsDescr" xml:space="preserve">
+    <value>Parlants natius  que ofereixen converses pagades</value>
+  </data>
+  <data name="UnscheduledLessons" xml:space="preserve">
+    <value>Classes no programades</value>
   </data>
 </root>

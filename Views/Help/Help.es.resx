@@ -451,7 +451,7 @@
     <value>¿Cómo puedo organizar una nueva quedada?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value>Para organizar una nueva quedada entra a &lt;a href="{0}" class="link applnk"&gt;Meetups&lt;/a&gt; y clica Nuev Meetup en la parte superior. También puedes entrar directamente  a &lt;a href="{1}" class="link applnk"&gt;Nuevo Meetup&lt;/a&gt; y seguir los siguientes pasos:</value>
+    <value>Para organizar una nueva quedada entra a &lt;a href="{0}" class="link applnk"&gt;Meetups&lt;/a&gt; y clica Nueva Meetup en la parte superior. También puedes entrar directamente  a &lt;a href="{1}" class="link applnk"&gt;Nuevo Meetup&lt;/a&gt; y seguir los siguientes pasos:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Selecciona el idioma de la quedada. Los participantes que asistan a la quedada entrarán a la sala de chat del idioma de la quedada.</value>

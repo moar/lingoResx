@@ -121,8 +121,7 @@
     <value>Tutti gli Appuntamenti</value>
   </data>
   <data name="MBMeetGetLangRoulettePrev" xml:space="preserve">
-    <value>L'appuntamento non è ancora iniziato, ma puoi andare nella chat room e &lt;b&gt;praticare {0}&lt;/b&gt; quando vuoi
-</value>
+    <value>Il meeting non è ancora iniziato. Clicca sul seguente link per accedere alla stanza all'avvio </value>
   </data>
   <data name="Attend" xml:space="preserve">
     <value>Assistere</value>
@@ -158,7 +157,7 @@
     <value>Tabella di Appuntamenti </value>
   </data>
   <data name="MeetupsAllUserLanguages" xml:space="preserve">
-    <value>C'è già un appuntamento in questo momento per parlare. Uniciti invece di creare uno nuovo</value>
+    <value>Ci sono meetups organizzati in questo momento per parlare in una qualsiasi delle vostre lingue. Partecipa a un appuntamento esistente invece di crearne uno  di nuovo.</value>
   </data>
   <data name="MyMeetups" xml:space="preserve">
     <value>I miei appuntamenti</value>
@@ -233,10 +232,10 @@
     <value>Entrare</value>
   </data>
   <data name="MBMeetGetLangRouletteDuring" xml:space="preserve">
-    <value>L'appuntamento è iniziato! Vai nella chat room e comincia a parlare in {0}</value>
+    <value>L'appuntamento è iniziato! Vai nella meetup room e comincia a parlare in {0}</value>
   </data>
   <data name="MBMeetGetLangRouletteEnded" xml:space="preserve">
-    <value>L'appuntamento è finito. Ma ricorda che puoi andare nella chat room e praticare {0} quando vuoi</value>
+    <value>Il meetup è finito</value>
   </data>
   <data name="AboutToShareReddit" xml:space="preserve">
     <value>Stai per condividere questo appuntamento su Reddit. Ti consigliamo i seguenti subreddits:</value>

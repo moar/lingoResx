@@ -130,7 +130,7 @@
     <value>Privacitat </value>
   </data>
   <data name="IndRegister" xml:space="preserve">
-    <value>Registrar-se </value>
+    <value>Registrar-se </value>
   </data>
   <data name="IndTerms" xml:space="preserve">
     <value>Termes i condicions </value>
@@ -241,7 +241,7 @@
     <value>amb parlants natius en línia</value>
   </data>
   <data name="Login" xml:space="preserve">
-    <value>Iniciar sessió </value>
+    <value>Iniciar sessió </value>
   </data>
   <data name="IndLanguages" xml:space="preserve">
     <value>Idiomes</value>
@@ -296,5 +296,86 @@
   </data>
   <data name="IndContact" xml:space="preserve">
     <value>Contacte</value>
+  </data>
+  <data name="LandTeacherTitle" xml:space="preserve">
+    <value>Converteix-te en &lt;strong0&gt; professor d'idiomes online &lt;/strong0&gt; </value>
+  </data>
+  <data name="LandTeacherSignIn" xml:space="preserve">
+    <value>Registra't com a professor</value>
+  </data>
+  <data name="LandTeachingArticles" xml:space="preserve">
+    <value>Blog </value>
+  </data>
+  <data name="LandTeacherQuicstart" xml:space="preserve">
+    <value>Com començar</value>
+  </data>
+  <data name="LandTeachersHowTo" xml:space="preserve">
+    <value>Primers passos</value>
+  </data>
+  <data name="IndBlock2CenterText" xml:space="preserve">
+    <value>Tria el professor que s'ajusti millor als teus objectius d'aprenentatge. Els professors et oferiran classes particulars totalment personalitzades perquè siguin el més productives possibles</value>
+  </data>
+  <data name="IndBlock2CenterTitle" xml:space="preserve">
+    <value>Cursos personalitzats</value>
+  </data>
+  <data name="IndBlock2LeftText" xml:space="preserve">
+    <value>Una de les maneres més efectives per aprendre un idioma és parlant-ho amb professors que et donin una atenció personalitzada. Nosaltres ens encarregarem de connectar amb els professors certificats que més s'ajustin a les teves necessitats</value>
+  </data>
+  <data name="IndBlock2LeftTitle" xml:space="preserve">
+    <value>Aprèn amb professors online</value>
+  </data>
+  <data name="IndBlock2RightTitle" xml:space="preserve">
+    <value>Al teu ritme i pressupost</value>
+  </data>
+  <data name="IndBlock3MainTitle" xml:space="preserve">
+    <value>Com funciona {0}?</value>
+  </data>
+  <data name="IndBlock3SubText1" xml:space="preserve">
+    <value>Llegeix els currículums dels professors i els coneix veient els seus vídeos de presentació</value>
+  </data>
+  <data name="IndBlock3SubText2" xml:space="preserve">
+    <value>Tria els professors que millor s'ajustin als teus horaris, pressupost i objectius</value>
+  </data>
+  <data name="IndBlock3SubText3" xml:space="preserve">
+    <value>Encén la teva webcam, entra a l'aula en línia en Langademy i ja pots començar la classe</value>
+  </data>
+  <data name="IndBlock3Subtitle1" xml:space="preserve">
+    <value>Tria un professor</value>
+  </data>
+  <data name="IndBlock3Subtitle2" xml:space="preserve">
+    <value>Reserva una classe</value>
+  </data>
+  <data name="IndBlock3Subtitle3" xml:space="preserve">
+    <value>Comença a parlar</value>
+  </data>
+  <data name="IndBlock4MainTitle" xml:space="preserve">
+    <value>Comunitat d'idiomes</value>
+  </data>
+  <data name="IndBlock4SubText1" xml:space="preserve">
+    <value>Tria un professor d'idiomes certificat i contracta classes particulars segons les teves necessitats i preferències</value>
+  </data>
+  <data name="IndBlock4SubText2" xml:space="preserve">
+    <value>¿Només vols tenir converses de pagament amb natius? Els tutors són la millor opció</value>
+  </data>
+  <data name="IndBlock4SubText3" xml:space="preserve">
+    <value>Aquesta és la teva opció si vols practicar idiomes gratis. Troba companys d'intercanvi, organitza Meetups i millora el teu nivell xatejant o fent trucades de vídeo en línia amb ells</value>
+  </data>
+  <data name="IndBlock4Subtitle1" xml:space="preserve">
+    <value>Professors certificats</value>
+  </data>
+  <data name="IndBlock4Subtitle2" xml:space="preserve">
+    <value>Tutors</value>
+  </data>
+  <data name="IndBlock4Subtitle3" xml:space="preserve">
+    <value>Inteercanvi d'idiomes</value>
+  </data>
+  <data name="LangnameTeachers" xml:space="preserve">
+    <value>Professor de {0} </value>
+  </data>
+  <data name="LanguageLearning" xml:space="preserve">
+    <value>Aprendre idiomes</value>
+  </data>
+  <data name="LanguageTeachers" xml:space="preserve">
+    <value>Professor d'idiomes</value>
   </data>
 </root>

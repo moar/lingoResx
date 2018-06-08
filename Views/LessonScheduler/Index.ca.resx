@@ -172,6 +172,9 @@
   <data name="StudentRejectedReschedule" xml:space="preserve">
     <value>L'estudiant va rebutjar reprogramar la classe. Data proposta: {0} {1} {2}</value>
   </data>
+  <data name="StudentRequestedCancel" xml:space="preserve">
+    <value>L'estudiant va sol·licitar cancel·lar</value>
+  </data>
   <data name="TeacherCancelled" xml:space="preserve">
     <value>Cancel·lada pel professor</value>
   </data>
@@ -182,9 +185,351 @@
     <value>Rebutjada pel professor </value>
   </data>
   <data name="TeacherRescheduleRequest" xml:space="preserve">
-    <value>El professor ha sol·licitat reprogramar la classe. Nova data de classe: {0] {1} {2} </value>
+    <value>El professor ha sol·licitat reprogramar la classe. Nova data de classe: {0] ( {1} {2}  )</value>
+  </data>
+  <data name="UnschedLessonConf" xml:space="preserve">
+    <value>Estàs segur que vols treure la planificació d'aquesta classe?</value>
+  </data>
+  <data name="Unscheduled" xml:space="preserve">
+    <value>Sense programa</value>
+  </data>
+  <data name="YouAcceptedReschedule" xml:space="preserve">
+    <value>Vas acceptar reprogramar la classe</value>
+  </data>
+  <data name="YouCancelled" xml:space="preserve">
+    <value>Cancel·lada per tu</value>
   </data>
   <data name="YouMissed" xml:space="preserve">
     <value>Et vas perdre la classe</value>
+  </data>
+  <data name="YouRejected" xml:space="preserve">
+    <value>Rebutjada per tu</value>
+  </data>
+  <data name="YouRejectedReschedule" xml:space="preserve">
+    <value> Vas rebutjar reprogramar la classe. Data proposta: {0} ( {1} {2} )</value>
+  </data>
+  <data name="YouRequestedCancel" xml:space="preserve">
+    <value>Vas sol·licitar cancel·lar</value>
+  </data>
+  <data name="YouRescheduleRequest" xml:space="preserve">
+    <value>Vas sol·licitar reprogramar la classe. Nova data de classe: {0} ( {1} {2} )</value>
+  </data>
+  <data name="CancelUnscheduleRequestConf" xml:space="preserve">
+    <value>Estàs segur que vols cancel·lar la teva sol·licitud?</value>
+  </data>
+  <data name="StudentCancelledUnschedule" xml:space="preserve">
+    <value>L'estudiant va cancel·lar la seva sol·licitud de desprogramar la classe</value>
+  </data>
+  <data name="TeacherCancelledReschedule" xml:space="preserve">
+    <value>El professor va cancel·lar la seva sol·licitud de reprogramar la classe</value>
+  </data>
+  <data name="TeacherCancelledUnschedule" xml:space="preserve">
+    <value>El professor va cancel·lar la seva sol·licitud de desprogramar la classe</value>
+  </data>
+  <data name="AcceptUnscheduleRequestConf" xml:space="preserve">
+    <value>Acceptes la sol·licitud de desprogramar la classe?</value>
+  </data>
+  <data name="RejectUnscheduleRequestConf" xml:space="preserve">
+    <value>¿Rebutges la sol·licitud de desprogramar la classe?</value>
+  </data>
+  <data name="StudentAcceptedUnschedule" xml:space="preserve">
+    <value>L'estudiant va acceptar la sol·licitud de desprogramar la classe</value>
+  </data>
+  <data name="StudentCancelledReschedule" xml:space="preserve">
+    <value>L'estudiant va cancel·lar la sol·licitud de reprogramar la classe</value>
+  </data>
+  <data name="StudentRejectedUnschedule" xml:space="preserve">
+    <value>L'estudiant va rebutjar la sol·licitud de desprogramar la classe</value>
+  </data>
+  <data name="StudentRescheduled" xml:space="preserve">
+    <value>L'estudiant ha reprogramat la classe. Nova data de classe: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentRescheduledUnsch" xml:space="preserve">
+    <value>L'estudiant va programar aquesta classe. Data de la nova classe: {0} ( {1} {2} )</value>
+  </data>
+  <data name="StudentRescheduleRequest" xml:space="preserve">
+    <value>L'estudiant ha sol·licitat reprogramar la classe. Nova data de classe:{0} ({1} {2})</value>
+  </data>
+  <data name="StudentRescheduleUnschRequest" xml:space="preserve">
+    <value>L'estudiant ha sol·licitat reprogramar la classe. Nova data de classe: {0} ({1} {2}) </value>
+  </data>
+  <data name="StudentUnscheduled" xml:space="preserve">
+    <value>L'estudiant va desprogramar aquesta classe: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentUnscheduleRequest" xml:space="preserve">
+    <value>L'estudiant ha sol·licitat desprogramar aquesta classe</value>
+  </data>
+  <data name="TeacherAcceptedReschedule" xml:space="preserve">
+    <value>El professor accepta reprogramar la classe</value>
+  </data>
+  <data name="TeacherAcceptedUnschedule" xml:space="preserve">
+    <value>El professor acepta desprogramar la classe</value>
+  </data>
+  <data name="TeacherRejectedReschedule" xml:space="preserve">
+    <value>El professor va rebutjar reprogramar la classe. Data proposta: {0} ({1} {2})</value>
+  </data>
+  <data name="TeacherRejectedUnschedule" xml:space="preserve">
+    <value>El professor rebutja desprogramar la classe</value>
+  </data>
+  <data name="TeacherRescheduleUnschRequest" xml:space="preserve">
+    <value>El professor ha sol·licitat programar la classe. Nova data de classe: {0} ({1} {2})</value>
+  </data>
+  <data name="TeacherUnscheduled" xml:space="preserve">
+    <value>El professor va desprogramar la classe</value>
+  </data>
+  <data name="TeacherUnscheduleRequest" xml:space="preserve">
+    <value>El professor ha sol·licitat desprogramar aquesta classe</value>
+  </data>
+  <data name="Unscheduling" xml:space="preserve">
+    <value>Desprogramant</value>
+  </data>
+  <data name="YouAcceptedUnschedule" xml:space="preserve">
+    <value>Vas acceptar desprogramar la classe</value>
+  </data>
+  <data name="YouCancelledReschedule" xml:space="preserve">
+    <value>Has cancel·lat la teva sol·licitud de reprogramar la classe</value>
+  </data>
+  <data name="YouCancelledUnschedule" xml:space="preserve">
+    <value>Has cancel·lat la teva sol·licitud de desprogramar la classe</value>
+  </data>
+  <data name="YouRejectedUnschedule" xml:space="preserve">
+    <value>Has rebutjat desprogramar la classe</value>
+  </data>
+  <data name="YouRequestedUnschedule" xml:space="preserve">
+    <value>Has sol·licitat desprogramar la classe</value>
+  </data>
+  <data name="YouRescheduled" xml:space="preserve">
+    <value>Has reprogramat la classe. Nova data de classe: {0} ({1} {2})</value>
+  </data>
+  <data name="YouRescheduledUnsch" xml:space="preserve">
+    <value>Has programat una nova classe. Nova data de classe: {0} ({1} {2})</value>
+  </data>
+  <data name="YouRescheduleUnschRequest" xml:space="preserve">
+    <value>Heu sol·licitat programar aquesta classe. Nova data de classe: {0} ({1} {2})</value>
+  </data>
+  <data name="YouUnscheduled" xml:space="preserve">
+    <value>Has desprogramat aquesta classe</value>
+  </data>
+  <data name="Mediation" xml:space="preserve">
+    <value>Mediació Langademy</value>
+  </data>
+  <data name="SolvingIssue" xml:space="preserve">
+    <value>Solucionant problema</value>
+  </data>
+  <data name="StudAcceptedCancelAndRefund" xml:space="preserve">
+    <value>L'estudiant ha acceptat la teva solució: La classe ha estat cancel·lada i es retornarà el 100% dels crèdits</value>
+  </data>
+  <data name="StudAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>L'estudiant ha acceptat la teva solució: La classe ha estat cancel·lada i es retornarà el 50% dels crèdits</value>
+  </data>
+  <data name="StudAcceptedCollect" xml:space="preserve">
+    <value>L'estudiant ha acceptat la teva solució: La classe ha estat marcada com a Completada i has rebut el 100% dels crèdits</value>
+  </data>
+  <data name="StudAcceptedCollectHalf" xml:space="preserve">
+    <value>L'estudiant ha acceptat la teva solució: La classe ha estat marcada com a Completada i has rebut el 50% dels crèdits</value>
+  </data>
+  <data name="StudAcceptedReschedule" xml:space="preserve">
+    <value>L'estudiant ha acceptat la teva solució: La classe ha estat marcada com a desprogramada. Tant tu com l'estudiant podeu proposar una nova data per a la classe.</value>
+  </data>
+  <data name="StudCancelledReport" xml:space="preserve">
+    <value>La notificació del problema ha estat cancel·lada per l'estudiant</value>
+  </data>
+  <data name="StudRejectedCancelAndRefund" xml:space="preserve">
+    <value>L'estudiant va rebutjar la teva solució: Cancel·lació de la classe i la devolució del 100% dels crèdits</value>
+  </data>
+  <data name="StudRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>L'estudiant va rebutjar la teva solució: Cancel·lació de la classe i la devolució del 50% dels crèdits</value>
+  </data>
+  <data name="StudRejectedCollect" xml:space="preserve">
+    <value>L'estudiant va rebutjar la teva solució: Marca classe com Completada i quedar-se amb el 100% dels crèdits.</value>
+  </data>
+  <data name="StudRejectedCollectHalf" xml:space="preserve">
+    <value>L'estudiant va rebutjar la teva solució: Marca classe com Completada i quedar-se amb el 50% dels crèdits.</value>
+  </data>
+  <data name="StudRejectedReschedule" xml:space="preserve">
+    <value>L'estudiant va rebutjar la teva solució: vas proposar reprogramar la classe</value>
+  </data>
+  <data name="StudReportedIssue" xml:space="preserve">
+    <value>L'estudiant va notificar problemes en aquesta classe.</value>
+  </data>
+  <data name="StudRequestedMediation" xml:space="preserve">
+    <value>L'estudiant va reclamar la intermediació de Langademy.</value>
+  </data>
+  <data name="TeachAcceptedCancelAndRefund" xml:space="preserve">
+    <value>El professor va acceptar la teva solució: La classe ha estat cancel·lada i el 100% dels crèdits ha estat retornat.</value>
+  </data>
+  <data name="TeachAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>El professor va acceptar la teva solució: La classe ha estat cancel·lada i el 50% dels crèdits ha estat retornat.</value>
+  </data>
+  <data name="TeachAcceptedCollect" xml:space="preserve">
+    <value>El professor va acceptar la teva solució: La classe ha estat marcada com a Completada i el professor va rebre el 100% dels crèdits</value>
+  </data>
+  <data name="TeachAcceptedCollectHalf" xml:space="preserve">
+    <value>El professor va acceptar la teva solució: La classe ha estat marcada com a Completada i el professor va rebre el 50% dels crèdits</value>
+  </data>
+  <data name="TeachAcceptedReschedule" xml:space="preserve">
+    <value>El professor va acceptar la teva solució: La classe ha estat marcada com a desprogramada. Tu o el teu professor podeu proposar una nova fletxa per a la classe.</value>
+  </data>
+  <data name="YouCancelledReport" xml:space="preserve">
+    <value>Has cancel·lat la notificació del problema.</value>
+  </data>
+  <data name="YouReportedIssue" xml:space="preserve">
+    <value>Notifica d'un problema sobre aquesta classe.</value>
+  </data>
+  <data name="YouRequestedMediation" xml:space="preserve">
+    <value>Has sol·licitat la mediació de Langademy</value>
+  </data>
+  <data name="YouTeachAcceptedCancelAndRefund" xml:space="preserve">
+    <value>Acceptar la solució de l'estudiant: La classe ha estat cancel·lada i s'ha retornat el 100% dels crèdits.</value>
+  </data>
+  <data name="YouTeachAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>Vas acceptar la solució de l'estudiant: La classe ha estat cancel·lada i s'ha retornat el 50% dels crèdits.</value>
+  </data>
+  <data name="YouTeachAcceptedCollect" xml:space="preserve">
+    <value>Vas acceptar la solució de l'estudiant: La classe ha estat marcada com a Completada i vas rebre el 100% dels crèdits</value>
+  </data>
+  <data name="YouTeachAcceptedCollectHalf" xml:space="preserve">
+    <value>Vas acceptar la solució de l'estudiant: La classe ha estat marcada com a completada i vas rebre el 50% dels crèdits</value>
+  </data>
+  <data name="YouTeachAcceptedReschedule" xml:space="preserve">
+    <value>Vas acceptar la solució de l'estudiant: La classe ha estat marcada com a desprogramada. Tu o el teu estudiant podeu proposar una nova data.</value>
+  </data>
+  <data name="YouTeachRejectedCancelAndRefund" xml:space="preserve">
+    <value>Vas rebutjar la solució de l'estudiant: cancel·lació de la classe i devolució del 100% dels crèdits</value>
+  </data>
+  <data name="YouTeachRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>Vas rebutjar la solució de l'estudiant: Cancel·lació de la classe i devolució del 50% dels crèdits</value>
+  </data>
+  <data name="YouTeachRejectedCollect" xml:space="preserve">
+    <value>Vas rebutjar la solució de l'estudiant: Marca classe com Completada i rebre el 100% dels crèdits</value>
+  </data>
+  <data name="YouTeachRejectedCollectHalf" xml:space="preserve">
+    <value>Has rebutjat la solució de l'estudiant: Marcar la classe com Completada i rebre el 50% dels crèdits</value>
+  </data>
+  <data name="YouTeachRejectedReschedule" xml:space="preserve">
+    <value>Has rebutjat la solució de l'estudiant: L'estudiant va proposar reprogramar la classe</value>
+  </data>
+  <data name="CancelReportConf" xml:space="preserve">
+    <value>Estàs segur que vols cancel·lar aquesta notificació?</value>
+  </data>
+  <data name="Incompleted" xml:space="preserve">
+    <value>Incomplet</value>
+  </data>
+  <data name="StudentProposedSolution" xml:space="preserve">
+    <value>L'estudiant ha proposat aquesta solució</value>
+  </data>
+  <data name="TeachCancelledReport" xml:space="preserve">
+    <value>El problema esmentat ha estat cancel·lat pel professor</value>
+  </data>
+  <data name="TeacherProposedSolution" xml:space="preserve">
+    <value>El professor ha proposat aquesta solució</value>
+  </data>
+  <data name="TeachRejectedCancelAndRefund" xml:space="preserve">
+    <value>El professor va rebutjar la teva solució: Cancel·lació de la classe i devolució del 100% dels crèdits</value>
+  </data>
+  <data name="TeachRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>El professor va rebutjar la teva solució: Cancel·lació de la classe i devolució del 50% dels crèdits.</value>
+  </data>
+  <data name="TeachRejectedCollect" xml:space="preserve">
+    <value>El professor va rebutjar la teva solució: Marca la classe com Completada i pagar el 100% dels crèdits</value>
+  </data>
+  <data name="TeachRejectedCollectHalf" xml:space="preserve">
+    <value>El professor va rebutjar la teva solució: Marca la classe com Completada i pagar el 50% dels crèdits</value>
+  </data>
+  <data name="TeachRejectedReschedule" xml:space="preserve">
+    <value>El professor va rebutjar la teva solució: vas proposar reprogramar la classe</value>
+  </data>
+  <data name="TeachReportedIssue" xml:space="preserve">
+    <value>El professor va notificar problemes en aquesta classe</value>
+  </data>
+  <data name="TeachRequestedMediation" xml:space="preserve">
+    <value>El professor va sol·licitar la mediació de Langademy</value>
+  </data>
+  <data name="YouProposedSolution" xml:space="preserve">
+    <value>Vas proposar aquesta solució</value>
+  </data>
+  <data name="YouStudAcceptedCancelAndRefund" xml:space="preserve">
+    <value>Has acceptar la solució del professor: La classe ha estat cancel·lada i el 100% dels crèdits han estat retornats</value>
+  </data>
+  <data name="YouStudAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>Has acceptat la solució del professor: La classe ha estat cancel·lada iel 50% dels crèdits han estat retornats</value>
+  </data>
+  <data name="YouStudAcceptedCollect" xml:space="preserve">
+    <value>Has acceptat la solució del professor: La classe ha estat marcada com a Completada i has pagat el 100% dels crèdits</value>
+  </data>
+  <data name="YouStudAcceptedCollectHalf" xml:space="preserve">
+    <value>Has acceptat la solució del professor: La classe ha estat marcada com a Completada i has pagat el 50% dels crèdits</value>
+  </data>
+  <data name="YouStudAcceptedReschedule" xml:space="preserve">
+    <value>Has acceptat la solució del professor: La classe ha estat marcada com a desprogramada. Tant tu com el professor podeu proposar una nova data per a la classe</value>
+  </data>
+  <data name="YouStudRejectedCancelAndRefund" xml:space="preserve">
+    <value>Has rebutjat  la solució del professor: Cancel·lació de la classe i la devolució del 100% dels crèdits</value>
+  </data>
+  <data name="YouStudRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>Has rebutjat la solució del professor: Cancel·lació de la classe i la devolució del 50% dels crèdits</value>
+  </data>
+  <data name="YouStudRejectedCollect" xml:space="preserve">
+    <value>Has rebutjat la solució del professor: Marcar la classe com Completada i pagar el 100% dels crèdits</value>
+  </data>
+  <data name="YouStudRejectedCollectHalf" xml:space="preserve">
+    <value>Has rebutjat  la solució del professor: Marcar la classe com Completada i pagar el 50% dels crèdits</value>
+  </data>
+  <data name="YouStudRejectedReschedule" xml:space="preserve">
+    <value>Has rebutjat la solució del professor: El professor va proposar reprogramar la classe</value>
+  </data>
+  <data name="StudentCompleteLessonConf" xml:space="preserve">
+    <value>¿Confirmes que aquesta classe s'ha completat correctament? Amb la confirmació, es processarà el pagament al professor.</value>
+  </data>
+  <data name="Processing" xml:space="preserve">
+    <value>En procés</value>
+  </data>
+  <data name="CannotAcceptReschedulePast" xml:space="preserve">
+    <value>No pots acceptar reprogramar la classe perquè la nova data de classe ja ha passat. Pots rebutjar la sol·licitud o desprogramar la classe</value>
+  </data>
+  <data name="StudentUnscheduledPast" xml:space="preserve">
+    <value>L'estudiant no va poder acceptar reprogramar la classe perquè la nova data ja va passar</value>
+  </data>
+  <data name="TeacherUnscheduledPast" xml:space="preserve">
+    <value>El professor no va poder acceptar reprogramar la classe perquè la nova data ja va passar</value>
+  </data>
+  <data name="YouUnscheduledPast" xml:space="preserve">
+    <value>No vas poder acceptar reprogramar la classe perquè la nova data ja va passar</value>
+  </data>
+  <data name="Cancelled" xml:space="preserve">
+    <value>Cancel·lada</value>
+  </data>
+  <data name="AcceptReschSolutionConf" xml:space="preserve">
+    <value>Acceptes reprogramar aquesta classe? La classe es desprogramarà perquè puguis proposar una nova data</value>
+  </data>
+  <data name="StudentRejectReportConf" xml:space="preserve">
+    <value>¿Rebutges la solució proposada pel professor per resoldre aquest problema? Parla amb el professor i notifica un nou problema proposant la teva solució. Si al final no arribeu a un acord pots sol·licitar la mediació de Langademy</value>
+  </data>
+  <data name="TeacherRejectReportConf" xml:space="preserve">
+    <value>¿Rebutges la solució proposada per l'estudiant per resoldre aquest problema? Parla amb l'estudiant i notifica un nou problema proposant la teva solució. Si al final no arribeu a un acord pots sol·licitar la mediació de Langademy</value>
+  </data>
+  <data name="AcceptCancelRefHalfSolutionConf" xml:space="preserve">
+    <value>Acceptes cancel·lar aquesta classe? Es retornarà el 50% del preu d'aquesta classe</value>
+  </data>
+  <data name="AcceptCancelRefSolutionConf" xml:space="preserve">
+    <value>Acceptes cancel·lar aquesta classe? Es retornarà el 100% del preu d'aquesta classe</value>
+  </data>
+  <data name="AcceptCollectHalfSolutionConf" xml:space="preserve">
+    <value>Acceptes marcar la classe com Completada? Es pagarà el 50% del preu de la classe</value>
+  </data>
+  <data name="AcceptCollectSolutionConf" xml:space="preserve">
+    <value>Acceptes marcar la classe com Completada? Es pagarà el 100% del preu de la classe</value>
+  </data>
+  <data name="CancelMediationReqConf" xml:space="preserve">
+    <value>Estàs segur que vols cancel·lar la teva sol·licitud de mediació?</value>
+  </data>
+  <data name="StudCancelMediation" xml:space="preserve">
+    <value>L'estudiant va cancel·lar la sol·licitud de mediació</value>
+  </data>
+  <data name="TeachCancelMediation" xml:space="preserve">
+    <value>El professor va cancel·lar la sol·licitud de mediació</value>
+  </data>
+  <data name="YouCancelMediation" xml:space="preserve">
+    <value>Has cancel·lat la sol·licitud de mediació</value>
   </data>
 </root>

@@ -223,7 +223,7 @@
     <value>aiuto/banca-del-tempo</value>
   </data>
   <data name="my-meetups" xml:space="preserve">
-    <value>scambio-di-lingue-online/y-miei-meetups/</value>
+    <value>scambio-di-lingue-online/i-miei-meetups/</value>
   </data>
   <data name="new-meetup" xml:space="preserve">
     <value>scambio-di-lingue-online/nuovo-meetup/</value>
@@ -250,7 +250,7 @@
     <value>scambio-di-lingue-online/meetups/</value>
   </data>
   <data name="languagePartnersNatives" xml:space="preserve">
-    <value>lingue-partners/madre-lingua/</value>
+    <value>partners-praticare-lingue/madrelingua/</value>
   </data>
   <data name="onlineLanguageExchangePartners" xml:space="preserve">
     <value>scambio-di-lingue-online/partners/</value>
@@ -280,7 +280,7 @@
     <value>scambio-di-lingue-online/come-fare/</value>
   </data>
   <data name="learn-spanish-vegetable-names" xml:space="preserve">
-    <value>imparare-lingue/spagnolo/verdura-vocabolario/</value>
+    <value>imparare-lingue/spagnolo/verdure-vocabolario/</value>
   </data>
   <data name="learn-spanish-tonguetwisters" xml:space="preserve">
     <value>imparare-lingue/spagnolo/scioglilingua/</value>
@@ -304,22 +304,25 @@
     <value>imparare-lingue/inglese/i-migliori-canali-youtube/</value>
   </data>
   <data name="english-alphabet" xml:space="preserve">
-    <value>imparare-lingue/inglese/migliorare-la-pronuncia/alfabeto/</value>
+    <value>imparare-lingue/inglese/come-migliorare-la-pronuncia/alfabeto/</value>
   </data>
   <data name="english-basic-words" xml:space="preserve">
     <value>imparare-lingue/inglese/parole/</value>
   </data>
   <data name="was-y-were" xml:space="preserve">
-    <value>imparare-lingue/inglese/was-e-were/</value>
+    <value>imparare-lingue/inglese/was-were/</value>
   </data>
   <data name="teachonline" xml:space="preserve">
-    <value>insegnare-lingue-online</value>
+    <value>insegnante-online-lingue</value>
   </data>
   <data name="teach-spanish" xml:space="preserve">
-    <value>insegnare-lingue-online/spagnolo/</value>
+    <value>insegnante-online-lingue/spagnolo/</value>
   </data>
   <data name="english-personal-pronouns" xml:space="preserve">
-    <value>imparare-lingue/inglese/pronomi-personali</value>
+    <value>imparare-lingue/inglese/pronomi-personali/</value>
+  </data>
+  <data name="booklessons" xml:space="preserve">
+    <value>insegnanti/{username}/prenotare-{langname}-lezioni/</value>
   </data>
   <data name="teacherprofile" xml:space="preserve">
     <value>insegnanti/{username}/</value>
@@ -329,5 +332,38 @@
   </data>
   <data name="tutors" xml:space="preserve">
     <value>tutori/</value>
+  </data>
+  <data name="teachers-quickstart" xml:space="preserve">
+    <value>insegnante-online-lingua-/inizio/</value>
+  </data>
+  <data name="check-profile" xml:space="preserve">
+    <value>aiuto/revisionare-profilo/</value>
+  </data>
+  <data name="classrooms" xml:space="preserve">
+    <value>aiuto/lezioni/</value>
+  </data>
+  <data name="dashboard" xml:space="preserve">
+    <value>aiuto/pannello/principale/</value>
+  </data>
+  <data name="finances-intro" xml:space="preserve">
+    <value>aiuto/into-finanze/</value>
+  </data>
+  <data name="lesson-sales" xml:space="preserve">
+    <value>aiuto/vendita-lezioni/</value>
+  </data>
+  <data name="my-calendar" xml:space="preserve">
+    <value>aiuto/calendario/</value>
+  </data>
+  <data name="recommendations-profile" xml:space="preserve">
+    <value>aiuto/raccomandazioni-profilo/</value>
+  </data>
+  <data name="schedule-process" xml:space="preserve">
+    <value>aiuto/gestione-lezioni/</value>
+  </data>
+  <data name="teachers-can-do" xml:space="preserve">
+    <value>aiuto/cosa-fare/</value>
+  </data>
+  <data name="wallet-intro" xml:space="preserve">
+    <value>aiuto/introduzione-wallet/</value>
   </data>
 </root>

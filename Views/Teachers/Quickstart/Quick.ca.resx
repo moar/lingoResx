@@ -117,4 +117,115 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  </root>
+  <data name="ActionCall1" xml:space="preserve">
+    <value>Sol·licita un lloc</value>
+  </data>
+  <data name="Block1SubTitle" xml:space="preserve">
+    <value>Ensenya el teu idioma natiu i guanya diners, des d'on vulguis, quan tu vulguis</value>
+  </data>
+  <data name="Block2SubTitle" xml:space="preserve">
+    <value>Estableix la teva tarifa i guanya diners per ensenyar el teu idioma natiu a estudiants de tot el món</value>
+  </data>
+  <data name="Block2Title" xml:space="preserve">
+    <value>Guanya diners</value>
+  </data>
+  <data name="Block3Subtitle" xml:space="preserve">
+    <value>Donaràs classes en línia a través de vídeo conferències, de manera que podràs treballar des d'on vulguis</value>
+  </data>
+  <data name="Block3Title" xml:space="preserve">
+    <value>Treballa des d'on vulguis</value>
+  </data>
+  <data name="Block4Subtitle" xml:space="preserve">
+    <value>Omple la teva disponibilitat al teu calendari personal. Podràs establir l'horari que més et convingui</value>
+  </data>
+  <data name="Block4Title" xml:space="preserve">
+    <value>Els teus propis horaris</value>
+  </data>
+  <data name="Block5Subtitles" xml:space="preserve">
+    <value>Tu decideixes quant guanyaràs i el nombre d'hores que inverteixes a la plataforma</value>
+  </data>
+  <data name="Block5Title" xml:space="preserve">
+    <value>Tu estableixes el límit</value>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>Preguntes freqüents</value>
+  </data>
+  <data name="General1" xml:space="preserve">
+    <value>Que és Langademy?</value>
+  </data>
+  <data name="General1Answer" xml:space="preserve">
+    <value>Langademy és una xarxa social per aprendre idiomes. En aquesta plataforma els professors fan classes mitjançant videoconferència sense necessitat d'utilitzar altres eines com Skype.</value>
+  </data>
+  <data name="General2" xml:space="preserve">
+    <value>Com i on puc ensenyar?</value>
+  </data>
+  <data name="General2Answer" xml:space="preserve">
+    <value>En Langademy totes les classes les impartirás en línia, a través de la tecnologia de videoconferències de Langademy. Per tant, podràs treballar des d'on vulguis amb el teu tauleta o ordinador i una connexió a internet.</value>
+  </data>
+  <data name="GeneralTitle" xml:space="preserve">
+    <value>Preguntes generals</value>
+  </data>
+  <data name="HowToStart" xml:space="preserve">
+    <value>Com començar</value>
+  </data>
+  <data name="MainTitleP1" xml:space="preserve">
+    <value>Converteix-te</value>
+  </data>
+  <data name="MainTitleP2" xml:space="preserve">
+    <value>amb professor</value>
+  </data>
+  <data name="Prices1" xml:space="preserve">
+    <value>Quant puc guanyar en Langademy?</value>
+  </data>
+  <data name="Prices1Answer" xml:space="preserve">
+    <value>Langademy no et posa cap límit. Com més classes impartas, més diners guanyaràs. Tu establiràs les teves pròpies tarifes, de manera que és a les teves mans decidir quant treballes i quant ganes per classe impartida.</value>
+  </data>
+  <data name="Prices2" xml:space="preserve">
+    <value>Qui estableix les tarifes?</value>
+  </data>
+  <data name="Prices2Answer" xml:space="preserve">
+    <value>Els professors estableixen les seves tarifes</value>
+  </data>
+  <data name="Prices3" xml:space="preserve">
+    <value>¿Quan puc retirar els meus diners de Langademy?</value>
+  </data>
+  <data name="Prices3Answer" xml:space="preserve">
+    <value>No has d'esperar a final de mes per poder recollir les teves beneficis. Pots sol·licitar la retirada de diners quan vulguis.Langademy processa les sol·licituds diverses vegades al mes</value>
+  </data>
+  <data name="PricesTitle" xml:space="preserve">
+    <value>Preus i cobraments</value>
+  </data>
+  <data name="Req1" xml:space="preserve">
+    <value>Horaris</value>
+  </data>
+  <data name="Req1Answer" xml:space="preserve">
+    <value>Langademy no estableix restriccions pel que fa als horaris. Cada professor pot definir els seus propis horaris en el seu calendari. Recorda que si estableixes un horari molt estricte, serà més difícil que els alumnes et contractin.</value>
+  </data>
+  <data name="Req2" xml:space="preserve">
+    <value>És necessari tenir experiència com a professor d'idiomes?</value>
+  </data>
+  <data name="Req2Answer" xml:space="preserve">
+    <value>Sí, cal tenir experiència prèvia ensenyant el teu idioma natiu a estudiants d'altres idiomes. Hauràs enviar el teu CV i certificats (si en tens) i Langademy revisarà la teva experiència com a professor.</value>
+  </data>
+  <data name="Req3" xml:space="preserve">
+    <value>Necessito certificats d'ensenyament d'idiomes?</value>
+  </data>
+  <data name="Req3Answer" xml:space="preserve">
+    <value>Encara que no sigui un requisit indispensable, es valorarà positivament tenir certificats d'ensenyament en l'idioma natiu.</value>
+  </data>
+  <data name="Req4" xml:space="preserve">
+    <value>Quina tecnologia necessito per utilitzar Langademy?</value>
+  </data>
+  <data name="Req4Answer" xml:space="preserve">
+    <value>Només necessites una webcam, un micròfon i una bona connexió a internet. Quan demanis un lloc en Langademy, ens encarregarem de verificar que disposes d'aquests requisits. També hauràs de tenir instal·lat una de les últimes versions de Chrome o Firefox si desitges impartir classes en Langademy.</value>
+  </data>
+  <data name="Req5" xml:space="preserve">
+    <value>Com puc aconseguir estudiants?</value>
+  </data>
+  <data name="Req5Answer" xml:space="preserve">
+    <value>Dóna major visibilitat al teu perfil. Parla sobre Langademy i promociona el teu perfil en diferents xarxes socials (YouTube, Linkedin ...) i en els vostres blocs. En la resta, pots estar tranquil. En Langademy ens encarregarem que els estudiants vulguin contractar-te.</value>
+  </data>
+  <data name="RequirementsTitle" xml:space="preserve">
+    <value>Requisits</value>
+  </data>
+</root>

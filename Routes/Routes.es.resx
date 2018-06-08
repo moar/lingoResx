@@ -336,4 +336,34 @@
   <data name="teachers-quickstart" xml:space="preserve">
     <value>profesor-en-linea-idioma/empezar/</value>
   </data>
+  <data name="check-profile" xml:space="preserve">
+    <value>ayuda/revisar-perfil/</value>
+  </data>
+  <data name="classrooms" xml:space="preserve">
+    <value>ayuda/clases/</value>
+  </data>
+  <data name="dashboard" xml:space="preserve">
+    <value>ayuda/panel-principal/</value>
+  </data>
+  <data name="finances-intro" xml:space="preserve">
+    <value>ayuda/intro-finanazas/</value>
+  </data>
+  <data name="lesson-sales" xml:space="preserve">
+    <value>ayuda/venta-clases/</value>
+  </data>
+  <data name="my-calendar" xml:space="preserve">
+    <value>ayuda/calendario/</value>
+  </data>
+  <data name="recommendations-profile" xml:space="preserve">
+    <value>ayuda/recomendaciones-perfil/</value>
+  </data>
+  <data name="schedule-process" xml:space="preserve">
+    <value>ayuda/gestion-clases/</value>
+  </data>
+  <data name="teachers-can-do" xml:space="preserve">
+    <value>ayuda/que-hacer/</value>
+  </data>
+  <data name="wallet-intro" xml:space="preserve">
+    <value>ayuda/introduccion-wallet/</value>
+  </data>
 </root>

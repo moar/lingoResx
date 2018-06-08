@@ -226,19 +226,19 @@
     <value>intercanvi-idiomes-online/les-meves-quedades/</value>
   </data>
   <data name="new-meetup" xml:space="preserve">
-    <value>intercanvi-idiomes-online/nova-quedade/</value>
+    <value>intercanvi-idiomes-online/nova-quedada/</value>
   </data>
   <data name="english-conversations" xml:space="preserve">
     <value>angles-conversacions</value>
   </data>
   <data name="improve-english-pronunciation" xml:space="preserve">
-    <value>millora-pronunciacio-angles</value>
+    <value>com-millora-pronunciacio-angles</value>
   </data>
   <data name="language-exchanges" xml:space="preserve">
     <value>intercanvis-idiomes</value>
   </data>
   <data name="learn-english-quickly" xml:space="preserve">
-    <value>aprendre-angles-rapidament</value>
+    <value>com-aprendre-angles-rapidament</value>
   </data>
   <data name="meetup-guid" xml:space="preserve">
     <value>intercanvi-idiomes-online/quedades/{meetid:guid}/{meetupName}/</value>
@@ -250,7 +250,7 @@
     <value>intercanvi-idiomes-online/quedades/</value>
   </data>
   <data name="languagePartnersNatives" xml:space="preserve">
-    <value>companys-idiomes/natius/</value>
+    <value>companys-practicar-idiomes/natius/</value>
   </data>
   <data name="onlineLanguageExchangePartners" xml:space="preserve">
     <value>intercanvi-idiomes-online/companys/</value>
@@ -304,22 +304,22 @@
     <value>aprendre-idiomes/angles/converses/millors-canals-youtube/</value>
   </data>
   <data name="english-alphabet" xml:space="preserve">
-    <value>aprendre-idiomes/angles/pronunciacio/alfabet/</value>
+    <value>aprendre-idiomes/angles/com-millorar-pronunciacio/alfabet/</value>
   </data>
   <data name="english-basic-words" xml:space="preserve">
     <value>aprendre-idiomes/angles/paraules/</value>
   </data>
   <data name="was-y-were" xml:space="preserve">
-    <value>aprendre-idiomes/angles/was-i-were/</value>
+    <value>aprendre-idiomes/angles/was-were/</value>
   </data>
   <data name="teachonline" xml:space="preserve">
-    <value>ensenyar-idiomes-online</value>
+    <value>professor-online-idiomes</value>
   </data>
   <data name="teach-spanish" xml:space="preserve">
-    <value>ensenyar-idiomes-online/espanyol/</value>
+    <value>professor-online-idiomes/espaynol/</value>
   </data>
   <data name="english-personal-pronouns" xml:space="preserve">
-    <value>aprendre-idiomes/angles/pronoms-personals</value>
+    <value>aprendre-idiomes/angles/pronoms-personals/</value>
   </data>
   <data name="booklessons" xml:space="preserve">
     <value>professors/{username}/reservar-{langname}-classes/</value>
@@ -332,5 +332,38 @@
   </data>
   <data name="tutors" xml:space="preserve">
     <value>tutors/</value>
+  </data>
+  <data name="teachers-quickstart" xml:space="preserve">
+    <value>professor-online-idioma/comencar/</value>
+  </data>
+  <data name="check-profile" xml:space="preserve">
+    <value>ajuda/revisar-perfil/</value>
+  </data>
+  <data name="classrooms" xml:space="preserve">
+    <value>ajuda/classes/</value>
+  </data>
+  <data name="dashboard" xml:space="preserve">
+    <value>ajuda/panell/principal/</value>
+  </data>
+  <data name="finances-intro" xml:space="preserve">
+    <value>ajuda/intro-finances/</value>
+  </data>
+  <data name="lesson-sales" xml:space="preserve">
+    <value>ajuda/venta-classes/</value>
+  </data>
+  <data name="my-calendar" xml:space="preserve">
+    <value>ajuda/calendari/</value>
+  </data>
+  <data name="recommendations-profile" xml:space="preserve">
+    <value>ajuda/recomanacions-perfil/</value>
+  </data>
+  <data name="schedule-process" xml:space="preserve">
+    <value>ajuda/gestio-classes/</value>
+  </data>
+  <data name="teachers-can-do" xml:space="preserve">
+    <value>ajuda/que-fer/</value>
+  </data>
+  <data name="wallet-intro" xml:space="preserve">
+    <value>ajuda/introduccio-wallet/</value>
   </data>
 </root>

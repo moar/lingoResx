@@ -130,6 +130,6 @@
     <value>Scegliere un insegnante in base alla sua esperienza, al curriculum, alle tasse e alle valutazioni degli altri studenti.</value>
   </data>
   <data name="TeachersTip3" xml:space="preserve">
-    <value>Fai una prenotazione sul suo profilo per insegnare una classe. Per una lezione di prova, è meglio scegliere la tariffa "classe 30 minuti".</value>
+    <value>Accedi al profilo dell'insegnante per prenotare una lezione. L'opzione migliore per una lezione di prova è scegliere la tariffa "classe 30 minuti".</value>
   </data>
 </root>

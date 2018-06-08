@@ -264,4 +264,7 @@
   <data name="CannotModifyLangTeacherRate" xml:space="preserve">
     <value>No pots modificar el teu nivell perquè has definit tarifes per ensenyar aquest idioma al teu perfil de professor</value>
   </data>
+  <data name="NoRate" xml:space="preserve">
+    <value>No s'ha definit cap tarifa encara</value>
+  </data>
 </root>

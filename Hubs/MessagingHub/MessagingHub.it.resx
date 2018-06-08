@@ -193,4 +193,7 @@
   <data name="RejectCall" xml:space="preserve">
     <value>La chiamata da&lt;span class="text-bold"&gt;{0}&lt;/span&gt; è stata rifiutata</value>
   </data>
+  <data name="NativeWalletNotReqs" xml:space="preserve">
+    <value>Questo utente non è abilitato ad accettare chiamate</value>
+  </data>
 </root>

@@ -149,7 +149,7 @@
     <value>Convida als teus amics i obtindràs 30 minuts addicionals per cada amic que es registre amb la teva invitació. També pots guanyar hores al teu Banc de Temps seguint-nos en Twitter i Facebook (+ 30 minuts).</value>
   </data>
   <data name="TimeBankF4" xml:space="preserve">
-    <value>Quan practiques un idioma que no siga el teu idioma natiu, estaràs gastant temps del teu compte del Banc del Temps. En canvi, si ajudes amb un idioma que domines (nivell mínim: C2), a un altre usuari et sumarà aquest temps al teu compte.</value>
+    <value>Quan fas una trucada de vídeo de banc de temps ({0}) en una llengua que no sigui el teu idioma natiu, gastes temps del teu compte del Banc de Temps. En canvi, si fas una trucada de vídeo en un idioma que domines (nivell mínim: C2) amb un altre usuari de menor nivell, se sumarà el temps de la trucada al teu compte.</value>
   </data>
   <data name="TimeBankF5" xml:space="preserve">
     <value>Les trucades de menys d'un minut no tenen cap cost</value>
@@ -203,7 +203,7 @@
     <value>Sales de xat</value>
   </data>
   <data name="HelpTBWorkTitle" xml:space="preserve">
-    <value>Com funciona el Banc del Temps?</value>
+    <value>Regles del Banc del Temps</value>
   </data>
   <data name="HelpWalletIntroTitle" xml:space="preserve">
     <value>My Wallet</value>
@@ -248,7 +248,8 @@
     <value>Quan coneixes algun company nou en una sala, pots enviar-li una sol·licitud de connexió. Quan estigueu connectats, podreu fer videotrucades entre els dos sense haver d'entrar a les sala.</value>
   </data>
   <data name="HelpTBIntro1" xml:space="preserve">
-    <value>El Banc del Temps ofereix una manera per aprendre idiomes sense que hagis de gastar diners: el temps que utilitzis per parlar en el teu idioma natiu amb els estudiants serà afegit al teu compte de Banc del Temps. Mira les regles del Banc del Temps ({0}).</value>
+    <value>El Banc del Temps ofereix una manera per aprendre idiomes sense que hagis de gastar diners: el temps que utilitzis per parlar en el teu idioma natiu amb els estudiants s'afegirà al teu compte de Banc de Temps perquè l'utilitzis fent trucades de vídeo en altres idiomes. Mira les regles del Banc del Temps ({0}).
+</value>
   </data>
   <data name="HelpTBIntro2" xml:space="preserve">
     <value>A la teva pàgina d'inici pots veure el saldo del compte del Banc de Temps, i si accedeixes a l'aplicació {0} podràs consultar l'històric i els detalls dels teus moviments.</value>
@@ -272,22 +273,22 @@
     <value>Pots accedir al tauler de quedades a través de la pàgina d'inici o des de les sales de xat. Un cop accedeixis al tauler, podràs veure les quedades dels idiomes que tens afegits en el teu perfil. Si vols crear una quedada, seleccioneu un idioma, data i una hora per a la trobada. Quan hagis creat la trobada, pots convidar als teus contactes de Langademy a que s'uneixin a aquesta.</value>
   </data>
   <data name="HelpWalletFees1" xml:space="preserve">
-    <value>Als parlants natius se'ls retindrà el 13% (+ IVA) de la quantitat que se li hagi cobrat l'estudiant. El saldo serà actualitzat quan la trucada hagi finalitzat.</value>
+    <value>Langademy cobra als parlants natius el 13% (+ IVA) de la quantitat que cobrin els estudiants en cada trucada vídeo Wallet. Un cop finalitza la trucada de vídeo s'actualitza el saldo disponible. (Pots controlar el teu saldo disponible a {0}) ({1})</value>
   </data>
   <data name="HelpWalletFees2" xml:space="preserve">
-    <value>Per entendre com es calcula el saldo disponible, cal tenir en compte els següents termes:</value>
+    <value>El saldo disponible representa la quantitat actual de crèdits que pots gastar. Per entendre com es calcula, cal tenir en compte els següents termes:</value>
   </data>
   <data name="HelpWalletFees3" xml:space="preserve">
     <value>Saldo total: mostra el nombre total de crèdits sense que la comissió del 13% hagi estat aplicada</value>
   </data>
   <data name="HelpWalletFees4" xml:space="preserve">
-    <value>Comissió de Langademy: a final de mes Langademy cobrarà un 13% a les converses que han mantingut els parlants nadius. Aquesta comissió serà reflectida en la següent emissió de la factura. La comissió no es cobrarà fins que la factura sigui emesa,</value>
+    <value>Comissió d'Langademy: a final de mes Langademy cobra una comissió del 13% a les converses que han mantingut els parlants nadius. Aquesta comissió es reflecteix en la següent factura ({0}) . Tot i que la comissió no es resta del saldo del compte fins que s'emet la factura, aquesta quantitat queda retinguda i tampoc pots gastar-la.</value>
   </data>
   <data name="HelpWalletFees5" xml:space="preserve">
     <value>Sol·licituds pendents de retirada de crèdits: quan es fa una sol·licitud, la quantitat de crèdits que s'hagi sol·licitat no estarà disponible per a l'ús. </value>
   </data>
   <data name="HelpWalletFees6" xml:space="preserve">
-    <value>Saldo disponible: veient els conceptes que s'han explicat, aquest és el càlcul del saldo disponible:</value>
+    <value>Saldo disponible: A la vista dels termes definits, el saldo disponible es calcula així:</value>
   </data>
   <data name="HelpWalletFees7" xml:space="preserve">
     <value>Saldo disponible = saldo total - comissió de Langademy - nombre de crèdits sol·licitats per a la retirada</value>
@@ -326,10 +327,10 @@
     <value>Omplir l'adreça de facturació: ves a My Wallet i omple la teva adreça de facturació</value>
   </data>
   <data name="HelpWalletIntro1" xml:space="preserve">
-    <value>My Wallet és l'aplicació on pots gestionar les teves finances de Langademy. En aquest app podràs consultar els teus moviments, el teu històric de factures i afegir o editar la teva informació de facturació. Langademy també permet les compres i reintegraments de crèdits.</value>
+    <value>&lt;span0&gt;&lt;/span0&gt; My Wallet és l'app on pots gestionar les teves finances de Langademy. En aquest app podràs consultar els teus moviments, el teu històric de factures i afegir o editar la teva informació de facturació. Langademy també permet les compres i reintegraments de crèdits.</value>
   </data>
   <data name="HelpWalletIntro2" xml:space="preserve">
-    <value>Si has entrat en Langademy per aprendre idiomes, ves a les sales de xat i revisa les seves tarifes i reputacions</value>
+    <value>Pots obrir el app My Wallet clicant el botó Apps &lt;span0&gt; &lt;/span0&gt; del Panell de Control i seleccionant el botó my Wallet &lt;span1&gt; &lt;/ span1&gt;</value>
   </data>
   <data name="HelpHeaderTitle" xml:space="preserve">
     <value>Ajuda de Langademy</value>
@@ -380,7 +381,7 @@
     <value>Com puc esborrar una franja marcada com a disponible?</value>
   </data>
   <data name="HelpSetAvailability13" xml:space="preserve">
-    <value>Fes clic en el bloc que vols eliminar i veuràs una finestra flotant amb l'opció d'esborrar. Fes clic esborrar per confirmar.</value>
+    <value>Fes clic en el bloc que vols eliminar i veuràs una finestra flotant amb l'opció d'esborrar. Fes clic a esborrar per confirmar.</value>
   </data>
   <data name="HelpSetAvailability2" xml:space="preserve">
     <value>Mantenir la teva disponibilitat actualitzada t'ajudarà a organitzar el teu temps com a parlant natiu i evitaràs haver de rebre sol·licituds de contacte quan no vulguis parlar amb estudiants. Tingues en compte que si no defineixes la teva disponibilitat, només podràs fer videotrucades amb la teva llista de contactes o amb els estudiants que trobis a les sales de xat.</value>
@@ -443,7 +444,7 @@
     <value>Les quedades són la manera perquè altres companys sàpiguen amb temps quan vas a estar en una sala de xat. D'aquesta manera, els estudiants i altres parlants natius podran unir-se a tu a la mateixa hora. De fet, pots entrar a les sales de xat quan vulguis, però siguem honestos, és més fàcil ajuntar a gent si un esdeveniment s'organitza amb anterioritat.</value>
   </data>
   <data name="HelpHowMeetPartners3" xml:space="preserve">
-    <value>Revisa el teu &lt;a href="{0}" class="link applnk"&gt; Calendari&lt;/a&gt; per veure les quedades que s'han organitzat. Si hi ha alguna quedada que t'interessi, no dubtis a apuntar-te. Si no, crea una de nova.</value>
+    <value>Ves a l'app  &lt;a href="{0}" class="link applnk"&gt;Meetups&lt;/a&gt; per veure les quedades que s'han organitzat. Si hi ha alguna quedada que t'interessi, no dubtis a apuntar-te. Si no, crea una de nova.</value>
   </data>
   <data name="HelpHowMeetPartners4" xml:space="preserve">
     <value>Quan t'apuntes a una quedada, s'afegirà un esdeveniment en el calendari. Accedeix i podràs escriure en el tauler de la quedada, també podràs proposar temes de conversa per la quedada.</value>
@@ -452,7 +453,7 @@
     <value>Com puc organitzar una nova quedada?</value>
   </data>
   <data name="HelpHowMeetPartners6" xml:space="preserve">
-    <value>Per organitzar una nova quedada entra a &lt;a0&gt; El meu calendari &lt;/ a0&gt; i clica Nova Quedada a la part superior. També pots fer directament una  &lt;a1&gt; Nova Quedada &lt;/ a1&gt; i seguir els següents passos:</value>
+    <value>Per organitzar una nova quedada entra a &lt;a0&gt;Meetups&lt;/ a0&gt; i clica Nou Meetup a la part superior. També pots entarar directament a &lt;a1&gt;Nou Meetup&lt;/ a1&gt; i seguir els següents passos:</value>
   </data>
   <data name="HelpHowMeetPartners7" xml:space="preserve">
     <value>Selecciona l'idioma de la quedada. Els participants que assisteixin a la quedada, entraran a la sala de xat de l'idioma de la quedada.</value>
@@ -479,7 +480,7 @@
     <value>Com puc saber si un natiu accepta la meva sol·licitud?</value>
   </data>
   <data name="HelpHowRequestConversation5" xml:space="preserve">
-    <value>Pots fer el seguiment de les teves sol·licituds al teu &lt;a0&gt; Calendari &lt;/ a0&gt;. Revisa el panell de sol·licituds enviades. Tria la sol·licitud que vols i veuràs els detalls d'aquesta sol·licitud. A la pantalla de detalls podràs veure si el natiu ha acceptat o ha rebutjat la teva sol·licitud i també podràs cancel·lar la sol·licitud o enviar missatges al natiu en cas que necessitis informació addicional.</value>
+    <value>Pots fer el seguiment de les teves sol·licituds al teu &lt;a0&gt;Converses&lt;/ a0&gt;. Revisa el panell de sol·licituds enviades. Tria la sol·licitud que vols i veuràs els detalls d'aquesta sol·licitud. A la pantalla de detalls podràs veure si el natiu ha acceptat o ha rebutjat la teva sol·licitud i també podràs cancel·lar la sol·licitud o enviar missatges al natiu en cas que necessitis informació addicional.</value>
   </data>
   <data name="HelpHowRequestConversation6" xml:space="preserve">
     <value>A més, quan el natiu accepti la teva sol·licitud seràs notificat i se't afegirà un nou esdeveniment al teu calendari.</value>
@@ -488,7 +489,7 @@
     <value>Què he de fer quan sigui l'hora de la conversa?</value>
   </data>
   <data name="HelpHowRequestConversation8" xml:space="preserve">
-    <value>Ves al panell de trucada &lt;span0&gt; &lt;/ span0&gt; i selecciona la pestanya de Converses Privades &lt;span1&gt; &lt;/ span1&gt;. Fes clic en un usuari i podràs obrir l'aplicació de videotrucades. Així mateix, pots obrir l'aplicació de vídeo des dels detalls de conversa del teu Calendari.</value>
+    <value>Ves al panell de trucada &lt;span0&gt;&lt;/ span0&gt; i selecciona la pestanya de Converses Privades &lt;span1&gt;&lt;/ span1&gt;. Fes clic en un usuari i podràs obrir l'aplicació de videotrucades. Així mateix, pots obrir l'aplicació de vídeo des dels detalls per parlar de les teves Converses.</value>
   </data>
   <data name="HelpHowRequestConversation9" xml:space="preserve">
     <value>Quan et trobis en l'aplicació de vídeo, podràs veure quan s'ha connectat teu company. Mentrestant, podràs enviar-li missatges pel vostre xat privat perquè el teu company sàpiga que li estàs esperant.</value>

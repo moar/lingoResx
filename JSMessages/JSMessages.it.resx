@@ -152,7 +152,7 @@
     <value> Gli utenti bloccati non possono inviare richieste di contatto e non ti saranno mai abbinato nel Language  Roulette (se vuoi sbloccarlo più avanti puoi farlo nelle Impostazioni dal tuo account). Sei sicuro di voler bloccare quest’ utente?</value>
   </data>
   <data name="confCancelMeetAttendance" xml:space="preserve">
-    <value> Sei sicuro di voler cancellare la tua partecipazione a questo appuntamento?</value>
+    <value> Sei sicuro di voler cancellare  questo appuntamento?</value>
   </data>
   <data name="confDeactivateAcc" xml:space="preserve">
     <value> Sei sicuro di voler cancellare il tuo account?</value>
@@ -176,7 +176,7 @@
     <value> Vuoi salvare le modifiche prima di uscire?</value>
   </data>
   <data name="ConfirnGetLocation" xml:space="preserve">
-    <value> Secondo le leggi, abbiamo bisogno della tua ubicazione attuale prima di poter salvare l'indirizzo di fatturazione. Se si preme OK il browser ti chiederà il tuo permesso per l'ubicazione. </value>
+    <value> Secondo le leggi, abbiamo bisogno della tua ubicazione attuale prima di poter salvare l'indirizzo di fatturazione. Se si preme OK, il browser chiederà nuovamente l'autorizzazione per ottenere la posizione. </value>
   </data>
   <data name="connectingWithPartner" xml:space="preserve">
     <value> Connettendo con {0}...</value>
@@ -209,7 +209,7 @@
     <value> Chiude chiamata</value>
   </data>
   <data name="errorSt" xml:space="preserve">
-    <value> Ci dispiace, ma qualcosa non ha funzionato</value>
+    <value> Ci dispiace, ma qualcosa non è andato come ce l'aspettavamo</value>
   </data>
   <data name="FeedbackOpinion" xml:space="preserve">
     <value> Dacci la tua opinione</value>
@@ -242,13 +242,13 @@
     <value> Clicca sul tuo nome e vai su Modifica Profilo per aggiungere le lingue che vuoi mettere in pratica</value>
   </data>
   <data name="LeaveAppConfirmation" xml:space="preserve">
-    <value> Stai sicuro di voler uscire?</value>
+    <value>Stai sicuro di voler uscire?</value>
   </data>
   <data name="LeaveCall" xml:space="preserve">
-    <value> Vuoi davvero lasciare la videochiamata?</value>
+    <value>Sei sicuro di uscire dalla videochiamata?</value>
   </data>
   <data name="LeaveRoomConfirmation" xml:space="preserve">
-    <value> Sei sicuro di voler uscire dalla stanza?</value>
+    <value>Sei sicuro di voler uscire dalla stanza?</value>
   </data>
   <data name="leaveVC" xml:space="preserve">
     <value> Sei in una videochiamata</value>
@@ -260,13 +260,13 @@
     <value> Accedi con</value>
   </data>
   <data name="meetupAlert" xml:space="preserve">
-    <value> Il tuo appuntamento inizierà</value>
+    <value> Il tuo appuntamento sta per iniziare</value>
   </data>
   <data name="meetupAlertTitle" xml:space="preserve">
     <value> Avviso</value>
   </data>
   <data name="MeetupBoard" xml:space="preserve">
-    <value> Tabella di appuntamenti</value>
+    <value> Tabella di Appuntamenti</value>
   </data>
   <data name="meetupSelectTopic" xml:space="preserve">
     <value> Scegli un tema per l’appuntamento </value>
@@ -281,10 +281,10 @@
     <value> Si è perso la connessione con i server Langademy. Provate a fare la chiamata quando la connessione viene ripristinata.</value>
   </data>
   <data name="NoCameraNorMic" xml:space="preserve">
-    <value> Non siamo riusciti a rilevare una webcam o un microfono nel dispositivo compagno, la chiamata verrà terminata</value>
+    <value>Non siamo riusciti a rilevare una webcam o un microfono nel dispositivo compagno, la chiamata verrà terminata</value>
   </data>
   <data name="NoCamTitle" xml:space="preserve">
-    <value> Non siamo riusciti a trovare la webcam e il microfono</value>
+    <value> Webcam e microfono non rilevati</value>
   </data>
   <data name="NoChatHours" xml:space="preserve">
     <value> Notifica dal Banca del Tempo</value>
@@ -299,7 +299,7 @@
     <value> Non siamo riusciti a rilevare una webcam o un microfono sul dispositivo, la chiamata verrà terminata</value>
   </data>
   <data name="NoOwnMediaAcceptance" xml:space="preserve">
-    <value> Non hai dato l'accesso al browser di utilizzare la webcam / microfono. Si può dare accesso al vostro browser e continuare con la chiamata o terminare la chiamata.</value>
+    <value> Non hai dato l'accesso al browser di utilizzare la webcam / microfono. Si può dare accesso al tuo browser e continuare con la chiamata o finire la chiamata.</value>
   </data>
   <data name="NoSupported" xml:space="preserve">
     <value> Il tuo browser non supporta questa pagina</value>
@@ -314,7 +314,7 @@
     <value> Il tuo browser non supporta le videochiamate</value>
   </data>
   <data name="OwnFinished" xml:space="preserve">
-    <value> Chiamata terminata</value>
+    <value>Chiamata terminata</value>
   </data>
   <data name="Participants" xml:space="preserve">
     <value> Partecipanti</value>
@@ -335,22 +335,22 @@
     <value>  Fine della conversazione privata</value>
   </data>
   <data name="ProfileEdit" xml:space="preserve">
-    <value> Modifica profilo</value>
+    <value>Modifica profilo</value>
   </data>
   <data name="ProfileTripStep1" xml:space="preserve">
-    <value> Aggiunge le lingue che conosci q quelle che vuoi imparare. Puoi inserire solo nelle sale delle lingue aggiunte al profilo</value>
+    <value> Aggiunge le lingue che conosci o quelle che vuoi imparare. Puoi accedere solo nelle sale delle lingue aggiunte al profilo</value>
   </data>
   <data name="ProfileTripStep2" xml:space="preserve">
-    <value> Si può sempre tornare alla schermata principale premendo il bottone casa</value>
+    <value>Si può sempre tornare alla schermata principale premendo il bottone casa</value>
   </data>
   <data name="rejectreqMB" xml:space="preserve">
     <value> Sei sicuro che vuoi rifiutare questa richiesta di conversazione?</value>
   </data>
   <data name="RemoteFinished" xml:space="preserve">
-    <value> {0} ha terminato la chiamata</value>
+    <value> {0} ha finito la chiamata</value>
   </data>
   <data name="RequestConv" xml:space="preserve">
-    <value> Request conversation</value>
+    <value>Richiedere una conversazione</value>
   </data>
   <data name="RoomTripStep1" xml:space="preserve">
     <value> Clicca il bottone menu per vedere le opzioni</value>
@@ -359,7 +359,7 @@
     <value> Fai clic su un utente collegato a una chiamata video, visita il suo profilo, o invia una richiesta di contatto</value>
   </data>
   <data name="RoomTripStep3" xml:space="preserve">
-    <value> È possibile effettuare chiamate video e avere di chat con i tuoi contatti senza entrare nelle stanze</value>
+    <value>È possibile effettuare chiamate video e avere di chat con i tuoi contatti senza entrare nelle stanze</value>
   </data>
   <data name="RoomTripStep4" xml:space="preserve">
     <value> Guarda i prossimi appuntamenti di questa sala!</value>
@@ -383,10 +383,10 @@
     <value> Sala Banca de Tempo</value>
   </data>
   <data name="Trip2Step1" xml:space="preserve">
-    <value> Vai nelle sale Banca del tempo se vuoi fare di scambi e utilizzare il tempo come moneta di tempo. Se non si ha tempo per gli scambi, entra nelle Wallet  rooms</value>
+    <value>Vai nelle sale Banca del tempo se vuoi fare di scambi e utilizzare il tempo come moneta di tempo. Puoi usare il Wallet o la Banca del Tempo per effettuare videochiamate.</value>
   </data>
   <data name="Trip3Step1" xml:space="preserve">
-    <value> Trovare persone che si adattano al tuo profilo. clicca sulla lente di ingrandimento e inizia a contattarli!</value>
+    <value> Trovare persone che si adattano al tuo profilo. clicca sulla lente e inizia a contattarli!</value>
   </data>
   <data name="TripExpert" xml:space="preserve">
     <value> Sono esperto!</value>
@@ -407,19 +407,19 @@
     <value> Foto profilo</value>
   </data>
   <data name="UserRoomEntrance" xml:space="preserve">
-    <value> {0} è entrato nella stanze. Vai a chattare!</value>
+    <value> {0}  è entrato nella stanza. Unisciti alla chat!</value>
   </data>
   <data name="vcEarned" xml:space="preserve">
-    <value> guadagnato</value>
+    <value>guadagnati</value>
   </data>
   <data name="vcSpent" xml:space="preserve">
-    <value> speso</value>
+    <value> spesi</value>
   </data>
   <data name="VideoCall" xml:space="preserve">
     <value> Videochiamate</value>
   </data>
   <data name="WaitingForCamera" xml:space="preserve">
-    <value> In attesa il permesso per poter utilizzare la tua camera...</value>
+    <value>In attesa che tu dia al tuo browser il permesso di usare la tua videocamera...</value>
   </data>
   <data name="WalletRateTitle" xml:space="preserve">
     <value> Tariffa di sala Wallet</value>
@@ -449,7 +449,7 @@
     <value>Il giorno {0} di ogni mese</value>
   </data>
   <data name="bymonthdayinterv" xml:space="preserve">
-    <value>Il giorno {0} ogni {1} mesi</value>
+    <value>Il giorno {0} ogni {1} mesi </value>
   </data>
   <data name="bymonthsetpos" xml:space="preserve">
     <value>Il {0} {1} di ogni mese</value>
@@ -464,13 +464,13 @@
     <value>Ogni {0} giorni</value>
   </data>
   <data name="First" xml:space="preserve">
-    <value>Il primo</value>
+    <value>primo</value>
   </data>
   <data name="Fourth" xml:space="preserve">
-    <value>Il quarto</value>
+    <value>quarto</value>
   </data>
   <data name="Last" xml:space="preserve">
-    <value>L'ultimo</value>
+    <value>ultimo</value>
   </data>
   <data name="rrulecount" xml:space="preserve">
     <value>{0} volte</value>
@@ -479,7 +479,7 @@
     <value>inizia il  {0}</value>
   </data>
   <data name="rruleonlyonce" xml:space="preserve">
-    <value>Solo una volta</value>
+    <value>solo una volta</value>
   </data>
   <data name="rruletimespan" xml:space="preserve">
     <value>dalle {0} alle {1}</value>
@@ -488,10 +488,10 @@
     <value>fino il {0}</value>
   </data>
   <data name="Second" xml:space="preserve">
-    <value>Il secondo</value>
+    <value>secondo</value>
   </data>
   <data name="Third" xml:space="preserve">
-    <value>Il terzo</value>
+    <value>terzo</value>
   </data>
   <data name="weeklyfreq" xml:space="preserve">
     <value>Ogni settimana,i {0}</value>
@@ -500,12 +500,72 @@
     <value>Ogni {0} settimane, i {1}</value>
   </data>
   <data name="EditAvailability" xml:space="preserve">
-    <value>Edit availability</value>
+    <value>Modifica Disponibilità</value>
   </data>
   <data name="NewAvailability" xml:space="preserve">
-    <value>New availability</value>
+    <value>Nuova disponibilità</value>
+  </data>
+  <data name="seldateoneless" xml:space="preserve">
+    <value>Selezionare la data della lezione</value>
+  </data>
+  <data name="seldatepack" xml:space="preserve">
+    <value>Seleziona almeno la data della tua prima lezione. È possibile pianificare il resto in qualsiasi altro momento</value>
+  </data>
+  <data name="seldatepago" xml:space="preserve">
+    <value>Seleziona la data della lezione (minimo: 30 minuti, massimo: 2 ore)</value>
+  </data>
+  <data name="cancelunanpurchase" xml:space="preserve">
+    <value>Sei sicuro di voler annullare l'acquisto? I tuoi crediti saranno rimborsati sul tuo account Wallet</value>
+  </data>
+  <data name="acceptunanpurchase" xml:space="preserve">
+    <value>Confermi di accettare questo acquisto? Le lezioni pianificate verranno aggiunte al tuo calendario</value>
+  </data>
+  <data name="rejectunanpurchase" xml:space="preserve">
+    <value>Sei sicuro di voler rifiutare questo acquisto? Assicurarsi che lo studente capisca il motivo</value>
+  </data>
+  <data name="RescheduleLesson" xml:space="preserve">
+    <value>Modificare la data della lezione</value>
+  </data>
+  <data name="JoiningClassroom" xml:space="preserve">
+    <value>Entrando </value>
+  </data>
+  <data name="WaitingPartnerClassroom" xml:space="preserve">
+    <value>In attesa che {0} entri nella classe</value>
+  </data>
+  <data name="WaitingTo" xml:space="preserve">
+    <value>In attesa di autorizzazioni per l'utilizzo della videocamera....</value>
+  </data>
+  <data name="cannotJoinClassroom" xml:space="preserve">
+    <value>C'è stato un problema nell'entrare nella classe. Ricaricare la pagina e riprovare. Se il problema persiste, contattateci</value>
+  </data>
+  <data name="ReportIssue" xml:space="preserve">
+    <value>Segnala un problema</value>
+  </data>
+  <data name="RequireOneErrorMsg" xml:space="preserve">
+    <value>Seleziona almeno un'opzione</value>
+  </data>
+  <data name="RequestMediation" xml:space="preserve">
+    <value>Richiedere mediazione</value>
+  </data>
+  <data name="RequestRate" xml:space="preserve">
+    <value>Richiedere  tariffa</value>
   </data>
   <data name="Availability" xml:space="preserve">
     <value>Disponibilità</value>
+  </data>
+  <data name="NotUpdateInVideo" xml:space="preserve">
+    <value>Non è possibile aggiornare le tariffe durante una videochiamata</value>
+  </data>
+  <data name="confDelTeacherEdu" xml:space="preserve">
+    <value>Sei sicuro di voler cancellare questa linea educativa dal tuo profilo?</value>
+  </data>
+  <data name="confDelTeacherPosition" xml:space="preserve">
+    <value>Sei sicuro di voler cancellare questa posizione dal tuo profilo?</value>
+  </data>
+  <data name="confDelTeacherRate" xml:space="preserve">
+    <value>Sei sicuro di voler cancellare le tariffe per l'insegnamento di questa lingua?</value>
+  </data>
+  <data name="ConfPurchaseLessonWallet" xml:space="preserve">
+    <value>Fai clic su OK per confermare l'acquisto utilizzando il saldo Wallet</value>
   </data>
 </root>

@@ -297,4 +297,88 @@
   <data name="IndContact" xml:space="preserve">
     <value>Contatto</value>
   </data>
+  <data name="LandTeacherTitle" xml:space="preserve">
+    <value>Diventa &lt;strong0&gt; insegnante di lingua online &lt;/strong0&gt; </value>
+  </data>
+  <data name="LandTeacherSignIn" xml:space="preserve">
+    <value>Iscriviti come insegnante</value>
+  </data>
+  <data name="LandTeachingArticles" xml:space="preserve">
+    <value>Blog</value>
+  </data>
+  <data name="LandTeacherQuicstart" xml:space="preserve">
+    <value>Come iniziare</value>
+  </data>
+  <data name="LandTeachersHowTo" xml:space="preserve">
+    <value>I primi passi</value>
+  </data>
+  <data name="IndBlock2CenterText" xml:space="preserve">
+    <value>Scegli l'insegnante che meglio si adatta ai tuoi obiettivi di apprendimento. Gli insegnanti ti offriranno lezioni private completamente personalizzate per renderle il più produttive possibile.</value>
+  </data>
+  <data name="IndBlock2CenterTitle" xml:space="preserve">
+    <value>Corsi personalizzati</value>
+  </data>
+  <data name="IndBlock2LeftText" xml:space="preserve">
+    <value>Uno dei modi più efficaci per imparare una lingua è parlare con gli insegnanti che ti dedicano attenzione personale. Ci occuperemo di metterti in contatto con gli insegnanti certificati che meglio si adattano alle tue esigenze.</value>
+  </data>
+  <data name="IndBlock2LeftTitle" xml:space="preserve">
+    <value>Impara con insegnanti online</value>
+  </data>
+  <data name="IndBlock2RightText" xml:space="preserve">
+    <value>È possibile prendere lezioni nel momento e nel luogo di vostra scelta. Inoltre, sarete in grado di scegliere le classi che meglio si adattano alle vostre tasche e pagare solo per le classi che prenotate</value>
+  </data>
+  <data name="IndBlock2RightTitle" xml:space="preserve">
+    <value>Il tuo ritmo, il tuo budget</value>
+  </data>
+  <data name="IndBlock3MainTitle" xml:space="preserve">
+    <value>Come funziona {0}?</value>
+  </data>
+  <data name="IndBlock3SubText1" xml:space="preserve">
+    <value>Leggi i curricula degli insegnanti e incontrali guardando i loro video di presentazione.</value>
+  </data>
+  <data name="IndBlock3SubText2" xml:space="preserve">
+    <value>Scegli gli insegnanti che meglio si adattano al tuo programma, budget e obiettivi</value>
+  </data>
+  <data name="IndBlock3SubText3" xml:space="preserve">
+    <value>Accendi la tua webcam, entra nella tua classe online a Langademy e puoi iniziare subito la lezione!</value>
+  </data>
+  <data name="IndBlock3Subtitle1" xml:space="preserve">
+    <value>Scegli un insegnante</value>
+  </data>
+  <data name="IndBlock3Subtitle2" xml:space="preserve">
+    <value>Prenota una lezione</value>
+  </data>
+  <data name="IndBlock3Subtitle3" xml:space="preserve">
+    <value>Inizia a parlare</value>
+  </data>
+  <data name="IndBlock4MainTitle" xml:space="preserve">
+    <value>Comunità linguistica</value>
+  </data>
+  <data name="IndBlock4SubText1" xml:space="preserve">
+    <value>Scegliete un insegnante di lingua certificato e impartite lezioni private a contratto in base alle vostre esigenze e preferenze</value>
+  </data>
+  <data name="IndBlock4SubText2" xml:space="preserve">
+    <value>Vuoi solo avere conversazioni a pagamento con i madrelingua? I tutor sono l'opzione migliore</value>
+  </data>
+  <data name="IndBlock4SubText3" xml:space="preserve">
+    <value>Questa è la tua opzione se vuoi praticare le lingue gratuitamente. Trova partner di scambio, organizza meetups e migliora il tuo livello chattando o facendo videochiamate online con loro</value>
+  </data>
+  <data name="IndBlock4Subtitle1" xml:space="preserve">
+    <value>Insegnanti certificati</value>
+  </data>
+  <data name="IndBlock4Subtitle2" xml:space="preserve">
+    <value>Tutori</value>
+  </data>
+  <data name="IndBlock4Subtitle3" xml:space="preserve">
+    <value>Scambio di lingue</value>
+  </data>
+  <data name="LangnameTeachers" xml:space="preserve">
+    <value>Insegnante di {0} </value>
+  </data>
+  <data name="LanguageLearning" xml:space="preserve">
+    <value>Imparare  lingue</value>
+  </data>
+  <data name="LanguageTeachers" xml:space="preserve">
+    <value>Insegnante di lingue </value>
+  </data>
 </root>

@@ -193,4 +193,7 @@
   <data name="RejectCall" xml:space="preserve">
     <value>Trucada de &lt;span class="text-bold"&gt;{0}&lt;/span&gt; rebutjada</value>
   </data>
+  <data name="NativeWalletNotReqs" xml:space="preserve">
+    <value>Aquest usuari no compleix els requisits per acceptar trucades wallet</value>
+  </data>
 </root>

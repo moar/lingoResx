@@ -184,7 +184,352 @@
   <data name="TeacherRejected" xml:space="preserve">
     <value>Rifiutato dall'insegnante</value>
   </data>
+  <data name="TeacherRescheduleRequest" xml:space="preserve">
+    <value>L'insegnante ha chiesto di riprogrammare la lezione. Nuova data di lezione: {0} ( {1} {2} )</value>
+  </data>
+  <data name="UnschedLessonConf" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare la pianificazione di questa classe?</value>
+  </data>
+  <data name="Unscheduled" xml:space="preserve">
+    <value>Nessuna programmazione </value>
+  </data>
+  <data name="YouAcceptedReschedule" xml:space="preserve">
+    <value>Hai accettato di riprogrammare la classe</value>
+  </data>
+  <data name="YouCancelled" xml:space="preserve">
+    <value>Annullata da te</value>
+  </data>
   <data name="YouMissed" xml:space="preserve">
     <value>Ti hai perso la classe!</value>
+  </data>
+  <data name="YouRejected" xml:space="preserve">
+    <value>Rifiutata da te</value>
+  </data>
+  <data name="YouRejectedReschedule" xml:space="preserve">
+    <value>Hai rifiutato di riprogrammare la classe. Data proposta: {0} ( {1} {2} )</value>
+  </data>
+  <data name="YouRequestedCancel" xml:space="preserve">
+    <value>Hai chiesto di cancellare</value>
+  </data>
+  <data name="YouRescheduleRequest" xml:space="preserve">
+    <value>Hai chiesto di riprogrammare la classe. Nuova classe data: {0} ( {1} {2} )</value>
+  </data>
+  <data name="CancelUnscheduleRequestConf" xml:space="preserve">
+    <value>Sei sicuro di voler cancellare la tua richiesta?</value>
+  </data>
+  <data name="StudentCancelledUnschedule" xml:space="preserve">
+    <value>Lo studente ha annullato la sua richiesta di deprogrammare la lezione</value>
+  </data>
+  <data name="TeacherCancelledReschedule" xml:space="preserve">
+    <value>L'insegnante ha annullato la sua richiesta di riprogrammare la lezione</value>
+  </data>
+  <data name="TeacherCancelledUnschedule" xml:space="preserve">
+    <value>L'insegnante ha annullato la sua richiesta di deprogrammare la lezione</value>
+  </data>
+  <data name="AcceptUnscheduleRequestConf" xml:space="preserve">
+    <value>Accetti la richiesta di deprogrammare la lezione?</value>
+  </data>
+  <data name="RejectUnscheduleRequestConf" xml:space="preserve">
+    <value>Rifiuti la richiesta di deprogrammare la lezione?</value>
+  </data>
+  <data name="StudentAcceptedUnschedule" xml:space="preserve">
+    <value>Lo studente ha accettato la richiesta di deprogrammare la lezione</value>
+  </data>
+  <data name="StudentCancelledReschedule" xml:space="preserve">
+    <value>L'estudiant va cancel·lar la sol·licitud de reprogramar la lezione</value>
+  </data>
+  <data name="StudentRejectedUnschedule" xml:space="preserve">
+    <value>Lo studente ha rifiutato la richiesta di deprogrammare la lezione</value>
+  </data>
+  <data name="StudentRescheduled" xml:space="preserve">
+    <value>Lo studente ha riprogrammato la lezione. Data della nuova lezione: {0} ({1} {2}</value>
+  </data>
+  <data name="StudentRescheduledUnsch" xml:space="preserve">
+    <value>Lo studente ha programmato questa lezione. Data della nuova lezione: {0} ( {1} {2} )</value>
+  </data>
+  <data name="StudentRescheduleRequest" xml:space="preserve">
+    <value>Lo studente è stato invitato a riprogrammare la classe. Nova data dalle lezioni: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentRescheduleUnschRequest" xml:space="preserve">
+    <value>Lo studente ha chiesto di riprogrammare la classe. Nuova data di classe: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentUnscheduled" xml:space="preserve">
+    <value>Lo studente ha deprogrammato questa classe: {0} ({1} {2})</value>
+  </data>
+  <data name="StudentUnscheduleRequest" xml:space="preserve">
+    <value>Lo studente ha chiesto di deprogrammare questa lezione</value>
+  </data>
+  <data name="TeacherAcceptedReschedule" xml:space="preserve">
+    <value>L'insegnante ha accettato di riprogrammare la classe</value>
+  </data>
+  <data name="TeacherAcceptedUnschedule" xml:space="preserve">
+    <value>L'insegnante ha accettato di deprogrammare la lezione</value>
+  </data>
+  <data name="TeacherRejectedReschedule" xml:space="preserve">
+    <value>L'insegnante ha rifiutato di riprogrammare la lezione. Data proposta: {0} ({1} {2})</value>
+  </data>
+  <data name="TeacherRejectedUnschedule" xml:space="preserve">
+    <value>L'insegnante ha rifiutato di deprogrammare la classe</value>
+  </data>
+  <data name="TeacherRescheduleUnschRequest" xml:space="preserve">
+    <value>L'insegnante ha chiesto di pianificare la lezione. Nuova data di cllezione: {0} ({1} {2})</value>
+  </data>
+  <data name="TeacherUnscheduled" xml:space="preserve">
+    <value>L'insegnante ha deprogrammato la lezione</value>
+  </data>
+  <data name="TeacherUnscheduleRequest" xml:space="preserve">
+    <value>L'insegnante ha chiesto di deprogrammare questa lezione</value>
+  </data>
+  <data name="Unscheduling" xml:space="preserve">
+    <value>Deprogrammazione</value>
+  </data>
+  <data name="YouAcceptedUnschedule" xml:space="preserve">
+    <value>Hai accettato di deprogrammare la classe</value>
+  </data>
+  <data name="YouCancelledReschedule" xml:space="preserve">
+    <value>Hai cancellato la tua richiesta di riprogrammare la lezione.</value>
+  </data>
+  <data name="YouCancelledUnschedule" xml:space="preserve">
+    <value>Hai cancellato la tua richiesta di deprogrammare la lezione</value>
+  </data>
+  <data name="YouRejectedUnschedule" xml:space="preserve">
+    <value>Hai rifiutato di deprogrammare la lezione</value>
+  </data>
+  <data name="YouRequestedUnschedule" xml:space="preserve">
+    <value>Hai chiesto di deprogrammare la lezione</value>
+  </data>
+  <data name="YouRescheduled" xml:space="preserve">
+    <value>Hai riprogrammato la lezione. Nuova data di lezione: {0} ({1} {2})</value>
+  </data>
+  <data name="YouRescheduledUnsch" xml:space="preserve">
+    <value>Hai programmato una nuova lezione. Nuova data di lezione: {0} ({1} {2})</value>
+  </data>
+  <data name="YouRescheduleUnschRequest" xml:space="preserve">
+    <value>HAi richiesto di pianificare questa lezione. Nuova data di lezione: {0} ({1} {2})</value>
+  </data>
+  <data name="YouUnscheduled" xml:space="preserve">
+    <value>Questa classe è stata deprogrammata</value>
+  </data>
+  <data name="Mediation" xml:space="preserve">
+    <value>Mediazione Langademy</value>
+  </data>
+  <data name="SolvingIssue" xml:space="preserve">
+    <value>Risolvendo problema</value>
+  </data>
+  <data name="StudAcceptedCancelAndRefund" xml:space="preserve">
+    <value>Lo studente ha accettato la tua soluzione: la lezione è stata cancellata e il 100% dei crediti saranno restituiti</value>
+  </data>
+  <data name="StudAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>Lo studente ha accettato la tua soluzione: la lezione è stata cancellata e il 50% dei crediti sarà restituito</value>
+  </data>
+  <data name="StudAcceptedCollect" xml:space="preserve">
+    <value>Lo studente ha accettato la tua soluzione: la lezione è stata contrassegnata come completata e hai ricevuto il 100% dei crediti</value>
+  </data>
+  <data name="StudAcceptedCollectHalf" xml:space="preserve">
+    <value>Lo studente ha accettato la tua soluzione: la lezione è stata contrassegnata come Completata e hai ricevuto il 50% dei crediti.</value>
+  </data>
+  <data name="StudAcceptedReschedule" xml:space="preserve">
+    <value>Lo studente ha accettato la tua soluzione: la lezione è stata contrassegnata come Deprogrammata. Sia tu che lo studente potete proporre una nuova data per la lezione.</value>
+  </data>
+  <data name="StudCancelledReport" xml:space="preserve">
+    <value>La notifica del problema è stata cancellata dallo studente</value>
+  </data>
+  <data name="StudRejectedCancelAndRefund" xml:space="preserve">
+    <value>Lo studente ha rifiutato la tua soluzione: cancellazione della lezione e rimborso del 100% dei crediti.</value>
+  </data>
+  <data name="StudRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>Lo studente ha rifiutato la tua soluzione: la cancellazione della lezione e il rimborso del 50% dei crediti</value>
+  </data>
+  <data name="StudRejectedCollect" xml:space="preserve">
+    <value>Lo studente ha rifiutato la tua soluzione: Segnare la lezione come Completata e mantenere il 100% dei crediti.</value>
+  </data>
+  <data name="StudRejectedCollectHalf" xml:space="preserve">
+    <value>Lo studente ha rifiutato la tua soluzione: Segnare la lezione come Completata e mantenere il 50% dei crediti.</value>
+  </data>
+  <data name="StudRejectedReschedule" xml:space="preserve">
+    <value>Lo studente ha rifiutato la tua soluzione: hai proposto di riprogrammare la lezione</value>
+  </data>
+  <data name="StudReportedIssue" xml:space="preserve">
+    <value>Lo studente ha segnalato problemi in questa lezione.</value>
+  </data>
+  <data name="StudRequestedMediation" xml:space="preserve">
+    <value>Lo studente ha rivendicato la mediazione di Langademy.</value>
+  </data>
+  <data name="TeachAcceptedCancelAndRefund" xml:space="preserve">
+    <value>L'insegnante ha accettato la tua soluzione: la lezione è stata cancellata e il 100% dei crediti sono stati restituiti.</value>
+  </data>
+  <data name="TeachAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>L'insegnante ha accettato la tua soluzione: la lezione è stata cancellata e il 50% dei crediti sono stati restituiti.</value>
+  </data>
+  <data name="TeachAcceptedCollect" xml:space="preserve">
+    <value>L'insegnante ha accettato la tua soluzione: la lezione è stata contrassegnata come Completata e l'insegnante ha ricevuto il 100% dei crediti.</value>
+  </data>
+  <data name="TeachAcceptedCollectHalf" xml:space="preserve">
+    <value>L'insegnante ha accettato la tua soluzione: la classe è stata contrassegnata come Completata e l'insegnante ha ricevuto il 50% dei crediti.</value>
+  </data>
+  <data name="TeachAcceptedReschedule" xml:space="preserve">
+    <value>L'insegnante ha accettato la tua soluzione: La lezione è stata contrassegnata come non programmata. Tu o il tuo insegnante potete proporre una nuova freccia per la classe.</value>
+  </data>
+  <data name="YouCancelledReport" xml:space="preserve">
+    <value>Hai annullato la notifica del problema.</value>
+  </data>
+  <data name="YouReportedIssue" xml:space="preserve">
+    <value>È stato segnalato un problema in questa lezione</value>
+  </data>
+  <data name="YouRequestedMediation" xml:space="preserve">
+    <value>Hai richiesto la mediazione di Langademy</value>
+  </data>
+  <data name="YouTeachAcceptedCancelAndRefund" xml:space="preserve">
+    <value>Hai accettato la soluzione dello studente: la lezione è stata cancellata e il 100% dei crediti sono stati restituiti.</value>
+  </data>
+  <data name="YouTeachAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>Hai accettato la soluzione dello studente: la lezione è stata cancellata e il 50% dei crediti sono stati restituiti.</value>
+  </data>
+  <data name="YouTeachAcceptedCollect" xml:space="preserve">
+    <value>Hai accettato la soluzione dello studente: La lezione è stata contrassegnata come Completata e hai ricevuto il 100% dei credi</value>
+  </data>
+  <data name="YouTeachAcceptedCollectHalf" xml:space="preserve">
+    <value>Hai accettato la soluzione dello studente: La lezione è stata contrassegnata come completata e hai ricevuto il 50% dei crediti.</value>
+  </data>
+  <data name="YouTeachAcceptedReschedule" xml:space="preserve">
+    <value>Hai accettato la soluzione dello studente: La lezione è stata contrassegnata come Non programmata. Voi o il vostro studente potete proporre una nuova data.</value>
+  </data>
+  <data name="YouTeachRejectedCancelAndRefund" xml:space="preserve">
+    <value>Hai rifiutato la soluzione dello studente: cancellazione della lezione e rimborso del 100% dei crediti.</value>
+  </data>
+  <data name="YouTeachRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value> Hai rifiutato la soluzione dello studente: cancellazione della lezione e rimborso del 50% dei crediti</value>
+  </data>
+  <data name="YouTeachRejectedCollect" xml:space="preserve">
+    <value>Ha rifiutato la soluzione dello studente: marcare la lezione come Completata e ricevere il 100% dei crediti</value>
+  </data>
+  <data name="YouTeachRejectedCollectHalf" xml:space="preserve">
+    <value>Hai respinto la soluzione dello studente: segnare la lezione come Completato e ricevere il 50% dei crediti</value>
+  </data>
+  <data name="YouTeachRejectedReschedule" xml:space="preserve">
+    <value>Hai rifiutato la soluzione dello studente: lo studente ha proposto di riprogrammare la lezione</value>
+  </data>
+  <data name="CancelReportConf" xml:space="preserve">
+    <value>Sei sicuro di voler annullare questa notifica?</value>
+  </data>
+  <data name="Incompleted" xml:space="preserve">
+    <value>Incompleto</value>
+  </data>
+  <data name="StudentProposedSolution" xml:space="preserve">
+    <value>Lo studente ha proposto questa soluzione</value>
+  </data>
+  <data name="TeachCancelledReport" xml:space="preserve">
+    <value>Il problema segnalato è stato cancellato dall'insegnante</value>
+  </data>
+  <data name="TeacherProposedSolution" xml:space="preserve">
+    <value>L'insegnante ha proposto questa soluzione</value>
+  </data>
+  <data name="TeachRejectedCancelAndRefund" xml:space="preserve">
+    <value>L'insegnante ha respinto la tua soluzione: cancellazione della lezione e rimborso del 100% dei crediti.</value>
+  </data>
+  <data name="TeachRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>L'insegnante ha respinto la tua soluzione: cancellazione della lezione e rimborso del 50% dei crediti.</value>
+  </data>
+  <data name="TeachRejectedCollect" xml:space="preserve">
+    <value>L'insegnante ha respinto la vostra soluzione: contrassegnare la lezione come Completata e pagare il 100% dei crediti.</value>
+  </data>
+  <data name="TeachRejectedCollectHalf" xml:space="preserve">
+    <value>L'insegnante ha respinto la tua soluzione: segnare la lezione come Completata e pagare il 50% dei crediti</value>
+  </data>
+  <data name="TeachRejectedReschedule" xml:space="preserve">
+    <value>L'insegnante ha respinto la tua soluzione: hai proposto di riprogrammare la lezione</value>
+  </data>
+  <data name="TeachReportedIssue" xml:space="preserve">
+    <value>L'insegnante ha segnalato problemi in questa lezione</value>
+  </data>
+  <data name="TeachRequestedMediation" xml:space="preserve">
+    <value>L'insegnante ha richiesto  la mediazione di Langademy</value>
+  </data>
+  <data name="YouProposedSolution" xml:space="preserve">
+    <value>Hai proposto questa soluzione</value>
+  </data>
+  <data name="YouStudAcceptedCancelAndRefund" xml:space="preserve">
+    <value>Hai accettato la soluzione dell'insegnante: la lezione è stata cancellata e il 100% dei crediti sono stati restituiti</value>
+  </data>
+  <data name="YouStudAcceptedCancelAndRefundHalf" xml:space="preserve">
+    <value>Hai accettato la soluzione dell'insegnante: la lezione è stata cancellata e il 50% dei crediti sono stati restituiti</value>
+  </data>
+  <data name="YouStudAcceptedCollect" xml:space="preserve">
+    <value>Hai accettato la soluzione dell'insegnante: La lezione è stata contrassegnata come Completata e hai pagato il 100% dei crediti</value>
+  </data>
+  <data name="YouStudAcceptedCollectHalf" xml:space="preserve">
+    <value>Hai accettato la soluzione dell'insegnante: La lezione è stata contrassegnata come Completata e hai pagato il 50% dei crediti.</value>
+  </data>
+  <data name="YouStudAcceptedReschedule" xml:space="preserve">
+    <value>Hai accettato la soluzione dell'insegnante: La lezione è stata contrassegnata come Non programmata. Sia tu che l'insegnante potete proporre un nuovo appuntamento per la classe</value>
+  </data>
+  <data name="YouStudRejectedCancelAndRefund" xml:space="preserve">
+    <value>Hai rifiutato la soluzione dell'insegnante: cancellazione della lezione e rimborso del 100% dei crediti.</value>
+  </data>
+  <data name="YouStudRejectedCancelAndRefundHalf" xml:space="preserve">
+    <value>Hai rifiutato la soluzione dell'insegnante: la cancellazione della lezione e il rimborso del 50% dei crediti.</value>
+  </data>
+  <data name="YouStudRejectedCollect" xml:space="preserve">
+    <value>Hai rifiutato la soluzione dell'insegnante: contrassegnare la lezione come Completat&lt; e pagare il 100% dei crediti</value>
+  </data>
+  <data name="YouStudRejectedCollectHalf" xml:space="preserve">
+    <value>Hai rifiutato la soluzione dell'insegnante: contrassegnare la lezione come Completata e pagare il 50% dei crediti</value>
+  </data>
+  <data name="YouStudRejectedReschedule" xml:space="preserve">
+    <value>Hai rifiutato la soluzione dell'insegnante: L'insegnante ha proposto di riprogrammare la lezione</value>
+  </data>
+  <data name="StudentCompleteLessonConf" xml:space="preserve">
+    <value>Confermi che questa lezione è stata completata correttamente? Con la conferma verrà elaborato il pagamento all'insegnante.</value>
+  </data>
+  <data name="Processing" xml:space="preserve">
+    <value>In corso</value>
+  </data>
+  <data name="CannotAcceptReschedulePast" xml:space="preserve">
+    <value>Non puoi accettare di riprogrammare la lezione perché la nuova data della lezione è passata. Si può rifiutare la richiesta o deprogrammare la lezione</value>
+  </data>
+  <data name="StudentUnscheduledPast" xml:space="preserve">
+    <value>Lo studente non ha potuto accettare di riprogrammare la lezione perché la nuova data era passata</value>
+  </data>
+  <data name="TeacherUnscheduledPast" xml:space="preserve">
+    <value>L'insegnante non ha potuto accettare di riprogrammare la lezione perché la nuova data era passata</value>
+  </data>
+  <data name="YouUnscheduledPast" xml:space="preserve">
+    <value>Non si può accettare di riprogrammare la lezione perché la nuova data è passata.</value>
+  </data>
+  <data name="Cancelled" xml:space="preserve">
+    <value>Cancellata</value>
+  </data>
+  <data name="AcceptReschSolutionConf" xml:space="preserve">
+    <value>Accetti di riprogrammare questa lezione? La lezione verrà deprogrammata in modo da poter proporre una nuova data.</value>
+  </data>
+  <data name="StudentRejectReportConf" xml:space="preserve">
+    <value>Rifiuti la soluzione proposta dall'insegnante per risolvere questo problema? Parla con l'insegnante e segnala un nuovo problema e suggerisce la tua soluzione. Se non si raggiunge un accordo, si può chiedere a Langademy di mediare</value>
+  </data>
+  <data name="TeacherRejectReportConf" xml:space="preserve">
+    <value>Rifiuti la soluzione proposta dallo studente per risolvere questo problema? Parla con lo studente e segnala un nuovo problema e suggerisce la tua soluzione. Se non si raggiunge un accordo, si può chiedere a Langademy di mediare</value>
+  </data>
+  <data name="AcceptCancelRefHalfSolutionConf" xml:space="preserve">
+    <value>Accetti di cancellare questa lezione? Il 50% del prezzo di questa lezione sarà rimborsato</value>
+  </data>
+  <data name="AcceptCancelRefSolutionConf" xml:space="preserve">
+    <value>Accetti di cancellare questa lezione? Il 100% del prezzo di questa lezione sarà rimborsato</value>
+  </data>
+  <data name="AcceptCollectHalfSolutionConf" xml:space="preserve">
+    <value>Accetti di contrassegnare la lezione come Completata? Il 50% del prezzo della lezione sarà pagato</value>
+  </data>
+  <data name="AcceptCollectSolutionConf" xml:space="preserve">
+    <value>Accetti di contrassegnare la lezione come Completata? Verrà pagato il 100% del prezzo della lezione</value>
+  </data>
+  <data name="CancelMediationReqConf" xml:space="preserve">
+    <value>Sei sicuro di voler annullare la tua richiesta di mediazione?</value>
+  </data>
+  <data name="StudCancelMediation" xml:space="preserve">
+    <value>Lo studente ha annullato la richiesta di mediazione</value>
+  </data>
+  <data name="TeachCancelMediation" xml:space="preserve">
+    <value>L'insegnante  ha annullato la richiesta di mediazione</value>
+  </data>
+  <data name="YouCancelMediation" xml:space="preserve">
+    <value>Hai annullato la richiesta di mediazione</value>
   </data>
 </root>

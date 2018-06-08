@@ -186,11 +186,20 @@
   <data name="NoRatingsEditor" xml:space="preserve">
     <value>Non hai ancora ricevuto nessuna valutazione.</value>
   </data>
+  <data name="OneLesson" xml:space="preserve">
+    <value>1 lezione</value>
+  </data>
+  <data name="PayAsYouGo" xml:space="preserve">
+    <value>Pay as you go</value>
+  </data>
   <data name="Position" xml:space="preserve">
     <value>Posizione </value>
   </data>
   <data name="PrivateLessons" xml:space="preserve">
     <value>lezioni private</value>
+  </data>
+  <data name="PrLessonsBookTip" xml:space="preserve">
+    <value>Verifica disponibilità e prenota lezioni</value>
   </data>
   <data name="School" xml:space="preserve">
     <value>Luogo di formazione</value>
@@ -213,7 +222,115 @@
   <data name="VimeoInvalidUrl" xml:space="preserve">
     <value>Questo non è un url Vimeo valido.</value>
   </data>
+  <data name="XLessons" xml:space="preserve">
+    <value>{0} lezioni</value>
+  </data>
   <data name="YoutubeInvalidUrl" xml:space="preserve">
     <value>Questo non è un url Youtube valido.</value>
+  </data>
+  <data name="AtPresent" xml:space="preserve">
+    <value>attualità</value>
+  </data>
+  <data name="FiveLessonsRate" xml:space="preserve">
+    <value>Cinque lezioni</value>
+  </data>
+  <data name="OneLessonRate" xml:space="preserve">
+    <value>Una lezione</value>
+  </data>
+  <data name="PayAsYouGoRate" xml:space="preserve">
+    <value>Pay as you go</value>
+  </data>
+  <data name="TenLessonsRate" xml:space="preserve">
+    <value>Dieci lezioni 60min</value>
+  </data>
+  <data name="AboutMe" xml:space="preserve">
+    <value>Su di me</value>
+  </data>
+  <data name="AddLanguage" xml:space="preserve">
+    <value>Aggiungere lingua</value>
+  </data>
+  <data name="AddLinkedinTip" xml:space="preserve">
+    <value>Aggiungi il tuo lavoro di insegnante a Langademy al tuo profilo LinkedIn</value>
+  </data>
+  <data name="AddRates" xml:space="preserve">
+    <value>Aggiungere tariffe</value>
+  </data>
+  <data name="AddVideo" xml:space="preserve">
+    <value>Aggiungi il tuo video di presentazione</value>
+  </data>
+  <data name="AddVideoLabel" xml:space="preserve">
+    <value>Inserisci un link alla tua presentazione su Youtube o Vimeo</value>
+  </data>
+  <data name="ISpeak" xml:space="preserve">
+    <value>Parlo</value>
+  </data>
+  <data name="LanguageOfLessons" xml:space="preserve">
+    <value>Lingua delle lezioni</value>
+  </data>
+  <data name="NewTeacher" xml:space="preserve">
+    <value>Insegnante nuovo</value>
+  </data>
+  <data name="OneLessonLong" xml:space="preserve">
+    <value> 1 clezione di 60min</value>
+  </data>
+  <data name="PayAsYouGoLong" xml:space="preserve">
+    <value>Pay as you go rate (Tariffa/Ora)</value>
+  </data>
+  <data name="PersonalInformation" xml:space="preserve">
+    <value>Informazioni personali</value>
+  </data>
+  <data name="RatesCreditsRemember" xml:space="preserve">
+    <value>Ricordate! Tutte le tariffe sono in crediti Langademy</value>
+  </data>
+  <data name="RatesForNativeInfo" xml:space="preserve">
+    <value>Puoi aggiungere tariffe alle diferente lingue che dominate come  la propria lingua madre</value>
+  </data>
+  <data name="Ratings" xml:space="preserve">
+    <value>Valutazioni</value>
+  </data>
+  <data name="Speaks" xml:space="preserve">
+    <value>Parla</value>
+  </data>
+  <data name="Teaches" xml:space="preserve">
+    <value>Insegna</value>
+  </data>
+  <data name="UpdateVideo" xml:space="preserve">
+    <value>Aggiornare video</value>
+  </data>
+  <data name="VideoIntroduction" xml:space="preserve">
+    <value>Video presentazione</value>
+  </data>
+  <data name="FiveLessonsLong" xml:space="preserve">
+    <value>5 lezioni di 60 minuti </value>
+  </data>
+  <data name="ThirtyMinLong" xml:space="preserve">
+    <value>1 lezione di 30 minuti</value>
+  </data>
+  <data name="ThirtyMinutesRate" xml:space="preserve">
+    <value>30 minuti</value>
+  </data>
+  <data name="ThirtyMinRate" xml:space="preserve">
+    <value>lezione di 30 minuti</value>
+  </data>
+  <data name="OneHourLessons" xml:space="preserve">
+    <value>Lezioni di 1 ora</value>
+  </data>
+  <data name="ThirtyMinLessons" xml:space="preserve">
+    <value>lezioni di 30 min</value>
+  </data>
+  <data name="FromOrigin" xml:space="preserve">
+    <value>Di</value>
+  </data>
+  <data name="Lessons" xml:space="preserve">
+    <value>lezioni</value>
+  </data>
+  <data name="TenLessonsLong" xml:space="preserve">
+    <value>10 lezioni di 60 min.</value>
+  </data>
+  <data name="TotalHours" xml:space="preserve">
+    <value>Totale ore</value>
+  </data>
+  <data name="UpdateRates" xml:space="preserve">
+    <value>Aggiornare  tassi</value>
   </data>
 </root>

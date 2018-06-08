@@ -232,7 +232,7 @@
     <value>Conversació Wallet</value>
   </data>
   <data name="YouConversationRejected" xml:space="preserve">
-    <value>Refusar la conversa amb {0}</value>
+    <value>Has beutjat la conversa amb {0}</value>
   </data>
   <data name="NoConversations" xml:space="preserve">
     <value>No has programat cap conversa</value>

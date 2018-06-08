@@ -117,7 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  
   <data name="Activate" xml:space="preserve">
     <value>Attivare</value>
   </data>
@@ -183,5 +182,152 @@
   </data>
   <data name="ImgNotPub" xml:space="preserve">
     <value>Questa immagine non sarà pubblicata da nessuna parte</value>
+  </data>
+  <data name="Intro1" xml:space="preserve">
+    <value>Grazie per la tua richiesta di insegnare a Langademy</value>
+  </data>
+  <data name="Intro2" xml:space="preserve">
+    <value>La tua richiesta è composta da 4 sezioni</value>
+  </data>
+  <data name="IntroSection1" xml:space="preserve">
+    <value>Dati personali e profilo</value>
+  </data>
+  <data name="IntroSection2" xml:space="preserve">
+    <value>Documentazione che certifica il tuo curriculum vitae</value>
+  </data>
+  <data name="IntroSection3" xml:space="preserve">
+    <value>Calendario disponibilità</value>
+  </data>
+  <data name="IntroSection4" xml:space="preserve">
+    <value>Requisiti tecnici</value>
+  </data>
+  <data name="IntroVideo" xml:space="preserve">
+    <value>Video di presentazione</value>
+  </data>
+  <data name="InvoiceInfo" xml:space="preserve">
+    <value>Dati di fatturazione</value>
+  </data>
+  <data name="InvoiceInfoDesc" xml:space="preserve">
+    <value>Inserisci i tuoi dati di fatturazione</value>
+  </data>
+  <data name="InvoiceInfoDesc2" xml:space="preserve">
+    <value>Langademy emetterà fatture utilizzando queste informazioni</value>
+  </data>
+  <data name="LastDeclReasons" xml:space="preserve">
+    <value>L'ultima volta che è stata presentata la richiesta è stata respinta per i seguenti motivi. Controllarli tutti prima di rispedirli.</value>
+  </data>
+  <data name="ModifyAppli" xml:space="preserve">
+    <value>Modificare richiesta</value>
+  </data>
+  <data name="OnlyPDF" xml:space="preserve">
+    <value>Solo documenti PDF</value>
+  </data>
+  <data name="PersDataTitle" xml:space="preserve">
+    <value>Dati personali e profilo</value>
+  </data>
+  <data name="PhotoId" xml:space="preserve">
+    <value>Documento d'identità</value>
+  </data>
+  <data name="PhotoIdDesc" xml:space="preserve">
+    <value>Si prega di caricare l'immagine di un documento governativo che confermi la vostra identità (passaporto, patente di guida, carta d'identità nazionale, o simili, purché includa la foto)</value>
+  </data>
+  <data name="PingTime" xml:space="preserve">
+    <value>Ping time</value>
+  </data>
+  <data name="PoweredBy" xml:space="preserve">
+    <value>Fornito da</value>
+  </data>
+  <data name="PrepareApplication" xml:space="preserve">
+    <value>Preparare la richiesta</value>
+  </data>
+  <data name="PrepareApplText" xml:space="preserve">
+    <value>Prepara la tua richiesta per insegnare a Langademy</value>
+  </data>
+  <data name="ProfilePhoto" xml:space="preserve">
+    <value>Foto profilo</value>
+  </data>
+  <data name="ProfileTitle" xml:space="preserve">
+    <value>Profilo</value>
+  </data>
+  <data name="Provider" xml:space="preserve">
+    <value>Fornitore</value>
+  </data>
+  <data name="Rates" xml:space="preserve">
+    <value>Tariffe</value>
+  </data>
+  <data name="SelectDoc" xml:space="preserve">
+    <value>Selezionare documento</value>
+  </data>
+  <data name="SpeedTest" xml:space="preserve">
+    <value>Test di velocità</value>
+  </data>
+  <data name="SubmissionDate" xml:space="preserve">
+    <value>Data di spedizione</value>
+  </data>
+  <data name="SubmittedApplDescr" xml:space="preserve">
+    <value>Quando la tua richiesta sarà esaminata, riceverai una notifica via e-mail</value>
+  </data>
+  <data name="TechnicalReqs" xml:space="preserve">
+    <value>Requisiti tecnici</value>
+  </data>
+  <data name="TestDate" xml:space="preserve">
+    <value>Data del test</value>
+  </data>
+  <data name="TestResult" xml:space="preserve">
+    <value>Risultato del test</value>
+  </data>
+  <data name="TestVideoReqs" xml:space="preserve">
+    <value>Test requisiti videochiamata</value>
+  </data>
+  <data name="ThanksForSubm" xml:space="preserve">
+    <value>Grazie per aver inviato la richiesta!</value>
+  </data>
+  <data name="UpdateAttachDescr" xml:space="preserve">
+    <value>Aggiornare la descrizione di questo attachment</value>
+  </data>
+  <data name="UploadDoc" xml:space="preserve">
+    <value>Carica documento</value>
+  </data>
+  <data name="UploadPhotoId" xml:space="preserve">
+    <value>Carica il documento d'identità</value>
+  </data>
+  <data name="UploadSpeed" xml:space="preserve">
+    <value>Velocità di caricamento</value>
+  </data>
+  <data name="AvailCalendarDesc" xml:space="preserve">
+    <value>Seleziona dal calendario gli slot dove sarai disponibile per insegnare su base settimanale (nel tuo fuso orario locale)
+</value>
+  </data>
+  <data name="ApplValDefault" xml:space="preserve">
+    <value>Se hai difficoltà a completare l'iscrizione, contattaci e saremo lieti di assisterti (contact@langademy.com).</value>
+  </data>
+  <data name="ApplValProfile" xml:space="preserve">
+    <value>Ci sono sezioni del tuo profilo che devono essere completate. Si prega di compilare e inviare nuovamente la richiesta</value>
+  </data>
+  <data name="AppValAvailability" xml:space="preserve">
+    <value>È necessario compilare il calendario delle disponibilità prima di inviare la richiesta</value>
+  </data>
+  <data name="AppValDocuments" xml:space="preserve">
+    <value>Non hai allegato alcun documento attestante la tua esperienza professionale e la tua formazione per insegnare le lingue</value>
+  </data>
+  <data name="AppValGobernIdMissing" xml:space="preserve">
+    <value>È necessario caricare una foto dalla tua carta d'identità del governo</value>
+  </data>
+  <data name="AppValSpeedTest" xml:space="preserve">
+    <value>Purtroppo l'ultimo test di velocità della connessione a Internet è stato inferiore a 1 Mbps (scarico/caricamento). Se si migliora la connessione a Internet, eseguire il test di velocità e inviare nuovamente la richiesta</value>
+  </data>
+  <data name="AppValSpeedTestMissing" xml:space="preserve">
+    <value>È necessario eseguire il test di velocità</value>
+  </data>
+  <data name="AppValWebrtcTest" xml:space="preserve">
+    <value>È necessario eseguire il test di videochiamata prima di inviare la richiesta
+</value>
+  </data>
+  <data name="TestInfo" xml:space="preserve">
+    <value>Questi risultati sono forniti a titolo puramente informativo e non implicano necessariamente che la domanda sarà accettata o respinta.
+</value>
+  </data>
+  <data name="AppValBillingAddress" xml:space="preserve">
+    <value>È necessario completare l'indirizzo di fatturazione prima di inviare la richiesta. Langademy includerà questo indirizzo nella fattura al momento dell'addebito del servizio.</value>
   </data>
 </root>

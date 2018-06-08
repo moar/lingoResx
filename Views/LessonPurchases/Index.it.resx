@@ -117,6 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AddReviewTeacher" xml:space="preserve">
+    <value>Puoi aggiungere il tuo voto. Sarà visibile sul profilo pubblico dell'insegnante.
+</value>
+  </data>
   <data name="AllPurchases" xml:space="preserve">
     <value>Tutti gli acquisti</value>
   </data>
@@ -149,5 +153,17 @@
   </data>
   <data name="PurchaseRejectedByTeacher" xml:space="preserve">
     <value>Il professore ha rifiutato il tuo acquisto</value>
+  </data>
+  <data name="RateYourTeacher" xml:space="preserve">
+    <value>Quante stelle merita il tuo insegnante?</value>
+  </data>
+  <data name="Rating" xml:space="preserve">
+    <value>Valutazione</value>
+  </data>
+  <data name="RatingNotAllowed" xml:space="preserve">
+    <value>Sarete in grado di dare la vostra valutazione quando completerete una lezione</value>
+  </data>
+  <data name="RatingSaved" xml:space="preserve">
+    <value>Il tuo voto e la tua valutazione sono stati inviati correttamente</value>
   </data>
 </root>
