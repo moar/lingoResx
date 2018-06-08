@@ -1,0 +1,1532 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE38C51B-4194-479E-A2B7-EBC7F44CB2E6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Resources</RootNamespace>
+    <AssemblyName>Resources</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'LocalDebug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\LocalDebug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'LocalRelease|AnyCPU'">
+    <OutputPath>bin\LocalRelease\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Data.Edm, Version=5.8.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.Edm.5.8.3\lib\net40\Microsoft.Data.Edm.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Data.OData, Version=5.8.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.OData.5.8.3\lib\net40\Microsoft.Data.OData.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Data.Services.Client, Version=5.8.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.Services.Client.5.8.3\lib\net40\Microsoft.Data.Services.Client.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.Configuration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.WindowsAzure.ConfigurationManager.3.2.3\lib\net40\Microsoft.WindowsAzure.Configuration.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.4\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Spatial, Version=5.8.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Spatial.5.8.3\lib\net40\System.Spatial.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=5.2.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.4\lib\net45\System.Web.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.4\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apps\Apps1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Apps.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Articles\Articles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Articles.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Billing\Billing.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Billing.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\Account\Account.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Account.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Core\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Countries\Countries1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Countries.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Exceptions\Exceptions.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Exceptions.resx</DependentUpon>
+    </Compile>
+    <Compile Include="General\Commons.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Commons.resx</DependentUpon>
+    </Compile>
+    <Compile Include="General\CookieConsent.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CookieConsent.resx</DependentUpon>
+    </Compile>
+    <Compile Include="General\ServerNotifications.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ServerNotifications.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Hubs\MessagingHub\MessagingHub.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MessagingHub.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Events\Events.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Events.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Events\Events.es.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Events.es.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Events\Events.it.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Events.it.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\ISViews\Common\Common.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Common.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\ISViews\Login\Login.es.Designer.cs">
+      <DependentUpon>Login.es.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="IdentityServer\ISViews\Login\Login.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Login.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\ISViews\Logout\Logout.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Logout.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Messages\Messages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Messages\Messages.es.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.es.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Messages\Messages.it.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.it.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Scopes\Scopes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Scopes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Scopes\Scopes.es.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Scopes.es.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityServer\Scopes\Scopes.it.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Scopes.it.resx</DependentUpon>
+    </Compile>
+    <Compile Include="JSMessages\JSMessages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JSMessages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Languages\LanguageLevels.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LanguageLevels.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Languages\Languages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Languages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Buttons\Buttons.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Buttons.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DateTime\DateTime.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DateTime.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Section\Section.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Section.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Tiles\Tiles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tiles.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Routes\Routes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Routes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserData\UserData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UserData.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\Contacts\Contact.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Contact.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\HoursBag\HoursBag.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HoursBag.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\Meetups\Categories.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Categories.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\Meetups\Topics.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Topics.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\Notifications\Notification.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Notification.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\VideoChatReport\VideoChatReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VideoChatReport.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AccountManager\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Blog\Blog.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Blog.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\BookLessons\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ChatRooms\Chatroom.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Chatroom.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ClassroomCommons\ClassroomCommons.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClassroomCommons.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Contact\Contact.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Contact.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DesktopSummary\Summary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Summary.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DesktopTeachers\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Desktop\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IndexTutors\Index.es.Designer.cs">
+      <DependentUpon>Index.es.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Views\IndexTutors\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\LessonPurchases\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ExchangeIndex\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Faq\faq.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>faq.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Feedback\Feedback.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Feedback.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Help\Help.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Help.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\HomeContact\contact.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>contact.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\HoursBag\HoursBag.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HoursBag.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IndexNatives\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Index\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Langroulette\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Layout\Layout.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Layout.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\LessonSalesCommon\SalesCommons.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesCommons.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\LessonSales\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\LessonScheduler\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\LoginRegister\LoginRegister.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LoginRegister.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Mails\Mail1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mail.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ManageAccount\ManageAccount.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ManageAccount.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MeetupBoard\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Messages\Inbox.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Inbox.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MyCalendar\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MyWallet\MyWallet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyWallet.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Partners\Partners.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Partners.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Pricing\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PrivateConversations\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ProfileApp\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\RecentApps\RecentApp.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RecentApp.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Report\Report.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\RightPanel\RightPanel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RightPanel.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ScheduleRequest\ScheduleRequest.es.Designer.cs">
+      <DependentUpon>ScheduleRequest.es.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Views\ScheduleRequest\ScheduleRequest.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ScheduleRequest.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Search\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\StudentClassroom\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\StudentIndex\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\StudentsCenter\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TeacherClassroom\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TeacherFinances\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TeacherProfile\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Teachers\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Teachers\Quickstart\Quick.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Quick.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TeachingApplication\Index.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Index.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\VideoChat\Videochat.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Videochat.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\VisitProfileApp\Profile.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Profile.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\WalletRoom\Room.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Room.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\WebRtcTest\WebRtcTest.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebRtcTest.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Apps\Apps.ca.resx" />
+    <EmbeddedResource Include="Apps\Apps.de.resx" />
+    <EmbeddedResource Include="Apps\Apps.es.resx" />
+    <EmbeddedResource Include="Apps\Apps.eu.resx" />
+    <EmbeddedResource Include="Apps\Apps.fr.resx" />
+    <EmbeddedResource Include="Apps\Apps.it.resx" />
+    <EmbeddedResource Include="Apps\Apps.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Apps1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Articles\Articles.es.resx" />
+    <EmbeddedResource Include="Articles\Articles.it.resx" />
+    <EmbeddedResource Include="Articles\Articles.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Articles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing\Billing.ca.resx" />
+    <EmbeddedResource Include="Billing\Billing.de.resx" />
+    <EmbeddedResource Include="Billing\Billing.es.resx" />
+    <EmbeddedResource Include="Billing\Billing.eu.resx" />
+    <EmbeddedResource Include="Billing\Billing.fr.resx" />
+    <EmbeddedResource Include="Billing\Billing.it.resx" />
+    <EmbeddedResource Include="Billing\Billing.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Billing.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\Account\Account.ca.resx" />
+    <EmbeddedResource Include="Controllers\Account\Account.de.resx" />
+    <EmbeddedResource Include="Controllers\Account\Account.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\Account\Account.eu.resx" />
+    <EmbeddedResource Include="Controllers\Account\Account.fr.resx" />
+    <EmbeddedResource Include="Controllers\Account\Account.it.resx" />
+    <EmbeddedResource Include="Controllers\Account\Account.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Account.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Core\Resources.ca.resx" />
+    <EmbeddedResource Include="Core\Resources.de.resx" />
+    <EmbeddedResource Include="Core\Resources.es.resx" />
+    <EmbeddedResource Include="Core\Resources.eu.resx" />
+    <EmbeddedResource Include="Core\Resources.fr.resx" />
+    <EmbeddedResource Include="Core\Resources.it.resx" />
+    <EmbeddedResource Include="Core\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Countries\Countries.ca.resx" />
+    <EmbeddedResource Include="Countries\Countries.de.resx" />
+    <EmbeddedResource Include="Countries\Countries.es.resx" />
+    <EmbeddedResource Include="Countries\Countries.eu.resx" />
+    <EmbeddedResource Include="Countries\Countries.fr.resx" />
+    <EmbeddedResource Include="Countries\Countries.it.resx" />
+    <EmbeddedResource Include="Countries\Countries.resx">
+      <LastGenOutput>Countries1.Designer.cs</LastGenOutput>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exceptions\Exceptions.ca.resx" />
+    <EmbeddedResource Include="Exceptions\Exceptions.de.resx" />
+    <EmbeddedResource Include="Exceptions\Exceptions.es.resx" />
+    <EmbeddedResource Include="Exceptions\Exceptions.eu.resx" />
+    <EmbeddedResource Include="Exceptions\Exceptions.fr.resx" />
+    <EmbeddedResource Include="Exceptions\Exceptions.it.resx" />
+    <EmbeddedResource Include="Exceptions\Exceptions.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Exceptions.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\Commons.es.resx" />
+    <EmbeddedResource Include="General\Commons.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Commons.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\CookieConsent.ca.resx" />
+    <EmbeddedResource Include="General\CookieConsent.de.resx" />
+    <EmbeddedResource Include="General\CookieConsent.es.resx" />
+    <EmbeddedResource Include="General\CookieConsent.eu.resx" />
+    <EmbeddedResource Include="General\CookieConsent.fr.resx" />
+    <EmbeddedResource Include="General\CookieConsent.it.resx" />
+    <EmbeddedResource Include="General\CookieConsent.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>CookieConsent.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\ServerNotifications.ca.resx" />
+    <EmbeddedResource Include="General\ServerNotifications.de.resx" />
+    <EmbeddedResource Include="General\ServerNotifications.es.resx" />
+    <EmbeddedResource Include="General\ServerNotifications.eu.resx" />
+    <EmbeddedResource Include="General\ServerNotifications.fr.resx" />
+    <EmbeddedResource Include="General\ServerNotifications.it.resx" />
+    <EmbeddedResource Include="General\ServerNotifications.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ServerNotifications.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.de.resx" />
+    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.es.resx" />
+    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.eu.resx" />
+    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.fr.resx" />
+    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.it.resx" />
+    <EmbeddedResource Include="Hubs\MessagingHub\MessagingHub.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>MessagingHub.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.de.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.es.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.it.resx" />
+    <EmbeddedResource Include="IdentityServer\Assets\Assets.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Events\Events.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\Events\Events.de.resx" />
+    <EmbeddedResource Include="IdentityServer\Events\Events.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Events.es.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Events\Events.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\Events\Events.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\Events\Events.it.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Events.it.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Events\Events.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Events.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.de.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.es.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.it.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Common\Common.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Common.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.de.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Login.es.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.it.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Login\Login.resx">
+      <SubType>Designer</SubType>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Login.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.de.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.es.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.it.resx" />
+    <EmbeddedResource Include="IdentityServer\ISViews\Logout\Logout.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Logout.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.de.resx" />
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.es.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.it.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.it.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Messages\Messages.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.ca.resx" />
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.de.resx" />
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Scopes.es.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.eu.resx" />
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.fr.resx" />
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.it.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Scopes.it.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityServer\Scopes\Scopes.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Scopes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JSMessages\JSMessages.ca.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JSMessages\JSMessages.eu.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.it.resx" />
+    <EmbeddedResource Include="JSMessages\JSMessages.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>JSMessages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Languages\LanguageLevels.ca.resx" />
+    <EmbeddedResource Include="Languages\LanguageLevels.de.resx" />
+    <EmbeddedResource Include="Languages\LanguageLevels.es.resx" />
+    <EmbeddedResource Include="Languages\LanguageLevels.eu.resx" />
+    <EmbeddedResource Include="Languages\LanguageLevels.fr.resx" />
+    <EmbeddedResource Include="Languages\LanguageLevels.it.resx" />
+    <EmbeddedResource Include="Languages\LanguageLevels.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>LanguageLevels.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Languages\Languages.ca.resx" />
+    <EmbeddedResource Include="Languages\Languages.de.resx" />
+    <EmbeddedResource Include="Languages\Languages.es.resx" />
+    <EmbeddedResource Include="Languages\Languages.eu.resx" />
+    <EmbeddedResource Include="Languages\Languages.fr.resx" />
+    <EmbeddedResource Include="Languages\Languages.it.resx" />
+    <EmbeddedResource Include="Languages\Languages.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Languages.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\Buttons\Buttons.ca.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.de.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.es.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.eu.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.fr.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.it.resx" />
+    <EmbeddedResource Include="Models\Buttons\Buttons.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Buttons.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\DateTime\DateTime.ca.resx" />
+    <EmbeddedResource Include="Models\DateTime\DateTime.de.resx" />
+    <EmbeddedResource Include="Models\DateTime\DateTime.es.resx" />
+    <EmbeddedResource Include="Models\DateTime\DateTime.eu.resx" />
+    <EmbeddedResource Include="Models\DateTime\DateTime.fr.resx" />
+    <EmbeddedResource Include="Models\DateTime\DateTime.it.resx" />
+    <EmbeddedResource Include="Models\DateTime\DateTime.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>DateTime.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\Section\Section.ca.resx" />
+    <EmbeddedResource Include="Models\Section\Section.de.resx" />
+    <EmbeddedResource Include="Models\Section\Section.es.resx" />
+    <EmbeddedResource Include="Models\Section\Section.eu.resx" />
+    <EmbeddedResource Include="Models\Section\Section.fr.resx" />
+    <EmbeddedResource Include="Models\Section\Section.it.resx" />
+    <EmbeddedResource Include="Models\Section\Section.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Section.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\Tiles\Tiles.ca.resx" />
+    <EmbeddedResource Include="Models\Tiles\Tiles.cat.resx" />
+    <EmbeddedResource Include="Models\Tiles\Tiles.de.resx" />
+    <EmbeddedResource Include="Models\Tiles\Tiles.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\Tiles\Tiles.eu.resx" />
+    <EmbeddedResource Include="Models\Tiles\Tiles.fr.resx" />
+    <EmbeddedResource Include="Models\Tiles\Tiles.it.resx" />
+    <EmbeddedResource Include="Models\Tiles\Tiles.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Tiles.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Routes\Routes.ca.resx" />
+    <EmbeddedResource Include="Routes\Routes.de.resx" />
+    <EmbeddedResource Include="Routes\Routes.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Routes\Routes.eu.resx" />
+    <EmbeddedResource Include="Routes\Routes.fr.resx" />
+    <EmbeddedResource Include="Routes\Routes.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Routes\Routes.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Routes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserData\UserData.ca.resx" />
+    <EmbeddedResource Include="UserData\UserData.de.resx" />
+    <EmbeddedResource Include="UserData\UserData.es.resx" />
+    <EmbeddedResource Include="UserData\UserData.eu.resx" />
+    <EmbeddedResource Include="UserData\UserData.fr.resx" />
+    <EmbeddedResource Include="UserData\UserData.it.resx" />
+    <EmbeddedResource Include="UserData\UserData.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>UserData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\Contacts\Contact.es.resx" />
+    <EmbeddedResource Include="ViewModels\Contacts\Contact.eu.resx" />
+    <EmbeddedResource Include="ViewModels\Contacts\Contact.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Contact.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.ca.resx" />
+    <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.de.resx" />
+    <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.es.resx" />
+    <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.eu.resx" />
+    <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.fr.resx" />
+    <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.it.resx" />
+    <EmbeddedResource Include="ViewModels\HoursBag\HoursBag.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>HoursBag.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.ca.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.de.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.es.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.eu.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.fr.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.it.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Categories.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Categories.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.ca.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.de.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.es.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.eu.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.fr.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.it.resx" />
+    <EmbeddedResource Include="ViewModels\Meetups\Topics.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Topics.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\Notifications\Notification.ca.resx" />
+    <EmbeddedResource Include="ViewModels\Notifications\Notification.de.resx" />
+    <EmbeddedResource Include="ViewModels\Notifications\Notification.es.resx" />
+    <EmbeddedResource Include="ViewModels\Notifications\Notification.eu.resx" />
+    <EmbeddedResource Include="ViewModels\Notifications\Notification.fr.resx" />
+    <EmbeddedResource Include="ViewModels\Notifications\Notification.it.resx" />
+    <EmbeddedResource Include="ViewModels\Notifications\Notification.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Notification.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.ca.resx" />
+    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.de.resx" />
+    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.es.resx" />
+    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.fr.resx" />
+    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.it.resx" />
+    <EmbeddedResource Include="ViewModels\VideoChatReport\VideoChatReport.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>VideoChatReport.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\AccountManager\Index.ca.resx" />
+    <EmbeddedResource Include="Views\AccountManager\Index.de.resx" />
+    <EmbeddedResource Include="Views\AccountManager\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\AccountManager\Index.eu.resx" />
+    <EmbeddedResource Include="Views\AccountManager\Index.fr.resx" />
+    <EmbeddedResource Include="Views\AccountManager\Index.it.resx" />
+    <EmbeddedResource Include="Views\AccountManager\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Blog\Blog.ca.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.de.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.es.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.eu.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.fr.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.it.resx" />
+    <EmbeddedResource Include="Views\Blog\Blog.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Blog.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\BookLessons\Index.es.resx" />
+    <EmbeddedResource Include="Views\BookLessons\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.ca.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.de.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.fr.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.it.resx" />
+    <EmbeddedResource Include="Views\ChatRooms\Chatroom.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Chatroom.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ClassroomCommons\ClassroomCommons.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ClassroomCommons.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Contact\Contact.ca.resx" />
+    <EmbeddedResource Include="Views\Contact\Contact.de.resx" />
+    <EmbeddedResource Include="Views\Contact\Contact.es.resx" />
+    <EmbeddedResource Include="Views\Contact\Contact.eu.resx" />
+    <EmbeddedResource Include="Views\Contact\Contact.fr.resx" />
+    <EmbeddedResource Include="Views\Contact\Contact.it.resx" />
+    <EmbeddedResource Include="Views\Contact\Contact.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Contact.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.ca.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.de.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.eu.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.fr.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.it.resx" />
+    <EmbeddedResource Include="Views\DesktopSummary\Summary.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Summary.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DesktopTeachers\Index.es.resx" />
+    <EmbeddedResource Include="Views\DesktopTeachers\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Desktop\Index.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Desktop\Index.de.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Desktop\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Desktop\Index.fr.resx" />
+    <EmbeddedResource Include="Views\Desktop\Index.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Desktop\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexTutors\Index.ca.resx" />
+    <EmbeddedResource Include="Views\IndexTutors\Index.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.es.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexTutors\Index.eu.resx" />
+    <EmbeddedResource Include="Views\IndexTutors\Index.it.resx" />
+    <EmbeddedResource Include="Views\IndexTutors\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LessonPurchases\Index.es.resx" />
+    <EmbeddedResource Include="Views\LessonPurchases\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.ca.resx" />
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.de.resx" />
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.fr.resx" />
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.it.resx" />
+    <EmbeddedResource Include="Views\ExchangeIndex\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Faq\faq.ca.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.de.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.es.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.eu.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.fr.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.it.resx" />
+    <EmbeddedResource Include="Views\Faq\faq.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>faq.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Feedback\Feedback.ca.resx" />
+    <EmbeddedResource Include="Views\Feedback\Feedback.de.resx" />
+    <EmbeddedResource Include="Views\Feedback\Feedback.es.resx" />
+    <EmbeddedResource Include="Views\Feedback\Feedback.eu.resx" />
+    <EmbeddedResource Include="Views\Feedback\Feedback.fr.resx" />
+    <EmbeddedResource Include="Views\Feedback\Feedback.it.resx" />
+    <EmbeddedResource Include="Views\Feedback\Feedback.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Feedback.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Help\Help.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Help\Help.de.resx" />
+    <EmbeddedResource Include="Views\Help\Help.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Help\Help.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Help\Help.fr.resx" />
+    <EmbeddedResource Include="Views\Help\Help.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Help\Help.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Help.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\HomeContact\contact.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>contact.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\HoursBag\HoursBag.ca.resx" />
+    <EmbeddedResource Include="Views\HoursBag\HoursBag.de.resx" />
+    <EmbeddedResource Include="Views\HoursBag\HoursBag.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\HoursBag\HoursBag.eu.resx" />
+    <EmbeddedResource Include="Views\HoursBag\HoursBag.fr.resx" />
+    <EmbeddedResource Include="Views\HoursBag\HoursBag.it.resx" />
+    <EmbeddedResource Include="Views\HoursBag\HoursBag.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>HoursBag.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexNatives\Index.ca.resx" />
+    <EmbeddedResource Include="Views\IndexNatives\Index.de.resx" />
+    <EmbeddedResource Include="Views\IndexNatives\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexNatives\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IndexNatives\Index.fr.resx" />
+    <EmbeddedResource Include="Views\IndexNatives\Index.it.resx" />
+    <EmbeddedResource Include="Views\IndexNatives\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Index\Index.ca.resx" />
+    <EmbeddedResource Include="Views\Index\Index.de.resx" />
+    <EmbeddedResource Include="Views\Index\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Index\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Index\Index.fr.resx" />
+    <EmbeddedResource Include="Views\Index\Index.it.resx" />
+    <EmbeddedResource Include="Views\Index\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Langroulette\Index.ca.resx" />
+    <EmbeddedResource Include="Views\Langroulette\Index.de.resx" />
+    <EmbeddedResource Include="Views\Langroulette\Index.es.resx" />
+    <EmbeddedResource Include="Views\Langroulette\Index.eu.resx" />
+    <EmbeddedResource Include="Views\Langroulette\Index.fr.resx" />
+    <EmbeddedResource Include="Views\Langroulette\Index.it.resx" />
+    <EmbeddedResource Include="Views\Langroulette\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Layout\Layout.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Layout\Layout.de.resx" />
+    <EmbeddedResource Include="Views\Layout\Layout.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Layout\Layout.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Layout\Layout.fr.resx" />
+    <EmbeddedResource Include="Views\Layout\Layout.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Layout\Layout.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Layout.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LessonSalesCommon\SalesCommons.es.resx" />
+    <EmbeddedResource Include="Views\LessonSalesCommon\SalesCommons.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>SalesCommons.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LessonSales\Index.es.resx" />
+    <EmbeddedResource Include="Views\LessonSales\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LessonScheduler\Index.ca.resx" />
+    <EmbeddedResource Include="Views\LessonScheduler\Index.de.resx" />
+    <EmbeddedResource Include="Views\LessonScheduler\Index.es.resx" />
+    <EmbeddedResource Include="Views\LessonScheduler\Index.eu.resx" />
+    <EmbeddedResource Include="Views\LessonScheduler\Index.fr.resx" />
+    <EmbeddedResource Include="Views\LessonScheduler\Index.it.resx" />
+    <EmbeddedResource Include="Views\LessonScheduler\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.de.resx" />
+    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.fr.resx" />
+    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.it.resx" />
+    <EmbeddedResource Include="Views\LoginRegister\LoginRegister.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>LoginRegister.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Mails\Mail.ca.resx" />
+    <EmbeddedResource Include="Views\Mails\Mail.de.resx" />
+    <EmbeddedResource Include="Views\Mails\Mail.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Mails\Mail.eu.resx" />
+    <EmbeddedResource Include="Views\Mails\Mail.fr.resx" />
+    <EmbeddedResource Include="Views\Mails\Mail.it.resx" />
+    <EmbeddedResource Include="Views\Mails\Mail.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Mail1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ManageAccount\ManageAccount.ca.resx" />
+    <EmbeddedResource Include="Views\ManageAccount\ManageAccount.de.resx" />
+    <EmbeddedResource Include="Views\ManageAccount\ManageAccount.es.resx" />
+    <EmbeddedResource Include="Views\ManageAccount\ManageAccount.eu.resx" />
+    <EmbeddedResource Include="Views\ManageAccount\ManageAccount.fr.resx" />
+    <EmbeddedResource Include="Views\ManageAccount\ManageAccount.it.resx" />
+    <EmbeddedResource Include="Views\ManageAccount\ManageAccount.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ManageAccount.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MeetupBoard\Index.ca.resx" />
+    <EmbeddedResource Include="Views\MeetupBoard\Index.de.resx" />
+    <EmbeddedResource Include="Views\MeetupBoard\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MeetupBoard\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MeetupBoard\Index.fr.resx" />
+    <EmbeddedResource Include="Views\MeetupBoard\Index.it.resx" />
+    <EmbeddedResource Include="Views\MeetupBoard\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Messages\Inbox.ca.resx" />
+    <EmbeddedResource Include="Views\Messages\Inbox.de.resx" />
+    <EmbeddedResource Include="Views\Messages\Inbox.es.resx" />
+    <EmbeddedResource Include="Views\Messages\Inbox.eu.resx" />
+    <EmbeddedResource Include="Views\Messages\Inbox.fr.resx" />
+    <EmbeddedResource Include="Views\Messages\Inbox.it.resx" />
+    <EmbeddedResource Include="Views\Messages\Inbox.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Inbox.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyCalendar\Index.ca.resx" />
+    <EmbeddedResource Include="Views\MyCalendar\Index.es.resx" />
+    <EmbeddedResource Include="Views\MyCalendar\Index.eu.resx" />
+    <EmbeddedResource Include="Views\MyCalendar\Index.it.resx" />
+    <EmbeddedResource Include="Views\MyCalendar\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.ca.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.de.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.fr.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.it.resx" />
+    <EmbeddedResource Include="Views\MyWallet\MyWallet.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>MyWallet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Partners\Partners.ca.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.de.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.es.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.eu.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.fr.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.it.resx" />
+    <EmbeddedResource Include="Views\Partners\Partners.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Partners.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Pricing\Index.ca.resx" />
+    <EmbeddedResource Include="Views\Pricing\Index.de.resx" />
+    <EmbeddedResource Include="Views\Pricing\Index.es.resx" />
+    <EmbeddedResource Include="Views\Pricing\Index.eu.resx" />
+    <EmbeddedResource Include="Views\Pricing\Index.fr.resx" />
+    <EmbeddedResource Include="Views\Pricing\Index.it.resx" />
+    <EmbeddedResource Include="Views\Pricing\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\PrivateConversations\Index.ca.resx" />
+    <EmbeddedResource Include="Views\PrivateConversations\Index.es.resx" />
+    <EmbeddedResource Include="Views\PrivateConversations\Index.eu.resx" />
+    <EmbeddedResource Include="Views\PrivateConversations\Index.it.resx" />
+    <EmbeddedResource Include="Views\PrivateConversations\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ProfileApp\Index.ca.resx" />
+    <EmbeddedResource Include="Views\ProfileApp\Index.de.resx" />
+    <EmbeddedResource Include="Views\ProfileApp\Index.es.resx" />
+    <EmbeddedResource Include="Views\ProfileApp\Index.eu.resx" />
+    <EmbeddedResource Include="Views\ProfileApp\Index.fr.resx" />
+    <EmbeddedResource Include="Views\ProfileApp\Index.it.resx" />
+    <EmbeddedResource Include="Views\ProfileApp\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.ca.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.de.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.es.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.eu.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.fr.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.it.resx" />
+    <EmbeddedResource Include="Views\RecentApps\RecentApp.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>RecentApp.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Report\Report.ca.resx" />
+    <EmbeddedResource Include="Views\Report\Report.de.resx" />
+    <EmbeddedResource Include="Views\Report\Report.es.resx" />
+    <EmbeddedResource Include="Views\Report\Report.eu.resx" />
+    <EmbeddedResource Include="Views\Report\Report.fr.resx" />
+    <EmbeddedResource Include="Views\Report\Report.it.resx" />
+    <EmbeddedResource Include="Views\Report\Report.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Report.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\RightPanel\RightPanel.ca.resx" />
+    <EmbeddedResource Include="Views\RightPanel\RightPanel.de.resx" />
+    <EmbeddedResource Include="Views\RightPanel\RightPanel.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\RightPanel\RightPanel.eu.resx" />
+    <EmbeddedResource Include="Views\RightPanel\RightPanel.fr.resx" />
+    <EmbeddedResource Include="Views\RightPanel\RightPanel.it.resx" />
+    <EmbeddedResource Include="Views\RightPanel\RightPanel.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>RightPanel.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.ca.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.de.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ScheduleRequest.es.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.fr.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.it.resx" />
+    <EmbeddedResource Include="Views\ScheduleRequest\ScheduleRequest.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ScheduleRequest.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Search\Index.ca.resx" />
+    <EmbeddedResource Include="Views\Search\Index.de.resx" />
+    <EmbeddedResource Include="Views\Search\Index.es.resx" />
+    <EmbeddedResource Include="Views\Search\Index.eu.resx" />
+    <EmbeddedResource Include="Views\Search\Index.fr.resx" />
+    <EmbeddedResource Include="Views\Search\Index.it.resx" />
+    <EmbeddedResource Include="Views\Search\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentClassroom\Index.ca.resx" />
+    <EmbeddedResource Include="Views\StudentClassroom\Index.es.resx" />
+    <EmbeddedResource Include="Views\StudentClassroom\Index.eu.resx" />
+    <EmbeddedResource Include="Views\StudentClassroom\Index.it.resx" />
+    <EmbeddedResource Include="Views\StudentClassroom\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentIndex\Index.ca.resx" />
+    <EmbeddedResource Include="Views\StudentIndex\Index.de.resx" />
+    <EmbeddedResource Include="Views\StudentIndex\Index.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentIndex\Index.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentIndex\Index.fr.resx" />
+    <EmbeddedResource Include="Views\StudentIndex\Index.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentIndex\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\StudentsCenter\Index.ca.resx" />
+    <EmbeddedResource Include="Views\StudentsCenter\Index.es.resx" />
+    <EmbeddedResource Include="Views\StudentsCenter\Index.eu.resx" />
+    <EmbeddedResource Include="Views\StudentsCenter\Index.it.resx" />
+    <EmbeddedResource Include="Views\StudentsCenter\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.ca.resx" />
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.es.resx" />
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.eu.resx" />
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.it.resx" />
+    <EmbeddedResource Include="Views\TeacherClassroom\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TeacherFinances\Index.ca.resx" />
+    <EmbeddedResource Include="Views\TeacherFinances\Index.es.resx" />
+    <EmbeddedResource Include="Views\TeacherFinances\Index.eu.resx" />
+    <EmbeddedResource Include="Views\TeacherFinances\Index.it.resx" />
+    <EmbeddedResource Include="Views\TeacherFinances\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TeacherProfile\Index.ca.resx" />
+    <EmbeddedResource Include="Views\TeacherProfile\Index.de.resx" />
+    <EmbeddedResource Include="Views\TeacherProfile\Index.es.resx" />
+    <EmbeddedResource Include="Views\TeacherProfile\Index.eu.resx" />
+    <EmbeddedResource Include="Views\TeacherProfile\Index.fr.resx" />
+    <EmbeddedResource Include="Views\TeacherProfile\Index.it.resx" />
+    <EmbeddedResource Include="Views\TeacherProfile\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Teachers\Index.ca.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.de.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.es.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.eu.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.fr.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.it.resx" />
+    <EmbeddedResource Include="Views\Teachers\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+<<<<<<< HEAD
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.ca.resx" />
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.es.resx" />
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.eu.resx" />
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.it.resx" />
+=======
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.es.resx" />
+>>>>>>> b6bde8247ba27fa567d728c0f0c1d55367010cf4
+    <EmbeddedResource Include="Views\Teachers\Quickstart\Quick.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Quick.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TeachingApplication\Index.ca.resx" />
+    <EmbeddedResource Include="Views\TeachingApplication\Index.es.resx" />
+    <EmbeddedResource Include="Views\TeachingApplication\Index.eu.resx" />
+    <EmbeddedResource Include="Views\TeachingApplication\Index.it.resx" />
+    <EmbeddedResource Include="Views\TeachingApplication\Index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\VideoChat\Videochat.ca.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\VideoChat\Videochat.de.resx" />
+    <EmbeddedResource Include="Views\VideoChat\Videochat.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\VideoChat\Videochat.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\VideoChat\Videochat.fr.resx" />
+    <EmbeddedResource Include="Views\VideoChat\Videochat.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\VideoChat\Videochat.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Videochat.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\VisitProfileApp\Profile.ca.resx" />
+    <EmbeddedResource Include="Views\VisitProfileApp\Profile.de.resx" />
+    <EmbeddedResource Include="Views\VisitProfileApp\Profile.es.resx" />
+    <EmbeddedResource Include="Views\VisitProfileApp\Profile.eu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\VisitProfileApp\Profile.fr.resx" />
+    <EmbeddedResource Include="Views\VisitProfileApp\Profile.it.resx" />
+    <EmbeddedResource Include="Views\VisitProfileApp\Profile.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Profile.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\WalletRoom\Room.ca.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.de.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.es.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.eu.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.fr.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.it.resx" />
+    <EmbeddedResource Include="Views\WalletRoom\Room.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Room.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\WebRtcTest\WebRtcTest.es.resx" />
+    <EmbeddedResource Include="Views\WebRtcTest\WebRtcTest.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WebRtcTest.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

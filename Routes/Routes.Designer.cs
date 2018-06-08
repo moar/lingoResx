@@ -97,11 +97,38 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/check-profile/.
+        /// </summary>
+        public static string check_profile {
+            get {
+                return ResourceManager.GetString("check-profile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/classrooms/.
+        /// </summary>
+        public static string classrooms {
+            get {
+                return ResourceManager.GetString("classrooms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to conversation-exchange-meetups.
         /// </summary>
         public static string conversation_exchange_meetups {
             get {
                 return ResourceManager.GetString("conversation-exchange-meetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/dashboard/.
+        /// </summary>
+        public static string dashboard {
+            get {
+                return ResourceManager.GetString("dashboard", resourceCulture);
             }
         }
         
@@ -156,6 +183,15 @@ namespace Resources.Routes {
         public static string exchange_topics {
             get {
                 return ResourceManager.GetString("exchange-topics", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/finances-intro/.
+        /// </summary>
+        public static string finances_intro {
+            get {
+                return ResourceManager.GetString("finances-intro", resourceCulture);
             }
         }
         
@@ -430,6 +466,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/lesson-sales/.
+        /// </summary>
+        public static string lesson_sales {
+            get {
+                return ResourceManager.GetString("lesson-sales", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to online-language-exchange/meetups/{meetid:guid}/{meetupName}/.
         /// </summary>
         public static string meetup_guid {
@@ -453,6 +498,15 @@ namespace Resources.Routes {
         public static string meetups {
             get {
                 return ResourceManager.GetString("meetups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/my-calendar/.
+        /// </summary>
+        public static string my_calendar {
+            get {
+                return ResourceManager.GetString("my-calendar", resourceCulture);
             }
         }
         
@@ -565,6 +619,24 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/recommendations-profile/.
+        /// </summary>
+        public static string recommendations_profile {
+            get {
+                return ResourceManager.GetString("recommendations-profile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/schedule-process/.
+        /// </summary>
+        public static string schedule_process {
+            get {
+                return ResourceManager.GetString("schedule-process", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to search.
         /// </summary>
         public static string search {
@@ -610,6 +682,15 @@ namespace Resources.Routes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to help/what-you-can-do/.
+        /// </summary>
+        public static string teachers_can_do {
+            get {
+                return ResourceManager.GetString("teachers-can-do", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to teach-online/quickstart/.
         /// </summary>
         public static string teachers_quickstart {
@@ -651,6 +732,15 @@ namespace Resources.Routes {
         public static string tutors {
             get {
                 return ResourceManager.GetString("tutors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to help/wallet-intro/.
+        /// </summary>
+        public static string wallet_intro {
+            get {
+                return ResourceManager.GetString("wallet-intro", resourceCulture);
             }
         }
         
