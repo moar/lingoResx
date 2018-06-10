@@ -414,7 +414,16 @@
   <data name="NextLessons" xml:space="preserve">
     <value>Siguientes clases</value>
   </data>
+  <data name="TeachersDescr" xml:space="preserve">
+    <value>Profesores certificados con experiencia en enseñanza a estudiantes no nativos</value>
+  </data>
   <data name="TutoringSessions" xml:space="preserve">
     <value>Tutorias</value>
+  </data>
+  <data name="TutorsDescr" xml:space="preserve">
+    <value>Hablantes nativos que ofrecen conversaciones de pago</value>
+  </data>
+  <data name="UnscheduledLessons" xml:space="preserve">
+    <value>Clases sin programar</value>
   </data>
 </root>
