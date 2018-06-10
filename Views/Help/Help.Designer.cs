@@ -19,7 +19,7 @@ namespace Resources.Views.Help {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Help {
@@ -1547,7 +1547,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wallet video calls introduction.
+        ///   Looks up a localized string similar to Lessons with teachers and conversations with tutors.
         /// </summary>
         public static string HelpWalletRoomsTitle {
             get {
@@ -1574,7 +1574,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wallet video calls are for those who do not have time for time banking and want to practice languages with native speakers. .
+        ///   Looks up a localized string similar to You have to paid options to learn a language in Langademy: 1 to 1 lessons with teachers or paid conversations with tutors..
         /// </summary>
         public static string HelpWCIntro1 {
             get {
@@ -1583,7 +1583,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to As a student, you begin purchasing Langademy credits that are deposited in your Wallet account. You spend your credits when you call a native speaker (Level C2 or Native). You will pay for the exact amount of time that you talk but, as an exception, when the call begins, you have 3 minutes to decide if you want to go on with the conversation. In case you hang up, you won&apos;t be charged.
+        ///   Looks up a localized string similar to As a student, you begin purchasing Langademy credits that are deposited in your Wallet account. You spend your credits when you have a lesson with a teacher of a conversation with a tutor. In case of lesson, you will pay for each lessons. In case of paid conversations with tutors, you will pay the exact amount of time that you talk but, as an exception, when the call begins, you have 3 minutes to decide if you want to go on with the conversation..
         /// </summary>
         public static string HelpWCIntro2 {
             get {
@@ -1592,7 +1592,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to As a native, you have to set your rate per hour of conversation. You will earn credits with each video call according to its duration. You can set different rates per language. .
+        ///   Looks up a localized string similar to If you want to be a tutor, you have to set your rate per hour of conversation. You will earn credits with each video call according to its duration. You can set different rates per language. .
         /// </summary>
         public static string HelpWCIntro3 {
             get {
@@ -1700,7 +1700,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Langademy is a social network where students and native speakers can practice languages making video calls. You can choose between two video call modalities: Wallet calls or Time Banking calls..
+        ///   Looks up a localized string similar to Langademy is a social network where students and native speakers can practice languages making video calls. You have 3 ways to learn languages: professional teachers, tutors and language exchanges..
         /// </summary>
         public static string HelpWhatYouCanDo1 {
             get {
@@ -1709,7 +1709,7 @@ namespace Resources.Views.Help {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In a Wallet call, language students pay natives to have private conversations. If a time banking call is made, time is used as a trade. Check the {0} and the {1} sections for more information about these type of calls..
+        ///   Looks up a localized string similar to You will use your Wallet credits to pay teachers and tutors. For language exchanges, time is used as a trade, where your Time Bank credits are used..
         /// </summary>
         public static string HelpWhatYouCanDo2 {
             get {
