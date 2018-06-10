@@ -421,7 +421,7 @@ namespace Resources.Views.Desktop {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Here you can configure if you are available to receive videocalls in your native languages. You can also choose if you want Langademy to automatically find a partner for you to make a call.
+        ///   Looks up a localized string similar to Here you can configure if you are available to receive videocalls in your native languages. .
         /// </summary>
         public static string DeskTimeBankDescription {
             get {
