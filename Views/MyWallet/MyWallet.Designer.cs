@@ -637,7 +637,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Id you have a Langademy&apos;s promotional code, enter it here.
+        ///   Looks up a localized string similar to If you have a Langademy&apos;s promotional code, enter it here.
         /// </summary>
         public static string EnterLangademyCoupon {
             get {
@@ -1276,7 +1276,7 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This coupon is only valid paying with {0}.
+        ///   Looks up a localized string similar to This coupon is only valid for paying with {0}.
         /// </summary>
         public static string PromPayMethodMsg {
             get {

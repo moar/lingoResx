@@ -653,10 +653,10 @@
     <value>This promotion is over</value>
   </data>
   <data name="PromPayMethodMsg" xml:space="preserve">
-    <value>This coupon is only valid paying with {0}</value>
+    <value>This coupon is only valid for paying with {0}</value>
   </data>
   <data name="EnterLangademyCoupon" xml:space="preserve">
-    <value>Id you have a Langademy's promotional code, enter it here</value>
+    <value>If you have a Langademy's promotional code, enter it here</value>
   </data>
   <data name="SumPromotionCreditsMsg" xml:space="preserve">
     <value>{0} extra credits will be added to your Wallet account</value>
