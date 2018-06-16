@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-    <xsd:element msdata:IsDataSet="true" name="root">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
-                <xsd:element minOccurs="0" msdata:Ordinal="2" name="comment" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute msdata:Ordinal="1" name="name" type="xsd:string" use="required"/>
-              <xsd:attribute msdata:Ordinal="3" name="type" type="xsd:string"/>
-              <xsd:attribute msdata:Ordinal="4" name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element minOccurs="0" msdata:Ordinal="1" name="value" type="xsd:string"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -627,5 +627,41 @@
   </data>
   <data name="LOrderCompletedTitle" xml:space="preserve">
     <value>Lesson purchase</value>
+  </data>
+  <data name="CreditCard" xml:space="preserve">
+    <value>credit card</value>
+  </data>
+  <data name="PromInvalidCouponMsg" xml:space="preserve">
+    <value>Invalid coupon</value>
+  </data>
+  <data name="PromMaxUsagesMsg" xml:space="preserve">
+    <value>All the coupons have been consumed</value>
+  </data>
+  <data name="PromMaxUsagesPerUserMsg" xml:space="preserve">
+    <value>You already used this coupon</value>
+  </data>
+  <data name="PromMinPurchaseMsg" xml:space="preserve">
+    <value>The minimum purchase for this promotion is: {0} credits</value>
+  </data>
+  <data name="PromNotStartedMsg" xml:space="preserve">
+    <value>The promotion has not started yet</value>
+  </data>
+  <data name="PromotionIncomeConcept" xml:space="preserve">
+    <value>Credits purchase promotion</value>
+  </data>
+  <data name="PromOverMsg" xml:space="preserve">
+    <value>This promotion is over</value>
+  </data>
+  <data name="PromPayMethodMsg" xml:space="preserve">
+    <value>This coupon is only valid paying with {0}</value>
+  </data>
+  <data name="EnterLangademyCoupon" xml:space="preserve">
+    <value>Id you have a Langademy's promotional code, enter it here</value>
+  </data>
+  <data name="SumPromotionCreditsMsg" xml:space="preserve">
+    <value>{0} extra credits will be added to your Wallet account</value>
+  </data>
+  <data name="Promotions" xml:space="preserve">
+    <value>Promotions</value>
   </data>
 </root>

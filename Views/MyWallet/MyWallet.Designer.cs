@@ -583,6 +583,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to credit card.
+        /// </summary>
+        public static string CreditCard {
+            get {
+                return ResourceManager.GetString("CreditCard", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Invoicing data.
         /// </summary>
         public static string CShopBillInfo {
@@ -624,6 +633,15 @@ namespace Resources.Views.MyWallet {
         public static string CShopTransactions {
             get {
                 return ResourceManager.GetString("CShopTransactions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Id you have a Langademy&apos;s promotional code, enter it here.
+        /// </summary>
+        public static string EnterLangademyCoupon {
+            get {
+                return ResourceManager.GetString("EnterLangademyCoupon", resourceCulture);
             }
         }
         
@@ -1186,6 +1204,87 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Invalid coupon.
+        /// </summary>
+        public static string PromInvalidCouponMsg {
+            get {
+                return ResourceManager.GetString("PromInvalidCouponMsg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All the coupons have been consumed.
+        /// </summary>
+        public static string PromMaxUsagesMsg {
+            get {
+                return ResourceManager.GetString("PromMaxUsagesMsg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You already used this coupon.
+        /// </summary>
+        public static string PromMaxUsagesPerUserMsg {
+            get {
+                return ResourceManager.GetString("PromMaxUsagesPerUserMsg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The minimum purchase for this promotion is: {0} credits.
+        /// </summary>
+        public static string PromMinPurchaseMsg {
+            get {
+                return ResourceManager.GetString("PromMinPurchaseMsg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The promotion has not started yet.
+        /// </summary>
+        public static string PromNotStartedMsg {
+            get {
+                return ResourceManager.GetString("PromNotStartedMsg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credits purchase promotion.
+        /// </summary>
+        public static string PromotionIncomeConcept {
+            get {
+                return ResourceManager.GetString("PromotionIncomeConcept", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Promotions.
+        /// </summary>
+        public static string Promotions {
+            get {
+                return ResourceManager.GetString("Promotions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This promotion is over.
+        /// </summary>
+        public static string PromOverMsg {
+            get {
+                return ResourceManager.GetString("PromOverMsg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This coupon is only valid paying with {0}.
+        /// </summary>
+        public static string PromPayMethodMsg {
+            get {
+                return ResourceManager.GetString("PromPayMethodMsg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to An error has occurred during the purchasing process.
         /// </summary>
         public static string PurchaseError {
@@ -1434,6 +1533,15 @@ namespace Resources.Views.MyWallet {
         public static string StudentAccount {
             get {
                 return ResourceManager.GetString("StudentAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} extra credits will be added to your Wallet account.
+        /// </summary>
+        public static string SumPromotionCreditsMsg {
+            get {
+                return ResourceManager.GetString("SumPromotionCreditsMsg", resourceCulture);
             }
         }
         
