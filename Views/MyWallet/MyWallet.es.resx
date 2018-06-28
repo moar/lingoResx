@@ -663,4 +663,7 @@
   <data name="Promotions" xml:space="preserve">
     <value>Promociones</value>
   </data>
+  <data name="PromotionalCode" xml:space="preserve">
+    <value>Cupón promocional</value>
+  </data>
 </root>

@@ -1249,6 +1249,15 @@ namespace Resources.Views.MyWallet {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Promotional code.
+        /// </summary>
+        public static string PromotionalCode {
+            get {
+                return ResourceManager.GetString("PromotionalCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Credits purchase promotion.
         /// </summary>
         public static string PromotionIncomeConcept {

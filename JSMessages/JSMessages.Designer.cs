@@ -556,6 +556,15 @@ namespace Resources.JSMessages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If you grant Langademy permissions for determining your location, we will show the approximate price in your local currency.
+        /// </summary>
+        public static string GrantGeoPermissions {
+            get {
+                return ResourceManager.GetString("GrantGeoPermissions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  Help.
         /// </summary>
         public static string help {
